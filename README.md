@@ -11,7 +11,7 @@ Protótipo sem backend de uma plataforma gratuita de exercícios de Matemática 
 - progresso salvo no próprio navegador com `localStorage`;
 - layout responsivo para computador e celular.
 
-A identidade visual segue o contrato documentado em `DESIGN.md`: uma linguagem de caderno de exercícios universitário, com fontes locais e sem dependência de serviços externos para carregar a tipografia.
+A identidade visual usa uma linguagem de caderno de exercícios universitário, com fontes locais e sem dependência de serviços externos para carregar a tipografia. Documentos internos de design, planejamento e auditoria são mantidos apenas localmente e não fazem parte deste repositório.
 
 ## Rodar no computador
 
@@ -42,7 +42,7 @@ O Laboratório tem áreas próprias para Gráficos, Círculo trigonométrico, Ge
 
 Para verificar os cálculos, as preferências e a compatibilidade das explorações com Node.js 24+, execute `node --test scripts/lab_math.test.mjs scripts/lab_evolution.test.mjs scripts/lab_preferences.test.mjs`.
 
-A auditoria das 24 questões iniciais e suas fontes está em [AUDITORIA_QUESTOES.md](AUDITORIA_QUESTOES.md). Os enunciados são traduções/adaptações de quatro obras da OpenStax, sob as licenças indicadas em cada questão. Os créditos também aparecem nas telas que mostram enunciados. A pesquisa de fontes para ampliar o acervo está em [FONTES_EXERCICIOS.md](FONTES_EXERCICIOS.md); a primeira importação posterior é documentada em [IMPORTACAO_IA2_CAP1.md](IMPORTACAO_IA2_CAP1.md).
+Os enunciados são traduções/adaptações de quatro obras da OpenStax, sob as licenças indicadas em cada questão. Os créditos também aparecem nas telas que mostram enunciados.
 
 Para conferir as regressões da auditoria: `python scripts/test_question_audit.py`. Para os filtros e setas: `node --test scripts/question_navigation.test.mjs`.
 
@@ -52,17 +52,17 @@ Se as dependências já estiverem instaladas, basta executar `npm run dev`. O pr
 
 ## Atualizar o banco de questões
 
-O banco tem **1.155 questões ativas e 410 arquivadas**, com limite de 15 por dificuldade em cada tópico. A varredura dos 12 capítulos de Intermediate Algebra 2e acrescentou 937 questões somente nas vagas disponíveis; os excedentes anteriores permaneceram intactos. O catálogo reunido soma 1.565 registros. Consulte [AMPLIACAO_IA2_LIVRO.md](AMPLIACAO_IA2_LIVRO.md) para a cobertura atual e [LIMITES_QUESTOES.md](LIMITES_QUESTOES.md) para seleção e recuperação. A importação histórica do capítulo 1 está em [IMPORTACAO_IA2_CAP1_COMPLETO.md](IMPORTACAO_IA2_CAP1_COMPLETO.md).
+O banco tem **1.155 questões ativas e 410 arquivadas**, com limite de 15 por dificuldade em cada tópico. A varredura dos 12 capítulos de Intermediate Algebra 2e acrescentou 937 questões somente nas vagas disponíveis; os excedentes anteriores permaneceram intactos. O catálogo reunido soma 1.565 registros.
 
 O filtro Referência inclui “Intermediate Algebra 2e — Todas as questões ativas”, combinável com tópico e dificuldade. Resoluções de exercícios gráficos incluem um esboço com a mesma escala nos dois eixos.
 
-O guia atualizado das ferramentas implementadas nas etapas 1, 2, 4 e 5 está em LABORATORIO.md. Ele descreve propriedades, três métodos de Riemann, trigonometria com fase e unidades, geometria, continuidade e o mapa conectado ao banco.
+O Laboratório inclui propriedades, três métodos de Riemann, trigonometria com fase e unidades, geometria, continuidade e o mapa conectado ao banco.
 
 O catálogo tem 32 tópicos distribuídos entre Matemática Básica, Pré-Cálculo e Cálculo 1. Tópicos vazios também aparecem no filtro com a indicação “sem questões”; as famílias e a composição têm Funções como tópico pai. O catálogo completo e as contagens são exportados em `topics`, junto com `questions`, no JSON público. Para adicionar um tópico, inclua-o em `topics` no seed e regenere os dados; ele não precisa ter questões.
 
-A primeira importação por referência completou os 81 exercícios da revisão do capítulo 1 de Intermediate Algebra 2e: 78 novos e três preservados. Consulte [IMPORTACAO_IA2_CAP1.md](IMPORTACAO_IA2_CAP1.md) para cobertura, novos tópicos e adaptações. O filtro Referência usa o número original para ordenar as questões e as setas; os demais filtros continuam combináveis. As questões de localização na reta mostram um esboço proporcional na resolução.
+A primeira importação por referência completou os 81 exercícios da revisão do capítulo 1 de Intermediate Algebra 2e: 78 novos e três preservados. O filtro Referência usa o número original para ordenar as questões e as setas; os demais filtros continuam combináveis. As questões de localização na reta mostram um esboço proporcional na resolução.
 
-O plano proposto para evolução do Laboratório está em `PLANO_EVOLUCAO.md`. As etapas 1, 2, 4 e 5 já foram implementadas. Expressões livres e calculadoras adicionais continuam planejadas.
+Expressões livres e calculadoras adicionais continuam planejadas para o Laboratório.
 
 Edite `database/seeds/pilot_questions.json` e execute:
 
@@ -85,7 +85,6 @@ Os arquivos prontos para publicação serão criados em `dist/`. Como o projeto 
 ## Estrutura principal
 
 - `src/`: interface React;
-- `DESIGN.md`: contrato de cores, tipografia, componentes e regras visuais;
 - `database/schema.sql`: estrutura relacional do banco;
 - `database/seeds/pilot_questions.json`: fonte editável das questões;
 - `database/questions.sqlite`: banco para consulta e manutenção;

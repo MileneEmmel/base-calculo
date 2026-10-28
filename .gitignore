@@ -6,3 +6,7 @@ dist/
 *.tsbuildinfo
 __pycache__/
 *.pyc
+
+# Documentação interna mantida apenas nesta máquina
+*.md
+!README.md
