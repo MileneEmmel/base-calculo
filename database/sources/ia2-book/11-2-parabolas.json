@@ -1,0 +1,936 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/11-2-parabolas",
+  "title": "11.2 Parabolas",
+  "sha256": "58f351f4c740641bb38cc91491724bc94cfdcb7b0bb5f4c9428223a3d60ae3ad",
+  "questions": [
+    {
+      "number": 53,
+      "anchor": "fs-id1163872643998",
+      "page": "11-2-parabolas",
+      "context": [
+        "Graph Vertical Parabolas",
+        "In the following exercises, graph each equation by using properties."
+      ],
+      "text": "\\(y = - {x}^{2} + 4 x - 3\\)",
+      "math": [
+        "y = - {x}^{2} + 4 x - 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 54,
+      "anchor": "fs-id1163872572850",
+      "page": "11-2-parabolas",
+      "context": [
+        "Graph Vertical Parabolas",
+        "In the following exercises, graph each equation by using properties."
+      ],
+      "text": "\\(y = - {x}^{2} + 8 x - 15\\)",
+      "math": [
+        "y = - {x}^{2} + 8 x - 15"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>15</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>15</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 55,
+      "anchor": "fs-id1163872510316",
+      "page": "11-2-parabolas",
+      "context": [
+        "Graph Vertical Parabolas",
+        "In the following exercises, graph each equation by using properties."
+      ],
+      "text": "\\(y = 6 {x}^{2} + 2 x - 1\\)",
+      "math": [
+        "y = 6 {x}^{2} + 2 x - 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>6</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>6</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 56,
+      "anchor": "fs-id1163872541582",
+      "page": "11-2-parabolas",
+      "context": [
+        "Graph Vertical Parabolas",
+        "In the following exercises, graph each equation by using properties."
+      ],
+      "text": "\\(y = 8 {x}^{2} - 10 x + 3\\)",
+      "math": [
+        "y = 8 {x}^{2} - 10 x + 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>8</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>10</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>8</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>10</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 57,
+      "anchor": "fs-id1163872644217",
+      "page": "11-2-parabolas",
+      "context": [
+        "In the following exercises, graph each equation by using properties.",
+        "In the following exercises, ⓐ write the equation in standard form and ⓑ use properties of the standard form to graph the equation."
+      ],
+      "text": "\\(y = - {x}^{2} + 2 x - 4\\)",
+      "math": [
+        "y = - {x}^{2} + 2 x - 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 58,
+      "anchor": "fs-id1163872628550",
+      "page": "11-2-parabolas",
+      "context": [
+        "In the following exercises, graph each equation by using properties.",
+        "In the following exercises, ⓐ write the equation in standard form and ⓑ use properties of the standard form to graph the equation."
+      ],
+      "text": "\\(y = 2 {x}^{2} + 4 x + 6\\)",
+      "math": [
+        "y = 2 {x}^{2} + 4 x + 6"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>6</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>6</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 59,
+      "anchor": "fs-id1163872087819",
+      "page": "11-2-parabolas",
+      "context": [
+        "In the following exercises, graph each equation by using properties.",
+        "In the following exercises, ⓐ write the equation in standard form and ⓑ use properties of the standard form to graph the equation."
+      ],
+      "text": "\\(y = -2 {x}^{2} - 4 x - 5\\)",
+      "math": [
+        "y = -2 {x}^{2} - 4 x - 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 60,
+      "anchor": "fs-id1163872505265",
+      "page": "11-2-parabolas",
+      "context": [
+        "In the following exercises, graph each equation by using properties.",
+        "In the following exercises, ⓐ write the equation in standard form and ⓑ use properties of the standard form to graph the equation."
+      ],
+      "text": "\\(y = 3 {x}^{2} - 12 x + 7\\)",
+      "math": [
+        "y = 3 {x}^{2} - 12 x + 7"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>12</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>7</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>12</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>7</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 61,
+      "anchor": "fs-id1163872390039",
+      "page": "11-2-parabolas",
+      "context": [
+        "Graph Horizontal Parabolas",
+        "In the following exercises, graph each equation by using properties."
+      ],
+      "text": "\\(x = -2 {y}^{2}\\)",
+      "math": [
+        "x = -2 {y}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>−2</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>−2</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 62,
+      "anchor": "fs-id1163872512005",
+      "page": "11-2-parabolas",
+      "context": [
+        "Graph Horizontal Parabolas",
+        "In the following exercises, graph each equation by using properties."
+      ],
+      "text": "\\(x = 3 {y}^{2}\\)",
+      "math": [
+        "x = 3 {y}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>3</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>3</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 63,
+      "anchor": "fs-id1163872463058",
+      "page": "11-2-parabolas",
+      "context": [
+        "Graph Horizontal Parabolas",
+        "In the following exercises, graph each equation by using properties."
+      ],
+      "text": "\\(x = 4 {y}^{2}\\)",
+      "math": [
+        "x = 4 {y}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>4</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>4</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 64,
+      "anchor": "fs-id1163872574426",
+      "page": "11-2-parabolas",
+      "context": [
+        "Graph Horizontal Parabolas",
+        "In the following exercises, graph each equation by using properties."
+      ],
+      "text": "\\(x = -4 {y}^{2}\\)",
+      "math": [
+        "x = -4 {y}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>−4</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>−4</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 65,
+      "anchor": "fs-id1163872557264",
+      "page": "11-2-parabolas",
+      "context": [
+        "Graph Horizontal Parabolas",
+        "In the following exercises, graph each equation by using properties."
+      ],
+      "text": "\\(x = - {y}^{2} - 2 y + 3\\)",
+      "math": [
+        "x = - {y}^{2} - 2 y + 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 66,
+      "anchor": "fs-id1163872663524",
+      "page": "11-2-parabolas",
+      "context": [
+        "Graph Horizontal Parabolas",
+        "In the following exercises, graph each equation by using properties."
+      ],
+      "text": "\\(x = - {y}^{2} - 4 y + 5\\)",
+      "math": [
+        "x = - {y}^{2} - 4 y + 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 67,
+      "anchor": "fs-id1163872095357",
+      "page": "11-2-parabolas",
+      "context": [
+        "Graph Horizontal Parabolas",
+        "In the following exercises, graph each equation by using properties."
+      ],
+      "text": "\\(x = {y}^{2} + 6 y + 8\\)",
+      "math": [
+        "x = {y}^{2} + 6 y + 8"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>8</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>8</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 68,
+      "anchor": "fs-id1163872610552",
+      "page": "11-2-parabolas",
+      "context": [
+        "Graph Horizontal Parabolas",
+        "In the following exercises, graph each equation by using properties."
+      ],
+      "text": "\\(x = {y}^{2} - 4 y - 12\\)",
+      "math": [
+        "x = {y}^{2} - 4 y - 12"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>12</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>12</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 69,
+      "anchor": "fs-id1163872550366",
+      "page": "11-2-parabolas",
+      "context": [
+        "Graph Horizontal Parabolas",
+        "In the following exercises, graph each equation by using properties."
+      ],
+      "text": "\\(x = { ( y - 2 ) }^{2} + 3\\)",
+      "math": [
+        "x = { ( y - 2 ) }^{2} + 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 70,
+      "anchor": "fs-id1163872529947",
+      "page": "11-2-parabolas",
+      "context": [
+        "Graph Horizontal Parabolas",
+        "In the following exercises, graph each equation by using properties."
+      ],
+      "text": "\\(x = { ( y - 1 ) }^{2} + 4\\)",
+      "math": [
+        "x = { ( y - 1 ) }^{2} + 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 71,
+      "anchor": "fs-id1163872548729",
+      "page": "11-2-parabolas",
+      "context": [
+        "Graph Horizontal Parabolas",
+        "In the following exercises, graph each equation by using properties."
+      ],
+      "text": "\\(x = - { ( y - 1 ) }^{2} + 2\\)",
+      "math": [
+        "x = - { ( y - 1 ) }^{2} + 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 72,
+      "anchor": "fs-id1163872837439",
+      "page": "11-2-parabolas",
+      "context": [
+        "Graph Horizontal Parabolas",
+        "In the following exercises, graph each equation by using properties."
+      ],
+      "text": "\\(x = - { ( y - 4 ) }^{2} + 3\\)",
+      "math": [
+        "x = - { ( y - 4 ) }^{2} + 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 73,
+      "anchor": "fs-id1163872562094",
+      "page": "11-2-parabolas",
+      "context": [
+        "Graph Horizontal Parabolas",
+        "In the following exercises, graph each equation by using properties."
+      ],
+      "text": "\\(x = { ( y + 2 ) }^{2} + 1\\)",
+      "math": [
+        "x = { ( y + 2 ) }^{2} + 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 74,
+      "anchor": "fs-id1163872520663",
+      "page": "11-2-parabolas",
+      "context": [
+        "Graph Horizontal Parabolas",
+        "In the following exercises, graph each equation by using properties."
+      ],
+      "text": "\\(x = { ( y + 1 ) }^{2} + 2\\)",
+      "math": [
+        "x = { ( y + 1 ) }^{2} + 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 75,
+      "anchor": "fs-id1163872391569",
+      "page": "11-2-parabolas",
+      "context": [
+        "Graph Horizontal Parabolas",
+        "In the following exercises, graph each equation by using properties."
+      ],
+      "text": "\\(x = - { ( y + 3 ) }^{2} + 2\\)",
+      "math": [
+        "x = - { ( y + 3 ) }^{2} + 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 76,
+      "anchor": "fs-id1163872505590",
+      "page": "11-2-parabolas",
+      "context": [
+        "Graph Horizontal Parabolas",
+        "In the following exercises, graph each equation by using properties."
+      ],
+      "text": "\\(x = - { ( y + 4 ) }^{2} + 3\\)",
+      "math": [
+        "x = - { ( y + 4 ) }^{2} + 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 77,
+      "anchor": "fs-id1163872572862",
+      "page": "11-2-parabolas",
+      "context": [
+        "Graph Horizontal Parabolas",
+        "In the following exercises, graph each equation by using properties."
+      ],
+      "text": "\\(x = -3 { ( y - 2 ) }^{2} + 3\\)",
+      "math": [
+        "x = -3 { ( y - 2 ) }^{2} + 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>−3</mn>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>−3</mn>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 78,
+      "anchor": "fs-id1163871942317",
+      "page": "11-2-parabolas",
+      "context": [
+        "Graph Horizontal Parabolas",
+        "In the following exercises, graph each equation by using properties."
+      ],
+      "text": "\\(x = -2 { ( y - 1 ) }^{2} + 2\\)",
+      "math": [
+        "x = -2 { ( y - 1 ) }^{2} + 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>−2</mn>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>−2</mn>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 79,
+      "anchor": "fs-id1163872505979",
+      "page": "11-2-parabolas",
+      "context": [
+        "Graph Horizontal Parabolas",
+        "In the following exercises, graph each equation by using properties."
+      ],
+      "text": "\\(x = 4 { ( y + 1 ) }^{2} - 4\\)",
+      "math": [
+        "x = 4 { ( y + 1 ) }^{2} - 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>4</mn>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>4</mn>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 80,
+      "anchor": "fs-id1163872426680",
+      "page": "11-2-parabolas",
+      "context": [
+        "Graph Horizontal Parabolas",
+        "In the following exercises, graph each equation by using properties."
+      ],
+      "text": "\\(x = 2 { ( y + 4 ) }^{2} - 2\\)",
+      "math": [
+        "x = 2 { ( y + 4 ) }^{2} - 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>2</mn>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>2</mn>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 81,
+      "anchor": "fs-id1163872665235",
+      "page": "11-2-parabolas",
+      "context": [
+        "In the following exercises, graph each equation by using properties.",
+        "In the following exercises, ⓐ write the equation in standard form and ⓑ use properties of the standard form to graph the equation."
+      ],
+      "text": "\\(x = {y}^{2} + 4 y - 5\\)",
+      "math": [
+        "x = {y}^{2} + 4 y - 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 82,
+      "anchor": "fs-id1163872663620",
+      "page": "11-2-parabolas",
+      "context": [
+        "In the following exercises, graph each equation by using properties.",
+        "In the following exercises, ⓐ write the equation in standard form and ⓑ use properties of the standard form to graph the equation."
+      ],
+      "text": "\\(x = {y}^{2} + 2 y - 3\\)",
+      "math": [
+        "x = {y}^{2} + 2 y - 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 83,
+      "anchor": "fs-id1163872558332",
+      "page": "11-2-parabolas",
+      "context": [
+        "In the following exercises, graph each equation by using properties.",
+        "In the following exercises, ⓐ write the equation in standard form and ⓑ use properties of the standard form to graph the equation."
+      ],
+      "text": "\\(x = -2 {y}^{2} - 12 y - 16\\)",
+      "math": [
+        "x = -2 {y}^{2} - 12 y - 16"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>−2</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>12</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>16</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>−2</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>12</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>16</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 84,
+      "anchor": "fs-id1163872665071",
+      "page": "11-2-parabolas",
+      "context": [
+        "In the following exercises, graph each equation by using properties.",
+        "In the following exercises, ⓐ write the equation in standard form and ⓑ use properties of the standard form to graph the equation."
+      ],
+      "text": "\\(x = -3 {y}^{2} - 6 y - 5\\)",
+      "math": [
+        "x = -3 {y}^{2} - 6 y - 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>−3</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>−3</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 91,
+      "anchor": "fs-id1163872543093",
+      "page": "11-2-parabolas",
+      "context": [
+        "In the following exercises, match each graph to one of the following equations: ⓐ x2 + y2 = 64 ⓑ x2 + y2 = 49ⓒ (x + 5)2 + (y + 2)2 = 4 ⓓ (x − 2)2 + (y − 3)2 = 9 ⓔ y = −x2 + 8x − 15 ⓕ y = 6x2 + 2x − 1",
+        "Solve Applications with Parabolas"
+      ],
+      "text": "Write the equation in standard form of the parabolic arch formed in the foundation of the bridge shown. Write the equation in standard form. [FIGURA: This graph shows circle with center (negative 5, negative 2) and radius 2 units.]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This graph shows circle with center (negative 5, negative 2) and radius 2 units."
+      ]
+    },
+    {
+      "number": 92,
+      "anchor": "fs-id1163872564608",
+      "page": "11-2-parabolas",
+      "context": [
+        "In the following exercises, match each graph to one of the following equations: ⓐ x2 + y2 = 64 ⓑ x2 + y2 = 49ⓒ (x + 5)2 + (y + 2)2 = 4 ⓓ (x − 2)2 + (y − 3)2 = 9 ⓔ y = −x2 + 8x − 15 ⓕ y = 6x2 + 2x − 1",
+        "Solve Applications with Parabolas"
+      ],
+      "text": "Write the equation in standard form of the parabolic arch formed in the foundation of the bridge shown. Write the equation in standard form. [FIGURA: This figure shows a parabolic arch formed in the foundation of a bridge. It is 50 feet high and 100 feet wide at the base.]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure shows a parabolic arch formed in the foundation of a bridge. It is 50 feet high and 100 feet wide at the base."
+      ]
+    },
+    {
+      "number": 93,
+      "anchor": "fs-id1163872554290",
+      "page": "11-2-parabolas",
+      "context": [
+        "In the following exercises, match each graph to one of the following equations: ⓐ x2 + y2 = 64 ⓑ x2 + y2 = 49ⓒ (x + 5)2 + (y + 2)2 = 4 ⓓ (x − 2)2 + (y − 3)2 = 9 ⓔ y = −x2 + 8x − 15 ⓕ y = 6x2 + 2x − 1",
+        "Solve Applications with Parabolas"
+      ],
+      "text": "Write the equation in standard form of the parabolic arch formed in the foundation of the bridge shown. Write the equation in standard form. [FIGURA: This figure shows a parabolic arch formed in the foundation of a bridge. It is 90 feet high and 60 feet wide at the base.]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure shows a parabolic arch formed in the foundation of a bridge. It is 90 feet high and 60 feet wide at the base."
+      ]
+    },
+    {
+      "number": 94,
+      "anchor": "fs-id1163872661810",
+      "page": "11-2-parabolas",
+      "context": [
+        "In the following exercises, match each graph to one of the following equations: ⓐ x2 + y2 = 64 ⓑ x2 + y2 = 49ⓒ (x + 5)2 + (y + 2)2 = 4 ⓓ (x − 2)2 + (y − 3)2 = 9 ⓔ y = −x2 + 8x − 15 ⓕ y = 6x2 + 2x − 1",
+        "Solve Applications with Parabolas"
+      ],
+      "text": "Write the equation in standard form of the parabolic arch formed in the foundation of the bridge shown. Write the equation in standard form. [FIGURA: This figure shows a parabolic arch formed in the foundation of a bridge. It is 45 feet high and 30 feet wide at the base.]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure shows a parabolic arch formed in the foundation of a bridge. It is 45 feet high and 30 feet wide at the base."
+      ]
+    },
+    {
+      "number": 95,
+      "anchor": "fs-id1163872611307",
+      "page": "11-2-parabolas",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "In your own words, define a parabola.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 96,
+      "anchor": "fs-id1163872642723",
+      "page": "11-2-parabolas",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Is the parabola \\(y={x}^{2}\\) a function? Is the parabola \\(x={y}^{2}\\) a function? Explain why or why not.",
+      "math": [
+        "y={x}^{2}",
+        "x={y}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><msup><mi>y</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><msup><mi>y</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 97,
+      "anchor": "fs-id1163872617605",
+      "page": "11-2-parabolas",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Write the equation of a parabola that opens up or down in standard form and the equation of a parabola that opens left or right in standard form. Provide a sketch of the parabola for each one, label the vertex and axis of symmetry.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 98,
+      "anchor": "fs-id1163872648065",
+      "page": "11-2-parabolas",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain in your own words, how you can tell from its equation whether a parabola opens up, down, left or right.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "11.23",
+      "page": "11-2-parabolas",
+      "is_try_it": true,
+      "anchor": "fs-id1163872450037",
+      "context": [
+        "Graph Vertical Parabolas"
+      ],
+      "text": "Graph \\(y=-{x}^{2}+5x-6\\) by using properties.",
+      "math": [
+        "y=-{x}^{2}+5x-6"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mtext>−</mtext><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mi>x</mi><mo>−</mo><mn>6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mtext>−</mtext><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mi>x</mi><mo>−</mo><mn>6</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.24",
+      "page": "11-2-parabolas",
+      "is_try_it": true,
+      "anchor": "fs-id1163872502703",
+      "context": [
+        "Graph Vertical Parabolas"
+      ],
+      "text": "Graph \\(y=-{x}^{2}+8x-12\\) by using properties.",
+      "math": [
+        "y=-{x}^{2}+8x-12"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mtext>−</mtext><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><mi>x</mi><mo>−</mo><mn>12</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mtext>−</mtext><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><mi>x</mi><mo>−</mo><mn>12</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.25",
+      "page": "11-2-parabolas",
+      "is_try_it": true,
+      "anchor": "fs-id1163872463553",
+      "context": [
+        "Graph Vertical Parabolas"
+      ],
+      "text": "ⓐ Write \\(y=2{x}^{2}+4x+5\\) in standard form and ⓑ use properties of standard form to graph the equation.",
+      "math": [
+        "y=2{x}^{2}+4x+5"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>5</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.26",
+      "page": "11-2-parabolas",
+      "is_try_it": true,
+      "anchor": "fs-id1163872607894",
+      "context": [
+        "Graph Vertical Parabolas"
+      ],
+      "text": "ⓐ Write \\(y=-2{x}^{2}+8x-7\\) in standard form and ⓑ use properties of standard form to graph the equation.",
+      "math": [
+        "y=-2{x}^{2}+8x-7"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>−2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><mi>x</mi><mo>−</mo><mn>7</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>−2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><mi>x</mi><mo>−</mo><mn>7</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.27",
+      "page": "11-2-parabolas",
+      "is_try_it": true,
+      "anchor": "fs-id1163871859575",
+      "context": [
+        "Graph Horizontal Parabolas"
+      ],
+      "text": "Graph \\(x={y}^{2}\\) by using properties.",
+      "math": [
+        "x={y}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><msup><mi>y</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><msup><mi>y</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.28",
+      "page": "11-2-parabolas",
+      "is_try_it": true,
+      "anchor": "fs-id1163872667845",
+      "context": [
+        "Graph Horizontal Parabolas"
+      ],
+      "text": "Graph \\(x=-{y}^{2}\\) by using properties.",
+      "math": [
+        "x=-{y}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mtext>−</mtext><msup><mi>y</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mtext>−</mtext><msup><mi>y</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.29",
+      "page": "11-2-parabolas",
+      "is_try_it": true,
+      "anchor": "fs-id1163872520607",
+      "context": [
+        "Graph Horizontal Parabolas"
+      ],
+      "text": "Graph \\(x=-{y}^{2}-4y+12\\) by using properties.",
+      "math": [
+        "x=-{y}^{2}-4y+12"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mtext>−</mtext><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>y</mi><mo>+</mo><mn>12</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mtext>−</mtext><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>y</mi><mo>+</mo><mn>12</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.30",
+      "page": "11-2-parabolas",
+      "is_try_it": true,
+      "anchor": "fs-id1163872565294",
+      "context": [
+        "Graph Horizontal Parabolas"
+      ],
+      "text": "Graph \\(x=-{y}^{2}+2y-3\\) by using properties.",
+      "math": [
+        "x=-{y}^{2}+2y-3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mtext>−</mtext><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>y</mi><mo>−</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mtext>−</mtext><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>y</mi><mo>−</mo><mn>3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.31",
+      "page": "11-2-parabolas",
+      "is_try_it": true,
+      "anchor": "fs-id1163872519614",
+      "context": [
+        "Graph Horizontal Parabolas"
+      ],
+      "text": "Graph \\(x=3{(y-1)}^{2}+2\\) using properties.",
+      "math": [
+        "x=3{(y-1)}^{2}+2"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>3</mn><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>+</mo><mn>2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>3</mn><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>+</mo><mn>2</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.32",
+      "page": "11-2-parabolas",
+      "is_try_it": true,
+      "anchor": "fs-id1163872630754",
+      "context": [
+        "Graph Horizontal Parabolas"
+      ],
+      "text": "Graph \\(x=2{(y-3)}^{2}+2\\) using properties.",
+      "math": [
+        "x=2{(y-3)}^{2}+2"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>2</mn><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>+</mo><mn>2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>2</mn><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>+</mo><mn>2</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.33",
+      "page": "11-2-parabolas",
+      "is_try_it": true,
+      "anchor": "fs-id1163872502554",
+      "context": [
+        "Graph Horizontal Parabolas"
+      ],
+      "text": "Graph \\(x=-4{(y+2)}^{2}+4\\) using properties.",
+      "math": [
+        "x=-4{(y+2)}^{2}+4"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>−4</mn><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>+</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>−4</mn><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>+</mo><mn>4</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.34",
+      "page": "11-2-parabolas",
+      "is_try_it": true,
+      "anchor": "fs-id1163872536885",
+      "context": [
+        "Graph Horizontal Parabolas"
+      ],
+      "text": "Graph \\(x=-2{(y+3)}^{2}+2\\) using properties.",
+      "math": [
+        "x=-2{(y+3)}^{2}+2"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>−2</mn><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>+</mo><mn>2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>−2</mn><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>+</mo><mn>2</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.35",
+      "page": "11-2-parabolas",
+      "is_try_it": true,
+      "anchor": "fs-id1163872515426",
+      "context": [
+        "Graph Horizontal Parabolas"
+      ],
+      "text": "ⓐ Write \\(x=3{y}^{2}+6y+7\\) in standard form and ⓑ use properties of the standard form to graph the equation.",
+      "math": [
+        "x=3{y}^{2}+6y+7"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>3</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn><mi>y</mi><mo>+</mo><mn>7</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>3</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn><mi>y</mi><mo>+</mo><mn>7</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.36",
+      "page": "11-2-parabolas",
+      "is_try_it": true,
+      "anchor": "fs-id1163872530074",
+      "context": [
+        "Graph Horizontal Parabolas"
+      ],
+      "text": "ⓐ Write \\(x=-4{y}^{2}-16y-12\\) in standard form and ⓑ use properties of the standard form to graph the equation.",
+      "math": [
+        "x=-4{y}^{2}-16y-12"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>−4</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>16</mn><mi>y</mi><mo>−</mo><mn>12</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>−4</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>16</mn><mi>y</mi><mo>−</mo><mn>12</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.37",
+      "page": "11-2-parabolas",
+      "is_try_it": true,
+      "anchor": "fs-id1163872804356",
+      "context": [
+        "Solve Applications with Parabolas"
+      ],
+      "text": "Find the equation of the parabolic arch formed in the foundation of the bridge shown. Write the equation in standard form. [FIGURA: This figure shows a parabolic arch formed in the foundation of a bridge. It is 20 feet high and 40 feet wide at the base.]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure shows a parabolic arch formed in the foundation of a bridge. It is 20 feet high and 40 feet wide at the base."
+      ]
+    },
+    {
+      "number": "11.38",
+      "page": "11-2-parabolas",
+      "is_try_it": true,
+      "anchor": "fs-id1163872713400",
+      "context": [
+        "Solve Applications with Parabolas"
+      ],
+      "text": "Find the equation of the parabolic arch formed in the foundation of the bridge shown. Write the equation in standard form. [FIGURA: This figure shows a parabolic arch formed in the foundation of a bridge. It is 5 feet high and 10 feet wide at the base.]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure shows a parabolic arch formed in the foundation of a bridge. It is 5 feet high and 10 feet wide at the base."
+      ]
+    }
+  ],
+  "answers": {}
+}

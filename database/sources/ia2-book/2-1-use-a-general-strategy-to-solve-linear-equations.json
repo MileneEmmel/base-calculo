@@ -1,0 +1,1812 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/2-1-use-a-general-strategy-to-solve-linear-equations",
+  "title": "2.1 Use a General Strategy to Solve Linear Equations",
+  "sha256": "941dbd09329f724a266d778c90f448b50911dc53d8971f009cac78cd2f47c344",
+  "questions": [
+    {
+      "number": 1,
+      "anchor": "fs-id1167824585395",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Solve Equations Using the General Strategy",
+        "In the following exercises, determine whether the given values are solutions to the equation."
+      ],
+      "text": "\\(6 y + 10 = 12 y\\) ⓐ \\(y=\\frac{5}{3}\\) ⓑ \\(y=-\\frac{1}{2}\\)",
+      "math": [
+        "6 y + 10 = 12 y",
+        "y=\\frac{5}{3}",
+        "y=-\\frac{1}{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>6</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>10</mn>\n          <mo>=</mo>\n          <mn>12</mn>\n          <mi>y</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>6</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>10</mn>\n          <mo>=</mo>\n          <mn>12</mn>\n          <mi>y</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mfrac><mn>5</mn><mn>3</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mfrac><mn>5</mn><mn>3</mn></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 2,
+      "anchor": "fs-id1167833396505",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Solve Equations Using the General Strategy",
+        "In the following exercises, determine whether the given values are solutions to the equation."
+      ],
+      "text": "\\(4 x + 9 = 8 x\\) ⓐ \\(x=-\\frac{7}{8}\\) ⓑ \\(x=\\frac{9}{4}\\)",
+      "math": [
+        "4 x + 9 = 8 x",
+        "x=-\\frac{7}{8}",
+        "x=\\frac{9}{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>9</mn>\n          <mo>=</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>9</mn>\n          <mo>=</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mo>−</mo><mfrac><mn>7</mn><mn>8</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mo>−</mo><mfrac><mn>7</mn><mn>8</mn></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mfrac><mn>9</mn><mn>4</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mfrac><mn>9</mn><mn>4</mn></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 3,
+      "anchor": "fs-id1167833274631",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Solve Equations Using the General Strategy",
+        "In the following exercises, determine whether the given values are solutions to the equation."
+      ],
+      "text": "\\(8 u - 1 = 6 u\\) ⓐ \\(u=-\\frac{1}{2}\\) ⓑ \\(u=\\frac{1}{2}\\)",
+      "math": [
+        "8 u - 1 = 6 u",
+        "u=-\\frac{1}{2}",
+        "u=\\frac{1}{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>8</mn>\n          <mi>u</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n          <mo>=</mo>\n          <mn>6</mn>\n          <mi>u</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>8</mn>\n          <mi>u</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n          <mo>=</mo>\n          <mn>6</mn>\n          <mi>u</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>u</mi><mo>=</mo><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>u</mi><mo>=</mo><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>u</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>u</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 4,
+      "anchor": "fs-id1167836738188",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Solve Equations Using the General Strategy",
+        "In the following exercises, determine whether the given values are solutions to the equation."
+      ],
+      "text": "\\(9 v - 2 = 3 v\\) ⓐ \\(v=-\\frac{1}{3}\\) ⓑ \\(v=\\frac{1}{3}\\)",
+      "math": [
+        "9 v - 2 = 3 v",
+        "v=-\\frac{1}{3}",
+        "v=\\frac{1}{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>9</mn>\n          <mi>v</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mn>3</mn>\n          <mi>v</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>9</mn>\n          <mi>v</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mn>3</mn>\n          <mi>v</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>v</mi><mo>=</mo><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>v</mi><mo>=</mo><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>v</mi><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>v</mi><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 5,
+      "anchor": "fs-id1167833050676",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "In the following exercises, determine whether the given values are solutions to the equation.",
+        "In the following exercises, solve each linear equation."
+      ],
+      "text": "\\(15 ( y - 9 ) = -60\\)",
+      "math": [
+        "15 ( y - 9 ) = -60"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>15</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>9</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>−60</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>15</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>9</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>−60</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 6,
+      "anchor": "fs-id1167833050720",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "In the following exercises, determine whether the given values are solutions to the equation.",
+        "In the following exercises, solve each linear equation."
+      ],
+      "text": "\\(-16 ( 3 n + 4 ) = 32\\)",
+      "math": [
+        "-16 ( 3 n + 4 ) = 32"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−16</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>32</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−16</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>32</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 7,
+      "anchor": "fs-id1167836503264",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "In the following exercises, determine whether the given values are solutions to the equation.",
+        "In the following exercises, solve each linear equation."
+      ],
+      "text": "\\(- ( w - 12 ) = 30\\)",
+      "math": [
+        "- ( w - 12 ) = 30"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>−</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>w</mi>\n              <mo>−</mo>\n              <mn>12</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>30</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>−</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>w</mi>\n              <mo>−</mo>\n              <mn>12</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>30</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 8,
+      "anchor": "fs-id1167829696626",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "In the following exercises, determine whether the given values are solutions to the equation.",
+        "In the following exercises, solve each linear equation."
+      ],
+      "text": "\\(- ( t - 19 ) = 28\\)",
+      "math": [
+        "- ( t - 19 ) = 28"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>−</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>t</mi>\n              <mo>−</mo>\n              <mn>19</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>28</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>−</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>t</mi>\n              <mo>−</mo>\n              <mn>19</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>28</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 9,
+      "anchor": "fs-id1167833041760",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "In the following exercises, determine whether the given values are solutions to the equation.",
+        "In the following exercises, solve each linear equation."
+      ],
+      "text": "\\(51 + 5 ( 4 - q ) = 56\\)",
+      "math": [
+        "51 + 5 ( 4 - q ) = 56"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>51</mn>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mn>4</mn>\n          <mo>−</mo>\n          <mi>q</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>56</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>51</mn>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mn>4</mn>\n          <mo>−</mo>\n          <mi>q</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>56</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 10,
+      "anchor": "fs-id1167836619545",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "In the following exercises, determine whether the given values are solutions to the equation.",
+        "In the following exercises, solve each linear equation."
+      ],
+      "text": "\\(-6 + 6 ( 5 - k ) = 15\\)",
+      "math": [
+        "-6 + 6 ( 5 - k ) = 15"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−6</mn>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mn>5</mn>\n          <mo>−</mo>\n          <mi>k</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>15</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−6</mn>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mn>5</mn>\n          <mo>−</mo>\n          <mi>k</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>15</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 11,
+      "anchor": "fs-id1167824734877",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "In the following exercises, determine whether the given values are solutions to the equation.",
+        "In the following exercises, solve each linear equation."
+      ],
+      "text": "\\(3 ( 10 - 2 x ) + 54 = 0\\)",
+      "math": [
+        "3 ( 10 - 2 x ) + 54 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mn>10</mn>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>+</mo>\n          <mn>54</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mn>10</mn>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>+</mo>\n          <mn>54</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 12,
+      "anchor": "fs-id1167833022389",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "In the following exercises, determine whether the given values are solutions to the equation.",
+        "In the following exercises, solve each linear equation."
+      ],
+      "text": "\\(-2 ( 11 - 7 x ) + 54 = 4\\)",
+      "math": [
+        "-2 ( 11 - 7 x ) + 54 = 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−2</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mn>11</mn>\n          <mo>−</mo>\n          <mn>7</mn>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>+</mo>\n          <mn>54</mn>\n          <mo>=</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−2</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mn>11</mn>\n          <mo>−</mo>\n          <mn>7</mn>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>+</mo>\n          <mn>54</mn>\n          <mo>=</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 13,
+      "anchor": "fs-id1167836663392",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "In the following exercises, determine whether the given values are solutions to the equation.",
+        "In the following exercises, solve each linear equation."
+      ],
+      "text": "\\(\\frac{2}{3} ( 9 c - 3 ) = 22\\)",
+      "math": [
+        "\\frac{2}{3} ( 9 c - 3 ) = 22"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>9</mn>\n              <mi>c</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>22</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>9</mn>\n              <mi>c</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>22</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 14,
+      "anchor": "fs-id1167829712179",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "In the following exercises, determine whether the given values are solutions to the equation.",
+        "In the following exercises, solve each linear equation."
+      ],
+      "text": "\\(\\frac{3}{5} ( 10 x - 5 ) = 27\\)",
+      "math": [
+        "\\frac{3}{5} ( 10 x - 5 ) = 27"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>3</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>10</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>27</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>3</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>10</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>27</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 15,
+      "anchor": "fs-id1167829593796",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "In the following exercises, determine whether the given values are solutions to the equation.",
+        "In the following exercises, solve each linear equation."
+      ],
+      "text": "\\(\\frac{1}{5} ( 15 c + 10 ) = c + 7\\)",
+      "math": [
+        "\\frac{1}{5} ( 15 c + 10 ) = c + 7"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mo stretchy=\"false\">(</mo>\n          <mn>15</mn>\n          <mi>c</mi>\n          <mo>+</mo>\n          <mn>10</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mi>c</mi>\n          <mo>+</mo>\n          <mn>7</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mo stretchy=\"false\">(</mo>\n          <mn>15</mn>\n          <mi>c</mi>\n          <mo>+</mo>\n          <mn>10</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mi>c</mi>\n          <mo>+</mo>\n          <mn>7</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 16,
+      "anchor": "fs-id1167826129372",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "In the following exercises, determine whether the given values are solutions to the equation.",
+        "In the following exercises, solve each linear equation."
+      ],
+      "text": "\\(\\frac{1}{4} ( 20 d + 12 ) = d + 7\\)",
+      "math": [
+        "\\frac{1}{4} ( 20 d + 12 ) = d + 7"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mo stretchy=\"false\">(</mo>\n          <mn>20</mn>\n          <mi>d</mi>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mi>d</mi>\n          <mo>+</mo>\n          <mn>7</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mo stretchy=\"false\">(</mo>\n          <mn>20</mn>\n          <mi>d</mi>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mi>d</mi>\n          <mo>+</mo>\n          <mn>7</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 17,
+      "anchor": "fs-id1167829712054",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "In the following exercises, determine whether the given values are solutions to the equation.",
+        "In the following exercises, solve each linear equation."
+      ],
+      "text": "\\(3 ( 4 n - 1 ) - 2 = 8 n + 3\\)",
+      "math": [
+        "3 ( 4 n - 1 ) - 2 = 8 n + 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mn>4</mn>\n          <mi>n</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mn>8</mn>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mn>4</mn>\n          <mi>n</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mn>8</mn>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 18,
+      "anchor": "fs-id1167836712361",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "In the following exercises, determine whether the given values are solutions to the equation.",
+        "In the following exercises, solve each linear equation."
+      ],
+      "text": "\\(9 ( 2 m - 3 ) - 8 = 4 m + 7\\)",
+      "math": [
+        "9 ( 2 m - 3 ) - 8 = 4 m + 7"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>9</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mn>2</mn>\n          <mi>m</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>−</mo>\n          <mn>8</mn>\n          <mo>=</mo>\n          <mn>4</mn>\n          <mi>m</mi>\n          <mo>+</mo>\n          <mn>7</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>9</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mn>2</mn>\n          <mi>m</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>−</mo>\n          <mn>8</mn>\n          <mo>=</mo>\n          <mn>4</mn>\n          <mi>m</mi>\n          <mo>+</mo>\n          <mn>7</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 19,
+      "anchor": "fs-id1167836697360",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "In the following exercises, determine whether the given values are solutions to the equation.",
+        "In the following exercises, solve each linear equation."
+      ],
+      "text": "\\(12 + 2 ( 5 - 3 y ) = -9 ( y - 1 ) - 2\\)",
+      "math": [
+        "12 + 2 ( 5 - 3 y ) = -9 ( y - 1 ) - 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>12</mn>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mn>5</mn>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mi>y</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>−9</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>12</mn>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mn>5</mn>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mi>y</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>−9</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 20,
+      "anchor": "fs-id1167829685101",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "In the following exercises, determine whether the given values are solutions to the equation.",
+        "In the following exercises, solve each linear equation."
+      ],
+      "text": "\\(-15 + 4 ( 2 - 5 y ) = -7 ( y - 4 ) + 4\\)",
+      "math": [
+        "-15 + 4 ( 2 - 5 y ) = -7 ( y - 4 ) + 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−15</mn>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mn>2</mn>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mi>y</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>−7</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−15</mn>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mn>2</mn>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mi>y</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>−7</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 21,
+      "anchor": "fs-id1167833008516",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "In the following exercises, determine whether the given values are solutions to the equation.",
+        "In the following exercises, solve each linear equation."
+      ],
+      "text": "\\(5 + 6 ( 3 s - 5 ) = -3 + 2 ( 8 s - 1 )\\)",
+      "math": [
+        "5 + 6 ( 3 s - 5 ) = -3 + 2 ( 8 s - 1 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>5</mn>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mn>3</mn>\n          <mi>s</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>−3</mn>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>8</mn>\n              <mi>s</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>5</mn>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mn>3</mn>\n          <mi>s</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>−3</mn>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>8</mn>\n              <mi>s</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 22,
+      "anchor": "fs-id1167836792617",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "In the following exercises, determine whether the given values are solutions to the equation.",
+        "In the following exercises, solve each linear equation."
+      ],
+      "text": "\\(-12 + 8 ( x - 5 ) = -4 + 3 ( 5 x - 2 )\\)",
+      "math": [
+        "-12 + 8 ( x - 5 ) = -4 + 3 ( 5 x - 2 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−12</mn>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>−4</mn>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−12</mn>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>−4</mn>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 23,
+      "anchor": "fs-id1167833385456",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "In the following exercises, determine whether the given values are solutions to the equation.",
+        "In the following exercises, solve each linear equation."
+      ],
+      "text": "\\(4 ( p - 4 ) - ( p + 7 ) = 5 ( p - 3 )\\)",
+      "math": [
+        "4 ( p - 4 ) - ( p + 7 ) = 5 ( p - 3 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>p</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>p</mi>\n              <mo>+</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>5</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>p</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>p</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>p</mi>\n              <mo>+</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>5</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>p</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 24,
+      "anchor": "fs-id1167836501615",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "In the following exercises, determine whether the given values are solutions to the equation.",
+        "In the following exercises, solve each linear equation."
+      ],
+      "text": "\\(3 ( a - 2 ) - ( a + 6 ) = 4 ( a - 1 )\\)",
+      "math": [
+        "3 ( a - 2 ) - ( a + 6 ) = 4 ( a - 1 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>a</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>4</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>a</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>4</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 25,
+      "anchor": "fs-id1167836611801",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "In the following exercises, determine whether the given values are solutions to the equation.",
+        "In the following exercises, solve each linear equation."
+      ],
+      "text": "\\(4 [ 5 - 8 ( 4 c - 3 ) ] = 12 ( 1 - 13 c ) - 8\\)",
+      "math": [
+        "4 [ 5 - 8 ( 4 c - 3 ) ] = 12 ( 1 - 13 c ) - 8"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <mrow>\n            <mo>[</mo>\n            <mrow>\n              <mn>5</mn>\n              <mo>−</mo>\n              <mn>8</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>4</mn>\n                  <mi>c</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mo>]</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>12</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>1</mn>\n              <mo>−</mo>\n              <mn>13</mn>\n              <mi>c</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>8</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <mrow>\n            <mo>[</mo>\n            <mrow>\n              <mn>5</mn>\n              <mo>−</mo>\n              <mn>8</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>4</mn>\n                  <mi>c</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mo>]</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>12</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>1</mn>\n              <mo>−</mo>\n              <mn>13</mn>\n              <mi>c</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>8</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 26,
+      "anchor": "fs-id1167824616946",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "In the following exercises, determine whether the given values are solutions to the equation.",
+        "In the following exercises, solve each linear equation."
+      ],
+      "text": "\\(5 [ 9 - 2 ( 6 d - 1 ) ] = 11 ( 4 - 10 d ) - 139\\)",
+      "math": [
+        "5 [ 9 - 2 ( 6 d - 1 ) ] = 11 ( 4 - 10 d ) - 139"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>5</mn>\n          <mrow>\n            <mo>[</mo>\n            <mrow>\n              <mn>9</mn>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>6</mn>\n                  <mi>d</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mo>]</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>11</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mo>−</mo>\n              <mn>10</mn>\n              <mi>d</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>139</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>5</mn>\n          <mrow>\n            <mo>[</mo>\n            <mrow>\n              <mn>9</mn>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>6</mn>\n                  <mi>d</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mo>]</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>11</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mo>−</mo>\n              <mn>10</mn>\n              <mi>d</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>139</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 27,
+      "anchor": "fs-id1167829828078",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "In the following exercises, determine whether the given values are solutions to the equation.",
+        "In the following exercises, solve each linear equation."
+      ],
+      "text": "\\(3 [ -9 + 8 ( 4 h - 3 ) ] = 2 ( 5 - 12 h ) - 19\\)",
+      "math": [
+        "3 [ -9 + 8 ( 4 h - 3 ) ] = 2 ( 5 - 12 h ) - 19"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <mrow>\n            <mo>[</mo>\n            <mrow>\n              <mn>−9</mn>\n              <mo>+</mo>\n              <mn>8</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>4</mn>\n                  <mi>h</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mo>]</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>2</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mo>−</mo>\n              <mn>12</mn>\n              <mi>h</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>19</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <mrow>\n            <mo>[</mo>\n            <mrow>\n              <mn>−9</mn>\n              <mo>+</mo>\n              <mn>8</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>4</mn>\n                  <mi>h</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mo>]</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>2</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mo>−</mo>\n              <mn>12</mn>\n              <mi>h</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>19</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 28,
+      "anchor": "fs-id1167826132587",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "In the following exercises, determine whether the given values are solutions to the equation.",
+        "In the following exercises, solve each linear equation."
+      ],
+      "text": "\\(3 [ -14 + 2 ( 15 k - 6 ) ] = 8 ( 3 - 5 k ) - 24\\)",
+      "math": [
+        "3 [ -14 + 2 ( 15 k - 6 ) ] = 8 ( 3 - 5 k ) - 24"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <mrow>\n            <mo>[</mo>\n            <mrow>\n              <mn>−14</mn>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>15</mn>\n                  <mi>k</mi>\n                  <mo>−</mo>\n                  <mn>6</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mo>]</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>8</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mo>−</mo>\n              <mn>5</mn>\n              <mi>k</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>24</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <mrow>\n            <mo>[</mo>\n            <mrow>\n              <mn>−14</mn>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>15</mn>\n                  <mi>k</mi>\n                  <mo>−</mo>\n                  <mn>6</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mo>]</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>8</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mo>−</mo>\n              <mn>5</mn>\n              <mi>k</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>24</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 29,
+      "anchor": "fs-id1167836537423",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "In the following exercises, determine whether the given values are solutions to the equation.",
+        "In the following exercises, solve each linear equation."
+      ],
+      "text": "\\(5 [ 2 ( m + 4 ) + 8 ( m - 7 ) ] = 2 [ 3 ( 5 + m ) - ( 21 - 3 m ) ]\\)",
+      "math": [
+        "5 [ 2 ( m + 4 ) + 8 ( m - 7 ) ] = 2 [ 3 ( 5 + m ) - ( 21 - 3 m ) ]"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>5</mn>\n          <mrow>\n            <mo>[</mo>\n            <mrow>\n              <mn>2</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>m</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>+</mo>\n              <mn>8</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>m</mi>\n                  <mo>−</mo>\n                  <mn>7</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mo>]</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>2</mn>\n          <mrow>\n            <mo>[</mo>\n            <mrow>\n              <mn>3</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>5</mn>\n                  <mo>+</mo>\n                  <mi>m</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>−</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>21</mn>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>m</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mo>]</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>5</mn>\n          <mrow>\n            <mo>[</mo>\n            <mrow>\n              <mn>2</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>m</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>+</mo>\n              <mn>8</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>m</mi>\n                  <mo>−</mo>\n                  <mn>7</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mo>]</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>2</mn>\n          <mrow>\n            <mo>[</mo>\n            <mrow>\n              <mn>3</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>5</mn>\n                  <mo>+</mo>\n                  <mi>m</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>−</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>21</mn>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>m</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mo>]</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 30,
+      "anchor": "fs-id1167836363530",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "In the following exercises, determine whether the given values are solutions to the equation.",
+        "In the following exercises, solve each linear equation."
+      ],
+      "text": "\\(10 [ 5 ( n + 1 ) + 4 ( n - 1 ) ] = 11 [ 7 ( 5 + n ) - ( 25 - 3 n ) ]\\)",
+      "math": [
+        "10 [ 5 ( n + 1 ) + 4 ( n - 1 ) ] = 11 [ 7 ( 5 + n ) - ( 25 - 3 n ) ]"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>10</mn>\n          <mrow>\n            <mo>[</mo>\n            <mrow>\n              <mn>5</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>n</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>+</mo>\n              <mn>4</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>n</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mo>]</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>11</mn>\n          <mrow>\n            <mo>[</mo>\n            <mrow>\n              <mn>7</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>5</mn>\n                  <mo>+</mo>\n                  <mi>n</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>−</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>25</mn>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>n</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mo>]</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>10</mn>\n          <mrow>\n            <mo>[</mo>\n            <mrow>\n              <mn>5</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>n</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>+</mo>\n              <mn>4</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>n</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mo>]</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>11</mn>\n          <mrow>\n            <mo>[</mo>\n            <mrow>\n              <mn>7</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>5</mn>\n                  <mo>+</mo>\n                  <mi>n</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>−</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>25</mn>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>n</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mo>]</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 31,
+      "anchor": "fs-id1167829833150",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Classify Equations",
+        "In the following exercises, classify each equation as a conditional equation, an identity, or a contradiction and then state the solution."
+      ],
+      "text": "\\(23 z + 19 = 3 ( 5 z - 9 ) + 8 z + 46\\)",
+      "math": [
+        "23 z + 19 = 3 ( 5 z - 9 ) + 8 z + 46"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>23</mn>\n          <mi>z</mi>\n          <mo>+</mo>\n          <mn>19</mn>\n          <mo>=</mo>\n          <mn>3</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mi>z</mi>\n              <mo>−</mo>\n              <mn>9</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>z</mi>\n          <mo>+</mo>\n          <mn>46</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>23</mn>\n          <mi>z</mi>\n          <mo>+</mo>\n          <mn>19</mn>\n          <mo>=</mo>\n          <mn>3</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mi>z</mi>\n              <mo>−</mo>\n              <mn>9</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>z</mi>\n          <mo>+</mo>\n          <mn>46</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 32,
+      "anchor": "fs-id1167833227030",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Classify Equations",
+        "In the following exercises, classify each equation as a conditional equation, an identity, or a contradiction and then state the solution."
+      ],
+      "text": "\\(15 y + 32 = 2 ( 10 y - 7 ) - 5 y + 46\\)",
+      "math": [
+        "15 y + 32 = 2 ( 10 y - 7 ) - 5 y + 46"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>15</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>32</mn>\n          <mo>=</mo>\n          <mn>2</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>10</mn>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>46</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>15</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>32</mn>\n          <mo>=</mo>\n          <mn>2</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>10</mn>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>46</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 33,
+      "anchor": "fs-id1167829878689",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Classify Equations",
+        "In the following exercises, classify each equation as a conditional equation, an identity, or a contradiction and then state the solution."
+      ],
+      "text": "\\(18 ( 5 j - 1 ) + 29 = 47\\)",
+      "math": [
+        "18 ( 5 j - 1 ) + 29 = 47"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>18</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mn>5</mn>\n          <mi>j</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>+</mo>\n          <mn>29</mn>\n          <mo>=</mo>\n          <mn>47</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>18</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mn>5</mn>\n          <mi>j</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>+</mo>\n          <mn>29</mn>\n          <mo>=</mo>\n          <mn>47</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 34,
+      "anchor": "fs-id1167833379598",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Classify Equations",
+        "In the following exercises, classify each equation as a conditional equation, an identity, or a contradiction and then state the solution."
+      ],
+      "text": "\\(24 ( 3 d - 4 ) + 100 = 52\\)",
+      "math": [
+        "24 ( 3 d - 4 ) + 100 = 52"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>24</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mn>3</mn>\n          <mi>d</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>+</mo>\n          <mn>100</mn>\n          <mo>=</mo>\n          <mn>52</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>24</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mn>3</mn>\n          <mi>d</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>+</mo>\n          <mn>100</mn>\n          <mo>=</mo>\n          <mn>52</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 35,
+      "anchor": "fs-id1167829850955",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Classify Equations",
+        "In the following exercises, classify each equation as a conditional equation, an identity, or a contradiction and then state the solution."
+      ],
+      "text": "\\(22 ( 3 m - 4 ) = 8 ( 2 m + 9 )\\)",
+      "math": [
+        "22 ( 3 m - 4 ) = 8 ( 2 m + 9 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>22</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mn>3</mn>\n          <mi>m</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>8</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>m</mi>\n              <mo>+</mo>\n              <mn>9</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>22</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mn>3</mn>\n          <mi>m</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>8</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>m</mi>\n              <mo>+</mo>\n              <mn>9</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 36,
+      "anchor": "fs-id1167833082194",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Classify Equations",
+        "In the following exercises, classify each equation as a conditional equation, an identity, or a contradiction and then state the solution."
+      ],
+      "text": "\\(30 ( 2 n - 1 ) = 5 ( 10 n + 8 )\\)",
+      "math": [
+        "30 ( 2 n - 1 ) = 5 ( 10 n + 8 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>30</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mn>2</mn>\n          <mi>n</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>5</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>10</mn>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>30</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mn>2</mn>\n          <mi>n</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>5</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>10</mn>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 37,
+      "anchor": "fs-id1167829690644",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Classify Equations",
+        "In the following exercises, classify each equation as a conditional equation, an identity, or a contradiction and then state the solution."
+      ],
+      "text": "\\(7 v + 42 = 11 ( 3 v + 8 ) - 2 ( 13 v - 1 )\\)",
+      "math": [
+        "7 v + 42 = 11 ( 3 v + 8 ) - 2 ( 13 v - 1 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>7</mn>\n          <mi>v</mi>\n          <mo>+</mo>\n          <mn>42</mn>\n          <mo>=</mo>\n          <mn>11</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>v</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>13</mn>\n              <mi>v</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>7</mn>\n          <mi>v</mi>\n          <mo>+</mo>\n          <mn>42</mn>\n          <mo>=</mo>\n          <mn>11</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>v</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>13</mn>\n              <mi>v</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 38,
+      "anchor": "fs-id1167829791388",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Classify Equations",
+        "In the following exercises, classify each equation as a conditional equation, an identity, or a contradiction and then state the solution."
+      ],
+      "text": "\\(18 u - 51 = 9 ( 4 u + 5 ) - 6 ( 3 u - 10 )\\)",
+      "math": [
+        "18 u - 51 = 9 ( 4 u + 5 ) - 6 ( 3 u - 10 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>18</mn>\n          <mi>u</mi>\n          <mo>−</mo>\n          <mn>51</mn>\n          <mo>=</mo>\n          <mn>9</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>u</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>u</mi>\n              <mo>−</mo>\n              <mn>10</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>18</mn>\n          <mi>u</mi>\n          <mo>−</mo>\n          <mn>51</mn>\n          <mo>=</mo>\n          <mn>9</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>u</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>u</mi>\n              <mo>−</mo>\n              <mn>10</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 39,
+      "anchor": "fs-id1167833256292",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Classify Equations",
+        "In the following exercises, classify each equation as a conditional equation, an identity, or a contradiction and then state the solution."
+      ],
+      "text": "\\(45 ( 3 y - 2 ) = 9 ( 15 y - 6 )\\)",
+      "math": [
+        "45 ( 3 y - 2 ) = 9 ( 15 y - 6 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>45</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mn>3</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>9</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>15</mn>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>45</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mn>3</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>9</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>15</mn>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 40,
+      "anchor": "fs-id1167829744041",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Classify Equations",
+        "In the following exercises, classify each equation as a conditional equation, an identity, or a contradiction and then state the solution."
+      ],
+      "text": "\\(60 ( 2 x - 1 ) = 15 ( 8 x + 5 )\\)",
+      "math": [
+        "60 ( 2 x - 1 ) = 15 ( 8 x + 5 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>60</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>15</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>8</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>60</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>15</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>8</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 41,
+      "anchor": "fs-id1167830122072",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Classify Equations",
+        "In the following exercises, classify each equation as a conditional equation, an identity, or a contradiction and then state the solution."
+      ],
+      "text": "\\(9 ( 14 d + 9 ) + 4 d = 13 ( 10 d + 6 ) + 3\\)",
+      "math": [
+        "9 ( 14 d + 9 ) + 4 d = 13 ( 10 d + 6 ) + 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>9</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mn>14</mn>\n          <mi>d</mi>\n          <mo>+</mo>\n          <mn>9</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>d</mi>\n          <mo>=</mo>\n          <mn>13</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>10</mn>\n              <mi>d</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>9</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mn>14</mn>\n          <mi>d</mi>\n          <mo>+</mo>\n          <mn>9</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>d</mi>\n          <mo>=</mo>\n          <mn>13</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>10</mn>\n              <mi>d</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 42,
+      "anchor": "fs-id1167829789388",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Classify Equations",
+        "In the following exercises, classify each equation as a conditional equation, an identity, or a contradiction and then state the solution."
+      ],
+      "text": "\\(11 ( 8 c + 5 ) - 8 c = 2 ( 40 c + 25 ) + 5\\)",
+      "math": [
+        "11 ( 8 c + 5 ) - 8 c = 2 ( 40 c + 25 ) + 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>11</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mn>8</mn>\n          <mi>c</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>−</mo>\n          <mn>8</mn>\n          <mi>c</mi>\n          <mo>=</mo>\n          <mn>2</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>40</mn>\n              <mi>c</mi>\n              <mo>+</mo>\n              <mn>25</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>11</mn>\n          <mo stretchy=\"false\">(</mo>\n          <mn>8</mn>\n          <mi>c</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>−</mo>\n          <mn>8</mn>\n          <mi>c</mi>\n          <mo>=</mo>\n          <mn>2</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>40</mn>\n              <mi>c</mi>\n              <mo>+</mo>\n              <mn>25</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 43,
+      "anchor": "fs-id1167833271826",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Solve Equations with Fraction or Decimal Coefficients",
+        "In the following exercises, solve each equation with fraction coefficients."
+      ],
+      "text": "\\(\\frac{1}{4} x - \\frac{1}{2} = - \\frac{3}{4}\\)",
+      "math": [
+        "\\frac{1}{4} x - \\frac{1}{2} = - \\frac{3}{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>4</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>4</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 44,
+      "anchor": "fs-id1167826025266",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Solve Equations with Fraction or Decimal Coefficients",
+        "In the following exercises, solve each equation with fraction coefficients."
+      ],
+      "text": "\\(\\frac{3}{4} x - \\frac{1}{2} = \\frac{1}{4}\\)",
+      "math": [
+        "\\frac{3}{4} x - \\frac{1}{2} = \\frac{1}{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>3</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>3</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 45,
+      "anchor": "fs-id1167830123905",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Solve Equations with Fraction or Decimal Coefficients",
+        "In the following exercises, solve each equation with fraction coefficients."
+      ],
+      "text": "\\(\\frac{5}{6} y - \\frac{2}{3} = - \\frac{3}{2}\\)",
+      "math": [
+        "\\frac{5}{6} y - \\frac{2}{3} = - \\frac{3}{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>5</mn>\n            <mn>6</mn>\n          </mfrac>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>2</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>5</mn>\n            <mn>6</mn>\n          </mfrac>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>2</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 46,
+      "anchor": "fs-id1167830123954",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Solve Equations with Fraction or Decimal Coefficients",
+        "In the following exercises, solve each equation with fraction coefficients."
+      ],
+      "text": "\\(\\frac{5}{6} y - \\frac{1}{3} = - \\frac{7}{6}\\)",
+      "math": [
+        "\\frac{5}{6} y - \\frac{1}{3} = - \\frac{7}{6}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>5</mn>\n            <mn>6</mn>\n          </mfrac>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>7</mn>\n            <mn>6</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>5</mn>\n            <mn>6</mn>\n          </mfrac>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>7</mn>\n            <mn>6</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 47,
+      "anchor": "fs-id1167829942608",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Solve Equations with Fraction or Decimal Coefficients",
+        "In the following exercises, solve each equation with fraction coefficients."
+      ],
+      "text": "\\(\\frac{1}{2} a + \\frac{3}{8} = \\frac{3}{4}\\)",
+      "math": [
+        "\\frac{1}{2} a + \\frac{3}{8} = \\frac{3}{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mi>a</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>8</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>4</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mi>a</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>8</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>4</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 48,
+      "anchor": "fs-id1167824578529",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Solve Equations with Fraction or Decimal Coefficients",
+        "In the following exercises, solve each equation with fraction coefficients."
+      ],
+      "text": "\\(\\frac{5}{8} b + \\frac{1}{2} = - \\frac{3}{4}\\)",
+      "math": [
+        "\\frac{5}{8} b + \\frac{1}{2} = - \\frac{3}{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>5</mn>\n            <mn>8</mn>\n          </mfrac>\n          <mi>b</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>4</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>5</mn>\n            <mn>8</mn>\n          </mfrac>\n          <mi>b</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>4</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 49,
+      "anchor": "fs-id1167836737964",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Solve Equations with Fraction or Decimal Coefficients",
+        "In the following exercises, solve each equation with fraction coefficients."
+      ],
+      "text": "\\(2 = \\frac{1}{3} x - \\frac{1}{2} x + \\frac{2}{3} x\\)",
+      "math": [
+        "2 = \\frac{1}{3} x - \\frac{1}{2} x + \\frac{2}{3} x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 50,
+      "anchor": "fs-id1167836705164",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Solve Equations with Fraction or Decimal Coefficients",
+        "In the following exercises, solve each equation with fraction coefficients."
+      ],
+      "text": "\\(2 = \\frac{3}{5} x - \\frac{1}{3} x + \\frac{2}{5} x\\)",
+      "math": [
+        "2 = \\frac{3}{5} x - \\frac{1}{3} x + \\frac{2}{5} x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 51,
+      "anchor": "fs-id1167826205092",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Solve Equations with Fraction or Decimal Coefficients",
+        "In the following exercises, solve each equation with fraction coefficients."
+      ],
+      "text": "\\(\\frac{1}{3} w + \\frac{5}{4} = w - \\frac{1}{4}\\)",
+      "math": [
+        "\\frac{1}{3} w + \\frac{5}{4} = w - \\frac{1}{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mi>w</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mi>w</mi>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mi>w</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mi>w</mi>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 52,
+      "anchor": "fs-id1167832951168",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Solve Equations with Fraction or Decimal Coefficients",
+        "In the following exercises, solve each equation with fraction coefficients."
+      ],
+      "text": "\\(\\frac{1}{2} a - \\frac{1}{4} = \\frac{1}{6} a + \\frac{1}{ 12 }\\)",
+      "math": [
+        "\\frac{1}{2} a - \\frac{1}{4} = \\frac{1}{6} a + \\frac{1}{ 12 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mi>a</mi>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>6</mn>\n          </mfrac>\n          <mi>a</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mi>a</mi>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>6</mn>\n          </mfrac>\n          <mi>a</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 53,
+      "anchor": "fs-id1167836440889",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Solve Equations with Fraction or Decimal Coefficients",
+        "In the following exercises, solve each equation with fraction coefficients."
+      ],
+      "text": "\\(\\frac{1}{3} b + \\frac{1}{5} = \\frac{2}{5} b - \\frac{3}{5}\\)",
+      "math": [
+        "\\frac{1}{3} b + \\frac{1}{5} = \\frac{2}{5} b - \\frac{3}{5}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mi>b</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mi>b</mi>\n          <mo>−</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>5</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mi>b</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mi>b</mi>\n          <mo>−</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>5</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 54,
+      "anchor": "fs-id1167836690179",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Solve Equations with Fraction or Decimal Coefficients",
+        "In the following exercises, solve each equation with fraction coefficients."
+      ],
+      "text": "\\(\\frac{1}{3} x + \\frac{2}{5} = \\frac{1}{5} x - \\frac{2}{5}\\)",
+      "math": [
+        "\\frac{1}{3} x + \\frac{2}{5} = \\frac{1}{5} x - \\frac{2}{5}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>5</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>5</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 55,
+      "anchor": "fs-id1167836440167",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Solve Equations with Fraction or Decimal Coefficients",
+        "In the following exercises, solve each equation with fraction coefficients."
+      ],
+      "text": "\\(\\frac{1}{4} ( p - 7 ) = \\frac{1}{3} ( p + 5 )\\)",
+      "math": [
+        "\\frac{1}{4} ( p - 7 ) = \\frac{1}{3} ( p + 5 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>p</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>p</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>p</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>p</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 56,
+      "anchor": "fs-id1167829717617",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Solve Equations with Fraction or Decimal Coefficients",
+        "In the following exercises, solve each equation with fraction coefficients."
+      ],
+      "text": "\\(\\frac{1}{5} ( q + 3 ) = \\frac{1}{2} ( q - 3 )\\)",
+      "math": [
+        "\\frac{1}{5} ( q + 3 ) = \\frac{1}{2} ( q - 3 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>q</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>q</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>q</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>q</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 57,
+      "anchor": "fs-id1167833024688",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Solve Equations with Fraction or Decimal Coefficients",
+        "In the following exercises, solve each equation with fraction coefficients."
+      ],
+      "text": "\\(\\frac{1}{2} ( x + 4 ) = \\frac{3}{4}\\)",
+      "math": [
+        "\\frac{1}{2} ( x + 4 ) = \\frac{3}{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>4</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>4</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 58,
+      "anchor": "fs-id1167836738014",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Solve Equations with Fraction or Decimal Coefficients",
+        "In the following exercises, solve each equation with fraction coefficients."
+      ],
+      "text": "\\(\\frac{1}{3} ( x + 5 ) = \\frac{5}{6}\\)",
+      "math": [
+        "\\frac{1}{3} ( x + 5 ) = \\frac{5}{6}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mn>6</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mn>6</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 59,
+      "anchor": "fs-id1167829650961",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Solve Equations with Fraction or Decimal Coefficients",
+        "In the following exercises, solve each equation with fraction coefficients."
+      ],
+      "text": "\\(\\frac{ 4 n + 8 }{4} = \\frac{n}{3}\\)",
+      "math": [
+        "\\frac{ 4 n + 8 }{4} = \\frac{n}{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n            <mn>4</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mfrac>\n            <mi>n</mi>\n            <mn>3</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n            <mn>4</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mfrac>\n            <mi>n</mi>\n            <mn>3</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 60,
+      "anchor": "fs-id1167829651006",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Solve Equations with Fraction or Decimal Coefficients",
+        "In the following exercises, solve each equation with fraction coefficients."
+      ],
+      "text": "\\(\\frac{ 3 p + 6 }{3} = \\frac{p}{2}\\)",
+      "math": [
+        "\\frac{ 3 p + 6 }{3} = \\frac{p}{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>p</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n            <mn>3</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mfrac>\n            <mi>p</mi>\n            <mn>2</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>p</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n            <mn>3</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mfrac>\n            <mi>p</mi>\n            <mn>2</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 61,
+      "anchor": "fs-id1167836450495",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Solve Equations with Fraction or Decimal Coefficients",
+        "In the following exercises, solve each equation with fraction coefficients."
+      ],
+      "text": "\\(\\frac{ 3 x + 4 }{2} + 1 = \\frac{ 5 x + 10 }{8}\\)",
+      "math": [
+        "\\frac{ 3 x + 4 }{2} + 1 = \\frac{ 5 x + 10 }{8}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n            <mn>2</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mn>1</mn>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>10</mn>\n            </mrow>\n            <mn>8</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n            <mn>2</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mn>1</mn>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>10</mn>\n            </mrow>\n            <mn>8</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 62,
+      "anchor": "fs-id1167836705291",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Solve Equations with Fraction or Decimal Coefficients",
+        "In the following exercises, solve each equation with fraction coefficients."
+      ],
+      "text": "\\(\\frac{ 10 y - 2 }{3} + 3 = \\frac{ 10 y + 1 }{9}\\)",
+      "math": [
+        "\\frac{ 10 y - 2 }{3} + 3 = \\frac{ 10 y + 1 }{9}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>10</mn>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mn>3</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mn>10</mn>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>10</mn>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mn>3</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mn>10</mn>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 63,
+      "anchor": "fs-id1167836650234",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Solve Equations with Fraction or Decimal Coefficients",
+        "In the following exercises, solve each equation with fraction coefficients."
+      ],
+      "text": "\\(\\frac{ 7 u - 1 }{4} - 1 = \\frac{ 4 u + 8 }{5}\\)",
+      "math": [
+        "\\frac{ 7 u - 1 }{4} - 1 = \\frac{ 4 u + 8 }{5}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>7</mn>\n              <mi>u</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mn>4</mn>\n          </mfrac>\n          <mo>−</mo>\n          <mn>1</mn>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <mi>u</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n            <mn>5</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>7</mn>\n              <mi>u</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mn>4</mn>\n          </mfrac>\n          <mo>−</mo>\n          <mn>1</mn>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <mi>u</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n            <mn>5</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 64,
+      "anchor": "fs-id1167826131800",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Solve Equations with Fraction or Decimal Coefficients",
+        "In the following exercises, solve each equation with fraction coefficients."
+      ],
+      "text": "\\(\\frac{ 3 v - 6 }{2} + 5 = \\frac{ 11 v - 4 }{5}\\)",
+      "math": [
+        "\\frac{ 3 v - 6 }{2} + 5 = \\frac{ 11 v - 4 }{5}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>v</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n            <mn>2</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mn>11</mn>\n              <mi>v</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mn>5</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>v</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n            <mn>2</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mn>11</mn>\n              <mi>v</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mn>5</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 65,
+      "anchor": "fs-id1167829850834",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "In the following exercises, solve each equation with fraction coefficients.",
+        "In the following exercises, solve each equation with decimal coefficients."
+      ],
+      "text": "\\(0.4 x + 0.6 = 0.5 x - 1.2\\)",
+      "math": [
+        "0.4 x + 0.6 = 0.5 x - 1.2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>0.4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>0.6</mn>\n          <mo>=</mo>\n          <mn>0.5</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1.2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>0.4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>0.6</mn>\n          <mo>=</mo>\n          <mn>0.5</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1.2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 66,
+      "anchor": "fs-id1167836663992",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "In the following exercises, solve each equation with fraction coefficients.",
+        "In the following exercises, solve each equation with decimal coefficients."
+      ],
+      "text": "\\(0.7 x + 0.4 = 0.6 x + 2.4\\)",
+      "math": [
+        "0.7 x + 0.4 = 0.6 x + 2.4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>0.7</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>0.4</mn>\n          <mo>=</mo>\n          <mn>0.6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2.4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>0.7</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>0.4</mn>\n          <mo>=</mo>\n          <mn>0.6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2.4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 67,
+      "anchor": "fs-id1167836609439",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "In the following exercises, solve each equation with fraction coefficients.",
+        "In the following exercises, solve each equation with decimal coefficients."
+      ],
+      "text": "\\(0.9 x - 1.25 = 0.75 x + 1.75\\)",
+      "math": [
+        "0.9 x - 1.25 = 0.75 x + 1.75"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>0.9</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1.25</mn>\n          <mo>=</mo>\n          <mn>0.75</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>1.75</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>0.9</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1.25</mn>\n          <mo>=</mo>\n          <mn>0.75</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>1.75</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 68,
+      "anchor": "fs-id1167836609483",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "In the following exercises, solve each equation with fraction coefficients.",
+        "In the following exercises, solve each equation with decimal coefficients."
+      ],
+      "text": "\\(1.2 x - 0.91 = 0.8 x + 2.29\\)",
+      "math": [
+        "1.2 x - 0.91 = 0.8 x + 2.29"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>1.2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>0.91</mn>\n          <mo>=</mo>\n          <mn>0.8</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2.29</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>1.2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>0.91</mn>\n          <mo>=</mo>\n          <mn>0.8</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2.29</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 69,
+      "anchor": "fs-id1167833053741",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "In the following exercises, solve each equation with fraction coefficients.",
+        "In the following exercises, solve each equation with decimal coefficients."
+      ],
+      "text": "\\(0.05 n + 0.10 ( n + 8 ) = 2.15\\)",
+      "math": [
+        "0.05 n + 0.10 ( n + 8 ) = 2.15"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>0.05</mn>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mn>0.10</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>2.15</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>0.05</mn>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mn>0.10</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>2.15</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 70,
+      "anchor": "fs-id1167833129307",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "In the following exercises, solve each equation with fraction coefficients.",
+        "In the following exercises, solve each equation with decimal coefficients."
+      ],
+      "text": "\\(0.05 n + 0.10 ( n + 7 ) = 3.55\\)",
+      "math": [
+        "0.05 n + 0.10 ( n + 7 ) = 3.55"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>0.05</mn>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mn>0.10</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>3.55</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>0.05</mn>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mn>0.10</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>3.55</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 71,
+      "anchor": "fs-id1167830074808",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "In the following exercises, solve each equation with fraction coefficients.",
+        "In the following exercises, solve each equation with decimal coefficients."
+      ],
+      "text": "\\(0.10 d + 0.25 ( d + 5 ) = 4.05\\)",
+      "math": [
+        "0.10 d + 0.25 ( d + 5 ) = 4.05"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>0.10</mn>\n          <mi>d</mi>\n          <mo>+</mo>\n          <mn>0.25</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>d</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>4.05</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>0.10</mn>\n          <mi>d</mi>\n          <mo>+</mo>\n          <mn>0.25</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>d</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>4.05</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 72,
+      "anchor": "fs-id1167830074858",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "In the following exercises, solve each equation with fraction coefficients.",
+        "In the following exercises, solve each equation with decimal coefficients."
+      ],
+      "text": "\\(0.10 d + 0.25 ( d + 7 ) = 5.25\\)",
+      "math": [
+        "0.10 d + 0.25 ( d + 7 ) = 5.25"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>0.10</mn>\n          <mi>d</mi>\n          <mo>+</mo>\n          <mn>0.25</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>d</mi>\n              <mo>+</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>5.25</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>0.10</mn>\n          <mi>d</mi>\n          <mo>+</mo>\n          <mn>0.25</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>d</mi>\n              <mo>+</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>5.25</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 73,
+      "anchor": "fs-id1167832935831",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Everyday Math"
+      ],
+      "text": "Fencing Micah has 74 feet of fencing to make a dog run in his yard. He wants the length to be 2.5 feet more than the width. Find the length, L, by solving the equation \\(2L+2(L-2.5)=74.\\)",
+      "math": [
+        "2L+2(L-2.5)=74."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mi>L</mi><mo>+</mo><mn>2</mn><mo stretchy=\"false\">(</mo><mi>L</mi><mo>−</mo><mn>2.5</mn><mo stretchy=\"false\">)</mo><mo>=</mo><mn>74</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mi>L</mi><mo>+</mo><mn>2</mn><mo stretchy=\"false\">(</mo><mi>L</mi><mo>−</mo><mn>2.5</mn><mo stretchy=\"false\">)</mo><mo>=</mo><mn>74</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 74,
+      "anchor": "fs-id1167836399660",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Everyday Math"
+      ],
+      "text": "Stamps Paula bought $22.82 worth of 49-cent stamps and 21-cent stamps. The number of 21-cent stamps was eight less than the number of49-cent stamps. Solve the equation\\(0.49s+0.21​(s-8)​​=22.82\\) for s, to find the number of 49-cent stamps Paula bought.",
+      "math": [
+        "0.49s+0.21​(s-8)​​=22.82"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>0.49</mn><mi>s</mi><mo>+</mo><mn>0.21</mn><mtext>​</mtext><mo stretchy=\"false\">(</mo><mi>s</mi><mo>−</mo><mn>8</mn><mo stretchy=\"false\">)</mo><mtext>​</mtext><mtext>​</mtext><mo>=</mo><mn>22.82</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>0.49</mn><mi>s</mi><mo>+</mo><mn>0.21</mn><mtext>​</mtext><mo stretchy=\"false\">(</mo><mi>s</mi><mo>−</mo><mn>8</mn><mo stretchy=\"false\">)</mo><mtext>​</mtext><mtext>​</mtext><mo>=</mo><mn>22.82</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 75,
+      "anchor": "fs-id1167836567818",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Using your own words, list the steps in the general strategy for solving linear equations.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 76,
+      "anchor": "fs-id1167836567834",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain why you should simplify both sides of an equation as much as possible before collecting the variable terms to one side and the constant terms to the other side.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 77,
+      "anchor": "fs-id1167836567852",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "What is the first step you take when solving the equation \\(3-7(y-4)=38?\\) Why is this your first step?",
+      "math": [
+        "3-7(y-4)=38?"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mo>−</mo><mn>7</mn><mo stretchy=\"false\">(</mo><mi>y</mi><mo>−</mo><mn>4</mn><mo stretchy=\"false\">)</mo><mo>=</mo><mn>38</mn><mo>?</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mo>−</mo><mn>7</mn><mo stretchy=\"false\">(</mo><mi>y</mi><mo>−</mo><mn>4</mn><mo stretchy=\"false\">)</mo><mo>=</mo><mn>38</mn><mo>?</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 78,
+      "anchor": "fs-id1167826172282",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "If an equation has several fractions, how does multiplying both sides by the LCD make it easier to solve?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 79,
+      "anchor": "fs-id1167826172299",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "If an equation has fractions only on one side, why do you have to multiply both sides of the equation by the LCD?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 80,
+      "anchor": "fs-id1167833059104",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "For the equation \\(0.35x+2.1=3.85,\\) how do you clear the decimal?",
+      "math": [
+        "0.35x+2.1=3.85,"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>0.35</mn><mi>x</mi><mo>+</mo><mn>2.1</mn><mo>=</mo><mn>3.85</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>0.35</mn><mi>x</mi><mo>+</mo><mn>2.1</mn><mo>=</mo><mn>3.85</mn><mo>,</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "2.1",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836492374",
+      "context": [
+        "Solve Linear Equations Using a General Strategy"
+      ],
+      "text": "Determine whether the values are solutions to the equation: \\(9y+2=6y+3.\\) ⓐ \\(y=\\frac{4}{3}\\) ⓑ \\(y=\\frac{1}{3}\\)",
+      "math": [
+        "9y+2=6y+3.",
+        "y=\\frac{4}{3}",
+        "y=\\frac{1}{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>9</mn><mi>y</mi><mo>+</mo><mn>2</mn><mo>=</mo><mn>6</mn><mi>y</mi><mo>+</mo><mn>3</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>9</mn><mi>y</mi><mo>+</mo><mn>2</mn><mo>=</mo><mn>6</mn><mi>y</mi><mo>+</mo><mn>3</mn><mo>.</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mfrac><mn>4</mn><mn>3</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mfrac><mn>4</mn><mn>3</mn></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.2",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836579562",
+      "context": [
+        "Solve Linear Equations Using a General Strategy"
+      ],
+      "text": "Determine whether the values are solutions to the equation: \\(4x-2=2x+1.\\) ⓐ \\(x=\\frac{3}{2}\\) ⓑ \\(x=-\\frac{1}{2}\\)",
+      "math": [
+        "4x-2=2x+1.",
+        "x=\\frac{3}{2}",
+        "x=-\\frac{1}{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mi>x</mi><mo>−</mo><mn>2</mn><mo>=</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mi>x</mi><mo>−</mo><mn>2</mn><mo>=</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.3",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836613031",
+      "context": [
+        "Solve Linear Equations Using a General Strategy"
+      ],
+      "text": "Solve: \\(2(m-4)+3=-1.\\)",
+      "math": [
+        "2(m-4)+3=-1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mrow><mo>(</mo><mrow><mi>m</mi><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>+</mo><mn>3</mn><mo>=</mo><mn>−1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mrow><mo>(</mo><mrow><mi>m</mi><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>+</mo><mn>3</mn><mo>=</mo><mn>−1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.4",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167829739303",
+      "context": [
+        "Solve Linear Equations Using a General Strategy"
+      ],
+      "text": "Solve: \\(5(a-3)+5=-10.\\)",
+      "math": [
+        "5(a-3)+5=-10."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mrow><mo>(</mo><mrow><mi>a</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>+</mo><mn>5</mn><mo>=</mo><mn>−10</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mrow><mo>(</mo><mrow><mi>a</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>+</mo><mn>5</mn><mo>=</mo><mn>−10</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.5",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167833397229",
+      "context": [
+        "Solve Linear Equations Using a General Strategy"
+      ],
+      "text": "Solve: \\(\\frac{1}{3}(6u+3)=7-u.\\)",
+      "math": [
+        "\\frac{1}{3}(6u+3)=7-u."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac><mo stretchy=\"false\">(</mo><mn>6</mn><mi>u</mi><mo>+</mo><mn>3</mn><mo stretchy=\"false\">)</mo><mo>=</mo><mn>7</mn><mo>−</mo><mi>u</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac><mo stretchy=\"false\">(</mo><mn>6</mn><mi>u</mi><mo>+</mo><mn>3</mn><mo stretchy=\"false\">)</mo><mo>=</mo><mn>7</mn><mo>−</mo><mi>u</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.6",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836356384",
+      "context": [
+        "Solve Linear Equations Using a General Strategy"
+      ],
+      "text": "Solve: \\(\\frac{2}{3}(9x-12)=8+2x.\\)",
+      "math": [
+        "\\frac{2}{3}(9x-12)=8+2x."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>2</mn><mn>3</mn></mfrac><mo stretchy=\"false\">(</mo><mn>9</mn><mi>x</mi><mo>−</mo><mn>12</mn><mo stretchy=\"false\">)</mo><mo>=</mo><mn>8</mn><mo>+</mo><mn>2</mn><mi>x</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>2</mn><mn>3</mn></mfrac><mo stretchy=\"false\">(</mo><mn>9</mn><mi>x</mi><mo>−</mo><mn>12</mn><mo stretchy=\"false\">)</mo><mo>=</mo><mn>8</mn><mo>+</mo><mn>2</mn><mi>x</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.7",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167833020031",
+      "context": [
+        "Solve Linear Equations Using a General Strategy"
+      ],
+      "text": "Solve: \\(6(p-3)-7=5(4p+3)-12.\\)",
+      "math": [
+        "6(p-3)-7=5(4p+3)-12."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>6</mn><mrow><mo>(</mo><mrow><mi>p</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>−</mo><mn>7</mn><mo>=</mo><mn>5</mn><mrow><mo>(</mo><mrow><mn>4</mn><mi>p</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>−</mo><mn>12</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>6</mn><mrow><mo>(</mo><mrow><mi>p</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>−</mo><mn>7</mn><mo>=</mo><mn>5</mn><mrow><mo>(</mo><mrow><mn>4</mn><mi>p</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>−</mo><mn>12</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.8",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836357330",
+      "context": [
+        "Solve Linear Equations Using a General Strategy"
+      ],
+      "text": "Solve: \\(8(q+1)-5=3(2q-4)-1.\\)",
+      "math": [
+        "8(q+1)-5=3(2q-4)-1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>8</mn><mrow><mo>(</mo><mrow><mi>q</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>−</mo><mn>5</mn><mo>=</mo><mn>3</mn><mrow><mo>(</mo><mrow><mn>2</mn><mi>q</mi><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>−</mo><mn>1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>8</mn><mrow><mo>(</mo><mrow><mi>q</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>−</mo><mn>5</mn><mo>=</mo><mn>3</mn><mrow><mo>(</mo><mrow><mn>2</mn><mi>q</mi><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>−</mo><mn>1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.9",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836296969",
+      "context": [
+        "Solve Linear Equations Using a General Strategy"
+      ],
+      "text": "Solve: \\(6[4-2(7y-1)]=8(13-8y).\\)",
+      "math": [
+        "6[4-2(7y-1)]=8(13-8y)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>6</mn><mrow><mo>[</mo><mrow><mn>4</mn><mo>−</mo><mn>2</mn><mrow><mo>(</mo><mrow><mn>7</mn><mi>y</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow><mo>]</mo></mrow><mo>=</mo><mn>8</mn><mrow><mo>(</mo><mrow><mn>13</mn><mo>−</mo><mn>8</mn><mi>y</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>6</mn><mrow><mo>[</mo><mrow><mn>4</mn><mo>−</mo><mn>2</mn><mrow><mo>(</mo><mrow><mn>7</mn><mi>y</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow><mo>]</mo></mrow><mo>=</mo><mn>8</mn><mrow><mo>(</mo><mrow><mn>13</mn><mo>−</mo><mn>8</mn><mi>y</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.10",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167829791737",
+      "context": [
+        "Solve Linear Equations Using a General Strategy"
+      ],
+      "text": "Solve: \\(12[1-5(4z-1)]=3(24+11z).\\)",
+      "math": [
+        "12[1-5(4z-1)]=3(24+11z)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>12</mn><mrow><mo>[</mo><mrow><mn>1</mn><mo>−</mo><mn>5</mn><mrow><mo>(</mo><mrow><mn>4</mn><mi>z</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow><mo>]</mo></mrow><mo>=</mo><mn>3</mn><mrow><mo>(</mo><mrow><mn>24</mn><mo>+</mo><mn>11</mn><mi>z</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>12</mn><mrow><mo>[</mo><mrow><mn>1</mn><mo>−</mo><mn>5</mn><mrow><mo>(</mo><mrow><mn>4</mn><mi>z</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow><mo>]</mo></mrow><mo>=</mo><mn>3</mn><mrow><mo>(</mo><mrow><mn>24</mn><mo>+</mo><mn>11</mn><mi>z</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.11",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836686437",
+      "context": [
+        "Classify Equations"
+      ],
+      "text": "Classify the equation as a conditional equation, an identity, or a contradiction and then state the solution: \\(4+9(3x-7)=-42x-13+23(3x-2).\\)",
+      "math": [
+        "4+9(3x-7)=-42x-13+23(3x-2)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mo>+</mo><mn>9</mn><mrow><mo>(</mo><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>7</mn></mrow><mo>)</mo></mrow><mo>=</mo><mn>−42</mn><mi>x</mi><mo>−</mo><mn>13</mn><mo>+</mo><mn>23</mn><mrow><mo>(</mo><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mo>+</mo><mn>9</mn><mrow><mo>(</mo><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>7</mn></mrow><mo>)</mo></mrow><mo>=</mo><mn>−42</mn><mi>x</mi><mo>−</mo><mn>13</mn><mo>+</mo><mn>23</mn><mrow><mo>(</mo><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.12",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836609322",
+      "context": [
+        "Classify Equations"
+      ],
+      "text": "Classify the equation as a conditional equation, an identity, or a contradiction and then state the solution: \\(8(1-3x)+15(2x+7)=2(x+50)+4(x+3)+1.\\)",
+      "math": [
+        "8(1-3x)+15(2x+7)=2(x+50)+4(x+3)+1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>8</mn><mrow><mo>(</mo><mrow><mn>1</mn><mo>−</mo><mn>3</mn><mi>x</mi></mrow><mo>)</mo></mrow><mo>+</mo><mn>15</mn><mrow><mo>(</mo><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>7</mn></mrow><mo>)</mo></mrow><mo>=</mo><mn>2</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>50</mn></mrow><mo>)</mo></mrow><mo>+</mo><mn>4</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>+</mo><mn>1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>8</mn><mrow><mo>(</mo><mrow><mn>1</mn><mo>−</mo><mn>3</mn><mi>x</mi></mrow><mo>)</mo></mrow><mo>+</mo><mn>15</mn><mrow><mo>(</mo><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>7</mn></mrow><mo>)</mo></mrow><mo>=</mo><mn>2</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>50</mn></mrow><mo>)</mo></mrow><mo>+</mo><mn>4</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>+</mo><mn>1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.13",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167833059264",
+      "context": [
+        "Classify Equations"
+      ],
+      "text": "Classify the equation as a conditional equation, an identity, or a contradiction and then state the solution: \\(11(q+3)-5=19.\\)",
+      "math": [
+        "11(q+3)-5=19."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>11</mn><mrow><mo>(</mo><mrow><mi>q</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>−</mo><mn>5</mn><mo>=</mo><mn>19</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>11</mn><mrow><mo>(</mo><mrow><mi>q</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>−</mo><mn>5</mn><mo>=</mo><mn>19</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.14",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167826170312",
+      "context": [
+        "Classify Equations"
+      ],
+      "text": "Classify the equation as a conditional equation, an identity, or a contradiction and then state the solution: \\(6+14(k-8)=95.\\)",
+      "math": [
+        "6+14(k-8)=95."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>6+14</mn><mrow><mo>(</mo><mrow><mi>k</mi><mo>−</mo><mn>8</mn></mrow><mo>)</mo></mrow><mo>=</mo><mn>95</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>6+14</mn><mrow><mo>(</mo><mrow><mi>k</mi><mo>−</mo><mn>8</mn></mrow><mo>)</mo></mrow><mo>=</mo><mn>95</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.15",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836288569",
+      "context": [
+        "Classify Equations"
+      ],
+      "text": "Classify the equation as a conditional equation, an identity, or a contradiction and then state the solution: \\(12c+5(5+3c)=3(9c-4).\\)",
+      "math": [
+        "12c+5(5+3c)=3(9c-4)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>12</mn><mi>c</mi><mo>+</mo><mn>5</mn><mrow><mo>(</mo><mrow><mn>5</mn><mo>+</mo><mn>3</mn><mi>c</mi></mrow><mo>)</mo></mrow><mo>=</mo><mn>3</mn><mrow><mo>(</mo><mrow><mn>9</mn><mi>c</mi><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>12</mn><mi>c</mi><mo>+</mo><mn>5</mn><mrow><mo>(</mo><mrow><mn>5</mn><mo>+</mo><mn>3</mn><mi>c</mi></mrow><mo>)</mo></mrow><mo>=</mo><mn>3</mn><mrow><mo>(</mo><mrow><mn>9</mn><mi>c</mi><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.16",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836506441",
+      "context": [
+        "Classify Equations"
+      ],
+      "text": "Classify the equation as a conditional equation, an identity, or a contradiction and then state the solution: \\(4(7d+18)=13(3d-2)-11d.\\)",
+      "math": [
+        "4(7d+18)=13(3d-2)-11d."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mrow><mo>(</mo><mrow><mn>7</mn><mi>d</mi><mo>+</mo><mn>18</mn></mrow><mo>)</mo></mrow><mo>=</mo><mn>13</mn><mrow><mo>(</mo><mrow><mn>3</mn><mi>d</mi><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>−</mo><mn>11</mn><mi>d</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mrow><mo>(</mo><mrow><mn>7</mn><mi>d</mi><mo>+</mo><mn>18</mn></mrow><mo>)</mo></mrow><mo>=</mo><mn>13</mn><mrow><mo>(</mo><mrow><mn>3</mn><mi>d</mi><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>−</mo><mn>11</mn><mi>d</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.17",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167824734932",
+      "context": [
+        "Solve Equations with Fraction or Decimal Coefficients"
+      ],
+      "text": "Solve: \\(\\frac{1}{4}x+\\frac{1}{2}=\\frac{5}{8}.\\)",
+      "math": [
+        "\\frac{1}{4}x+\\frac{1}{2}=\\frac{5}{8}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac><mi>x</mi><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>=</mo><mfrac><mn>5</mn><mn>8</mn></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac><mi>x</mi><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>=</mo><mfrac><mn>5</mn><mn>8</mn></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.18",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167825824540",
+      "context": [
+        "Solve Equations with Fraction or Decimal Coefficients"
+      ],
+      "text": "Solve: \\(\\frac{1}{8}x+\\frac{1}{2}=\\frac{1}{4}.\\)",
+      "math": [
+        "\\frac{1}{8}x+\\frac{1}{2}=\\frac{1}{4}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mn>8</mn></mfrac><mi>x</mi><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mn>8</mn></mfrac><mi>x</mi><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.19",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167826131897",
+      "context": [
+        "Solve Equations with Fraction or Decimal Coefficients"
+      ],
+      "text": "Solve: \\(7=\\frac{1}{2}x+\\frac{3}{4}x-\\frac{2}{3}x.\\)",
+      "math": [
+        "7=\\frac{1}{2}x+\\frac{3}{4}x-\\frac{2}{3}x."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>7</mn><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi><mo>+</mo><mfrac><mn>3</mn><mn>4</mn></mfrac><mi>x</mi><mo>−</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>x</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>7</mn><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi><mo>+</mo><mfrac><mn>3</mn><mn>4</mn></mfrac><mi>x</mi><mo>−</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>x</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.20",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836444764",
+      "context": [
+        "Solve Equations with Fraction or Decimal Coefficients"
+      ],
+      "text": "Solve: \\(-1=\\frac{1}{2}u+\\frac{1}{4}u-\\frac{2}{3}u.\\)",
+      "math": [
+        "-1=\\frac{1}{2}u+\\frac{1}{4}u-\\frac{2}{3}u."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−1</mn><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>u</mi><mo>+</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mi>u</mi><mo>−</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>u</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−1</mn><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>u</mi><mo>+</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mi>u</mi><mo>−</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>u</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.21",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167824733002",
+      "context": [
+        "Solve Equations with Fraction or Decimal Coefficients"
+      ],
+      "text": "Solve: \\(\\frac{1}{5}(n+3)=\\frac{1}{4}(n+2).\\)",
+      "math": [
+        "\\frac{1}{5}(n+3)=\\frac{1}{4}(n+2)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac><mrow><mo>(</mo><mrow><mi>n</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mrow><mo>(</mo><mrow><mi>n</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac><mrow><mo>(</mo><mrow><mi>n</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mrow><mo>(</mo><mrow><mi>n</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.22",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167829709194",
+      "context": [
+        "Solve Equations with Fraction or Decimal Coefficients"
+      ],
+      "text": "Solve: \\(\\frac{1}{2}(m-3)=\\frac{1}{4}(m-7).\\)",
+      "math": [
+        "\\frac{1}{2}(m-3)=\\frac{1}{4}(m-7)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mrow><mo>(</mo><mrow><mi>m</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mrow><mo>(</mo><mrow><mi>m</mi><mo>−</mo><mn>7</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mrow><mo>(</mo><mrow><mi>m</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mrow><mo>(</mo><mrow><mi>m</mi><mo>−</mo><mn>7</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.23",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167833031480",
+      "context": [
+        "Solve Equations with Fraction or Decimal Coefficients"
+      ],
+      "text": "Solve: \\(\\frac{3r+5}{6}+1=\\frac{4r+3}{3}.\\)",
+      "math": [
+        "\\frac{3r+5}{6}+1=\\frac{4r+3}{3}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mn>3</mn><mi>r</mi><mo>+</mo><mn>5</mn></mrow><mn>6</mn></mfrac><mo>+</mo><mn>1</mn><mo>=</mo><mfrac><mrow><mn>4</mn><mi>r</mi><mo>+</mo><mn>3</mn></mrow><mn>3</mn></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mn>3</mn><mi>r</mi><mo>+</mo><mn>5</mn></mrow><mn>6</mn></mfrac><mo>+</mo><mn>1</mn><mo>=</mo><mfrac><mrow><mn>4</mn><mi>r</mi><mo>+</mo><mn>3</mn></mrow><mn>3</mn></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.24",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167824736831",
+      "context": [
+        "Solve Equations with Fraction or Decimal Coefficients"
+      ],
+      "text": "Solve: \\(\\frac{2s+3}{2}+1=\\frac{3s+2}{4}.\\)",
+      "math": [
+        "\\frac{2s+3}{2}+1=\\frac{3s+2}{4}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mn>2</mn><mi>s</mi><mo>+</mo><mn>3</mn></mrow><mn>2</mn></mfrac><mo>+</mo><mn>1</mn><mo>=</mo><mfrac><mrow><mn>3</mn><mi>s</mi><mo>+</mo><mn>2</mn></mrow><mn>4</mn></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mn>2</mn><mi>s</mi><mo>+</mo><mn>3</mn></mrow><mn>2</mn></mfrac><mo>+</mo><mn>1</mn><mo>=</mo><mfrac><mrow><mn>3</mn><mi>s</mi><mo>+</mo><mn>2</mn></mrow><mn>4</mn></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.25",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167824767352",
+      "context": [
+        "Solve Equations with Fraction or Decimal Coefficients"
+      ],
+      "text": "Solve: \\(0.25n+0.05(n+5)=2.95.\\)",
+      "math": [
+        "0.25n+0.05(n+5)=2.95."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>0.25</mn><mi>n</mi><mo>+</mo><mn>0.05</mn><mo stretchy=\"false\">(</mo><mi>n</mi><mo>+</mo><mn>5</mn><mo stretchy=\"false\">)</mo><mo>=</mo><mn>2.95</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>0.25</mn><mi>n</mi><mo>+</mo><mn>0.05</mn><mo stretchy=\"false\">(</mo><mi>n</mi><mo>+</mo><mn>5</mn><mo stretchy=\"false\">)</mo><mo>=</mo><mn>2.95</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.26",
+      "page": "2-1-use-a-general-strategy-to-solve-linear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167824617120",
+      "context": [
+        "Solve Equations with Fraction or Decimal Coefficients"
+      ],
+      "text": "Solve: \\(0.10d+0.05(d-5)=2.15.\\)",
+      "math": [
+        "0.10d+0.05(d-5)=2.15."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>0.10</mn><mi>d</mi><mo>+</mo><mn>0.05</mn><mo stretchy=\"false\">(</mo><mi>d</mi><mo>−</mo><mn>5</mn><mo stretchy=\"false\">)</mo><mo>=</mo><mn>2.15</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>0.10</mn><mi>d</mi><mo>+</mo><mn>0.05</mn><mo stretchy=\"false\">(</mo><mi>d</mi><mo>−</mo><mn>5</mn><mo stretchy=\"false\">)</mo><mo>=</mo><mn>2.15</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

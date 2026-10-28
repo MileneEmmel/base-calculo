@@ -1,0 +1,23 @@
+# Fontes para ampliar o banco — pesquisa de 25/10/2026
+
+Pesquisa documental, sem importação de novos exercícios. Prioridade: conteúdo adequado aos tópicos já cadastrados, origem identificável e licença que permita tradução e adaptação. Disponibilidade gratuita para leitura, isoladamente, não comprova permissão de republicação.
+
+| Fonte | Conteúdo e idioma | Condições verificadas | Prioridade e trabalho necessário |
+|---|---|---|---|
+| [OpenStax](https://openstax.org/subjects/math) | Matemática básica, álgebra, funções, trigonometria e cálculo; inglês | As páginas atuais e a [política oficial](https://help.openstax.org/s/article/Licensing-information-of-OpenStax-textbooks) indicam CC BY-NC-SA 4.0 | Alta: ampliar as quatro obras já usadas e selecionar outras seções. Traduzir e produzir resolução própria; respostas de itens pares podem estar restritas aos recursos de professores. Conferir licença de cada obra/componente. |
+| [REAMAT — Cálculo, UFRGS](https://github.com/reamat/Calculo) | Cálculo de uma e várias variáveis; português; fontes em LaTeX | O README do próprio projeto declara CC BY-SA 3.0 | Alta: reduz a necessidade de tradução. Selecionar os exercícios de funções de uma variável e conferir cada solução. Preservar a licença BY-SA dos itens derivados; não fundir seu texto com exercícios BY-NC-SA numa única adaptação sob licença incompatível. |
+| [Active Calculus — Single Variable](https://activecalculus.org/acs/) | Limites, derivadas, integrais e atividades conceituais; inglês | O [colofão da edição 2](https://activecalculus.org/single/frontmatter-3.html) informa CC BY-SA 4.0, inclusive adaptação comercial | Alta para perguntas de interpretação e exploração visual. Traduzir, adaptar o formato de atividades e preservar BY-SA. O [Active Prelude](https://activecalculus.org/) também merece seleção para pré-cálculo. Verificar a edição: PDFs antigos e outros volumes podem declarar condições diferentes. |
+| [APEX Calculus](https://www.apexcalculus.com/) | Limites, derivadas, aplicações, integrais e técnicas; inglês | A [FAQ oficial](https://www.apexcalculus.com/faq) declara CC BY-NC e permite modificar com crédito e sem venda | Média/alta para técnicas e exercícios tradicionais. Registrar a versão exata da licença no exemplar escolhido antes de importar; a FAQ não basta para fixar a versão numérica de todos os arquivos. |
+| [WeBWorK Open Problem Library](https://github.com/openwebwork/webwork-open-problem-library) | Álgebra, pré-cálculo, cálculo e outros assuntos; predominantemente inglês; problemas parametrizados | [OPL_LICENSE](https://github.com/openwebwork/webwork-open-problem-library/blob/main/OPL_LICENSE) e [wiki oficial](https://wiki.openwebwork.org/wiki/Open_Problem_Library): padrão CC BY-NC-SA 3.0, salvo indicação diferente | Média: potencial para muitas variantes, mas exige ler os metadados e a licença de cada arquivo, executar/interpretar os geradores e revisar respostas. Não importar a biblioteca inteira automaticamente. |
+| [Portal da OBMEP — Uso do material](https://portaldaobmep.impa.br/index.php/site/usar) | Matemática básica, funções, geometria e problemas em português | A página oficial indexada informa “Creative Commons 3.0”, mas a consulta direta retornou 404 e não foi possível confirmar a combinação completa BY/NC/SA/ND nesta pesquisa | Candidata relevante para aquecimento e desafio; **pendente de confirmação da licença específica** do material escolhido. Não estender a declaração do Portal automaticamente às provas ou a todos os bancos da OBMEP. |
+
+## Seleção sugerida
+
+1. Preencher os tópicos vazios do catálogo com OpenStax, mantendo o procedimento de revisão atual.
+2. Selecionar materiais do REAMAT para cálculo em português e do Active Calculus para questões conceituais ligadas ao Laboratório.
+3. Acrescentar técnicas de integração com APEX, após fixar o exemplar e a licença, e avaliar WeBWorK para exercícios parametrizados.
+4. Confirmar a licença específica do Portal da OBMEP antes de copiar qualquer enunciado.
+
+As licenças são por obra/item. Um catálogo pode apontar para itens com licenças diferentes, mantendo os respectivos créditos; isso não autoriza misturar textos em uma única adaptação e substituir suas licenças por uma licença global mais restritiva. A pesquisa não acrescentou nenhuma questão ao seed ou ao JSON público.
+
+Para cada futura inclusão: guardar URL, título, autores, edição, número do exercício, licença exata e alterações; revisar o enunciado, resolver independentemente e verificar gráficos/unidades/domínio. Não copiar manuais de soluções restritos como se fossem conteúdo aberto. Não foi necessário criar contas, pedir autorizações ou enviar mensagens durante a pesquisa.

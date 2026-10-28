@@ -1,0 +1,1150 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/3-4-graph-linear-inequalities-in-two-variables",
+  "title": "3.4 Graph Linear Inequalities in Two Variables",
+  "sha256": "36eb360cbc4daa5e0d17e966a4f8233db1e90f4967b3757bc4d53f3a63b0dbee",
+  "questions": [
+    {
+      "number": 237,
+      "anchor": "fs-id1167835376934",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Verify Solutions to an Inequality in Two Variables",
+        "In the following exercises, determine whether each ordered pair is a solution to the given inequality."
+      ],
+      "text": "Determine whether each ordered pair is a solution to the inequality \\(y>x-1:\\) ⓐ \\((0,1)\\)ⓑ \\((-4,-1)\\)ⓒ \\((4,2)\\)ⓓ \\((3,0)\\)ⓔ \\((-2,-3)\\)",
+      "math": [
+        "y>x-1:",
+        "(0,1)",
+        "(-4,-1)",
+        "(4,2)",
+        "(3,0)",
+        "(-2,-3)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>&gt;</mo><mi>x</mi><mo>−</mo><mn>1</mn><mo>:</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>&gt;</mo><mi>x</mi><mo>−</mo><mn>1</mn><mo>:</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 238,
+      "anchor": "fs-id1167832053263",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Verify Solutions to an Inequality in Two Variables",
+        "In the following exercises, determine whether each ordered pair is a solution to the given inequality."
+      ],
+      "text": "Determine whether each ordered pair is a solution to the inequality \\(y>x-3:\\) ⓐ \\((0,0)\\)ⓑ \\((2,1)\\)ⓒ \\((-1,-5)\\)ⓓ \\((-6,-3)\\)ⓔ \\((1,0)\\)",
+      "math": [
+        "y>x-3:",
+        "(0,0)",
+        "(2,1)",
+        "(-1,-5)",
+        "(-6,-3)",
+        "(1,0)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>&gt;</mo><mi>x</mi><mo>−</mo><mn>3</mn><mo>:</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>&gt;</mo><mi>x</mi><mo>−</mo><mn>3</mn><mo>:</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−6</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−6</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 239,
+      "anchor": "fs-id1167831086840",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Verify Solutions to an Inequality in Two Variables",
+        "In the following exercises, determine whether each ordered pair is a solution to the given inequality."
+      ],
+      "text": "Determine whether each ordered pair is a solution to the inequality \\(y<3x+2:\\) ⓐ \\((0,3)\\)ⓑ \\((-3,-2)\\)ⓒ \\((-2,0)\\)ⓓ \\((0,0)\\)ⓔ \\((-1,4)\\)",
+      "math": [
+        "y<3x+2:",
+        "(0,3)",
+        "(-3,-2)",
+        "(-2,0)",
+        "(0,0)",
+        "(-1,4)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>&lt;</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>2</mn><mo>:</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>&lt;</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>2</mn><mo>:</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 240,
+      "anchor": "fs-id1167831023966",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Verify Solutions to an Inequality in Two Variables",
+        "In the following exercises, determine whether each ordered pair is a solution to the given inequality."
+      ],
+      "text": "Determine whether each ordered pair is a solution to the inequality \\(y<-2x+5:\\) ⓐ \\((-3,0)\\)ⓑ \\((1,6)\\)ⓒ \\((-6,-2)\\)ⓓ \\((0,1)\\)ⓔ \\((5,-4)\\)",
+      "math": [
+        "y<-2x+5:",
+        "(-3,0)",
+        "(1,6)",
+        "(-6,-2)",
+        "(0,1)",
+        "(5,-4)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>&lt;</mo><mo>−</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>5</mn><mo>:</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>&lt;</mo><mo>−</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>5</mn><mo>:</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>6</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>6</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−6</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−6</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 241,
+      "anchor": "fs-id1167826997319",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Verify Solutions to an Inequality in Two Variables",
+        "In the following exercises, determine whether each ordered pair is a solution to the given inequality."
+      ],
+      "text": "Determine whether each ordered pair is a solution to the inequality \\(3x-4y>4:\\) ⓐ \\((5,1)\\)ⓑ \\((-2,6)\\)ⓒ \\((3,2)\\)ⓓ \\((10,-5)\\)ⓔ \\((0,0)\\)",
+      "math": [
+        "3x-4y>4:",
+        "(5,1)",
+        "(-2,6)",
+        "(3,2)",
+        "(10,-5)",
+        "(0,0)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn><mi>y</mi><mo>&gt;</mo><mn>4</mn><mo>:</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn><mi>y</mi><mo>&gt;</mo><mn>4</mn><mo>:</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>6</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>6</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>10</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>10</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 242,
+      "anchor": "fs-id1167834396199",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Verify Solutions to an Inequality in Two Variables",
+        "In the following exercises, determine whether each ordered pair is a solution to the given inequality."
+      ],
+      "text": "Determine whether each ordered pair is a solution to the inequality \\(2x+3y>2:\\) ⓐ \\((1,1)\\)ⓑ \\((4,-3)\\)ⓒ \\((0,0)\\)ⓓ \\((-8,12)\\)ⓔ \\((3,0)\\)",
+      "math": [
+        "2x+3y>2:",
+        "(1,1)",
+        "(4,-3)",
+        "(0,0)",
+        "(-8,12)",
+        "(3,0)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>&gt;</mo><mn>2</mn><mo>:</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>&gt;</mo><mn>2</mn><mo>:</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−8</mn><mo>,</mo><mn>12</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−8</mn><mo>,</mo><mn>12</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 243,
+      "anchor": "fs-id1167831086590",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Recognize the Relation Between the Solutions of an Inequality and its Graph",
+        "In the following exercises, write the inequality shown by the shaded region."
+      ],
+      "text": "Write the inequality shown by the graph with the boundary line \\(y=3x-4.\\) [FIGURA: This figure has the graph of a straight line on the x y-coordinate plane. The x and y axes run from negative 10 to 10. A line is drawn through the points (0, negative 4), (1, negative 1), and (2, 2). The line divides the x y-coordinate plane into two halves. The line and the bottom right half are shaded red to indicate that this is where the solutions of the inequality are.]",
+      "math": [
+        "y=3x-4."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": [
+        "This figure has the graph of a straight line on the x y-coordinate plane. The x and y axes run from negative 10 to 10. A line is drawn through the points (0, negative 4), (1, negative 1), and (2, 2). The line divides the x y-coordinate plane into two halves. The line and the bottom right half are shaded red to indicate that this is where the solutions of the inequality are."
+      ]
+    },
+    {
+      "number": 244,
+      "anchor": "fs-id1167831909967",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Recognize the Relation Between the Solutions of an Inequality and its Graph",
+        "In the following exercises, write the inequality shown by the shaded region."
+      ],
+      "text": "Write the inequality shown by the graph with the boundary line \\(y=2x-4.\\) [FIGURA: This figure has the graph of a straight line on the x y-coordinate plane. The x and y axes run from negative 10 to 10. A line is drawn through the points (0, negative 4), (1, negative 2), and (2, 0). The line divides the x y-coordinate plane into two halves. The line and the bottom right half are shaded red to indicate that this is where the solutions of the inequality are.]",
+      "math": [
+        "y=2x-4."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>4</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>4</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": [
+        "This figure has the graph of a straight line on the x y-coordinate plane. The x and y axes run from negative 10 to 10. A line is drawn through the points (0, negative 4), (1, negative 2), and (2, 0). The line divides the x y-coordinate plane into two halves. The line and the bottom right half are shaded red to indicate that this is where the solutions of the inequality are."
+      ]
+    },
+    {
+      "number": 245,
+      "anchor": "fs-id1167834058839",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Recognize the Relation Between the Solutions of an Inequality and its Graph",
+        "In the following exercises, write the inequality shown by the shaded region."
+      ],
+      "text": "Write the inequality shown by the graph with the boundary line \\(y=\\frac{1}{2}x+1.\\) [FIGURA: This figure has the graph of a straight line on the x y-coordinate plane. The x and y axes run from negative 10 to 10. A line is drawn through the points (0, 1), (2, 0), and (4, negative 1). The line divides the x y-coordinate plane into two halves. The line and the bottom right half are shaded red to indicate that this is where the solutions of the inequality are.]",
+      "math": [
+        "y=\\frac{1}{2}x+1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi><mo>+</mo><mn>1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi><mo>+</mo><mn>1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": [
+        "This figure has the graph of a straight line on the x y-coordinate plane. The x and y axes run from negative 10 to 10. A line is drawn through the points (0, 1), (2, 0), and (4, negative 1). The line divides the x y-coordinate plane into two halves. The line and the bottom right half are shaded red to indicate that this is where the solutions of the inequality are."
+      ]
+    },
+    {
+      "number": 246,
+      "anchor": "fs-id1167831197142",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Recognize the Relation Between the Solutions of an Inequality and its Graph",
+        "In the following exercises, write the inequality shown by the shaded region."
+      ],
+      "text": "Write the inequality shown by the graph with the boundary line \\(y=-\\frac{1}{3}x-2.\\) [FIGURA: This figure has the graph of a straight line on the x y-coordinate plane. The x and y axes run from negative 10 to 10. A line is drawn through the points (0, negative 2), (3, negative 3), and (6, negative 4). The line divides the x y-coordinate plane into two halves. The line and the bottom left half are shaded red to indicate that this is where the solutions of the inequality are.]",
+      "math": [
+        "y=-\\frac{1}{3}x-2."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>x</mi><mo>−</mo><mn>2</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>x</mi><mo>−</mo><mn>2</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": [
+        "This figure has the graph of a straight line on the x y-coordinate plane. The x and y axes run from negative 10 to 10. A line is drawn through the points (0, negative 2), (3, negative 3), and (6, negative 4). The line divides the x y-coordinate plane into two halves. The line and the bottom left half are shaded red to indicate that this is where the solutions of the inequality are."
+      ]
+    },
+    {
+      "number": 247,
+      "anchor": "fs-id1167834308117",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Recognize the Relation Between the Solutions of an Inequality and its Graph",
+        "In the following exercises, write the inequality shown by the shaded region."
+      ],
+      "text": "Write the inequality shown by the shaded region in the graph with the boundary line \\(x+y=5.\\) [FIGURA: This figure has the graph of a straight line on the x y-coordinate plane. The x and y axes run from negative 10 to 10. A line is drawn through the points (0, 5), (1, 4), and (5, 0). The line divides the x y-coordinate plane into two halves. The line and the top right half are shaded red to indicate that this is where the solutions of the inequality are.]",
+      "math": [
+        "x+y=5."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>5</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>5</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": [
+        "This figure has the graph of a straight line on the x y-coordinate plane. The x and y axes run from negative 10 to 10. A line is drawn through the points (0, 5), (1, 4), and (5, 0). The line divides the x y-coordinate plane into two halves. The line and the top right half are shaded red to indicate that this is where the solutions of the inequality are."
+      ]
+    },
+    {
+      "number": 248,
+      "anchor": "fs-id1167835528518",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Recognize the Relation Between the Solutions of an Inequality and its Graph",
+        "In the following exercises, write the inequality shown by the shaded region."
+      ],
+      "text": "Write the inequality shown by the shaded region in the graph with the boundary line \\(x+y=3.\\) [FIGURA: This figure has the graph of a straight line on the x y-coordinate plane. The x and y axes run from negative 10 to 10. A line is drawn through the points (0, 3), (1, 2), and (3, 0). The line divides the x y-coordinate plane into two halves. The line and the top right half are shaded red to indicate that this is where the solutions of the inequality are.]",
+      "math": [
+        "x+y=3."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>3</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>3</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": [
+        "This figure has the graph of a straight line on the x y-coordinate plane. The x and y axes run from negative 10 to 10. A line is drawn through the points (0, 3), (1, 2), and (3, 0). The line divides the x y-coordinate plane into two halves. The line and the top right half are shaded red to indicate that this is where the solutions of the inequality are."
+      ]
+    },
+    {
+      "number": 249,
+      "anchor": "fs-id1167835615661",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Recognize the Relation Between the Solutions of an Inequality and its Graph",
+        "In the following exercises, write the inequality shown by the shaded region."
+      ],
+      "text": "Write the inequality shown by the shaded region in the graph with the boundary line \\(3x-y=6.\\) [FIGURA: This figure has the graph of a straight line on the x y-coordinate plane. The x and y axes run from negative 10 to 10. A line is drawn through the points (0, negative 6), (1, negative 3), and (2, 0). The line divides the x y-coordinate plane into two halves. The line and the top left half are shaded red to indicate that this is where the solutions of the inequality are.]",
+      "math": [
+        "3x-y=6."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mi>y</mi><mo>=</mo><mn>6</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mi>y</mi><mo>=</mo><mn>6</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": [
+        "This figure has the graph of a straight line on the x y-coordinate plane. The x and y axes run from negative 10 to 10. A line is drawn through the points (0, negative 6), (1, negative 3), and (2, 0). The line divides the x y-coordinate plane into two halves. The line and the top left half are shaded red to indicate that this is where the solutions of the inequality are."
+      ]
+    },
+    {
+      "number": 250,
+      "anchor": "fs-id1167835479850",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Recognize the Relation Between the Solutions of an Inequality and its Graph",
+        "In the following exercises, write the inequality shown by the shaded region."
+      ],
+      "text": "Write the inequality shown by the shaded region in the graph with the boundary line \\(2x-y=4.\\) [FIGURA: This figure has the graph of a straight line on the x y-coordinate plane. The x and y axes run from negative 10 to 10. A line is drawn through the points (0, negative 4), (1, negative 2), and (2, 0). The line divides the x y-coordinate plane into two halves. The line and the top left half are shaded red to indicate that this is where the solutions of the inequality are.]",
+      "math": [
+        "2x-y=4."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mi>y</mi><mo>=</mo><mn>4</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mi>y</mi><mo>=</mo><mn>4</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": [
+        "This figure has the graph of a straight line on the x y-coordinate plane. The x and y axes run from negative 10 to 10. A line is drawn through the points (0, negative 4), (1, negative 2), and (2, 0). The line divides the x y-coordinate plane into two halves. The line and the top left half are shaded red to indicate that this is where the solutions of the inequality are."
+      ]
+    },
+    {
+      "number": 251,
+      "anchor": "fs-id1167834395424",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Graph Linear Inequalities in Two Variables",
+        "In the following exercises, graph each linear inequality."
+      ],
+      "text": "Graph the linear inequality: \\(y>\\frac{2}{3}x-1.\\)",
+      "math": [
+        "y>\\frac{2}{3}x-1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>&gt;</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>x</mi><mo>−</mo><mn>1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>&gt;</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>x</mi><mo>−</mo><mn>1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 252,
+      "anchor": "fs-id1167834308235",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Graph Linear Inequalities in Two Variables",
+        "In the following exercises, graph each linear inequality."
+      ],
+      "text": "Graph the linear inequality: \\(y<\\frac{3}{5}x+2.\\)",
+      "math": [
+        "y<\\frac{3}{5}x+2."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>&lt;</mo><mfrac><mn>3</mn><mn>5</mn></mfrac><mi>x</mi><mo>+</mo><mn>2</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>&lt;</mo><mfrac><mn>3</mn><mn>5</mn></mfrac><mi>x</mi><mo>+</mo><mn>2</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 253,
+      "anchor": "fs-id1167835254401",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Graph Linear Inequalities in Two Variables",
+        "In the following exercises, graph each linear inequality."
+      ],
+      "text": "Graph the linear inequality: \\(y≤-\\frac{1}{2}x+4.\\)",
+      "math": [
+        "y\\le -\\frac{1}{2}x+4."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>≤</mo><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi><mo>+</mo><mn>4</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>≤</mo><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi><mo>+</mo><mn>4</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 254,
+      "anchor": "fs-id1167826813777",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Graph Linear Inequalities in Two Variables",
+        "In the following exercises, graph each linear inequality."
+      ],
+      "text": "Graph the linear inequality: \\(y≥-\\frac{1}{3}x-2.\\)",
+      "math": [
+        "y\\ge -\\frac{1}{3}x-2."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>≥</mo><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>x</mi><mo>−</mo><mn>2</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>≥</mo><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>x</mi><mo>−</mo><mn>2</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 255,
+      "anchor": "fs-id1167834345405",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Graph Linear Inequalities in Two Variables",
+        "In the following exercises, graph each linear inequality."
+      ],
+      "text": "Graph the linear inequality: \\(x-y≤3.\\)",
+      "math": [
+        "x-y\\le 3."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>−</mo><mi>y</mi><mo>≤</mo><mn>3</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>−</mo><mi>y</mi><mo>≤</mo><mn>3</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 256,
+      "anchor": "fs-id1167831912084",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Graph Linear Inequalities in Two Variables",
+        "In the following exercises, graph each linear inequality."
+      ],
+      "text": "Graph the linear inequality: \\(x-y≥-2.\\)",
+      "math": [
+        "x-y\\ge -2."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>−</mo><mi>y</mi><mo>≥</mo><mn>−2</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>−</mo><mi>y</mi><mo>≥</mo><mn>−2</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 257,
+      "anchor": "fs-id1167830865770",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Graph Linear Inequalities in Two Variables",
+        "In the following exercises, graph each linear inequality."
+      ],
+      "text": "Graph the linear inequality: \\(4x+y>-4.\\)",
+      "math": [
+        "4x+y>-4."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>&gt;</mo><mo>−</mo><mn>4</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>&gt;</mo><mo>−</mo><mn>4</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 258,
+      "anchor": "fs-id1167835341770",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Graph Linear Inequalities in Two Variables",
+        "In the following exercises, graph each linear inequality."
+      ],
+      "text": "Graph the linear inequality: \\(x+5y<-5.\\)",
+      "math": [
+        "x+5y<-5."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>+</mo><mn>5</mn><mi>y</mi><mo>&lt;</mo><mo>−</mo><mn>5</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>+</mo><mn>5</mn><mi>y</mi><mo>&lt;</mo><mo>−</mo><mn>5</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 259,
+      "anchor": "fs-id1167830702903",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Graph Linear Inequalities in Two Variables",
+        "In the following exercises, graph each linear inequality."
+      ],
+      "text": "Graph the linear inequality: \\(3x+2y≥-6.\\)",
+      "math": [
+        "3x+2y\\ge -6."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>≥</mo><mn>−6</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>≥</mo><mn>−6</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 260,
+      "anchor": "fs-id1167834061947",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Graph Linear Inequalities in Two Variables",
+        "In the following exercises, graph each linear inequality."
+      ],
+      "text": "Graph the linear inequality: \\(4x+2y≥-8.\\)",
+      "math": [
+        "4x+2y\\ge -8."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>≥</mo><mn>−8</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>≥</mo><mn>−8</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 261,
+      "anchor": "fs-id1167834431761",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Graph Linear Inequalities in Two Variables",
+        "In the following exercises, graph each linear inequality."
+      ],
+      "text": "Graph the linear inequality: \\(y>4x.\\)",
+      "math": [
+        "y>4x."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>&gt;</mo><mn>4</mn><mi>x</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>&gt;</mo><mn>4</mn><mi>x</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 262,
+      "anchor": "fs-id1167835280009",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Graph Linear Inequalities in Two Variables",
+        "In the following exercises, graph each linear inequality."
+      ],
+      "text": "Graph the linear inequality: \\(y≤-3x.\\)",
+      "math": [
+        "y\\le -3x."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>≤</mo><mn>−3</mn><mi>x</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>≤</mo><mn>−3</mn><mi>x</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 263,
+      "anchor": "fs-id1167834526549",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Graph Linear Inequalities in Two Variables",
+        "In the following exercises, graph each linear inequality."
+      ],
+      "text": "Graph the linear inequality: \\(y<-10.\\)",
+      "math": [
+        "y<-10."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>&lt;</mo><mo>−</mo><mn>10</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>&lt;</mo><mo>−</mo><mn>10</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 264,
+      "anchor": "fs-id1167835331419",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Graph Linear Inequalities in Two Variables",
+        "In the following exercises, graph each linear inequality."
+      ],
+      "text": "Graph the linear inequality: \\(y≥2.\\)",
+      "math": [
+        "y\\ge 2."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>≥</mo><mn>2</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>≥</mo><mn>2</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 265,
+      "anchor": "fs-id1167830865783",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Graph Linear Inequalities in Two Variables",
+        "In the following exercises, graph each linear inequality."
+      ],
+      "text": "Graph the linear inequality: \\(x≤5.\\)",
+      "math": [
+        "x\\le 5."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>≤</mo><mn>5</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>≤</mo><mn>5</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 266,
+      "anchor": "fs-id1167835349534",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Graph Linear Inequalities in Two Variables",
+        "In the following exercises, graph each linear inequality."
+      ],
+      "text": "Graph the linear inequality: \\(x≥0.\\)",
+      "math": [
+        "x\\ge 0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>≥</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>≥</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 267,
+      "anchor": "fs-id1167835381719",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Graph Linear Inequalities in Two Variables",
+        "In the following exercises, graph each linear inequality."
+      ],
+      "text": "Graph the linear inequality: \\(x-y<4.\\)",
+      "math": [
+        "x-y<4."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>−</mo><mi>y</mi><mo>&lt;</mo><mn>4</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>−</mo><mi>y</mi><mo>&lt;</mo><mn>4</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 268,
+      "anchor": "fs-id1167835235204",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Graph Linear Inequalities in Two Variables",
+        "In the following exercises, graph each linear inequality."
+      ],
+      "text": "Graph the linear inequality: \\(x-y<-3.\\)",
+      "math": [
+        "x-y<-3."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>−</mo><mi>y</mi><mo>&lt;</mo><mo>−</mo><mn>3</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>−</mo><mi>y</mi><mo>&lt;</mo><mo>−</mo><mn>3</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 269,
+      "anchor": "fs-id1167835234653",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Graph Linear Inequalities in Two Variables",
+        "In the following exercises, graph each linear inequality."
+      ],
+      "text": "Graph the linear inequality: \\(y≥\\frac{3}{2}x.\\)",
+      "math": [
+        "y\\ge \\frac{3}{2}x."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>≥</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><mi>x</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>≥</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><mi>x</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 270,
+      "anchor": "fs-id1167834064077",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Graph Linear Inequalities in Two Variables",
+        "In the following exercises, graph each linear inequality."
+      ],
+      "text": "Graph the linear inequality: \\(y≤\\frac{5}{4}x.\\)",
+      "math": [
+        "y\\le \\frac{5}{4}x."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>≤</mo><mfrac><mn>5</mn><mn>4</mn></mfrac><mi>x</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>≤</mo><mfrac><mn>5</mn><mn>4</mn></mfrac><mi>x</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 271,
+      "anchor": "fs-id1167835589641",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Graph Linear Inequalities in Two Variables",
+        "In the following exercises, graph each linear inequality."
+      ],
+      "text": "Graph the linear inequality: \\(y>-2x+1.\\)",
+      "math": [
+        "y>-2x+1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>&gt;</mo><mo>−</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>&gt;</mo><mo>−</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 272,
+      "anchor": "fs-id1167826996648",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Graph Linear Inequalities in Two Variables",
+        "In the following exercises, graph each linear inequality."
+      ],
+      "text": "Graph the linear inequality: \\(y<-3x-4.\\)",
+      "math": [
+        "y<-3x-4."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>&lt;</mo><mo>−</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>&lt;</mo><mo>−</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 273,
+      "anchor": "fs-id1167835369221",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Graph Linear Inequalities in Two Variables",
+        "In the following exercises, graph each linear inequality."
+      ],
+      "text": "Graph the linear inequality: \\(2x+y≥-4.\\)",
+      "math": [
+        "2x+y\\ge -4."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>≥</mo><mn>−4</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>≥</mo><mn>−4</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 274,
+      "anchor": "fs-id1167835217909",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Graph Linear Inequalities in Two Variables",
+        "In the following exercises, graph each linear inequality."
+      ],
+      "text": "Graph the linear inequality: \\(x+2y≤-2.\\)",
+      "math": [
+        "x+2y\\le -2."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>≤</mo><mn>−2</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>≤</mo><mn>−2</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 275,
+      "anchor": "fs-id1167831894741",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Graph Linear Inequalities in Two Variables",
+        "In the following exercises, graph each linear inequality."
+      ],
+      "text": "Graph the linear inequality: \\(2x-5y>10.\\)",
+      "math": [
+        "2x-5y>10."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>5</mn><mi>y</mi><mo>&gt;</mo><mn>10</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>5</mn><mi>y</mi><mo>&gt;</mo><mn>10</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 276,
+      "anchor": "fs-id1167831922737",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Graph Linear Inequalities in Two Variables",
+        "In the following exercises, graph each linear inequality."
+      ],
+      "text": "Graph the linear inequality: \\(4x-3y>12.\\)",
+      "math": [
+        "4x-3y>12."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mi>x</mi><mo>−</mo><mn>3</mn><mi>y</mi><mo>&gt;</mo><mn>12</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mi>x</mi><mo>−</mo><mn>3</mn><mi>y</mi><mo>&gt;</mo><mn>12</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 277,
+      "anchor": "fs-id1167832015642",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "In the following exercises, graph each linear inequality.",
+        "Solve Applications using Linear Inequalities in Two Variables"
+      ],
+      "text": "Harrison works two part time jobs. One at a gas station that pays $11 an hour and the other is IT troubleshooting for \\(\\$16.50\\) an hour. Between the two jobs, Harrison wants to earn at least $330 a week. How many hours does Harrison need to work at each job to earn at least $330? ⓐ Let x be the number of hours he works at the gas station and let y be the number of (hours he works troubleshooting. Write an inequality that would model this situation. ⓑ Graph the inequality. ⓒ Find three ordered pairs \\((x,y)\\) that would be solutions to the inequality. Then, explain what that means for Harrison.",
+      "math": [
+        "$16.50",
+        "(x,y)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>$</mtext><mn>16.50</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>$</mtext><mn>16.50</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mo stretchy=\"false\">(</mo><mi>x</mi><mo>,</mo><mi>y</mi><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mo stretchy=\"false\">(</mo><mi>x</mi><mo>,</mo><mi>y</mi><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 278,
+      "anchor": "fs-id1167831191375",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "In the following exercises, graph each linear inequality.",
+        "Solve Applications using Linear Inequalities in Two Variables"
+      ],
+      "text": "Elena needs to earn at least $450 a week during her summer break to pay for college. She works two jobs. One as a swimming instructor that pays $9 an hour and the other as an intern in a genetics lab for $22.50 per hour. How many hours does Elena need to work at each job to earn at least $450 per week? ⓐ Let x be the number of hours she works teaching swimming and let y be the number of hours she works as an intern. Write an inequality that would model this situation. ⓑ Graph the inequality. ⓒ Find three ordered pairs \\((x,y)\\) that would be solutions to the inequality. Then, explain what that means for Elena.",
+      "math": [
+        "(x,y)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mo stretchy=\"false\">(</mo><mi>x</mi><mo>,</mo><mi>y</mi><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mo stretchy=\"false\">(</mo><mi>x</mi><mo>,</mo><mi>y</mi><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 279,
+      "anchor": "fs-id1167835234207",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "In the following exercises, graph each linear inequality.",
+        "Solve Applications using Linear Inequalities in Two Variables"
+      ],
+      "text": "The doctor tells Laura she needs to exercise enough to burn 500 calories each day. She prefers to either run or bike and burns 15 calories per minute while running and 10 calories a minute while biking. ⓐ If x is the number of minutes that Laura runs and y is the number minutes she bikes, find the inequality that models the situation. ⓑ Graph the inequality. ⓒ List three solutions to the inequality. What options do the solutions provide Laura?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 280,
+      "anchor": "fs-id1167835202221",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "In the following exercises, graph each linear inequality.",
+        "Solve Applications using Linear Inequalities in Two Variables"
+      ],
+      "text": "Armando’s workouts consist of kickboxing and swimming. While kickboxing, he burns 10 calories per minute and he burns 7 calories a minute while swimming. He wants to burn 600 calories each day. ⓐ If x is the number of minutes that Armando will kickbox and y is the number minutes he will swim, find the inequality that will help Armando create a workout for today. ⓑ Graph the inequality. ⓒ List three solutions to the inequality. What options do the solutions provide Armando?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 281,
+      "anchor": "fs-id1167830701036",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Lester thinks that the solution of any inequality with a \\(>\\) sign is the region above the line and the solution of any inequality with a \\(<\\) sign is the region below the line. Is Lester correct? Explain why or why not.",
+      "math": [
+        ">",
+        "<"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mo>&gt;</mo></mrow><annotation-xml encoding=\"MathML-Content\"><mo>&gt;</mo></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mo>&lt;</mo></mrow><annotation-xml encoding=\"MathML-Content\"><mo>&lt;</mo></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 282,
+      "anchor": "fs-id1167835335460",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain why, in some graphs of linear inequalities, the boundary line is solid but in other graphs it is dashed.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "3.67",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167832153132",
+      "context": [
+        "Verify Solutions to an Inequality in Two Variables"
+      ],
+      "text": "Determine whether each ordered pair is a solution to the inequality \\(y>x-3:\\) ⓐ \\((0,0)\\) ⓑ \\((4,9)\\) ⓒ \\((-2,1)\\) ⓓ \\((-5,-3)\\) ⓔ \\((5,1)\\)",
+      "math": [
+        "y>x-3:",
+        "(0,0)",
+        "(4,9)",
+        "(-2,1)",
+        "(-5,-3)",
+        "(5,1)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>&gt;</mo><mi>x</mi><mo>−</mo><mn>3</mn><mo>:</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>&gt;</mo><mi>x</mi><mo>−</mo><mn>3</mn><mo>:</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>9</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>9</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−5</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−5</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.68",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167835234515",
+      "context": [
+        "Verify Solutions to an Inequality in Two Variables"
+      ],
+      "text": "Determine whether each ordered pair is a solution to the inequality \\(y<x+1:\\) ⓐ \\((0,0)\\) ⓑ \\((8,6)\\) ⓒ \\((-2,-1)\\) ⓓ \\((3,4)\\) ⓔ \\((-1,-4)\\)",
+      "math": [
+        "y<x+1:",
+        "(0,0)",
+        "(8,6)",
+        "(-2,-1)",
+        "(3,4)",
+        "(-1,-4)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>&lt;</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>:</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>&lt;</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>:</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>8</mn><mo>,</mo><mn>6</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>8</mn><mo>,</mo><mn>6</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.69",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167826828652",
+      "context": [
+        "Recognize the Relation Between the Solutions of an Inequality and its Graph"
+      ],
+      "text": "Write the inequality shown by the graph with the boundary line \\(y=-2x+3.\\) [FIGURA: This figure has the graph of a straight line on the x y-coordinate plane. The x and y axes run from negative 8 to 8. A straight line is drawn through the points (0, 3), (1, 1), and (3, negative 3). The line divides the x y-coordinate plane into two halves. The line itself and the top right half are colored red to indicate that this is where the solutions of the inequality are.]",
+      "math": [
+        "y=-2x+3."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>−2</mn><mi>x</mi><mo>+</mo><mn>3</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>−2</mn><mi>x</mi><mo>+</mo><mn>3</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": [
+        "This figure has the graph of a straight line on the x y-coordinate plane. The x and y axes run from negative 8 to 8. A straight line is drawn through the points (0, 3), (1, 1), and (3, negative 3). The line divides the x y-coordinate plane into two halves. The line itself and the top right half are colored red to indicate that this is where the solutions of the inequality are."
+      ]
+    },
+    {
+      "number": "3.70",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167835338956",
+      "context": [
+        "Recognize the Relation Between the Solutions of an Inequality and its Graph"
+      ],
+      "text": "Write the inequality shown by the graph with the boundary line \\(y=\\frac{1}{2}x-4.\\) [FIGURA: This figure has the graph of a straight line on the x y-coordinate plane. The x and y axes run from negative 8 to 8. A straight line is drawn through the points (0, negative 4), (2, negative 3), and (4, negative 2). The line divides the x y-coordinate plane into two halves. The line itself and the bottom right half are colored red to indicate that this is where the solutions of the inequality are.]",
+      "math": [
+        "y=\\frac{1}{2}x-4."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi><mo>−</mo><mn>4</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi><mo>−</mo><mn>4</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": [
+        "This figure has the graph of a straight line on the x y-coordinate plane. The x and y axes run from negative 8 to 8. A straight line is drawn through the points (0, negative 4), (2, negative 3), and (4, negative 2). The line divides the x y-coordinate plane into two halves. The line itself and the bottom right half are colored red to indicate that this is where the solutions of the inequality are."
+      ]
+    },
+    {
+      "number": "3.71",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167832042396",
+      "context": [
+        "Recognize the Relation Between the Solutions of an Inequality and its Graph"
+      ],
+      "text": "Write the inequality shown by the shaded region in the graph with the boundary line \\(x-4y=8.\\) [FIGURA: This figure has the graph of a straight line on the x y-coordinate plane. The x and y axes run from negative 8 to 8. A straight line is drawn through the points (0, negative 2), (4, negative 1), and (8, 0). The line divides the x y-coordinate plane into two halves. The line itself and the top left half are colored red to indicate that this is where the solutions of the inequality are.]",
+      "math": [
+        "x-4y=8."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>−</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>8</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>−</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>8</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": [
+        "This figure has the graph of a straight line on the x y-coordinate plane. The x and y axes run from negative 8 to 8. A straight line is drawn through the points (0, negative 2), (4, negative 1), and (8, 0). The line divides the x y-coordinate plane into two halves. The line itself and the top left half are colored red to indicate that this is where the solutions of the inequality are."
+      ]
+    },
+    {
+      "number": "3.72",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167835375292",
+      "context": [
+        "Recognize the Relation Between the Solutions of an Inequality and its Graph"
+      ],
+      "text": "Write the inequality shown by the shaded region in the graph with the boundary line \\(3x-y=6.\\) [FIGURA: This figure has the graph of a straight line on the x y-coordinate plane. The x and y axes run from negative 8 to 8. A straight line is drawn through the points (0, negative 6), (1, negative 3), and (2, 0). The line divides the x y-coordinate plane into two halves. The line itself and the bottom right half are colored red to indicate that this is where the solutions of the inequality are.]",
+      "math": [
+        "3x-y=6."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mi>y</mi><mo>=</mo><mn>6</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mi>y</mi><mo>=</mo><mn>6</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": [
+        "This figure has the graph of a straight line on the x y-coordinate plane. The x and y axes run from negative 8 to 8. A straight line is drawn through the points (0, negative 6), (1, negative 3), and (2, 0). The line divides the x y-coordinate plane into two halves. The line itself and the bottom right half are colored red to indicate that this is where the solutions of the inequality are."
+      ]
+    },
+    {
+      "number": "3.73",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167832087004",
+      "context": [
+        "Graph Linear Inequalities in Two Variables"
+      ],
+      "text": "Graph the linear inequality \\(y≥\\frac{5}{2}x-4.\\)",
+      "math": [
+        "y\\ge \\frac{5}{2}x-4."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>≥</mo><mfrac><mn>5</mn><mn>2</mn></mfrac><mi>x</mi><mo>−</mo><mn>4</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>≥</mo><mfrac><mn>5</mn><mn>2</mn></mfrac><mi>x</mi><mo>−</mo><mn>4</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.74",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167830838406",
+      "context": [
+        "Graph Linear Inequalities in Two Variables"
+      ],
+      "text": "Graph the linear inequality \\(y<\\frac{2}{3}x-5.\\)",
+      "math": [
+        "y<\\frac{2}{3}x-5."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>&lt;</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>x</mi><mo>−</mo><mn>5</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>&lt;</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>x</mi><mo>−</mo><mn>5</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.75",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167831891076",
+      "context": [
+        "Graph Linear Inequalities in Two Variables"
+      ],
+      "text": "Graph the linear inequality: \\(2x-3y<6.\\)",
+      "math": [
+        "2x-3y<6."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn><mi>y</mi><mo>&lt;</mo><mn>6</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn><mi>y</mi><mo>&lt;</mo><mn>6</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.76",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167835264380",
+      "context": [
+        "Graph Linear Inequalities in Two Variables"
+      ],
+      "text": "Graph the linear inequality: \\(2x-y>3.\\)",
+      "math": [
+        "2x-y>3."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mi>y</mi><mo>&gt;</mo><mn>3</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mi>y</mi><mo>&gt;</mo><mn>3</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.77",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167835171005",
+      "context": [
+        "Graph Linear Inequalities in Two Variables"
+      ],
+      "text": "Graph the linear inequality: \\(y>-3x.\\)",
+      "math": [
+        "y>-3x."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>&gt;</mo><mo>−</mo><mn>3</mn><mi>x</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>&gt;</mo><mo>−</mo><mn>3</mn><mi>x</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.78",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167835241372",
+      "context": [
+        "Graph Linear Inequalities in Two Variables"
+      ],
+      "text": "Graph the linear inequality: \\(y≥-2x.\\)",
+      "math": [
+        "y\\ge -2x."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>≥</mo><mn>−2</mn><mi>x</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>≥</mo><mn>−2</mn><mi>x</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.79",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167835366245",
+      "context": [
+        "Graph Linear Inequalities in Two Variables"
+      ],
+      "text": "Graph the linear inequality: \\(y<5.\\)",
+      "math": [
+        "y<5."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>&lt;</mo><mn>5</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>&lt;</mo><mn>5</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.80",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167832058169",
+      "context": [
+        "Graph Linear Inequalities in Two Variables"
+      ],
+      "text": "Graph the linear inequality: \\(y≤-1.\\)",
+      "math": [
+        "y\\le -1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>≤</mo><mn>−1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>≤</mo><mn>−1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.81",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167834284498",
+      "context": [
+        "Solve Applications using Linear Inequalities in Two Variables"
+      ],
+      "text": "Hugh works two part time jobs. One at a grocery store that pays $10 an hour and the other is babysitting for $13 hour. Between the two jobs, Hugh wants to earn at least $260 a week. How many hours does Hugh need to work at each job to earn at least $260? ⓐ Let x be the number of hours he works at the grocery store and let y be the number of hours he works babysitting. Write an inequality that would model this situation. ⓑ Graph the inequality. ⓒ Find three ordered pairs (x, y) that would be solutions to the inequality. Then, explain what that means for Hugh.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "3.82",
+      "page": "3-4-graph-linear-inequalities-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167835167619",
+      "context": [
+        "Solve Applications using Linear Inequalities in Two Variables"
+      ],
+      "text": "Veronica works two part time jobs in order to earn enough money to meet her obligations of at least $280 a week. Her job at the day spa pays $10 an hour and her administrative assistant job on campus pays $17.50 an hour. How many hours does Veronica need to work at each job to earn at least $280? ⓐ Let x be the number of hours she works at the day spa and let y be the number of hours she works as administrative assistant. Write an inequality that would model this situation. ⓑ Graph the inequality. ⓒ Find three ordered pairs (x, y) that would be solutions to the inequality. Then, explain what that means for Veronica",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

@@ -1,0 +1,1311 @@
+{
+  "id": "4664c267-cd62-4a99-8b28-1cb9b3aee347@38cae45",
+  "title": "Intermediate Algebra 2e",
+  "contents": [
+    {
+      "id": "8299e5c9-9342-4802-96c4-5c9cc0b69482@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Preface</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "preface",
+      "slug": "preface"
+    },
+    {
+      "id": "2a8dea4d-7ca9-5722-9733-fb0c75e6402c@38cae45",
+      "title": "<span class=\"os-number\">1</span>\n<span class=\"os-divider\"> </span>\n<span class=\"os-text\" data-type=\"\" itemprop=\"\">Foundations</span>",
+      "toc_type": "chapter",
+      "contents": [
+        {
+          "id": "9d76d944-ac49-4b1b-aba6-48ef233ff242@",
+          "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "intro",
+          "slug": "1-introduction"
+        },
+        {
+          "id": "772b200d-b3d4-4654-bc37-a1d3fb70efd7@",
+          "title": "<span class=\"os-number\">1.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Use the Language of Algebra</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "1-1-use-the-language-of-algebra"
+        },
+        {
+          "id": "59ccdc10-4ea2-46d9-b94c-10312203255e@",
+          "title": "<span class=\"os-number\">1.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Integers</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "1-2-integers"
+        },
+        {
+          "id": "354e36b5-5c37-49c5-b887-f6541cbd4a0c@",
+          "title": "<span class=\"os-number\">1.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Fractions</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "1-3-fractions"
+        },
+        {
+          "id": "a140725d-a6e3-4705-8430-b4f350efb27f@",
+          "title": "<span class=\"os-number\">1.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Decimals</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "1-4-decimals"
+        },
+        {
+          "id": "a5d6ef58-bf53-4cb4-828e-fe9409d7f075@",
+          "title": "<span class=\"os-number\">1.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Properties of Real Numbers</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "1-5-properties-of-real-numbers"
+        },
+        {
+          "id": "a6fec7c3-9147-55df-b3b8-d8d612f0f084@38cae45",
+          "title": "<span class=\"os-text\">Chapter Review</span>",
+          "toc_type": "sub-book-tree",
+          "contents": [
+            {
+              "id": "d7df5434-186e-5553-b6e1-5e7922050a4e@38cae45",
+              "title": "<span class=\"os-text\">Key Terms</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "1-key-terms"
+            },
+            {
+              "id": "c90c3c42-caae-58f6-a8a3-de63a9510513@38cae45",
+              "title": "<span class=\"os-text\">Key Concepts</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "1-key-concepts"
+            }
+          ],
+          "slug": "1-chapter-review"
+        },
+        {
+          "id": "241c073c-31fa-5a59-a83c-408bd85f7aaf@38cae45",
+          "title": "<span class=\"os-text\">Exercises</span>",
+          "toc_type": "sub-book-tree",
+          "contents": [
+            {
+              "id": "497867a0-1834-5acd-bc2c-a63f4f6365e1@38cae45",
+              "title": "<span class=\"os-text\">Review Exercises</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "1-review-exercises"
+            },
+            {
+              "id": "e85df26c-cad6-5740-a8b7-ec28b719be50@38cae45",
+              "title": "<span class=\"os-text\">Practice Test</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "1-practice-test"
+            }
+          ],
+          "slug": "1-exercises"
+        }
+      ],
+      "slug": "1-foundations"
+    },
+    {
+      "id": "8bdcefd9-8d46-5d6f-b139-8e43f5e434c0@38cae45",
+      "title": "<span class=\"os-number\">2</span>\n<span class=\"os-divider\"> </span>\n<span class=\"os-text\" data-type=\"\" itemprop=\"\">Solving Linear Equations</span>",
+      "toc_type": "chapter",
+      "contents": [
+        {
+          "id": "af35fc2f-d1ab-4ee5-acb5-ed9f830f2368@",
+          "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "intro",
+          "slug": "2-introduction"
+        },
+        {
+          "id": "7dd75394-ab7a-48ba-af4a-a3c92a23e31f@",
+          "title": "<span class=\"os-number\">2.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Use a General Strategy to Solve Linear Equations</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "2-1-use-a-general-strategy-to-solve-linear-equations"
+        },
+        {
+          "id": "e364a309-6424-4a61-b278-fb415bc56bea@",
+          "title": "<span class=\"os-number\">2.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Use a Problem Solving Strategy</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "2-2-use-a-problem-solving-strategy"
+        },
+        {
+          "id": "93da06b2-130b-4db5-943f-ea450b018ec8@",
+          "title": "<span class=\"os-number\">2.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Solve a Formula for a Specific Variable</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "2-3-solve-a-formula-for-a-specific-variable"
+        },
+        {
+          "id": "03cd7e0b-bb44-48fe-907b-6018225174d7@",
+          "title": "<span class=\"os-number\">2.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Solve Mixture and Uniform Motion Applications</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "2-4-solve-mixture-and-uniform-motion-applications"
+        },
+        {
+          "id": "c929c760-07fb-4c52-9491-51030f328e71@",
+          "title": "<span class=\"os-number\">2.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Solve Linear Inequalities</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "2-5-solve-linear-inequalities"
+        },
+        {
+          "id": "74bac4a5-36c7-4127-8dfd-887d07b93078@",
+          "title": "<span class=\"os-number\">2.6</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Solve Compound Inequalities</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "2-6-solve-compound-inequalities"
+        },
+        {
+          "id": "cd18321e-2b55-4a86-b6bb-20c998135a50@",
+          "title": "<span class=\"os-number\">2.7</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Solve Absolute Value Inequalities</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "2-7-solve-absolute-value-inequalities"
+        },
+        {
+          "id": "5123a8bb-f914-5ddc-a875-6c1cff38dfc4@38cae45",
+          "title": "<span class=\"os-text\">Chapter Review</span>",
+          "toc_type": "sub-book-tree",
+          "contents": [
+            {
+              "id": "52eb80e9-c9a7-54de-a3d2-ca91a6b07965@38cae45",
+              "title": "<span class=\"os-text\">Key Terms</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "2-key-terms"
+            },
+            {
+              "id": "a69aef73-8af9-54d2-8f49-4d9c0b6a5ba2@38cae45",
+              "title": "<span class=\"os-text\">Key Concepts</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "2-key-concepts"
+            }
+          ],
+          "slug": "2-chapter-review"
+        },
+        {
+          "id": "ca048095-794f-5957-8a05-55c4e67db75b@38cae45",
+          "title": "<span class=\"os-text\">Exercises</span>",
+          "toc_type": "sub-book-tree",
+          "contents": [
+            {
+              "id": "1ff046cb-9c28-578a-bfde-4da6c1c476bd@38cae45",
+              "title": "<span class=\"os-text\">Review Exercises</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "2-review-exercises"
+            },
+            {
+              "id": "dd1793ff-8343-5b74-9497-9731bc5b6dee@38cae45",
+              "title": "<span class=\"os-text\">Practice Test</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "2-practice-test"
+            }
+          ],
+          "slug": "2-exercises"
+        }
+      ],
+      "slug": "2-solving-linear-equations"
+    },
+    {
+      "id": "276e91ec-527a-536c-a6cd-8eddc43aa027@38cae45",
+      "title": "<span class=\"os-number\">3</span>\n<span class=\"os-divider\"> </span>\n<span class=\"os-text\" data-type=\"\" itemprop=\"\">Graphs and Functions</span>",
+      "toc_type": "chapter",
+      "contents": [
+        {
+          "id": "aa4399b8-4e63-4440-8508-0df730dd484a@",
+          "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "intro",
+          "slug": "3-introduction"
+        },
+        {
+          "id": "9d3bc1f0-6330-4e24-b67a-6f07f074d79c@",
+          "title": "<span class=\"os-number\">3.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Graph  Linear Equations in Two Variables</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "3-1-graph-linear-equations-in-two-variables"
+        },
+        {
+          "id": "f54f6801-0920-459c-af2e-72f85ddda846@",
+          "title": "<span class=\"os-number\">3.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Slope of a Line</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "3-2-slope-of-a-line"
+        },
+        {
+          "id": "b7d62225-c09f-478e-8c1d-df46042de0b0@",
+          "title": "<span class=\"os-number\">3.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Find the Equation of a Line</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "3-3-find-the-equation-of-a-line"
+        },
+        {
+          "id": "eccd2fd2-0d20-4486-a61a-9ec728c76cf1@",
+          "title": "<span class=\"os-number\">3.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Graph Linear Inequalities in Two Variables</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "3-4-graph-linear-inequalities-in-two-variables"
+        },
+        {
+          "id": "59fe6dc4-6e09-4a88-aa1c-b5f72bd79a20@",
+          "title": "<span class=\"os-number\">3.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Relations and Functions</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "3-5-relations-and-functions"
+        },
+        {
+          "id": "4b2bbf1b-2df7-4b9a-9933-dd70d1fd8ada@",
+          "title": "<span class=\"os-number\">3.6</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Graphs of Functions</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "3-6-graphs-of-functions"
+        },
+        {
+          "id": "12433235-c671-5a0a-8245-c24a98e91456@38cae45",
+          "title": "<span class=\"os-text\">Chapter Review</span>",
+          "toc_type": "sub-book-tree",
+          "contents": [
+            {
+              "id": "3ef75797-8b94-5eb6-b428-08dc0eb9d57e@38cae45",
+              "title": "<span class=\"os-text\">Key Terms</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "3-key-terms"
+            },
+            {
+              "id": "a767025a-dc2f-5949-95d8-5621aa610f84@38cae45",
+              "title": "<span class=\"os-text\">Key Concepts</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "3-key-concepts"
+            }
+          ],
+          "slug": "3-chapter-review"
+        },
+        {
+          "id": "0a2f5695-e18b-5b8a-8579-d02662e71a4b@38cae45",
+          "title": "<span class=\"os-text\">Exercises</span>",
+          "toc_type": "sub-book-tree",
+          "contents": [
+            {
+              "id": "72e292e0-aa75-59e6-97e2-2c88c778f49e@38cae45",
+              "title": "<span class=\"os-text\">Review Exercises</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "3-review-exercises"
+            },
+            {
+              "id": "8f9dba5a-5d3e-51ba-8556-dfb38843d2fa@38cae45",
+              "title": "<span class=\"os-text\">Practice Test</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "3-practice-test"
+            }
+          ],
+          "slug": "3-exercises"
+        }
+      ],
+      "slug": "3-graphs-and-functions"
+    },
+    {
+      "id": "5cb96f82-b1bc-5006-8739-e267aa3213c7@38cae45",
+      "title": "<span class=\"os-number\">4</span>\n<span class=\"os-divider\"> </span>\n<span class=\"os-text\" data-type=\"\" itemprop=\"\">Systems of Linear Equations</span>",
+      "toc_type": "chapter",
+      "contents": [
+        {
+          "id": "f94eaf18-fae0-4122-9c5d-294cb1994d02@",
+          "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "intro",
+          "slug": "4-introduction"
+        },
+        {
+          "id": "b9f8475e-9490-4f24-995f-2923b1ed9644@",
+          "title": "<span class=\"os-number\">4.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Solve Systems of Linear Equations with Two Variables</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "4-1-solve-systems-of-linear-equations-with-two-variables"
+        },
+        {
+          "id": "6c760b6e-5e4f-4a82-a738-af62b1b2b52a@",
+          "title": "<span class=\"os-number\">4.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Solve Applications with Systems of Equations</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "4-2-solve-applications-with-systems-of-equations"
+        },
+        {
+          "id": "67b64586-4ca7-4592-806a-141e8a451c70@",
+          "title": "<span class=\"os-number\">4.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Solve Mixture Applications with Systems of Equations</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "4-3-solve-mixture-applications-with-systems-of-equations"
+        },
+        {
+          "id": "6a681928-6850-4e59-a054-1bf35c38b627@",
+          "title": "<span class=\"os-number\">4.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Solve Systems of Equations with Three Variables</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "4-4-solve-systems-of-equations-with-three-variables"
+        },
+        {
+          "id": "2f299a81-c08f-4445-a007-7f84b7ad19bd@",
+          "title": "<span class=\"os-number\">4.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Solve Systems of Equations Using Matrices</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "4-5-solve-systems-of-equations-using-matrices"
+        },
+        {
+          "id": "7426d422-4f55-40d9-9fe3-0d78b5f05709@",
+          "title": "<span class=\"os-number\">4.6</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Solve Systems of Equations Using Determinants</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "4-6-solve-systems-of-equations-using-determinants"
+        },
+        {
+          "id": "8b5bc559-9db7-47d7-a180-08b50f0a248f@",
+          "title": "<span class=\"os-number\">4.7</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Graphing Systems of Linear Inequalities</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "4-7-graphing-systems-of-linear-inequalities"
+        },
+        {
+          "id": "d59b29be-bb40-5c1d-bf5e-0b7378f5c2d2@38cae45",
+          "title": "<span class=\"os-text\">Chapter Review</span>",
+          "toc_type": "sub-book-tree",
+          "contents": [
+            {
+              "id": "f5822d5f-508b-55a7-8117-f61294a6b9ba@38cae45",
+              "title": "<span class=\"os-text\">Key Terms</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "4-key-terms"
+            },
+            {
+              "id": "35b7fd7b-f557-5713-99a5-085edea05747@38cae45",
+              "title": "<span class=\"os-text\">Key Concepts</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "4-key-concepts"
+            }
+          ],
+          "slug": "4-chapter-review"
+        },
+        {
+          "id": "d63115e6-e032-5fd9-a86e-d593d63c4ed6@38cae45",
+          "title": "<span class=\"os-text\">Exercises</span>",
+          "toc_type": "sub-book-tree",
+          "contents": [
+            {
+              "id": "8c9ed356-0445-5f5d-8b2c-3523c6a7c4b4@38cae45",
+              "title": "<span class=\"os-text\">Review Exercises</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "4-review-exercises"
+            },
+            {
+              "id": "dd14cdd1-f247-5492-8772-6881846ebcaf@38cae45",
+              "title": "<span class=\"os-text\">Practice Test</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "4-practice-test"
+            }
+          ],
+          "slug": "4-exercises"
+        }
+      ],
+      "slug": "4-systems-of-linear-equations"
+    },
+    {
+      "id": "2eb00fc4-1b04-5fce-a076-f902290d552b@38cae45",
+      "title": "<span class=\"os-number\">5</span>\n<span class=\"os-divider\"> </span>\n<span class=\"os-text\" data-type=\"\" itemprop=\"\">Polynomials and Polynomial Functions</span>",
+      "toc_type": "chapter",
+      "contents": [
+        {
+          "id": "a956c919-926c-4aef-9543-6e303c751f25@",
+          "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "intro",
+          "slug": "5-introduction"
+        },
+        {
+          "id": "c82f19a0-7d76-445d-a89f-9c230a8337f5@",
+          "title": "<span class=\"os-number\">5.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Add and Subtract Polynomials</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "5-1-add-and-subtract-polynomials"
+        },
+        {
+          "id": "8a394961-3438-41bc-9e46-9d21493bf274@",
+          "title": "<span class=\"os-number\">5.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Properties of Exponents and Scientific Notation</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "5-2-properties-of-exponents-and-scientific-notation"
+        },
+        {
+          "id": "44bb078c-7062-4d79-9ed7-05adbaf88b08@",
+          "title": "<span class=\"os-number\">5.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Multiply Polynomials</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "5-3-multiply-polynomials"
+        },
+        {
+          "id": "79197e6f-72b5-42b1-9699-5dc1d66a0bfd@",
+          "title": "<span class=\"os-number\">5.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Dividing Polynomials</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "5-4-dividing-polynomials"
+        },
+        {
+          "id": "fb63ca00-54c4-5152-8408-437ac2dd9b9b@38cae45",
+          "title": "<span class=\"os-text\">Chapter Review</span>",
+          "toc_type": "sub-book-tree",
+          "contents": [
+            {
+              "id": "e6d6babc-c59d-5d91-afa5-6cd14abc490e@38cae45",
+              "title": "<span class=\"os-text\">Key Terms</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "5-key-terms"
+            },
+            {
+              "id": "11c12d07-edc1-555c-b424-1086b16774f8@38cae45",
+              "title": "<span class=\"os-text\">Key Concepts</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "5-key-concepts"
+            }
+          ],
+          "slug": "5-chapter-review"
+        },
+        {
+          "id": "e47b5446-d145-5c2d-951b-6b4364c8d433@38cae45",
+          "title": "<span class=\"os-text\">Exercises</span>",
+          "toc_type": "sub-book-tree",
+          "contents": [
+            {
+              "id": "d3cee125-d0b2-536d-96b1-4eb29e1619d7@38cae45",
+              "title": "<span class=\"os-text\">Review Exercises</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "5-review-exercises"
+            },
+            {
+              "id": "52f77933-48b4-5867-9f37-e78952444887@38cae45",
+              "title": "<span class=\"os-text\">Practice Test</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "5-practice-test"
+            }
+          ],
+          "slug": "5-exercises"
+        }
+      ],
+      "slug": "5-polynomials-and-polynomial-functions"
+    },
+    {
+      "id": "07cb901e-4575-5893-9d46-26ec91c05f09@38cae45",
+      "title": "<span class=\"os-number\">6</span>\n<span class=\"os-divider\"> </span>\n<span class=\"os-text\" data-type=\"\" itemprop=\"\">Factoring</span>",
+      "toc_type": "chapter",
+      "contents": [
+        {
+          "id": "1de9bc09-87aa-4173-863e-38e91261e69b@",
+          "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction to Factoring</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "intro",
+          "slug": "6-introduction-to-factoring"
+        },
+        {
+          "id": "bad7d0d2-4abc-4fd5-922c-4e920bc0ae2c@",
+          "title": "<span class=\"os-number\">6.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Greatest Common Factor and Factor by Grouping</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "6-1-greatest-common-factor-and-factor-by-grouping"
+        },
+        {
+          "id": "9c041b42-1044-48c8-b300-81299735debf@",
+          "title": "<span class=\"os-number\">6.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Factor Trinomials</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "6-2-factor-trinomials"
+        },
+        {
+          "id": "d7aa777f-a37f-429f-b911-48ed2cdca05e@",
+          "title": "<span class=\"os-number\">6.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Factor Special Products</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "6-3-factor-special-products"
+        },
+        {
+          "id": "2cc3ff3f-bafc-4dc2-a890-59178cbf5f34@",
+          "title": "<span class=\"os-number\">6.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">General Strategy for Factoring Polynomials</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "6-4-general-strategy-for-factoring-polynomials"
+        },
+        {
+          "id": "8e386304-d5ea-4328-8d74-7496f3969409@",
+          "title": "<span class=\"os-number\">6.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Polynomial Equations</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "6-5-polynomial-equations"
+        },
+        {
+          "id": "8ba549b3-68ce-5151-921f-8e60186e6323@38cae45",
+          "title": "<span class=\"os-text\">Chapter Review</span>",
+          "toc_type": "sub-book-tree",
+          "contents": [
+            {
+              "id": "1b052a56-021b-574f-8532-def1fb599329@38cae45",
+              "title": "<span class=\"os-text\">Key Terms</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "6-key-terms"
+            },
+            {
+              "id": "82072cdf-1061-59f9-8488-b36fd7d7f3e6@38cae45",
+              "title": "<span class=\"os-text\">Key Concepts</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "6-key-concepts"
+            }
+          ],
+          "slug": "6-chapter-review"
+        },
+        {
+          "id": "524e7105-faee-568f-ac0e-11eb42f81f9a@38cae45",
+          "title": "<span class=\"os-text\">Exercises</span>",
+          "toc_type": "sub-book-tree",
+          "contents": [
+            {
+              "id": "8f2a91be-e254-578a-9c7c-c77f5f91e22c@38cae45",
+              "title": "<span class=\"os-text\">Review Exercises</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "6-review-exercises"
+            },
+            {
+              "id": "3d3eeb09-3407-51f9-b97e-4d7e1125f885@38cae45",
+              "title": "<span class=\"os-text\">Practice Test</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "6-practice-test"
+            }
+          ],
+          "slug": "6-exercises"
+        }
+      ],
+      "slug": "6-factoring"
+    },
+    {
+      "id": "c439ad8d-eacb-5428-b545-c1b76ad26585@38cae45",
+      "title": "<span class=\"os-number\">7</span>\n<span class=\"os-divider\"> </span>\n<span class=\"os-text\" data-type=\"\" itemprop=\"\">Rational Expressions and Functions</span>",
+      "toc_type": "chapter",
+      "contents": [
+        {
+          "id": "7bd90579-9bef-472e-955b-26dbd793daed@",
+          "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "intro",
+          "slug": "7-introduction"
+        },
+        {
+          "id": "4fc7ab19-c7ec-482f-a0c5-e54f61f107cf@",
+          "title": "<span class=\"os-number\">7.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Multiply and Divide Rational Expressions</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "7-1-multiply-and-divide-rational-expressions"
+        },
+        {
+          "id": "d421a741-8a81-4ada-972f-808935ae1579@",
+          "title": "<span class=\"os-number\">7.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Add and Subtract Rational Expressions</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "7-2-add-and-subtract-rational-expressions"
+        },
+        {
+          "id": "85bdd3a5-e04f-446c-879e-a5e932ea3623@",
+          "title": "<span class=\"os-number\">7.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Simplify Complex Rational Expressions</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "7-3-simplify-complex-rational-expressions"
+        },
+        {
+          "id": "6045e284-ab6f-4def-b9df-d288b58e0be9@",
+          "title": "<span class=\"os-number\">7.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Solve Rational Equations</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "7-4-solve-rational-equations"
+        },
+        {
+          "id": "cde4ccc5-d525-4797-9dca-169240adf0c7@",
+          "title": "<span class=\"os-number\">7.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Solve Applications with Rational Equations</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "7-5-solve-applications-with-rational-equations"
+        },
+        {
+          "id": "74088145-486c-473d-a07e-3dbb3fe2c6d2@",
+          "title": "<span class=\"os-number\">7.6</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Solve Rational Inequalities</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "7-6-solve-rational-inequalities"
+        },
+        {
+          "id": "6afb2728-7b23-5ded-8a73-0eccb2e1d0a3@38cae45",
+          "title": "<span class=\"os-text\">Chapter Review</span>",
+          "toc_type": "sub-book-tree",
+          "contents": [
+            {
+              "id": "64cbe803-5e6e-560f-adce-675f51efd99c@38cae45",
+              "title": "<span class=\"os-text\">Key Terms</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "7-key-terms"
+            },
+            {
+              "id": "d2c02ea4-74a4-503d-8e6b-dc7be09582cb@38cae45",
+              "title": "<span class=\"os-text\">Key Concepts</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "7-key-concepts"
+            }
+          ],
+          "slug": "7-chapter-review"
+        },
+        {
+          "id": "b113ac4a-3b38-51a1-8a4b-0c8b6584a883@38cae45",
+          "title": "<span class=\"os-text\">Exercises</span>",
+          "toc_type": "sub-book-tree",
+          "contents": [
+            {
+              "id": "03b272a0-29df-58bd-9f36-8d03acf266c3@38cae45",
+              "title": "<span class=\"os-text\">Review Exercises</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "7-review-exercises"
+            },
+            {
+              "id": "cdcf0421-f6f7-528b-84d1-444b5b67befc@38cae45",
+              "title": "<span class=\"os-text\">Practice Test</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "7-practice-test"
+            }
+          ],
+          "slug": "7-exercises"
+        }
+      ],
+      "slug": "7-rational-expressions-and-functions"
+    },
+    {
+      "id": "9bd3b766-6cd3-5429-91cd-3d75dab93755@38cae45",
+      "title": "<span class=\"os-number\">8</span>\n<span class=\"os-divider\"> </span>\n<span class=\"os-text\" data-type=\"\" itemprop=\"\">Roots and Radicals</span>",
+      "toc_type": "chapter",
+      "contents": [
+        {
+          "id": "78a9f055-3962-413c-a010-f6937d8f9e08@",
+          "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "intro",
+          "slug": "8-introduction"
+        },
+        {
+          "id": "c93e90e4-5eb7-4422-9e72-263f86208f5f@",
+          "title": "<span class=\"os-number\">8.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Simplify Expressions with Roots</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "8-1-simplify-expressions-with-roots"
+        },
+        {
+          "id": "41eef600-202f-4bd3-b23f-9607a02bca79@",
+          "title": "<span class=\"os-number\">8.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Simplify Radical Expressions</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "8-2-simplify-radical-expressions"
+        },
+        {
+          "id": "5f8936f5-a82d-4f0d-ba8d-8341d1f58083@",
+          "title": "<span class=\"os-number\">8.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Simplify Rational Exponents</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "8-3-simplify-rational-exponents"
+        },
+        {
+          "id": "18c43895-0fa9-429e-9f37-bd4e6359b579@",
+          "title": "<span class=\"os-number\">8.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Add, Subtract, and Multiply Radical Expressions</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "8-4-add-subtract-and-multiply-radical-expressions"
+        },
+        {
+          "id": "216b2ead-1007-4909-9a05-26e7f96ad159@",
+          "title": "<span class=\"os-number\">8.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Divide Radical Expressions</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "8-5-divide-radical-expressions"
+        },
+        {
+          "id": "9bbc1d42-1636-418b-871a-669d3db32c75@",
+          "title": "<span class=\"os-number\">8.6</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Solve Radical Equations</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "8-6-solve-radical-equations"
+        },
+        {
+          "id": "cf2a4a73-4f8d-4736-bd51-3a1ba306981d@",
+          "title": "<span class=\"os-number\">8.7</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Use Radicals in Functions</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "8-7-use-radicals-in-functions"
+        },
+        {
+          "id": "7666656b-7531-4995-a8fd-0e6535eba35d@",
+          "title": "<span class=\"os-number\">8.8</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Use the Complex Number System</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "8-8-use-the-complex-number-system"
+        },
+        {
+          "id": "f46d6b7b-9093-53ed-a23c-7273c9689ca7@38cae45",
+          "title": "<span class=\"os-text\">Chapter Review</span>",
+          "toc_type": "sub-book-tree",
+          "contents": [
+            {
+              "id": "ea13f2ec-e11f-52ae-943c-c84949cc2496@38cae45",
+              "title": "<span class=\"os-text\">Key Terms</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "8-key-terms"
+            },
+            {
+              "id": "82fcbb99-c1f5-5fe8-9a57-18d6b46ad399@38cae45",
+              "title": "<span class=\"os-text\">Key Concepts</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "8-key-concepts"
+            }
+          ],
+          "slug": "8-chapter-review"
+        },
+        {
+          "id": "a922d410-63e2-5257-9165-981f3c76bd4f@38cae45",
+          "title": "<span class=\"os-text\">Exercises</span>",
+          "toc_type": "sub-book-tree",
+          "contents": [
+            {
+              "id": "d8162951-1d9b-50f0-bb8c-97cf5bc1c5ba@38cae45",
+              "title": "<span class=\"os-text\">Review Exercises</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "8-review-exercises"
+            },
+            {
+              "id": "063d8f7c-d85f-5b66-9ac0-c4fe95382ded@38cae45",
+              "title": "<span class=\"os-text\">Practice Test</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "8-practice-test"
+            }
+          ],
+          "slug": "8-exercises"
+        }
+      ],
+      "slug": "8-roots-and-radicals"
+    },
+    {
+      "id": "6cc4e919-dead-5982-a4ba-820b00d918dd@38cae45",
+      "title": "<span class=\"os-number\">9</span>\n<span class=\"os-divider\"> </span>\n<span class=\"os-text\" data-type=\"\" itemprop=\"\">Quadratic Equations and Functions</span>",
+      "toc_type": "chapter",
+      "contents": [
+        {
+          "id": "5f5fbc58-7c27-4c21-976b-c4849754f484@",
+          "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "intro",
+          "slug": "9-introduction"
+        },
+        {
+          "id": "3707d74c-647c-4ce7-ab14-81863dee535c@",
+          "title": "<span class=\"os-number\">9.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Solve Quadratic Equations Using the Square Root Property</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "9-1-solve-quadratic-equations-using-the-square-root-property"
+        },
+        {
+          "id": "57db40dc-810a-4ceb-bdb6-ba03274e9da9@",
+          "title": "<span class=\"os-number\">9.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Solve Quadratic Equations by Completing the Square</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "9-2-solve-quadratic-equations-by-completing-the-square"
+        },
+        {
+          "id": "5bc3569f-5f65-4f5e-8249-e37e01d20dce@",
+          "title": "<span class=\"os-number\">9.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Solve Quadratic Equations Using the Quadratic Formula</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "9-3-solve-quadratic-equations-using-the-quadratic-formula"
+        },
+        {
+          "id": "37b7878c-e2b6-4e52-9854-e2c845477271@",
+          "title": "<span class=\"os-number\">9.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Solve Equations in Quadratic Form</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "9-4-solve-equations-in-quadratic-form"
+        },
+        {
+          "id": "99e5b365-1031-4792-a49a-80e7e69855eb@",
+          "title": "<span class=\"os-number\">9.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Solve Applications of Quadratic Equations</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "9-5-solve-applications-of-quadratic-equations"
+        },
+        {
+          "id": "05dd84c8-48f9-4017-b0e9-85a9275b5686@",
+          "title": "<span class=\"os-number\">9.6</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Graph Quadratic Functions Using Properties</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "9-6-graph-quadratic-functions-using-properties"
+        },
+        {
+          "id": "85761b0e-ad1e-49f7-9e8c-5838489c57bc@",
+          "title": "<span class=\"os-number\">9.7</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Graph Quadratic Functions Using Transformations</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "9-7-graph-quadratic-functions-using-transformations"
+        },
+        {
+          "id": "ae97f647-7a2d-46f4-b9bf-c1205b91420b@",
+          "title": "<span class=\"os-number\">9.8</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Solve Quadratic Inequalities</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "9-8-solve-quadratic-inequalities"
+        },
+        {
+          "id": "06d41808-016f-52fd-895e-5012a2220d80@38cae45",
+          "title": "<span class=\"os-text\">Chapter Review</span>",
+          "toc_type": "sub-book-tree",
+          "contents": [
+            {
+              "id": "5d286296-d030-5761-85ca-a44f1f0f569f@38cae45",
+              "title": "<span class=\"os-text\">Key Terms</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "9-key-terms"
+            },
+            {
+              "id": "3068633b-86a2-5eeb-8ec1-17e240ebab94@38cae45",
+              "title": "<span class=\"os-text\">Key Concepts</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "9-key-concepts"
+            }
+          ],
+          "slug": "9-chapter-review"
+        },
+        {
+          "id": "965caa9e-5002-58d6-8580-1db85900cdde@38cae45",
+          "title": "<span class=\"os-text\">Exercises</span>",
+          "toc_type": "sub-book-tree",
+          "contents": [
+            {
+              "id": "73cfb7b7-874f-5259-9e36-54987036ed73@38cae45",
+              "title": "<span class=\"os-text\">Review Exercises</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "9-review-exercises"
+            },
+            {
+              "id": "ce654a14-417f-5bb8-b8b4-52ac170e2996@38cae45",
+              "title": "<span class=\"os-text\">Practice Test</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "9-practice-test"
+            }
+          ],
+          "slug": "9-exercises"
+        }
+      ],
+      "slug": "9-quadratic-equations-and-functions"
+    },
+    {
+      "id": "21df4bc3-8a55-55e5-98b5-80c0515c5cc6@38cae45",
+      "title": "<span class=\"os-number\">10</span>\n<span class=\"os-divider\"> </span>\n<span class=\"os-text\" data-type=\"\" itemprop=\"\">Exponential and Logarithmic Functions</span>",
+      "toc_type": "chapter",
+      "contents": [
+        {
+          "id": "337fc98c-2c5c-4561-8541-3a3d428c430c@",
+          "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "intro",
+          "slug": "10-introduction"
+        },
+        {
+          "id": "b3e6b118-b5ba-4f39-bd37-38c1a6812712@",
+          "title": "<span class=\"os-number\">10.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Finding Composite and Inverse Functions</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "10-1-finding-composite-and-inverse-functions"
+        },
+        {
+          "id": "054d3ec3-bee3-40e5-9e9b-44d6b973844b@",
+          "title": "<span class=\"os-number\">10.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Evaluate and Graph Exponential Functions</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "10-2-evaluate-and-graph-exponential-functions"
+        },
+        {
+          "id": "afd63274-5172-405b-b787-bfd578b98d44@",
+          "title": "<span class=\"os-number\">10.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Evaluate and Graph Logarithmic Functions</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "10-3-evaluate-and-graph-logarithmic-functions"
+        },
+        {
+          "id": "e4102aea-5331-4ca6-a1ca-4d9316e6d955@",
+          "title": "<span class=\"os-number\">10.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Use the Properties of Logarithms</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "10-4-use-the-properties-of-logarithms"
+        },
+        {
+          "id": "5058068c-0746-4f7d-b995-311859e1010e@",
+          "title": "<span class=\"os-number\">10.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Solve Exponential and Logarithmic Equations</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "10-5-solve-exponential-and-logarithmic-equations"
+        },
+        {
+          "id": "f2f2de07-2516-56d7-96f3-6a3812b37997@38cae45",
+          "title": "<span class=\"os-text\">Chapter Review</span>",
+          "toc_type": "sub-book-tree",
+          "contents": [
+            {
+              "id": "ca6d3b7e-e6c2-5e88-a915-c7d20bb25dc4@38cae45",
+              "title": "<span class=\"os-text\">Key Terms</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "10-key-terms"
+            },
+            {
+              "id": "a80f1c6d-61fb-5e19-97e7-2163f99004ee@38cae45",
+              "title": "<span class=\"os-text\">Key Concepts</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "10-key-concepts"
+            }
+          ],
+          "slug": "10-chapter-review"
+        },
+        {
+          "id": "cc46795c-1172-596f-af7c-148d4c27539d@38cae45",
+          "title": "<span class=\"os-text\">Exercises</span>",
+          "toc_type": "sub-book-tree",
+          "contents": [
+            {
+              "id": "227e80c3-fa74-5264-bdd8-2ca121aa876e@38cae45",
+              "title": "<span class=\"os-text\">Review Exercises</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "10-review-exercises"
+            },
+            {
+              "id": "d30a6ffa-d7ee-53eb-be11-b28cccd2d51e@38cae45",
+              "title": "<span class=\"os-text\">Practice Test</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "10-practice-test"
+            }
+          ],
+          "slug": "10-exercises"
+        }
+      ],
+      "slug": "10-exponential-and-logarithmic-functions"
+    },
+    {
+      "id": "02d7be2a-e870-5bc5-8f9d-7d6b7a85fcad@38cae45",
+      "title": "<span class=\"os-number\">11</span>\n<span class=\"os-divider\"> </span>\n<span class=\"os-text\" data-type=\"\" itemprop=\"\">Conics</span>",
+      "toc_type": "chapter",
+      "contents": [
+        {
+          "id": "ce066327-babd-49b8-818b-03c4bc6ed6ce@",
+          "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "intro",
+          "slug": "11-introduction"
+        },
+        {
+          "id": "481bcd2d-93f7-480e-a6bd-1c71ae29a17f@",
+          "title": "<span class=\"os-number\">11.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Distance and Midpoint Formulas; Circles</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "11-1-distance-and-midpoint-formulas-circles"
+        },
+        {
+          "id": "8cbefbee-ca94-4a30-a70e-86f931e36b3b@",
+          "title": "<span class=\"os-number\">11.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Parabolas</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "11-2-parabolas"
+        },
+        {
+          "id": "866308ab-9879-4066-9f70-16837ed7ec37@",
+          "title": "<span class=\"os-number\">11.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Ellipses</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "11-3-ellipses"
+        },
+        {
+          "id": "c2cd37d4-1a2c-4738-8134-f5accdd72c0f@",
+          "title": "<span class=\"os-number\">11.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Hyperbolas</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "11-4-hyperbolas"
+        },
+        {
+          "id": "cd76dfa3-cea1-4f11-8940-da0fcaa4237c@",
+          "title": "<span class=\"os-number\">11.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Solve Systems of Nonlinear Equations</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "11-5-solve-systems-of-nonlinear-equations"
+        },
+        {
+          "id": "8972d756-b6f5-5bde-92b2-dc42ac8a8bbe@38cae45",
+          "title": "<span class=\"os-text\">Chapter Review</span>",
+          "toc_type": "sub-book-tree",
+          "contents": [
+            {
+              "id": "e4cf5420-3ab7-59c7-980f-52ed3ff460ce@38cae45",
+              "title": "<span class=\"os-text\">Key Terms</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "11-key-terms"
+            },
+            {
+              "id": "508d9e68-1129-50df-8ec3-cb81e2ccfa06@38cae45",
+              "title": "<span class=\"os-text\">Key Concepts</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "11-key-concepts"
+            }
+          ],
+          "slug": "11-chapter-review"
+        },
+        {
+          "id": "1bbd5f25-38fe-5e2c-ad6c-1a7a5177e15e@38cae45",
+          "title": "<span class=\"os-text\">Exercises</span>",
+          "toc_type": "sub-book-tree",
+          "contents": [
+            {
+              "id": "059dd4a7-93cc-5e2c-b26f-612456e85709@38cae45",
+              "title": "<span class=\"os-text\">Review Exercises</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "11-review-exercises"
+            },
+            {
+              "id": "523eb0d2-968e-5813-b721-1b0de182d30e@38cae45",
+              "title": "<span class=\"os-text\">Practice Test</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "11-practice-test"
+            }
+          ],
+          "slug": "11-exercises"
+        }
+      ],
+      "slug": "11-conics"
+    },
+    {
+      "id": "3e15aa30-29de-5397-9d89-ab3fa7a809d2@38cae45",
+      "title": "<span class=\"os-number\">12</span>\n<span class=\"os-divider\"> </span>\n<span class=\"os-text\" data-type=\"\" itemprop=\"\">Sequences, Series and Binomial Theorem</span>",
+      "toc_type": "chapter",
+      "contents": [
+        {
+          "id": "050b2640-ca09-46c5-8669-131098661a37@",
+          "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "intro",
+          "slug": "12-introduction"
+        },
+        {
+          "id": "c3d78cf5-7d1d-437f-81b5-2172ad676053@",
+          "title": "<span class=\"os-number\">12.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Sequences</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "12-1-sequences"
+        },
+        {
+          "id": "3519191c-a907-44ab-9906-f2ee4269a507@",
+          "title": "<span class=\"os-number\">12.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Arithmetic Sequences</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "12-2-arithmetic-sequences"
+        },
+        {
+          "id": "2f5b3bc9-ccfe-42a1-b18e-7aab5baf9079@",
+          "title": "<span class=\"os-number\">12.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Geometric Sequences and Series</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "12-3-geometric-sequences-and-series"
+        },
+        {
+          "id": "85d5a058-3b5d-4518-9473-7c8cb29e1b2b@",
+          "title": "<span class=\"os-number\">12.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Binomial Theorem</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "numbered-section",
+          "slug": "12-4-binomial-theorem"
+        },
+        {
+          "id": "b76437aa-5f82-5e22-a66a-ec22efbd0f70@38cae45",
+          "title": "<span class=\"os-text\">Chapter Review</span>",
+          "toc_type": "sub-book-tree",
+          "contents": [
+            {
+              "id": "e24cdf6e-5494-5ff9-97eb-784dbc73a94c@38cae45",
+              "title": "<span class=\"os-text\">Key Terms</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "12-key-terms"
+            },
+            {
+              "id": "ff59f718-718e-5b56-88a2-ae777147e3cc@38cae45",
+              "title": "<span class=\"os-text\">Key Concepts</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "12-key-concepts"
+            }
+          ],
+          "slug": "12-chapter-review"
+        },
+        {
+          "id": "bddb20ed-d623-5c0a-bd15-eb2543c4ada1@38cae45",
+          "title": "<span class=\"os-text\">Exercises</span>",
+          "toc_type": "sub-book-tree",
+          "contents": [
+            {
+              "id": "08ec2e43-06fd-5f95-ba52-37501b8cb935@38cae45",
+              "title": "<span class=\"os-text\">Review Exercises</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "12-review-exercises"
+            },
+            {
+              "id": "3ffb3d69-3631-5f2c-a09a-15716e5c8f1f@38cae45",
+              "title": "<span class=\"os-text\">Practice Test</span>",
+              "toc_type": "book-content",
+              "toc_target_type": "composite-page",
+              "slug": "12-practice-test"
+            }
+          ],
+          "slug": "12-exercises"
+        }
+      ],
+      "slug": "12-sequences-series-and-binomial-theorem"
+    },
+    {
+      "id": "32c5321c-9e19-5052-b93b-d5ad8ae007e9@38cae45",
+      "title": "<span class=\"os-text\">Answer Key</span>",
+      "toc_type": "sub-book-tree",
+      "contents": [
+        {
+          "id": "65d2b668-586d-5dcc-ba9f-d8de7600c29e@38cae45",
+          "title": "<span class=\"os-text\">Chapter 1</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "answer-key",
+          "slug": "chapter-1"
+        },
+        {
+          "id": "0819dcf2-7ab8-5532-800a-3d48096ceb9e@38cae45",
+          "title": "<span class=\"os-text\">Chapter 2</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "answer-key",
+          "slug": "chapter-2"
+        },
+        {
+          "id": "88c70669-12b2-54d1-95ae-29ffb25e7937@38cae45",
+          "title": "<span class=\"os-text\">Chapter 3</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "answer-key",
+          "slug": "chapter-3"
+        },
+        {
+          "id": "1ae2a60f-7231-5c26-b726-5f75cc695192@38cae45",
+          "title": "<span class=\"os-text\">Chapter 4</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "answer-key",
+          "slug": "chapter-4"
+        },
+        {
+          "id": "76aaa4f1-dc44-5c78-9c7e-b72ee18b51c6@38cae45",
+          "title": "<span class=\"os-text\">Chapter 5</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "answer-key",
+          "slug": "chapter-5"
+        },
+        {
+          "id": "0b3c07f5-aac1-52a4-9025-677b531aad68@38cae45",
+          "title": "<span class=\"os-text\">Chapter 6</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "answer-key",
+          "slug": "chapter-6"
+        },
+        {
+          "id": "74070a7a-d09f-54fd-8588-8a2bf7b18c52@38cae45",
+          "title": "<span class=\"os-text\">Chapter 7</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "answer-key",
+          "slug": "chapter-7"
+        },
+        {
+          "id": "678b874b-7b8e-5fc9-a695-e68524a57f9f@38cae45",
+          "title": "<span class=\"os-text\">Chapter 8</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "answer-key",
+          "slug": "chapter-8"
+        },
+        {
+          "id": "70c34f15-1a10-560f-b004-11fc0bfd9957@38cae45",
+          "title": "<span class=\"os-text\">Chapter 9</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "answer-key",
+          "slug": "chapter-9"
+        },
+        {
+          "id": "40b67338-a475-5d34-8365-eb23d6032531@38cae45",
+          "title": "<span class=\"os-text\">Chapter 10</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "answer-key",
+          "slug": "chapter-10"
+        },
+        {
+          "id": "96ffd145-c666-5178-93b5-d5944c46670f@38cae45",
+          "title": "<span class=\"os-text\">Chapter 11</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "answer-key",
+          "slug": "chapter-11"
+        },
+        {
+          "id": "75f6db2a-f849-51b3-aa7e-e330ed26098a@38cae45",
+          "title": "<span class=\"os-text\">Chapter 12</span>",
+          "toc_type": "book-content",
+          "toc_target_type": "answer-key",
+          "slug": "chapter-12"
+        }
+      ],
+      "slug": "answer-key"
+    },
+    {
+      "id": "cb64363e-6b88-5f4b-9ace-56755bb46508@38cae45",
+      "title": "<span class=\"os-text\">Index</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "index",
+      "slug": "index"
+    }
+  ],
+  "slug": "intermediate-algebra-2e"
+}

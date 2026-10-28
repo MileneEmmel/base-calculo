@@ -1,0 +1,1126 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/8-5-divide-radical-expressions",
+  "title": "8.5 Divide Radical Expressions",
+  "sha256": "07af05cb12b3cf069d7ecec05ec303776ed4bd4de6eb201bb81ac83ea8331057",
+  "questions": [
+    {
+      "number": 245,
+      "anchor": "fs-id1169148869456",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Divide Square Roots",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\(\\frac{\\sqrt{128}}{\\sqrt{72}}\\) ⓑ \\(\\frac{1283}{543}\\)",
+      "math": [
+        "\\frac{\\sqrt{128}}{\\sqrt{72}}",
+        "\\frac{\\sqrt[3]{128}}{\\sqrt[3]{54}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msqrt><mrow><mn>128</mn></mrow></msqrt></mrow><mrow><msqrt><mrow><mn>72</mn></mrow></msqrt></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msqrt><mrow><mn>128</mn></mrow></msqrt></mrow><mrow><msqrt><mrow><mn>72</mn></mrow></msqrt></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mroot><mrow><mn>128</mn></mrow><mrow><mn>3</mn></mrow></mroot></mrow><mrow><mroot><mrow><mn>54</mn></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mroot><mrow><mn>128</mn></mrow><mrow><mn>3</mn></mrow></mroot></mrow><mrow><mroot><mrow><mn>54</mn></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 246,
+      "anchor": "fs-id1169148951118",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Divide Square Roots",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\(\\frac{\\sqrt{48}}{\\sqrt{75}}\\) ⓑ \\(\\frac{813}{243}\\)",
+      "math": [
+        "\\frac{\\sqrt{48}}{\\sqrt{75}}",
+        "\\frac{\\sqrt[3]{81}}{\\sqrt[3]{24}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msqrt><mrow><mn>48</mn></mrow></msqrt></mrow><mrow><msqrt><mrow><mn>75</mn></mrow></msqrt></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msqrt><mrow><mn>48</mn></mrow></msqrt></mrow><mrow><msqrt><mrow><mn>75</mn></mrow></msqrt></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mroot><mrow><mn>81</mn></mrow><mrow><mn>3</mn></mrow></mroot></mrow><mrow><mroot><mrow><mn>24</mn></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mroot><mrow><mn>81</mn></mrow><mrow><mn>3</mn></mrow></mroot></mrow><mrow><mroot><mrow><mn>24</mn></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 247,
+      "anchor": "fs-id1169149196629",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Divide Square Roots",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\(\\frac{\\sqrt{200{m}^{5}}}{\\sqrt{98m}}\\) ⓑ \\(\\frac{54{y}^{2}3}{2{y}^{5}3}\\)",
+      "math": [
+        "\\frac{\\sqrt{200{m}^{5}}}{\\sqrt{98m}}",
+        "\\frac{\\sqrt[3]{54{y}^{2}}}{\\sqrt[3]{2{y}^{5}}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msqrt><mrow><mn>200</mn><msup><mi>m</mi><mn>5</mn></msup></mrow></msqrt></mrow><mrow><msqrt><mrow><mn>98</mn><mi>m</mi></mrow></msqrt></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msqrt><mrow><mn>200</mn><msup><mi>m</mi><mn>5</mn></msup></mrow></msqrt></mrow><mrow><msqrt><mrow><mn>98</mn><mi>m</mi></mrow></msqrt></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mroot><mrow><mn>54</mn><msup><mi>y</mi><mn>2</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow><mrow><mroot><mrow><mn>2</mn><msup><mi>y</mi><mn>5</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mroot><mrow><mn>54</mn><msup><mi>y</mi><mn>2</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow><mrow><mroot><mrow><mn>2</mn><msup><mi>y</mi><mn>5</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 248,
+      "anchor": "fs-id1169149287043",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Divide Square Roots",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\(\\frac{\\sqrt{108{n}^{7}}}{\\sqrt{243{n}^{3}}}\\) ⓑ \\(\\frac{54{y}^{}3}{16{y}^{4}3}\\)",
+      "math": [
+        "\\frac{\\sqrt{108{n}^{7}}}{\\sqrt{243{n}^{3}}}",
+        "\\frac{\\sqrt[3]{54{y}^{}}}{\\sqrt[3]{16{y}^{4}}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msqrt><mrow><mn>108</mn><msup><mi>n</mi><mn>7</mn></msup></mrow></msqrt></mrow><mrow><msqrt><mrow><mn>243</mn><msup><mi>n</mi><mn>3</mn></msup></mrow></msqrt></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msqrt><mrow><mn>108</mn><msup><mi>n</mi><mn>7</mn></msup></mrow></msqrt></mrow><mrow><msqrt><mrow><mn>243</mn><msup><mi>n</mi><mn>3</mn></msup></mrow></msqrt></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mroot><mrow><mn>54</mn><msup><mi>y</mi><mrow></mrow></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow><mrow><mroot><mrow><mn>16</mn><msup><mi>y</mi><mn>4</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mroot><mrow><mn>54</mn><msup><mi>y</mi><mrow></mrow></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow><mrow><mroot><mrow><mn>16</mn><msup><mi>y</mi><mn>4</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 249,
+      "anchor": "fs-id1169146740915",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Divide Square Roots",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\(\\frac{\\sqrt{75{r}^{3}}}{\\sqrt{108{r}^{7}}}\\) ⓑ \\(\\frac{24{x}^{7}3}{81{x}^{4}3}\\)",
+      "math": [
+        "\\frac{\\sqrt{75{r}^{3}}}{\\sqrt{108{r}^{7}}}",
+        "\\frac{\\sqrt[3]{24{x}^{7}}}{\\sqrt[3]{81{x}^{4}}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msqrt><mrow><mn>75</mn><msup><mi>r</mi><mn>3</mn></msup></mrow></msqrt></mrow><mrow><msqrt><mrow><mn>108</mn><msup><mi>r</mi><mn>7</mn></msup></mrow></msqrt></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msqrt><mrow><mn>75</mn><msup><mi>r</mi><mn>3</mn></msup></mrow></msqrt></mrow><mrow><msqrt><mrow><mn>108</mn><msup><mi>r</mi><mn>7</mn></msup></mrow></msqrt></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mroot><mrow><mn>24</mn><msup><mi>x</mi><mn>7</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow><mrow><mroot><mrow><mn>81</mn><msup><mi>x</mi><mn>4</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mroot><mrow><mn>24</mn><msup><mi>x</mi><mn>7</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow><mrow><mroot><mrow><mn>81</mn><msup><mi>x</mi><mn>4</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 250,
+      "anchor": "fs-id1169148970327",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Divide Square Roots",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\(\\frac{\\sqrt{196{q}^{}}}{\\sqrt{484{q}^{5}}}\\) ⓑ \\(\\frac{16{m}^{4}3}{54{m}^{}3}\\)",
+      "math": [
+        "\\frac{\\sqrt{196{q}^{}}}{\\sqrt{484{q}^{5}}}",
+        "\\frac{\\sqrt[3]{16{m}^{4}}}{\\sqrt[3]{54{m}^{}}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msqrt><mrow><mn>196</mn><msup><mi>q</mi><mrow></mrow></msup></mrow></msqrt></mrow><mrow><msqrt><mrow><mn>484</mn><msup><mi>q</mi><mn>5</mn></msup></mrow></msqrt></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msqrt><mrow><mn>196</mn><msup><mi>q</mi><mrow></mrow></msup></mrow></msqrt></mrow><mrow><msqrt><mrow><mn>484</mn><msup><mi>q</mi><mn>5</mn></msup></mrow></msqrt></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mroot><mrow><mn>16</mn><msup><mi>m</mi><mn>4</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow><mrow><mroot><mrow><mn>54</mn><msup><mi>m</mi><mrow></mrow></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mroot><mrow><mn>16</mn><msup><mi>m</mi><mn>4</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow><mrow><mroot><mrow><mn>54</mn><msup><mi>m</mi><mrow></mrow></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 251,
+      "anchor": "fs-id1169149328074",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Divide Square Roots",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\(\\frac{\\sqrt{108{p}^{5}{q}^{2}}}{\\sqrt{3{p}^{3}{q}^{6}}}\\) ⓑ \\(\\frac{-16{a}^{4}{b}^{-2}3}{2{a}^{-2}{b}^{}3}\\)",
+      "math": [
+        "\\frac{\\sqrt{108{p}^{5}{q}^{2}}}{\\sqrt{3{p}^{3}{q}^{6}}}",
+        "\\frac{\\sqrt[3]{-16{a}^{4}{b}^{-2}}}{\\sqrt[3]{2{a}^{-2}{b}^{}}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msqrt><mrow><mn>108</mn><msup><mi>p</mi><mn>5</mn></msup><msup><mi>q</mi><mn>2</mn></msup></mrow></msqrt></mrow><mrow><msqrt><mrow><mn>3</mn><msup><mi>p</mi><mn>3</mn></msup><msup><mi>q</mi><mn>6</mn></msup></mrow></msqrt></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msqrt><mrow><mn>108</mn><msup><mi>p</mi><mn>5</mn></msup><msup><mi>q</mi><mn>2</mn></msup></mrow></msqrt></mrow><mrow><msqrt><mrow><mn>3</mn><msup><mi>p</mi><mn>3</mn></msup><msup><mi>q</mi><mn>6</mn></msup></mrow></msqrt></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mroot><mrow><mn>−16</mn><msup><mi>a</mi><mn>4</mn></msup><msup><mi>b</mi><mrow><mn>−2</mn></mrow></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow><mrow><mroot><mrow><mn>2</mn><msup><mi>a</mi><mrow><mn>−2</mn></mrow></msup><msup><mi>b</mi><mrow></mrow></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mroot><mrow><mn>−16</mn><msup><mi>a</mi><mn>4</mn></msup><msup><mi>b</mi><mrow><mn>−2</mn></mrow></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow><mrow><mroot><mrow><mn>2</mn><msup><mi>a</mi><mrow><mn>−2</mn></mrow></msup><msup><mi>b</mi><mrow></mrow></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 252,
+      "anchor": "fs-id1169149339448",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Divide Square Roots",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\(\\frac{\\sqrt{98r{s}^{10}}}{\\sqrt{2{r}^{3}{s}^{4}}}\\) ⓑ \\(\\frac{-375{y}^{4}{z}^{-2}3}{3{y}^{-2}{z}^{4}3}\\)",
+      "math": [
+        "\\frac{\\sqrt{98r{s}^{10}}}{\\sqrt{2{r}^{3}{s}^{4}}}",
+        "\\frac{\\sqrt[3]{-375{y}^{4}{z}^{-2}}}{\\sqrt[3]{3{y}^{-2}{z}^{4}}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msqrt><mrow><mn>98</mn><mi>r</mi><msup><mi>s</mi><mrow><mn>10</mn></mrow></msup></mrow></msqrt></mrow><mrow><msqrt><mrow><mn>2</mn><msup><mi>r</mi><mn>3</mn></msup><msup><mi>s</mi><mn>4</mn></msup></mrow></msqrt></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msqrt><mrow><mn>98</mn><mi>r</mi><msup><mi>s</mi><mrow><mn>10</mn></mrow></msup></mrow></msqrt></mrow><mrow><msqrt><mrow><mn>2</mn><msup><mi>r</mi><mn>3</mn></msup><msup><mi>s</mi><mn>4</mn></msup></mrow></msqrt></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mroot><mrow><mn>−375</mn><msup><mi>y</mi><mn>4</mn></msup><msup><mi>z</mi><mrow><mn>−2</mn></mrow></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow><mrow><mroot><mrow><mn>3</mn><msup><mi>y</mi><mrow><mn>−2</mn></mrow></msup><msup><mi>z</mi><mn>4</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mroot><mrow><mn>−375</mn><msup><mi>y</mi><mn>4</mn></msup><msup><mi>z</mi><mrow><mn>−2</mn></mrow></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow><mrow><mroot><mrow><mn>3</mn><msup><mi>y</mi><mrow><mn>−2</mn></mrow></msup><msup><mi>z</mi><mn>4</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 253,
+      "anchor": "fs-id1169144565587",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Divide Square Roots",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\(\\frac{\\sqrt{320m{n}^{-5}}}{\\sqrt{45{m}^{-7}{n}^{3}}}\\) ⓑ \\(\\frac{16{x}^{4}{y}^{-2}3}{-54{x}^{-2}{y}^{4}3}\\)",
+      "math": [
+        "\\frac{\\sqrt{320m{n}^{-5}}}{\\sqrt{45{m}^{-7}{n}^{3}}}",
+        "\\frac{\\sqrt[3]{16{x}^{4}{y}^{-2}}}{\\sqrt[3]{-54{x}^{-2}{y}^{4}}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msqrt><mrow><mn>320</mn><mi>m</mi><msup><mi>n</mi><mrow><mn>−5</mn></mrow></msup></mrow></msqrt></mrow><mrow><msqrt><mrow><mn>45</mn><msup><mi>m</mi><mrow><mn>−7</mn></mrow></msup><msup><mi>n</mi><mn>3</mn></msup></mrow></msqrt></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msqrt><mrow><mn>320</mn><mi>m</mi><msup><mi>n</mi><mrow><mn>−5</mn></mrow></msup></mrow></msqrt></mrow><mrow><msqrt><mrow><mn>45</mn><msup><mi>m</mi><mrow><mn>−7</mn></mrow></msup><msup><mi>n</mi><mn>3</mn></msup></mrow></msqrt></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mroot><mrow><mn>16</mn><msup><mi>x</mi><mn>4</mn></msup><msup><mi>y</mi><mrow><mn>−2</mn></mrow></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow><mrow><mroot><mrow><mn>−54</mn><msup><mi>x</mi><mrow><mn>−2</mn></mrow></msup><msup><mi>y</mi><mn>4</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mroot><mrow><mn>16</mn><msup><mi>x</mi><mn>4</mn></msup><msup><mi>y</mi><mrow><mn>−2</mn></mrow></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow><mrow><mroot><mrow><mn>−54</mn><msup><mi>x</mi><mrow><mn>−2</mn></mrow></msup><msup><mi>y</mi><mn>4</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 254,
+      "anchor": "fs-id1169148880013",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Divide Square Roots",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\(\\frac{\\sqrt{810{c}^{-3}{d}^{7}}}{\\sqrt{1000{c}^{}{d}^{-1}}}\\) ⓑ \\(\\frac{24{a}^{7}{b}^{-1}3}{-81{a}^{-2}{b}^{2}3}\\)",
+      "math": [
+        "\\frac{\\sqrt{810{c}^{-3}{d}^{7}}}{\\sqrt{1000{c}^{}{d}^{-1}}}",
+        "\\frac{\\sqrt[3]{24{a}^{7}{b}^{-1}}}{\\sqrt[3]{-81{a}^{-2}{b}^{2}}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msqrt><mrow><mn>810</mn><msup><mi>c</mi><mrow><mn>−3</mn></mrow></msup><msup><mi>d</mi><mn>7</mn></msup></mrow></msqrt></mrow><mrow><msqrt><mrow><mn>1000</mn><msup><mi>c</mi><mrow></mrow></msup><msup><mi>d</mi><mrow><mn>−1</mn></mrow></msup></mrow></msqrt></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msqrt><mrow><mn>810</mn><msup><mi>c</mi><mrow><mn>−3</mn></mrow></msup><msup><mi>d</mi><mn>7</mn></msup></mrow></msqrt></mrow><mrow><msqrt><mrow><mn>1000</mn><msup><mi>c</mi><mrow></mrow></msup><msup><mi>d</mi><mrow><mn>−1</mn></mrow></msup></mrow></msqrt></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mroot><mrow><mn>24</mn><msup><mi>a</mi><mn>7</mn></msup><msup><mi>b</mi><mrow><mo>−</mo><mn>1</mn></mrow></msup></mrow><mn>3</mn></mroot></mrow><mrow><mroot><mrow><mo>−</mo><mn>81</mn><msup><mi>a</mi><mrow><mo>−</mo><mn>2</mn></mrow></msup><msup><mi>b</mi><mn>2</mn></msup></mrow><mn>3</mn></mroot></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mroot><mrow><mn>24</mn><msup><mi>a</mi><mn>7</mn></msup><msup><mi>b</mi><mrow><mo>−</mo><mn>1</mn></mrow></msup></mrow><mn>3</mn></mroot></mrow><mrow><mroot><mrow><mo>−</mo><mn>81</mn><msup><mi>a</mi><mrow><mo>−</mo><mn>2</mn></mrow></msup><msup><mi>b</mi><mn>2</mn></msup></mrow><mn>3</mn></mroot></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 255,
+      "anchor": "fs-id1169144614783",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Divide Square Roots",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{ \\sqrt{ 56 {x}^{5} {y}^{4} } }{ \\sqrt{ 2 x {y}^{3} } }\\)",
+      "math": [
+        "\\frac{ \\sqrt{ 56 {x}^{5} {y}^{4} } }{ \\sqrt{ 2 x {y}^{3} } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msqrt>\n                <mrow>\n                  <mn>56</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>5</mn>\n                  </msup>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>4</mn>\n                  </msup>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mrow>\n              <msqrt>\n                <mrow>\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>3</mn>\n                  </msup>\n                </mrow>\n              </msqrt>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msqrt>\n                <mrow>\n                  <mn>56</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>5</mn>\n                  </msup>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>4</mn>\n                  </msup>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mrow>\n              <msqrt>\n                <mrow>\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>3</mn>\n                  </msup>\n                </mrow>\n              </msqrt>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 256,
+      "anchor": "fs-id1169146667820",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Divide Square Roots",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{ \\sqrt{ 72 {a}^{3} {b}^{6} } }{ \\sqrt{ 3 a {b}^{3} } }\\)",
+      "math": [
+        "\\frac{ \\sqrt{ 72 {a}^{3} {b}^{6} } }{ \\sqrt{ 3 a {b}^{3} } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msqrt>\n                <mrow>\n                  <mn>72</mn>\n                  <msup>\n                    <mi>a</mi>\n                    <mn>3</mn>\n                  </msup>\n                  <msup>\n                    <mi>b</mi>\n                    <mn>6</mn>\n                  </msup>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mrow>\n              <msqrt>\n                <mrow>\n                  <mn>3</mn>\n                  <mi>a</mi>\n                  <msup>\n                    <mi>b</mi>\n                    <mn>3</mn>\n                  </msup>\n                </mrow>\n              </msqrt>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msqrt>\n                <mrow>\n                  <mn>72</mn>\n                  <msup>\n                    <mi>a</mi>\n                    <mn>3</mn>\n                  </msup>\n                  <msup>\n                    <mi>b</mi>\n                    <mn>6</mn>\n                  </msup>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mrow>\n              <msqrt>\n                <mrow>\n                  <mn>3</mn>\n                  <mi>a</mi>\n                  <msup>\n                    <mi>b</mi>\n                    <mn>3</mn>\n                  </msup>\n                </mrow>\n              </msqrt>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 257,
+      "anchor": "fs-id1169149109868",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Divide Square Roots",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{ 48 {a}^{3} {b}^{6} 3 }{ 3 {a}^{ - 1 } {b}^{3} 3 }\\)",
+      "math": [
+        "\\frac{ \\sqrt[3]{ 48 {a}^{3} {b}^{6} } }{ \\sqrt[3]{ 3 {a}^{ - 1 } {b}^{3} } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mroot>\n                <mrow>\n                  <mn>48</mn>\n                  <msup>\n                    <mi>a</mi>\n                    <mn>3</mn>\n                  </msup>\n                  <msup>\n                    <mi>b</mi>\n                    <mn>6</mn>\n                  </msup>\n                </mrow>\n                <mn>3</mn>\n              </mroot>\n            </mrow>\n            <mrow>\n              <mroot>\n                <mrow>\n                  <mn>3</mn>\n                  <msup>\n                    <mi>a</mi>\n                    <mrow>\n                      <mo>−</mo>\n                      <mn>1</mn>\n                    </mrow>\n                  </msup>\n                  <msup>\n                    <mi>b</mi>\n                    <mn>3</mn>\n                  </msup>\n                </mrow>\n                <mrow>\n                  <mn>3</mn>\n                </mrow>\n              </mroot>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mroot>\n                <mrow>\n                  <mn>48</mn>\n                  <msup>\n                    <mi>a</mi>\n                    <mn>3</mn>\n                  </msup>\n                  <msup>\n                    <mi>b</mi>\n                    <mn>6</mn>\n                  </msup>\n                </mrow>\n                <mn>3</mn>\n              </mroot>\n            </mrow>\n            <mrow>\n              <mroot>\n                <mrow>\n                  <mn>3</mn>\n                  <msup>\n                    <mi>a</mi>\n                    <mrow>\n                      <mo>−</mo>\n                      <mn>1</mn>\n                    </mrow>\n                  </msup>\n                  <msup>\n                    <mi>b</mi>\n                    <mn>3</mn>\n                  </msup>\n                </mrow>\n                <mrow>\n                  <mn>3</mn>\n                </mrow>\n              </mroot>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 258,
+      "anchor": "fs-id1169149280925",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Divide Square Roots",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{ 162 {x}^{ - 3 } {y}^{6} 3 }{ 2 {x}^{3} {y}^{ - 2 } 3 }\\)",
+      "math": [
+        "\\frac{ \\sqrt[3]{ 162 {x}^{ - 3 } {y}^{6} } }{ \\sqrt[3]{ 2 {x}^{3} {y}^{ - 2 } } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mroot>\n                <mrow>\n                  <mn>162</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mrow>\n                      <mo>−</mo>\n                      <mn>3</mn>\n                    </mrow>\n                  </msup>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>6</mn>\n                  </msup>\n                </mrow>\n                <mrow>\n                  <mn>3</mn>\n                </mrow>\n              </mroot>\n            </mrow>\n            <mrow>\n              <mroot>\n                <mrow>\n                  <mn>2</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>3</mn>\n                  </msup>\n                  <msup>\n                    <mi>y</mi>\n                    <mrow>\n                      <mo>−</mo>\n                      <mn>2</mn>\n                    </mrow>\n                  </msup>\n                </mrow>\n                <mrow>\n                  <mn>3</mn>\n                </mrow>\n              </mroot>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mroot>\n                <mrow>\n                  <mn>162</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mrow>\n                      <mo>−</mo>\n                      <mn>3</mn>\n                    </mrow>\n                  </msup>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>6</mn>\n                  </msup>\n                </mrow>\n                <mrow>\n                  <mn>3</mn>\n                </mrow>\n              </mroot>\n            </mrow>\n            <mrow>\n              <mroot>\n                <mrow>\n                  <mn>2</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>3</mn>\n                  </msup>\n                  <msup>\n                    <mi>y</mi>\n                    <mrow>\n                      <mo>−</mo>\n                      <mn>2</mn>\n                    </mrow>\n                  </msup>\n                </mrow>\n                <mrow>\n                  <mn>3</mn>\n                </mrow>\n              </mroot>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 259,
+      "anchor": "fs-id1169149012708",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Rationalize a One Term Denominator",
+        "In the following exercises, rationalize the denominator."
+      ],
+      "text": "ⓐ \\(\\frac{10}{\\sqrt{6}}\\) ⓑ \\(\\sqrt{\\frac{4}{27}}\\) ⓒ \\(\\frac{10}{\\sqrt{5x}}\\)",
+      "math": [
+        "\\frac{10}{\\sqrt{6}}",
+        "\\sqrt{\\frac{4}{27}}",
+        "\\frac{10}{\\sqrt{5x}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mn>10</mn></mrow><mrow><msqrt><mn>6</mn></msqrt></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mn>10</mn></mrow><mrow><msqrt><mn>6</mn></msqrt></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mfrac><mn>4</mn><mrow><mn>27</mn></mrow></mfrac></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mfrac><mn>4</mn><mrow><mn>27</mn></mrow></mfrac></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mn>10</mn></mrow><mrow><msqrt><mrow><mn>5</mn><mi>x</mi></mrow></msqrt></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mn>10</mn></mrow><mrow><msqrt><mrow><mn>5</mn><mi>x</mi></mrow></msqrt></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 260,
+      "anchor": "fs-id1169149316475",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Rationalize a One Term Denominator",
+        "In the following exercises, rationalize the denominator."
+      ],
+      "text": "ⓐ \\(\\frac{8}{\\sqrt{3}}\\) ⓑ \\(\\sqrt{\\frac{7}{40}}\\) ⓒ \\(\\frac{8}{\\sqrt{2y}}\\)",
+      "math": [
+        "\\frac{8}{\\sqrt{3}}",
+        "\\sqrt{\\frac{7}{40}}",
+        "\\frac{8}{\\sqrt{2y}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>8</mn><mrow><msqrt><mn>3</mn></msqrt></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>8</mn><mrow><msqrt><mn>3</mn></msqrt></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mfrac><mn>7</mn><mrow><mn>40</mn></mrow></mfrac></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mfrac><mn>7</mn><mrow><mn>40</mn></mrow></mfrac></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>8</mn><mrow><msqrt><mrow><mn>2</mn><mi>y</mi></mrow></msqrt></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>8</mn><mrow><msqrt><mrow><mn>2</mn><mi>y</mi></mrow></msqrt></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 261,
+      "anchor": "fs-id1169148996426",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Rationalize a One Term Denominator",
+        "In the following exercises, rationalize the denominator."
+      ],
+      "text": "ⓐ \\(\\frac{6}{\\sqrt{7}}\\) ⓑ \\(\\sqrt{\\frac{8}{45}}\\) ⓒ \\(\\frac{12}{\\sqrt{3p}}\\)",
+      "math": [
+        "\\frac{6}{\\sqrt{7}}",
+        "\\sqrt{\\frac{8}{45}}",
+        "\\frac{12}{\\sqrt{3p}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>6</mn><mrow><msqrt><mn>7</mn></msqrt></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>6</mn><mrow><msqrt><mn>7</mn></msqrt></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mfrac><mn>8</mn><mrow><mn>45</mn></mrow></mfrac></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mfrac><mn>8</mn><mrow><mn>45</mn></mrow></mfrac></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mn>12</mn></mrow><mrow><msqrt><mrow><mn>3</mn><mi>p</mi></mrow></msqrt></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mn>12</mn></mrow><mrow><msqrt><mrow><mn>3</mn><mi>p</mi></mrow></msqrt></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 262,
+      "anchor": "fs-id1169144523288",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Rationalize a One Term Denominator",
+        "In the following exercises, rationalize the denominator."
+      ],
+      "text": "ⓐ \\(\\frac{4}{\\sqrt{5}}\\) ⓑ \\(\\sqrt{\\frac{27}{80}}\\) ⓒ \\(\\frac{18}{\\sqrt{6q}}\\)",
+      "math": [
+        "\\frac{4}{\\sqrt{5}}",
+        "\\sqrt{\\frac{27}{80}}",
+        "\\frac{18}{\\sqrt{6q}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>4</mn><mrow><msqrt><mn>5</mn></msqrt></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>4</mn><mrow><msqrt><mn>5</mn></msqrt></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mfrac><mrow><mn>27</mn></mrow><mrow><mn>80</mn></mrow></mfrac></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mfrac><mrow><mn>27</mn></mrow><mrow><mn>80</mn></mrow></mfrac></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mn>18</mn></mrow><mrow><msqrt><mrow><mn>6</mn><mi>q</mi></mrow></msqrt></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mn>18</mn></mrow><mrow><msqrt><mrow><mn>6</mn><mi>q</mi></mrow></msqrt></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 263,
+      "anchor": "fs-id1169144796674",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Rationalize a One Term Denominator",
+        "In the following exercises, rationalize the denominator."
+      ],
+      "text": "ⓐ \\(\\frac{1}{53}\\) ⓑ \\(\\frac{5}{24}3\\) ⓒ \\(\\frac{4}{36a3}\\)",
+      "math": [
+        "\\frac{1}{\\sqrt[3]{5}}",
+        "\\sqrt[3]{\\frac{5}{24}}",
+        "\\frac{4}{\\sqrt[3]{36a}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mrow><mroot><mn>5</mn><mn>3</mn></mroot></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mrow><mroot><mn>5</mn><mn>3</mn></mroot></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><mfrac><mn>5</mn><mrow><mn>24</mn></mrow></mfrac></mrow><mn>3</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><mfrac><mn>5</mn><mrow><mn>24</mn></mrow></mfrac></mrow><mn>3</mn></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>4</mn><mrow><mroot><mrow><mn>36</mn><mi>a</mi></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>4</mn><mrow><mroot><mrow><mn>36</mn><mi>a</mi></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 264,
+      "anchor": "fs-id1169149303500",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Rationalize a One Term Denominator",
+        "In the following exercises, rationalize the denominator."
+      ],
+      "text": "ⓐ \\(\\frac{1}{33}\\) ⓑ \\(\\frac{5}{32}3\\) ⓒ \\(\\frac{7}{49b3}\\)",
+      "math": [
+        "\\frac{1}{\\sqrt[3]{3}}",
+        "\\sqrt[3]{\\frac{5}{32}}",
+        "\\frac{7}{\\sqrt[3]{49b}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mrow><mroot><mn>3</mn><mn>3</mn></mroot></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mrow><mroot><mn>3</mn><mn>3</mn></mroot></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><mfrac><mn>5</mn><mrow><mn>32</mn></mrow></mfrac></mrow><mn>3</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><mfrac><mn>5</mn><mrow><mn>32</mn></mrow></mfrac></mrow><mn>3</mn></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>7</mn><mrow><mroot><mrow><mn>49</mn><mi>b</mi></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>7</mn><mrow><mroot><mrow><mn>49</mn><mi>b</mi></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 265,
+      "anchor": "fs-id1169149367796",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Rationalize a One Term Denominator",
+        "In the following exercises, rationalize the denominator."
+      ],
+      "text": "ⓐ \\(\\frac{1}{113}\\) ⓑ \\(\\frac{7}{54}3\\) ⓒ \\(\\frac{3}{3{x}^{2}3}\\)",
+      "math": [
+        "\\frac{1}{\\sqrt[3]{11}}",
+        "\\sqrt[3]{\\frac{7}{54}}",
+        "\\frac{3}{\\sqrt[3]{3{x}^{2}}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mrow><mroot><mrow><mn>11</mn></mrow><mn>3</mn></mroot></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mrow><mroot><mrow><mn>11</mn></mrow><mn>3</mn></mroot></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><mfrac><mn>7</mn><mrow><mn>54</mn></mrow></mfrac></mrow><mn>3</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><mfrac><mn>7</mn><mrow><mn>54</mn></mrow></mfrac></mrow><mn>3</mn></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>3</mn><mrow><mroot><mrow><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>3</mn><mrow><mroot><mrow><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 266,
+      "anchor": "fs-id1169149210154",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Rationalize a One Term Denominator",
+        "In the following exercises, rationalize the denominator."
+      ],
+      "text": "ⓐ \\(\\frac{1}{133}\\) ⓑ \\(\\frac{3}{128}3\\) ⓒ \\(\\frac{3}{6{y}^{2}3}\\)",
+      "math": [
+        "\\frac{1}{\\sqrt[3]{13}}",
+        "\\sqrt[3]{\\frac{3}{128}}",
+        "\\frac{3}{\\sqrt[3]{6{y}^{2}}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mrow><mroot><mrow><mn>13</mn></mrow><mn>3</mn></mroot></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mrow><mroot><mrow><mn>13</mn></mrow><mn>3</mn></mroot></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><mfrac><mn>3</mn><mrow><mn>128</mn></mrow></mfrac></mrow><mn>3</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><mfrac><mn>3</mn><mrow><mn>128</mn></mrow></mfrac></mrow><mn>3</mn></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>3</mn><mrow><mroot><mrow><mn>6</mn><msup><mi>y</mi><mn>2</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>3</mn><mrow><mroot><mrow><mn>6</mn><msup><mi>y</mi><mn>2</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 267,
+      "anchor": "fs-id1169144835169",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Rationalize a One Term Denominator",
+        "In the following exercises, rationalize the denominator."
+      ],
+      "text": "ⓐ \\(\\frac{1}{74}\\) ⓑ \\(\\frac{5}{32}4\\) ⓒ \\(\\frac{4}{4{x}^{2}4}\\)",
+      "math": [
+        "\\frac{1}{\\sqrt[4]{7}}",
+        "\\sqrt[4]{\\frac{5}{32}}",
+        "\\frac{4}{\\sqrt[4]{4{x}^{2}}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mrow><mroot><mn>7</mn><mn>4</mn></mroot></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mrow><mroot><mn>7</mn><mn>4</mn></mroot></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><mfrac><mn>5</mn><mrow><mn>32</mn></mrow></mfrac></mrow><mn>4</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><mfrac><mn>5</mn><mrow><mn>32</mn></mrow></mfrac></mrow><mn>4</mn></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>4</mn><mrow><mroot><mrow><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup></mrow><mrow><mn>4</mn></mrow></mroot></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>4</mn><mrow><mroot><mrow><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup></mrow><mrow><mn>4</mn></mrow></mroot></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 268,
+      "anchor": "fs-id1169149376982",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Rationalize a One Term Denominator",
+        "In the following exercises, rationalize the denominator."
+      ],
+      "text": "ⓐ \\(\\frac{1}{44}\\) ⓑ \\(\\frac{9}{32}4\\) ⓒ \\(\\frac{6}{9{x}^{3}4}\\)",
+      "math": [
+        "\\frac{1}{\\sqrt[4]{4}}",
+        "\\sqrt[4]{\\frac{9}{32}}",
+        "\\frac{6}{\\sqrt[4]{9{x}^{3}}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mrow><mroot><mn>4</mn><mn>4</mn></mroot></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mrow><mroot><mn>4</mn><mn>4</mn></mroot></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><mfrac><mn>9</mn><mrow><mn>32</mn></mrow></mfrac></mrow><mn>4</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><mfrac><mn>9</mn><mrow><mn>32</mn></mrow></mfrac></mrow><mn>4</mn></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>6</mn><mrow><mroot><mrow><mn>9</mn><msup><mi>x</mi><mn>3</mn></msup></mrow><mrow><mn>4</mn></mrow></mroot></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>6</mn><mrow><mroot><mrow><mn>9</mn><msup><mi>x</mi><mn>3</mn></msup></mrow><mrow><mn>4</mn></mrow></mroot></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 269,
+      "anchor": "fs-id1169148962629",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Rationalize a One Term Denominator",
+        "In the following exercises, rationalize the denominator."
+      ],
+      "text": "ⓐ \\(\\frac{1}{94}\\) ⓑ \\(\\frac{25}{128}4\\) ⓒ \\(\\frac{6}{27a4}\\)",
+      "math": [
+        "\\frac{1}{\\sqrt[4]{9}}",
+        "\\sqrt[4]{\\frac{25}{128}}",
+        "\\frac{6}{\\sqrt[4]{27a}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mrow><mroot><mn>9</mn><mn>4</mn></mroot></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mrow><mroot><mn>9</mn><mn>4</mn></mroot></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><mfrac><mrow><mn>25</mn></mrow><mrow><mn>128</mn></mrow></mfrac></mrow><mn>4</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><mfrac><mrow><mn>25</mn></mrow><mrow><mn>128</mn></mrow></mfrac></mrow><mn>4</mn></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>6</mn><mrow><mroot><mrow><mn>27</mn><mi>a</mi></mrow><mrow><mn>4</mn></mrow></mroot></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>6</mn><mrow><mroot><mrow><mn>27</mn><mi>a</mi></mrow><mrow><mn>4</mn></mrow></mroot></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 270,
+      "anchor": "fs-id1169149011945",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Rationalize a One Term Denominator",
+        "In the following exercises, rationalize the denominator."
+      ],
+      "text": "ⓐ \\(\\frac{1}{84}\\) ⓑ \\(\\frac{27}{128}4\\) ⓒ \\(\\frac{16}{64{b}^{2}4}\\)",
+      "math": [
+        "\\frac{1}{\\sqrt[4]{8}}",
+        "\\sqrt[4]{\\frac{27}{128}}",
+        "\\frac{16}{\\sqrt[4]{64{b}^{2}}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mrow><mroot><mn>8</mn><mn>4</mn></mroot></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mrow><mroot><mn>8</mn><mn>4</mn></mroot></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><mfrac><mrow><mn>27</mn></mrow><mrow><mn>128</mn></mrow></mfrac></mrow><mn>4</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><mfrac><mrow><mn>27</mn></mrow><mrow><mn>128</mn></mrow></mfrac></mrow><mn>4</mn></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mn>16</mn></mrow><mrow><mroot><mrow><mn>64</mn><msup><mi>b</mi><mn>2</mn></msup></mrow><mrow><mn>4</mn></mrow></mroot></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mn>16</mn></mrow><mrow><mroot><mrow><mn>64</mn><msup><mi>b</mi><mn>2</mn></msup></mrow><mrow><mn>4</mn></mrow></mroot></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 271,
+      "anchor": "fs-id1169149290498",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Rationalize a Two Term Denominator",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{8}{ 1 - \\sqrt{5} }\\)",
+      "math": [
+        "\\frac{8}{ 1 - \\sqrt{5} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>8</mn>\n            <mrow>\n              <mn>1</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mn>5</mn>\n              </msqrt>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>8</mn>\n            <mrow>\n              <mn>1</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mn>5</mn>\n              </msqrt>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 272,
+      "anchor": "fs-id1169149066158",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Rationalize a Two Term Denominator",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{7}{ 2 - \\sqrt{6} }\\)",
+      "math": [
+        "\\frac{7}{ 2 - \\sqrt{6} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>7</mn>\n            <mrow>\n              <mn>2</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mn>6</mn>\n              </msqrt>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>7</mn>\n            <mrow>\n              <mn>2</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mn>6</mn>\n              </msqrt>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 273,
+      "anchor": "fs-id1169146632382",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Rationalize a Two Term Denominator",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{6}{ 3 - \\sqrt{7} }\\)",
+      "math": [
+        "\\frac{6}{ 3 - \\sqrt{7} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>6</mn>\n            <mrow>\n              <mn>3</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mn>7</mn>\n              </msqrt>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>6</mn>\n            <mrow>\n              <mn>3</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mn>7</mn>\n              </msqrt>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 274,
+      "anchor": "fs-id1169149308966",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Rationalize a Two Term Denominator",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{5}{ 4 - \\sqrt{ 11 } }\\)",
+      "math": [
+        "\\frac{5}{ 4 - \\sqrt{ 11 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mn>4</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mrow>\n                  <mn>11</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mn>4</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mrow>\n                  <mn>11</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 275,
+      "anchor": "fs-id1169148870248",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Rationalize a Two Term Denominator",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{ \\sqrt{3} }{ \\sqrt{m} - \\sqrt{5} }\\)",
+      "math": [
+        "\\frac{ \\sqrt{3} }{ \\sqrt{m} - \\sqrt{5} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msqrt>\n                <mn>3</mn>\n              </msqrt>\n            </mrow>\n            <mrow>\n              <msqrt>\n                <mi>m</mi>\n              </msqrt>\n              <mo>−</mo>\n              <msqrt>\n                <mn>5</mn>\n              </msqrt>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msqrt>\n                <mn>3</mn>\n              </msqrt>\n            </mrow>\n            <mrow>\n              <msqrt>\n                <mi>m</mi>\n              </msqrt>\n              <mo>−</mo>\n              <msqrt>\n                <mn>5</mn>\n              </msqrt>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 276,
+      "anchor": "fs-id1169149312792",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Rationalize a Two Term Denominator",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{ \\sqrt{5} }{ \\sqrt{n} - \\sqrt{7} }\\)",
+      "math": [
+        "\\frac{ \\sqrt{5} }{ \\sqrt{n} - \\sqrt{7} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msqrt>\n                <mn>5</mn>\n              </msqrt>\n            </mrow>\n            <mrow>\n              <msqrt>\n                <mi>n</mi>\n              </msqrt>\n              <mo>−</mo>\n              <msqrt>\n                <mn>7</mn>\n              </msqrt>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msqrt>\n                <mn>5</mn>\n              </msqrt>\n            </mrow>\n            <mrow>\n              <msqrt>\n                <mi>n</mi>\n              </msqrt>\n              <mo>−</mo>\n              <msqrt>\n                <mn>7</mn>\n              </msqrt>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 277,
+      "anchor": "fs-id1169144359929",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Rationalize a Two Term Denominator",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{ \\sqrt{2} }{ \\sqrt{x} - \\sqrt{6} }\\)",
+      "math": [
+        "\\frac{ \\sqrt{2} }{ \\sqrt{x} - \\sqrt{6} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msqrt>\n                <mn>2</mn>\n              </msqrt>\n            </mrow>\n            <mrow>\n              <msqrt>\n                <mi>x</mi>\n              </msqrt>\n              <mo>−</mo>\n              <msqrt>\n                <mn>6</mn>\n              </msqrt>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msqrt>\n                <mn>2</mn>\n              </msqrt>\n            </mrow>\n            <mrow>\n              <msqrt>\n                <mi>x</mi>\n              </msqrt>\n              <mo>−</mo>\n              <msqrt>\n                <mn>6</mn>\n              </msqrt>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 278,
+      "anchor": "fs-id1169149100564",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Rationalize a Two Term Denominator",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{ \\sqrt{7} }{ \\sqrt{y} + \\sqrt{3} }\\)",
+      "math": [
+        "\\frac{ \\sqrt{7} }{ \\sqrt{y} + \\sqrt{3} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msqrt>\n                <mn>7</mn>\n              </msqrt>\n            </mrow>\n            <mrow>\n              <msqrt>\n                <mi>y</mi>\n              </msqrt>\n              <mo>+</mo>\n              <msqrt>\n                <mn>3</mn>\n              </msqrt>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msqrt>\n                <mn>7</mn>\n              </msqrt>\n            </mrow>\n            <mrow>\n              <msqrt>\n                <mi>y</mi>\n              </msqrt>\n              <mo>+</mo>\n              <msqrt>\n                <mn>3</mn>\n              </msqrt>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 279,
+      "anchor": "fs-id1169149193810",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Rationalize a Two Term Denominator",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{ \\sqrt{r} + \\sqrt{5} }{ \\sqrt{r} - \\sqrt{5} }\\)",
+      "math": [
+        "\\frac{ \\sqrt{r} + \\sqrt{5} }{ \\sqrt{r} - \\sqrt{5} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msqrt>\n                <mi>r</mi>\n              </msqrt>\n              <mo>+</mo>\n              <msqrt>\n                <mn>5</mn>\n              </msqrt>\n            </mrow>\n            <mrow>\n              <msqrt>\n                <mi>r</mi>\n              </msqrt>\n              <mo>−</mo>\n              <msqrt>\n                <mn>5</mn>\n              </msqrt>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msqrt>\n                <mi>r</mi>\n              </msqrt>\n              <mo>+</mo>\n              <msqrt>\n                <mn>5</mn>\n              </msqrt>\n            </mrow>\n            <mrow>\n              <msqrt>\n                <mi>r</mi>\n              </msqrt>\n              <mo>−</mo>\n              <msqrt>\n                <mn>5</mn>\n              </msqrt>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 280,
+      "anchor": "fs-id1169148989470",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Rationalize a Two Term Denominator",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{ \\sqrt{s} - \\sqrt{6} }{ \\sqrt{s} + \\sqrt{6} }\\)",
+      "math": [
+        "\\frac{ \\sqrt{s} - \\sqrt{6} }{ \\sqrt{s} + \\sqrt{6} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msqrt>\n                <mi>s</mi>\n              </msqrt>\n              <mo>−</mo>\n              <msqrt>\n                <mn>6</mn>\n              </msqrt>\n            </mrow>\n            <mrow>\n              <msqrt>\n                <mi>s</mi>\n              </msqrt>\n              <mo>+</mo>\n              <msqrt>\n                <mn>6</mn>\n              </msqrt>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msqrt>\n                <mi>s</mi>\n              </msqrt>\n              <mo>−</mo>\n              <msqrt>\n                <mn>6</mn>\n              </msqrt>\n            </mrow>\n            <mrow>\n              <msqrt>\n                <mi>s</mi>\n              </msqrt>\n              <mo>+</mo>\n              <msqrt>\n                <mn>6</mn>\n              </msqrt>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 281,
+      "anchor": "fs-id1169149351357",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Rationalize a Two Term Denominator",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{ \\sqrt{x} + \\sqrt{8} }{ \\sqrt{x} - \\sqrt{8} }\\)",
+      "math": [
+        "\\frac{ \\sqrt{x} + \\sqrt{8} }{ \\sqrt{x} - \\sqrt{8} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msqrt>\n                <mi>x</mi>\n              </msqrt>\n              <mo>+</mo>\n              <msqrt>\n                <mn>8</mn>\n              </msqrt>\n            </mrow>\n            <mrow>\n              <msqrt>\n                <mi>x</mi>\n              </msqrt>\n              <mo>−</mo>\n              <msqrt>\n                <mn>8</mn>\n              </msqrt>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msqrt>\n                <mi>x</mi>\n              </msqrt>\n              <mo>+</mo>\n              <msqrt>\n                <mn>8</mn>\n              </msqrt>\n            </mrow>\n            <mrow>\n              <msqrt>\n                <mi>x</mi>\n              </msqrt>\n              <mo>−</mo>\n              <msqrt>\n                <mn>8</mn>\n              </msqrt>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 282,
+      "anchor": "fs-id1169146745049",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Rationalize a Two Term Denominator",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{ \\sqrt{m} - \\sqrt{3} }{ \\sqrt{m} + \\sqrt{3} }\\)",
+      "math": [
+        "\\frac{ \\sqrt{m} - \\sqrt{3} }{ \\sqrt{m} + \\sqrt{3} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msqrt>\n                <mi>m</mi>\n              </msqrt>\n              <mo>−</mo>\n              <msqrt>\n                <mn>3</mn>\n              </msqrt>\n            </mrow>\n            <mrow>\n              <msqrt>\n                <mi>m</mi>\n              </msqrt>\n              <mo>+</mo>\n              <msqrt>\n                <mn>3</mn>\n              </msqrt>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msqrt>\n                <mi>m</mi>\n              </msqrt>\n              <mo>−</mo>\n              <msqrt>\n                <mn>3</mn>\n              </msqrt>\n            </mrow>\n            <mrow>\n              <msqrt>\n                <mi>m</mi>\n              </msqrt>\n              <mo>+</mo>\n              <msqrt>\n                <mn>3</mn>\n              </msqrt>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 283,
+      "anchor": "fs-id1169148933998",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "ⓐ Simplify \\(\\sqrt{\\frac{27}{3}}\\) and explain all your steps.ⓑ Simplify \\(\\sqrt{\\frac{27}{5}}\\) and explain all your steps.ⓒ Why are the two methods of simplifying square roots different?",
+      "math": [
+        "\\sqrt{\\frac{27}{3}}",
+        "\\sqrt{\\frac{27}{5}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mfrac><mrow><mn>27</mn></mrow><mn>3</mn></mfrac></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mfrac><mrow><mn>27</mn></mrow><mn>3</mn></mfrac></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mfrac><mrow><mn>27</mn></mrow><mn>5</mn></mfrac></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mfrac><mrow><mn>27</mn></mrow><mn>5</mn></mfrac></mrow></msqrt></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 284,
+      "anchor": "fs-id1169148947253",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain what is meant by the word rationalize in the phrase, “rationalize a denominator.”",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 285,
+      "anchor": "fs-id1169149315954",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain why multiplying \\(\\sqrt{2x}-3\\) by its conjugate results in an expression with no radicals.",
+      "math": [
+        "\\sqrt{2x}-3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>2</mn><mi>x</mi></mrow></msqrt><mo>−</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>2</mn><mi>x</mi></mrow></msqrt><mo>−</mo><mn>3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 286,
+      "anchor": "fs-id1169149183626",
+      "page": "8-5-divide-radical-expressions",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain why multiplying \\(\\frac{7}{x3}\\) by \\(\\frac{x3}{x3}\\) does not rationalize the denominator.",
+      "math": [
+        "\\frac{7}{\\sqrt[3]{x}}",
+        "\\frac{\\sqrt[3]{x}}{\\sqrt[3]{x}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>7</mn><mrow><mroot><mi>x</mi><mn>3</mn></mroot></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>7</mn><mrow><mroot><mi>x</mi><mn>3</mn></mroot></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mroot><mi>x</mi><mn>3</mn></mroot></mrow><mrow><mroot><mi>x</mi><mn>3</mn></mroot></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mroot><mi>x</mi><mn>3</mn></mroot></mrow><mrow><mroot><mi>x</mi><mn>3</mn></mroot></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "8.93",
+      "page": "8-5-divide-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169146978086",
+      "context": [
+        "Divide Radical Expressions"
+      ],
+      "text": "Simplify: ⓐ \\(\\frac{\\sqrt{50{s}^{3}}}{\\sqrt{128s}}\\) ⓑ \\(\\frac{56{a}^{}3}{7{a}^{4}3}.\\)",
+      "math": [
+        "\\frac{\\sqrt{50{s}^{3}}}{\\sqrt{128s}}",
+        "\\frac{\\sqrt[3]{56{a}^{}}}{\\sqrt[3]{7{a}^{4}}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msqrt><mrow><mn>50</mn><msup><mi>s</mi><mn>3</mn></msup></mrow></msqrt></mrow><mrow><msqrt><mrow><mn>128</mn><mi>s</mi></mrow></msqrt></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msqrt><mrow><mn>50</mn><msup><mi>s</mi><mn>3</mn></msup></mrow></msqrt></mrow><mrow><msqrt><mrow><mn>128</mn><mi>s</mi></mrow></msqrt></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mroot><mrow><mn>56</mn><msup><mi>a</mi><mrow></mrow></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow><mrow><mroot><mrow><mn>7</mn><msup><mi>a</mi><mn>4</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mroot><mrow><mn>56</mn><msup><mi>a</mi><mrow></mrow></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow><mrow><mroot><mrow><mn>7</mn><msup><mi>a</mi><mn>4</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.94",
+      "page": "8-5-divide-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169149222208",
+      "context": [
+        "Divide Radical Expressions"
+      ],
+      "text": "Simplify: ⓐ \\(\\frac{\\sqrt{75{q}^{5}}}{\\sqrt{108q}}\\) ⓑ \\(\\frac{72{b}^{2}3}{9{b}^{5}3}.\\)",
+      "math": [
+        "\\frac{\\sqrt{75{q}^{5}}}{\\sqrt{108q}}",
+        "\\frac{\\sqrt[3]{72{b}^{2}}}{\\sqrt[3]{9{b}^{5}}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msqrt><mrow><mn>75</mn><msup><mi>q</mi><mn>5</mn></msup></mrow></msqrt></mrow><mrow><msqrt><mrow><mn>108</mn><mi>q</mi></mrow></msqrt></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msqrt><mrow><mn>75</mn><msup><mi>q</mi><mn>5</mn></msup></mrow></msqrt></mrow><mrow><msqrt><mrow><mn>108</mn><mi>q</mi></mrow></msqrt></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mroot><mrow><mn>72</mn><msup><mi>b</mi><mn>2</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow><mrow><mroot><mrow><mn>9</mn><msup><mi>b</mi><mn>5</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mroot><mrow><mn>72</mn><msup><mi>b</mi><mn>2</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow><mrow><mroot><mrow><mn>9</mn><msup><mi>b</mi><mn>5</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.95",
+      "page": "8-5-divide-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169146607917",
+      "context": [
+        "Divide Radical Expressions"
+      ],
+      "text": "Simplify: ⓐ \\(\\frac{\\sqrt{162{x}^{10}{y}^{2}}}{\\sqrt{2{x}^{6}{y}^{6}}}\\) ⓑ \\(\\frac{-128{x}^{2}{y}^{-1}3}{2{x}^{-1}{y}^{2}3}.\\)",
+      "math": [
+        "\\frac{\\sqrt{162{x}^{10}{y}^{2}}}{\\sqrt{2{x}^{6}{y}^{6}}}",
+        "\\frac{\\sqrt[3]{-128{x}^{2}{y}^{-1}}}{\\sqrt[3]{2{x}^{-1}{y}^{2}}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msqrt><mrow><mn>162</mn><msup><mi>x</mi><mrow><mn>10</mn></mrow></msup><msup><mi>y</mi><mn>2</mn></msup></mrow></msqrt></mrow><mrow><msqrt><mrow><mn>2</mn><msup><mi>x</mi><mn>6</mn></msup><msup><mi>y</mi><mn>6</mn></msup></mrow></msqrt></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msqrt><mrow><mn>162</mn><msup><mi>x</mi><mrow><mn>10</mn></mrow></msup><msup><mi>y</mi><mn>2</mn></msup></mrow></msqrt></mrow><mrow><msqrt><mrow><mn>2</mn><msup><mi>x</mi><mn>6</mn></msup><msup><mi>y</mi><mn>6</mn></msup></mrow></msqrt></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mroot><mrow><mn>−128</mn><msup><mi>x</mi><mn>2</mn></msup><msup><mi>y</mi><mrow><mn>−1</mn></mrow></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow><mrow><mroot><mrow><mn>2</mn><msup><mi>x</mi><mrow><mn>−1</mn></mrow></msup><msup><mi>y</mi><mn>2</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mroot><mrow><mn>−128</mn><msup><mi>x</mi><mn>2</mn></msup><msup><mi>y</mi><mrow><mn>−1</mn></mrow></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow><mrow><mroot><mrow><mn>2</mn><msup><mi>x</mi><mrow><mn>−1</mn></mrow></msup><msup><mi>y</mi><mn>2</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.96",
+      "page": "8-5-divide-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169147115617",
+      "context": [
+        "Divide Radical Expressions"
+      ],
+      "text": "Simplify: ⓐ \\(\\frac{\\sqrt{300{m}^{3}{n}^{7}}}{\\sqrt{3{m}^{5}n}}\\) ⓑ \\(\\frac{-81p{q}^{-1}3}{3{p}^{-2}{q}^{5}3}.\\)",
+      "math": [
+        "\\frac{\\sqrt{300{m}^{3}{n}^{7}}}{\\sqrt{3{m}^{5}n}}",
+        "\\frac{\\sqrt[3]{-81p{q}^{-1}}}{\\sqrt[3]{3{p}^{-2}{q}^{5}}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msqrt><mrow><mn>300</mn><msup><mi>m</mi><mn>3</mn></msup><msup><mi>n</mi><mn>7</mn></msup></mrow></msqrt></mrow><mrow><msqrt><mrow><mn>3</mn><msup><mi>m</mi><mn>5</mn></msup><mi>n</mi></mrow></msqrt></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msqrt><mrow><mn>300</mn><msup><mi>m</mi><mn>3</mn></msup><msup><mi>n</mi><mn>7</mn></msup></mrow></msqrt></mrow><mrow><msqrt><mrow><mn>3</mn><msup><mi>m</mi><mn>5</mn></msup><mi>n</mi></mrow></msqrt></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mroot><mrow><mn>−81</mn><mi>p</mi><msup><mi>q</mi><mrow><mn>−1</mn></mrow></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow><mrow><mroot><mrow><mn>3</mn><msup><mi>p</mi><mrow><mn>−2</mn></mrow></msup><msup><mi>q</mi><mn>5</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mroot><mrow><mn>−81</mn><mi>p</mi><msup><mi>q</mi><mrow><mn>−1</mn></mrow></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow><mrow><mroot><mrow><mn>3</mn><msup><mi>p</mi><mrow><mn>−2</mn></mrow></msup><msup><mi>q</mi><mn>5</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.97",
+      "page": "8-5-divide-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169146645855",
+      "context": [
+        "Divide Radical Expressions"
+      ],
+      "text": "Simplify: \\(\\frac{\\sqrt{64{x}^{4}{y}^{5}}}{\\sqrt{2x{y}^{3}}}.\\)",
+      "math": [
+        "\\frac{\\sqrt{64{x}^{4}{y}^{5}}}{\\sqrt{2x{y}^{3}}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msqrt><mrow><mn>64</mn><msup><mi>x</mi><mn>4</mn></msup><msup><mi>y</mi><mn>5</mn></msup></mrow></msqrt></mrow><mrow><msqrt><mrow><mn>2</mn><mi>x</mi><msup><mi>y</mi><mn>3</mn></msup></mrow></msqrt></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msqrt><mrow><mn>64</mn><msup><mi>x</mi><mn>4</mn></msup><msup><mi>y</mi><mn>5</mn></msup></mrow></msqrt></mrow><mrow><msqrt><mrow><mn>2</mn><mi>x</mi><msup><mi>y</mi><mn>3</mn></msup></mrow></msqrt></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.98",
+      "page": "8-5-divide-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169148957840",
+      "context": [
+        "Divide Radical Expressions"
+      ],
+      "text": "Simplify: \\(\\frac{\\sqrt{96{a}^{5}{b}^{4}}}{\\sqrt{2{a}^{3}b}}.\\)",
+      "math": [
+        "\\frac{\\sqrt{96{a}^{5}{b}^{4}}}{\\sqrt{2{a}^{3}b}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msqrt><mrow><mn>96</mn><msup><mi>a</mi><mn>5</mn></msup><msup><mi>b</mi><mn>4</mn></msup></mrow></msqrt></mrow><mrow><msqrt><mrow><mn>2</mn><msup><mi>a</mi><mn>3</mn></msup><mi>b</mi></mrow></msqrt></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msqrt><mrow><mn>96</mn><msup><mi>a</mi><mn>5</mn></msup><msup><mi>b</mi><mn>4</mn></msup></mrow></msqrt></mrow><mrow><msqrt><mrow><mn>2</mn><msup><mi>a</mi><mn>3</mn></msup><mi>b</mi></mrow></msqrt></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.99",
+      "page": "8-5-divide-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169144567202",
+      "context": [
+        "Rationalize a One Term Denominator"
+      ],
+      "text": "Simplify: ⓐ \\(\\frac{5}{\\sqrt{3}}\\) ⓑ \\(\\sqrt{\\frac{3}{32}}\\) ⓒ \\(\\frac{2}{\\sqrt{2x}}.\\)",
+      "math": [
+        "\\frac{5}{\\sqrt{3}}",
+        "\\sqrt{\\frac{3}{32}}",
+        "\\frac{2}{\\sqrt{2x}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>5</mn><mrow><msqrt><mn>3</mn></msqrt></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>5</mn><mrow><msqrt><mn>3</mn></msqrt></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mfrac><mn>3</mn><mrow><mn>32</mn></mrow></mfrac></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mfrac><mn>3</mn><mrow><mn>32</mn></mrow></mfrac></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>2</mn><mrow><msqrt><mrow><mn>2</mn><mi>x</mi></mrow></msqrt></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>2</mn><mrow><msqrt><mrow><mn>2</mn><mi>x</mi></mrow></msqrt></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.100",
+      "page": "8-5-divide-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169149156285",
+      "context": [
+        "Rationalize a One Term Denominator"
+      ],
+      "text": "Simplify: ⓐ \\(\\frac{6}{\\sqrt{5}}\\) ⓑ \\(\\sqrt{\\frac{7}{18}}\\) ⓒ \\(\\frac{5}{\\sqrt{5x}}.\\)",
+      "math": [
+        "\\frac{6}{\\sqrt{5}}",
+        "\\sqrt{\\frac{7}{18}}",
+        "\\frac{5}{\\sqrt{5x}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>6</mn><mrow><msqrt><mn>5</mn></msqrt></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>6</mn><mrow><msqrt><mn>5</mn></msqrt></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mfrac><mn>7</mn><mrow><mn>18</mn></mrow></mfrac></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mfrac><mn>7</mn><mrow><mn>18</mn></mrow></mfrac></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>5</mn><mrow><msqrt><mrow><mn>5</mn><mi>x</mi></mrow></msqrt></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>5</mn><mrow><msqrt><mrow><mn>5</mn><mi>x</mi></mrow></msqrt></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.101",
+      "page": "8-5-divide-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169148837048",
+      "context": [
+        "Rationalize a One Term Denominator"
+      ],
+      "text": "Simplify: ⓐ \\(\\frac{1}{73}\\) ⓑ \\(\\frac{5}{12}3\\) ⓒ \\(\\frac{5}{9y3}.\\)",
+      "math": [
+        "\\frac{1}{\\sqrt[3]{7}}",
+        "\\sqrt[3]{\\frac{5}{12}}",
+        "\\frac{5}{\\sqrt[3]{9y}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mrow><mroot><mn>7</mn><mn>3</mn></mroot></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mrow><mroot><mn>7</mn><mn>3</mn></mroot></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><mfrac><mn>5</mn><mrow><mn>12</mn></mrow></mfrac></mrow><mn>3</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><mfrac><mn>5</mn><mrow><mn>12</mn></mrow></mfrac></mrow><mn>3</mn></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>5</mn><mrow><mroot><mrow><mn>9</mn><mi>y</mi></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>5</mn><mrow><mroot><mrow><mn>9</mn><mi>y</mi></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.102",
+      "page": "8-5-divide-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169144768704",
+      "context": [
+        "Rationalize a One Term Denominator"
+      ],
+      "text": "Simplify: ⓐ \\(\\frac{1}{23}\\) ⓑ \\(\\frac{3}{20}3\\) ⓒ \\(\\frac{2}{25n3}.\\)",
+      "math": [
+        "\\frac{1}{\\sqrt[3]{2}}",
+        "\\sqrt[3]{\\frac{3}{20}}",
+        "\\frac{2}{\\sqrt[3]{25n}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mrow><mroot><mn>2</mn><mn>3</mn></mroot></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mrow><mroot><mn>2</mn><mn>3</mn></mroot></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><mfrac><mn>3</mn><mrow><mn>20</mn></mrow></mfrac></mrow><mn>3</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><mfrac><mn>3</mn><mrow><mn>20</mn></mrow></mfrac></mrow><mn>3</mn></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>2</mn><mrow><mroot><mrow><mn>25</mn><mi>n</mi></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>2</mn><mrow><mroot><mrow><mn>25</mn><mi>n</mi></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.103",
+      "page": "8-5-divide-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169149006904",
+      "context": [
+        "Rationalize a One Term Denominator"
+      ],
+      "text": "Simplify: ⓐ \\(\\frac{1}{34}\\) ⓑ \\(\\frac{3}{64}4\\) ⓒ \\(\\frac{3}{125x4}.\\)",
+      "math": [
+        "\\frac{1}{\\sqrt[4]{3}}",
+        "\\sqrt[4]{\\frac{3}{64}}",
+        "\\frac{3}{\\sqrt[4]{125x}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mrow><mroot><mn>3</mn><mn>4</mn></mroot></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mrow><mroot><mn>3</mn><mn>4</mn></mroot></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><mfrac><mn>3</mn><mrow><mn>64</mn></mrow></mfrac></mrow><mn>4</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><mfrac><mn>3</mn><mrow><mn>64</mn></mrow></mfrac></mrow><mn>4</mn></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>3</mn><mrow><mroot><mrow><mn>125</mn><mi>x</mi></mrow><mrow><mn>4</mn></mrow></mroot></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>3</mn><mrow><mroot><mrow><mn>125</mn><mi>x</mi></mrow><mrow><mn>4</mn></mrow></mroot></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.104",
+      "page": "8-5-divide-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169148890606",
+      "context": [
+        "Rationalize a One Term Denominator"
+      ],
+      "text": "Simplify: ⓐ \\(\\frac{1}{54}\\) ⓑ \\(\\frac{7}{128}4\\) ⓒ \\(\\frac{4}{4x4}\\)",
+      "math": [
+        "\\frac{1}{\\sqrt[4]{5}}",
+        "\\sqrt[4]{\\frac{7}{128}}",
+        "\\frac{4}{\\sqrt[4]{4x}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mrow><mroot><mn>5</mn><mn>4</mn></mroot></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mrow><mroot><mn>5</mn><mn>4</mn></mroot></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><mfrac><mn>7</mn><mrow><mn>128</mn></mrow></mfrac></mrow><mn>4</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><mfrac><mn>7</mn><mrow><mn>128</mn></mrow></mfrac></mrow><mn>4</mn></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>4</mn><mrow><mroot><mrow><mn>4</mn><mi>x</mi></mrow><mrow><mn>4</mn></mrow></mroot></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>4</mn><mrow><mroot><mrow><mn>4</mn><mi>x</mi></mrow><mrow><mn>4</mn></mrow></mroot></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.105",
+      "page": "8-5-divide-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169146607241",
+      "context": [
+        "Rationalize a Two Term Denominator"
+      ],
+      "text": "Simplify: \\(\\frac{3}{1-\\sqrt{5}}.\\)",
+      "math": [
+        "\\frac{3}{1-\\sqrt{5}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>3</mn><mrow><mn>1</mn><mo>−</mo><msqrt><mn>5</mn></msqrt></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>3</mn><mrow><mn>1</mn><mo>−</mo><msqrt><mn>5</mn></msqrt></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.106",
+      "page": "8-5-divide-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169148866919",
+      "context": [
+        "Rationalize a Two Term Denominator"
+      ],
+      "text": "Simplify: \\(\\frac{2}{4-\\sqrt{6}}.\\)",
+      "math": [
+        "\\frac{2}{4-\\sqrt{6}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>2</mn><mrow><mn>4</mn><mo>−</mo><msqrt><mn>6</mn></msqrt></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>2</mn><mrow><mn>4</mn><mo>−</mo><msqrt><mn>6</mn></msqrt></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.107",
+      "page": "8-5-divide-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169149114706",
+      "context": [
+        "Rationalize a Two Term Denominator"
+      ],
+      "text": "Simplify: \\(\\frac{\\sqrt{5}}{\\sqrt{x}+\\sqrt{2}}.\\)",
+      "math": [
+        "\\frac{\\sqrt{5}}{\\sqrt{x}+\\sqrt{2}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msqrt><mn>5</mn></msqrt></mrow><mrow><msqrt><mi>x</mi></msqrt><mo>+</mo><msqrt><mn>2</mn></msqrt></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msqrt><mn>5</mn></msqrt></mrow><mrow><msqrt><mi>x</mi></msqrt><mo>+</mo><msqrt><mn>2</mn></msqrt></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.108",
+      "page": "8-5-divide-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169148867898",
+      "context": [
+        "Rationalize a Two Term Denominator"
+      ],
+      "text": "Simplify: \\(\\frac{\\sqrt{10}}{\\sqrt{y}-\\sqrt{3}}.\\)",
+      "math": [
+        "\\frac{\\sqrt{10}}{\\sqrt{y}-\\sqrt{3}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msqrt><mrow><mn>10</mn></mrow></msqrt></mrow><mrow><msqrt><mi>y</mi></msqrt><mo>−</mo><msqrt><mn>3</mn></msqrt></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msqrt><mrow><mn>10</mn></mrow></msqrt></mrow><mrow><msqrt><mi>y</mi></msqrt><mo>−</mo><msqrt><mn>3</mn></msqrt></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.109",
+      "page": "8-5-divide-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169147054334",
+      "context": [
+        "Rationalize a Two Term Denominator"
+      ],
+      "text": "Simplify: \\(\\frac{\\sqrt{p}+\\sqrt{2}}{\\sqrt{p}-\\sqrt{2}}.\\)",
+      "math": [
+        "\\frac{\\sqrt{p}+\\sqrt{2}}{\\sqrt{p}-\\sqrt{2}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msqrt><mi>p</mi></msqrt><mo>+</mo><msqrt><mn>2</mn></msqrt></mrow><mrow><msqrt><mi>p</mi></msqrt><mo>−</mo><msqrt><mn>2</mn></msqrt></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msqrt><mi>p</mi></msqrt><mo>+</mo><msqrt><mn>2</mn></msqrt></mrow><mrow><msqrt><mi>p</mi></msqrt><mo>−</mo><msqrt><mn>2</mn></msqrt></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.110",
+      "page": "8-5-divide-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169148968242",
+      "context": [
+        "Rationalize a Two Term Denominator"
+      ],
+      "text": "Simplify: \\(\\frac{\\sqrt{q}-\\sqrt{10}}{\\sqrt{q}+\\sqrt{10}}\\)",
+      "math": [
+        "\\frac{\\sqrt{q}-\\sqrt{10}}{\\sqrt{q}+\\sqrt{10}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msqrt><mi>q</mi></msqrt><mo>−</mo><msqrt><mrow><mn>10</mn></mrow></msqrt></mrow><mrow><msqrt><mi>q</mi></msqrt><mo>+</mo><msqrt><mrow><mn>10</mn></mrow></msqrt></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msqrt><mi>q</mi></msqrt><mo>−</mo><msqrt><mrow><mn>10</mn></mrow></msqrt></mrow><mrow><msqrt><mi>q</mi></msqrt><mo>+</mo><msqrt><mrow><mn>10</mn></mrow></msqrt></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

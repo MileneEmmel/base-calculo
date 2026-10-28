@@ -1,0 +1,1580 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/10-4-use-the-properties-of-logarithms",
+  "title": "10.4 Use the Properties of Logarithms",
+  "sha256": "0bf6f9f1163d373c523205e79e4a63c223c930008c4f1a2dec4cdf282f11d532",
+  "questions": [
+    {
+      "number": 218,
+      "anchor": "fs-id1167836319287",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "Use the Properties of Logarithms",
+        "In the following exercises, use the properties of logarithms to evaluate."
+      ],
+      "text": "ⓐ \\({log}_{4}1\\) ⓑ \\({log}_{8}8\\)",
+      "math": [
+        "\\log_{4}1",
+        "\\log_{8}8"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>4</mn></msub><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>4</mn></msub><mn>1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>8</mn></msub><mn>8</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>8</mn></msub><mn>8</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 219,
+      "anchor": "fs-id1167836570225",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "Use the Properties of Logarithms",
+        "In the following exercises, use the properties of logarithms to evaluate."
+      ],
+      "text": "ⓐ \\({log}_{12}1\\) ⓑ \\(lne\\)",
+      "math": [
+        "\\log_{12}1",
+        "\\lne"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mrow><mn>12</mn></mrow></msub><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mrow><mn>12</mn></mrow></msub><mn>1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>ln</mtext><mspace width=\"0.2em\"></mspace><mi>e</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>ln</mtext><mspace width=\"0.2em\"></mspace><mi>e</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 220,
+      "anchor": "fs-id1167825791285",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "Use the Properties of Logarithms",
+        "In the following exercises, use the properties of logarithms to evaluate."
+      ],
+      "text": "ⓐ \\({3}^{{log}_{3}6}\\) ⓑ \\({log}_{2}{2}^{7}\\)",
+      "math": [
+        "{3}^{\\log_{3}6}",
+        "\\log_{2}{2}^{7}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mn>3</mn><mrow><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mn>6</mn></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mn>3</mn><mrow><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mn>6</mn></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><msup><mn>2</mn><mn>7</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><msup><mn>2</mn><mn>7</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 221,
+      "anchor": "fs-id1167832976425",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "Use the Properties of Logarithms",
+        "In the following exercises, use the properties of logarithms to evaluate."
+      ],
+      "text": "ⓐ \\({5}^{{log}_{5}10}\\) ⓑ \\({log}_{4}{4}^{10}\\)",
+      "math": [
+        "{5}^{\\log_{5}10}",
+        "\\log_{4}{4}^{10}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mn>5</mn><mrow><msub><mrow><mtext>log</mtext></mrow><mn>5</mn></msub><mn>10</mn></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mn>5</mn><mrow><msub><mrow><mtext>log</mtext></mrow><mn>5</mn></msub><mn>10</mn></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>4</mn></msub><msup><mn>4</mn><mrow><mn>10</mn></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>4</mn></msub><msup><mn>4</mn><mrow><mn>10</mn></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 222,
+      "anchor": "fs-id1167836698976",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "Use the Properties of Logarithms",
+        "In the following exercises, use the properties of logarithms to evaluate."
+      ],
+      "text": "ⓐ \\({8}^{{log}_{8}7}\\) ⓑ \\({log}_{6}{6}^{-2}\\)",
+      "math": [
+        "{8}^{\\log_{8}7}",
+        "\\log_{6}{6}^{-2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mn>8</mn><mrow><msub><mrow><mtext>log</mtext></mrow><mn>8</mn></msub><mn>7</mn></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mn>8</mn><mrow><msub><mrow><mtext>log</mtext></mrow><mn>8</mn></msub><mn>7</mn></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>6</mn></msub><msup><mn>6</mn><mrow><mn>−2</mn></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>6</mn></msub><msup><mn>6</mn><mrow><mn>−2</mn></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 223,
+      "anchor": "fs-id1167825703204",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "Use the Properties of Logarithms",
+        "In the following exercises, use the properties of logarithms to evaluate."
+      ],
+      "text": "ⓐ \\({6}^{{log}_{6}15}\\) ⓑ \\({log}_{8}{8}^{-4}\\)",
+      "math": [
+        "{6}^{\\log_{6}15}",
+        "\\log_{8}{8}^{-4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mn>6</mn><mrow><msub><mrow><mtext>log</mtext></mrow><mn>6</mn></msub><mn>15</mn></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mn>6</mn><mrow><msub><mrow><mtext>log</mtext></mrow><mn>6</mn></msub><mn>15</mn></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>8</mn></msub><msup><mn>8</mn><mrow><mn>−4</mn></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>8</mn></msub><msup><mn>8</mn><mrow><mn>−4</mn></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 224,
+      "anchor": "fs-id1167836507093",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "Use the Properties of Logarithms",
+        "In the following exercises, use the properties of logarithms to evaluate."
+      ],
+      "text": "ⓐ \\({10}^{log\\sqrt{5}}\\) ⓑ \\(log{10}^{-2}\\)",
+      "math": [
+        "{10}^{\\log\\sqrt{5}}",
+        "\\log{10}^{-2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>10</mn></mrow><mrow><mtext>log</mtext><msqrt><mn>5</mn></msqrt></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>10</mn></mrow><mrow><mtext>log</mtext><msqrt><mn>5</mn></msqrt></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>log</mtext><msup><mrow><mn>10</mn></mrow><mrow><mn>−2</mn></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>log</mtext><msup><mrow><mn>10</mn></mrow><mrow><mn>−2</mn></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 225,
+      "anchor": "fs-id1167824731565",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "Use the Properties of Logarithms",
+        "In the following exercises, use the properties of logarithms to evaluate."
+      ],
+      "text": "ⓐ \\({10}^{log\\sqrt{3}}\\) ⓑ \\(log{10}^{-1}\\)",
+      "math": [
+        "{10}^{\\log\\sqrt{3}}",
+        "\\log{10}^{-1}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>10</mn></mrow><mrow><mtext>log</mtext><msqrt><mn>3</mn></msqrt></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>10</mn></mrow><mrow><mtext>log</mtext><msqrt><mn>3</mn></msqrt></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>log</mtext><msup><mrow><mn>10</mn></mrow><mrow><mn>−1</mn></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>log</mtext><msup><mrow><mn>10</mn></mrow><mrow><mn>−1</mn></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 226,
+      "anchor": "fs-id1167829787246",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "Use the Properties of Logarithms",
+        "In the following exercises, use the properties of logarithms to evaluate."
+      ],
+      "text": "ⓐ \\({e}^{ln4}\\) ⓑ \\(ln{e}^{2}\\)",
+      "math": [
+        "{e}^{\\ln4}",
+        "\\ln{e}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>e</mi><mrow><mtext>ln</mtext><mn>4</mn></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>e</mi><mrow><mtext>ln</mtext><mn>4</mn></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>ln</mtext><mspace width=\"0.2em\"></mspace><msup><mi>e</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>ln</mtext><mspace width=\"0.2em\"></mspace><msup><mi>e</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 227,
+      "anchor": "fs-id1167836546363",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "Use the Properties of Logarithms",
+        "In the following exercises, use the properties of logarithms to evaluate."
+      ],
+      "text": "ⓐ \\({e}^{ln3}\\) ⓑ \\(ln{e}^{7}\\)",
+      "math": [
+        "{e}^{\\ln3}",
+        "\\ln{e}^{7}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>e</mi><mrow><mtext>ln</mtext><mn>3</mn></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>e</mi><mrow><mtext>ln</mtext><mn>3</mn></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>ln</mtext><mspace width=\"0.2em\"></mspace><msup><mi>e</mi><mn>7</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>ln</mtext><mspace width=\"0.2em\"></mspace><msup><mi>e</mi><mn>7</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 228,
+      "anchor": "fs-id1167836288666",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the properties of logarithms to evaluate.",
+        "In the following exercises, use the Product Property of Logarithms to write each logarithm as a sum of logarithms. Simplify if possible."
+      ],
+      "text": "\\({ log }_{4} 6 x\\)",
+      "math": [
+        "\\log_{4} 6 x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>4</mn>\n          </msub>\n          <mn>6</mn>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>4</mn>\n          </msub>\n          <mn>6</mn>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 229,
+      "anchor": "fs-id1167832930330",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the properties of logarithms to evaluate.",
+        "In the following exercises, use the Product Property of Logarithms to write each logarithm as a sum of logarithms. Simplify if possible."
+      ],
+      "text": "\\({ log }_{5} 8 y\\)",
+      "math": [
+        "\\log_{5} 8 y"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mn>8</mn>\n          <mi>y</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mn>8</mn>\n          <mi>y</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 230,
+      "anchor": "fs-id1167836322858",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the properties of logarithms to evaluate.",
+        "In the following exercises, use the Product Property of Logarithms to write each logarithm as a sum of logarithms. Simplify if possible."
+      ],
+      "text": "\\({ log }_{2} 32 x y\\)",
+      "math": [
+        "\\log_{2} 32 x y"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mn>32</mn>\n          <mi>x</mi>\n          <mi>y</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mn>32</mn>\n          <mi>x</mi>\n          <mi>y</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 231,
+      "anchor": "fs-id1167836289339",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the properties of logarithms to evaluate.",
+        "In the following exercises, use the Product Property of Logarithms to write each logarithm as a sum of logarithms. Simplify if possible."
+      ],
+      "text": "\\({ log }_{3} 81 x y\\)",
+      "math": [
+        "\\log_{3} 81 x y"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mn>81</mn>\n          <mi>x</mi>\n          <mi>y</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mn>81</mn>\n          <mi>x</mi>\n          <mi>y</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 232,
+      "anchor": "fs-id1167836628610",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the properties of logarithms to evaluate.",
+        "In the following exercises, use the Product Property of Logarithms to write each logarithm as a sum of logarithms. Simplify if possible."
+      ],
+      "text": "\\(log 100 x\\)",
+      "math": [
+        "\\log 100 x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>log</mtext>\n          <mn>100</mn>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>log</mtext>\n          <mn>100</mn>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 233,
+      "anchor": "fs-id1167829715346",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the properties of logarithms to evaluate.",
+        "In the following exercises, use the Product Property of Logarithms to write each logarithm as a sum of logarithms. Simplify if possible."
+      ],
+      "text": "\\(log 1000 y\\)",
+      "math": [
+        "\\log 1000 y"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>log</mtext>\n          <mn>1000</mn>\n          <mi>y</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>log</mtext>\n          <mn>1000</mn>\n          <mi>y</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 234,
+      "anchor": "fs-id1167836292389",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Product Property of Logarithms to write each logarithm as a sum of logarithms. Simplify if possible.",
+        "In the following exercises, use the Quotient Property of Logarithms to write each logarithm as a sum of logarithms. Simplify if possible."
+      ],
+      "text": "\\({ log }_{3} \\frac{3}{8}\\)",
+      "math": [
+        "\\log_{3} \\frac{3}{8}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mfrac>\n            <mn>3</mn>\n            <mn>8</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mfrac>\n            <mn>3</mn>\n            <mn>8</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 235,
+      "anchor": "fs-id1167836601706",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Product Property of Logarithms to write each logarithm as a sum of logarithms. Simplify if possible.",
+        "In the following exercises, use the Quotient Property of Logarithms to write each logarithm as a sum of logarithms. Simplify if possible."
+      ],
+      "text": "\\({ log }_{6} \\frac{5}{6}\\)",
+      "math": [
+        "\\log_{6} \\frac{5}{6}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>6</mn>\n          </msub>\n          <mfrac>\n            <mn>5</mn>\n            <mn>6</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>6</mn>\n          </msub>\n          <mfrac>\n            <mn>5</mn>\n            <mn>6</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 236,
+      "anchor": "fs-id1167836619872",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Product Property of Logarithms to write each logarithm as a sum of logarithms. Simplify if possible.",
+        "In the following exercises, use the Quotient Property of Logarithms to write each logarithm as a sum of logarithms. Simplify if possible."
+      ],
+      "text": "\\({ log }_{4} \\frac{ 16 }{y}\\)",
+      "math": [
+        "\\log_{4} \\frac{ 16 }{y}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>4</mn>\n          </msub>\n          <mfrac>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n            <mi>y</mi>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>4</mn>\n          </msub>\n          <mfrac>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n            <mi>y</mi>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 237,
+      "anchor": "fs-id1167829719382",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Product Property of Logarithms to write each logarithm as a sum of logarithms. Simplify if possible.",
+        "In the following exercises, use the Quotient Property of Logarithms to write each logarithm as a sum of logarithms. Simplify if possible."
+      ],
+      "text": "\\({ log }_{5} \\frac{ 125 }{x}\\)",
+      "math": [
+        "\\log_{5} \\frac{ 125 }{x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mfrac>\n            <mrow>\n              <mn>125</mn>\n            </mrow>\n            <mi>x</mi>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mfrac>\n            <mrow>\n              <mn>125</mn>\n            </mrow>\n            <mi>x</mi>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 238,
+      "anchor": "fs-id1167822977346",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Product Property of Logarithms to write each logarithm as a sum of logarithms. Simplify if possible.",
+        "In the following exercises, use the Quotient Property of Logarithms to write each logarithm as a sum of logarithms. Simplify if possible."
+      ],
+      "text": "\\(log \\frac{x}{ 10 }\\)",
+      "math": [
+        "\\log \\frac{x}{ 10 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>log</mtext>\n          <mfrac>\n            <mi>x</mi>\n            <mrow>\n              <mn>10</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>log</mtext>\n          <mfrac>\n            <mi>x</mi>\n            <mrow>\n              <mn>10</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 239,
+      "anchor": "fs-id1167836567119",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Product Property of Logarithms to write each logarithm as a sum of logarithms. Simplify if possible.",
+        "In the following exercises, use the Quotient Property of Logarithms to write each logarithm as a sum of logarithms. Simplify if possible."
+      ],
+      "text": "\\(log \\frac{ 10,000 }{y}\\)",
+      "math": [
+        "\\log \\frac{ 10,000 }{y}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>log</mtext>\n          <mfrac>\n            <mrow>\n              <mn>10,000</mn>\n            </mrow>\n            <mi>y</mi>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>log</mtext>\n          <mfrac>\n            <mrow>\n              <mn>10,000</mn>\n            </mrow>\n            <mi>y</mi>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 240,
+      "anchor": "fs-id1167829921716",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Product Property of Logarithms to write each logarithm as a sum of logarithms. Simplify if possible.",
+        "In the following exercises, use the Quotient Property of Logarithms to write each logarithm as a sum of logarithms. Simplify if possible."
+      ],
+      "text": "\\(ln \\frac{ {e}^{3} }{3}\\)",
+      "math": [
+        "\\ln \\frac{ {e}^{3} }{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>ln</mtext>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>e</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n            <mn>3</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>ln</mtext>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>e</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n            <mn>3</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 241,
+      "anchor": "fs-id1167829749650",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Product Property of Logarithms to write each logarithm as a sum of logarithms. Simplify if possible.",
+        "In the following exercises, use the Quotient Property of Logarithms to write each logarithm as a sum of logarithms. Simplify if possible."
+      ],
+      "text": "\\(ln \\frac{ {e}^{4} }{ 16 }\\)",
+      "math": [
+        "\\ln \\frac{ {e}^{4} }{ 16 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>ln</mtext>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>e</mi>\n                <mn>4</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>ln</mtext>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>e</mi>\n                <mn>4</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 242,
+      "anchor": "fs-id1167833256652",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Quotient Property of Logarithms to write each logarithm as a sum of logarithms. Simplify if possible.",
+        "In the following exercises, use the Power Property of Logarithms to expand each. Simplify if possible."
+      ],
+      "text": "\\({ log }_{3} {x}^{2}\\)",
+      "math": [
+        "\\log_{3} {x}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 243,
+      "anchor": "fs-id1167836526355",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Quotient Property of Logarithms to write each logarithm as a sum of logarithms. Simplify if possible.",
+        "In the following exercises, use the Power Property of Logarithms to expand each. Simplify if possible."
+      ],
+      "text": "\\({ log }_{2} {x}^{5}\\)",
+      "math": [
+        "\\log_{2} {x}^{5}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <msup>\n            <mi>x</mi>\n            <mn>5</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <msup>\n            <mi>x</mi>\n            <mn>5</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 244,
+      "anchor": "fs-id1167829690051",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Quotient Property of Logarithms to write each logarithm as a sum of logarithms. Simplify if possible.",
+        "In the following exercises, use the Power Property of Logarithms to expand each. Simplify if possible."
+      ],
+      "text": "\\(log {x}^{ -2 }\\)",
+      "math": [
+        "\\log {x}^{ -2 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>log</mtext>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mn>−2</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>log</mtext>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mn>−2</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 245,
+      "anchor": "fs-id1167833056098",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Quotient Property of Logarithms to write each logarithm as a sum of logarithms. Simplify if possible.",
+        "In the following exercises, use the Power Property of Logarithms to expand each. Simplify if possible."
+      ],
+      "text": "\\(log {x}^{ -3 }\\)",
+      "math": [
+        "\\log {x}^{ -3 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>log</mtext>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mn>−3</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>log</mtext>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mn>−3</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 246,
+      "anchor": "fs-id1167836318305",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Quotient Property of Logarithms to write each logarithm as a sum of logarithms. Simplify if possible.",
+        "In the following exercises, use the Power Property of Logarithms to expand each. Simplify if possible."
+      ],
+      "text": "\\({ log }_{4} \\sqrt{x}\\)",
+      "math": [
+        "\\log_{4} \\sqrt{x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>4</mn>\n          </msub>\n          <msqrt>\n            <mi>x</mi>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>4</mn>\n          </msub>\n          <msqrt>\n            <mi>x</mi>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 247,
+      "anchor": "fs-id1167833326970",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Quotient Property of Logarithms to write each logarithm as a sum of logarithms. Simplify if possible.",
+        "In the following exercises, use the Power Property of Logarithms to expand each. Simplify if possible."
+      ],
+      "text": "\\({ log }_{5} x 3\\)",
+      "math": [
+        "\\log_{5} \\sqrt[3]{x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mroot>\n            <mi>x</mi>\n            <mn>3</mn>\n          </mroot>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mroot>\n            <mi>x</mi>\n            <mn>3</mn>\n          </mroot>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 248,
+      "anchor": "fs-id1167833007506",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Quotient Property of Logarithms to write each logarithm as a sum of logarithms. Simplify if possible.",
+        "In the following exercises, use the Power Property of Logarithms to expand each. Simplify if possible."
+      ],
+      "text": "\\(ln {x}^{ \\sqrt{3} }\\)",
+      "math": [
+        "\\ln {x}^{ \\sqrt{3} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>ln</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <msqrt>\n                <mn>3</mn>\n              </msqrt>\n            </mrow>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>ln</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <msqrt>\n                <mn>3</mn>\n              </msqrt>\n            </mrow>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 249,
+      "anchor": "fs-id1167833397286",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Quotient Property of Logarithms to write each logarithm as a sum of logarithms. Simplify if possible.",
+        "In the following exercises, use the Power Property of Logarithms to expand each. Simplify if possible."
+      ],
+      "text": "\\(ln {x}^{ 4 3 }\\)",
+      "math": [
+        "\\ln {x}^{ \\sqrt[3]{4} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>ln</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mroot>\n                <mn>4</mn>\n                <mn>3</mn>\n              </mroot>\n            </mrow>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>ln</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mroot>\n                <mn>4</mn>\n                <mn>3</mn>\n              </mroot>\n            </mrow>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 250,
+      "anchor": "fs-id1167836515173",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Power Property of Logarithms to expand each. Simplify if possible.",
+        "In the following exercises, use the Properties of Logarithms to expand the logarithm. Simplify if possible."
+      ],
+      "text": "\\({ log }_{5} ( 4 {x}^{6} {y}^{4} )\\)",
+      "math": [
+        "\\log_{5} ( 4 {x}^{6} {y}^{4} )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>6</mn>\n              </msup>\n              <msup>\n                <mi>y</mi>\n                <mn>4</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>6</mn>\n              </msup>\n              <msup>\n                <mi>y</mi>\n                <mn>4</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 251,
+      "anchor": "fs-id1167836493549",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Power Property of Logarithms to expand each. Simplify if possible.",
+        "In the following exercises, use the Properties of Logarithms to expand the logarithm. Simplify if possible."
+      ],
+      "text": "\\({ log }_{2} ( 3 {x}^{5} {y}^{3} )\\)",
+      "math": [
+        "\\log_{2} ( 3 {x}^{5} {y}^{3} )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>5</mn>\n              </msup>\n              <msup>\n                <mi>y</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>5</mn>\n              </msup>\n              <msup>\n                <mi>y</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 252,
+      "anchor": "fs-id1167826128106",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Power Property of Logarithms to expand each. Simplify if possible.",
+        "In the following exercises, use the Properties of Logarithms to expand the logarithm. Simplify if possible."
+      ],
+      "text": "\\({ log }_{3} ( \\sqrt{2} {x}^{2} )\\)",
+      "math": [
+        "\\log_{3} ( \\sqrt{2} {x}^{2} )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msqrt>\n                <mn>2</mn>\n              </msqrt>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msqrt>\n                <mn>2</mn>\n              </msqrt>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 253,
+      "anchor": "fs-id1167836294137",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Power Property of Logarithms to expand each. Simplify if possible.",
+        "In the following exercises, use the Properties of Logarithms to expand the logarithm. Simplify if possible."
+      ],
+      "text": "\\({ log }_{5} ( 21 4 {y}^{3} )\\)",
+      "math": [
+        "\\log_{5} ( \\sqrt[4]{ 21 } {y}^{3} )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mroot>\n                <mrow>\n                  <mn>21</mn>\n                </mrow>\n                <mn>4</mn>\n              </mroot>\n              <msup>\n                <mi>y</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mroot>\n                <mrow>\n                  <mn>21</mn>\n                </mrow>\n                <mn>4</mn>\n              </mroot>\n              <msup>\n                <mi>y</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 254,
+      "anchor": "fs-id1167836487027",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Power Property of Logarithms to expand each. Simplify if possible.",
+        "In the following exercises, use the Properties of Logarithms to expand the logarithm. Simplify if possible."
+      ],
+      "text": "\\({ log }_{3} \\frac{ x {y}^{2} }{ {z}^{2} }\\)",
+      "math": [
+        "\\log_{3} \\frac{ x {y}^{2} }{ {z}^{2} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mfrac>\n            <mrow>\n              <mi>x</mi>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>z</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mfrac>\n            <mrow>\n              <mi>x</mi>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>z</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 255,
+      "anchor": "fs-id1167836509057",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Power Property of Logarithms to expand each. Simplify if possible.",
+        "In the following exercises, use the Properties of Logarithms to expand the logarithm. Simplify if possible."
+      ],
+      "text": "\\({ log }_{5} \\frac{ 4 a {b}^{3} {c}^{4} }{ {d}^{2} }\\)",
+      "math": [
+        "\\log_{5} \\frac{ 4 a {b}^{3} {c}^{4} }{ {d}^{2} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <mi>a</mi>\n              <msup>\n                <mi>b</mi>\n                <mn>3</mn>\n              </msup>\n              <msup>\n                <mi>c</mi>\n                <mn>4</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>d</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <mi>a</mi>\n              <msup>\n                <mi>b</mi>\n                <mn>3</mn>\n              </msup>\n              <msup>\n                <mi>c</mi>\n                <mn>4</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>d</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 256,
+      "anchor": "fs-id1167836606534",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Power Property of Logarithms to expand each. Simplify if possible.",
+        "In the following exercises, use the Properties of Logarithms to expand the logarithm. Simplify if possible."
+      ],
+      "text": "\\({ log }_{4} \\frac{ \\sqrt{x} }{ 16 {y}^{4} }\\)",
+      "math": [
+        "\\log_{4} \\frac{ \\sqrt{x} }{ 16 {y}^{4} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>4</mn>\n          </msub>\n          <mfrac>\n            <mrow>\n              <msqrt>\n                <mi>x</mi>\n              </msqrt>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>4</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>4</mn>\n          </msub>\n          <mfrac>\n            <mrow>\n              <msqrt>\n                <mi>x</mi>\n              </msqrt>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>4</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 257,
+      "anchor": "fs-id1167836732484",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Power Property of Logarithms to expand each. Simplify if possible.",
+        "In the following exercises, use the Properties of Logarithms to expand the logarithm. Simplify if possible."
+      ],
+      "text": "\\({ log }_{3} \\frac{ {x}^{2} 3 }{ 27 {y}^{4} }\\)",
+      "math": [
+        "\\log_{3} \\frac{ \\sqrt[3]{ {x}^{2} } }{ 27 {y}^{4} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mfrac>\n            <mrow>\n              <mroot>\n                <mrow>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n                <mn>3</mn>\n              </mroot>\n            </mrow>\n            <mrow>\n              <mn>27</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>4</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mfrac>\n            <mrow>\n              <mroot>\n                <mrow>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n                <mn>3</mn>\n              </mroot>\n            </mrow>\n            <mrow>\n              <mn>27</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>4</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 258,
+      "anchor": "fs-id1167829878909",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Power Property of Logarithms to expand each. Simplify if possible.",
+        "In the following exercises, use the Properties of Logarithms to expand the logarithm. Simplify if possible."
+      ],
+      "text": "\\({ log }_{2} \\frac{ \\sqrt{ 2 x + {y}^{2} } }{ {z}^{2} }\\)",
+      "math": [
+        "\\log_{2} \\frac{ \\sqrt{ 2 x + {y}^{2} } }{ {z}^{2} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mfrac>\n            <mrow>\n              <msqrt>\n                <mrow>\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>z</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mfrac>\n            <mrow>\n              <msqrt>\n                <mrow>\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>z</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 259,
+      "anchor": "fs-id1167836511329",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Power Property of Logarithms to expand each. Simplify if possible.",
+        "In the following exercises, use the Properties of Logarithms to expand the logarithm. Simplify if possible."
+      ],
+      "text": "\\({ log }_{3} \\frac{ \\sqrt{ 3 x + 2 {y}^{2} } }{ 5 {z}^{2} }\\)",
+      "math": [
+        "\\log_{3} \\frac{ \\sqrt{ 3 x + 2 {y}^{2} } }{ 5 {z}^{2} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mfrac>\n            <mrow>\n              <msqrt>\n                <mrow>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mrow>\n              <mn>5</mn>\n              <msup>\n                <mi>z</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mfrac>\n            <mrow>\n              <msqrt>\n                <mrow>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mrow>\n              <mn>5</mn>\n              <msup>\n                <mi>z</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 260,
+      "anchor": "fs-id1167833271212",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Power Property of Logarithms to expand each. Simplify if possible.",
+        "In the following exercises, use the Properties of Logarithms to expand the logarithm. Simplify if possible."
+      ],
+      "text": "\\({ log }_{2} \\frac{ 5 {x}^{3} }{ 2 {y}^{2} {z}^{4} } 4\\)",
+      "math": [
+        "\\log_{2} \\sqrt[4]{ \\frac{ 5 {x}^{3} }{ 2 {y}^{2} {z}^{4} } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mroot>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <mn>5</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>3</mn>\n                  </msup>\n                </mrow>\n                <mrow>\n                  <mn>2</mn>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <msup>\n                    <mi>z</mi>\n                    <mn>4</mn>\n                  </msup>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mn>4</mn>\n          </mroot>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mroot>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <mn>5</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>3</mn>\n                  </msup>\n                </mrow>\n                <mrow>\n                  <mn>2</mn>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <msup>\n                    <mi>z</mi>\n                    <mn>4</mn>\n                  </msup>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mn>4</mn>\n          </mroot>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 261,
+      "anchor": "fs-id1167829614542",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Power Property of Logarithms to expand each. Simplify if possible.",
+        "In the following exercises, use the Properties of Logarithms to expand the logarithm. Simplify if possible."
+      ],
+      "text": "\\({ log }_{5} \\frac{ 3 {x}^{2} }{ 4 {y}^{3} z } 3\\)",
+      "math": [
+        "\\log_{5} \\sqrt[3]{ \\frac{ 3 {x}^{2} }{ 4 {y}^{3} z } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mroot>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <mn>3</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n                <mrow>\n                  <mn>4</mn>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>3</mn>\n                  </msup>\n                  <mi>z</mi>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mn>3</mn>\n          </mroot>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mroot>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <mn>3</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n                <mrow>\n                  <mn>4</mn>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>3</mn>\n                  </msup>\n                  <mi>z</mi>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mn>3</mn>\n          </mroot>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 262,
+      "anchor": "fs-id1167824704166",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Properties of Logarithms to expand the logarithm. Simplify if possible.",
+        "In the following exercises, use the Properties of Logarithms to condense the logarithm. Simplify if possible."
+      ],
+      "text": "\\({ log }_{6} 4 + { log }_{6} 9\\)",
+      "math": [
+        "\\log_{6} 4 + \\log_{6} 9"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>6</mn>\n          </msub>\n          <mn>4</mn>\n          <mo>+</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>6</mn>\n          </msub>\n          <mn>9</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>6</mn>\n          </msub>\n          <mn>4</mn>\n          <mo>+</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>6</mn>\n          </msub>\n          <mn>9</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 263,
+      "anchor": "fs-id1167833270269",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Properties of Logarithms to expand the logarithm. Simplify if possible.",
+        "In the following exercises, use the Properties of Logarithms to condense the logarithm. Simplify if possible."
+      ],
+      "text": "\\(log 4 + log 25\\)",
+      "math": [
+        "\\log 4 + \\log 25"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>log</mtext>\n          <mn>4</mn>\n          <mo>+</mo>\n          <mtext>log</mtext>\n          <mn>25</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>log</mtext>\n          <mn>4</mn>\n          <mo>+</mo>\n          <mtext>log</mtext>\n          <mn>25</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 264,
+      "anchor": "fs-id1167829750114",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Properties of Logarithms to expand the logarithm. Simplify if possible.",
+        "In the following exercises, use the Properties of Logarithms to condense the logarithm. Simplify if possible."
+      ],
+      "text": "\\({ log }_{2} 80 - { log }_{2} 5\\)",
+      "math": [
+        "\\log_{2} 80 - \\log_{2} 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mn>80</mn>\n          <mo>−</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mn>80</mn>\n          <mo>−</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 265,
+      "anchor": "fs-id1167824731956",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Properties of Logarithms to expand the logarithm. Simplify if possible.",
+        "In the following exercises, use the Properties of Logarithms to condense the logarithm. Simplify if possible."
+      ],
+      "text": "\\({ log }_{3} 36 - { log }_{3} 4\\)",
+      "math": [
+        "\\log_{3} 36 - \\log_{3} 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mn>36</mn>\n          <mo>−</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mn>36</mn>\n          <mo>−</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 266,
+      "anchor": "fs-id1167825703443",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Properties of Logarithms to expand the logarithm. Simplify if possible.",
+        "In the following exercises, use the Properties of Logarithms to condense the logarithm. Simplify if possible."
+      ],
+      "text": "\\({ log }_{3} 4 + { log }_{3} ( x + 1 )\\)",
+      "math": [
+        "\\log_{3} 4 + \\log_{3} ( x + 1 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mn>4</mn>\n          <mo>+</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mn>4</mn>\n          <mo>+</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 267,
+      "anchor": "fs-id1167830095291",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Properties of Logarithms to expand the logarithm. Simplify if possible.",
+        "In the following exercises, use the Properties of Logarithms to condense the logarithm. Simplify if possible."
+      ],
+      "text": "\\({ log }_{2} 5 - { log }_{2} ( x - 1 )\\)",
+      "math": [
+        "\\log_{2} 5 - \\log_{2} ( x - 1 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mn>5</mn>\n          <mo>−</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mn>5</mn>\n          <mo>−</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 268,
+      "anchor": "fs-id1167833310483",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Properties of Logarithms to expand the logarithm. Simplify if possible.",
+        "In the following exercises, use the Properties of Logarithms to condense the logarithm. Simplify if possible."
+      ],
+      "text": "\\({ log }_{7} 3 + { log }_{7} x - { log }_{7} y\\)",
+      "math": [
+        "\\log_{7} 3 + \\log_{7} x - \\log_{7} y"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>7</mn>\n          </msub>\n          <mn>3</mn>\n          <mo>+</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>7</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>−</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>7</mn>\n          </msub>\n          <mi>y</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>7</mn>\n          </msub>\n          <mn>3</mn>\n          <mo>+</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>7</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>−</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>7</mn>\n          </msub>\n          <mi>y</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 269,
+      "anchor": "fs-id1167833023778",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Properties of Logarithms to expand the logarithm. Simplify if possible.",
+        "In the following exercises, use the Properties of Logarithms to condense the logarithm. Simplify if possible."
+      ],
+      "text": "\\({ log }_{5} 2 - { log }_{5} x - { log }_{5} y\\)",
+      "math": [
+        "\\log_{5} 2 - \\log_{5} x - \\log_{5} y"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mn>2</mn>\n          <mo>−</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>−</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mi>y</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mn>2</mn>\n          <mo>−</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>−</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mi>y</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 270,
+      "anchor": "fs-id1167830077242",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Properties of Logarithms to expand the logarithm. Simplify if possible.",
+        "In the following exercises, use the Properties of Logarithms to condense the logarithm. Simplify if possible."
+      ],
+      "text": "\\(4 { log }_{2} x + 6 { log }_{2} y\\)",
+      "math": [
+        "4 \\log_{2} x + 6 \\log_{2} y"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>6</mn>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mi>y</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>6</mn>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mi>y</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 271,
+      "anchor": "fs-id1167836341027",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Properties of Logarithms to expand the logarithm. Simplify if possible.",
+        "In the following exercises, use the Properties of Logarithms to condense the logarithm. Simplify if possible."
+      ],
+      "text": "\\(6 { log }_{3} x + 9 { log }_{3} y\\)",
+      "math": [
+        "6 \\log_{3} x + 9 \\log_{3} y"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>6</mn>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>9</mn>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mi>y</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>6</mn>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>9</mn>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mi>y</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 272,
+      "anchor": "fs-id1167829908654",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Properties of Logarithms to expand the logarithm. Simplify if possible.",
+        "In the following exercises, use the Properties of Logarithms to condense the logarithm. Simplify if possible."
+      ],
+      "text": "\\({ log }_{3} ( {x}^{2} - 1 ) - 2 { log }_{3} ( x - 1 )\\)",
+      "math": [
+        "\\log_{3} ( {x}^{2} - 1 ) - 2 \\log_{3} ( x - 1 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>2</mn>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>2</mn>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 273,
+      "anchor": "fs-id1167836530742",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Properties of Logarithms to expand the logarithm. Simplify if possible.",
+        "In the following exercises, use the Properties of Logarithms to condense the logarithm. Simplify if possible."
+      ],
+      "text": "\\(log ( {x}^{2} + 2 x + 1 ) - 2 log ( x + 1 )\\)",
+      "math": [
+        "\\log ( {x}^{2} + 2 x + 1 ) - 2 \\log ( x + 1 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>log</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mtext>log</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>log</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mtext>log</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 274,
+      "anchor": "fs-id1167829749987",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Properties of Logarithms to expand the logarithm. Simplify if possible.",
+        "In the following exercises, use the Properties of Logarithms to condense the logarithm. Simplify if possible."
+      ],
+      "text": "\\(4 log x - 2 log y - 3 log z\\)",
+      "math": [
+        "4 \\log x - 2 \\log y - 3 \\log z"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <mtext>log</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mtext>log</mtext>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mtext>log</mtext>\n          <mi>z</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <mtext>log</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mtext>log</mtext>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mtext>log</mtext>\n          <mi>z</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 275,
+      "anchor": "fs-id1167833129223",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Properties of Logarithms to expand the logarithm. Simplify if possible.",
+        "In the following exercises, use the Properties of Logarithms to condense the logarithm. Simplify if possible."
+      ],
+      "text": "\\(3 ln x + 4 ln y - 2 ln z\\)",
+      "math": [
+        "3 \\ln x + 4 \\ln y - 2 \\ln z"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <mtext>ln</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mtext>ln</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mtext>ln</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>z</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <mtext>ln</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mtext>ln</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mtext>ln</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>z</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 276,
+      "anchor": "fs-id1167826132417",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Properties of Logarithms to expand the logarithm. Simplify if possible.",
+        "In the following exercises, use the Properties of Logarithms to condense the logarithm. Simplify if possible."
+      ],
+      "text": "\\(\\frac{1}{3} log x - 3 log ( x + 1 )\\)",
+      "math": [
+        "\\frac{1}{3} \\log x - 3 \\log ( x + 1 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mtext>log</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mtext>log</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mtext>log</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mtext>log</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 277,
+      "anchor": "fs-id1167833349777",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "In the following exercises, use the Properties of Logarithms to expand the logarithm. Simplify if possible.",
+        "In the following exercises, use the Properties of Logarithms to condense the logarithm. Simplify if possible."
+      ],
+      "text": "\\(2 log ( 2 x + 3 ) + \\frac{1}{2} log ( x + 1 )\\)",
+      "math": [
+        "2 \\log ( 2 x + 3 ) + \\frac{1}{2} \\log ( x + 1 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <mtext>log</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mtext>log</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <mtext>log</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mtext>log</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 278,
+      "anchor": "fs-id1167836440621",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "Use the Change-of-Base Formula",
+        "In the following exercises, use the Change-of-Base Formula, rounding to three decimal places, to approximate each logarithm."
+      ],
+      "text": "\\({ log }_{3} 42\\)",
+      "math": [
+        "\\log_{3} 42"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mn>42</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mn>42</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 279,
+      "anchor": "fs-id1167836666277",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "Use the Change-of-Base Formula",
+        "In the following exercises, use the Change-of-Base Formula, rounding to three decimal places, to approximate each logarithm."
+      ],
+      "text": "\\({ log }_{5} 46\\)",
+      "math": [
+        "\\log_{5} 46"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mn>46</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mn>46</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 280,
+      "anchor": "fs-id1167836553636",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "Use the Change-of-Base Formula",
+        "In the following exercises, use the Change-of-Base Formula, rounding to three decimal places, to approximate each logarithm."
+      ],
+      "text": "\\({ log }_{ 12 } 87\\)",
+      "math": [
+        "\\log_{ 12 } 87"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mn>12</mn>\n            </mrow>\n          </msub>\n          <mn>87</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mn>12</mn>\n            </mrow>\n          </msub>\n          <mn>87</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 281,
+      "anchor": "fs-id1167836541801",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "Use the Change-of-Base Formula",
+        "In the following exercises, use the Change-of-Base Formula, rounding to three decimal places, to approximate each logarithm."
+      ],
+      "text": "\\({ log }_{ 15 } 93\\)",
+      "math": [
+        "\\log_{ 15 } 93"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mn>15</mn>\n            </mrow>\n          </msub>\n          <mn>93</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mn>15</mn>\n            </mrow>\n          </msub>\n          <mn>93</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 282,
+      "anchor": "fs-id1167836622300",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "Use the Change-of-Base Formula",
+        "In the following exercises, use the Change-of-Base Formula, rounding to three decimal places, to approximate each logarithm."
+      ],
+      "text": "\\({ log }_{ \\sqrt{2} } 17\\)",
+      "math": [
+        "\\log_{ \\sqrt{2} } 17"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <msqrt>\n                <mn>2</mn>\n              </msqrt>\n            </mrow>\n          </msub>\n          <mn>17</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <msqrt>\n                <mn>2</mn>\n              </msqrt>\n            </mrow>\n          </msub>\n          <mn>17</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 283,
+      "anchor": "fs-id1167829619908",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "Use the Change-of-Base Formula",
+        "In the following exercises, use the Change-of-Base Formula, rounding to three decimal places, to approximate each logarithm."
+      ],
+      "text": "\\({ log }_{ \\sqrt{3} } 21\\)",
+      "math": [
+        "\\log_{ \\sqrt{3} } 21"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <msqrt>\n                <mn>3</mn>\n              </msqrt>\n            </mrow>\n          </msub>\n          <mn>21</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <msqrt>\n                <mn>3</mn>\n              </msqrt>\n            </mrow>\n          </msub>\n          <mn>21</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 284,
+      "anchor": "fs-id1167833138475",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Write the Product Property in your own words. Does it apply to each of the following? \\({log}_{a}5x,\\)\\({log}_{a}(5+x).\\) Why or why not?",
+      "math": [
+        "\\log_{a}5x,",
+        "\\log_{a}(5+x)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mi>a</mi></msub><mn>5</mn><mi>x</mi><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mi>a</mi></msub><mn>5</mn><mi>x</mi><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mi>a</mi></msub><mrow><mo>(</mo><mrow><mn>5</mn><mo>+</mo><mi>x</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mi>a</mi></msub><mrow><mo>(</mo><mrow><mn>5</mn><mo>+</mo><mi>x</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 285,
+      "anchor": "fs-id1167825884740",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Write the Power Property in your own words. Does it apply to each of the following? \\({log}_{a}{x}^{p},\\)\\({({log}_{a}x)}^{r}.\\) Why or why not?",
+      "math": [
+        "\\log_{a}{x}^{p},",
+        "{(\\log_{a}x)}^{r}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mi>a</mi></msub><msup><mi>x</mi><mi>p</mi></msup><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mi>a</mi></msub><msup><mi>x</mi><mi>p</mi></msup><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><msub><mrow><mtext>log</mtext></mrow><mi>a</mi></msub><mi>x</mi></mrow><mo>)</mo></mrow></mrow><mi>r</mi></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><msub><mrow><mtext>log</mtext></mrow><mi>a</mi></msub><mi>x</mi></mrow><mo>)</mo></mrow></mrow><mi>r</mi></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 286,
+      "anchor": "fs-id1167833059146",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Use an example to show that\\(log(a+b)\\ne loga+logb.\\)",
+      "math": [
+        "\\log(a+b)\\ne \\loga+\\logb."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>log</mtext><mrow><mo>(</mo><mrow><mi>a</mi><mo>+</mo><mi>b</mi></mrow><mo>)</mo></mrow><mo>≠</mo><mtext>log</mtext><mi>a</mi><mo>+</mo><mtext>log</mtext><mi>b</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>log</mtext><mrow><mo>(</mo><mrow><mi>a</mi><mo>+</mo><mi>b</mi></mrow><mo>)</mo></mrow><mo>≠</mo><mtext>log</mtext><mi>a</mi><mo>+</mo><mtext>log</mtext><mi>b</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 287,
+      "anchor": "fs-id1167836507679",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain how to find the value of \\({log}_{7}15\\) using your calculator.",
+      "math": [
+        "\\log_{7}15"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>7</mn></msub><mn>15</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>7</mn></msub><mn>15</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "10.55",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "is_try_it": true,
+      "anchor": "fs-id1167829650482",
+      "context": [
+        "Use the Properties of Logarithms"
+      ],
+      "text": "Evaluate using the properties of logarithms: ⓐ \\({log}_{13}1\\) ⓑ \\({log}_{9}9.\\)",
+      "math": [
+        "\\log_{13}1",
+        "\\log_{9}9."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mrow><mn>13</mn></mrow></msub><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mrow><mn>13</mn></mrow></msub><mn>1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>9</mn></msub><mn>9</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>9</mn></msub><mn>9</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.56",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "is_try_it": true,
+      "anchor": "fs-id1167836328553",
+      "context": [
+        "Use the Properties of Logarithms"
+      ],
+      "text": "Evaluate using the properties of logarithms: ⓐ \\({log}_{5}1\\) ⓑ \\({log}_{7}7.\\)",
+      "math": [
+        "\\log_{5}1",
+        "\\log_{7}7."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>5</mn></msub><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>5</mn></msub><mn>1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>7</mn></msub><mn>7</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>7</mn></msub><mn>7</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.57",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "is_try_it": true,
+      "anchor": "fs-id1167836334869",
+      "context": [
+        "Use the Properties of Logarithms"
+      ],
+      "text": "Evaluate using the properties of logarithms: ⓐ \\({5}^{{log}_{5}15}\\) ⓑ \\({log}_{7}{7}^{4}.\\)",
+      "math": [
+        "{5}^{\\log_{5}15}",
+        "\\log_{7}{7}^{4}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mn>5</mn><mrow><msub><mrow><mtext>log</mtext></mrow><mn>5</mn></msub><mn>15</mn></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mn>5</mn><mrow><msub><mrow><mtext>log</mtext></mrow><mn>5</mn></msub><mn>15</mn></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>7</mn></msub><msup><mn>7</mn><mn>4</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>7</mn></msub><msup><mn>7</mn><mn>4</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.58",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "is_try_it": true,
+      "anchor": "fs-id1167836544574",
+      "context": [
+        "Use the Properties of Logarithms"
+      ],
+      "text": "Evaluate using the properties of logarithms: ⓐ \\({2}^{{log}_{2}8}\\) ⓑ \\({log}_{2}{2}^{15}.\\)",
+      "math": [
+        "{2}^{\\log_{2}8}",
+        "\\log_{2}{2}^{15}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mn>2</mn><mrow><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><mn>8</mn></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mn>2</mn><mrow><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><mn>8</mn></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><msup><mn>2</mn><mrow><mn>15</mn></mrow></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><msup><mn>2</mn><mrow><mn>15</mn></mrow></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.59",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "is_try_it": true,
+      "anchor": "fs-id1167829905701",
+      "context": [
+        "Use the Properties of Logarithms"
+      ],
+      "text": "Use the Product Property of Logarithms to write each logarithm as a sum of logarithms. Simplify, if possible. ⓐ \\({log}_{3}3x\\) ⓑ \\({log}_{2}8xy\\)",
+      "math": [
+        "\\log_{3}3x",
+        "\\log_{2}8xy"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mn>3</mn><mi>x</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mn>3</mn><mi>x</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><mn>8</mn><mi>x</mi><mi>y</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><mn>8</mn><mi>x</mi><mi>y</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.60",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "is_try_it": true,
+      "anchor": "fs-id1167836287646",
+      "context": [
+        "Use the Properties of Logarithms"
+      ],
+      "text": "Use the Product Property of Logarithms to write each logarithm as a sum of logarithms. Simplify, if possible. ⓐ \\({log}_{9}9x\\) ⓑ \\({log}_{3}27xy\\)",
+      "math": [
+        "\\log_{9}9x",
+        "\\log_{3}27xy"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>9</mn></msub><mn>9</mn><mi>x</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>9</mn></msub><mn>9</mn><mi>x</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mn>27</mn><mi>x</mi><mi>y</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mn>27</mn><mi>x</mi><mi>y</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.61",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "is_try_it": true,
+      "anchor": "fs-id1167824732926",
+      "context": [
+        "Use the Properties of Logarithms"
+      ],
+      "text": "Use the Quotient Property of Logarithms to write each logarithm as a difference of logarithms. Simplify, if possible. ⓐ \\({log}_{4}\\frac{3}{4}\\) ⓑ \\(log\\frac{x}{1000}\\)",
+      "math": [
+        "\\log_{4}\\frac{3}{4}",
+        "\\log\\frac{x}{1000}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>4</mn></msub><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>4</mn></msub><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>log</mtext><mfrac><mi>x</mi><mrow><mn>1000</mn></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>log</mtext><mfrac><mi>x</mi><mrow><mn>1000</mn></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.62",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "is_try_it": true,
+      "anchor": "fs-id1167836335184",
+      "context": [
+        "Use the Properties of Logarithms"
+      ],
+      "text": "Use the Quotient Property of Logarithms to write each logarithm as a difference of logarithms. Simplify, if possible. ⓐ \\({log}_{2}\\frac{5}{4}\\) ⓑ \\(log\\frac{10}{y}\\)",
+      "math": [
+        "\\log_{2}\\frac{5}{4}",
+        "\\log\\frac{10}{y}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><mfrac><mn>5</mn><mn>4</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><mfrac><mn>5</mn><mn>4</mn></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>log</mtext><mfrac><mrow><mn>10</mn></mrow><mi>y</mi></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>log</mtext><mfrac><mrow><mn>10</mn></mrow><mi>y</mi></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.63",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "is_try_it": true,
+      "anchor": "fs-id1167826169922",
+      "context": [
+        "Use the Properties of Logarithms"
+      ],
+      "text": "Use the Power Property of Logarithms to write each logarithm as a product of logarithms. Simplify, if possible. ⓐ \\({log}_{7}{5}^{4}\\) ⓑ \\(log{x}^{100}\\)",
+      "math": [
+        "\\log_{7}{5}^{4}",
+        "\\log{x}^{100}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>7</mn></msub><msup><mn>5</mn><mn>4</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>7</mn></msub><msup><mn>5</mn><mn>4</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>log</mtext><msup><mi>x</mi><mrow><mn>100</mn></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>log</mtext><msup><mi>x</mi><mrow><mn>100</mn></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.64",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "is_try_it": true,
+      "anchor": "fs-id1167824578584",
+      "context": [
+        "Use the Properties of Logarithms"
+      ],
+      "text": "Use the Power Property of Logarithms to write each logarithm as a product of logarithms. Simplify, if possible. ⓐ \\({log}_{2}{3}^{7}\\) ⓑ \\(log{x}^{20}\\)",
+      "math": [
+        "\\log_{2}{3}^{7}",
+        "\\log{x}^{20}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><msup><mn>3</mn><mn>7</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><msup><mn>3</mn><mn>7</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>log</mtext><msup><mi>x</mi><mrow><mn>20</mn></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>log</mtext><msup><mi>x</mi><mrow><mn>20</mn></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.65",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "is_try_it": true,
+      "anchor": "fs-id1167836532369",
+      "context": [
+        "Use the Properties of Logarithms"
+      ],
+      "text": "Use the Properties of Logarithms to expand the logarithm \\({log}_{2}(5{x}^{4}{y}^{2})\\). Simplify, if possible.",
+      "math": [
+        "\\log_{2}(5{x}^{4}{y}^{2})"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><mrow><mo>(</mo><mrow><mn>5</mn><msup><mi>x</mi><mn>4</mn></msup><msup><mi>y</mi><mn>2</mn></msup></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><mrow><mo>(</mo><mrow><mn>5</mn><msup><mi>x</mi><mn>4</mn></msup><msup><mi>y</mi><mn>2</mn></msup></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.66",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "is_try_it": true,
+      "anchor": "fs-id1167836549935",
+      "context": [
+        "Use the Properties of Logarithms"
+      ],
+      "text": "Use the Properties of Logarithms to expand the logarithm \\({log}_{3}(7{x}^{5}{y}^{3})\\). Simplify, if possible.",
+      "math": [
+        "\\log_{3}(7{x}^{5}{y}^{3})"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mrow><mo>(</mo><mrow><mn>7</mn><msup><mi>x</mi><mn>5</mn></msup><msup><mi>y</mi><mn>3</mn></msup></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mrow><mo>(</mo><mrow><mn>7</mn><msup><mi>x</mi><mn>5</mn></msup><msup><mi>y</mi><mn>3</mn></msup></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.67",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "is_try_it": true,
+      "anchor": "fs-id1167836433725",
+      "context": [
+        "Use the Properties of Logarithms"
+      ],
+      "text": "Use the Properties of Logarithms to expand the logarithm \\({log}_{4}\\frac{{x}^{4}}{2{y}^{3}{z}^{2}}5\\). Simplify, if possible.",
+      "math": [
+        "\\log_{4}\\sqrt[5]{\\frac{{x}^{4}}{2{y}^{3}{z}^{2}}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>4</mn></msub><mroot><mrow><mfrac><mrow><msup><mi>x</mi><mn>4</mn></msup></mrow><mrow><mn>2</mn><msup><mi>y</mi><mn>3</mn></msup><msup><mi>z</mi><mn>2</mn></msup></mrow></mfrac></mrow><mn>5</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>4</mn></msub><mroot><mrow><mfrac><mrow><msup><mi>x</mi><mn>4</mn></msup></mrow><mrow><mn>2</mn><msup><mi>y</mi><mn>3</mn></msup><msup><mi>z</mi><mn>2</mn></msup></mrow></mfrac></mrow><mn>5</mn></mroot></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.68",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "is_try_it": true,
+      "anchor": "fs-id1167836312554",
+      "context": [
+        "Use the Properties of Logarithms"
+      ],
+      "text": "Use the Properties of Logarithms to expand the logarithm \\({log}_{3}\\frac{{x}^{2}}{5{y}^{}z}3\\). Simplify, if possible.",
+      "math": [
+        "\\log_{3}\\sqrt[3]{\\frac{{x}^{2}}{5{y}^{}z}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mroot><mrow><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup></mrow><mrow><mn>5</mn><msup><mi>y</mi><mrow></mrow></msup><mi>z</mi></mrow></mfrac></mrow><mn>3</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mroot><mrow><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup></mrow><mrow><mn>5</mn><msup><mi>y</mi><mrow></mrow></msup><mi>z</mi></mrow></mfrac></mrow><mn>3</mn></mroot></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.69",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "is_try_it": true,
+      "anchor": "fs-id1167836355817",
+      "context": [
+        "Use the Properties of Logarithms"
+      ],
+      "text": "Use the Properties of Logarithms to condense the logarithm \\({log}_{2}5+{log}_{2}x-{log}_{2}y\\). Simplify, if possible.",
+      "math": [
+        "\\log_{2}5+\\log_{2}x-\\log_{2}y"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><mn>5</mn><mo>+</mo><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><mi>x</mi><mo>−</mo><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><mi>y</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><mn>5</mn><mo>+</mo><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><mi>x</mi><mo>−</mo><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><mi>y</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.70",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "is_try_it": true,
+      "anchor": "fs-id1167836774254",
+      "context": [
+        "Use the Properties of Logarithms"
+      ],
+      "text": "Use the Properties of Logarithms to condense the logarithm \\({log}_{3}6-{log}_{3}x-{log}_{3}y\\). Simplify, if possible.",
+      "math": [
+        "\\log_{3}6-\\log_{3}x-\\log_{3}y"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mn>6</mn><mo>−</mo><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mi>x</mi><mo>−</mo><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mi>y</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mn>6</mn><mo>−</mo><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mi>x</mi><mo>−</mo><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mi>y</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.71",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "is_try_it": true,
+      "anchor": "fs-id1167836620107",
+      "context": [
+        "Use the Properties of Logarithms"
+      ],
+      "text": "Use the Properties of Logarithms to condense the logarithm \\(3{log}_{2}x+2{log}_{2}(x-1)\\). Simplify, if possible.",
+      "math": [
+        "3\\log_{2}x+2\\log_{2}(x-1)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><mi>x</mi><mo>+</mo><mn>2</mn><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><mi>x</mi><mo>+</mo><mn>2</mn><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.72",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "is_try_it": true,
+      "anchor": "fs-id1167836547580",
+      "context": [
+        "Use the Properties of Logarithms"
+      ],
+      "text": "Use the Properties of Logarithms to condense the logarithm \\(2logx+2log(x+1)\\). Simplify, if possible.",
+      "math": [
+        "2\\logx+2\\log(x+1)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mtext>log</mtext><mspace width=\"0.2em\"></mspace><mi>x</mi><mo>+</mo><mn>2</mn><mtext>log</mtext><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mtext>log</mtext><mspace width=\"0.2em\"></mspace><mi>x</mi><mo>+</mo><mn>2</mn><mtext>log</mtext><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.73",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "is_try_it": true,
+      "anchor": "fs-id1167824735518",
+      "context": [
+        "Use the Change-of-Base Formula"
+      ],
+      "text": "Rounding to three decimal places, approximate \\({log}_{3}42.\\)",
+      "math": [
+        "\\log_{3}42."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mn>42</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mn>42</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.74",
+      "page": "10-4-use-the-properties-of-logarithms",
+      "is_try_it": true,
+      "anchor": "fs-id1167829739081",
+      "context": [
+        "Use the Change-of-Base Formula"
+      ],
+      "text": "Rounding to three decimal places, approximate \\({log}_{5}46.\\)",
+      "math": [
+        "\\log_{5}46."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>5</mn></msub><mn>46</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>5</mn></msub><mn>46</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

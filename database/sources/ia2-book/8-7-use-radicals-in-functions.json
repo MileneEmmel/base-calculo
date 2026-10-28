@@ -1,0 +1,1340 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/8-7-use-radicals-in-functions",
+  "title": "8.7 Use Radicals in Functions",
+  "sha256": "4f1abb2f392009819f2b09ab7a499f3c51b75bb5bfbec20cb35405a057bdfe05",
+  "questions": [
+    {
+      "number": 351,
+      "anchor": "fs-id1169147743159",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Evaluate a Radical Function",
+        "In the following exercises, evaluate each function."
+      ],
+      "text": "\\(f(x)=\\sqrt{4x-4},\\) find ⓐ \\(f(5)\\) ⓑ \\(f(0).\\)",
+      "math": [
+        "f(x)=\\sqrt{4x-4},",
+        "f(5)",
+        "f(0)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><mn>4</mn><mi>x</mi><mo>−</mo><mn>4</mn></mrow></msqrt><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><mn>4</mn><mi>x</mi><mo>−</mo><mn>4</mn></mrow></msqrt><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mn>5</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>5</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 352,
+      "anchor": "fs-id1169142480106",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Evaluate a Radical Function",
+        "In the following exercises, evaluate each function."
+      ],
+      "text": "\\(f(x)=\\sqrt{6x-5},\\) find ⓐ \\(f(5)\\) ⓑ \\(f(-1).\\)",
+      "math": [
+        "f(x)=\\sqrt{6x-5},",
+        "f(5)",
+        "f(-1)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><mn>6</mn><mi>x</mi><mo>−</mo><mn>5</mn></mrow></msqrt><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><mn>6</mn><mi>x</mi><mo>−</mo><mn>5</mn></mrow></msqrt><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mn>5</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>5</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mrow><mn>−1</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mrow><mn>−1</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 353,
+      "anchor": "fs-id1169148207439",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Evaluate a Radical Function",
+        "In the following exercises, evaluate each function."
+      ],
+      "text": "\\(g(x)=\\sqrt{6x+1},\\) find ⓐ \\(g(4)\\) ⓑ \\(g(8).\\)",
+      "math": [
+        "g(x)=\\sqrt{6x+1},",
+        "g(4)",
+        "g(8)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><mn>6</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></msqrt><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><mn>6</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></msqrt><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mn>4</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mn>4</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mn>8</mn><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mn>8</mn><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 354,
+      "anchor": "fs-id1169147909782",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Evaluate a Radical Function",
+        "In the following exercises, evaluate each function."
+      ],
+      "text": "\\(g(x)=\\sqrt{3x+1},\\) find ⓐ \\(g(8)\\) ⓑ \\(g(5).\\)",
+      "math": [
+        "g(x)=\\sqrt{3x+1},",
+        "g(8)",
+        "g(5)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><mn>3</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></msqrt><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><mn>3</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></msqrt><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mn>8</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mn>8</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mn>5</mn><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mn>5</mn><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 355,
+      "anchor": "fs-id1169145730224",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Evaluate a Radical Function",
+        "In the following exercises, evaluate each function."
+      ],
+      "text": "\\(F(x)=\\sqrt{3-2x},\\) find ⓐ \\(F(1)\\) ⓑ \\(F(-11).\\)",
+      "math": [
+        "F(x)=\\sqrt{3-2x},",
+        "F(1)",
+        "F(-11)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>F</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><mn>3</mn><mo>−</mo><mn>2</mn><mi>x</mi></mrow></msqrt><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>F</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><mn>3</mn><mo>−</mo><mn>2</mn><mi>x</mi></mrow></msqrt><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>F</mi><mrow><mo>(</mo><mn>1</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>F</mi><mrow><mo>(</mo><mn>1</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>F</mi><mrow><mo>(</mo><mrow><mn>−11</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>F</mi><mrow><mo>(</mo><mrow><mn>−11</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 356,
+      "anchor": "fs-id1169145643246",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Evaluate a Radical Function",
+        "In the following exercises, evaluate each function."
+      ],
+      "text": "\\(F(x)=\\sqrt{8-4x},\\) find ⓐ \\(F(1)\\) ⓑ \\(F(-2).\\)",
+      "math": [
+        "F(x)=\\sqrt{8-4x},",
+        "F(1)",
+        "F(-2)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>F</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><mn>8</mn><mo>−</mo><mn>4</mn><mi>x</mi></mrow></msqrt><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>F</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><mn>8</mn><mo>−</mo><mn>4</mn><mi>x</mi></mrow></msqrt><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>F</mi><mrow><mo>(</mo><mn>1</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>F</mi><mrow><mo>(</mo><mn>1</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>F</mi><mrow><mo>(</mo><mrow><mn>−2</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>F</mi><mrow><mo>(</mo><mrow><mn>−2</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 357,
+      "anchor": "fs-id1169145844012",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Evaluate a Radical Function",
+        "In the following exercises, evaluate each function."
+      ],
+      "text": "\\(G(x)=\\sqrt{5x-1},\\) find ⓐ \\(G(5)\\) ⓑ \\(G(2).\\)",
+      "math": [
+        "G(x)=\\sqrt{5x-1},",
+        "G(5)",
+        "G(2)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>G</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><mn>5</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow></msqrt><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>G</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><mn>5</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow></msqrt><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>G</mi><mrow><mo>(</mo><mn>5</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>G</mi><mrow><mo>(</mo><mn>5</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>G</mi><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>G</mi><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 358,
+      "anchor": "fs-id1169147768758",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Evaluate a Radical Function",
+        "In the following exercises, evaluate each function."
+      ],
+      "text": "\\(G(x)=\\sqrt{4x+1},\\) find ⓐ \\(G(11)\\) ⓑ \\(G(2).\\)",
+      "math": [
+        "G(x)=\\sqrt{4x+1},",
+        "G(11)",
+        "G(2)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>G</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></msqrt><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>G</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></msqrt><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>G</mi><mrow><mo>(</mo><mrow><mn>11</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>G</mi><mrow><mo>(</mo><mrow><mn>11</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>G</mi><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>G</mi><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 359,
+      "anchor": "fs-id1169147719067",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Evaluate a Radical Function",
+        "In the following exercises, evaluate each function."
+      ],
+      "text": "\\(g(x)=2x-43,\\) find ⓐ \\(g(6)\\) ⓑ \\(g(-2).\\)",
+      "math": [
+        "g(x)=\\sqrt[3]{2x-4},",
+        "g(6)",
+        "g(-2)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mroot><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>4</mn></mrow><mrow><mn>3</mn></mrow></mroot><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mroot><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>4</mn></mrow><mrow><mn>3</mn></mrow></mroot><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mn>6</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mn>6</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mrow><mn>−2</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mrow><mn>−2</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 360,
+      "anchor": "fs-id1169147949679",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Evaluate a Radical Function",
+        "In the following exercises, evaluate each function."
+      ],
+      "text": "\\(g(x)=7x-13,\\) find ⓐ \\(g(4)\\) ⓑ \\(g(-1).\\)",
+      "math": [
+        "g(x)=\\sqrt[3]{7x-1},",
+        "g(4)",
+        "g(-1)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mroot><mrow><mn>7</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mroot><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mroot><mrow><mn>7</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mroot><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mn>4</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mn>4</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mrow><mn>−1</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mrow><mn>−1</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 361,
+      "anchor": "fs-id1169148229958",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Evaluate a Radical Function",
+        "In the following exercises, evaluate each function."
+      ],
+      "text": "\\(h(x)={x}^{2}-43,\\) find ⓐ \\(h(-2)\\) ⓑ \\(h(6).\\)",
+      "math": [
+        "h(x)=\\sqrt[3]{{x}^{2}-4},",
+        "h(-2)",
+        "h(6)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mroot><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn></mrow><mrow><mn>3</mn></mrow></mroot><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mroot><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn></mrow><mrow><mn>3</mn></mrow></mroot><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mrow><mo>(</mo><mrow><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mrow><mo>(</mo><mrow><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mrow><mo>(</mo><mn>6</mn><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mrow><mo>(</mo><mn>6</mn><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 362,
+      "anchor": "fs-id1169148233516",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Evaluate a Radical Function",
+        "In the following exercises, evaluate each function."
+      ],
+      "text": "\\(h(x)={x}^{2}+43,\\) find ⓐ \\(h(-2)\\) ⓑ \\(h(6).\\)",
+      "math": [
+        "h(x)=\\sqrt[3]{{x}^{2}+4},",
+        "h(-2)",
+        "h(6)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mroot><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn></mrow><mrow><mn>3</mn></mrow></mroot><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mroot><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn></mrow><mrow><mn>3</mn></mrow></mroot><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mrow><mo>(</mo><mrow><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mrow><mo>(</mo><mrow><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mo stretchy=\"false\">(</mo><mn>6</mn><mo stretchy=\"false\">)</mo><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mo stretchy=\"false\">(</mo><mn>6</mn><mo stretchy=\"false\">)</mo><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 363,
+      "anchor": "fs-id1169147750980",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Evaluate a Radical Function",
+        "In the following exercises, evaluate each function."
+      ],
+      "text": "For the function \\(f(x)=2{x}^{3}4,\\) find ⓐ \\(f(0)\\) ⓑ \\(f(2).\\)",
+      "math": [
+        "f(x)=\\sqrt[4]{2{x}^{3}},",
+        "f(0)",
+        "f(2)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mroot><mrow><mn>2</mn><msup><mi>x</mi><mn>3</mn></msup></mrow><mrow><mn>4</mn></mrow></mroot><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mroot><mrow><mn>2</mn><msup><mi>x</mi><mn>3</mn></msup></mrow><mrow><mn>4</mn></mrow></mroot><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 364,
+      "anchor": "fs-id1169145578894",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Evaluate a Radical Function",
+        "In the following exercises, evaluate each function."
+      ],
+      "text": "For the function \\(f(x)=3{x}^{3}4,\\) find ⓐ \\(f(0)\\) ⓑ \\(f(3).\\)",
+      "math": [
+        "f(x)=\\sqrt[4]{3{x}^{3}},",
+        "f(0)",
+        "f(3)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mroot><mrow><mn>3</mn><msup><mi>x</mi><mn>3</mn></msup></mrow><mrow><mn>4</mn></mrow></mroot><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mroot><mrow><mn>3</mn><msup><mi>x</mi><mn>3</mn></msup></mrow><mrow><mn>4</mn></mrow></mroot><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 365,
+      "anchor": "fs-id1169143303481",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Evaluate a Radical Function",
+        "In the following exercises, evaluate each function."
+      ],
+      "text": "For the function \\(g(x)=4-4x4,\\) find ⓐ \\(g(1)\\) ⓑ \\(g(-3).\\)",
+      "math": [
+        "g(x)=\\sqrt[4]{4-4x},",
+        "g(1)",
+        "g(-3)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mroot><mrow><mn>4</mn><mo>−</mo><mn>4</mn><mi>x</mi></mrow><mrow><mn>4</mn></mrow></mroot><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mroot><mrow><mn>4</mn><mo>−</mo><mn>4</mn><mi>x</mi></mrow><mrow><mn>4</mn></mrow></mroot><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mn>1</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mn>1</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mrow><mn>−3</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mrow><mn>−3</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 366,
+      "anchor": "fs-id1169147966879",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Evaluate a Radical Function",
+        "In the following exercises, evaluate each function."
+      ],
+      "text": "For the function \\(g(x)=8-4x4,\\) find ⓐ \\(g(-6)\\) ⓑ \\(g(2).\\)",
+      "math": [
+        "g(x)=\\sqrt[4]{8-4x},",
+        "g(-6)",
+        "g(2)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mroot><mrow><mn>8</mn><mo>−</mo><mn>4</mn><mi>x</mi></mrow><mrow><mn>4</mn></mrow></mroot><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mroot><mrow><mn>8</mn><mo>−</mo><mn>4</mn><mi>x</mi></mrow><mrow><mn>4</mn></mrow></mroot><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mrow><mn>−6</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mrow><mn>−6</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 367,
+      "anchor": "fs-id1169143520333",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Find the Domain of a Radical Function",
+        "In the following exercises, find the domain of the function and write the domain in interval notation."
+      ],
+      "text": "\\(f ( x ) = \\sqrt{ 3 x - 1 }\\)",
+      "math": [
+        "f ( x ) = \\sqrt{ 3 x - 1 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 368,
+      "anchor": "fs-id1169148229556",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Find the Domain of a Radical Function",
+        "In the following exercises, find the domain of the function and write the domain in interval notation."
+      ],
+      "text": "\\(f ( x ) = \\sqrt{ 4 x - 2 }\\)",
+      "math": [
+        "f ( x ) = \\sqrt{ 4 x - 2 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 369,
+      "anchor": "fs-id1169147816115",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Find the Domain of a Radical Function",
+        "In the following exercises, find the domain of the function and write the domain in interval notation."
+      ],
+      "text": "\\(g ( x ) = \\sqrt{ 2 - 3 x }\\)",
+      "math": [
+        "g ( x ) = \\sqrt{ 2 - 3 x }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mn>2</mn>\n              <mo>−</mo>\n              <mn>3</mn>\n              <mi>x</mi>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mn>2</mn>\n              <mo>−</mo>\n              <mn>3</mn>\n              <mi>x</mi>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 370,
+      "anchor": "fs-id1169143576214",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Find the Domain of a Radical Function",
+        "In the following exercises, find the domain of the function and write the domain in interval notation."
+      ],
+      "text": "\\(g ( x ) = \\sqrt{ 8 - x }\\)",
+      "math": [
+        "g ( x ) = \\sqrt{ 8 - x }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mn>8</mn>\n              <mo>−</mo>\n              <mi>x</mi>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mn>8</mn>\n              <mo>−</mo>\n              <mi>x</mi>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 371,
+      "anchor": "fs-id1169142417344",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Find the Domain of a Radical Function",
+        "In the following exercises, find the domain of the function and write the domain in interval notation."
+      ],
+      "text": "\\(h ( x ) = \\sqrt{ \\frac{5}{ x - 2 } }\\)",
+      "math": [
+        "h ( x ) = \\sqrt{ \\frac{5}{ x - 2 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>h</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mfrac>\n                <mn>5</mn>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>h</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mfrac>\n                <mn>5</mn>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 372,
+      "anchor": "fs-id1169145494672",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Find the Domain of a Radical Function",
+        "In the following exercises, find the domain of the function and write the domain in interval notation."
+      ],
+      "text": "\\(h ( x ) = \\sqrt{ \\frac{6}{ x + 3 } }\\)",
+      "math": [
+        "h ( x ) = \\sqrt{ \\frac{6}{ x + 3 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>h</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mfrac>\n                <mn>6</mn>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>h</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mfrac>\n                <mn>6</mn>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 373,
+      "anchor": "fs-id1169145621319",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Find the Domain of a Radical Function",
+        "In the following exercises, find the domain of the function and write the domain in interval notation."
+      ],
+      "text": "\\(f ( x ) = \\sqrt{ \\frac{ x + 3 }{ x - 2 } }\\)",
+      "math": [
+        "f ( x ) = \\sqrt{ \\frac{ x + 3 }{ x - 2 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 374,
+      "anchor": "fs-id1169147878752",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Find the Domain of a Radical Function",
+        "In the following exercises, find the domain of the function and write the domain in interval notation."
+      ],
+      "text": "\\(f ( x ) = \\sqrt{ \\frac{ x - 1 }{ x + 4 } }\\)",
+      "math": [
+        "f ( x ) = \\sqrt{ \\frac{ x - 1 }{ x + 4 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 375,
+      "anchor": "fs-id1169141298449",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Find the Domain of a Radical Function",
+        "In the following exercises, find the domain of the function and write the domain in interval notation."
+      ],
+      "text": "\\(g ( x ) = 8 x - 1 3\\)",
+      "math": [
+        "g ( x ) = \\sqrt[3]{ 8 x - 1 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <mn>8</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <mn>8</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 376,
+      "anchor": "fs-id1169143581471",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Find the Domain of a Radical Function",
+        "In the following exercises, find the domain of the function and write the domain in interval notation."
+      ],
+      "text": "\\(g ( x ) = 6 x + 5 3\\)",
+      "math": [
+        "g ( x ) = \\sqrt[3]{ 6 x + 5 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <mn>6</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <mn>6</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 377,
+      "anchor": "fs-id1169141036489",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Find the Domain of a Radical Function",
+        "In the following exercises, find the domain of the function and write the domain in interval notation."
+      ],
+      "text": "\\(f ( x ) = 4 {x}^{2} - 16 3\\)",
+      "math": [
+        "f ( x ) = \\sqrt[3]{ 4 {x}^{2} - 16 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <mn>4</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>16</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <mn>4</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>16</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 378,
+      "anchor": "fs-id1169143533398",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Find the Domain of a Radical Function",
+        "In the following exercises, find the domain of the function and write the domain in interval notation."
+      ],
+      "text": "\\(f ( x ) = 6 {x}^{2} - 25 3\\)",
+      "math": [
+        "f ( x ) = \\sqrt[3]{ 6 {x}^{2} - 25 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <mn>6</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>25</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <mn>6</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>25</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 379,
+      "anchor": "fs-id1169143614237",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Find the Domain of a Radical Function",
+        "In the following exercises, find the domain of the function and write the domain in interval notation."
+      ],
+      "text": "\\(F ( x ) = 8 x + 3 4\\)",
+      "math": [
+        "F ( x ) = \\sqrt[4]{ 8 x + 3 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>F</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <mn>8</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mn>4</mn>\n          </mroot>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>F</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <mn>8</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mn>4</mn>\n          </mroot>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 380,
+      "anchor": "fs-id1169148097678",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Find the Domain of a Radical Function",
+        "In the following exercises, find the domain of the function and write the domain in interval notation."
+      ],
+      "text": "\\(F ( x ) = 10 - 7 x 4\\)",
+      "math": [
+        "F ( x ) = \\sqrt[4]{ 10 - 7 x }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>F</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <mn>10</mn>\n              <mo>−</mo>\n              <mn>7</mn>\n              <mi>x</mi>\n            </mrow>\n            <mrow>\n              <mn>4</mn>\n            </mrow>\n          </mroot>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>F</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <mn>10</mn>\n              <mo>−</mo>\n              <mn>7</mn>\n              <mi>x</mi>\n            </mrow>\n            <mrow>\n              <mn>4</mn>\n            </mrow>\n          </mroot>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 381,
+      "anchor": "fs-id1169145785903",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Find the Domain of a Radical Function",
+        "In the following exercises, find the domain of the function and write the domain in interval notation."
+      ],
+      "text": "\\(G ( x ) = 2 x - 1 5\\)",
+      "math": [
+        "G ( x ) = \\sqrt[5]{ 2 x - 1 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>G</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mn>5</mn>\n          </mroot>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>G</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mn>5</mn>\n          </mroot>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 382,
+      "anchor": "fs-id1169147947981",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Find the Domain of a Radical Function",
+        "In the following exercises, find the domain of the function and write the domain in interval notation."
+      ],
+      "text": "\\(G ( x ) = 6 x - 3 5\\)",
+      "math": [
+        "G ( x ) = \\sqrt[5]{ 6 x - 3 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>G</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <mn>6</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mn>5</mn>\n          </mroot>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>G</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <mn>6</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mn>5</mn>\n          </mroot>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 383,
+      "anchor": "fs-id1169143681624",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Graph Radical Functions",
+        "In the following exercises, ⓐ find the domain of the function ⓑ graph the function ⓒ use the graph to determine the range."
+      ],
+      "text": "\\(f ( x ) = \\sqrt{ x + 1 }\\)",
+      "math": [
+        "f ( x ) = \\sqrt{ x + 1 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 384,
+      "anchor": "fs-id1169148117665",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Graph Radical Functions",
+        "In the following exercises, ⓐ find the domain of the function ⓑ graph the function ⓒ use the graph to determine the range."
+      ],
+      "text": "\\(f ( x ) = \\sqrt{ x - 1 }\\)",
+      "math": [
+        "f ( x ) = \\sqrt{ x - 1 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 385,
+      "anchor": "fs-id1169145720248",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Graph Radical Functions",
+        "In the following exercises, ⓐ find the domain of the function ⓑ graph the function ⓒ use the graph to determine the range."
+      ],
+      "text": "\\(g ( x ) = \\sqrt{ x + 4 }\\)",
+      "math": [
+        "g ( x ) = \\sqrt{ x + 4 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 386,
+      "anchor": "fs-id1169141047999",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Graph Radical Functions",
+        "In the following exercises, ⓐ find the domain of the function ⓑ graph the function ⓒ use the graph to determine the range."
+      ],
+      "text": "\\(g ( x ) = \\sqrt{ x - 4 }\\)",
+      "math": [
+        "g ( x ) = \\sqrt{ x - 4 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 387,
+      "anchor": "fs-id1169145925291",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Graph Radical Functions",
+        "In the following exercises, ⓐ find the domain of the function ⓑ graph the function ⓒ use the graph to determine the range."
+      ],
+      "text": "\\(f ( x ) = \\sqrt{ x } + 2\\)",
+      "math": [
+        "f ( x ) = \\sqrt{ x } + 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mi>x</mi>\n            </mrow>\n          </msqrt>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mi>x</mi>\n            </mrow>\n          </msqrt>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 388,
+      "anchor": "fs-id1169143637756",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Graph Radical Functions",
+        "In the following exercises, ⓐ find the domain of the function ⓑ graph the function ⓒ use the graph to determine the range."
+      ],
+      "text": "\\(f ( x ) = \\sqrt{x} - 2\\)",
+      "math": [
+        "f ( x ) = \\sqrt{x} - 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msqrt>\n            <mi>x</mi>\n          </msqrt>\n          <mo>−</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msqrt>\n            <mi>x</mi>\n          </msqrt>\n          <mo>−</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 389,
+      "anchor": "fs-id1169148096679",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Graph Radical Functions",
+        "In the following exercises, ⓐ find the domain of the function ⓑ graph the function ⓒ use the graph to determine the range."
+      ],
+      "text": "\\(g ( x ) = 2 \\sqrt{ x }\\)",
+      "math": [
+        "g ( x ) = 2 \\sqrt{ x }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>2</mn>\n          <msqrt>\n            <mrow>\n              <mi>x</mi>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>2</mn>\n          <msqrt>\n            <mrow>\n              <mi>x</mi>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 390,
+      "anchor": "fs-id1169141373780",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Graph Radical Functions",
+        "In the following exercises, ⓐ find the domain of the function ⓑ graph the function ⓒ use the graph to determine the range."
+      ],
+      "text": "\\(g ( x ) = 3 \\sqrt{x}\\)",
+      "math": [
+        "g ( x ) = 3 \\sqrt{x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>3</mn>\n          <msqrt>\n            <mi>x</mi>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>3</mn>\n          <msqrt>\n            <mi>x</mi>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 391,
+      "anchor": "fs-id1169145573813",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Graph Radical Functions",
+        "In the following exercises, ⓐ find the domain of the function ⓑ graph the function ⓒ use the graph to determine the range."
+      ],
+      "text": "\\(f ( x ) = \\sqrt{ 3 - x }\\)",
+      "math": [
+        "f ( x ) = \\sqrt{ 3 - x }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mn>3</mn>\n              <mo>−</mo>\n              <mi>x</mi>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mn>3</mn>\n              <mo>−</mo>\n              <mi>x</mi>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 392,
+      "anchor": "fs-id1169143305900",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Graph Radical Functions",
+        "In the following exercises, ⓐ find the domain of the function ⓑ graph the function ⓒ use the graph to determine the range."
+      ],
+      "text": "\\(f ( x ) = \\sqrt{ 4 - x }\\)",
+      "math": [
+        "f ( x ) = \\sqrt{ 4 - x }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mn>4</mn>\n              <mo>−</mo>\n              <mi>x</mi>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mn>4</mn>\n              <mo>−</mo>\n              <mi>x</mi>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 393,
+      "anchor": "fs-id1169143519080",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Graph Radical Functions",
+        "In the following exercises, ⓐ find the domain of the function ⓑ graph the function ⓒ use the graph to determine the range."
+      ],
+      "text": "\\(g ( x ) = - \\sqrt{ x }\\)",
+      "math": [
+        "g ( x ) = - \\sqrt{ x }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msqrt>\n            <mrow>\n              <mi>x</mi>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msqrt>\n            <mrow>\n              <mi>x</mi>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 394,
+      "anchor": "fs-id1169147797078",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Graph Radical Functions",
+        "In the following exercises, ⓐ find the domain of the function ⓑ graph the function ⓒ use the graph to determine the range."
+      ],
+      "text": "\\(g ( x ) = - \\sqrt{x} + 1\\)",
+      "math": [
+        "g ( x ) = - \\sqrt{x} + 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msqrt>\n            <mi>x</mi>\n          </msqrt>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msqrt>\n            <mi>x</mi>\n          </msqrt>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 395,
+      "anchor": "fs-id1169145977421",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Graph Radical Functions",
+        "In the following exercises, ⓐ find the domain of the function ⓑ graph the function ⓒ use the graph to determine the range."
+      ],
+      "text": "\\(f ( x ) = x + 1 3\\)",
+      "math": [
+        "f ( x ) = \\sqrt[3]{ x + 1 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 396,
+      "anchor": "fs-id1169145977667",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Graph Radical Functions",
+        "In the following exercises, ⓐ find the domain of the function ⓑ graph the function ⓒ use the graph to determine the range."
+      ],
+      "text": "\\(f ( x ) = x - 1 3\\)",
+      "math": [
+        "f ( x ) = \\sqrt[3]{ x - 1 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 397,
+      "anchor": "fs-id1169148062987",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Graph Radical Functions",
+        "In the following exercises, ⓐ find the domain of the function ⓑ graph the function ⓒ use the graph to determine the range."
+      ],
+      "text": "\\(g ( x ) = x + 2 3\\)",
+      "math": [
+        "g ( x ) = \\sqrt[3]{ x + 2 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 398,
+      "anchor": "fs-id1169147720471",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Graph Radical Functions",
+        "In the following exercises, ⓐ find the domain of the function ⓑ graph the function ⓒ use the graph to determine the range."
+      ],
+      "text": "\\(g ( x ) = x - 2 3\\)",
+      "math": [
+        "g ( x ) = \\sqrt[3]{ x - 2 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 399,
+      "anchor": "fs-id1169143316905",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Graph Radical Functions",
+        "In the following exercises, ⓐ find the domain of the function ⓑ graph the function ⓒ use the graph to determine the range."
+      ],
+      "text": "\\(f ( x ) = x 3 + 3\\)",
+      "math": [
+        "f ( x ) = \\sqrt[3]{x} + 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mroot>\n            <mi>x</mi>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mroot>\n            <mi>x</mi>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 400,
+      "anchor": "fs-id1169141376312",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Graph Radical Functions",
+        "In the following exercises, ⓐ find the domain of the function ⓑ graph the function ⓒ use the graph to determine the range."
+      ],
+      "text": "\\(f ( x ) = x 3 - 3\\)",
+      "math": [
+        "f ( x ) = \\sqrt[3]{x} - 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mroot>\n            <mi>x</mi>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mroot>\n            <mi>x</mi>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 401,
+      "anchor": "fs-id1169145579077",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Graph Radical Functions",
+        "In the following exercises, ⓐ find the domain of the function ⓑ graph the function ⓒ use the graph to determine the range."
+      ],
+      "text": "\\(g ( x ) = x 3\\)",
+      "math": [
+        "g ( x ) = \\sqrt[3]{x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mroot>\n            <mi>x</mi>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mroot>\n            <mi>x</mi>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 402,
+      "anchor": "fs-id1169147987528",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Graph Radical Functions",
+        "In the following exercises, ⓐ find the domain of the function ⓑ graph the function ⓒ use the graph to determine the range."
+      ],
+      "text": "\\(g ( x ) = - x 3\\)",
+      "math": [
+        "g ( x ) = - \\sqrt[3]{x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <mroot>\n            <mi>x</mi>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <mroot>\n            <mi>x</mi>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 403,
+      "anchor": "fs-id1169148063131",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Graph Radical Functions",
+        "In the following exercises, ⓐ find the domain of the function ⓑ graph the function ⓒ use the graph to determine the range."
+      ],
+      "text": "\\(f ( x ) = 2 x 3\\)",
+      "math": [
+        "f ( x ) = 2 \\sqrt[3]{x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>2</mn>\n          <mroot>\n            <mi>x</mi>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>2</mn>\n          <mroot>\n            <mi>x</mi>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 404,
+      "anchor": "fs-id1169147725430",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Graph Radical Functions",
+        "In the following exercises, ⓐ find the domain of the function ⓑ graph the function ⓒ use the graph to determine the range."
+      ],
+      "text": "\\(f ( x ) = -2 x 3\\)",
+      "math": [
+        "f ( x ) = -2 \\sqrt[3]{x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>−2</mn>\n          <mroot>\n            <mi>x</mi>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>−2</mn>\n          <mroot>\n            <mi>x</mi>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 405,
+      "anchor": "fs-id1169148053107",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain how to find the domain of a fourth root function.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 406,
+      "anchor": "fs-id1169148053123",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain how to find the domain of a fifth root function.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 407,
+      "anchor": "fs-id1169148053139",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain why \\(y=x3\\) is a function.",
+      "math": [
+        "y=\\sqrt[3]{x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mroot><mi>x</mi><mrow><mn>3</mn></mrow></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mroot><mi>x</mi><mrow><mn>3</mn></mrow></mroot></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 408,
+      "anchor": "fs-id1169148053168",
+      "page": "8-7-use-radicals-in-functions",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain why the process of finding the domain of a radical function with an even index is different from the process when the index is odd.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "8.135",
+      "page": "8-7-use-radicals-in-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1169147879034",
+      "context": [
+        "Evaluate a Radical Function"
+      ],
+      "text": "For the function \\(f(x)=\\sqrt{3x-2},\\) find ⓐ \\(f(6)\\) ⓑ \\(f(0).\\)",
+      "math": [
+        "f(x)=\\sqrt{3x-2},",
+        "f(6)",
+        "f(0)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>2</mn></mrow></msqrt><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>2</mn></mrow></msqrt><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mn>6</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>6</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.136",
+      "page": "8-7-use-radicals-in-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1169147765727",
+      "context": [
+        "Evaluate a Radical Function"
+      ],
+      "text": "For the function \\(g(x)=\\sqrt{5x+5},\\) find ⓐ \\(g(4)\\) ⓑ \\(g(-3).\\)",
+      "math": [
+        "g(x)=\\sqrt{5x+5},",
+        "g(4)",
+        "g(-3)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><mn>5</mn><mi>x</mi><mo>+</mo><mn>5</mn></mrow></msqrt><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><mn>5</mn><mi>x</mi><mo>+</mo><mn>5</mn></mrow></msqrt><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mn>4</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mn>4</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mrow><mn>−3</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mrow><mn>−3</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.137",
+      "page": "8-7-use-radicals-in-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1169147843527",
+      "context": [
+        "Evaluate a Radical Function"
+      ],
+      "text": "For the function \\(g(x)=3x-43,\\) find ⓐ \\(g(4)\\) ⓑ \\(g(1).\\)",
+      "math": [
+        "g(x)=\\sqrt[3]{3x-4},",
+        "g(4)",
+        "g(1)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mroot><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn></mrow><mrow><mn>3</mn></mrow></mroot><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mroot><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn></mrow><mrow><mn>3</mn></mrow></mroot><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mn>4</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mn>4</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mn>1</mn><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mn>1</mn><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.138",
+      "page": "8-7-use-radicals-in-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1169145733809",
+      "context": [
+        "Evaluate a Radical Function"
+      ],
+      "text": "For the function \\(h(x)=5x-23,\\) find ⓐ \\(h(2)\\) ⓑ \\(h(-5).\\)",
+      "math": [
+        "h(x)=\\sqrt[3]{5x-2},",
+        "h(2)",
+        "h(-5)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mroot><mrow><mn>5</mn><mi>x</mi><mo>−</mo><mn>2</mn></mrow><mrow><mn>3</mn></mrow></mroot><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mroot><mrow><mn>5</mn><mi>x</mi><mo>−</mo><mn>2</mn></mrow><mrow><mn>3</mn></mrow></mroot><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mrow><mo>(</mo><mrow><mn>−5</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mrow><mo>(</mo><mrow><mn>−5</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.139",
+      "page": "8-7-use-radicals-in-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1169145946189",
+      "context": [
+        "Evaluate a Radical Function"
+      ],
+      "text": "For the function \\(f(x)=3x+44,\\) find ⓐ \\(f(4)\\) ⓑ \\(f(-1).\\)",
+      "math": [
+        "f(x)=\\sqrt[4]{3x+4},",
+        "f(4)",
+        "f(-1)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mroot><mrow><mn>3</mn><mi>x</mi><mo>+</mo><mn>4</mn></mrow><mrow><mn>4</mn></mrow></mroot><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mroot><mrow><mn>3</mn><mi>x</mi><mo>+</mo><mn>4</mn></mrow><mrow><mn>4</mn></mrow></mroot><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mn>4</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>4</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mrow><mn>−1</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mrow><mn>−1</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.140",
+      "page": "8-7-use-radicals-in-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1169143317888",
+      "context": [
+        "Evaluate a Radical Function"
+      ],
+      "text": "For the function \\(g(x)=5x+14,\\) find ⓐ \\(g(16)\\) ⓑ \\(g(3).\\)",
+      "math": [
+        "g(x)=\\sqrt[4]{5x+1},",
+        "g(16)",
+        "g(3)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mroot><mrow><mn>5</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mroot><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mroot><mrow><mn>5</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mroot><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mrow><mn>16</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mrow><mn>16</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.141",
+      "page": "8-7-use-radicals-in-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1169145644630",
+      "context": [
+        "Find the Domain of a Radical Function"
+      ],
+      "text": "Find the domain of the function, \\(f(x)=\\sqrt{6x-5}.\\) Write the domain in interval notation.",
+      "math": [
+        "f(x)=\\sqrt{6x-5}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><mn>6</mn><mi>x</mi><mo>−</mo><mn>5</mn></mrow></msqrt><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><mn>6</mn><mi>x</mi><mo>−</mo><mn>5</mn></mrow></msqrt><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.142",
+      "page": "8-7-use-radicals-in-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1169145550678",
+      "context": [
+        "Find the Domain of a Radical Function"
+      ],
+      "text": "Find the domain of the function, \\(f(x)=\\sqrt{4-5x}.\\) Write the domain in interval notation.",
+      "math": [
+        "f(x)=\\sqrt{4-5x}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><mn>4</mn><mo>−</mo><mn>5</mn><mi>x</mi></mrow></msqrt><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><mn>4</mn><mo>−</mo><mn>5</mn><mi>x</mi></mrow></msqrt><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.143",
+      "page": "8-7-use-radicals-in-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1169147777460",
+      "context": [
+        "Find the Domain of a Radical Function"
+      ],
+      "text": "Find the domain of the function, \\(f(x)=\\sqrt{\\frac{4}{x+3}}.\\) Write the domain in interval notation.",
+      "math": [
+        "f(x)=\\sqrt{\\frac{4}{x+3}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><mfrac><mn>4</mn><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac></mrow></msqrt><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><mfrac><mn>4</mn><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac></mrow></msqrt><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.144",
+      "page": "8-7-use-radicals-in-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1169147764968",
+      "context": [
+        "Find the Domain of a Radical Function"
+      ],
+      "text": "Find the domain of the function, \\(h(x)=\\sqrt{\\frac{9}{x-5}}.\\) Write the domain in interval notation.",
+      "math": [
+        "h(x)=\\sqrt{\\frac{9}{x-5}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><mfrac><mn>9</mn><mrow><mi>x</mi><mo>−</mo><mn>5</mn></mrow></mfrac></mrow></msqrt><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><mfrac><mn>9</mn><mrow><mi>x</mi><mo>−</mo><mn>5</mn></mrow></mfrac></mrow></msqrt><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.145",
+      "page": "8-7-use-radicals-in-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1169143502868",
+      "context": [
+        "Find the Domain of a Radical Function"
+      ],
+      "text": "Find the domain of the function, \\(f(x)=3{x}^{2}-13.\\) Write the domain in interval notation.",
+      "math": [
+        "f(x)=\\sqrt[3]{3{x}^{2}-1}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mroot><mrow><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mroot><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mroot><mrow><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mroot><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.146",
+      "page": "8-7-use-radicals-in-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1169148077672",
+      "context": [
+        "Find the Domain of a Radical Function"
+      ],
+      "text": "Find the domain of the function, \\(g(x)=5x-43.\\) Write the domain in interval notation.",
+      "math": [
+        "g(x)=\\sqrt[3]{5x-4}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mroot><mrow><mn>5</mn><mi>x</mi><mo>−</mo><mn>4</mn></mrow><mrow><mn>3</mn></mrow></mroot><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mroot><mrow><mn>5</mn><mi>x</mi><mo>−</mo><mn>4</mn></mrow><mrow><mn>3</mn></mrow></mroot><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.147",
+      "page": "8-7-use-radicals-in-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1169147826840",
+      "context": [
+        "Graph Radical Functions"
+      ],
+      "text": "For the function \\(f(x)=\\sqrt{x+2},\\) ⓐ find the domain ⓑ graph the function ⓒ use the graph to determine the range.",
+      "math": [
+        "f(x)=\\sqrt{x+2},"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></msqrt><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></msqrt><mo>,</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.148",
+      "page": "8-7-use-radicals-in-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1169145731036",
+      "context": [
+        "Graph Radical Functions"
+      ],
+      "text": "For the function \\(f(x)=\\sqrt{x-2},\\) ⓐ find the domain ⓑ graph the function ⓒ use the graph to determine the range.",
+      "math": [
+        "f(x)=\\sqrt{x-2},"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow></msqrt><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msqrt><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow></msqrt><mo>,</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.149",
+      "page": "8-7-use-radicals-in-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1169147963259",
+      "context": [
+        "Graph Radical Functions"
+      ],
+      "text": "For the function \\(f(x)=-x3,\\) ⓐ find the domain ⓑ graph the function ⓒ use the graph to determine the range.",
+      "math": [
+        "f(x)=-\\sqrt[3]{x},"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mtext>−</mtext><mroot><mi>x</mi><mrow><mn>3</mn></mrow></mroot><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mtext>−</mtext><mroot><mi>x</mi><mrow><mn>3</mn></mrow></mroot><mo>,</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.150",
+      "page": "8-7-use-radicals-in-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1169147868760",
+      "context": [
+        "Graph Radical Functions"
+      ],
+      "text": "For the function \\(f(x)=x-23,\\) ⓐ find the domain ⓑ graph the function ⓒ use the graph to determine the range.",
+      "math": [
+        "f(x)=\\sqrt[3]{x-2},"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mroot><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow><mrow><mn>3</mn></mrow></mroot><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mroot><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow><mrow><mn>3</mn></mrow></mroot><mo>,</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

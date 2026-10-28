@@ -1,0 +1,1287 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/chapter-11",
+  "title": "Chapter 11",
+  "sha256": "dbbbf418446294e82b3172dabd6498678eabbd432085422bee7f084b40b35204",
+  "questions": [],
+  "practice": [],
+  "answers": {
+    "11.1": {
+      "text": "\\(d = 5\\)",
+      "math": [
+        "d = 5"
+      ]
+    },
+    "11.2": {
+      "text": "\\(d = 10\\)",
+      "math": [
+        "d = 10"
+      ]
+    },
+    "11.3": {
+      "text": "\\(d = 15\\)",
+      "math": [
+        "d = 15"
+      ]
+    },
+    "11.4": {
+      "text": "\\(d = 13\\)",
+      "math": [
+        "d = 13"
+      ]
+    },
+    "11.5": {
+      "text": "\\(d = \\sqrt{ 130 } , d ≈ 11.4\\)",
+      "math": [
+        "d = \\sqrt{ 130 } , d ≈ 11.4"
+      ]
+    },
+    "11.6": {
+      "text": "\\(d = \\sqrt{2} , d ≈ 1.4\\)",
+      "math": [
+        "d = \\sqrt{2} , d ≈ 1.4"
+      ]
+    },
+    "11.7": {
+      "text": "[FIGURA: This graph shows a line segment with endpoints (negative 3, negative 5) and (5, 7) and midpoint (1, negative 1).]",
+      "math": []
+    },
+    "11.8": {
+      "text": "[FIGURA: This graph shows a line segment with endpoints (negative 2, negative 5) and (6, negative 1) and midpoint (2, negative 3).]",
+      "math": []
+    },
+    "11.9": {
+      "text": "\\({x}^{2} + {y}^{2} = 36\\)",
+      "math": [
+        "{x}^{2} + {y}^{2} = 36"
+      ]
+    },
+    "11.10": {
+      "text": "\\({x}^{2} + {y}^{2} = 64\\)",
+      "math": [
+        "{x}^{2} + {y}^{2} = 64"
+      ]
+    },
+    "11.11": {
+      "text": "\\({ ( x - 2 ) }^{2} + { ( y + 4 ) }^{2} = 49\\)",
+      "math": [
+        "{ ( x - 2 ) }^{2} + { ( y + 4 ) }^{2} = 49"
+      ]
+    },
+    "11.12": {
+      "text": "\\({ ( x + 3 ) }^{2} + { ( y + 5 ) }^{2} = 81\\)",
+      "math": [
+        "{ ( x + 3 ) }^{2} + { ( y + 5 ) }^{2} = 81"
+      ]
+    },
+    "11.13": {
+      "text": "\\({ ( x - 2 ) }^{2} + { ( y - 1 ) }^{2} = 25\\)",
+      "math": [
+        "{ ( x - 2 ) }^{2} + { ( y - 1 ) }^{2} = 25"
+      ]
+    },
+    "11.14": {
+      "text": "\\({ ( x - 7 ) }^{2} + { ( y - 1 ) }^{2} = 100\\)",
+      "math": [
+        "{ ( x - 7 ) }^{2} + { ( y - 1 ) }^{2} = 100"
+      ]
+    },
+    "11.15": {
+      "text": "ⓐ The circle is centered at \\((3,-4)\\) with a radius of 2. ⓑ [FIGURA: This graph shows a circle with center at (3, negative 4) and a radius of 2.]",
+      "math": [
+        "(3,-4)"
+      ]
+    },
+    "11.16": {
+      "text": "ⓐ The circle is centered at \\((3,1)\\) with a radius of 4. ⓑ [FIGURA: This graph shows circle with center at (3, 1) and a radius of 4.]",
+      "math": [
+        "(3,1)"
+      ]
+    },
+    "11.17": {
+      "text": "ⓐ The circle is centered at \\((0,0)\\) with a radius of 3. ⓑ [FIGURA: This graph shows circle with center at (0, 0) and a radius of 3.]",
+      "math": [
+        "(0,0)"
+      ]
+    },
+    "11.18": {
+      "text": "ⓐ The circle is centered at \\((0,0)\\) with a radius of 5. ⓑ [FIGURA: This graph shows circle with center at (0, 0) and a radius of 5.]",
+      "math": [
+        "(0,0)"
+      ]
+    },
+    "11.19": {
+      "text": "ⓐ The circle is centered at \\((3,4)\\) with a radius of 4. ⓑ [FIGURA: This graph shows circle with center at (3, 4) and a radius of 4.]",
+      "math": [
+        "(3,4)"
+      ]
+    },
+    "11.20": {
+      "text": "ⓐ The circle is centered at \\((-3,1)\\) with a radius of 3. ⓑ [FIGURA: This graph shows circle with center at (negative 3, 1) and a radius of 3.]",
+      "math": [
+        "(-3,1)"
+      ]
+    },
+    "11.21": {
+      "text": "ⓐ The circle is centered at \\((1,0)\\) with a radius of 2. ⓑ [FIGURA: This graph shows circle with center at (1, 0) and a radius of 2.]",
+      "math": [
+        "(1,0)"
+      ]
+    },
+    "11.22": {
+      "text": "ⓐ The circle is centered at \\((0,6)\\) with a radius of 5. ⓑ [FIGURA: This graph shows circle with center at (0, 6) and a radius of 5.]",
+      "math": [
+        "(0,6)"
+      ]
+    },
+    "11.23": {
+      "text": "[FIGURA: This graph shows a parabola opening downward, with x intercepts (2, 0) and (3, 0) and y intercept (0, negative 6).]",
+      "math": []
+    },
+    "11.24": {
+      "text": "[FIGURA: This graph shows a parabola opening downward, with vertex (4, 4) and x intercepts (2, 0) and (6, 0).]",
+      "math": []
+    },
+    "11.25": {
+      "text": "ⓐ \\(y=2{(x+1)}^{2}+3\\) ⓑ [FIGURA: This graph shows a parabola opening upwards, with vertex (negative 1, 3) and y intercept (0, 5). It has the point minus (2, 5) on it.]",
+      "math": [
+        "y=2{(x+1)}^{2}+3"
+      ]
+    },
+    "11.26": {
+      "text": "ⓐ \\(y=-2{(x-2)}^{2}+1\\) ⓑ [FIGURA: This graph shows a parabola opening downwards, with vertex (2, 1) and axis of symmetry x equals 2. Its y intercept is (0, negative 7).]",
+      "math": [
+        "y=-2{(x-2)}^{2}+1"
+      ]
+    },
+    "11.27": {
+      "text": "[FIGURA: This graph shows right opening parabola with vertex at origin. Two points on it are (4, 2) and (4, negative 2).]",
+      "math": []
+    },
+    "11.28": {
+      "text": "[FIGURA: This graph shows left opening parabola with vertex at origin. Two points on it are (negative 4, 2) and (negative 4, negative 2).]",
+      "math": []
+    },
+    "11.29": {
+      "text": "[FIGURA: This graph shows left opening parabola with vertex (16, negative 2) and x intercept (12, 0).]",
+      "math": []
+    },
+    "11.30": {
+      "text": "[FIGURA: This graph shows left opening parabola with vertex (negative 2, 1) and x intercept minus (3, 0).]",
+      "math": []
+    },
+    "11.31": {
+      "text": "[FIGURA: This graph shows a parabola opening right with vertex (2, 1) and x intercept (5, 0).]",
+      "math": []
+    },
+    "11.32": {
+      "text": "[FIGURA: This graph shows a parabola opening right with vertex (2, 3) and symmetric points (4, 2) and (4, 4).]",
+      "math": []
+    },
+    "11.33": {
+      "text": "[FIGURA: This figure shows a parabola opening to the left with vertex (4, negative 2) and y intercepts (0, negative 1) and (0, negative 3).]",
+      "math": []
+    },
+    "11.34": {
+      "text": "[FIGURA: This figure shows a parabola opening to the left with vertex (2, negative 3) and y intercepts (0, negative 2) and (0, negative 4).]",
+      "math": []
+    },
+    "11.35": {
+      "text": "ⓐ \\(x=3{(y+1)}^{2}+4\\) ⓑ [FIGURA: This graph shows a parabola opening to the right with vertex (4, negative 1) and x intercept (7, 0).]",
+      "math": [
+        "x=3{(y+1)}^{2}+4"
+      ]
+    },
+    "11.36": {
+      "text": "ⓐ \\(x=-4{(y+2)}^{2}+4\\) ⓑ [FIGURA: This graph shows a parabola opening to the left with vertex (4, negative 2) and x intercept minus (12, 0).]",
+      "math": [
+        "x=-4{(y+2)}^{2}+4"
+      ]
+    },
+    "11.37": {
+      "text": "\\(y = - \\frac{1}{ 20 } { ( x - 20 ) }^{2} + 20\\)",
+      "math": [
+        "y = - \\frac{1}{ 20 } { ( x - 20 ) }^{2} + 20"
+      ]
+    },
+    "11.38": {
+      "text": "\\(y = - \\frac{1}{5} { ( x - 5 ) }^{2} + 5\\)",
+      "math": [
+        "y = - \\frac{1}{5} { ( x - 5 ) }^{2} + 5"
+      ]
+    },
+    "11.39": {
+      "text": "[FIGURA: This graph shows an ellipse with x intercepts (negative 2, 0) and (2, 0) and y intercepts (0, 4) and (0, negative 4).]",
+      "math": []
+    },
+    "11.40": {
+      "text": "[FIGURA: This graph shows an ellipse with x intercepts (negative 3, 0) and (3, 0) and y intercepts (0, 4) and (0, negative 4).]",
+      "math": []
+    },
+    "11.41": {
+      "text": "[FIGURA: This graph shows an ellipse with x intercepts (negative 4, 0) and (4, 0) and y intercepts (0, 3) and (0, negative 3).]",
+      "math": []
+    },
+    "11.42": {
+      "text": "[FIGURA: This graph shows an ellipse with x intercepts (negative 5, 0) and (5, 0) and y intercepts (0, 4) and (0, negative 4).]",
+      "math": []
+    },
+    "11.43": {
+      "text": "\\(\\frac{ {x}^{2} }{4} + \\frac{ {y}^{2} }{ 25 } = 1\\)",
+      "math": [
+        "\\frac{ {x}^{2} }{4} + \\frac{ {y}^{2} }{ 25 } = 1"
+      ]
+    },
+    "11.44": {
+      "text": "\\(\\frac{ {x}^{2} }{9} + \\frac{ {y}^{2} }{4} = 1\\)",
+      "math": [
+        "\\frac{ {x}^{2} }{9} + \\frac{ {y}^{2} }{4} = 1"
+      ]
+    },
+    "11.45": {
+      "text": "[FIGURA: This graph shows an ellipse with center at (negative 3, 5), vertices at (negative 3, 9) and (negative 3, 1) and endpoints of minor axis at (negative 5, 5) and (negative 1, 5).]",
+      "math": []
+    },
+    "11.46": {
+      "text": "[FIGURA: This graph shows an ellipse with center at 1, negative 3, vertices at (negative 4, negative 3) and (6, negative 3) and endpoints of minor axis at 1, 1) and (negative 1, negative 7).]",
+      "math": []
+    },
+    "11.47": {
+      "text": "[FIGURA: This graph shows an ellipse with center (5, negative 4), vertices (2, negative 4) and (8, negative 4) and endpoints of minor axis (5, negative 2) and (5, negative 6).]",
+      "math": []
+    },
+    "11.48": {
+      "text": "[FIGURA: This graph shows an ellipse with center (negative 6, negative 2), vertices (negative 6, 3) and (negative 6, negative 7) and endpoints of minor axis (negative 10, negative 2), and (negative 2, negative 2).]",
+      "math": []
+    },
+    "11.49": {
+      "text": "ⓐ \\(\\frac{{(x+1)}^{2}}{6}+\\frac{{(y-4)}^{2}}{9}=1\\) ⓑ [FIGURA: This graph shows an ellipse with center (negative 1, 4), vertices minus (1, 1) and (negative 1, 7) and endpoints of minor axis approximately (negative 3.5, 4) and (approximately 1.5, 4).]",
+      "math": [
+        "\\frac{{(x+1)}^{2}}{6}+\\frac{{(y-4)}^{2}}{9}=1"
+      ]
+    },
+    "11.50": {
+      "text": "ⓐ \\(\\frac{{(x-2)}^{2}}{4}+\\frac{{(y-3)}^{2}}{16}=1\\) ⓑ [FIGURA: This graph shows an ellipse with center (2, 3), vertices (2, negative 1) and (2, 7) and endpoints of minor axis (0, 3) and (4, 3).]",
+      "math": [
+        "\\frac{{(x-2)}^{2}}{4}+\\frac{{(y-3)}^{2}}{16}=1"
+      ]
+    },
+    "11.51": {
+      "text": "\\(\\frac{ {x}^{2} }{ 625 } + \\frac{ {y}^{2} }{ 600 } = 1\\)",
+      "math": [
+        "\\frac{ {x}^{2} }{ 625 } + \\frac{ {y}^{2} }{ 600 } = 1"
+      ]
+    },
+    "11.52": {
+      "text": "\\(\\frac{ {x}^{2} }{ 1225 } + \\frac{ {y}^{2} }{ 1000 } = 1\\)",
+      "math": [
+        "\\frac{ {x}^{2} }{ 1225 } + \\frac{ {y}^{2} }{ 1000 } = 1"
+      ]
+    },
+    "11.53": {
+      "text": "[FIGURA: The graph shows the x-axis and y-axis that both run in the negative and positive directions, but at unlabeled intervals, with asymptotes y is equal to plus or minus one-half times x, and branches that pass through the vertices (plus or minus 4, 0) and open left and right.]",
+      "math": []
+    },
+    "11.54": {
+      "text": "[FIGURA: The graph shows the x-axis and y-axis that both run in the negative and positive directions, but at unlabeled intervals, with asymptotes y is equal to plus or minus four-thirds times x, and branches that pass through the vertices (plus or minus 3, 0) and open left and right.]",
+      "math": []
+    },
+    "11.55": {
+      "text": "[FIGURA: The graph shows the x-axis and y-axis that both run in the negative and positive directions, but at unlabeled intervals, with asymptotes y is equal to plus or minus five-halves times x, and branches that pass through the vertices (0, plus or minus 5) and open up and down.]",
+      "math": []
+    },
+    "11.56": {
+      "text": "[FIGURA: The graph shows the x-axis and y-axis that both run in the negative and positive directions, but at unlabeled intervals, with asymptotes y is equal to plus or minus three-fifths times x, and branches that pass through the vertices (0, plus or minus 3) and open up and down.]",
+      "math": []
+    },
+    "11.57": {
+      "text": "[FIGURA: The graph shows the x-axis and y-axis that both run in the negative and positive directions, but at unlabeled intervals, with an asymptote that passes through (negative 2, negative 2) and (8, 4) and an asymptote that passes through (negative 2, 4) and (8, negative 2), and branches that pass through the vertices (negative 2, 2) and (8, 2) and opens left and right.]",
+      "math": []
+    },
+    "11.58": {
+      "text": "[FIGURA: The graph shows the x-axis and y-axis that both run in the negative and positive directions, but at unlabeled intervals, with the center (2, 2), an asymptote that passes through (0, negative 1) and (4, 5) and an asymptote that passes through (0, 5) and (4, negative 1), and branches that pass through the vertices (0, 2) and (4, 2) and opens left and right.]",
+      "math": []
+    },
+    "11.59": {
+      "text": "[FIGURA: The graph shows the x-axis and y-axis that both run in the negative and positive directions, but at unlabeled intervals, with a center at (negative 2, negative 3), an asymptote that passes through (negative 5, negative 7) and (1, 1) and an asymptote that passes through (negative 5, 1) and (1, 7), and branches that pass through the vertices (negative 2, 1) and (negative 2, negative 7) and opens up and down.]",
+      "math": []
+    },
+    "11.60": {
+      "text": "[FIGURA: The graph shows the x-axis and y-axis that both run in the negative and positive directions, but at unlabeled intervals, with a center at (negative 2, negative 2), an asymptote that passes through (negative 5, negative 5) and (1, 1) and an asymptote that passes through (negative 5, 1) and (1, negative 5), and branches that pass through the vertices (negative 2, 1) and (negative 2, negative 5) and opens up and down.]",
+      "math": []
+    },
+    "11.61": {
+      "text": "ⓐ \\(\\frac{{(x+1)}^{2}}{16}-\\frac{{(y-2)}^{2}}{9}=1\\) ⓑ [FIGURA: The graph shows the x-axis and y-axis that both run in the negative and positive directions, but at unlabeled intervals, with the center (negative 1, 2), an asymptote that passes through (negative 5, 5) and (3, negative 1) and an asymptote that passes through (3, 5) and (negative 5, negative 1), and branches that pass through the vertices (negative 5, 2) and (3, 2) and opens left and right.]",
+      "math": [
+        "\\frac{{(x+1)}^{2}}{16}-\\frac{{(y-2)}^{2}}{9}=1"
+      ]
+    },
+    "11.62": {
+      "text": "ⓐ \\(\\frac{{(x+3)}^{2}}{25}-\\frac{{(y+1)}^{2}}{16}=1\\) ⓑ [FIGURA: The graph shows the x-axis and y-axis that both run in the negative and positive directions, but at unlabeled intervals, with the center (negative 3, negative 1), an asymptote that passes through (negative 8, negative 5) and (2, 3) and an asymptote that passes through (negative 8, 3) and (2, negative 5), and branches that pass through the vertices (negative 8, negative 1) and (2, negative 1) and opens left and right.]",
+      "math": [
+        "\\frac{{(x+3)}^{2}}{25}-\\frac{{(y+1)}^{2}}{16}=1"
+      ]
+    },
+    "11.63": {
+      "text": "ⓐ circle ⓑ ellipse ⓒ parabola ⓓ hyperbola",
+      "math": []
+    },
+    "11.64": {
+      "text": "ⓐ ellipse ⓑ parabola ⓒ circle ⓓ hyperbola",
+      "math": []
+    },
+    "11.65": {
+      "text": "[FIGURA: This graph shows the equations of a system, x plus y is equal to 4 and y is equal x squared plus 2, and the x y-coordinate plane. The line has a slope of negative 1 and a y-intercept at 4. The vertex of the parabola is (0, 2) and opens upward. The line and parabola intersect at the points (negative 2, 6) and (1, 3), which are labeled.]",
+      "math": []
+    },
+    "11.66": {
+      "text": "[FIGURA: This graph shows the equations of a system, x minus y is equal to negative 1 and y is equal to negative x squared plus three, and the x y-coordinate plane. The line has a slope of 1 and a y-intercept at 1. The vertex of the parabola is (0, negative 3) and opens upward. The line and parabola intersect at the points (negative 2, negative 1) and (1, 2), which are labeled.]",
+      "math": []
+    },
+    "11.67": {
+      "text": "[FIGURA: This graph shows the equations of a system, x is equal to negative 6 and the quantity x plus 3 squared plus the quantity y minus 1 squared is equal to 9, which is a circle, on the x y-coordinate plane. The line is a vertical line. The center of the circle is (negative 3, 1) and it has a radius of 3 units. The point of intersection between the line and circle is (negative 6, 1).]",
+      "math": []
+    },
+    "11.68": {
+      "text": "[FIGURA: This graph shows the equations of a system, y is equal to negative 4 and the quantity x minus 2 squared plus the quantity y plus 3 squared is equal to 4, which is a circle, on the x y-coordinate plane. The line is a horizontal line. The center of the circle is (2, negative 3) and it has a radius of 2 units. There is no point of intersection between the line and circle, so the system has no solution.]",
+      "math": []
+    },
+    "11.69": {
+      "text": "No solution",
+      "math": []
+    },
+    "11.70": {
+      "text": "\\(( - \\frac{4}{5} , \\frac{6}{5} ) , ( 0 , 2 )\\)",
+      "math": [
+        "( - \\frac{4}{5} , \\frac{6}{5} ) , ( 0 , 2 )"
+      ]
+    },
+    "11.71": {
+      "text": "No solution",
+      "math": []
+    },
+    "11.72": {
+      "text": "\\(( \\frac{4}{9} , - \\frac{2}{3} ) , ( 1 , 1 )\\)",
+      "math": [
+        "( \\frac{4}{9} , - \\frac{2}{3} ) , ( 1 , 1 )"
+      ]
+    },
+    "11.73": {
+      "text": "\\(( -3 , 0 ) , ( 3 , 0 ) , ( -2 \\sqrt{2} , -1 ) , ( 2 \\sqrt{2} , -1 )\\)",
+      "math": [
+        "( -3 , 0 ) , ( 3 , 0 ) , ( -2 \\sqrt{2} , -1 ) , ( 2 \\sqrt{2} , -1 )"
+      ]
+    },
+    "11.74": {
+      "text": "\\(( -1 , 0 ) , ( 0 , 1 ) , ( 0 , -1 )\\)",
+      "math": [
+        "( -1 , 0 ) , ( 0 , 1 ) , ( 0 , -1 )"
+      ]
+    },
+    "11.75": {
+      "text": "\\(( -3 , -4 ) , ( -3 , 4 ) , ( 3 , -4 ) , ( 3 , 4 )\\)",
+      "math": [
+        "( -3 , -4 ) , ( -3 , 4 ) , ( 3 , -4 ) , ( 3 , 4 )"
+      ]
+    },
+    "11.76": {
+      "text": "\\(( -2 , 0 ) , ( 2 , 0 )\\)",
+      "math": [
+        "( -2 , 0 ) , ( 2 , 0 )"
+      ]
+    },
+    "11.77": {
+      "text": "4 and 6",
+      "math": []
+    },
+    "11.78": {
+      "text": "\\(-18\\) and 17",
+      "math": [
+        "-18"
+      ]
+    },
+    "11.79": {
+      "text": "If the length is 12 inches, the width is 16 inches. If the length is 16 inches, the width is 12 inches.",
+      "math": []
+    },
+    "11.80": {
+      "text": "If the length is 12 inches, the width is 9 inches. If the length is 9 inches, the width is 12 inches.",
+      "math": []
+    },
+    "1": {
+      "text": "\\(d = 5\\)",
+      "math": [
+        "d = 5"
+      ]
+    },
+    "3": {
+      "text": "13",
+      "math": []
+    },
+    "5": {
+      "text": "5",
+      "math": []
+    },
+    "7": {
+      "text": "13",
+      "math": []
+    },
+    "9": {
+      "text": "\\(d = 3 \\sqrt{5} , d ≈ 6.7\\)",
+      "math": [
+        "d = 3 \\sqrt{5} , d ≈ 6.7"
+      ]
+    },
+    "11": {
+      "text": "\\(d = 2 \\sqrt{ 17 } , d ≈ 8.2\\)",
+      "math": [
+        "d = 2 \\sqrt{ 17 } , d ≈ 8.2"
+      ]
+    },
+    "13": {
+      "text": "ⓐ Midpoint: \\((2,-4)\\) ⓑ [FIGURA: This graph shows line segment with endpoints (0, negative 5) and (4, negative 3) and midpoint (2, negative 4).]",
+      "math": [
+        "(2,-4)"
+      ]
+    },
+    "15": {
+      "text": "ⓐ Midpoint: \\((3\\frac{1}{2},-1\\frac{1}{2})\\) ⓑ [FIGURA: This graph shows line segment with endpoints (3, negative 1) and (4, negative 2) and midpoint (3 and a half, negative 1 and a half).]",
+      "math": [
+        "(3\\frac{1}{2},-1\\frac{1}{2})"
+      ]
+    },
+    "17": {
+      "text": "\\({x}^{2} + {y}^{2} = 49\\)",
+      "math": [
+        "{x}^{2} + {y}^{2} = 49"
+      ]
+    },
+    "19": {
+      "text": "\\({x}^{2} + {y}^{2} = 2\\)",
+      "math": [
+        "{x}^{2} + {y}^{2} = 2"
+      ]
+    },
+    "21": {
+      "text": "\\({ ( x - 3 ) }^{2} + { ( y - 5 ) }^{2} = 1\\)",
+      "math": [
+        "{ ( x - 3 ) }^{2} + { ( y - 5 ) }^{2} = 1"
+      ]
+    },
+    "23": {
+      "text": "\\({ ( x - 1.5 ) }^{2} + { ( y + 3.5 ) }^{2} = 6.25\\)",
+      "math": [
+        "{ ( x - 1.5 ) }^{2} + { ( y + 3.5 ) }^{2} = 6.25"
+      ]
+    },
+    "25": {
+      "text": "\\({ ( x - 3 ) }^{2} + { ( y + 2 ) }^{2} = 64\\)",
+      "math": [
+        "{ ( x - 3 ) }^{2} + { ( y + 2 ) }^{2} = 64"
+      ]
+    },
+    "27": {
+      "text": "\\({ ( x - 4 ) }^{2} + { ( y - 4 ) }^{2} = 8\\)",
+      "math": [
+        "{ ( x - 4 ) }^{2} + { ( y - 4 ) }^{2} = 8"
+      ]
+    },
+    "29": {
+      "text": "ⓐ The circle is centered at \\((-5,-3)\\) with a radius of 1. ⓑ [FIGURA: This graph shows a circle with center at (negative 5, negative 3) and a radius of 1.]",
+      "math": [
+        "(-5,-3)"
+      ]
+    },
+    "31": {
+      "text": "ⓐ The circle is centered at \\((4,-2)\\) with a radius of 4. ⓑ [FIGURA: This graph shows circle with center at (4, negative 2) and a radius of 4.]",
+      "math": [
+        "(4,-2)"
+      ]
+    },
+    "33": {
+      "text": "ⓐ The circle is centered at \\((0,-2)\\) with a radius of 5. ⓑ [FIGURA: This graph shows circle with center at (negative 2, 5) and a radius of 5.]",
+      "math": [
+        "(0,-2)"
+      ]
+    },
+    "35": {
+      "text": "ⓐ The circle is centered at \\((1.5,-2.5)\\) with a radius of \\(0.5.\\) ⓑ [FIGURA: This graph shows circle with center at (1.5, 2.5) and a radius of 0.5]",
+      "math": [
+        "(1.5,-2.5)",
+        "0.5."
+      ]
+    },
+    "37": {
+      "text": "ⓐ The circle is centered at \\((0,0)\\) with a radius of 8. ⓑ [FIGURA: This graph shows circle with center at (0, 0) and a radius of 8.]",
+      "math": [
+        "(0,0)"
+      ]
+    },
+    "39": {
+      "text": "ⓐ The circle is centered at \\((0,0)\\) with a radius of 2. ⓑ [FIGURA: This graph shows circle with center at (0, 0) and a radius of 2.]",
+      "math": [
+        "(0,0)"
+      ]
+    },
+    "41": {
+      "text": "ⓐ Center: \\((-1,-3),\\) radius: 1 ⓑ [FIGURA: This graph shows circle with center at (negative 1, negative 3) and a radius of 1.]",
+      "math": [
+        "(-1,-3),"
+      ]
+    },
+    "43": {
+      "text": "ⓐ Center: \\((2,-5),\\) radius: 6 ⓑ [FIGURA: This graph shows circle with center at (2, negative 5) and a radius of 6.]",
+      "math": [
+        "(2,-5),"
+      ]
+    },
+    "45": {
+      "text": "ⓐ Center: \\((0,-3),\\) radius: 2 ⓑ [FIGURA: This graph shows circle with center at (0, negative 3) and a radius of 2.]",
+      "math": [
+        "(0,-3),"
+      ]
+    },
+    "47": {
+      "text": "ⓐ Center: \\((-2,0),\\) radius: 2 ⓑ [FIGURA: This graph shows circle with center at (negative 2, 0) and a radius of 2.]",
+      "math": [
+        "(-2,0),"
+      ]
+    },
+    "49": {
+      "text": "Answers will vary.",
+      "math": []
+    },
+    "51": {
+      "text": "Answers will vary.",
+      "math": []
+    },
+    "53": {
+      "text": "[FIGURA: This graph shows a parabola opening downward with vertex (2, 1) and x intercepts (1, 0) and (3, 0).]",
+      "math": []
+    },
+    "55": {
+      "text": "[FIGURA: This graph shows a parabola opening upward. The vertex is (negative 0.167, negative 1.167), the x intercepts are (negative 0.608) and (negative 0.274, 0), and the y-intercept is (0, negative 1).]",
+      "math": []
+    },
+    "57": {
+      "text": "ⓐ \\(y=-{(x-1)}^{2}-3\\) ⓑ [FIGURA: This graph shows a parabola opening downward with vertex (1, negative 3) and y intercept (0, 4).]",
+      "math": [
+        "y=-{(x-1)}^{2}-3"
+      ]
+    },
+    "59": {
+      "text": "ⓐ \\(y=-2{(x+1)}^{2}-3\\) ⓑ [FIGURA: This graph shows a parabola opening downward with vertex (negative 1, negative 3) and x intercepts (negative 5, 0).]",
+      "math": [
+        "y=-2{(x+1)}^{2}-3"
+      ]
+    },
+    "61": {
+      "text": "[FIGURA: This graph shows a parabola opening to the left with vertex (0, 0). Two points on it are (negative 2, 1) and (negative 2, negative 1).]",
+      "math": []
+    },
+    "63": {
+      "text": "[FIGURA: This graph shows a parabola opening to the right with vertex (0, 0). Two points on it are (4, 1) and (4, negative 1).]",
+      "math": []
+    },
+    "65": {
+      "text": "[FIGURA: This graph shows a parabola opening to the left with vertex (4, negative 1) and y intercepts (0, 1) and (0, negative 3).]",
+      "math": []
+    },
+    "67": {
+      "text": "[FIGURA: This graph shows a parabola opening to the right with vertex (negative 1, negative 3) and y intercepts (0, negative 2) and (0, negative 4).]",
+      "math": []
+    },
+    "69": {
+      "text": "[FIGURA: This graph shows a parabola opening to the right with vertex (3, 2) and x intercept (7, 0).]",
+      "math": []
+    },
+    "71": {
+      "text": "[FIGURA: This graph shows a parabola opening to the left with vertex (2, 1) and x intercept (1, 0).]",
+      "math": []
+    },
+    "73": {
+      "text": "[FIGURA: This graph shows a parabola opening to the right with vertex (1, negative 2) and x intercept (5, 0).]",
+      "math": []
+    },
+    "75": {
+      "text": "[FIGURA: This graph shows a parabola opening to the left with vertex (2, negative 3). Two points on it are (negative 2, negative 1) and (negative 2, 5).]",
+      "math": []
+    },
+    "77": {
+      "text": "[FIGURA: This graph shows a parabola opening to the left with vertex (3, 2) and y intercepts (0, 1) and (0, 3).]",
+      "math": []
+    },
+    "79": {
+      "text": "[FIGURA: This graph shows a parabola opening to the right with vertex (negative 4, negative 1) and y intercepts (0, 0) and (0, negative 2).]",
+      "math": []
+    },
+    "81": {
+      "text": "ⓐ \\(x={(y+2)}^{2}-9\\) ⓑ [FIGURA: This graph shows a parabola opening to the right with vertex (negative 9, negative 2) and y intercepts (0, 1) and (0, negative 5).]",
+      "math": [
+        "x={(y+2)}^{2}-9"
+      ]
+    },
+    "83": {
+      "text": "ⓐ \\(x=-2{(y+3)}^{2}+2\\) ⓑ [FIGURA: This graph shows a parabola opening to the left with vertex (2, negative 3) and y intercepts (0, negative 2) and (0, negative 4).]",
+      "math": [
+        "x=-2{(y+3)}^{2}+2"
+      ]
+    },
+    "85": {
+      "text": "ⓐ",
+      "math": []
+    },
+    "87": {
+      "text": "ⓑ",
+      "math": []
+    },
+    "89": {
+      "text": "ⓓ",
+      "math": []
+    },
+    "91": {
+      "text": "\\(y = - \\frac{1}{ 15 } { ( x - 15 ) }^{2} + 15\\)",
+      "math": [
+        "y = - \\frac{1}{ 15 } { ( x - 15 ) }^{2} + 15"
+      ]
+    },
+    "93": {
+      "text": "\\(y = - \\frac{1}{ 10 } { ( x - 30 ) }^{2} + 90\\)",
+      "math": [
+        "y = - \\frac{1}{ 10 } { ( x - 30 ) }^{2} + 90"
+      ]
+    },
+    "95": {
+      "text": "Answers will vary.",
+      "math": []
+    },
+    "97": {
+      "text": "Answers will vary.",
+      "math": []
+    },
+    "99": {
+      "text": "[FIGURA: This graph shows an ellipse with center (0, 0), vertices (0, 5) and (0, negative 5) and endpoints of minor axis (2, 0) and (negative 2, 0).]",
+      "math": []
+    },
+    "101": {
+      "text": "[FIGURA: This graph shows an ellipse with center (0, 0), vertices (0, 6) and (0, negative 6) and endpoints of minor axis (5, 0) and (negative 5, 0).]",
+      "math": []
+    },
+    "103": {
+      "text": "[FIGURA: This graph shows an ellipse with center (0, 0), vertices (6, 0) and (negative 6, 0) and endpoints of minor axis (0, 4) and (0, negative 4).]",
+      "math": []
+    },
+    "105": {
+      "text": "[FIGURA: This graph shows an ellipse with center (0, 0), vertices (0, 2) and (0, negative 2) and endpoints of minor axis (1, 0) and (negative 1, 0).]",
+      "math": []
+    },
+    "107": {
+      "text": "[FIGURA: This graph shows an ellipse with center (0, 0), vertices (5, 0) and (negative 5, 0) and endpoints of minor axis (0, 2) and (0, negative 2).]",
+      "math": []
+    },
+    "109": {
+      "text": "[FIGURA: This graph shows an ellipse with center (0, 0), vertices (6, 0) and (negative 6, 0) and endpoints of minor axis (0, 4) and (0, negative 4).]",
+      "math": []
+    },
+    "111": {
+      "text": "\\(\\frac{ {x}^{2} }{9} + \\frac{ {y}^{2} }{ 25 } = 1\\)",
+      "math": [
+        "\\frac{ {x}^{2} }{9} + \\frac{ {y}^{2} }{ 25 } = 1"
+      ]
+    },
+    "113": {
+      "text": "\\(\\frac{ {x}^{2} }{9} + \\frac{ {y}^{2} }{ 16 } = 1\\)",
+      "math": [
+        "\\frac{ {x}^{2} }{9} + \\frac{ {y}^{2} }{ 16 } = 1"
+      ]
+    },
+    "115": {
+      "text": "[FIGURA: This graph shows an ellipse with center (negative 1, negative 6, vertices (negative 1, negative 1) and (negative 1, negative 11) and endpoints of minor axis (negative 3, negative 6) and (1, negative 6).]",
+      "math": []
+    },
+    "117": {
+      "text": "[FIGURA: This graph shows an ellipse with center (negative 4, 2, vertices (negative 4, 5) and (negative 4, negative 1) and endpoints of minor axis (3, 1) and (negative 6, 2) and (negative 2, 2).]",
+      "math": []
+    },
+    "119": {
+      "text": "[FIGURA: This graph shows an ellipse with center (3, 7), vertices (3, 2) and (3, 12), and endpoints of minor axis (1, 7) and (5, 7).]",
+      "math": []
+    },
+    "121": {
+      "text": "[FIGURA: This graph shows an ellipse with center (5, negative 4), vertices (5, 1) and (5, negative 9) and endpoints of minor axis (2, negative 4) and (8, negative 4).]",
+      "math": []
+    },
+    "123": {
+      "text": "ⓐ \\(\\frac{{(x-2)}^{2}}{9}+\\frac{{(y-3)}^{2}}{25}=1\\) ⓑ [FIGURA: This graph shows an ellipse with center (2, 3), vertices (2, negative 2) and (2, 8) and endpoints of minor axis (negative 1, 3) and (5, 3).]",
+      "math": [
+        "\\frac{{(x-2)}^{2}}{9}+\\frac{{(y-3)}^{2}}{25}=1"
+      ]
+    },
+    "125": {
+      "text": "ⓐ \\(\\frac{{y}^{2}}{4}+\\frac{{(x-3)}^{2}}{25}=1\\) ⓑ [FIGURA: This graph shows an ellipse with center (3, 0), vertices (negative 2, 0) and (8, 0) and endpoints of minor axis (3, 2) and (3, negative 2).]",
+      "math": [
+        "\\frac{{y}^{2}}{4}+\\frac{{(x-3)}^{2}}{25}=1"
+      ]
+    },
+    "127": {
+      "text": "[FIGURA: This graph shows a parabola with vertex (2, 1) and y intercepts (0, 0) and (2, 0).]",
+      "math": []
+    },
+    "129": {
+      "text": "[FIGURA: This graph shows a circle with center (negative 5, negative 2) and a radius of 2 units.]",
+      "math": []
+    },
+    "131": {
+      "text": "[FIGURA: This graph shows an ellipse with center (negative 3, negative 1), vertices (1, negative 1) and (negative 7, negative 1) and endpoints of minor axis (negative 3, 1) and (negative 3, negative 3).]",
+      "math": []
+    },
+    "133": {
+      "text": "[FIGURA: This graph shows an ellipse with center (0, 0), vertices (0, 6) and (0, negative 6) and endpoints of minor axis (negative 5, 0) and (5, 0).]",
+      "math": []
+    },
+    "135": {
+      "text": "[FIGURA: This graph shows circle with center (0, 0) and with radius 8 units.]",
+      "math": []
+    },
+    "137": {
+      "text": "[FIGURA: This graph shows upward opening parabola. Its vertex has an x value of slightly less than 0 and a y value of slightly less than minus 1. A point on it is approximately at (negative 1, 3).]",
+      "math": []
+    },
+    "139": {
+      "text": "\\(\\frac{ {x}^{2} }{ 400 } + \\frac{ {y}^{2} }{ 300 } = 1\\)",
+      "math": [
+        "\\frac{ {x}^{2} }{ 400 } + \\frac{ {y}^{2} }{ 300 } = 1"
+      ]
+    },
+    "141": {
+      "text": "\\(\\frac{ {x}^{2} }{ 2500 } + \\frac{ {y}^{2} }{ 1275 } = 1\\)",
+      "math": [
+        "\\frac{ {x}^{2} }{ 2500 } + \\frac{ {y}^{2} }{ 1275 } = 1"
+      ]
+    },
+    "143": {
+      "text": "Answers will vary.",
+      "math": []
+    },
+    "145": {
+      "text": "Answers will vary.",
+      "math": []
+    },
+    "147": {
+      "text": "[FIGURA: The graph shows the x-axis and y-axis that both run in the negative and positive directions, but at unlabeled intervals, with asymptotes y is equal to plus or minus two-thirds times x, and branches that pass through the vertices (plus or minus 3, 0) and open left and right.]",
+      "math": []
+    },
+    "149": {
+      "text": "[FIGURA: The graph shows the x-axis and y-axis that both run in the negative and positive directions with asymptotes y is equal to plus or minus five-fourths times x, and branches that pass through the vertices (plus or minus 4, 0) and open left and right.]",
+      "math": []
+    },
+    "151": {
+      "text": "[FIGURA: The graph shows the x-axis and y-axis that both run in the negative and positive directions with asymptotes y is equal to plus or minus five-halves times x, and branches that pass through the vertices (0, plus or minus 5) and open up and down.]",
+      "math": []
+    },
+    "153": {
+      "text": "[FIGURA: The graph shows the x-axis and y-axis that both run in the negative and positive directions with asymptotes y is equal to plus or minus three-fourths times x, and branches that pass through the vertices (0, plus or minus 3) and open up and down.]",
+      "math": []
+    },
+    "155": {
+      "text": "[FIGURA: The graph shows the x-axis and y-axis that both run in the negative and positive directions with asymptotes y is equal to plus or minus three-halves times x, and branches that pass through the vertices (0, plus or minus 3) and open up and down.]",
+      "math": []
+    },
+    "157": {
+      "text": "[FIGURA: The graph shows the x-axis and y-axis that both run in the negative and positive directions with asymptotes y is equal to plus or minus one-half times x, and branches that pass through the vertices (plus or minus 4, 0) and open left and right.]",
+      "math": []
+    },
+    "159": {
+      "text": "[FIGURA: The graph shows the x-axis and y-axis that both run in the negative and positive directions with the center (1, 3) an asymptote that passes through (negative 3, 1) and (5, 5) and an asymptote that passes through (5, 1) and (negative 3, 5), and branches that pass through the vertices (negative 3, 3) and (5, 3) and opens left and right.]",
+      "math": []
+    },
+    "161": {
+      "text": "[FIGURA: The graph shows the x-axis and y-axis that both run in the negative and positive directions with the center (1, 3) an asymptote that passes through (negative 3, 1) and (5, 5) and an asymptote that passes through (5, 1) and (negative 3, 5), and branches that pass through the vertices (negative 3, 3) and (5, 3) and opens left and right.]",
+      "math": []
+    },
+    "163": {
+      "text": "[FIGURA: The graph shows the x-axis and y-axis that both run in the negative and positive directions with the center (1, negative 4) an asymptote that passes through (negative 7, 1) and (5, negative 9) and an asymptote that passes through (5, 1) and (negative 7, negative 9), and branches that pass through the vertices (1, 1) and (1, negative 9) and open up and down.]",
+      "math": []
+    },
+    "165": {
+      "text": "[FIGURA: The graph shows the x-axis and y-axis that both run in the negative and positive directions with the center (negative 1, 4) an asymptote that passes through (4, 8) and (negative 6, 0) and an asymptote that passes through (negative 6, 8) and (4, 0), and branches that pass through the vertices (negative 1, 0) and (negative 1, 8) and open up and down.]",
+      "math": []
+    },
+    "167": {
+      "text": "[FIGURA: The graph shows the x-axis and y-axis that both run in the negative and positive directions with the center (3, negative 2) an asymptote that passes through (8, 1) and (negative 2, negative 5) and an asymptote that passes through (negative 2, negative 1) and (8, negative 5), and branches that pass through the vertices (negative 2, negative 2) and (8, negative 2) and opens left and right.]",
+      "math": []
+    },
+    "169": {
+      "text": "ⓐ \\(\\frac{{(x-1)}^{2}}{4}-\\frac{{(y-1)}^{2}}{9}=1\\) ⓑ [FIGURA: The graph shows the x-axis and y-axis that both run in the negative and positive directions with the center (1, 1) an asymptote that passes through (3, 4) and (negative 1, negative 2) and an asymptote that passes through (negative 1, 4) and (3, negative 2), and branches that pass through the vertices (negative 1, 1) and (3, 1) and opens left and right.]",
+      "math": [
+        "\\frac{{(x-1)}^{2}}{4}-\\frac{{(y-1)}^{2}}{9}=1"
+      ]
+    },
+    "171": {
+      "text": "ⓐ \\(\\frac{{(y-2)}^{2}}{9}-\\frac{{(x-1)}^{2}}{9}=1\\) ⓑ [FIGURA: The graph shows the x-axis and y-axis that both run in the negative and positive directions with the center (1, 2) an asymptote that passes through (4, 5) and (negative 2, negative 1) and an asymptote that passes through (negative 2, 5) and (4, negative 1), and branches that pass through the vertices (1, 5) and (1, negative 1) and open up and down.]",
+      "math": [
+        "\\frac{{(y-2)}^{2}}{9}-\\frac{{(x-1)}^{2}}{9}=1"
+      ]
+    },
+    "173": {
+      "text": "ⓐ \\(\\frac{{(y+1)}^{2}}{1}-\\frac{{(x+2)}^{2}}{9}=1\\) ⓑ [FIGURA: The graph shows the x-axis and y-axis that both run in the negative and positive directions with the center (negative 2, negative 1) an asymptote that passes through (1, 0) and (negative 5, negative 2) and an asymptote that passes through (3, 0) and (1, negative 2), and branches that pass through the vertices (negative 2, 0) and (negative 2, negative 2) and open up and down.]",
+      "math": [
+        "\\frac{{(y+1)}^{2}}{1}-\\frac{{(x+2)}^{2}}{9}=1"
+      ]
+    },
+    "175": {
+      "text": "ⓐ parabola ⓑ circle ⓒ hyperbola ⓓ ellipse",
+      "math": []
+    },
+    "177": {
+      "text": "[FIGURA: The graph shows the x y coordinate plane with a circle whose center is (2, negative 5) and whose radius is 6 units.]",
+      "math": []
+    },
+    "179": {
+      "text": "[FIGURA: The graph shows the x y coordinate plane with an ellipse whose major axis is vertical, vertices are (0, plus or minus 5) and co-vertices are (plus or minus 3, 0).]",
+      "math": []
+    },
+    "181": {
+      "text": "[FIGURA: The graph shows the x y coordinate plane with the center (1, 2) an asymptote that passes through (negative 2, 5) and (5, negative 1) and an asymptote that passes through (4, 5) and (2, 0), and branches that pass through the vertices (1, 5) and (negative 2, negative 1) and open up and down.]",
+      "math": []
+    },
+    "183": {
+      "text": "[FIGURA: The graph shows the x y coordinate plane with an ellipse whose major axis is vertical, vertices are (0, plus or minus 4) and co-vertices are (plus or minus 3, 0).]",
+      "math": []
+    },
+    "185": {
+      "text": "Answers will vary.",
+      "math": []
+    },
+    "187": {
+      "text": "Answers will vary.",
+      "math": []
+    },
+    "189": {
+      "text": "[FIGURA: This graph shows the equations of a system, y is equal to 6 x minus 4 which is a line and y is equal to 2 x squared which is a parabola, on the x y-coordinate plane. The vertex of the parabola is (0, 0) and the parabola opens upward. The line has a slope of 6. The line and parabola intersect at the points (1, 2) and (2, 8), which are labeled. The solutions are (1, 2) and (2, 8).]",
+      "math": []
+    },
+    "191": {
+      "text": "[FIGURA: This graph shows the equations of a system, x minus y is equal to negative 2 which is a line and x is equal to y squared which is a rightward-opening parabola, on the x y-coordinate plane. The vertex of the parabola is (0, 0) and it passes through the points (1, 1) and (1, negative 1). The line has a slope of 1 and a y-intercept at 2. The line and parabola do not intersect, so the system has no solution.]",
+      "math": []
+    },
+    "193": {
+      "text": "[FIGURA: This graph shows the equations of a system, y is x minus 1 which is a line and y is equal to x squared plus 1 which is an upward-opening parabola, on the x y-coordinate plane. The vertex of the parabola is (0, 1) and it passes through the points (negative 1, 2) and (1, 2). The line has a slope of 1 and a y-intercept at negative 1. The line and parabola do not intersect, so the system has no solution.]",
+      "math": []
+    },
+    "195": {
+      "text": "[FIGURA: This graph shows the equations of a system, x is equal to negative 2 which is a line and x squared plus y squared is equal to 16 which is a circle, on the x y-coordinate plane. The line is horizontal. The center of the circle is (0, 0) and the radius of the circle is 4. The line and circle intersect at (negative 2, 0), so the solution of the system is (negative 2, 0).]",
+      "math": []
+    },
+    "197": {
+      "text": "[FIGURA: This graph shows the equations of a system, x is equal to 2 which is a line and the quantity x minus 2 end quantity squared plus the quantity y minus 4 end quantity squared is equal to 25 which is a circle, on the x y-coordinate plane. The line is horizontal. The center of the circle is (2, 4) and the radius of the circle is 5. The line and circle intersect at (2, negative 1), so the solution of the system is (2, negative 1).]",
+      "math": []
+    },
+    "199": {
+      "text": "[FIGURA: This graph shows the equations of a system, y is equal to negative one-half x plus 2 which is a line and the y is equal to the square root of x minus 2, on the x y-coordinate plane. The curve for y is equal to the square root of x minus 2 The curve for y is equal to the square root of x plus 1 where x is greater than or equal to 0 and y is greater than or equal to negative 2. The line and square root curve intersect at (4, 0), so the solution is (4, 0).]",
+      "math": []
+    },
+    "201": {
+      "text": "\\(( -1 , 0 ) , ( 0 , 3 )\\)",
+      "math": [
+        "( -1 , 0 ) , ( 0 , 3 )"
+      ]
+    },
+    "203": {
+      "text": "\\(( 2 , 0 )\\)",
+      "math": [
+        "( 2 , 0 )"
+      ]
+    },
+    "205": {
+      "text": "\\(( 12 , -5 ) , ( 12 , 5 )\\)",
+      "math": [
+        "( 12 , -5 ) , ( 12 , 5 )"
+      ]
+    },
+    "207": {
+      "text": "No solution",
+      "math": []
+    },
+    "209": {
+      "text": "\\(( 0 , -4 ) , ( 1 , -3 )\\)",
+      "math": [
+        "( 0 , -4 ) , ( 1 , -3 )"
+      ]
+    },
+    "211": {
+      "text": "\\(( 3 , 4 ) , ( 5 , 0 )\\)",
+      "math": [
+        "( 3 , 4 ) , ( 5 , 0 )"
+      ]
+    },
+    "213": {
+      "text": "\\(( 0 , -4 ) , ( - \\sqrt{7} , 3 ) , ( \\sqrt{7} , 3 )\\)",
+      "math": [
+        "( 0 , -4 ) , ( - \\sqrt{7} , 3 ) , ( \\sqrt{7} , 3 )"
+      ]
+    },
+    "215": {
+      "text": "\\(( 0 , -2 ) , ( - \\sqrt{3} , 1 ) , ( \\sqrt{3} , 1 )\\)",
+      "math": [
+        "( 0 , -2 ) , ( - \\sqrt{3} , 1 ) , ( \\sqrt{3} , 1 )"
+      ]
+    },
+    "217": {
+      "text": "\\(( -2 , 0 ) , ( 1 , - \\sqrt{3} ) , ( 1 , \\sqrt{3} )\\)",
+      "math": [
+        "( -2 , 0 ) , ( 1 , - \\sqrt{3} ) , ( 1 , \\sqrt{3} )"
+      ]
+    },
+    "219": {
+      "text": "\\(( -2 , -4 ) , ( -2 , 4 ) , ( 2 , -4 ) , ( 2 , 4 )\\)",
+      "math": [
+        "( -2 , -4 ) , ( -2 , 4 ) , ( 2 , -4 ) , ( 2 , 4 )"
+      ]
+    },
+    "221": {
+      "text": "\\(( -4 , 0 ) , ( 4 , 0 )\\)",
+      "math": [
+        "( -4 , 0 ) , ( 4 , 0 )"
+      ]
+    },
+    "223": {
+      "text": "\\(( - \\sqrt{3} , 0 ) , ( \\sqrt{3} , 0 )\\)",
+      "math": [
+        "( - \\sqrt{3} , 0 ) , ( \\sqrt{3} , 0 )"
+      ]
+    },
+    "225": {
+      "text": "\\(( -2 , -3 ) , ( -2 , 3 ) , ( 2 , -3 ) , ( 2 , 3 )\\)",
+      "math": [
+        "( -2 , -3 ) , ( -2 , 3 ) , ( 2 , -3 ) , ( 2 , 3 )"
+      ]
+    },
+    "227": {
+      "text": "\\(( -1 , -3 ) , ( -1 , 3 ) , ( 1 , -3 ) , ( 1 , 3 )\\)",
+      "math": [
+        "( -1 , -3 ) , ( -1 , 3 ) , ( 1 , -3 ) , ( 1 , 3 )"
+      ]
+    },
+    "229": {
+      "text": "\\(-3\\) and 14",
+      "math": [
+        "-3"
+      ]
+    },
+    "231": {
+      "text": "\\(-7\\) and \\(-8\\) or 8 and 7",
+      "math": [
+        "-7",
+        "-8"
+      ]
+    },
+    "233": {
+      "text": "\\(-6\\) and \\(-4\\) or \\(-6\\) and 4 or 6 and \\(-4\\) or 6 and 4",
+      "math": [
+        "-6",
+        "-4",
+        "-6",
+        "-4"
+      ]
+    },
+    "235": {
+      "text": "If the length is 11 cm, the width is 15 cm. If the length is 15 cm, the width is 11 cm.",
+      "math": []
+    },
+    "237": {
+      "text": "If the length is 10 inches, the width is 24 inches. If the length is 24 inches, the width is 10 inches.",
+      "math": []
+    },
+    "239": {
+      "text": "The length is 40 inches and the width is 30 inches. The TV will not fit Donnette’s entertainment center.",
+      "math": []
+    },
+    "241": {
+      "text": "Answers will vary.",
+      "math": []
+    },
+    "243": {
+      "text": "Answers will vary.",
+      "math": []
+    },
+    "245": {
+      "text": "\\(d = 3\\)",
+      "math": [
+        "d = 3"
+      ]
+    },
+    "247": {
+      "text": "\\(d = \\sqrt{ 17 } , d ≈ 4.1\\)",
+      "math": [
+        "d = \\sqrt{ 17 } , d ≈ 4.1"
+      ]
+    },
+    "249": {
+      "text": "\\(( 4 , 4 )\\)",
+      "math": [
+        "( 4 , 4 )"
+      ]
+    },
+    "251": {
+      "text": "\\(( \\frac{3}{2} , - \\frac{7}{2} )\\)",
+      "math": [
+        "( \\frac{3}{2} , - \\frac{7}{2} )"
+      ]
+    },
+    "253": {
+      "text": "\\({x}^{2} + {y}^{2} = 7\\)",
+      "math": [
+        "{x}^{2} + {y}^{2} = 7"
+      ]
+    },
+    "255": {
+      "text": "\\({ ( x + 2 ) }^{2} + { ( y + 5 ) }^{2} = 49\\)",
+      "math": [
+        "{ ( x + 2 ) }^{2} + { ( y + 5 ) }^{2} = 49"
+      ]
+    },
+    "257": {
+      "text": "\\({ ( x - 2 ) }^{2} + { ( y - 2 ) }^{2} = 8\\)",
+      "math": [
+        "{ ( x - 2 ) }^{2} + { ( y - 2 ) }^{2} = 8"
+      ]
+    },
+    "259": {
+      "text": "ⓐ radius: 12, center: \\((0,0)\\) ⓑ [FIGURA: The figure shows a circle graphed on the x y coordinate plane. The x-axis of the plane runs from negative 20 to 20. The y-axis of the plane runs from negative 15 to 15. The center of the circle is (0, 0) and the radius of the circle is 12.]",
+      "math": [
+        "(0,0)"
+      ]
+    },
+    "261": {
+      "text": "ⓐ radius: 7, center: \\((-2,-5)\\) ⓑ [FIGURA: The figure shows a circle graphed on the x y coordinate plane. The x-axis of the plane runs from negative 20 to 20. The y-axis of the plane runs from negative 15 to 15. The center of the circle is (negative 2, negative 5) and the radius of the circle is 7.]",
+      "math": [
+        "(-2,-5)"
+      ]
+    },
+    "263": {
+      "text": "ⓐ radius: 8, center: \\((0,2)\\) ⓑ [FIGURA: The figure shows a circle graphed on the x y coordinate plane. The x-axis of the plane runs from negative 20 to 20. The y-axis of the plane runs from negative 15 to 15. The center of the circle is (0, 2) and the radius of the circle is 8.]",
+      "math": [
+        "(0,2)"
+      ]
+    },
+    "265": {
+      "text": "[FIGURA: The figure shows an upward-opening parabola graphed on the x y coordinate plane. The x-axis of the plane runs from negative 10 to 10. The y-axis of the plane runs from negative 7 to 7. The vertex is (negative five-halves, negative eleven-halves) and the parabola passes through the points (negative 4, negative 1) and (negative 1, negative 1).]",
+      "math": []
+    },
+    "267": {
+      "text": "[FIGURA: The figure shows a downward-opening parabola graphed on the x y coordinate plane. The x-axis of the plane runs from negative 36 to 36. The y-axis of the plane runs from negative 26 to 26. The vertex is (5, 25) and the parabola passes through the points (2, 16) and (8, 16).]",
+      "math": []
+    },
+    "269": {
+      "text": "ⓐ \\(y=2{(x-1)}^{2}-4\\) ⓑ [FIGURA: The figure shows an upward-opening parabola graphed on the x y coordinate plane. The x-axis of the plane runs from negative 22 to 22. The y-axis of the plane runs from negative 16 to 16. The vertex is (1, negative 4) and the parabola passes through the points (0, negative 2) and (2, negative 2).]",
+      "math": [
+        "y=2{(x-1)}^{2}-4"
+      ]
+    },
+    "271": {
+      "text": "ⓐ \\(y=-{(x-6)}^{2}+1\\) ⓑ [FIGURA: The figure shows a downward-opening parabola graphed on the x y coordinate plane. The x-axis of the plane runs from negative 60 to 60. The y-axis of the plane runs from negative 46 to 46. The vertex is (6, 1) and the parabola passes through the points (5, 0) and (7, 0).]",
+      "math": [
+        "y=-{(x-6)}^{2}+1"
+      ]
+    },
+    "273": {
+      "text": "[FIGURA: The figure shows a rightward-opening parabola graphed on the x y coordinate plane. The x-axis of the plane runs from negative 10 to 10. The y-axis of the plane runs from negative 8 to 8. The vertex is (4, negative 1) and the parabola passes through the points (6, 0) and (6, negative 2).]",
+      "math": []
+    },
+    "275": {
+      "text": "[FIGURA: The figure shows a leftward-opening parabola graphed on the x y coordinate plane. The x-axis of the plane runs from negative 10 to 10. The y-axis of the plane runs from negative 8 to 8. The vertex is (0, 0) and the parabola passes through the points (negative 3, 1) and (negative 3, negative 1).]",
+      "math": []
+    },
+    "277": {
+      "text": "ⓐ \\(x={(y+2)}^{2}+1\\) ⓑ [FIGURA: The figure shows a rightward-opening parabola graphed on the x y coordinate plane. The x-axis of the plane runs from negative 10 to 10. The y-axis of the plane runs from negative 8 to 8. The vertex is (1, negative 2) and the parabola passes through the points (5, 0) and (5, negative 4).]",
+      "math": [
+        "x={(y+2)}^{2}+1"
+      ]
+    },
+    "279": {
+      "text": "ⓐ \\(x=-2{(y-1)}^{2}+2\\) ⓑ [FIGURA: The figure shows a leftward-opening parabola graphed on the x y coordinate plane. The x-axis of the plane runs from negative 10 to 10. The y-axis of the plane runs from negative 8 to 8. The vertex is (2, negative 3) and the parabola passes through the points (0, 2) and (0, 0).]",
+      "math": [
+        "x=-2{(y-1)}^{2}+2"
+      ]
+    },
+    "281": {
+      "text": "\\(y = - \\frac{1}{9} {x}^{2} + \\frac{ 10 }{3} x\\)",
+      "math": [
+        "y = - \\frac{1}{9} {x}^{2} + \\frac{ 10 }{3} x"
+      ]
+    },
+    "283": {
+      "text": "[FIGURA: The figure shows an ellipse graphed on the x y coordinate plane. The x-axis of the plane runs from negative 14 to 14. The y-axis of the plane runs from negative 10 to 10. The ellipse has a center at (0, 0), a vertical major axis, vertices at (0, plus or minus 9), and co-vertices at (plus or minus 2, 0).]",
+      "math": []
+    },
+    "285": {
+      "text": "[FIGURA: The figure shows an ellipse graphed on the x y coordinate plane. The x-axis of the plane runs from negative 9 to 9. The y-axis of the plane runs from negative 7 to 7. The ellipse has a center at (0, 0), a vertical major axis, vertices at (0, plus or minus 3), and co-vertices at (plus or minus 1, 0).]",
+      "math": []
+    },
+    "287": {
+      "text": "\\(\\frac{ {x}^{2} }{ 36 } + \\frac{ {y}^{2} }{ 64 } = 1\\)",
+      "math": [
+        "\\frac{ {x}^{2} }{ 36 } + \\frac{ {y}^{2} }{ 64 } = 1"
+      ]
+    },
+    "289": {
+      "text": "[FIGURA: The figure shows an ellipse graphed on the x y coordinate plane. The x-axis of the plane runs from negative 14 to 14. The y-axis of the plane runs from negative 10 to 10. The ellipse has a center at (negative 4, negative 1), a horizontal major axis, vertices at (negative 8, negative 1) and (0, negative 1) and co-vertices at (negative 4, 2) and (negative 4, negative 4).]",
+      "math": []
+    },
+    "291": {
+      "text": "[FIGURA: The figure shows an ellipse graphed on the x y coordinate plane. The x-axis of the plane runs from negative 14 to 14. The y-axis of the plane runs from negative 10 to 10. The ellipse has a center at (negative 3, 2), a vertical major axis, vertices at (negative 3, 7) and (negative 3, negative 3) and co-vertices at (negative 6, 2) and (0, 2).]",
+      "math": []
+    },
+    "293": {
+      "text": "ⓐ \\(\\frac{{(x-3)}^{2}}{4}+\\frac{{(y-7)}^{2}}{25}=1\\) ⓑ [FIGURA: The figure shows an ellipse graphed on the x y coordinate plane. The x-axis of the plane runs from negative 18 to 18. The y-axis of the plane runs from negative 14 to 14. The ellipse has a center at (3, 7), a vertical major axis, vertices at (3, 2) and (3, 12) and co-vertices at (negative 1, 7) and (5, 7).]",
+      "math": [
+        "\\frac{{(x-3)}^{2}}{4}+\\frac{{(y-7)}^{2}}{25}=1"
+      ]
+    },
+    "295": {
+      "text": "ⓐ \\(\\frac{{x}^{2}}{9}+\\frac{{(y-7)}^{2}}{4}=1\\) ⓑ [FIGURA: The figure shows an ellipse graphed on the x y coordinate plane. The x-axis of the plane runs from negative 15 to 15. The y-axis of the plane runs from negative 11 to 11. The ellipse has a center at (0, 7), a horizontal major axis, vertices at (3, 7) and (negative 3, 7) and co-vertices at (0, 5) and (0, 9).]",
+      "math": [
+        "\\frac{{x}^{2}}{9}+\\frac{{(y-7)}^{2}}{4}=1"
+      ]
+    },
+    "297": {
+      "text": "[FIGURA: The figure shows a hyperbola graphed on the x y coordinate plane. The x-axis of the plane runs from negative 12 to 12. The y-axis of the plane runs from negative 9 to 9. The hyperbola has a center at (0, 0) and branches that pass through the vertices (plus or minus 5, 0), and that open left and right.]",
+      "math": []
+    },
+    "299": {
+      "text": "[FIGURA: The figure shows a hyperbola graphed on the x y coordinate plane. The x-axis of the plane runs from negative 19 to 19. The y-axis of the plane runs from negative 15 to 15. The hyperbola has a center at (0, 0) and branches that pass through the vertices (0, plus or minus 4), and that open up and down.]",
+      "math": []
+    },
+    "301": {
+      "text": "[FIGURA: The figure shows a hyperbola graphed on the x y coordinate plane. The x-axis of the plane runs from negative 14 to 14. The y-axis of the plane runs from negative 10 to 10. The hyperbola has a center at (negative 1, negative 1) and branches that pass through the vertices (negative 3, negative 1) and (1, negative 1), and that open left and right.]",
+      "math": []
+    },
+    "303": {
+      "text": "[FIGURA: The figure shows a hyperbola graphed on the x y coordinate plane. The x-axis of the plane runs from negative 14 to 14. The y-axis of the plane runs from negative 10 to 10. The hyperbola has a center at (negative 1, negative 2) and branches that pass through the vertices (negative 1, 1) and (negative 1, negative 5), and that open up and down.]",
+      "math": []
+    },
+    "305": {
+      "text": "ⓐ \\(\\frac{{(x+1)}^{2}}{16}-\\frac{{(y-3)}^{2}}{4}=1\\) ⓑ [FIGURA: The figure shows a hyperbola graphed on the x y coordinate plane. The x-axis of the plane runs from negative 14 to 14. The y-axis of the plane runs from negative 10 to 10. The hyperbola has a center at (negative 1, 3) and branches that pass through the vertices (negative 5, 3) and (3, 3), and that open left and right.]",
+      "math": [
+        "\\frac{{(x+1)}^{2}}{16}-\\frac{{(y-3)}^{2}}{4}=1"
+      ]
+    },
+    "307": {
+      "text": "ⓐ \\(\\frac{{(y-1)}^{2}}{16}-\\frac{{(x-1)}^{2}}{4}=1\\) ⓑ [FIGURA: The figure shows a hyperbola graphed on the x y coordinate plane. The x-axis of the plane runs from negative 14 to 14. The y-axis of the plane runs from negative 10 to 10. The hyperbola has a center at (1, 1) and branches that pass through the vertices (1, negative 3) and (1, 5), and that open up and down.]",
+      "math": [
+        "\\frac{{(y-1)}^{2}}{16}-\\frac{{(x-1)}^{2}}{4}=1"
+      ]
+    },
+    "309": {
+      "text": "ⓐ hyperbola ⓑ circle ⓒ parabola ⓓ ellipse",
+      "math": []
+    },
+    "311": {
+      "text": "[FIGURA: The figure shows a parabola and line graphed on the x y coordinate plane. The x-axis of the plane runs from negative 5 to 5. The y-axis of the plane runs from negative 4 to 4. The parabola has a vertex at (0, 0) and opens upward. The line has a slope of 2 with a y-intercept at negative 1. The parabola and line do not intersect, so the system has no solution.]",
+      "math": []
+    },
+    "313": {
+      "text": "[FIGURA: The figure shows a circle and line graphed on the x y coordinate plane. The x-axis of the plane runs from negative 20 to 20. The y-axis of the plane runs from negative 15 to 15. The circle has a center at (0, 0) and a radius of 13. The line is vertical. The circle and line intersect at the points (12, 5) and (12, negative 5), which are labeled. The solution of the system is (12, 5) and (12, negative 5)]",
+      "math": []
+    },
+    "315": {
+      "text": "\\(( -1 , 4 )\\)",
+      "math": [
+        "( -1 , 4 )"
+      ]
+    },
+    "317": {
+      "text": "No solution",
+      "math": []
+    },
+    "319": {
+      "text": "\\(( - \\sqrt{7} , 3 ) , ( \\sqrt{7} , 3 )\\)",
+      "math": [
+        "( - \\sqrt{7} , 3 ) , ( \\sqrt{7} , 3 )"
+      ]
+    },
+    "321": {
+      "text": "\\(( -3 , 0 ) , ( 0 , -2 ) , ( 0 , 2 )\\)",
+      "math": [
+        "( -3 , 0 ) , ( 0 , -2 ) , ( 0 , 2 )"
+      ]
+    },
+    "323": {
+      "text": "\\(-3\\) and \\(-4\\) or 4 and 3",
+      "math": [
+        "-3",
+        "-4"
+      ]
+    },
+    "325": {
+      "text": "If the length is 14 inches, the width is 15 inches. If the length is 15 inches, the width is 14 inches.",
+      "math": []
+    },
+    "327": {
+      "text": "distance: 10, midpoint: \\((-7,-7)\\)",
+      "math": [
+        "(-7,-7)"
+      ]
+    },
+    "329": {
+      "text": "\\({x}^{2} + {y}^{2} = 121\\)",
+      "math": [
+        "{x}^{2} + {y}^{2} = 121"
+      ]
+    },
+    "331": {
+      "text": "\\({ ( x + 2 ) }^{2} + { ( y - 3 ) }^{2} = 52\\)",
+      "math": [
+        "{ ( x + 2 ) }^{2} + { ( y - 3 ) }^{2} = 52"
+      ]
+    },
+    "333": {
+      "text": "ⓐ ellipse ⓑ [FIGURA: The figure shows an ellipse graphed on the x y coordinate plane. The x-axis of the plane runs from negative 10 to 10. The y-axis of the plane runs from negative 8 to 8. The ellipse has a center at (0, 0), a horizontal major axis, vertices at (plus or minus 7, 0) and co-vertices at (0, plus or minus 2).]",
+      "math": []
+    },
+    "335": {
+      "text": "ⓐ circle ⓑ [FIGURA: The figure shows a circle graphed on the x y coordinate plane. The x-axis of the plane runs from negative 10 to 10. The y-axis of the plane runs from negative 8 to 8. The parabola circle has a center at (0, 0) and a radius of 3.]",
+      "math": []
+    },
+    "337": {
+      "text": "ⓐ ellipse ⓑ [FIGURA: The figure shows an ellipse graphed on the x y coordinate plane. The x-axis of the plane runs from negative 14 to 14. The y-axis of the plane runs from negative 10 to 10. The ellipse has a center at (0, 0), a vertical major axis, vertices at (0, plus or minus 9) and co-vertices at (plus or minus 4, 0).]",
+      "math": []
+    },
+    "339": {
+      "text": "ⓐ hyperbola ⓑ [FIGURA: The figure shows a hyperbola graphed on the x y coordinate plane. The x-axis of the plane runs from negative 10 to 10. The y-axis of the plane runs from negative 8 to 8. The hyperbola has a center at (0, 0) and branches that pass through the vertices (plus or minus 3, 0) and that open left and right.]",
+      "math": []
+    },
+    "341": {
+      "text": "ⓐ circle ⓑ \\({(x+5)}^{2}+{(y+3)}^{2}=4\\) ⓒ [FIGURA: The figure shows a circle graphed on the x y coordinate plane. The x-axis of the plane runs from negative 14 to 14. The y-axis of the plane runs from negative 10 to 10. The circle has a center at (negative 5, negative 3) and a radius 2.]",
+      "math": [
+        "{(x+5)}^{2}+{(y+3)}^{2}=4"
+      ]
+    },
+    "343": {
+      "text": "ⓐ hyperbola ⓑ \\(\\frac{{(x-2)}^{2}}{25}-\\frac{{(y+1)}^{2}}{9}=1\\) ⓒ [FIGURA: The figure shows a hyperbola graphed on the x y coordinate plane. The x-axis of the plane runs from negative 14 to 14. The y-axis of the plane runs from negative 10 to 10. The hyperbola has a center at (2, negative 1) and branches that pass through the vertices (negative 3, negative 1) and (7, negative 1) that open left and right.]",
+      "math": [
+        "\\frac{{(x-2)}^{2}}{25}-\\frac{{(y+1)}^{2}}{9}=1"
+      ]
+    },
+    "345": {
+      "text": "No solution [FIGURA: A graph displays a downward-sloping line and a parabola opening to the right, both intersecting at the origin (0,0) on a Cartesian coordinate system.]",
+      "math": []
+    },
+    "347": {
+      "text": "\\(( 3 , 0 ) , ( -3 , 0 )\\)",
+      "math": [
+        "( 3 , 0 ) , ( -3 , 0 )"
+      ]
+    },
+    "349": {
+      "text": "\\(\\frac{ {x}^{2} }{ 2025 } + \\frac{ {y}^{2} }{ 1400 } = 1\\)",
+      "math": [
+        "\\frac{ {x}^{2} }{ 2025 } + \\frac{ {y}^{2} }{ 1400 } = 1"
+      ]
+    },
+    "351": {
+      "text": "The length is 44 inches and the width is 33 inches. The TV will fit Olive’s entertainment center.",
+      "math": []
+    }
+  }
+}

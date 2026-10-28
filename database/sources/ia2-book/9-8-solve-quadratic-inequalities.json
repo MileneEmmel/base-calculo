@@ -1,0 +1,712 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/9-8-solve-quadratic-inequalities",
+  "title": "9.8 Solve Quadratic Inequalities",
+  "sha256": "479ced6dcf3f2a9125fa67b8d2a0f67d4f0a5deadf0560c8c0ccdd1aa9ccb798",
+  "questions": [
+    {
+      "number": 363,
+      "anchor": "fs-id1169146731344",
+      "page": "9-8-solve-quadratic-inequalities",
+      "context": [
+        "Solve Quadratic Inequalities Graphically",
+        "In the following exercises, ⓐ solve graphically and ⓑ write the solution in interval notation."
+      ],
+      "text": "\\({x}^{2} + 6 x + 5 > 0\\)",
+      "math": [
+        "{x}^{2} + 6 x + 5 > 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mo>&gt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mo>&gt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 364,
+      "anchor": "fs-id1169149375310",
+      "page": "9-8-solve-quadratic-inequalities",
+      "context": [
+        "Solve Quadratic Inequalities Graphically",
+        "In the following exercises, ⓐ solve graphically and ⓑ write the solution in interval notation."
+      ],
+      "text": "\\({x}^{2} + 4 x - 12 < 0\\)",
+      "math": [
+        "{x}^{2} + 4 x - 12 < 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>12</mn>\n          <mo>&lt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>12</mn>\n          <mo>&lt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 365,
+      "anchor": "fs-id1169148851196",
+      "page": "9-8-solve-quadratic-inequalities",
+      "context": [
+        "Solve Quadratic Inequalities Graphically",
+        "In the following exercises, ⓐ solve graphically and ⓑ write the solution in interval notation."
+      ],
+      "text": "\\({x}^{2} + 4 x + 3 ≤ 0\\)",
+      "math": [
+        "{x}^{2} + 4 x + 3 \\le 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mo>≤</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mo>≤</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 366,
+      "anchor": "fs-id1169149222448",
+      "page": "9-8-solve-quadratic-inequalities",
+      "context": [
+        "Solve Quadratic Inequalities Graphically",
+        "In the following exercises, ⓐ solve graphically and ⓑ write the solution in interval notation."
+      ],
+      "text": "\\({x}^{2} - 6 x + 8 ≥ 0\\)",
+      "math": [
+        "{x}^{2} - 6 x + 8 \\ge 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mo>≥</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mo>≥</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 367,
+      "anchor": "fs-id1169146642948",
+      "page": "9-8-solve-quadratic-inequalities",
+      "context": [
+        "Solve Quadratic Inequalities Graphically",
+        "In the following exercises, ⓐ solve graphically and ⓑ write the solution in interval notation."
+      ],
+      "text": "\\(- {x}^{2} - 3 x + 18 ≤ 0\\)",
+      "math": [
+        "- {x}^{2} - 3 x + 18 \\le 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>18</mn>\n          <mo>≤</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>18</mn>\n          <mo>≤</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 368,
+      "anchor": "fs-id1169149029983",
+      "page": "9-8-solve-quadratic-inequalities",
+      "context": [
+        "Solve Quadratic Inequalities Graphically",
+        "In the following exercises, ⓐ solve graphically and ⓑ write the solution in interval notation."
+      ],
+      "text": "\\(- {x}^{2} + 2 x + 24 < 0\\)",
+      "math": [
+        "- {x}^{2} + 2 x + 24 < 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>24</mn>\n          <mo>&lt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>24</mn>\n          <mo>&lt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 369,
+      "anchor": "fs-id1169148880298",
+      "page": "9-8-solve-quadratic-inequalities",
+      "context": [
+        "Solve Quadratic Inequalities Graphically",
+        "In the following exercises, ⓐ solve graphically and ⓑ write the solution in interval notation."
+      ],
+      "text": "\\(- {x}^{2} + x + 12 ≥ 0\\)",
+      "math": [
+        "- {x}^{2} + x + 12 \\ge 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mo>≥</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mo>≥</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 370,
+      "anchor": "fs-id1169147029171",
+      "page": "9-8-solve-quadratic-inequalities",
+      "context": [
+        "Solve Quadratic Inequalities Graphically",
+        "In the following exercises, ⓐ solve graphically and ⓑ write the solution in interval notation."
+      ],
+      "text": "\\(- {x}^{2} + 2 x + 15 > 0\\)",
+      "math": [
+        "- {x}^{2} + 2 x + 15 > 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>15</mn>\n          <mo>&gt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>15</mn>\n          <mo>&gt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 371,
+      "anchor": "fs-id1169148992200",
+      "page": "9-8-solve-quadratic-inequalities",
+      "context": [
+        "In the following exercises, ⓐ solve graphically and ⓑ write the solution in interval notation.",
+        "In the following exercises, solve each inequality algebraically and write any solution in interval notation."
+      ],
+      "text": "\\({x}^{2} + 3 x - 4 ≥ 0\\)",
+      "math": [
+        "{x}^{2} + 3 x - 4 \\ge 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mo>≥</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mo>≥</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 372,
+      "anchor": "fs-id1169149113889",
+      "page": "9-8-solve-quadratic-inequalities",
+      "context": [
+        "In the following exercises, ⓐ solve graphically and ⓑ write the solution in interval notation.",
+        "In the following exercises, solve each inequality algebraically and write any solution in interval notation."
+      ],
+      "text": "\\({x}^{2} + x - 6 ≤ 0\\)",
+      "math": [
+        "{x}^{2} + x - 6 \\le 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mo>≤</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mo>≤</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 373,
+      "anchor": "fs-id1169149370800",
+      "page": "9-8-solve-quadratic-inequalities",
+      "context": [
+        "In the following exercises, ⓐ solve graphically and ⓑ write the solution in interval notation.",
+        "In the following exercises, solve each inequality algebraically and write any solution in interval notation."
+      ],
+      "text": "\\({x}^{2} - 7 x + 10 < 0\\)",
+      "math": [
+        "{x}^{2} - 7 x + 10 < 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>7</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>10</mn>\n          <mo>&lt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>7</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>10</mn>\n          <mo>&lt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 374,
+      "anchor": "fs-id1169148878510",
+      "page": "9-8-solve-quadratic-inequalities",
+      "context": [
+        "In the following exercises, ⓐ solve graphically and ⓑ write the solution in interval notation.",
+        "In the following exercises, solve each inequality algebraically and write any solution in interval notation."
+      ],
+      "text": "\\({x}^{2} - 4 x + 3 > 0\\)",
+      "math": [
+        "{x}^{2} - 4 x + 3 > 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mo>&gt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mo>&gt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 375,
+      "anchor": "fs-id1169149303922",
+      "page": "9-8-solve-quadratic-inequalities",
+      "context": [
+        "In the following exercises, ⓐ solve graphically and ⓑ write the solution in interval notation.",
+        "In the following exercises, solve each inequality algebraically and write any solution in interval notation."
+      ],
+      "text": "\\({x}^{2} + 8 x > - 15\\)",
+      "math": [
+        "{x}^{2} + 8 x > - 15"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>&gt;</mo>\n          <mo>−</mo>\n          <mn>15</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>&gt;</mo>\n          <mo>−</mo>\n          <mn>15</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 376,
+      "anchor": "fs-id1169148956652",
+      "page": "9-8-solve-quadratic-inequalities",
+      "context": [
+        "In the following exercises, ⓐ solve graphically and ⓑ write the solution in interval notation.",
+        "In the following exercises, solve each inequality algebraically and write any solution in interval notation."
+      ],
+      "text": "\\({x}^{2} + 8 x < - 12\\)",
+      "math": [
+        "{x}^{2} + 8 x < - 12"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>&lt;</mo>\n          <mo>−</mo>\n          <mn>12</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>&lt;</mo>\n          <mo>−</mo>\n          <mn>12</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 377,
+      "anchor": "fs-id1169149100890",
+      "page": "9-8-solve-quadratic-inequalities",
+      "context": [
+        "In the following exercises, ⓐ solve graphically and ⓑ write the solution in interval notation.",
+        "In the following exercises, solve each inequality algebraically and write any solution in interval notation."
+      ],
+      "text": "\\({x}^{2} - 4 x + 2 ≤ 0\\)",
+      "math": [
+        "{x}^{2} - 4 x + 2 \\le 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>≤</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>≤</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 378,
+      "anchor": "fs-id1169146741668",
+      "page": "9-8-solve-quadratic-inequalities",
+      "context": [
+        "In the following exercises, ⓐ solve graphically and ⓑ write the solution in interval notation.",
+        "In the following exercises, solve each inequality algebraically and write any solution in interval notation."
+      ],
+      "text": "\\(- {x}^{2} + 8 x - 11 < 0\\)",
+      "math": [
+        "- {x}^{2} + 8 x - 11 < 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>11</mn>\n          <mo>&lt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>11</mn>\n          <mo>&lt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 379,
+      "anchor": "fs-id1169148983875",
+      "page": "9-8-solve-quadratic-inequalities",
+      "context": [
+        "In the following exercises, ⓐ solve graphically and ⓑ write the solution in interval notation.",
+        "In the following exercises, solve each inequality algebraically and write any solution in interval notation."
+      ],
+      "text": "\\({x}^{2} - 10 x > - 19\\)",
+      "math": [
+        "{x}^{2} - 10 x > - 19"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>10</mn>\n          <mi>x</mi>\n          <mo>&gt;</mo>\n          <mo>−</mo>\n          <mn>19</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>10</mn>\n          <mi>x</mi>\n          <mo>&gt;</mo>\n          <mo>−</mo>\n          <mn>19</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 380,
+      "anchor": "fs-id1169148885396",
+      "page": "9-8-solve-quadratic-inequalities",
+      "context": [
+        "In the following exercises, ⓐ solve graphically and ⓑ write the solution in interval notation.",
+        "In the following exercises, solve each inequality algebraically and write any solution in interval notation."
+      ],
+      "text": "\\({x}^{2} + 6 x < - 3\\)",
+      "math": [
+        "{x}^{2} + 6 x < - 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>&lt;</mo>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>&lt;</mo>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 381,
+      "anchor": "fs-id1169149123398",
+      "page": "9-8-solve-quadratic-inequalities",
+      "context": [
+        "In the following exercises, ⓐ solve graphically and ⓑ write the solution in interval notation.",
+        "In the following exercises, solve each inequality algebraically and write any solution in interval notation."
+      ],
+      "text": "\\(-6 {x}^{2} + 19 x - 10 ≥ 0\\)",
+      "math": [
+        "-6 {x}^{2} + 19 x - 10 \\ge 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−6</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>19</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>10</mn>\n          <mo>≥</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−6</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>19</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>10</mn>\n          <mo>≥</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 382,
+      "anchor": "fs-id1169148989556",
+      "page": "9-8-solve-quadratic-inequalities",
+      "context": [
+        "In the following exercises, ⓐ solve graphically and ⓑ write the solution in interval notation.",
+        "In the following exercises, solve each inequality algebraically and write any solution in interval notation."
+      ],
+      "text": "\\(-3 {x}^{2} - 4 x + 4 ≤ 0\\)",
+      "math": [
+        "-3 {x}^{2} - 4 x + 4 \\le 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mo>≤</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mo>≤</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 383,
+      "anchor": "fs-id1169149093113",
+      "page": "9-8-solve-quadratic-inequalities",
+      "context": [
+        "In the following exercises, ⓐ solve graphically and ⓑ write the solution in interval notation.",
+        "In the following exercises, solve each inequality algebraically and write any solution in interval notation."
+      ],
+      "text": "\\(-2 {x}^{2} + 7 x + 4 ≥ 0\\)",
+      "math": [
+        "-2 {x}^{2} + 7 x + 4 \\ge 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mo>≥</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mo>≥</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 384,
+      "anchor": "fs-id1169148996604",
+      "page": "9-8-solve-quadratic-inequalities",
+      "context": [
+        "In the following exercises, ⓐ solve graphically and ⓑ write the solution in interval notation.",
+        "In the following exercises, solve each inequality algebraically and write any solution in interval notation."
+      ],
+      "text": "\\(2 {x}^{2} + 5 x - 12 > 0\\)",
+      "math": [
+        "2 {x}^{2} + 5 x - 12 > 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>12</mn>\n          <mo>&gt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>12</mn>\n          <mo>&gt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 385,
+      "anchor": "fs-id1169149011049",
+      "page": "9-8-solve-quadratic-inequalities",
+      "context": [
+        "In the following exercises, ⓐ solve graphically and ⓑ write the solution in interval notation.",
+        "In the following exercises, solve each inequality algebraically and write any solution in interval notation."
+      ],
+      "text": "\\({x}^{2} + 3 x + 5 > 0\\)",
+      "math": [
+        "{x}^{2} + 3 x + 5 > 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mo>&gt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mo>&gt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 386,
+      "anchor": "fs-id1169148862364",
+      "page": "9-8-solve-quadratic-inequalities",
+      "context": [
+        "In the following exercises, ⓐ solve graphically and ⓑ write the solution in interval notation.",
+        "In the following exercises, solve each inequality algebraically and write any solution in interval notation."
+      ],
+      "text": "\\({x}^{2} - 3 x + 6 ≤ 0\\)",
+      "math": [
+        "{x}^{2} - 3 x + 6 \\le 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mo>≤</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mo>≤</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 387,
+      "anchor": "fs-id1169148988479",
+      "page": "9-8-solve-quadratic-inequalities",
+      "context": [
+        "In the following exercises, ⓐ solve graphically and ⓑ write the solution in interval notation.",
+        "In the following exercises, solve each inequality algebraically and write any solution in interval notation."
+      ],
+      "text": "\\(- {x}^{2} + x - 7 > 0\\)",
+      "math": [
+        "- {x}^{2} + x - 7 > 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>7</mn>\n          <mo>&gt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>7</mn>\n          <mo>&gt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 388,
+      "anchor": "fs-id1169147107055",
+      "page": "9-8-solve-quadratic-inequalities",
+      "context": [
+        "In the following exercises, ⓐ solve graphically and ⓑ write the solution in interval notation.",
+        "In the following exercises, solve each inequality algebraically and write any solution in interval notation."
+      ],
+      "text": "\\(- {x}^{2} - 4 x - 5 < 0\\)",
+      "math": [
+        "- {x}^{2} - 4 x - 5 < 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mo>&lt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mo>&lt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 389,
+      "anchor": "fs-id1169144564505",
+      "page": "9-8-solve-quadratic-inequalities",
+      "context": [
+        "In the following exercises, ⓐ solve graphically and ⓑ write the solution in interval notation.",
+        "In the following exercises, solve each inequality algebraically and write any solution in interval notation."
+      ],
+      "text": "\\(-2 {x}^{2} + 8 x - 10 < 0\\)",
+      "math": [
+        "-2 {x}^{2} + 8 x - 10 < 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>10</mn>\n          <mo>&lt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>10</mn>\n          <mo>&lt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 390,
+      "anchor": "fs-id1169146655785",
+      "page": "9-8-solve-quadratic-inequalities",
+      "context": [
+        "In the following exercises, ⓐ solve graphically and ⓑ write the solution in interval notation.",
+        "In the following exercises, solve each inequality algebraically and write any solution in interval notation."
+      ],
+      "text": "\\(- {x}^{2} + 2 x - 7 ≥ 0\\)",
+      "math": [
+        "- {x}^{2} + 2 x - 7 \\ge 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>7</mn>\n          <mo>≥</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>7</mn>\n          <mo>≥</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 391,
+      "anchor": "fs-id1169149095709",
+      "page": "9-8-solve-quadratic-inequalities",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain zero partition numbers and how they are used to solve quadratic inequalities algebraically.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 392,
+      "anchor": "fs-id1169144563561",
+      "page": "9-8-solve-quadratic-inequalities",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Solve \\({x}^{2}+2x≥8\\) both graphically and algebraically. Which method do you prefer, and why?",
+      "math": [
+        "{x}^{2}+2x\\ge 8"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>≥</mo><mn>8</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>≥</mo><mn>8</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 393,
+      "anchor": "fs-id1169148957614",
+      "page": "9-8-solve-quadratic-inequalities",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Describe the steps needed to solve a quadratic inequality graphically.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 394,
+      "anchor": "fs-id1169148987788",
+      "page": "9-8-solve-quadratic-inequalities",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Describe the steps needed to solve a quadratic inequality algebraically.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "9.127",
+      "page": "9-8-solve-quadratic-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1169146622094",
+      "context": [
+        "Solve Quadratic Inequalities Graphically"
+      ],
+      "text": "ⓐ Solve \\({x}^{2}+2x-8<0\\) graphically and ⓑ write the solution in interval notation.",
+      "math": [
+        "{x}^{2}+2x-8<0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>8</mn><mo>&lt;</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>8</mn><mo>&lt;</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.128",
+      "page": "9-8-solve-quadratic-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1169149346432",
+      "context": [
+        "Solve Quadratic Inequalities Graphically"
+      ],
+      "text": "ⓐ Solve \\({x}^{2}-8x+12≥0\\) graphically and ⓑ write the solution in interval notation.",
+      "math": [
+        "{x}^{2}-8x+12\\ge 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>8</mn><mi>x</mi><mo>+</mo><mn>12</mn><mo>≥</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>8</mn><mi>x</mi><mo>+</mo><mn>12</mn><mo>≥</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.129",
+      "page": "9-8-solve-quadratic-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1169148862433",
+      "context": [
+        "Solve Quadratic Inequalities Graphically"
+      ],
+      "text": "ⓐ Solve \\(-{x}^{2}-6x-5>0\\) graphically and ⓑ write the solution in interval notation.",
+      "math": [
+        "-{x}^{2}-6x-5>0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>−</mtext><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>6</mn><mi>x</mi><mo>−</mo><mn>5</mn><mo>&gt;</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>−</mtext><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>6</mn><mi>x</mi><mo>−</mo><mn>5</mn><mo>&gt;</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.130",
+      "page": "9-8-solve-quadratic-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1169148821286",
+      "context": [
+        "Solve Quadratic Inequalities Graphically"
+      ],
+      "text": "ⓐ Solve \\(-{x}^{2}+10x-16≤0\\) graphically and ⓑ write the solution in interval notation.",
+      "math": [
+        "-{x}^{2}+10x-16\\le 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>−</mtext><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>10</mn><mi>x</mi><mo>−</mo><mn>16</mn><mo>≤</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>−</mtext><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>10</mn><mi>x</mi><mo>−</mo><mn>16</mn><mo>≤</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.131",
+      "page": "9-8-solve-quadratic-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1169148878663",
+      "context": [
+        "Solve Quadratic Inequalities Algebraically"
+      ],
+      "text": "Solve \\({x}^{2}+2x-8≥0\\) algebraically. Write the solution in interval notation.",
+      "math": [
+        "{x}^{2}+2x-8\\ge 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>8</mn><mo>≥</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>8</mn><mo>≥</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.132",
+      "page": "9-8-solve-quadratic-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1169148898510",
+      "context": [
+        "Solve Quadratic Inequalities Algebraically"
+      ],
+      "text": "Solve \\({x}^{2}-2x-15≤0\\) algebraically. Write the solution in interval notation.",
+      "math": [
+        "{x}^{2}-2x-15\\le 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>15</mn><mo>≤</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>15</mn><mo>≤</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.133",
+      "page": "9-8-solve-quadratic-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1169148974557",
+      "context": [
+        "Solve Quadratic Inequalities Algebraically"
+      ],
+      "text": "Solve \\(-{x}^{2}+2x+1≥0\\) algebraically. Write the solution in interval notation.",
+      "math": [
+        "-{x}^{2}+2x+1\\ge 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>−</mtext><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn><mo>≥</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>−</mtext><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn><mo>≥</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.134",
+      "page": "9-8-solve-quadratic-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1169149122051",
+      "context": [
+        "Solve Quadratic Inequalities Algebraically"
+      ],
+      "text": "Solve \\(-{x}^{2}+8x-14<0\\) algebraically. Write the solution in interval notation.",
+      "math": [
+        "-{x}^{2}+8x-14<0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>−</mtext><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><mi>x</mi><mo>−</mo><mn>14</mn><mo>&lt;</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>−</mtext><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><mi>x</mi><mo>−</mo><mn>14</mn><mo>&lt;</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.135",
+      "page": "9-8-solve-quadratic-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1169148891264",
+      "context": [
+        "Solve Quadratic Inequalities Algebraically"
+      ],
+      "text": "Solve and write any solution in interval notation:ⓐ \\(-{x}^{2}+2x-4≤0\\) ⓑ \\(-{x}^{2}+2x-4≥0\\)",
+      "math": [
+        "-{x}^{2}+2x-4\\le 0",
+        "-{x}^{2}+2x-4\\ge 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>−</mtext><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>4</mn><mo>≤</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>−</mtext><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>4</mn><mo>≤</mo><mn>0</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>−</mtext><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>4</mn><mo>≥</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>−</mtext><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>4</mn><mo>≥</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.136",
+      "page": "9-8-solve-quadratic-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1169148964170",
+      "context": [
+        "Solve Quadratic Inequalities Algebraically"
+      ],
+      "text": "Solve and write any solution in interval notation:ⓐ \\({x}^{2}+3x+3<0\\) ⓑ \\({x}^{2}+3x+3>0\\)",
+      "math": [
+        "{x}^{2}+3x+3<0",
+        "{x}^{2}+3x+3>0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>3</mn><mo>&lt;</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>3</mn><mo>&lt;</mo><mn>0</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>3</mn><mo>&gt;</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>3</mn><mo>&gt;</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

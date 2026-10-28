@@ -1,0 +1,1821 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/7-review-exercises",
+  "title": "Review Exercises",
+  "sha256": "6183e2942cefd3b747829eaf4fa530a7ae562603d7321300687be4b4fdca1088",
+  "questions": [
+    {
+      "number": 377,
+      "anchor": "fs-id1167832151420",
+      "page": "7-review-exercises",
+      "context": [
+        "Determine the Values for Which a Rational Expression is Undefined",
+        "In the following exercises, determine the values for which the rational expression is undefined."
+      ],
+      "text": "\\(\\frac{ 5 a + 3 }{ 3 a - 2 }\\)",
+      "math": [
+        "\\frac{ 5 a + 3 }{ 3 a - 2 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <mi>a</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <mi>a</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 378,
+      "anchor": "fs-id1167834489532",
+      "page": "7-review-exercises",
+      "context": [
+        "Determine the Values for Which a Rational Expression is Undefined",
+        "In the following exercises, determine the values for which the rational expression is undefined."
+      ],
+      "text": "\\(\\frac{ b - 7 }{ {b}^{2} - 25 }\\)",
+      "math": [
+        "\\frac{ b - 7 }{ {b}^{2} - 25 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 379,
+      "anchor": "fs-id1167826780637",
+      "page": "7-review-exercises",
+      "context": [
+        "Determine the Values for Which a Rational Expression is Undefined",
+        "In the following exercises, determine the values for which the rational expression is undefined."
+      ],
+      "text": "\\(\\frac{ 5 {x}^{2} {y}^{2} }{ 8 y }\\)",
+      "math": [
+        "\\frac{ 5 {x}^{2} {y}^{2} }{ 8 y }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>8</mn>\n              <mi>y</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>8</mn>\n              <mi>y</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 380,
+      "anchor": "fs-id1167834473956",
+      "page": "7-review-exercises",
+      "context": [
+        "Determine the Values for Which a Rational Expression is Undefined",
+        "In the following exercises, determine the values for which the rational expression is undefined."
+      ],
+      "text": "\\(\\frac{ x - 3 }{ {x}^{2} - x - 30 }\\)",
+      "math": [
+        "\\frac{ x - 3 }{ {x}^{2} - x - 30 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>30</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>30</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 381,
+      "anchor": "fs-id1167835361752",
+      "page": "7-review-exercises",
+      "context": [
+        "Simplify Rational Expressions",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{ 18 }{ 24 }\\)",
+      "math": [
+        "\\frac{ 18 }{ 24 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>18</mn>\n            </mrow>\n            <mrow>\n              <mn>24</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>18</mn>\n            </mrow>\n            <mrow>\n              <mn>24</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 382,
+      "anchor": "fs-id1167830705638",
+      "page": "7-review-exercises",
+      "context": [
+        "Simplify Rational Expressions",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{ 9 {m}^{4} }{ 18 m {n}^{3} }\\)",
+      "math": [
+        "\\frac{ 9 {m}^{4} }{ 18 m {n}^{3} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>9</mn>\n              <msup>\n                <mi>m</mi>\n                <mn>4</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>18</mn>\n              <mi>m</mi>\n              <msup>\n                <mi>n</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>9</mn>\n              <msup>\n                <mi>m</mi>\n                <mn>4</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>18</mn>\n              <mi>m</mi>\n              <msup>\n                <mi>n</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 383,
+      "anchor": "fs-id1167831923697",
+      "page": "7-review-exercises",
+      "context": [
+        "Simplify Rational Expressions",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{ {x}^{2} + 7 x + 12 }{ {x}^{2} + 8 x + 16 }\\)",
+      "math": [
+        "\\frac{ {x}^{2} + 7 x + 12 }{ {x}^{2} + 8 x + 16 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>7</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>12</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>8</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>7</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>12</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>8</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 384,
+      "anchor": "fs-id1167835390012",
+      "page": "7-review-exercises",
+      "context": [
+        "Simplify Rational Expressions",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{ 7 v - 35 }{ 25 - {v}^{2} }\\)",
+      "math": [
+        "\\frac{ 7 v - 35 }{ 25 - {v}^{2} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>7</mn>\n              <mi>v</mi>\n              <mo>−</mo>\n              <mn>35</mn>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n              <mo>−</mo>\n              <msup>\n                <mi>v</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>7</mn>\n              <mi>v</mi>\n              <mo>−</mo>\n              <mn>35</mn>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n              <mo>−</mo>\n              <msup>\n                <mi>v</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 385,
+      "anchor": "fs-id1167834473299",
+      "page": "7-review-exercises",
+      "context": [
+        "Multiply Rational Expressions",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(\\frac{5}{8} \\cdot \\frac{4}{ 15 }\\)",
+      "math": [
+        "\\frac{5}{8} \\cdot \\frac{4}{ 15 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>5</mn>\n            <mn>8</mn>\n          </mfrac>\n          <mo>·</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <mn>15</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>5</mn>\n            <mn>8</mn>\n          </mfrac>\n          <mo>·</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <mn>15</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 386,
+      "anchor": "fs-id1167835281065",
+      "page": "7-review-exercises",
+      "context": [
+        "Multiply Rational Expressions",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(\\frac{ 3 x {y}^{2} }{ 8 {y}^{3} } \\cdot \\frac{ 16 {y}^{2} }{ 24 x }\\)",
+      "math": [
+        "\\frac{ 3 x {y}^{2} }{ 8 {y}^{3} } \\cdot \\frac{ 16 {y}^{2} }{ 24 x }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>8</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n          <mo>·</mo>\n          <mfrac>\n            <mrow>\n              <mn>16</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>24</mn>\n              <mi>x</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>8</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n          <mo>·</mo>\n          <mfrac>\n            <mrow>\n              <mn>16</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>24</mn>\n              <mi>x</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 387,
+      "anchor": "fs-id1167831881468",
+      "page": "7-review-exercises",
+      "context": [
+        "Multiply Rational Expressions",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(\\frac{ 72 x - 12 {x}^{2} }{ 8 x + 32 } \\cdot \\frac{ {x}^{2} + 10 x + 24 }{ {x}^{2} - 36 }\\)",
+      "math": [
+        "\\frac{ 72 x - 12 {x}^{2} }{ 8 x + 32 } \\cdot \\frac{ {x}^{2} + 10 x + 24 }{ {x}^{2} - 36 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>72</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>12</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>8</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>32</mn>\n            </mrow>\n          </mfrac>\n          <mo>·</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>10</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>24</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>36</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>72</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>12</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>8</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>32</mn>\n            </mrow>\n          </mfrac>\n          <mo>·</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>10</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>24</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>36</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 388,
+      "anchor": "fs-id1167835415784",
+      "page": "7-review-exercises",
+      "context": [
+        "Multiply Rational Expressions",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(\\frac{ 2 {y}^{2} + y - 3 }{ 4 - {y}^{2} } \\cdot \\frac{ {y}^{2} - 4 y + 4 }{ 2 {y}^{2} + 11 y + 12 }\\)",
+      "math": [
+        "\\frac{ 2 {y}^{2} + y - 3 }{ 4 - {y}^{2} } \\cdot \\frac{ {y}^{2} - 4 y + 4 }{ 2 {y}^{2} + 11 y + 12 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mrow>\n              <mn>4</mn>\n              <mo>−</mo>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n          <mo>·</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>11</mn>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mrow>\n              <mn>4</mn>\n              <mo>−</mo>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n          <mo>·</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>11</mn>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 389,
+      "anchor": "fs-id1167835389859",
+      "page": "7-review-exercises",
+      "context": [
+        "Divide Rational Expressions",
+        "In the following exercises, divide."
+      ],
+      "text": "\\(\\frac{ {x}^{2} - 4 x - 12 }{ {x}^{2} + 8 x + 12 } \\div \\frac{ {x}^{2} - 36 }{ 3 x }\\)",
+      "math": [
+        "\\frac{ {x}^{2} - 4 x - 12 }{ {x}^{2} + 8 x + 12 } \\div \\frac{ {x}^{2} - 36 }{ 3 x }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>12</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>8</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n          <mo>÷</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>36</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>12</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>8</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n          <mo>÷</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>36</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 390,
+      "anchor": "fs-id1167835530095",
+      "page": "7-review-exercises",
+      "context": [
+        "Divide Rational Expressions",
+        "In the following exercises, divide."
+      ],
+      "text": "\\(\\frac{ {y}^{2} - 16 }{4} \\div \\frac{ {y}^{3} - 64 }{ 2 {y}^{2} + 8 y + 32 }\\)",
+      "math": [
+        "\\frac{ {y}^{2} - 16 }{4} \\div \\frac{ {y}^{3} - 64 }{ 2 {y}^{2} + 8 y + 32 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>16</mn>\n            </mrow>\n            <mn>4</mn>\n          </mfrac>\n          <mo>÷</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>3</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>64</mn>\n            </mrow>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>8</mn>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>32</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>16</mn>\n            </mrow>\n            <mn>4</mn>\n          </mfrac>\n          <mo>÷</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>3</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>64</mn>\n            </mrow>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>8</mn>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>32</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 391,
+      "anchor": "fs-id1167834517331",
+      "page": "7-review-exercises",
+      "context": [
+        "Divide Rational Expressions",
+        "In the following exercises, divide."
+      ],
+      "text": "\\(\\frac{ 11 + w }{ w - 9 } \\div \\frac{ 121 - {w}^{2} }{ 9 - w }\\)",
+      "math": [
+        "\\frac{ 11 + w }{ w - 9 } \\div \\frac{ 121 - {w}^{2} }{ 9 - w }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>11</mn>\n              <mo>+</mo>\n              <mi>w</mi>\n            </mrow>\n            <mrow>\n              <mi>w</mi>\n              <mo>−</mo>\n              <mn>9</mn>\n            </mrow>\n          </mfrac>\n          <mo>÷</mo>\n          <mfrac>\n            <mrow>\n              <mn>121</mn>\n              <mo>−</mo>\n              <msup>\n                <mi>w</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>9</mn>\n              <mo>−</mo>\n              <mi>w</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>11</mn>\n              <mo>+</mo>\n              <mi>w</mi>\n            </mrow>\n            <mrow>\n              <mi>w</mi>\n              <mo>−</mo>\n              <mn>9</mn>\n            </mrow>\n          </mfrac>\n          <mo>÷</mo>\n          <mfrac>\n            <mrow>\n              <mn>121</mn>\n              <mo>−</mo>\n              <msup>\n                <mi>w</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>9</mn>\n              <mo>−</mo>\n              <mi>w</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 392,
+      "anchor": "fs-id1167832026070",
+      "page": "7-review-exercises",
+      "context": [
+        "Divide Rational Expressions",
+        "In the following exercises, divide."
+      ],
+      "text": "\\(\\frac{ 3 {y}^{2} - 12 y - 63 }{ 4 y + 3 } \\div ( 6 {y}^{2} - 42 y )\\)",
+      "math": [
+        "\\frac{ 3 {y}^{2} - 12 y - 63 }{ 4 y + 3 } \\div ( 6 {y}^{2} - 42 y )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>12</mn>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>63</mn>\n            </mrow>\n            <mrow>\n              <mn>4</mn>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n          <mo>÷</mo>\n          <mo stretchy=\"false\">(</mo>\n          <mn>6</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>42</mn>\n          <mi>y</mi>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>12</mn>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>63</mn>\n            </mrow>\n            <mrow>\n              <mn>4</mn>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n          <mo>÷</mo>\n          <mo stretchy=\"false\">(</mo>\n          <mn>6</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>42</mn>\n          <mi>y</mi>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 393,
+      "anchor": "fs-id1167834554815",
+      "page": "7-review-exercises",
+      "context": [
+        "Divide Rational Expressions",
+        "In the following exercises, divide."
+      ],
+      "text": "\\(\\frac{ \\frac{ {c}^{2} - 64 }{ 3 {c}^{2} + 26 c + 16 } }{ \\frac{ {c}^{2} - 4 c - 32 }{ 15 c + 10 } }\\)",
+      "math": [
+        "\\frac{ \\frac{ {c}^{2} - 64 }{ 3 {c}^{2} + 26 c + 16 } }{ \\frac{ {c}^{2} - 4 c - 32 }{ 15 c + 10 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <msup>\n                    <mi>c</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>64</mn>\n                </mrow>\n                <mrow>\n                  <mn>3</mn>\n                  <msup>\n                    <mi>c</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <mn>26</mn>\n                  <mi>c</mi>\n                  <mo>+</mo>\n                  <mn>16</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <msup>\n                    <mi>c</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                  <mi>c</mi>\n                  <mo>−</mo>\n                  <mn>32</mn>\n                </mrow>\n                <mrow>\n                  <mn>15</mn>\n                  <mi>c</mi>\n                  <mo>+</mo>\n                  <mn>10</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <msup>\n                    <mi>c</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>64</mn>\n                </mrow>\n                <mrow>\n                  <mn>3</mn>\n                  <msup>\n                    <mi>c</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <mn>26</mn>\n                  <mi>c</mi>\n                  <mo>+</mo>\n                  <mn>16</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <msup>\n                    <mi>c</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                  <mi>c</mi>\n                  <mo>−</mo>\n                  <mn>32</mn>\n                </mrow>\n                <mrow>\n                  <mn>15</mn>\n                  <mi>c</mi>\n                  <mo>+</mo>\n                  <mn>10</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 394,
+      "anchor": "fs-id1167830700872",
+      "page": "7-review-exercises",
+      "context": [
+        "Divide Rational Expressions",
+        "In the following exercises, divide."
+      ],
+      "text": "\\(\\frac{ 8 {a}^{2} + 16 a }{ a - 4 } \\cdot \\frac{ {a}^{2} + 2 a - 24 }{ {a}^{2} + 7 a + 10 } \\div \\frac{ 2 {a}^{2} - 6 a }{ a + 5 }\\)",
+      "math": [
+        "\\frac{ 8 {a}^{2} + 16 a }{ a - 4 } \\cdot \\frac{ {a}^{2} + 2 a - 24 }{ {a}^{2} + 7 a + 10 } \\div \\frac{ 2 {a}^{2} - 6 a }{ a + 5 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>8</mn>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>16</mn>\n              <mi>a</mi>\n            </mrow>\n            <mrow>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n          <mo>·</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>24</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>7</mn>\n              <mi>a</mi>\n              <mo>+</mo>\n              <mn>10</mn>\n            </mrow>\n          </mfrac>\n          <mo>÷</mo>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>6</mn>\n              <mi>a</mi>\n            </mrow>\n            <mrow>\n              <mi>a</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>8</mn>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>16</mn>\n              <mi>a</mi>\n            </mrow>\n            <mrow>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n          <mo>·</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>24</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>7</mn>\n              <mi>a</mi>\n              <mo>+</mo>\n              <mn>10</mn>\n            </mrow>\n          </mfrac>\n          <mo>÷</mo>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>6</mn>\n              <mi>a</mi>\n            </mrow>\n            <mrow>\n              <mi>a</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 395,
+      "anchor": "fs-id1167834282621",
+      "page": "7-review-exercises",
+      "context": [
+        "In the following exercises, divide.",
+        "Multiply and Divide Rational Functions"
+      ],
+      "text": "Find \\(R(x)=f(x)\\cdot g(x)\\) where \\(f(x)=\\frac{9{x}^{2}+9x}{{x}^{2}-3x-4}\\) and \\(g(x)=\\frac{{x}^{2}-16}{3{x}^{2}+12x}.\\)",
+      "math": [
+        "R(x)=f(x)\\cdot g(x)",
+        "f(x)=\\frac{9{x}^{2}+9x}{{x}^{2}-3x-4}",
+        "g(x)=\\frac{{x}^{2}-16}{3{x}^{2}+12x}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>R</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>·</mo><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>R</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>·</mo><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mn>9</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>9</mn><mi>x</mi></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mn>9</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>9</mn><mi>x</mi></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>16</mn></mrow><mrow><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>12</mn><mi>x</mi></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>16</mn></mrow><mrow><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>12</mn><mi>x</mi></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 396,
+      "anchor": "fs-id1167831911673",
+      "page": "7-review-exercises",
+      "context": [
+        "In the following exercises, divide.",
+        "Multiply and Divide Rational Functions"
+      ],
+      "text": "Find \\(R(x)=\\frac{f(x)}{g(x)}\\) where \\(f(x)=\\frac{27{x}^{2}}{3x-21}\\) and\\(g(x)=\\frac{9{x}^{2}+54x}{{x}^{2}-x-42}.\\)",
+      "math": [
+        "R(x)=\\frac{f(x)}{g(x)}",
+        "f(x)=\\frac{27{x}^{2}}{3x-21}",
+        "g(x)=\\frac{9{x}^{2}+54x}{{x}^{2}-x-42}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>R</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>R</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mfrac><mrow><mn>27</mn><msup><mi>x</mi><mn>2</mn></msup></mrow><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>21</mn></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mfrac><mrow><mn>27</mn><msup><mi>x</mi><mn>2</mn></msup></mrow><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>21</mn></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mn>9</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>54</mn><mi>x</mi></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mi>x</mi><mo>−</mo><mn>42</mn></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mn>9</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>54</mn><mi>x</mi></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mi>x</mi><mo>−</mo><mn>42</mn></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 397,
+      "anchor": "fs-id1167835609863",
+      "page": "7-review-exercises",
+      "context": [
+        "Add and Subtract Rational Expressions with a Common Denominator",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{7}{ 15 } + \\frac{8}{ 15 }\\)",
+      "math": [
+        "\\frac{7}{ 15 } + \\frac{8}{ 15 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>7</mn>\n            <mrow>\n              <mn>15</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>8</mn>\n            <mrow>\n              <mn>15</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>7</mn>\n            <mrow>\n              <mn>15</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>8</mn>\n            <mrow>\n              <mn>15</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 398,
+      "anchor": "fs-id1167834533462",
+      "page": "7-review-exercises",
+      "context": [
+        "Add and Subtract Rational Expressions with a Common Denominator",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{ 4 {a}^{2} }{ 2 a - 1 } - \\frac{1}{ 2 a - 1 }\\)",
+      "math": [
+        "\\frac{ 4 {a}^{2} }{ 2 a - 1 } - \\frac{1}{ 2 a - 1 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>2</mn>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>2</mn>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>2</mn>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>2</mn>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 399,
+      "anchor": "fs-id1167831884309",
+      "page": "7-review-exercises",
+      "context": [
+        "Add and Subtract Rational Expressions with a Common Denominator",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{ {y}^{2} + 10 y }{ y + 5 } + \\frac{ 25 }{ y + 5 }\\)",
+      "math": [
+        "\\frac{ {y}^{2} + 10 y }{ y + 5 } + \\frac{ 25 }{ y + 5 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>10</mn>\n              <mi>y</mi>\n            </mrow>\n            <mrow>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n            <mrow>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>10</mn>\n              <mi>y</mi>\n            </mrow>\n            <mrow>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n            <mrow>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 400,
+      "anchor": "fs-id1167835509750",
+      "page": "7-review-exercises",
+      "context": [
+        "Add and Subtract Rational Expressions with a Common Denominator",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{ 7 {x}^{2} }{ {x}^{2} - 9 } + \\frac{ 21 x }{ {x}^{2} - 9 }\\)",
+      "math": [
+        "\\frac{ 7 {x}^{2} }{ {x}^{2} - 9 } + \\frac{ 21 x }{ {x}^{2} - 9 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>7</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>9</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>21</mn>\n              <mi>x</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>9</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>7</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>9</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>21</mn>\n              <mi>x</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>9</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 401,
+      "anchor": "fs-id1167831919688",
+      "page": "7-review-exercises",
+      "context": [
+        "Add and Subtract Rational Expressions with a Common Denominator",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{ {x}^{2} }{ x - 7 } - \\frac{ 3 x + 28 }{ x - 7 }\\)",
+      "math": [
+        "\\frac{ {x}^{2} }{ x - 7 } - \\frac{ 3 x + 28 }{ x - 7 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>28</mn>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>28</mn>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 402,
+      "anchor": "fs-id1167831883771",
+      "page": "7-review-exercises",
+      "context": [
+        "Add and Subtract Rational Expressions with a Common Denominator",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{ {y}^{2} }{ y + 11 } - \\frac{ 121 }{ y + 11 }\\)",
+      "math": [
+        "\\frac{ {y}^{2} }{ y + 11 } - \\frac{ 121 }{ y + 11 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>11</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>121</mn>\n            </mrow>\n            <mrow>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>11</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>11</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>121</mn>\n            </mrow>\n            <mrow>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>11</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 403,
+      "anchor": "fs-id1167834111847",
+      "page": "7-review-exercises",
+      "context": [
+        "Add and Subtract Rational Expressions with a Common Denominator",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{ 4 {q}^{2} - q + 3 }{ {q}^{2} + 6 q + 5 } - \\frac{ 3 {q}^{2} + q + 6 }{ {q}^{2} + 6 q + 5 }\\)",
+      "math": [
+        "\\frac{ 4 {q}^{2} - q + 3 }{ {q}^{2} + 6 q + 5 } - \\frac{ 3 {q}^{2} + q + 6 }{ {q}^{2} + 6 q + 5 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <msup>\n                <mi>q</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mi>q</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>q</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>6</mn>\n              <mi>q</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>q</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mi>q</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>q</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>6</mn>\n              <mi>q</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <msup>\n                <mi>q</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mi>q</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>q</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>6</mn>\n              <mi>q</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>q</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mi>q</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>q</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>6</mn>\n              <mi>q</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 404,
+      "anchor": "fs-id1167832074888",
+      "page": "7-review-exercises",
+      "context": [
+        "Add and Subtract Rational Expressions with a Common Denominator",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{ 5 {t}^{2} + 4 {t}^{2} + 3 }{ {t}^{2} - 25 } - \\frac{ 4 {t}^{2} - 8 t - 32 }{ {t}^{2} - 25 }\\)",
+      "math": [
+        "\\frac{ 5 {t}^{2} + 4 {t}^{2} + 3 }{ {t}^{2} - 25 } - \\frac{ 4 {t}^{2} - 8 t - 32 }{ {t}^{2} - 25 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <msup>\n                <mi>t</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>4</mn>\n              <msup>\n                <mi>t</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>t</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <msup>\n                <mi>t</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>8</mn>\n              <mi>t</mi>\n              <mo>−</mo>\n              <mn>32</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>t</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <msup>\n                <mi>t</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>4</mn>\n              <msup>\n                <mi>t</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>t</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <msup>\n                <mi>t</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>8</mn>\n              <mi>t</mi>\n              <mo>−</mo>\n              <mn>32</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>t</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 405,
+      "anchor": "fs-id1167834079476",
+      "page": "7-review-exercises",
+      "context": [
+        "Add and Subtract Rational Expressions Whose Denominators Are Opposites",
+        "In the following exercises, add and subtract."
+      ],
+      "text": "\\(\\frac{ 18 w }{ 6 w - 1 } + \\frac{ 3 w - 2 }{ 1 - 6 w }\\)",
+      "math": [
+        "\\frac{ 18 w }{ 6 w - 1 } + \\frac{ 3 w - 2 }{ 1 - 6 w }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>18</mn>\n              <mi>w</mi>\n            </mrow>\n            <mrow>\n              <mn>6</mn>\n              <mi>w</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>w</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mrow>\n              <mn>1</mn>\n              <mo>−</mo>\n              <mn>6</mn>\n              <mi>w</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>18</mn>\n              <mi>w</mi>\n            </mrow>\n            <mrow>\n              <mn>6</mn>\n              <mi>w</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>w</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mrow>\n              <mn>1</mn>\n              <mo>−</mo>\n              <mn>6</mn>\n              <mi>w</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 406,
+      "anchor": "fs-id1167834133931",
+      "page": "7-review-exercises",
+      "context": [
+        "Add and Subtract Rational Expressions Whose Denominators Are Opposites",
+        "In the following exercises, add and subtract."
+      ],
+      "text": "\\(\\frac{ {a}^{2} + 3 a }{ {a}^{2} - 4 } - \\frac{ 3 a + 8 }{ 4 - {a}^{2} }\\)",
+      "math": [
+        "\\frac{ {a}^{2} + 3 a }{ {a}^{2} - 4 } - \\frac{ 3 a + 8 }{ 4 - {a}^{2} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>a</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>a</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n            <mrow>\n              <mn>4</mn>\n              <mo>−</mo>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>a</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>a</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n            <mrow>\n              <mn>4</mn>\n              <mo>−</mo>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 407,
+      "anchor": "fs-id1167835414934",
+      "page": "7-review-exercises",
+      "context": [
+        "Add and Subtract Rational Expressions Whose Denominators Are Opposites",
+        "In the following exercises, add and subtract."
+      ],
+      "text": "\\(\\frac{ 2 {b}^{2} + 3 b - 15 }{ {b}^{2} - 49 } - \\frac{ {b}^{2} + 16 b - 1 }{ 49 - {b}^{2} }\\)",
+      "math": [
+        "\\frac{ 2 {b}^{2} + 3 b - 15 }{ {b}^{2} - 49 } - \\frac{ {b}^{2} + 16 b - 1 }{ 49 - {b}^{2} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>15</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>49</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>16</mn>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mrow>\n              <mn>49</mn>\n              <mo>−</mo>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>15</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>49</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>16</mn>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mrow>\n              <mn>49</mn>\n              <mo>−</mo>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 408,
+      "anchor": "fs-id1167826857064",
+      "page": "7-review-exercises",
+      "context": [
+        "Add and Subtract Rational Expressions Whose Denominators Are Opposites",
+        "In the following exercises, add and subtract."
+      ],
+      "text": "\\(\\frac{ 8 {y}^{2} - 10 y + 7 }{ 2 y - 5 } + \\frac{ 2 {y}^{2} + 7 y + 2 }{ 5 - 2 y }\\)",
+      "math": [
+        "\\frac{ 8 {y}^{2} - 10 y + 7 }{ 2 y - 5 } + \\frac{ 2 {y}^{2} + 7 y + 2 }{ 5 - 2 y }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>8</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>10</mn>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>7</mn>\n            </mrow>\n            <mrow>\n              <mn>2</mn>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>7</mn>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mrow>\n              <mn>5</mn>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>y</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>8</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>10</mn>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>7</mn>\n            </mrow>\n            <mrow>\n              <mn>2</mn>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>7</mn>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mrow>\n              <mn>5</mn>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>y</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 409,
+      "anchor": "fs-id1167834454273",
+      "page": "7-review-exercises",
+      "context": [
+        "Find the Least Common Denominator of Rational Expressions",
+        "In the following exercises, find the LCD."
+      ],
+      "text": "\\(\\frac{7}{ {a}^{2} - 3 a - 10 } , \\frac{ 3 a }{ {a}^{2} - a - 20 }\\)",
+      "math": [
+        "\\frac{7}{ {a}^{2} - 3 a - 10 } , \\frac{ 3 a }{ {a}^{2} - a - 20 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>7</mn>\n            <mrow>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>3</mn>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>10</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>a</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>20</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>7</mn>\n            <mrow>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>3</mn>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>10</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>a</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>20</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 410,
+      "anchor": "fs-id1167835320099",
+      "page": "7-review-exercises",
+      "context": [
+        "Find the Least Common Denominator of Rational Expressions",
+        "In the following exercises, find the LCD."
+      ],
+      "text": "\\(\\frac{6}{ {n}^{2} - 4 } , \\frac{ 2 n }{ {n}^{2} - 4 n + 4 }\\)",
+      "math": [
+        "\\frac{6}{ {n}^{2} - 4 } , \\frac{ 2 n }{ {n}^{2} - 4 n + 4 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>6</mn>\n            <mrow>\n              <msup>\n                <mi>n</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mi>n</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>n</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>6</mn>\n            <mrow>\n              <msup>\n                <mi>n</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mi>n</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>n</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 411,
+      "anchor": "fs-id1167831822005",
+      "page": "7-review-exercises",
+      "context": [
+        "Find the Least Common Denominator of Rational Expressions",
+        "In the following exercises, find the LCD."
+      ],
+      "text": "\\(\\frac{5}{ 3 {p}^{2} + 17 p - 6 } , \\frac{ 2 m }{ 3 {p}^{2} + 23 p - 8 }\\)",
+      "math": [
+        "\\frac{5}{ 3 {p}^{2} + 17 p - 6 } , \\frac{ 2 m }{ 3 {p}^{2} + 23 p - 8 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>p</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>17</mn>\n              <mi>p</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mi>m</mi>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>p</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>23</mn>\n              <mi>p</mi>\n              <mo>−</mo>\n              <mn>8</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>p</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>17</mn>\n              <mi>p</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mi>m</mi>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>p</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>23</mn>\n              <mi>p</mi>\n              <mo>−</mo>\n              <mn>8</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 412,
+      "anchor": "fs-id1167834327397",
+      "page": "7-review-exercises",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{7}{ 5 a } + \\frac{3}{ 2 b }\\)",
+      "math": [
+        "\\frac{7}{ 5 a } + \\frac{3}{ 2 b }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>7</mn>\n            <mrow>\n              <mn>5</mn>\n              <mi>a</mi>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <mn>2</mn>\n              <mi>b</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>7</mn>\n            <mrow>\n              <mn>5</mn>\n              <mi>a</mi>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <mn>2</mn>\n              <mi>b</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 413,
+      "anchor": "fs-id1167835301259",
+      "page": "7-review-exercises",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{2}{ c - 2 } + \\frac{9}{ c + 3 }\\)",
+      "math": [
+        "\\frac{2}{ c - 2 } + \\frac{9}{ c + 3 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>2</mn>\n            <mrow>\n              <mi>c</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>9</mn>\n            <mrow>\n              <mi>c</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>2</mn>\n            <mrow>\n              <mi>c</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>9</mn>\n            <mrow>\n              <mi>c</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 414,
+      "anchor": "fs-id1167826995141",
+      "page": "7-review-exercises",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{ 3 x }{ {x}^{2} - 9 } + \\frac{5}{ {x}^{2} + 6 x + 9 }\\)",
+      "math": [
+        "\\frac{ 3 x }{ {x}^{2} - 9 } + \\frac{5}{ {x}^{2} + 6 x + 9 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>9</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>6</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>9</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>9</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>6</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>9</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 415,
+      "anchor": "fs-id1167835215385",
+      "page": "7-review-exercises",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{ 2 x }{ {x}^{2} + 10 x + 24 } + \\frac{ 3 x }{ {x}^{2} + 8 x + 16 }\\)",
+      "math": [
+        "\\frac{ 2 x }{ {x}^{2} + 10 x + 24 } + \\frac{ 3 x }{ {x}^{2} + 8 x + 16 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>10</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>24</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>8</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>10</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>24</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>8</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 416,
+      "anchor": "fs-id1167826808680",
+      "page": "7-review-exercises",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{ 5 q }{ {p}^{2} q - {p}^{2} } + \\frac{ 4 q }{ {q}^{2} - 1 }\\)",
+      "math": [
+        "\\frac{ 5 q }{ {p}^{2} q - {p}^{2} } + \\frac{ 4 q }{ {q}^{2} - 1 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <mi>q</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>p</mi>\n                <mn>2</mn>\n              </msup>\n              <mi>q</mi>\n              <mo>−</mo>\n              <msup>\n                <mi>p</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <mi>q</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>q</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <mi>q</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>p</mi>\n                <mn>2</mn>\n              </msup>\n              <mi>q</mi>\n              <mo>−</mo>\n              <msup>\n                <mi>p</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <mi>q</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>q</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 417,
+      "anchor": "fs-id1167835410632",
+      "page": "7-review-exercises",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{ 3 y }{ y + 2 } - \\frac{ y + 2 }{ y + 8 }\\)",
+      "math": [
+        "\\frac{ 3 y }{ y + 2 } - \\frac{ y + 2 }{ y + 8 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>y</mi>\n            </mrow>\n            <mrow>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mrow>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>y</mi>\n            </mrow>\n            <mrow>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mrow>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 418,
+      "anchor": "fs-id1167835550842",
+      "page": "7-review-exercises",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{ -3 w - 15 }{ {w}^{2} + w - 20 } - \\frac{ w + 2 }{ 4 - w }\\)",
+      "math": [
+        "\\frac{ -3 w - 15 }{ {w}^{2} + w - 20 } - \\frac{ w + 2 }{ 4 - w }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>−3</mn>\n              <mi>w</mi>\n              <mo>−</mo>\n              <mn>15</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>w</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mi>w</mi>\n              <mo>−</mo>\n              <mn>20</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mi>w</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mrow>\n              <mn>4</mn>\n              <mo>−</mo>\n              <mi>w</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>−3</mn>\n              <mi>w</mi>\n              <mo>−</mo>\n              <mn>15</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>w</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mi>w</mi>\n              <mo>−</mo>\n              <mn>20</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mi>w</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mrow>\n              <mn>4</mn>\n              <mo>−</mo>\n              <mi>w</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 419,
+      "anchor": "fs-id1167834525788",
+      "page": "7-review-exercises",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{ 7 m + 3 }{ m + 2 } - 5\\)",
+      "math": [
+        "\\frac{ 7 m + 3 }{ m + 2 } - 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>7</mn>\n              <mi>m</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mrow>\n              <mi>m</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>7</mn>\n              <mi>m</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mrow>\n              <mi>m</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 420,
+      "anchor": "fs-id1167835302598",
+      "page": "7-review-exercises",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{n}{ n + 3 } + \\frac{2}{ n - 3 } - \\frac{ n + 9 }{ {n}^{2} - 9 }\\)",
+      "math": [
+        "\\frac{n}{ n + 3 } + \\frac{2}{ n - 3 } - \\frac{ n + 9 }{ {n}^{2} - 9 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mi>n</mi>\n            <mrow>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mrow>\n              <mi>n</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>9</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>n</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>9</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mi>n</mi>\n            <mrow>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mrow>\n              <mi>n</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>9</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>n</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>9</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 421,
+      "anchor": "fs-id1167834535865",
+      "page": "7-review-exercises",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{ 8 a }{ {a}^{2} - 64 } - \\frac{4}{ a + 8 }\\)",
+      "math": [
+        "\\frac{ 8 a }{ {a}^{2} - 64 } - \\frac{4}{ a + 8 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>8</mn>\n              <mi>a</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>64</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <mi>a</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>8</mn>\n              <mi>a</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>64</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <mi>a</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 422,
+      "anchor": "fs-id1167826863920",
+      "page": "7-review-exercises",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{5}{ 12 {x}^{2} y } + \\frac{7}{ 20 x {y}^{3} }\\)",
+      "math": [
+        "\\frac{5}{ 12 {x}^{2} y } + \\frac{7}{ 20 x {y}^{3} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mn>12</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mi>y</mi>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>7</mn>\n            <mrow>\n              <mn>20</mn>\n              <mi>x</mi>\n              <msup>\n                <mi>y</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mn>12</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mi>y</mi>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>7</mn>\n            <mrow>\n              <mn>20</mn>\n              <mi>x</mi>\n              <msup>\n                <mi>y</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 423,
+      "anchor": "fs-id1167834397163",
+      "page": "7-review-exercises",
+      "context": [
+        "Add and Subtract Rational Functions",
+        "In the following exercises, find \\(R(x)=f(x)+g(x)\\) where \\(f(x)\\) and \\(g(x)\\) are given."
+      ],
+      "text": "\\(f ( x ) = \\frac{ 2 {x}^{2} + 12 x - 11 }{ {x}^{2} + 3 x - 10 } ,\\) \\(g ( x ) = \\frac{ x + 1 }{ 2 - x }\\)",
+      "math": [
+        "f ( x ) = \\frac{ 2 {x}^{2} + 12 x - 11 }{ {x}^{2} + 3 x - 10 } ,",
+        "g ( x ) = \\frac{ x + 1 }{ 2 - x }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>12</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>11</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>10</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>12</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>11</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>10</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>",
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mrow>\n              <mn>2</mn>\n              <mo>−</mo>\n              <mi>x</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mrow>\n              <mn>2</mn>\n              <mo>−</mo>\n              <mi>x</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 424,
+      "anchor": "fs-id1167830698105",
+      "page": "7-review-exercises",
+      "context": [
+        "Add and Subtract Rational Functions",
+        "In the following exercises, find \\(R(x)=f(x)+g(x)\\) where \\(f(x)\\) and \\(g(x)\\) are given."
+      ],
+      "text": "\\(f ( x ) = \\frac{ -4 x + 31 }{ {x}^{2} + x - 30 } ,\\) \\(g ( x ) = \\frac{5}{ x + 6 }\\)",
+      "math": [
+        "f ( x ) = \\frac{ -4 x + 31 }{ {x}^{2} + x - 30 } ,",
+        "g ( x ) = \\frac{5}{ x + 6 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mn>−4</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>31</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>30</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mn>−4</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>31</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>30</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>",
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 425,
+      "anchor": "fs-id1167827966859",
+      "page": "7-review-exercises",
+      "context": [
+        "In the following exercises, find \\(R(x)=f(x)+g(x)\\) where \\(f(x)\\) and \\(g(x)\\) are given.",
+        "In the following exercises, find \\(R(x)=f(x)-g(x)\\) where \\(f(x)\\) and \\(g(x)\\) are given."
+      ],
+      "text": "\\(f ( x ) = \\frac{ 4 x }{ {x}^{2} - 121 } ,\\) \\(g ( x ) = \\frac{2}{ x - 11 }\\)",
+      "math": [
+        "f ( x ) = \\frac{ 4 x }{ {x}^{2} - 121 } ,",
+        "g ( x ) = \\frac{2}{ x - 11 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>121</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>121</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>",
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>11</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>11</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 426,
+      "anchor": "fs-id1167831031198",
+      "page": "7-review-exercises",
+      "context": [
+        "In the following exercises, find \\(R(x)=f(x)+g(x)\\) where \\(f(x)\\) and \\(g(x)\\) are given.",
+        "In the following exercises, find \\(R(x)=f(x)-g(x)\\) where \\(f(x)\\) and \\(g(x)\\) are given."
+      ],
+      "text": "\\(f ( x ) = \\frac{7}{ x + 6 } ,\\) \\(g ( x ) = \\frac{ 14 x }{ {x}^{2} - 36 }\\)",
+      "math": [
+        "f ( x ) = \\frac{7}{ x + 6 } ,",
+        "g ( x ) = \\frac{ 14 x }{ {x}^{2} - 36 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mfrac>\n            <mn>7</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mfrac>\n            <mn>7</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>",
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mn>14</mn>\n              <mi>x</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>36</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mn>14</mn>\n              <mi>x</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>36</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 427,
+      "anchor": "fs-id1167834525811",
+      "page": "7-review-exercises",
+      "context": [
+        "Simplify a Complex Rational Expression by Writing It as Division",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{ \\frac{ 7 x }{ x + 2 } }{ \\frac{ 14 {x}^{2} }{ {x}^{2} - 4 } }\\)",
+      "math": [
+        "\\frac{ \\frac{ 7 x }{ x + 2 } }{ \\frac{ 14 {x}^{2} }{ {x}^{2} - 4 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <mn>7</mn>\n                  <mi>x</mi>\n                </mrow>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <mn>14</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n                <mrow>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <mn>7</mn>\n                  <mi>x</mi>\n                </mrow>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <mn>14</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n                <mrow>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 428,
+      "anchor": "fs-id1167831825675",
+      "page": "7-review-exercises",
+      "context": [
+        "Simplify a Complex Rational Expression by Writing It as Division",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{ \\frac{2}{5} + \\frac{5}{6} }{ \\frac{1}{3} + \\frac{1}{4} }\\)",
+      "math": [
+        "\\frac{ \\frac{2}{5} + \\frac{5}{6} }{ \\frac{1}{3} + \\frac{1}{4} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mn>5</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>5</mn>\n                <mn>6</mn>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mn>4</mn>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mn>5</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>5</mn>\n                <mn>6</mn>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mn>4</mn>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 429,
+      "anchor": "fs-id1167831115347",
+      "page": "7-review-exercises",
+      "context": [
+        "Simplify a Complex Rational Expression by Writing It as Division",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{ x - \\frac{ 3 x }{ x + 5 } }{ \\frac{1}{ x + 5 } + \\frac{1}{ x - 5 } }\\)",
+      "math": [
+        "\\frac{ x - \\frac{ 3 x }{ x + 5 } }{ \\frac{1}{ x + 5 } + \\frac{1}{ x - 5 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mfrac>\n                <mrow>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                </mrow>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mfrac>\n                <mrow>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                </mrow>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 430,
+      "anchor": "fs-id1167826932489",
+      "page": "7-review-exercises",
+      "context": [
+        "Simplify a Complex Rational Expression by Writing It as Division",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{ \\frac{2}{m} + \\frac{m}{n} }{ \\frac{n}{m} - \\frac{1}{n} }\\)",
+      "math": [
+        "\\frac{ \\frac{2}{m} + \\frac{m}{n} }{ \\frac{n}{m} - \\frac{1}{n} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mi>m</mi>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mi>m</mi>\n                <mi>n</mi>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mi>n</mi>\n                <mi>m</mi>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mi>n</mi>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mi>m</mi>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mi>m</mi>\n                <mi>n</mi>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mi>n</mi>\n                <mi>m</mi>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mi>n</mi>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 431,
+      "anchor": "fs-id1167835378253",
+      "page": "7-review-exercises",
+      "context": [
+        "Simplify a Complex Rational Expression by Using the LCD",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{ \\frac{1}{3} + \\frac{1}{8} }{ \\frac{1}{4} + \\frac{1}{ 12 } }\\)",
+      "math": [
+        "\\frac{ \\frac{1}{3} + \\frac{1}{8} }{ \\frac{1}{4} + \\frac{1}{ 12 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mn>8</mn>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>4</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mn>12</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mn>8</mn>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>4</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mn>12</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 432,
+      "anchor": "fs-id1167831881490",
+      "page": "7-review-exercises",
+      "context": [
+        "Simplify a Complex Rational Expression by Using the LCD",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{ \\frac{3}{ {a}^{2} } - \\frac{1}{b} }{ \\frac{1}{a} + \\frac{1}{ {b}^{2} } }\\)",
+      "math": [
+        "\\frac{ \\frac{3}{ {a}^{2} } - \\frac{1}{b} }{ \\frac{1}{a} + \\frac{1}{ {b}^{2} } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>3</mn>\n                <mrow>\n                  <msup>\n                    <mi>a</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mi>b</mi>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mi>a</mi>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <msup>\n                    <mi>b</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>3</mn>\n                <mrow>\n                  <msup>\n                    <mi>a</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mi>b</mi>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mi>a</mi>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <msup>\n                    <mi>b</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 433,
+      "anchor": "fs-id1167835180539",
+      "page": "7-review-exercises",
+      "context": [
+        "Simplify a Complex Rational Expression by Using the LCD",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{ \\frac{2}{ {z}^{2} - 49 } + \\frac{1}{ z + 7 } }{ \\frac{9}{ z + 7 } + \\frac{ 12 }{ z - 7 } }\\)",
+      "math": [
+        "\\frac{ \\frac{2}{ {z}^{2} - 49 } + \\frac{1}{ z + 7 } }{ \\frac{9}{ z + 7 } + \\frac{ 12 }{ z - 7 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mrow>\n                  <msup>\n                    <mi>z</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>49</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mi>z</mi>\n                  <mo>+</mo>\n                  <mn>7</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>9</mn>\n                <mrow>\n                  <mi>z</mi>\n                  <mo>+</mo>\n                  <mn>7</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mrow>\n                  <mn>12</mn>\n                </mrow>\n                <mrow>\n                  <mi>z</mi>\n                  <mo>−</mo>\n                  <mn>7</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mrow>\n                  <msup>\n                    <mi>z</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>49</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mi>z</mi>\n                  <mo>+</mo>\n                  <mn>7</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>9</mn>\n                <mrow>\n                  <mi>z</mi>\n                  <mo>+</mo>\n                  <mn>7</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mrow>\n                  <mn>12</mn>\n                </mrow>\n                <mrow>\n                  <mi>z</mi>\n                  <mo>−</mo>\n                  <mn>7</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 434,
+      "anchor": "fs-id1167831116431",
+      "page": "7-review-exercises",
+      "context": [
+        "Simplify a Complex Rational Expression by Using the LCD",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{ \\frac{3}{ {y}^{2} - 4 y - 32 } }{ \\frac{2}{ y - 8 } + \\frac{1}{ y + 4 } }\\)",
+      "math": [
+        "\\frac{ \\frac{3}{ {y}^{2} - 4 y - 32 } }{ \\frac{2}{ y - 8 } + \\frac{1}{ y + 4 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>3</mn>\n                <mrow>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>32</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>8</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>3</mn>\n                <mrow>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>32</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>8</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 435,
+      "anchor": "fs-id1167831888006",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Rational Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\frac{1}{2} + \\frac{2}{3} = \\frac{1}{x}\\)",
+      "math": [
+        "\\frac{1}{2} + \\frac{2}{3} = \\frac{1}{x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mi>x</mi>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mi>x</mi>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 436,
+      "anchor": "fs-id1167831103003",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Rational Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(1 - \\frac{2}{m} = \\frac{8}{ {m}^{2} }\\)",
+      "math": [
+        "1 - \\frac{2}{m} = \\frac{8}{ {m}^{2} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>1</mn>\n          <mo>−</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mi>m</mi>\n          </mfrac>\n          <mo>=</mo>\n          <mfrac>\n            <mn>8</mn>\n            <mrow>\n              <msup>\n                <mi>m</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>1</mn>\n          <mo>−</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mi>m</mi>\n          </mfrac>\n          <mo>=</mo>\n          <mfrac>\n            <mn>8</mn>\n            <mrow>\n              <msup>\n                <mi>m</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 437,
+      "anchor": "fs-id1167831922363",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Rational Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\frac{1}{ b - 2 } + \\frac{1}{ b + 2 } = \\frac{3}{ {b}^{2} - 4 }\\)",
+      "math": [
+        "\\frac{1}{ b - 2 } + \\frac{1}{ b + 2 } = \\frac{3}{ {b}^{2} - 4 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mi>b</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mi>b</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 438,
+      "anchor": "fs-id1167835531509",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Rational Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\frac{3}{ q + 8 } - \\frac{2}{ q - 2 } = 1\\)",
+      "math": [
+        "\\frac{3}{ q + 8 } - \\frac{2}{ q - 2 } = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <mi>q</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mrow>\n              <mi>q</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <mi>q</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mrow>\n              <mi>q</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 439,
+      "anchor": "fs-id1167826940578",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Rational Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\frac{ v - 15 }{ {v}^{2} - 9 v + 18 } = \\frac{4}{ v - 3 } + \\frac{2}{ v - 6 }\\)",
+      "math": [
+        "\\frac{ v - 15 }{ {v}^{2} - 9 v + 18 } = \\frac{4}{ v - 3 } + \\frac{2}{ v - 6 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>v</mi>\n              <mo>−</mo>\n              <mn>15</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>v</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>9</mn>\n              <mi>v</mi>\n              <mo>+</mo>\n              <mn>18</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <mi>v</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mrow>\n              <mi>v</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>v</mi>\n              <mo>−</mo>\n              <mn>15</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>v</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>9</mn>\n              <mi>v</mi>\n              <mo>+</mo>\n              <mn>18</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <mi>v</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mrow>\n              <mi>v</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 440,
+      "anchor": "fs-id1167835621214",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Rational Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\frac{z}{ 12 } + \\frac{ z + 3 }{ 3 z } = \\frac{1}{z}\\)",
+      "math": [
+        "\\frac{z}{ 12 } + \\frac{ z + 3 }{ 3 z } = \\frac{1}{z}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mi>z</mi>\n            <mrow>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mi>z</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <mi>z</mi>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mi>z</mi>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mi>z</mi>\n            <mrow>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mi>z</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <mi>z</mi>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mi>z</mi>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 441,
+      "anchor": "fs-id1167835414573",
+      "page": "7-review-exercises",
+      "context": [
+        "In the following exercises, solve.",
+        "Solve Rational Equations that Involve Functions"
+      ],
+      "text": "For rational function, \\(f(x)=\\frac{x+2}{{x}^{2}-6x+8},\\) ⓐ find the domain of the function ⓑ solve \\(f(x)=1\\) ⓒ find the points on the graph at this function value.",
+      "math": [
+        "f(x)=\\frac{x+2}{{x}^{2}-6x+8},",
+        "f(x)=1"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>6</mn><mi>x</mi><mo>+</mo><mn>8</mn></mrow></mfrac><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>6</mn><mi>x</mi><mo>+</mo><mn>8</mn></mrow></mfrac><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>1</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 442,
+      "anchor": "fs-id1167832153353",
+      "page": "7-review-exercises",
+      "context": [
+        "In the following exercises, solve.",
+        "Solve Rational Equations that Involve Functions"
+      ],
+      "text": "For rational function, \\(f(x)=\\frac{2-x}{{x}^{2}+7x+10},\\) ⓐ find the domain of the function ⓑ solve \\(f(x)=2\\) ⓒ find the points on the graph at this function value.",
+      "math": [
+        "f(x)=\\frac{2-x}{{x}^{2}+7x+10},",
+        "f(x)=2"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mn>2</mn><mo>−</mo><mi>x</mi></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>7</mn><mi>x</mi><mo>+</mo><mn>10</mn></mrow></mfrac><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mn>2</mn><mo>−</mo><mi>x</mi></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>7</mn><mi>x</mi><mo>+</mo><mn>10</mn></mrow></mfrac><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>2</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 443,
+      "anchor": "fs-id1167834539232",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve a Rational Equation for a Specific Variable",
+        "In the following exercises, solve for the indicated variable."
+      ],
+      "text": "\\(\\frac{V}{l}=hw\\) for \\(l.\\)",
+      "math": [
+        "\\frac{V}{l}=hw",
+        "l."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mi>V</mi><mi>l</mi></mfrac><mo>=</mo><mi>h</mi><mi>w</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mi>V</mi><mi>l</mi></mfrac><mo>=</mo><mi>h</mi><mi>w</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>l</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>l</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 444,
+      "anchor": "fs-id1167830702716",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve a Rational Equation for a Specific Variable",
+        "In the following exercises, solve for the indicated variable."
+      ],
+      "text": "\\(\\frac{1}{x}-\\frac{2}{y}=5\\) for \\(y.\\)",
+      "math": [
+        "\\frac{1}{x}-\\frac{2}{y}=5",
+        "y."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mi>x</mi></mfrac><mo>−</mo><mfrac><mn>2</mn><mi>y</mi></mfrac><mo>=</mo><mn>5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mi>x</mi></mfrac><mo>−</mo><mfrac><mn>2</mn><mi>y</mi></mfrac><mo>=</mo><mn>5</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 445,
+      "anchor": "fs-id1167834191397",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve a Rational Equation for a Specific Variable",
+        "In the following exercises, solve for the indicated variable."
+      ],
+      "text": "\\(x=\\frac{y+5}{z-7}\\) for \\(z.\\)",
+      "math": [
+        "x=\\frac{y+5}{z-7}",
+        "z."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mfrac><mrow><mi>y</mi><mo>+</mo><mn>5</mn></mrow><mrow><mi>z</mi><mo>−</mo><mn>7</mn></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mfrac><mrow><mi>y</mi><mo>+</mo><mn>5</mn></mrow><mrow><mi>z</mi><mo>−</mo><mn>7</mn></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>z</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>z</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 446,
+      "anchor": "fs-id1167835353171",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve a Rational Equation for a Specific Variable",
+        "In the following exercises, solve for the indicated variable."
+      ],
+      "text": "\\(P=\\frac{k}{V}\\) for \\(V.\\)",
+      "math": [
+        "P=\\frac{k}{V}",
+        "V."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>P</mi><mo>=</mo><mfrac><mi>k</mi><mi>V</mi></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>P</mi><mo>=</mo><mfrac><mi>k</mi><mi>V</mi></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>V</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>V</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 447,
+      "anchor": "fs-id1167834239083",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Proportions",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\frac{x}{4} = \\frac{3}{5}\\)",
+      "math": [
+        "\\frac{x}{4} = \\frac{3}{5}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mi>x</mi>\n            <mn>4</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>5</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mi>x</mi>\n            <mn>4</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>5</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 448,
+      "anchor": "fs-id1167831909917",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Proportions",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\frac{3}{y} = \\frac{9}{5}\\)",
+      "math": [
+        "\\frac{3}{y} = \\frac{9}{5}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>3</mn>\n            <mi>y</mi>\n          </mfrac>\n          <mo>=</mo>\n          <mfrac>\n            <mn>9</mn>\n            <mn>5</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>3</mn>\n            <mi>y</mi>\n          </mfrac>\n          <mo>=</mo>\n          <mfrac>\n            <mn>9</mn>\n            <mn>5</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 449,
+      "anchor": "fs-id1167831909954",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Proportions",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\frac{s}{ s + 20 } = \\frac{3}{7}\\)",
+      "math": [
+        "\\frac{s}{ s + 20 } = \\frac{3}{7}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mi>s</mi>\n            <mrow>\n              <mi>s</mi>\n              <mo>+</mo>\n              <mn>20</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>7</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mi>s</mi>\n            <mrow>\n              <mi>s</mi>\n              <mo>+</mo>\n              <mn>20</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>7</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 450,
+      "anchor": "fs-id1167830698162",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Proportions",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\frac{ t - 3 }{5} = \\frac{ t + 2 }{9}\\)",
+      "math": [
+        "\\frac{ t - 3 }{5} = \\frac{ t + 2 }{9}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>t</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mn>5</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mi>t</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>t</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mn>5</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mi>t</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 451,
+      "anchor": "fs-id1167835621398",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Using Proportions",
+        "In the following exercises, solve."
+      ],
+      "text": "Rachael had a 21-ounce strawberry shake that has 739 calories. How many calories are there in a 32-ounce shake?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 452,
+      "anchor": "fs-id1167835621419",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Using Proportions",
+        "In the following exercises, solve."
+      ],
+      "text": "Leo went to Mexico over Christmas break and changed $525 dollars into Mexican pesos. At that time, the exchange rate had $1 US is equal to 16.25 Mexican pesos. How many Mexican pesos did he get for his trip?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 453,
+      "anchor": "fs-id1167832215366",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Similar Figure Applications",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(ΔABC\\) is similar to \\(ΔXYZ.\\) The lengths of two sides of each triangle are given in the figure. Find the lengths of the third sides. [FIGURA: The first figure is triangle A B C with side A B 8 units long, side B C 7 units long, and side A C b units long. The second figure is triangle X Y Z with side X Y 2 and two-thirds units long, side Y Z x units long, and side X Z 3 units long.]",
+      "math": [
+        "ΔABC",
+        "ΔXYZ."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>Δ</mtext><mi>A</mi><mi>B</mi><mi>C</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>Δ</mtext><mi>A</mi><mi>B</mi><mi>C</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>Δ</mtext><mi>X</mi><mi>Y</mi><mi>Z</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>Δ</mtext><mi>X</mi><mi>Y</mi><mi>Z</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": [
+        "The first figure is triangle A B C with side A B 8 units long, side B C 7 units long, and side A C b units long. The second figure is triangle X Y Z with side X Y 2 and two-thirds units long, side Y Z x units long, and side X Z 3 units long."
+      ]
+    },
+    {
+      "number": 454,
+      "anchor": "fs-id1167834192043",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Similar Figure Applications",
+        "In the following exercises, solve."
+      ],
+      "text": "On a map of Europe, Paris, Rome, and Vienna form a triangle whose sides are shown in the figure below. If the actual distance from Rome to Vienna is 700 miles, find the distance fromⓐ Paris to Romeⓑ Paris to Vienna [FIGURA: The figure is a triangle formed by Paris, Vienna, and Rome. The distance between Paris and Vienna is 7.7 centimeters. The distance between Vienna and Rome is 7 centimeters. The distance between Rome and Paris is 8.9 centimeters.]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "The figure is a triangle formed by Paris, Vienna, and Rome. The distance between Paris and Vienna is 7.7 centimeters. The distance between Vienna and Rome is 7 centimeters. The distance between Rome and Paris is 8.9 centimeters."
+      ]
+    },
+    {
+      "number": 455,
+      "anchor": "fs-id1167826803645",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Similar Figure Applications",
+        "In the following exercises, solve."
+      ],
+      "text": "Francesca is 5.75 feet tall. Late one afternoon, her shadow was 8 feet long. At the same time, the shadow of a nearby tree was 32 feet long. Find the height of the tree.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 456,
+      "anchor": "fs-id1167835318006",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Similar Figure Applications",
+        "In the following exercises, solve."
+      ],
+      "text": "The height of a lighthouse in Pensacola, Florida is 150 feet. Standing next to the statue, 5.5-foot-tall Natasha cast a 1.1-foot shadow. How long would the shadow of the lighthouse be?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 457,
+      "anchor": "fs-id1167835318032",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Uniform Motion Applications",
+        "In the following exercises, solve."
+      ],
+      "text": "When making the 5-hour drive home from visiting her parents, Lolo ran into bad weather. She was able to drive 176 miles while the weather was good, but then driving 10 mph slower, went 81 miles when it turned bad. How fast did she drive when the weather was bad?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 458,
+      "anchor": "fs-id1167835621321",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Uniform Motion Applications",
+        "In the following exercises, solve."
+      ],
+      "text": "Mark is riding on a plane that can fly 490 miles with a headwind of 20 mph in the same time that it can fly 350 miles against a tailwind of 20 mph. What is the speed of the plane?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 459,
+      "anchor": "fs-id1167835621343",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Uniform Motion Applications",
+        "In the following exercises, solve."
+      ],
+      "text": "Josue can ride his bicycle 8 mph faster than Arjun can ride his bike. It takes Arjun 3 hours longer than Josue to ride 48 miles. How fast can Josue ride his bike?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 460,
+      "anchor": "fs-id1167835621364",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Uniform Motion Applications",
+        "In the following exercises, solve."
+      ],
+      "text": "Curtis was training for a triathlon. He ran 8 kilometers and biked 32 kilometers in a total of 3 hours. His running speed was 8 kilometers per hour less than his biking speed. What was his running speed?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 461,
+      "anchor": "fs-id1167831949102",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Work Applications",
+        "In the following exercises, solve."
+      ],
+      "text": "Brandy can frame a room in 1 hour, while Jake takes 4 hours. How long could they frame a room working together?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 462,
+      "anchor": "fs-id1167831949127",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Work Applications",
+        "In the following exercises, solve."
+      ],
+      "text": "Prem takes 3 hours to mow the lawn while her cousin, Barb, takes 2 hours. How long will it take them working together?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 463,
+      "anchor": "fs-id1167832116068",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Work Applications",
+        "In the following exercises, solve."
+      ],
+      "text": "Jeffrey can paint a house in 6 days, but if he gets a helper he can do it in 4 days. How long would it take the helper to paint the house alone?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 464,
+      "anchor": "fs-id1167832116090",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Work Applications",
+        "In the following exercises, solve."
+      ],
+      "text": "Marta and Deb work together writing a book that takes them 90 days. If Marta worked alone it would take her 120 days. How long would it take Deb to write the book alone?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 465,
+      "anchor": "fs-id1167830703239",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Direct Variation Problems",
+        "In the following exercises, solve."
+      ],
+      "text": "If \\(y\\) varies directly as \\(x\\) when \\(y=9\\) and \\(x=3,\\) find \\(x\\) when \\(y=21.\\)",
+      "math": [
+        "y",
+        "x",
+        "y=9",
+        "x=3,",
+        "x",
+        "y=21."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mi>y</mi></mrow><annotation-xml encoding=\"MathML-Content\"><mi>y</mi></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mi>x</mi></mrow><annotation-xml encoding=\"MathML-Content\"><mi>x</mi></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>9</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>9</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>3</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>3</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mi>x</mi></mrow><annotation-xml encoding=\"MathML-Content\"><mi>x</mi></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>21</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>21</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 466,
+      "anchor": "fs-id1167830809310",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Direct Variation Problems",
+        "In the following exercises, solve."
+      ],
+      "text": "If \\(y\\) varies inversely as \\(x\\) when \\(y=20\\) and \\(x=2,\\) find \\(y\\) when \\(x=4.\\)",
+      "math": [
+        "y",
+        "x",
+        "y=20",
+        "x=2,",
+        "y",
+        "x=4."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mi>y</mi></mrow><annotation-xml encoding=\"MathML-Content\"><mi>y</mi></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mi>x</mi></mrow><annotation-xml encoding=\"MathML-Content\"><mi>x</mi></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>20</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>20</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>2</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>2</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mi>y</mi></mrow><annotation-xml encoding=\"MathML-Content\"><mi>y</mi></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>4</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>4</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 467,
+      "anchor": "fs-id1167830697548",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Direct Variation Problems",
+        "In the following exercises, solve."
+      ],
+      "text": "Vanessa is traveling to see her fiancé. The distance, \\(d,\\) varies directly with the speed, \\(v,\\) she drives. If she travels 258 miles driving 60 mph, how far would she travel going 70 mph?",
+      "math": [
+        "d,",
+        "v,"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>d</mi><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>d</mi><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>v</mi><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>v</mi><mo>,</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 468,
+      "anchor": "fs-id1167835414690",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Direct Variation Problems",
+        "In the following exercises, solve."
+      ],
+      "text": "If the cost of a pizza varies directly with its diameter, and if an 8” diameter pizza costs $12, how much would a 6” diameter pizza cost?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 469,
+      "anchor": "fs-id1167835517931",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Direct Variation Problems",
+        "In the following exercises, solve."
+      ],
+      "text": "The distance to stop a car varies directly with the square of its speed. It takes 200 feet to stop a car going 50 mph. How many feet would it take to stop a car going 60 mph?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 470,
+      "anchor": "fs-id1167835517961",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Inverse Variation Problems",
+        "In the following exercises, solve."
+      ],
+      "text": "If \\(m\\) varies inversely with the square of \\(n,\\) when \\(m=4\\) and \\(n=6\\) find \\(m\\) when \\(n=2.\\)",
+      "math": [
+        "m",
+        "n,",
+        "m=4",
+        "n=6",
+        "m",
+        "n=2."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mi>m</mi></mrow><annotation-xml encoding=\"MathML-Content\"><mi>m</mi></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>n</mi><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>n</mi><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>m</mi><mo>=</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>m</mi><mo>=</mo><mn>4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>n</mi><mo>=</mo><mn>6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>n</mi><mo>=</mo><mn>6</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mi>m</mi></mrow><annotation-xml encoding=\"MathML-Content\"><mi>m</mi></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>n</mi><mo>=</mo><mn>2</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>n</mi><mo>=</mo><mn>2</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 471,
+      "anchor": "fs-id1167831920975",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Inverse Variation Problems",
+        "In the following exercises, solve."
+      ],
+      "text": "The number of tickets for a music fundraiser varies inversely with the price of the tickets. If Madelyn has just enough money to purchase 12 tickets for $6 each, how many tickets can Madelyn afford to buy if the price increased to $8?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 472,
+      "anchor": "fs-id1167835377890",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Inverse Variation Problems",
+        "In the following exercises, solve."
+      ],
+      "text": "On a string instrument, the length of a string varies inversely with the frequency of its vibrations. If an 11-inch string on a violin has a frequency of 360 cycles per second, what frequency does a 12-inch string have?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 473,
+      "anchor": "fs-id1167834327312",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{ x - 3 }{ x + 4 } ≤ 0\\)",
+      "math": [
+        "\\frac{ x - 3 }{ x + 4 } \\le 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n          <mo>≤</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n          <mo>≤</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 474,
+      "anchor": "fs-id1167832117897",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{ 5 x }{ x - 2 } > 1\\)",
+      "math": [
+        "\\frac{ 5 x }{ x - 2 } > 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>&gt;</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>&gt;</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 475,
+      "anchor": "fs-id1167826987657",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{ 3 x - 2 }{ x - 4 } ≤ 2\\)",
+      "math": [
+        "\\frac{ 3 x - 2 }{ x - 4 } \\le 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n          <mo>≤</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n          <mo>≤</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 476,
+      "anchor": "fs-id1167835497997",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{1}{ {x}^{2} - 4 x - 12 } < 0\\)",
+      "math": [
+        "\\frac{1}{ {x}^{2} - 4 x - 12 } < 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n          <mo>&lt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n          <mo>&lt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 477,
+      "anchor": "fs-id1167834525225",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{1}{2} - \\frac{4}{ {x}^{2} } ≥ \\frac{1}{x}\\)",
+      "math": [
+        "\\frac{1}{2} - \\frac{4}{ {x}^{2} } \\ge \\frac{1}{x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n          <mo>≥</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mi>x</mi>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n          <mo>≥</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mi>x</mi>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 478,
+      "anchor": "fs-id1167835414782",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{4}{ x - 2 } < \\frac{3}{ x + 1 }\\)",
+      "math": [
+        "\\frac{4}{ x - 2 } < \\frac{3}{ x + 1 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>&lt;</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>&lt;</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 479,
+      "anchor": "fs-id1167828441724",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve an Inequality with Rational Functions",
+        "In the following exercises, solve each rational function inequality and write the solution in interval notation"
+      ],
+      "text": "Given the function, \\(R(x)=\\frac{x-5}{x-2},\\) find the values of \\(x\\) that make the function greater than or equal to 0.",
+      "math": [
+        "R(x)=\\frac{x-5}{x-2},",
+        "x"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>R</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mi>x</mi><mo>−</mo><mn>5</mn></mrow><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow></mfrac><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>R</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mi>x</mi><mo>−</mo><mn>5</mn></mrow><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow></mfrac><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mi>x</mi></mrow><annotation-xml encoding=\"MathML-Content\"><mi>x</mi></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 480,
+      "anchor": "fs-id1167827957228",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve an Inequality with Rational Functions",
+        "In the following exercises, solve each rational function inequality and write the solution in interval notation"
+      ],
+      "text": "Given the function, \\(R(x)=\\frac{x+1}{x+3},\\) find the values of \\(x\\) that make the function less than or equal to 0.",
+      "math": [
+        "R(x)=\\frac{x+1}{x+3},",
+        "x"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>R</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>R</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mi>x</mi></mrow><annotation-xml encoding=\"MathML-Content\"><mi>x</mi></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 481,
+      "anchor": "fs-id1167827957618",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve an Inequality with Rational Functions",
+        "In the following exercises, solve each rational function inequality and write the solution in interval notation"
+      ],
+      "text": "The function\\(C(x)=150x+100,000\\) represents the cost to produce \\(x,\\) number of items. Find ⓐ the average cost function, \\(c(x)\\) ⓑ how many items should be produced so that the average cost is less than $160.",
+      "math": [
+        "C(x)=150x+100,000",
+        "x,",
+        "c(x)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>C</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>150</mn><mi>x</mi><mo>+</mo><mn>100,000</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>C</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>150</mn><mi>x</mi><mo>+</mo><mn>100,000</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>c</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>c</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 482,
+      "anchor": "fs-id1167835354781",
+      "page": "7-review-exercises",
+      "context": [
+        "Solve an Inequality with Rational Functions",
+        "In the following exercises, solve each rational function inequality and write the solution in interval notation"
+      ],
+      "text": "Tillman is starting his own business by selling tacos at the beach. Accounting for the cost of his food truck and ingredients for the tacos, the function \\(C(x)=2x+6,000\\) represents the cost for Tillman to produce \\(x,\\) tacos. Find ⓐ the average cost function, \\(c(x)\\) for Tillman’s Tacos ⓑ how many tacos should Tillman produce so that the average cost is less than $4.",
+      "math": [
+        "C(x)=2x+6,000",
+        "x,",
+        "c(x)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>C</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>6,000</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>C</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>6,000</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>c</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>c</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "practice": [],
+  "answers": {}
+}

@@ -1,0 +1,1414 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/10-5-solve-exponential-and-logarithmic-equations",
+  "title": "10.5 Solve Exponential and Logarithmic Equations",
+  "sha256": "e79123ea2fe0d80be99e959fe3ead376151cac6877edd893133e3e331d66178e",
+  "questions": [
+    {
+      "number": 288,
+      "anchor": "fs-id1167836540322",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Solve Logarithmic Equations Using the Properties of Logarithms",
+        "In the following exercises, solve for x."
+      ],
+      "text": "\\({ log }_{4} 64 = 2 { log }_{4} x\\)",
+      "math": [
+        "\\log_{4} 64 = 2 \\log_{4} x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>4</mn>\n          </msub>\n          <mn>64</mn>\n          <mo>=</mo>\n          <mn>2</mn>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>4</mn>\n          </msub>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>4</mn>\n          </msub>\n          <mn>64</mn>\n          <mo>=</mo>\n          <mn>2</mn>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>4</mn>\n          </msub>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 289,
+      "anchor": "fs-id1167829711891",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Solve Logarithmic Equations Using the Properties of Logarithms",
+        "In the following exercises, solve for x."
+      ],
+      "text": "\\(log 49 = 2 log x\\)",
+      "math": [
+        "\\log 49 = 2 \\log x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>log</mtext>\n          <mn>49</mn>\n          <mo>=</mo>\n          <mn>2</mn>\n          <mtext>log</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>log</mtext>\n          <mn>49</mn>\n          <mo>=</mo>\n          <mn>2</mn>\n          <mtext>log</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 290,
+      "anchor": "fs-id1167836296368",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Solve Logarithmic Equations Using the Properties of Logarithms",
+        "In the following exercises, solve for x."
+      ],
+      "text": "\\(3 { log }_{3} x = { log }_{3} 27\\)",
+      "math": [
+        "3 \\log_{3} x = \\log_{3} 27"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mn>27</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mn>27</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 291,
+      "anchor": "fs-id1167836492779",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Solve Logarithmic Equations Using the Properties of Logarithms",
+        "In the following exercises, solve for x."
+      ],
+      "text": "\\(3 { log }_{6} x = { log }_{6} 64\\)",
+      "math": [
+        "3 \\log_{6} x = \\log_{6} 64"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>6</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>6</mn>\n          </msub>\n          <mn>64</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>6</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>6</mn>\n          </msub>\n          <mn>64</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 292,
+      "anchor": "fs-id1167836363557",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Solve Logarithmic Equations Using the Properties of Logarithms",
+        "In the following exercises, solve for x."
+      ],
+      "text": "\\({ log }_{5} ( 4 x - 2 ) = { log }_{5} 10\\)",
+      "math": [
+        "\\log_{5} ( 4 x - 2 ) = \\log_{5} 10"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mn>10</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mn>10</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 293,
+      "anchor": "fs-id1167836328255",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Solve Logarithmic Equations Using the Properties of Logarithms",
+        "In the following exercises, solve for x."
+      ],
+      "text": "\\({ log }_{3} ( {x}^{2} + 3 ) = { log }_{3} 4 x\\)",
+      "math": [
+        "\\log_{3} ( {x}^{2} + 3 ) = \\log_{3} 4 x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mn>4</mn>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mn>4</mn>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 294,
+      "anchor": "fs-id1167836553822",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Solve Logarithmic Equations Using the Properties of Logarithms",
+        "In the following exercises, solve for x."
+      ],
+      "text": "\\({ log }_{3} x + { log }_{3} x = 2\\)",
+      "math": [
+        "\\log_{3} x + \\log_{3} x = 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>+</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>+</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 295,
+      "anchor": "fs-id1167829739028",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Solve Logarithmic Equations Using the Properties of Logarithms",
+        "In the following exercises, solve for x."
+      ],
+      "text": "\\({ log }_{4} x + { log }_{4} x = 3\\)",
+      "math": [
+        "\\log_{4} x + \\log_{4} x = 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>4</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>+</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>4</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>4</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>+</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>4</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 296,
+      "anchor": "fs-id1167836525020",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Solve Logarithmic Equations Using the Properties of Logarithms",
+        "In the following exercises, solve for x."
+      ],
+      "text": "\\({ log }_{2} x + { log }_{2} ( x - 3 ) = 2\\)",
+      "math": [
+        "\\log_{2} x + \\log_{2} ( x - 3 ) = 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>+</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>+</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 297,
+      "anchor": "fs-id1167832926139",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Solve Logarithmic Equations Using the Properties of Logarithms",
+        "In the following exercises, solve for x."
+      ],
+      "text": "\\({ log }_{3} x + { log }_{3} ( x + 6 ) = 3\\)",
+      "math": [
+        "\\log_{3} x + \\log_{3} ( x + 6 ) = 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>+</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>+</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 298,
+      "anchor": "fs-id1167836689423",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Solve Logarithmic Equations Using the Properties of Logarithms",
+        "In the following exercises, solve for x."
+      ],
+      "text": "\\(log x + log ( x + 3 ) = 1\\)",
+      "math": [
+        "\\log x + \\log ( x + 3 ) = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>log</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mtext>log</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>log</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mtext>log</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 299,
+      "anchor": "fs-id1167829808900",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Solve Logarithmic Equations Using the Properties of Logarithms",
+        "In the following exercises, solve for x."
+      ],
+      "text": "\\(log x + log ( x - 15 ) = 2\\)",
+      "math": [
+        "\\log x + \\log ( x - 15 ) = 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>log</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mtext>log</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>15</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>log</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mtext>log</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>15</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 300,
+      "anchor": "fs-id1167829691959",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Solve Logarithmic Equations Using the Properties of Logarithms",
+        "In the following exercises, solve for x."
+      ],
+      "text": "\\(log ( x + 4 ) - log ( 5 x + 12 ) = - log x\\)",
+      "math": [
+        "\\log ( x + 4 ) - \\log ( 5 x + 12 ) = - \\log x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>log</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mtext>log</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>12</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <mtext>log</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>log</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mtext>log</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>12</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <mtext>log</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 301,
+      "anchor": "fs-id1167833086629",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Solve Logarithmic Equations Using the Properties of Logarithms",
+        "In the following exercises, solve for x."
+      ],
+      "text": "\\(log ( x - 1 ) - log ( x + 3 ) = log \\frac{1}{x}\\)",
+      "math": [
+        "\\log ( x - 1 ) - \\log ( x + 3 ) = \\log \\frac{1}{x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>log</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mtext>log</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mtext>log</mtext>\n          <mfrac>\n            <mn>1</mn>\n            <mi>x</mi>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>log</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mtext>log</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mtext>log</mtext>\n          <mfrac>\n            <mn>1</mn>\n            <mi>x</mi>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 302,
+      "anchor": "fs-id1167833158857",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Solve Logarithmic Equations Using the Properties of Logarithms",
+        "In the following exercises, solve for x."
+      ],
+      "text": "\\({ log }_{5} ( x + 3 ) + { log }_{5} ( x - 6 ) = { log }_{5} 10\\)",
+      "math": [
+        "\\log_{5} ( x + 3 ) + \\log_{5} ( x - 6 ) = \\log_{5} 10"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mn>10</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mn>10</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 303,
+      "anchor": "fs-id1167836613595",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Solve Logarithmic Equations Using the Properties of Logarithms",
+        "In the following exercises, solve for x."
+      ],
+      "text": "\\({ log }_{5} ( x + 1 ) + { log }_{5} ( x - 5 ) = { log }_{5} 7\\)",
+      "math": [
+        "\\log_{5} ( x + 1 ) + \\log_{5} ( x - 5 ) = \\log_{5} 7"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mn>7</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mn>7</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 304,
+      "anchor": "fs-id1167833212955",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Solve Logarithmic Equations Using the Properties of Logarithms",
+        "In the following exercises, solve for x."
+      ],
+      "text": "\\({ log }_{3} ( 2 x - 1 ) = { log }_{3} ( x + 3 ) + { log }_{3} 3\\)",
+      "math": [
+        "\\log_{3} ( 2 x - 1 ) = \\log_{3} ( x + 3 ) + \\log_{3} 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 305,
+      "anchor": "fs-id1167836560798",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Solve Logarithmic Equations Using the Properties of Logarithms",
+        "In the following exercises, solve for x."
+      ],
+      "text": "\\(log ( 5 x + 1 ) = log ( x + 3 ) + log 2\\)",
+      "math": [
+        "\\log ( 5 x + 1 ) = \\log ( x + 3 ) + \\log 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>log</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mtext>log</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mtext>log</mtext>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>log</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mtext>log</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mtext>log</mtext>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 306,
+      "anchor": "fs-id1167836717073",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Solve Exponential Equations Using Logarithms",
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places."
+      ],
+      "text": "\\({3}^{x} = 89\\)",
+      "math": [
+        "{3}^{x} = 89"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mn>3</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>=</mo>\n          <mn>89</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mn>3</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>=</mo>\n          <mn>89</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 307,
+      "anchor": "fs-id1167829850924",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Solve Exponential Equations Using Logarithms",
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places."
+      ],
+      "text": "\\({2}^{x} = 74\\)",
+      "math": [
+        "{2}^{x} = 74"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mn>2</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>=</mo>\n          <mn>74</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mn>2</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>=</mo>\n          <mn>74</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 308,
+      "anchor": "fs-id1167836392322",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Solve Exponential Equations Using Logarithms",
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places."
+      ],
+      "text": "\\({5}^{x} = 110\\)",
+      "math": [
+        "{5}^{x} = 110"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mn>5</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>=</mo>\n          <mn>110</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mn>5</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>=</mo>\n          <mn>110</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 309,
+      "anchor": "fs-id1167836673452",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Solve Exponential Equations Using Logarithms",
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places."
+      ],
+      "text": "\\({4}^{x} = 112\\)",
+      "math": [
+        "{4}^{x} = 112"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mn>4</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>=</mo>\n          <mn>112</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mn>4</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>=</mo>\n          <mn>112</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 310,
+      "anchor": "fs-id1167830095267",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Solve Exponential Equations Using Logarithms",
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places."
+      ],
+      "text": "\\({e}^{x} = 16\\)",
+      "math": [
+        "{e}^{x} = 16"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>e</mi>\n            <mi>x</mi>\n          </msup>\n          <mo>=</mo>\n          <mn>16</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>e</mi>\n            <mi>x</mi>\n          </msup>\n          <mo>=</mo>\n          <mn>16</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 311,
+      "anchor": "fs-id1167829788713",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Solve Exponential Equations Using Logarithms",
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places."
+      ],
+      "text": "\\({e}^{x} = 8\\)",
+      "math": [
+        "{e}^{x} = 8"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>e</mi>\n            <mi>x</mi>\n          </msup>\n          <mo>=</mo>\n          <mn>8</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>e</mi>\n            <mi>x</mi>\n          </msup>\n          <mo>=</mo>\n          <mn>8</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 312,
+      "anchor": "fs-id1167836440934",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Solve Exponential Equations Using Logarithms",
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places."
+      ],
+      "text": "\\({ ( \\frac{1}{2} ) }^{x} = 6\\)",
+      "math": [
+        "{ ( \\frac{1}{2} ) }^{x} = 6"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mi>x</mi>\n          </msup>\n          <mo>=</mo>\n          <mn>6</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mi>x</mi>\n          </msup>\n          <mo>=</mo>\n          <mn>6</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 313,
+      "anchor": "fs-id1167829691244",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Solve Exponential Equations Using Logarithms",
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places."
+      ],
+      "text": "\\({ ( \\frac{1}{3} ) }^{x} = 8\\)",
+      "math": [
+        "{ ( \\frac{1}{3} ) }^{x} = 8"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>3</mn>\n                  </mfrac>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mi>x</mi>\n          </msup>\n          <mo>=</mo>\n          <mn>8</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>3</mn>\n                  </mfrac>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mi>x</mi>\n          </msup>\n          <mo>=</mo>\n          <mn>8</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 314,
+      "anchor": "fs-id1167836495341",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Solve Exponential Equations Using Logarithms",
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places."
+      ],
+      "text": "\\(4 {e}^{ x + 1 } = 16\\)",
+      "math": [
+        "4 {e}^{ x + 1 } = 16"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>16</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>16</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 315,
+      "anchor": "fs-id1167836684568",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Solve Exponential Equations Using Logarithms",
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places."
+      ],
+      "text": "\\(3 {e}^{ x + 2 } = 9\\)",
+      "math": [
+        "3 {e}^{ x + 2 } = 9"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>9</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>9</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 316,
+      "anchor": "fs-id1167833407464",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Solve Exponential Equations Using Logarithms",
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places."
+      ],
+      "text": "\\(6 {e}^{ 2 x } = 24\\)",
+      "math": [
+        "6 {e}^{ 2 x } = 24"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>6</mn>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>24</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>6</mn>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>24</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 317,
+      "anchor": "fs-id1167829811073",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Solve Exponential Equations Using Logarithms",
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places."
+      ],
+      "text": "\\(2 {e}^{ 3 x } = 32\\)",
+      "math": [
+        "2 {e}^{ 3 x } = 32"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>32</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>32</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 318,
+      "anchor": "fs-id1167836553274",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Solve Exponential Equations Using Logarithms",
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places."
+      ],
+      "text": "\\(\\frac{1}{4} {e}^{x} = 3\\)",
+      "math": [
+        "\\frac{1}{4} {e}^{x} = 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n          <msup>\n            <mi>e</mi>\n            <mi>x</mi>\n          </msup>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n          <msup>\n            <mi>e</mi>\n            <mi>x</mi>\n          </msup>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 319,
+      "anchor": "fs-id1167829878936",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Solve Exponential Equations Using Logarithms",
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places."
+      ],
+      "text": "\\(\\frac{1}{3} {e}^{x} = 2\\)",
+      "math": [
+        "\\frac{1}{3} {e}^{x} = 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <msup>\n            <mi>e</mi>\n            <mi>x</mi>\n          </msup>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <msup>\n            <mi>e</mi>\n            <mi>x</mi>\n          </msup>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 320,
+      "anchor": "fs-id1167829783770",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Solve Exponential Equations Using Logarithms",
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places."
+      ],
+      "text": "\\({e}^{ x + 1 } + 2 = 16\\)",
+      "math": [
+        "{e}^{ x + 1 } + 2 = 16"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mn>16</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mn>16</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 321,
+      "anchor": "fs-id1167836366804",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Solve Exponential Equations Using Logarithms",
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places."
+      ],
+      "text": "\\({e}^{ x - 1 } + 4 = 12\\)",
+      "math": [
+        "{e}^{ x - 1 } + 4 = 12"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mo>=</mo>\n          <mn>12</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mo>=</mo>\n          <mn>12</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 322,
+      "anchor": "fs-id1167836729968",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places.",
+        "In the following exercises, solve each equation."
+      ],
+      "text": "\\({3}^{ 3 x + 1 } = 81\\)",
+      "math": [
+        "{3}^{ 3 x + 1 } = 81"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mn>3</mn>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>81</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mn>3</mn>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>81</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 323,
+      "anchor": "fs-id1167829812757",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places.",
+        "In the following exercises, solve each equation."
+      ],
+      "text": "\\({6}^{ 4 x - 17 } = 216\\)",
+      "math": [
+        "{6}^{ 4 x - 17 } = 216"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mn>6</mn>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>17</mn>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>216</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mn>6</mn>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>17</mn>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>216</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 324,
+      "anchor": "fs-id1167830004629",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places.",
+        "In the following exercises, solve each equation."
+      ],
+      "text": "\\(\\frac{ {e}^{ {x}^{2} } }{ {e}^{ 14 } } = {e}^{ 5 x }\\)",
+      "math": [
+        "\\frac{ {e}^{ {x}^{2} } }{ {e}^{ 14 } } = {e}^{ 5 x }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>e</mi>\n                <mrow>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </msup>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>e</mi>\n                <mrow>\n                  <mn>14</mn>\n                </mrow>\n              </msup>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n            </mrow>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>e</mi>\n                <mrow>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </msup>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>e</mi>\n                <mrow>\n                  <mn>14</mn>\n                </mrow>\n              </msup>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n            </mrow>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 325,
+      "anchor": "fs-id1167836492335",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places.",
+        "In the following exercises, solve each equation."
+      ],
+      "text": "\\(\\frac{ {e}^{ {x}^{2} } }{ {e}^{x} } = {e}^{ 20 }\\)",
+      "math": [
+        "\\frac{ {e}^{ {x}^{2} } }{ {e}^{x} } = {e}^{ 20 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>e</mi>\n                <mrow>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </msup>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>e</mi>\n                <mi>x</mi>\n              </msup>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mn>20</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>e</mi>\n                <mrow>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </msup>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>e</mi>\n                <mi>x</mi>\n              </msup>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mn>20</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 326,
+      "anchor": "fs-id1167825791209",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places.",
+        "In the following exercises, solve each equation."
+      ],
+      "text": "\\({ log }_{a} 64 = 2\\)",
+      "math": [
+        "\\log_{a} 64 = 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mi>a</mi>\n          </msub>\n          <mn>64</mn>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mi>a</mi>\n          </msub>\n          <mn>64</mn>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 327,
+      "anchor": "fs-id1167836672305",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places.",
+        "In the following exercises, solve each equation."
+      ],
+      "text": "\\({ log }_{a} 81 = 4\\)",
+      "math": [
+        "\\log_{a} 81 = 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mi>a</mi>\n          </msub>\n          <mn>81</mn>\n          <mo>=</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mi>a</mi>\n          </msub>\n          <mn>81</mn>\n          <mo>=</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 328,
+      "anchor": "fs-id1167829738622",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places.",
+        "In the following exercises, solve each equation."
+      ],
+      "text": "\\(ln x = -8\\)",
+      "math": [
+        "\\ln x = -8"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>ln</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>−8</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>ln</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>−8</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 329,
+      "anchor": "fs-id1167832926942",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places.",
+        "In the following exercises, solve each equation."
+      ],
+      "text": "\\(ln x = 9\\)",
+      "math": [
+        "\\ln x = 9"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>ln</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>9</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>ln</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>9</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 330,
+      "anchor": "fs-id1167836366376",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places.",
+        "In the following exercises, solve each equation."
+      ],
+      "text": "\\({ log }_{5} ( 3 x - 8 ) = 2\\)",
+      "math": [
+        "\\log_{5} ( 3 x - 8 ) = 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mo stretchy=\"false\">(</mo>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>8</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mo stretchy=\"false\">(</mo>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>8</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 331,
+      "anchor": "fs-id1167829752166",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places.",
+        "In the following exercises, solve each equation."
+      ],
+      "text": "\\({ log }_{4} ( 7 x + 15 ) = 3\\)",
+      "math": [
+        "\\log_{4} ( 7 x + 15 ) = 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>4</mn>\n          </msub>\n          <mo stretchy=\"false\">(</mo>\n          <mn>7</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>15</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>4</mn>\n          </msub>\n          <mo stretchy=\"false\">(</mo>\n          <mn>7</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>15</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 332,
+      "anchor": "fs-id1167836545825",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places.",
+        "In the following exercises, solve each equation."
+      ],
+      "text": "\\(ln {e}^{ 5 x } = 30\\)",
+      "math": [
+        "\\ln {e}^{ 5 x } = 30"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>ln</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>30</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>ln</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>30</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 333,
+      "anchor": "fs-id1167836315108",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places.",
+        "In the following exercises, solve each equation."
+      ],
+      "text": "\\(ln {e}^{ 6 x } = 18\\)",
+      "math": [
+        "\\ln {e}^{ 6 x } = 18"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>ln</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mn>6</mn>\n              <mi>x</mi>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>18</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>ln</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mn>6</mn>\n              <mi>x</mi>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>18</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 334,
+      "anchor": "fs-id1167829752269",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places.",
+        "In the following exercises, solve each equation."
+      ],
+      "text": "\\(3 log x = log 125\\)",
+      "math": [
+        "3 \\log x = \\log 125"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <mtext>log</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mtext>log</mtext>\n          <mn>125</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <mtext>log</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mtext>log</mtext>\n          <mn>125</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 335,
+      "anchor": "fs-id1167829685951",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places.",
+        "In the following exercises, solve each equation."
+      ],
+      "text": "\\(7 { log }_{3} x = { log }_{3} 128\\)",
+      "math": [
+        "7 \\log_{3} x = \\log_{3} 128"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>7</mn>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mn>128</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>7</mn>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mn>128</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 336,
+      "anchor": "fs-id1167836486060",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places.",
+        "In the following exercises, solve each equation."
+      ],
+      "text": "\\({ log }_{6} x + { log }_{6} ( x - 5 ) = { log }_{6} 24\\)",
+      "math": [
+        "\\log_{6} x + \\log_{6} ( x - 5 ) = \\log_{6} 24"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>6</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>+</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>6</mn>\n          </msub>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>6</mn>\n          </msub>\n          <mn>24</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>6</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>+</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>6</mn>\n          </msub>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>6</mn>\n          </msub>\n          <mn>24</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 337,
+      "anchor": "fs-id1167829687093",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places.",
+        "In the following exercises, solve each equation."
+      ],
+      "text": "\\({ log }_{9} x + { log }_{9} ( x - 4 ) = { log }_{9} 12\\)",
+      "math": [
+        "\\log_{9} x + \\log_{9} ( x - 4 ) = \\log_{9} 12"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>9</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>+</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>9</mn>\n          </msub>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>9</mn>\n          </msub>\n          <mn>12</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>9</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>+</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>9</mn>\n          </msub>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>9</mn>\n          </msub>\n          <mn>12</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 338,
+      "anchor": "fs-id1167829746746",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places.",
+        "In the following exercises, solve each equation."
+      ],
+      "text": "\\({ log }_{2} ( x + 2 ) - { log }_{2} ( 2 x + 9 ) = - { log }_{2} x\\)",
+      "math": [
+        "\\log_{2} ( x + 2 ) - \\log_{2} ( 2 x + 9 ) = - \\log_{2} x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mo stretchy=\"false\">(</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>9</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mo stretchy=\"false\">(</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>9</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 339,
+      "anchor": "fs-id1167833021347",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places.",
+        "In the following exercises, solve each equation."
+      ],
+      "text": "\\({ log }_{6} ( x + 1 ) - { log }_{6} ( 4 x + 10 ) = { log }_{6} \\frac{1}{x}\\)",
+      "math": [
+        "\\log_{6} ( x + 1 ) - \\log_{6} ( 4 x + 10 ) = \\log_{6} \\frac{1}{x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>6</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>6</mn>\n          </msub>\n          <mo stretchy=\"false\">(</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>10</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>6</mn>\n          </msub>\n          <mfrac>\n            <mn>1</mn>\n            <mi>x</mi>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>6</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>6</mn>\n          </msub>\n          <mo stretchy=\"false\">(</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>10</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>6</mn>\n          </msub>\n          <mfrac>\n            <mn>1</mn>\n            <mi>x</mi>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 340,
+      "anchor": "fs-id1167829930921",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "In the following exercises, solve each equation.",
+        "In the following exercises, solve for x, giving an exact answer as well as an approximation to three decimal places."
+      ],
+      "text": "\\({6}^{x} = 91\\)",
+      "math": [
+        "{6}^{x} = 91"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mn>6</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>=</mo>\n          <mn>91</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mn>6</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>=</mo>\n          <mn>91</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 341,
+      "anchor": "fs-id1167829579275",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "In the following exercises, solve each equation.",
+        "In the following exercises, solve for x, giving an exact answer as well as an approximation to three decimal places."
+      ],
+      "text": "\\({ ( \\frac{1}{2} ) }^{x} = 10\\)",
+      "math": [
+        "{ ( \\frac{1}{2} ) }^{x} = 10"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mi>x</mi>\n          </msup>\n          <mo>=</mo>\n          <mn>10</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mi>x</mi>\n          </msup>\n          <mo>=</mo>\n          <mn>10</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 342,
+      "anchor": "fs-id1167836574163",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "In the following exercises, solve each equation.",
+        "In the following exercises, solve for x, giving an exact answer as well as an approximation to three decimal places."
+      ],
+      "text": "\\(7 {e}^{ x - 3 } = 35\\)",
+      "math": [
+        "7 {e}^{ x - 3 } = 35"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>7</mn>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>35</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>7</mn>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>35</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 343,
+      "anchor": "fs-id1167833138597",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "In the following exercises, solve each equation.",
+        "In the following exercises, solve for x, giving an exact answer as well as an approximation to three decimal places."
+      ],
+      "text": "\\(8 {e}^{ x + 5 } = 56\\)",
+      "math": [
+        "8 {e}^{ x + 5 } = 56"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>8</mn>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>56</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>8</mn>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>56</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 344,
+      "anchor": "fs-id1167833060235",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Use Exponential Models in Applications",
+        "In the following exercises, solve."
+      ],
+      "text": "Sung Lee invests \\(\\$5,000\\) at age 18. He hopes the investments will be worth \\(\\$10,000\\) when he turns 25. If the interest compounds continuously, approximately what rate of growth will he need to achieve his goal? Is that a reasonable expectation?",
+      "math": [
+        "$5,000",
+        "$10,000"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>$</mtext><mn>5,000</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>$</mtext><mn>5,000</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>$</mtext><mn>10,000</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>$</mtext><mn>10,000</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 345,
+      "anchor": "fs-id1167824720477",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Use Exponential Models in Applications",
+        "In the following exercises, solve."
+      ],
+      "text": "Alice invests \\(\\$15,000\\) at age 30 from the signing bonus of her new job. She hopes the investments will be worth \\(\\$30,000\\) when she turns 40. If the interest compounds continuously, approximately what rate of growth will she need to achieve her goal?",
+      "math": [
+        "$15,000",
+        "$30,000"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>$</mtext><mn>15,000</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>$</mtext><mn>15,000</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>$</mtext><mn>30,000</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>$</mtext><mn>30,000</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 346,
+      "anchor": "fs-id1167829750479",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Use Exponential Models in Applications",
+        "In the following exercises, solve."
+      ],
+      "text": "Coralee invests \\(\\$5,000\\) in an account that compounds interest monthly and earns \\(7%.\\) How long will it take for her money to double?",
+      "math": [
+        "$5,000",
+        "7%."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>$</mtext><mn>5,000</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>$</mtext><mn>5,000</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>7</mn><mtext>%</mtext><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>7</mn><mtext>%</mtext><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 347,
+      "anchor": "fs-id1167836449696",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Use Exponential Models in Applications",
+        "In the following exercises, solve."
+      ],
+      "text": "Simone invests \\(\\$8,000\\) in an account that compounds interest quarterly and earns \\(5%.\\) How long will it take for his money to double?",
+      "math": [
+        "$8,000",
+        "5%."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>$</mtext><mn>8,000</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>$</mtext><mn>8,000</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mtext>%</mtext><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mtext>%</mtext><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 348,
+      "anchor": "fs-id1167833022384",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Use Exponential Models in Applications",
+        "In the following exercises, solve."
+      ],
+      "text": "Researchers recorded that a certain bacteria population declined from 100,000 to 100 in 24 hours. At this rate of decay, how many bacteria will there be in 16 hours?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 349,
+      "anchor": "fs-id1167836666624",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Use Exponential Models in Applications",
+        "In the following exercises, solve."
+      ],
+      "text": "Researchers recorded that a certain bacteria population declined from 800,000 to 500,000 in 6 hours after the administration of medication. At this rate of decay, how many bacteria will there be in 24 hours?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 350,
+      "anchor": "fs-id1167826157593",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Use Exponential Models in Applications",
+        "In the following exercises, solve."
+      ],
+      "text": "A virus takes 6 days to double its original population \\((A=2{A}_{0}).\\) How long will it take to triple its population?",
+      "math": [
+        "(A=2{A}_{0})."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mi>A</mi><mo>=</mo><mn>2</mn><msub><mi>A</mi><mn>0</mn></msub></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mi>A</mi><mo>=</mo><mn>2</mn><msub><mi>A</mi><mn>0</mn></msub></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 351,
+      "anchor": "fs-id1167833082025",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Use Exponential Models in Applications",
+        "In the following exercises, solve."
+      ],
+      "text": "A bacteria doubles its original population in 24 hours \\((A=2{A}_{0}).\\) How big will its population be in 72 hours?",
+      "math": [
+        "(A=2{A}_{0})."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mi>A</mi><mo>=</mo><mn>2</mn><msub><mi>A</mi><mn>0</mn></msub></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mi>A</mi><mo>=</mo><mn>2</mn><msub><mi>A</mi><mn>0</mn></msub></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 352,
+      "anchor": "fs-id1167836619875",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Use Exponential Models in Applications",
+        "In the following exercises, solve."
+      ],
+      "text": "Carbon-14 is used for archeological carbon dating. Its half-life is 5,730 years. How much of a 100-gram sample of Carbon-14 will be left in 1000 years?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 353,
+      "anchor": "fs-id1167833060223",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Use Exponential Models in Applications",
+        "In the following exercises, solve."
+      ],
+      "text": "Radioactive technetium-99m is often used in diagnostic medicine as it has a relatively short half-life but lasts long enough to get the needed testing done on the patient. If its half-life is 6 hours, how much of the radioactive material form a 0.5 ml injection will be in the body in 24 hours?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 354,
+      "anchor": "fs-id1167836503868",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain the method you would use to solve these equations: \\({3}^{x+1}=81,\\) \\({3}^{x+1}=75.\\) Does your method require logarithms for both equations? Why or why not?",
+      "math": [
+        "{3}^{x+1}=81,",
+        "{3}^{x+1}=75."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mn>3</mn><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></msup><mo>=</mo><mn>81</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mn>3</mn><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></msup><mo>=</mo><mn>81</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mn>3</mn><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></msup><mo>=</mo><mn>75</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mn>3</mn><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></msup><mo>=</mo><mn>75</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 355,
+      "anchor": "fs-id1167833060684",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "What is the difference between the equation for exponential growth versus the equation for exponential decay?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "10.75",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836553141",
+      "context": [
+        "Solve Logarithmic Equations Using the Properties of Logarithms"
+      ],
+      "text": "Solve: \\(2{log}_{3}x={log}_{3}36\\)",
+      "math": [
+        "2\\log_{3}x=\\log_{3}36"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mi>x</mi><mo>=</mo><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mn>36</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mi>x</mi><mo>=</mo><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mn>36</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.76",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836699100",
+      "context": [
+        "Solve Logarithmic Equations Using the Properties of Logarithms"
+      ],
+      "text": "Solve: \\(3logx=log64\\)",
+      "math": [
+        "3\\logx=\\log64"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mtext>log</mtext><mspace width=\"0.2em\"></mspace><mi>x</mi><mo>=</mo><mtext>log</mtext><mn>64</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mtext>log</mtext><mspace width=\"0.2em\"></mspace><mi>x</mi><mo>=</mo><mtext>log</mtext><mn>64</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.77",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836558185",
+      "context": [
+        "Solve Logarithmic Equations Using the Properties of Logarithms"
+      ],
+      "text": "Solve: \\({log}_{2}x+{log}_{2}(x-2)=3\\)",
+      "math": [
+        "\\log_{2}x+\\log_{2}(x-2)=3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><mi>x</mi><mo>+</mo><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>=</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><mi>x</mi><mo>+</mo><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>=</mo><mn>3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.78",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836341066",
+      "context": [
+        "Solve Logarithmic Equations Using the Properties of Logarithms"
+      ],
+      "text": "Solve: \\({log}_{2}x+{log}_{2}(x-6)=4\\)",
+      "math": [
+        "\\log_{2}x+\\log_{2}(x-6)=4"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><mi>x</mi><mo>+</mo><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>6</mn></mrow><mo>)</mo></mrow><mo>=</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><mi>x</mi><mo>+</mo><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>6</mn></mrow><mo>)</mo></mrow><mo>=</mo><mn>4</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.79",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167833239897",
+      "context": [
+        "Solve Logarithmic Equations Using the Properties of Logarithms"
+      ],
+      "text": "Solve: \\(log(x+2)-log(4x+3)=-logx.\\)",
+      "math": [
+        "\\log(x+2)-\\log(4x+3)=-\\logx."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>log</mtext><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>−</mo><mtext>log</mtext><mrow><mo>(</mo><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>=</mo><mtext>−</mtext><mtext>log</mtext><mspace width=\"0.2em\"></mspace><mi>x</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>log</mtext><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>−</mo><mtext>log</mtext><mrow><mo>(</mo><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>=</mo><mtext>−</mtext><mtext>log</mtext><mspace width=\"0.2em\"></mspace><mi>x</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.80",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167829687245",
+      "context": [
+        "Solve Logarithmic Equations Using the Properties of Logarithms"
+      ],
+      "text": "Solve: \\(log(x-2)-log(4x+16)=log\\frac{1}{x}.\\)",
+      "math": [
+        "\\log(x-2)-\\log(4x+16)=\\log\\frac{1}{x}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>log</mtext><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>−</mo><mtext>log</mtext><mrow><mo>(</mo><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mn>16</mn></mrow><mo>)</mo></mrow><mo>=</mo><mtext>log</mtext><mfrac><mn>1</mn><mi>x</mi></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>log</mtext><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>−</mo><mtext>log</mtext><mrow><mo>(</mo><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mn>16</mn></mrow><mo>)</mo></mrow><mo>=</mo><mtext>log</mtext><mfrac><mn>1</mn><mi>x</mi></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.81",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167829748215",
+      "context": [
+        "Solve Exponential Equations Using Logarithms"
+      ],
+      "text": "Solve \\({7}^{x}=43.\\) Find the exact answer and then approximate it to three decimal places.",
+      "math": [
+        "{7}^{x}=43."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mn>7</mn><mi>x</mi></msup><mo>=</mo><mn>43</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mn>7</mn><mi>x</mi></msup><mo>=</mo><mn>43</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.82",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836328612",
+      "context": [
+        "Solve Exponential Equations Using Logarithms"
+      ],
+      "text": "Solve \\({8}^{x}=98.\\) Find the exact answer and then approximate it to three decimal places.",
+      "math": [
+        "{8}^{x}=98."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mn>8</mn><mi>x</mi></msup><mo>=</mo><mn>98</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mn>8</mn><mi>x</mi></msup><mo>=</mo><mn>98</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.83",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167829790352",
+      "context": [
+        "Solve Exponential Equations Using Logarithms"
+      ],
+      "text": "Solve \\(2{e}^{x-2}=18.\\) Find the exact answer and then approximate it to three decimal places.",
+      "math": [
+        "2{e}^{x-2}=18."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><msup><mi>e</mi><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow></msup><mo>=</mo><mn>18</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><msup><mi>e</mi><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow></msup><mo>=</mo><mn>18</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.84",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836626751",
+      "context": [
+        "Solve Exponential Equations Using Logarithms"
+      ],
+      "text": "Solve \\(5{e}^{2x}=25.\\) Find the exact answer and then approximate it to three decimal places.",
+      "math": [
+        "5{e}^{2x}=25."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><msup><mi>e</mi><mrow><mn>2</mn><mi>x</mi></mrow></msup><mo>=</mo><mn>25</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><msup><mi>e</mi><mrow><mn>2</mn><mi>x</mi></mrow></msup><mo>=</mo><mn>25</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.85",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167833053710",
+      "context": [
+        "Use Exponential Models in Applications"
+      ],
+      "text": "Hector invests \\(\\$10,000\\) at age 21. He hopes the investments will be worth \\(\\$150,000\\) when he turns 50. If the interest compounds continuously, approximately what rate of growth will he need to achieve his goal?",
+      "math": [
+        "$10,000",
+        "$150,000"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>$</mtext><mn>10,000</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>$</mtext><mn>10,000</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>$</mtext><mn>150,000</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>$</mtext><mn>150,000</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.86",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167833279849",
+      "context": [
+        "Use Exponential Models in Applications"
+      ],
+      "text": "Rachel invests \\(\\$15,000\\) at age 25. She hopes the investments will be worth \\(\\$90,000\\) when she turns 40. If the interest compounds continuously, approximately what rate of growth will she need to achieve her goal?",
+      "math": [
+        "$15,000",
+        "$90,000"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>$</mtext><mn>15,000</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>$</mtext><mn>15,000</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>$</mtext><mn>90,000</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>$</mtext><mn>90,000</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.87",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836621950",
+      "context": [
+        "Use Exponential Models in Applications"
+      ],
+      "text": "Researchers recorded that a certain bacteria population grew from 100 to 500 in 6 hours. At this rate of growth, how many bacteria will there be 24 hours from the start of the experiment?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "10.88",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167826092379",
+      "context": [
+        "Use Exponential Models in Applications"
+      ],
+      "text": "Researchers recorded that a certain bacteria population declined from 700,000 to 400,000 in 5 hours after the administration of medication. At this rate of decay, how many bacteria will there be 24 hours from the start of the experiment?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "10.89",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167829752750",
+      "context": [
+        "Use Exponential Models in Applications"
+      ],
+      "text": "The half-life of magnesium-27 is 9.45 minutes. How much of a 10-mg sample will be left in 6 minutes?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "10.90",
+      "page": "10-5-solve-exponential-and-logarithmic-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167826131849",
+      "context": [
+        "Use Exponential Models in Applications"
+      ],
+      "text": "The half-life of radioactive iodine is 60 days. How much of a 50-mg sample will be left in 40 days?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

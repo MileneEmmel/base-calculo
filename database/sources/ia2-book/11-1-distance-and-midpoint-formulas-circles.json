@@ -1,0 +1,1304 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/11-1-distance-and-midpoint-formulas-circles",
+  "title": "11.1 Distance and Midpoint Formulas; Circles",
+  "sha256": "5ed73fdb35472df0f1d2cf166a9b3142718e89680c95363d67726ac2babed0d7",
+  "questions": [
+    {
+      "number": 1,
+      "anchor": "fs-id1169147845456",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Use the Distance Formula",
+        "In the following exercises, find the distance between the points. Write the answer in exact form and then find the decimal approximation, rounded to the nearest tenth if needed."
+      ],
+      "text": "\\((2,0)\\) and \\((5,4)\\)",
+      "math": [
+        "(2,0)",
+        "(5,4)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 2,
+      "anchor": "fs-id1169145778721",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Use the Distance Formula",
+        "In the following exercises, find the distance between the points. Write the answer in exact form and then find the decimal approximation, rounded to the nearest tenth if needed."
+      ],
+      "text": "\\((-4,-3)\\) and \\((2,5)\\)",
+      "math": [
+        "(-4,-3)",
+        "(2,5)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>5</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>5</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 3,
+      "anchor": "fs-id1169147739242",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Use the Distance Formula",
+        "In the following exercises, find the distance between the points. Write the answer in exact form and then find the decimal approximation, rounded to the nearest tenth if needed."
+      ],
+      "text": "\\((-4,-3)\\) and \\((8,2)\\)",
+      "math": [
+        "(-4,-3)",
+        "(8,2)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>8</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>8</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 4,
+      "anchor": "fs-id1169143659178",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Use the Distance Formula",
+        "In the following exercises, find the distance between the points. Write the answer in exact form and then find the decimal approximation, rounded to the nearest tenth if needed."
+      ],
+      "text": "\\((-7,-3)\\) and \\((8,5)\\)",
+      "math": [
+        "(-7,-3)",
+        "(8,5)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−7</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−7</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>8</mn><mo>,</mo><mn>5</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>8</mn><mo>,</mo><mn>5</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 5,
+      "anchor": "fs-id1169145760210",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Use the Distance Formula",
+        "In the following exercises, find the distance between the points. Write the answer in exact form and then find the decimal approximation, rounded to the nearest tenth if needed."
+      ],
+      "text": "\\((-1,4)\\) and \\((2,0)\\)",
+      "math": [
+        "(-1,4)",
+        "(2,0)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 6,
+      "anchor": "fs-id1169147960782",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Use the Distance Formula",
+        "In the following exercises, find the distance between the points. Write the answer in exact form and then find the decimal approximation, rounded to the nearest tenth if needed."
+      ],
+      "text": "\\((-1,3)\\) and \\((5,-5)\\)",
+      "math": [
+        "(-1,3)",
+        "(5,-5)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 7,
+      "anchor": "fs-id1169145614088",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Use the Distance Formula",
+        "In the following exercises, find the distance between the points. Write the answer in exact form and then find the decimal approximation, rounded to the nearest tenth if needed."
+      ],
+      "text": "\\((1,-4)\\) and \\((6,8)\\)",
+      "math": [
+        "(1,-4)",
+        "(6,8)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>6</mn><mo>,</mo><mn>8</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>6</mn><mo>,</mo><mn>8</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 8,
+      "anchor": "fs-id1169147855655",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Use the Distance Formula",
+        "In the following exercises, find the distance between the points. Write the answer in exact form and then find the decimal approximation, rounded to the nearest tenth if needed."
+      ],
+      "text": "\\((-8,-2)\\) and \\((7,6)\\)",
+      "math": [
+        "(-8,-2)",
+        "(7,6)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−8</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−8</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>7</mn><mo>,</mo><mn>6</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>7</mn><mo>,</mo><mn>6</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 9,
+      "anchor": "fs-id1169147962933",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Use the Distance Formula",
+        "In the following exercises, find the distance between the points. Write the answer in exact form and then find the decimal approximation, rounded to the nearest tenth if needed."
+      ],
+      "text": "\\((-3,-5)\\) and \\((0,1)\\)",
+      "math": [
+        "(-3,-5)",
+        "(0,1)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 10,
+      "anchor": "fs-id1169145526198",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Use the Distance Formula",
+        "In the following exercises, find the distance between the points. Write the answer in exact form and then find the decimal approximation, rounded to the nearest tenth if needed."
+      ],
+      "text": "\\((-1,-2)\\) and \\((-3,4)\\)",
+      "math": [
+        "(-1,-2)",
+        "(-3,4)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 11,
+      "anchor": "fs-id1169145493751",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Use the Distance Formula",
+        "In the following exercises, find the distance between the points. Write the answer in exact form and then find the decimal approximation, rounded to the nearest tenth if needed."
+      ],
+      "text": "\\((3,-1)\\) and \\((1,7)\\)",
+      "math": [
+        "(3,-1)",
+        "(1,7)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>7</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>7</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 12,
+      "anchor": "fs-id1169143637830",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Use the Distance Formula",
+        "In the following exercises, find the distance between the points. Write the answer in exact form and then find the decimal approximation, rounded to the nearest tenth if needed."
+      ],
+      "text": "\\((-4,-5)\\) and \\((7,4)\\)",
+      "math": [
+        "(-4,-5)",
+        "(7,4)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>7</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>7</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 13,
+      "anchor": "fs-id1169147935246",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Use the Midpoint Formula",
+        "In the following exercises, ⓐ find the midpoint of the line segment whose endpoints are given and ⓑ plot the endpoints and the midpoint on a rectangular coordinate system."
+      ],
+      "text": "\\((0,-5)\\) and \\((4,-3)\\)",
+      "math": [
+        "(0,-5)",
+        "(4,-3)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 14,
+      "anchor": "fs-id1169147700121",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Use the Midpoint Formula",
+        "In the following exercises, ⓐ find the midpoint of the line segment whose endpoints are given and ⓑ plot the endpoints and the midpoint on a rectangular coordinate system."
+      ],
+      "text": "\\((-2,-6)\\) and \\((6,-2)\\)",
+      "math": [
+        "(-2,-6)",
+        "(6,-2)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>−6</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>−6</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>6</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>6</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 15,
+      "anchor": "fs-id1169147825975",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Use the Midpoint Formula",
+        "In the following exercises, ⓐ find the midpoint of the line segment whose endpoints are given and ⓑ plot the endpoints and the midpoint on a rectangular coordinate system."
+      ],
+      "text": "\\((3,-1)\\) and \\((4,-2)\\)",
+      "math": [
+        "(3,-1)",
+        "(4,-2)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 16,
+      "anchor": "fs-id1169143659157",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Use the Midpoint Formula",
+        "In the following exercises, ⓐ find the midpoint of the line segment whose endpoints are given and ⓑ plot the endpoints and the midpoint on a rectangular coordinate system."
+      ],
+      "text": "\\((-3,-3)\\) and \\((6,-1)\\)",
+      "math": [
+        "(-3,-3)",
+        "(6,-1)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>6</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>6</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 17,
+      "anchor": "fs-id1169147806757",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Write the Equation of a Circle in Standard Form",
+        "In the following exercises, write the standard form of the equation of the circle with the given radius and center \\((0,0).\\)"
+      ],
+      "text": "Radius: 7",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 18,
+      "anchor": "fs-id1169142479956",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Write the Equation of a Circle in Standard Form",
+        "In the following exercises, write the standard form of the equation of the circle with the given radius and center \\((0,0).\\)"
+      ],
+      "text": "Radius: 9",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 19,
+      "anchor": "fs-id1169143686441",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Write the Equation of a Circle in Standard Form",
+        "In the following exercises, write the standard form of the equation of the circle with the given radius and center \\((0,0).\\)"
+      ],
+      "text": "Radius: \\(\\sqrt{2}\\)",
+      "math": [
+        "\\sqrt{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mn>2</mn></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mn>2</mn></msqrt></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 20,
+      "anchor": "fs-id1169141036387",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Write the Equation of a Circle in Standard Form",
+        "In the following exercises, write the standard form of the equation of the circle with the given radius and center \\((0,0).\\)"
+      ],
+      "text": "Radius: \\(\\sqrt{5}\\)",
+      "math": [
+        "\\sqrt{5}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mn>5</mn></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mn>5</mn></msqrt></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 21,
+      "anchor": "fs-id1169147851663",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "In the following exercises, write the standard form of the equation of the circle with the given radius and center \\((0,0).\\)",
+        "In the following exercises, write the standard form of the equation of the circle with the given radius and center"
+      ],
+      "text": "Radius: 1, center: \\((3,5)\\)",
+      "math": [
+        "(3,5)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>5</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>5</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 22,
+      "anchor": "fs-id1169143380550",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "In the following exercises, write the standard form of the equation of the circle with the given radius and center \\((0,0).\\)",
+        "In the following exercises, write the standard form of the equation of the circle with the given radius and center"
+      ],
+      "text": "Radius: 10, center: \\((-2,6)\\)",
+      "math": [
+        "(-2,6)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>6</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>6</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 23,
+      "anchor": "fs-id1169145716238",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "In the following exercises, write the standard form of the equation of the circle with the given radius and center \\((0,0).\\)",
+        "In the following exercises, write the standard form of the equation of the circle with the given radius and center"
+      ],
+      "text": "Radius: \\(2.5,\\) center: \\((1.5,-3.5)\\)",
+      "math": [
+        "2.5,",
+        "(1.5,-3.5)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2.5</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2.5</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>1.5</mn><mo>,</mo><mn>−3.5</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>1.5</mn><mo>,</mo><mn>−3.5</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 24,
+      "anchor": "fs-id1169148185356",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "In the following exercises, write the standard form of the equation of the circle with the given radius and center \\((0,0).\\)",
+        "In the following exercises, write the standard form of the equation of the circle with the given radius and center"
+      ],
+      "text": "Radius: \\(1.5,\\) center: \\((-5.5,-6.5)\\)",
+      "math": [
+        "1.5,",
+        "(-5.5,-6.5)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>1.5</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>1.5</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−5.5</mn><mo>,</mo><mn>−6.5</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−5.5</mn><mo>,</mo><mn>−6.5</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 25,
+      "anchor": "fs-id1169148132053",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "In the following exercises, write the standard form of the equation of the circle with the given radius and center",
+        "For the following exercises, write the standard form of the equation of the circle with the given center with point on the circle."
+      ],
+      "text": "Center \\((3,-2)\\) with point \\((3,6)\\)",
+      "math": [
+        "(3,-2)",
+        "(3,6)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>6</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>6</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 26,
+      "anchor": "fs-id1169147862548",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "In the following exercises, write the standard form of the equation of the circle with the given radius and center",
+        "For the following exercises, write the standard form of the equation of the circle with the given center with point on the circle."
+      ],
+      "text": "Center \\((6,-6)\\) with point \\((2,-3)\\)",
+      "math": [
+        "(6,-6)",
+        "(2,-3)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>6</mn><mo>,</mo><mn>−6</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>6</mn><mo>,</mo><mn>−6</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 27,
+      "anchor": "fs-id1169147742617",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "In the following exercises, write the standard form of the equation of the circle with the given radius and center",
+        "For the following exercises, write the standard form of the equation of the circle with the given center with point on the circle."
+      ],
+      "text": "Center \\((4,4)\\) with point \\((2,2)\\)",
+      "math": [
+        "(4,4)",
+        "(2,2)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 28,
+      "anchor": "fs-id1169145544916",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "In the following exercises, write the standard form of the equation of the circle with the given radius and center",
+        "For the following exercises, write the standard form of the equation of the circle with the given center with point on the circle."
+      ],
+      "text": "Center \\((-5,6)\\) with point \\((-2,3)\\)",
+      "math": [
+        "(-5,6)",
+        "(-2,3)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−5</mn><mo>,</mo><mn>6</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−5</mn><mo>,</mo><mn>6</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 29,
+      "anchor": "fs-id1169145780272",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Graph a Circle",
+        "In the following exercises, ⓐ find the center and radius, then ⓑ graph each circle."
+      ],
+      "text": "\\({ ( x + 5 ) }^{2} + { ( y + 3 ) }^{2} = 1\\)",
+      "math": [
+        "{ ( x + 5 ) }^{2} + { ( y + 3 ) }^{2} = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 30,
+      "anchor": "fs-id1169147963087",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Graph a Circle",
+        "In the following exercises, ⓐ find the center and radius, then ⓑ graph each circle."
+      ],
+      "text": "\\({ ( x - 2 ) }^{2} + { ( y - 3 ) }^{2} = 9\\)",
+      "math": [
+        "{ ( x - 2 ) }^{2} + { ( y - 3 ) }^{2} = 9"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>9</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>9</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 31,
+      "anchor": "fs-id1169143580870",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Graph a Circle",
+        "In the following exercises, ⓐ find the center and radius, then ⓑ graph each circle."
+      ],
+      "text": "\\({ ( x - 4 ) }^{2} + { ( y + 2 ) }^{2} = 16\\)",
+      "math": [
+        "{ ( x - 4 ) }^{2} + { ( y + 2 ) }^{2} = 16"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>16</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>16</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 32,
+      "anchor": "fs-id1169147824357",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Graph a Circle",
+        "In the following exercises, ⓐ find the center and radius, then ⓑ graph each circle."
+      ],
+      "text": "\\({ ( x + 2 ) }^{2} + { ( y - 5 ) }^{2} = 4\\)",
+      "math": [
+        "{ ( x + 2 ) }^{2} + { ( y - 5 ) }^{2} = 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 33,
+      "anchor": "fs-id1169143581746",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Graph a Circle",
+        "In the following exercises, ⓐ find the center and radius, then ⓑ graph each circle."
+      ],
+      "text": "\\({x}^{2} + { ( y + 2 ) }^{2} = 25\\)",
+      "math": [
+        "{x}^{2} + { ( y + 2 ) }^{2} = 25"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>25</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>25</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 34,
+      "anchor": "fs-id1169147848673",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Graph a Circle",
+        "In the following exercises, ⓐ find the center and radius, then ⓑ graph each circle."
+      ],
+      "text": "\\({ ( x - 1 ) }^{2} + {y}^{2} = 36\\)",
+      "math": [
+        "{ ( x - 1 ) }^{2} + {y}^{2} = 36"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>36</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>36</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 35,
+      "anchor": "fs-id1169145720376",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Graph a Circle",
+        "In the following exercises, ⓐ find the center and radius, then ⓑ graph each circle."
+      ],
+      "text": "\\({ ( x - 1.5 ) }^{2} + { ( y + 2.5 ) }^{2} = 0.25\\)",
+      "math": [
+        "{ ( x - 1.5 ) }^{2} + { ( y + 2.5 ) }^{2} = 0.25"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>1.5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2.5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>0.25</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>1.5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2.5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>0.25</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 36,
+      "anchor": "fs-id1169145579182",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Graph a Circle",
+        "In the following exercises, ⓐ find the center and radius, then ⓑ graph each circle."
+      ],
+      "text": "\\({ ( x - 1 ) }^{2} + { ( y - 3 ) }^{2} = \\frac{9}{4}\\)",
+      "math": [
+        "{ ( x - 1 ) }^{2} + { ( y - 3 ) }^{2} = \\frac{9}{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mfrac>\n            <mn>9</mn>\n            <mn>4</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mfrac>\n            <mn>9</mn>\n            <mn>4</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 37,
+      "anchor": "fs-id1169145731596",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Graph a Circle",
+        "In the following exercises, ⓐ find the center and radius, then ⓑ graph each circle."
+      ],
+      "text": "\\({x}^{2} + {y}^{2} = 64\\)",
+      "math": [
+        "{x}^{2} + {y}^{2} = 64"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>64</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>64</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 38,
+      "anchor": "fs-id1169145578236",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Graph a Circle",
+        "In the following exercises, ⓐ find the center and radius, then ⓑ graph each circle."
+      ],
+      "text": "\\({x}^{2} + {y}^{2} = 49\\)",
+      "math": [
+        "{x}^{2} + {y}^{2} = 49"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>49</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>49</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 39,
+      "anchor": "fs-id1169145577421",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Graph a Circle",
+        "In the following exercises, ⓐ find the center and radius, then ⓑ graph each circle."
+      ],
+      "text": "\\(2 {x}^{2} + 2 {y}^{2} = 8\\)",
+      "math": [
+        "2 {x}^{2} + 2 {y}^{2} = 8"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>8</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>8</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 40,
+      "anchor": "fs-id1169147854265",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Graph a Circle",
+        "In the following exercises, ⓐ find the center and radius, then ⓑ graph each circle."
+      ],
+      "text": "\\(6 {x}^{2} + 6 {y}^{2} = 216\\)",
+      "math": [
+        "6 {x}^{2} + 6 {y}^{2} = 216"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>6</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>216</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>6</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>216</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 41,
+      "anchor": "fs-id1169143575851",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "In the following exercises, ⓐ find the center and radius, then ⓑ graph each circle.",
+        "In the following exercises, ⓐ identify the center and radius and ⓑ graph."
+      ],
+      "text": "\\({x}^{2} + {y}^{2} + 2 x + 6 y + 9 = 0\\)",
+      "math": [
+        "{x}^{2} + {y}^{2} + 2 x + 6 y + 9 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>9</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>9</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 42,
+      "anchor": "fs-id1169143579426",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "In the following exercises, ⓐ find the center and radius, then ⓑ graph each circle.",
+        "In the following exercises, ⓐ identify the center and radius and ⓑ graph."
+      ],
+      "text": "\\({x}^{2} + {y}^{2} - 6 x - 8 y = 0\\)",
+      "math": [
+        "{x}^{2} + {y}^{2} - 6 x - 8 y = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>8</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>8</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 43,
+      "anchor": "fs-id1169147864093",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "In the following exercises, ⓐ find the center and radius, then ⓑ graph each circle.",
+        "In the following exercises, ⓐ identify the center and radius and ⓑ graph."
+      ],
+      "text": "\\({x}^{2} + {y}^{2} - 4 x + 10 y - 7 = 0\\)",
+      "math": [
+        "{x}^{2} + {y}^{2} - 4 x + 10 y - 7 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>10</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>7</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>10</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>7</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 44,
+      "anchor": "fs-id1169148063172",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "In the following exercises, ⓐ find the center and radius, then ⓑ graph each circle.",
+        "In the following exercises, ⓐ identify the center and radius and ⓑ graph."
+      ],
+      "text": "\\({x}^{2} + {y}^{2} + 12 x - 14 y + 21 = 0\\)",
+      "math": [
+        "{x}^{2} + {y}^{2} + 12 x - 14 y + 21 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>14</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>21</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>14</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>21</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 45,
+      "anchor": "fs-id1169145663824",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "In the following exercises, ⓐ find the center and radius, then ⓑ graph each circle.",
+        "In the following exercises, ⓐ identify the center and radius and ⓑ graph."
+      ],
+      "text": "\\({x}^{2} + {y}^{2} + 6 y + 5 = 0\\)",
+      "math": [
+        "{x}^{2} + {y}^{2} + 6 y + 5 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 46,
+      "anchor": "fs-id1169147805025",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "In the following exercises, ⓐ find the center and radius, then ⓑ graph each circle.",
+        "In the following exercises, ⓐ identify the center and radius and ⓑ graph."
+      ],
+      "text": "\\({x}^{2} + {y}^{2} - 10 y = 0\\)",
+      "math": [
+        "{x}^{2} + {y}^{2} - 10 y = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>10</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>10</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 47,
+      "anchor": "fs-id1169148231447",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "In the following exercises, ⓐ find the center and radius, then ⓑ graph each circle.",
+        "In the following exercises, ⓐ identify the center and radius and ⓑ graph."
+      ],
+      "text": "\\({x}^{2} + {y}^{2} + 4 x = 0\\)",
+      "math": [
+        "{x}^{2} + {y}^{2} + 4 x = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 48,
+      "anchor": "fs-id1169145493979",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "In the following exercises, ⓐ find the center and radius, then ⓑ graph each circle.",
+        "In the following exercises, ⓐ identify the center and radius and ⓑ graph."
+      ],
+      "text": "\\({x}^{2} + {y}^{2} - 14 x + 13 = 0\\)",
+      "math": [
+        "{x}^{2} + {y}^{2} - 14 x + 13 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>14</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>13</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>14</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>13</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 49,
+      "anchor": "fs-id1169147764974",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain the relationship between the distance formula and the equation of a circle.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 50,
+      "anchor": "fs-id1169147878929",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Is a circle a function? Explain why or why not.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 51,
+      "anchor": "fs-id1169148208053",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "In your own words, state the definition of a circle.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 52,
+      "anchor": "fs-id1169148072593",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "In your own words, explain the steps you would take to change the general form of the equation of a circle to the standard form.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "11.1",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "is_try_it": true,
+      "anchor": "fs-id1169143305917",
+      "context": [
+        "Use the Distance Formula"
+      ],
+      "text": "Use the rectangular coordinate system to find the distance between the points \\((6,1)\\) and \\((2,-2).\\)",
+      "math": [
+        "(6,1)",
+        "(2,-2)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>6</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>6</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.2",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "is_try_it": true,
+      "anchor": "fs-id1169147867018",
+      "context": [
+        "Use the Distance Formula"
+      ],
+      "text": "Use the rectangular coordinate system to find the distance between the points \\((5,3)\\) and \\((-3,-3).\\)",
+      "math": [
+        "(5,3)",
+        "(-3,-3)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.3",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "is_try_it": true,
+      "anchor": "fs-id1169147866518",
+      "context": [
+        "Use the Distance Formula"
+      ],
+      "text": "Use the Distance Formula to find the distance between the points \\((-4,-5)\\) and \\((5,7).\\)",
+      "math": [
+        "(-4,-5)",
+        "(5,7)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>,</mo><mn>7</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>,</mo><mn>7</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.4",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "is_try_it": true,
+      "anchor": "fs-id1169147740077",
+      "context": [
+        "Use the Distance Formula"
+      ],
+      "text": "Use the Distance Formula to find the distance between the points \\((-2,-5)\\) and \\((-14,-10).\\)",
+      "math": [
+        "(-2,-5)",
+        "(-14,-10)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−14</mn><mo>,</mo><mn>−10</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−14</mn><mo>,</mo><mn>−10</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.5",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "is_try_it": true,
+      "anchor": "fs-id1169141522177",
+      "context": [
+        "Use the Distance Formula"
+      ],
+      "text": "Use the Distance Formula to find the distance between the points \\((-4,-5)\\) and \\((3,4).\\) Write the answer in exact form and then find the decimal approximation, rounded to the nearest tenth if needed.",
+      "math": [
+        "(-4,-5)",
+        "(3,4)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.6",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "is_try_it": true,
+      "anchor": "fs-id1169145672269",
+      "context": [
+        "Use the Distance Formula"
+      ],
+      "text": "Use the Distance Formula to find the distance between the points \\((-2,-5)\\) and \\((-3,-4).\\) Write the answer in exact form and then find the decimal approximation, rounded to the nearest tenth if needed.",
+      "math": [
+        "(-2,-5)",
+        "(-3,-4)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.7",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "is_try_it": true,
+      "anchor": "fs-id1169145545027",
+      "context": [
+        "Use the Midpoint Formula"
+      ],
+      "text": "Use the Midpoint Formula to find the midpoint of the line segment whose endpoints are \\((-3,-5)\\) and \\((5,7).\\) Plot the endpoints and the midpoint on a rectangular coordinate system.",
+      "math": [
+        "(-3,-5)",
+        "(5,7)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>,</mo><mn>7</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>,</mo><mn>7</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.8",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "is_try_it": true,
+      "anchor": "fs-id1169147946079",
+      "context": [
+        "Use the Midpoint Formula"
+      ],
+      "text": "Use the Midpoint Formula to find the midpoint of the line segment whose endpoints are \\((-2,-5)\\) and \\((6,-1).\\) Plot the endpoints and the midpoint on a rectangular coordinate system.",
+      "math": [
+        "(-2,-5)",
+        "(6,-1)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>6</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>6</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.9",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "is_try_it": true,
+      "anchor": "fs-id1169143581314",
+      "context": [
+        "Write the Equation of a Circle in Standard Form"
+      ],
+      "text": "Write the standard form of the equation of the circle with a radius of 6 and center \\((0,0).\\)",
+      "math": [
+        "(0,0)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.10",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "is_try_it": true,
+      "anchor": "fs-id1169147776946",
+      "context": [
+        "Write the Equation of a Circle in Standard Form"
+      ],
+      "text": "Write the standard form of the equation of the circle with a radius of 8 and center \\((0,0).\\)",
+      "math": [
+        "(0,0)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.11",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "is_try_it": true,
+      "anchor": "fs-id1169145641242",
+      "context": [
+        "Write the Equation of a Circle in Standard Form"
+      ],
+      "text": "Write the standard form of the equation of the circle with a radius of 7 and center \\((2,-4).\\)",
+      "math": [
+        "(2,-4)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.12",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "is_try_it": true,
+      "anchor": "fs-id1169147830913",
+      "context": [
+        "Write the Equation of a Circle in Standard Form"
+      ],
+      "text": "Write the standard form of the equation of the circle with a radius of 9 and center \\((-3,-5).\\)",
+      "math": [
+        "(-3,-5)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.13",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "is_try_it": true,
+      "anchor": "fs-id1169141545535",
+      "context": [
+        "Write the Equation of a Circle in Standard Form"
+      ],
+      "text": "Write the standard form of the equation of the circle with center \\((2,1)\\) that also contains the point \\((-2,-2).\\)",
+      "math": [
+        "(2,1)",
+        "(-2,-2)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.14",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "is_try_it": true,
+      "anchor": "fs-id1169147857828",
+      "context": [
+        "Write the Equation of a Circle in Standard Form"
+      ],
+      "text": "Write the standard form of the equation of the circle with center \\((7,1)\\) that also contains the point \\((-1,-5).\\)",
+      "math": [
+        "(7,1)",
+        "(-1,-5)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>7</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>7</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.15",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "is_try_it": true,
+      "anchor": "fs-id1169147981600",
+      "context": [
+        "Graph a Circle"
+      ],
+      "text": "ⓐ Find the center and radius, then ⓑ graph the circle: \\({(x-3)}^{2}+{(y+4)}^{2}=4.\\)",
+      "math": [
+        "{(x-3)}^{2}+{(y+4)}^{2}=4."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>+</mo><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>+</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>=</mo><mn>4</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>+</mo><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>+</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>=</mo><mn>4</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.16",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "is_try_it": true,
+      "anchor": "fs-id1169147774851",
+      "context": [
+        "Graph a Circle"
+      ],
+      "text": "ⓐ Find the center and radius, then ⓑ graph the circle: \\({(x-3)}^{2}+{(y-1)}^{2}=16.\\)",
+      "math": [
+        "{(x-3)}^{2}+{(y-1)}^{2}=16."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>+</mo><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>=</mo><mn>16</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>+</mo><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>=</mo><mn>16</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.17",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "is_try_it": true,
+      "anchor": "fs-id1169147731417",
+      "context": [
+        "Graph a Circle"
+      ],
+      "text": "ⓐ Find the center and radius, then ⓑ graph the circle: \\(3{x}^{2}+3{y}^{2}=27\\)",
+      "math": [
+        "3{x}^{2}+3{y}^{2}=27"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>27</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>27</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.18",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "is_try_it": true,
+      "anchor": "fs-id1169145578210",
+      "context": [
+        "Graph a Circle"
+      ],
+      "text": "ⓐ Find the center and radius, then ⓑ graph the circle: \\(5{x}^{2}+5{y}^{2}=125\\)",
+      "math": [
+        "5{x}^{2}+5{y}^{2}=125"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>125</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>125</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.19",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "is_try_it": true,
+      "anchor": "fs-id1169141031135",
+      "context": [
+        "Graph a Circle"
+      ],
+      "text": "ⓐ Find the center and radius, then ⓑ graph the circle: \\({x}^{2}+{y}^{2}-6x-8y+9=0.\\)",
+      "math": [
+        "{x}^{2}+{y}^{2}-6x-8y+9=0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>6</mn><mi>x</mi><mo>−</mo><mn>8</mn><mi>y</mi><mo>+</mo><mn>9</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>6</mn><mi>x</mi><mo>−</mo><mn>8</mn><mi>y</mi><mo>+</mo><mn>9</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.20",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "is_try_it": true,
+      "anchor": "fs-id1169148115168",
+      "context": [
+        "Graph a Circle"
+      ],
+      "text": "ⓐ Find the center and radius, then ⓑ graph the circle: \\({x}^{2}+{y}^{2}+6x-2y+1=0.\\)",
+      "math": [
+        "{x}^{2}+{y}^{2}+6x-2y+1=0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn><mi>x</mi><mo>−</mo><mn>2</mn><mi>y</mi><mo>+</mo><mn>1</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn><mi>x</mi><mo>−</mo><mn>2</mn><mi>y</mi><mo>+</mo><mn>1</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.21",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "is_try_it": true,
+      "anchor": "fs-id1169147712428",
+      "context": [
+        "Graph a Circle"
+      ],
+      "text": "ⓐ Find the center and radius, then ⓑ graph the circle: \\({x}^{2}+{y}^{2}-2x-3=0.\\)",
+      "math": [
+        "{x}^{2}+{y}^{2}-2x-3=0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.22",
+      "page": "11-1-distance-and-midpoint-formulas-circles",
+      "is_try_it": true,
+      "anchor": "fs-id1169147810598",
+      "context": [
+        "Graph a Circle"
+      ],
+      "text": "ⓐ Find the center and radius, then ⓑ graph the circle: \\({x}^{2}+{y}^{2}-12y+11=0.\\)",
+      "math": [
+        "{x}^{2}+{y}^{2}-12y+11=0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>12</mn><mi>y</mi><mo>+</mo><mn>11</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>12</mn><mi>y</mi><mo>+</mo><mn>11</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

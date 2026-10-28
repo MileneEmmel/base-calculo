@@ -1,0 +1,1394 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/5-4-dividing-polynomials",
+  "title": "5.4 Dividing Polynomials",
+  "sha256": "70ff25c3ce6b6a5c2056f5965f011b57cd78e70d30489aa39b3f05e0b8d45e5d",
+  "questions": [
+    {
+      "number": 288,
+      "anchor": "fs-id1167834190296",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide Monomials",
+        "In the following exercises, divide the monomials."
+      ],
+      "text": "\\(15 {r}^{4} {s}^{9} \\div ( 15 {r}^{4} {s}^{9} )\\)",
+      "math": [
+        "15 {r}^{4} {s}^{9} \\div ( 15 {r}^{4} {s}^{9} )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>15</mn>\n          <msup>\n            <mi>r</mi>\n            <mn>4</mn>\n          </msup>\n          <msup>\n            <mi>s</mi>\n            <mn>9</mn>\n          </msup>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>15</mn>\n              <msup>\n                <mi>r</mi>\n                <mn>4</mn>\n              </msup>\n              <msup>\n                <mi>s</mi>\n                <mn>9</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>15</mn>\n          <msup>\n            <mi>r</mi>\n            <mn>4</mn>\n          </msup>\n          <msup>\n            <mi>s</mi>\n            <mn>9</mn>\n          </msup>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>15</mn>\n              <msup>\n                <mi>r</mi>\n                <mn>4</mn>\n              </msup>\n              <msup>\n                <mi>s</mi>\n                <mn>9</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 289,
+      "anchor": "fs-id1167826998342",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide Monomials",
+        "In the following exercises, divide the monomials."
+      ],
+      "text": "\\(20 {m}^{8} {n}^{4} \\div ( 30 {m}^{5} {n}^{9} )\\)",
+      "math": [
+        "20 {m}^{8} {n}^{4} \\div ( 30 {m}^{5} {n}^{9} )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>20</mn>\n          <msup>\n            <mi>m</mi>\n            <mn>8</mn>\n          </msup>\n          <msup>\n            <mi>n</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>30</mn>\n              <msup>\n                <mi>m</mi>\n                <mn>5</mn>\n              </msup>\n              <msup>\n                <mi>n</mi>\n                <mn>9</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>20</mn>\n          <msup>\n            <mi>m</mi>\n            <mn>8</mn>\n          </msup>\n          <msup>\n            <mi>n</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>30</mn>\n              <msup>\n                <mi>m</mi>\n                <mn>5</mn>\n              </msup>\n              <msup>\n                <mi>n</mi>\n                <mn>9</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 290,
+      "anchor": "fs-id1167835345812",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide Monomials",
+        "In the following exercises, divide the monomials."
+      ],
+      "text": "\\(\\frac{ 18 {a}^{4} {b}^{8} }{ -27 {a}^{9} {b}^{5} }\\)",
+      "math": [
+        "\\frac{ 18 {a}^{4} {b}^{8} }{ -27 {a}^{9} {b}^{5} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>18</mn>\n              <msup>\n                <mi>a</mi>\n                <mn>4</mn>\n              </msup>\n              <msup>\n                <mi>b</mi>\n                <mn>8</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>−27</mn>\n              <msup>\n                <mi>a</mi>\n                <mn>9</mn>\n              </msup>\n              <msup>\n                <mi>b</mi>\n                <mn>5</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>18</mn>\n              <msup>\n                <mi>a</mi>\n                <mn>4</mn>\n              </msup>\n              <msup>\n                <mi>b</mi>\n                <mn>8</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>−27</mn>\n              <msup>\n                <mi>a</mi>\n                <mn>9</mn>\n              </msup>\n              <msup>\n                <mi>b</mi>\n                <mn>5</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 291,
+      "anchor": "fs-id1167834431626",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide Monomials",
+        "In the following exercises, divide the monomials."
+      ],
+      "text": "\\(\\frac{ 45 {x}^{5} {y}^{9} }{ -60 {x}^{8} {y}^{6} }\\)",
+      "math": [
+        "\\frac{ 45 {x}^{5} {y}^{9} }{ -60 {x}^{8} {y}^{6} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>45</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>5</mn>\n              </msup>\n              <msup>\n                <mi>y</mi>\n                <mn>9</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>−60</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>8</mn>\n              </msup>\n              <msup>\n                <mi>y</mi>\n                <mn>6</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>45</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>5</mn>\n              </msup>\n              <msup>\n                <mi>y</mi>\n                <mn>9</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>−60</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>8</mn>\n              </msup>\n              <msup>\n                <mi>y</mi>\n                <mn>6</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 292,
+      "anchor": "fs-id1167834129910",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide Monomials",
+        "In the following exercises, divide the monomials."
+      ],
+      "text": "\\(\\frac{ ( 10 {m}^{5} {n}^{4} ) ( 5 {m}^{3} {n}^{6} ) }{ 25 {m}^{7} {n}^{5} }\\)",
+      "math": [
+        "\\frac{ ( 10 {m}^{5} {n}^{4} ) ( 5 {m}^{3} {n}^{6} ) }{ 25 {m}^{7} {n}^{5} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>10</mn>\n                  <msup>\n                    <mi>m</mi>\n                    <mn>5</mn>\n                  </msup>\n                  <msup>\n                    <mi>n</mi>\n                    <mn>4</mn>\n                  </msup>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>5</mn>\n                  <msup>\n                    <mi>m</mi>\n                    <mn>3</mn>\n                  </msup>\n                  <msup>\n                    <mi>n</mi>\n                    <mn>6</mn>\n                  </msup>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n              <msup>\n                <mi>m</mi>\n                <mn>7</mn>\n              </msup>\n              <msup>\n                <mi>n</mi>\n                <mn>5</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>10</mn>\n                  <msup>\n                    <mi>m</mi>\n                    <mn>5</mn>\n                  </msup>\n                  <msup>\n                    <mi>n</mi>\n                    <mn>4</mn>\n                  </msup>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>5</mn>\n                  <msup>\n                    <mi>m</mi>\n                    <mn>3</mn>\n                  </msup>\n                  <msup>\n                    <mi>n</mi>\n                    <mn>6</mn>\n                  </msup>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n              <msup>\n                <mi>m</mi>\n                <mn>7</mn>\n              </msup>\n              <msup>\n                <mi>n</mi>\n                <mn>5</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 293,
+      "anchor": "fs-id1167834306723",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide Monomials",
+        "In the following exercises, divide the monomials."
+      ],
+      "text": "\\(\\frac{ ( -18 {p}^{4} {q}^{7} ) ( -6 {p}^{3} {q}^{8} ) }{ -36 {p}^{ 12 } {q}^{ 10 } }\\)",
+      "math": [
+        "\\frac{ ( -18 {p}^{4} {q}^{7} ) ( -6 {p}^{3} {q}^{8} ) }{ -36 {p}^{ 12 } {q}^{ 10 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−18</mn>\n                  <msup>\n                    <mi>p</mi>\n                    <mn>4</mn>\n                  </msup>\n                  <msup>\n                    <mi>q</mi>\n                    <mn>7</mn>\n                  </msup>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−6</mn>\n                  <msup>\n                    <mi>p</mi>\n                    <mn>3</mn>\n                  </msup>\n                  <msup>\n                    <mi>q</mi>\n                    <mn>8</mn>\n                  </msup>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mrow>\n              <mn>−36</mn>\n              <msup>\n                <mi>p</mi>\n                <mrow>\n                  <mn>12</mn>\n                </mrow>\n              </msup>\n              <msup>\n                <mi>q</mi>\n                <mrow>\n                  <mn>10</mn>\n                </mrow>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−18</mn>\n                  <msup>\n                    <mi>p</mi>\n                    <mn>4</mn>\n                  </msup>\n                  <msup>\n                    <mi>q</mi>\n                    <mn>7</mn>\n                  </msup>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−6</mn>\n                  <msup>\n                    <mi>p</mi>\n                    <mn>3</mn>\n                  </msup>\n                  <msup>\n                    <mi>q</mi>\n                    <mn>8</mn>\n                  </msup>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mrow>\n              <mn>−36</mn>\n              <msup>\n                <mi>p</mi>\n                <mrow>\n                  <mn>12</mn>\n                </mrow>\n              </msup>\n              <msup>\n                <mi>q</mi>\n                <mrow>\n                  <mn>10</mn>\n                </mrow>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 294,
+      "anchor": "fs-id1167835595411",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide Monomials",
+        "In the following exercises, divide the monomials."
+      ],
+      "text": "\\(\\frac{ ( 6 {a}^{4} {b}^{3} ) ( 4 a {b}^{5} ) }{ ( 12 {a}^{2} b ) ( {a}^{3} b ) }\\)",
+      "math": [
+        "\\frac{ ( 6 {a}^{4} {b}^{3} ) ( 4 a {b}^{5} ) }{ ( 12 {a}^{2} b ) ( {a}^{3} b ) }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>6</mn>\n                  <msup>\n                    <mi>a</mi>\n                    <mn>4</mn>\n                  </msup>\n                  <msup>\n                    <mi>b</mi>\n                    <mn>3</mn>\n                  </msup>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>4</mn>\n                  <mi>a</mi>\n                  <msup>\n                    <mi>b</mi>\n                    <mn>5</mn>\n                  </msup>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>12</mn>\n                  <msup>\n                    <mi>a</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mi>b</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <msup>\n                    <mi>a</mi>\n                    <mn>3</mn>\n                  </msup>\n                  <mi>b</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>6</mn>\n                  <msup>\n                    <mi>a</mi>\n                    <mn>4</mn>\n                  </msup>\n                  <msup>\n                    <mi>b</mi>\n                    <mn>3</mn>\n                  </msup>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>4</mn>\n                  <mi>a</mi>\n                  <msup>\n                    <mi>b</mi>\n                    <mn>5</mn>\n                  </msup>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>12</mn>\n                  <msup>\n                    <mi>a</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mi>b</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <msup>\n                    <mi>a</mi>\n                    <mn>3</mn>\n                  </msup>\n                  <mi>b</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 295,
+      "anchor": "fs-id1167834527594",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide Monomials",
+        "In the following exercises, divide the monomials."
+      ],
+      "text": "\\(\\frac{ ( 4 {u}^{2} {v}^{5} ) ( 15 {u}^{3} v ) }{ ( 12 {u}^{3} v ) ( {u}^{4} v ) }\\)",
+      "math": [
+        "\\frac{ ( 4 {u}^{2} {v}^{5} ) ( 15 {u}^{3} v ) }{ ( 12 {u}^{3} v ) ( {u}^{4} v ) }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>4</mn>\n                  <msup>\n                    <mi>u</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <msup>\n                    <mi>v</mi>\n                    <mn>5</mn>\n                  </msup>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>15</mn>\n                  <msup>\n                    <mi>u</mi>\n                    <mn>3</mn>\n                  </msup>\n                  <mi>v</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>12</mn>\n                  <msup>\n                    <mi>u</mi>\n                    <mn>3</mn>\n                  </msup>\n                  <mi>v</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <msup>\n                    <mi>u</mi>\n                    <mn>4</mn>\n                  </msup>\n                  <mi>v</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>4</mn>\n                  <msup>\n                    <mi>u</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <msup>\n                    <mi>v</mi>\n                    <mn>5</mn>\n                  </msup>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>15</mn>\n                  <msup>\n                    <mi>u</mi>\n                    <mn>3</mn>\n                  </msup>\n                  <mi>v</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>12</mn>\n                  <msup>\n                    <mi>u</mi>\n                    <mn>3</mn>\n                  </msup>\n                  <mi>v</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <msup>\n                    <mi>u</mi>\n                    <mn>4</mn>\n                  </msup>\n                  <mi>v</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 296,
+      "anchor": "fs-id1167832081943",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide a Polynomial by a Monomial",
+        "In the following exercises, divide each polynomial by the monomial."
+      ],
+      "text": "\\(( 9 {n}^{4} + 6 {n}^{3} ) \\div 3 n\\)",
+      "math": [
+        "( 9 {n}^{4} + 6 {n}^{3} ) \\div 3 n"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>9</mn>\n              <msup>\n                <mi>n</mi>\n                <mn>4</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>6</mn>\n              <msup>\n                <mi>n</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mn>3</mn>\n          <mi>n</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>9</mn>\n              <msup>\n                <mi>n</mi>\n                <mn>4</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>6</mn>\n              <msup>\n                <mi>n</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mn>3</mn>\n          <mi>n</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 297,
+      "anchor": "fs-id1167834064316",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide a Polynomial by a Monomial",
+        "In the following exercises, divide each polynomial by the monomial."
+      ],
+      "text": "\\(( 8 {x}^{3} + 6 {x}^{2} ) \\div 2 x\\)",
+      "math": [
+        "( 8 {x}^{3} + 6 {x}^{2} ) \\div 2 x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>8</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>3</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>6</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>8</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>3</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>6</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 298,
+      "anchor": "fs-id1167831908934",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide a Polynomial by a Monomial",
+        "In the following exercises, divide each polynomial by the monomial."
+      ],
+      "text": "\\(( 63 {m}^{4} - 42 {m}^{3} ) \\div ( -7 {m}^{2} )\\)",
+      "math": [
+        "( 63 {m}^{4} - 42 {m}^{3} ) \\div ( -7 {m}^{2} )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>63</mn>\n              <msup>\n                <mi>m</mi>\n                <mn>4</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>42</mn>\n              <msup>\n                <mi>m</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−7</mn>\n              <msup>\n                <mi>m</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>63</mn>\n              <msup>\n                <mi>m</mi>\n                <mn>4</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>42</mn>\n              <msup>\n                <mi>m</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−7</mn>\n              <msup>\n                <mi>m</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 299,
+      "anchor": "fs-id1167831148777",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide a Polynomial by a Monomial",
+        "In the following exercises, divide each polynomial by the monomial."
+      ],
+      "text": "\\(( 48 {y}^{4} - 24 {y}^{3} ) \\div ( -8 {y}^{2} )\\)",
+      "math": [
+        "( 48 {y}^{4} - 24 {y}^{3} ) \\div ( -8 {y}^{2} )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>48</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>4</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>24</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−8</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>48</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>4</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>24</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−8</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 300,
+      "anchor": "fs-id1167831180598",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide a Polynomial by a Monomial",
+        "In the following exercises, divide each polynomial by the monomial."
+      ],
+      "text": "\\(\\frac{ 66 {x}^{3} {y}^{2} - 110 {x}^{2} {y}^{3} - 44 {x}^{4} {y}^{3} }{ 11 {x}^{2} {y}^{2} }\\)",
+      "math": [
+        "\\frac{ 66 {x}^{3} {y}^{2} - 110 {x}^{2} {y}^{3} - 44 {x}^{4} {y}^{3} }{ 11 {x}^{2} {y}^{2} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>66</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>3</mn>\n              </msup>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>110</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <msup>\n                <mi>y</mi>\n                <mn>3</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>44</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>4</mn>\n              </msup>\n              <msup>\n                <mi>y</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>11</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>66</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>3</mn>\n              </msup>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>110</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <msup>\n                <mi>y</mi>\n                <mn>3</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>44</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>4</mn>\n              </msup>\n              <msup>\n                <mi>y</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>11</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 301,
+      "anchor": "fs-id1167831228859",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide a Polynomial by a Monomial",
+        "In the following exercises, divide each polynomial by the monomial."
+      ],
+      "text": "\\(\\frac{ 72 {r}^{5} {s}^{2} + 132 {r}^{4} {s}^{3} - 96 {r}^{3} {s}^{5} }{ 12 {r}^{2} {s}^{2} }\\)",
+      "math": [
+        "\\frac{ 72 {r}^{5} {s}^{2} + 132 {r}^{4} {s}^{3} - 96 {r}^{3} {s}^{5} }{ 12 {r}^{2} {s}^{2} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>72</mn>\n              <msup>\n                <mi>r</mi>\n                <mn>5</mn>\n              </msup>\n              <msup>\n                <mi>s</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>132</mn>\n              <msup>\n                <mi>r</mi>\n                <mn>4</mn>\n              </msup>\n              <msup>\n                <mi>s</mi>\n                <mn>3</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>96</mn>\n              <msup>\n                <mi>r</mi>\n                <mn>3</mn>\n              </msup>\n              <msup>\n                <mi>s</mi>\n                <mn>5</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>12</mn>\n              <msup>\n                <mi>r</mi>\n                <mn>2</mn>\n              </msup>\n              <msup>\n                <mi>s</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>72</mn>\n              <msup>\n                <mi>r</mi>\n                <mn>5</mn>\n              </msup>\n              <msup>\n                <mi>s</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>132</mn>\n              <msup>\n                <mi>r</mi>\n                <mn>4</mn>\n              </msup>\n              <msup>\n                <mi>s</mi>\n                <mn>3</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>96</mn>\n              <msup>\n                <mi>r</mi>\n                <mn>3</mn>\n              </msup>\n              <msup>\n                <mi>s</mi>\n                <mn>5</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>12</mn>\n              <msup>\n                <mi>r</mi>\n                <mn>2</mn>\n              </msup>\n              <msup>\n                <mi>s</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 302,
+      "anchor": "fs-id1167834505956",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide a Polynomial by a Monomial",
+        "In the following exercises, divide each polynomial by the monomial."
+      ],
+      "text": "\\(\\frac{ 10 {x}^{2} + 5 x - 4 }{ -5 x }\\)",
+      "math": [
+        "\\frac{ 10 {x}^{2} + 5 x - 4 }{ -5 x }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>10</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mrow>\n              <mn>−5</mn>\n              <mi>x</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>10</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mrow>\n              <mn>−5</mn>\n              <mi>x</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 303,
+      "anchor": "fs-id1167831921573",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide a Polynomial by a Monomial",
+        "In the following exercises, divide each polynomial by the monomial."
+      ],
+      "text": "\\(\\frac{ 20 {y}^{2} + 12 y - 1 }{ -4 y }\\)",
+      "math": [
+        "\\frac{ 20 {y}^{2} + 12 y - 1 }{ -4 y }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>20</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>12</mn>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mrow>\n              <mn>−4</mn>\n              <mi>y</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>20</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>12</mn>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mrow>\n              <mn>−4</mn>\n              <mi>y</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 304,
+      "anchor": "fs-id1167831223962",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide Polynomials using Long Division",
+        "In the following exercises, divide each polynomial by the binomial."
+      ],
+      "text": "\\(( {y}^{2} + 7 y + 12 ) \\div ( y + 3 )\\)",
+      "math": [
+        "( {y}^{2} + 7 y + 12 ) \\div ( y + 3 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>7</mn>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>12</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>7</mn>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>12</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 305,
+      "anchor": "fs-id1167831832490",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide Polynomials using Long Division",
+        "In the following exercises, divide each polynomial by the binomial."
+      ],
+      "text": "\\(( {a}^{2} - 2 a - 35 ) \\div ( a + 5 )\\)",
+      "math": [
+        "( {a}^{2} - 2 a - 35 ) \\div ( a + 5 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>35</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>a</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>35</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>a</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 306,
+      "anchor": "fs-id1167835376266",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide Polynomials using Long Division",
+        "In the following exercises, divide each polynomial by the binomial."
+      ],
+      "text": "\\(( 6 {m}^{2} - 19 m - 20 ) \\div ( m - 4 )\\)",
+      "math": [
+        "( 6 {m}^{2} - 19 m - 20 ) \\div ( m - 4 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>6</mn>\n              <msup>\n                <mi>m</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>19</mn>\n              <mi>m</mi>\n              <mo>−</mo>\n              <mn>20</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>m</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>6</mn>\n              <msup>\n                <mi>m</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>19</mn>\n              <mi>m</mi>\n              <mo>−</mo>\n              <mn>20</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>m</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 307,
+      "anchor": "fs-id1167835389933",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide Polynomials using Long Division",
+        "In the following exercises, divide each polynomial by the binomial."
+      ],
+      "text": "\\(( 4 {x}^{2} - 17 x - 15 ) \\div ( x - 5 )\\)",
+      "math": [
+        "( 4 {x}^{2} - 17 x - 15 ) \\div ( x - 5 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>17</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>15</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>17</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>15</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 308,
+      "anchor": "fs-id1167831922637",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide Polynomials using Long Division",
+        "In the following exercises, divide each polynomial by the binomial."
+      ],
+      "text": "\\(( {q}^{2} + 2 q + 20 ) \\div ( q + 6 )\\)",
+      "math": [
+        "( {q}^{2} + 2 q + 20 ) \\div ( q + 6 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>q</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>q</mi>\n              <mo>+</mo>\n              <mn>20</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>q</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>q</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>q</mi>\n              <mo>+</mo>\n              <mn>20</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>q</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 309,
+      "anchor": "fs-id1167831920042",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide Polynomials using Long Division",
+        "In the following exercises, divide each polynomial by the binomial."
+      ],
+      "text": "\\(( {p}^{2} + 11 p + 16 ) \\div ( p + 8 )\\)",
+      "math": [
+        "( {p}^{2} + 11 p + 16 ) \\div ( p + 8 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>p</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>11</mn>\n              <mi>p</mi>\n              <mo>+</mo>\n              <mn>16</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>p</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>p</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>11</mn>\n              <mi>p</mi>\n              <mo>+</mo>\n              <mn>16</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>p</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 310,
+      "anchor": "fs-id1167834473248",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide Polynomials using Long Division",
+        "In the following exercises, divide each polynomial by the binomial."
+      ],
+      "text": "\\(( 3 {b}^{3} + {b}^{2} + 4 ) \\div ( b + 1 )\\)",
+      "math": [
+        "( 3 {b}^{3} + {b}^{2} + 4 ) \\div ( b + 1 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>b</mi>\n                <mn>3</mn>\n              </msup>\n              <mo>+</mo>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>b</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>b</mi>\n                <mn>3</mn>\n              </msup>\n              <mo>+</mo>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>b</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 311,
+      "anchor": "fs-id1167835343859",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide Polynomials using Long Division",
+        "In the following exercises, divide each polynomial by the binomial."
+      ],
+      "text": "\\(( 2 {n}^{3} - 10 n + 28 ) \\div ( n + 3 )\\)",
+      "math": [
+        "( 2 {n}^{3} - 10 n + 28 ) \\div ( n + 3 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>n</mi>\n                <mn>3</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>10</mn>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>28</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>n</mi>\n                <mn>3</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>10</mn>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>28</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 312,
+      "anchor": "fs-id1167830836783",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide Polynomials using Long Division",
+        "In the following exercises, divide each polynomial by the binomial."
+      ],
+      "text": "\\(( {z}^{3} + 1 ) \\div ( z + 1 )\\)",
+      "math": [
+        "( {z}^{3} + 1 ) \\div ( z + 1 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>z</mi>\n                <mn>3</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>z</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>z</mi>\n                <mn>3</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>z</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 313,
+      "anchor": "fs-id1167835517770",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide Polynomials using Long Division",
+        "In the following exercises, divide each polynomial by the binomial."
+      ],
+      "text": "\\(( {m}^{3} + 1000 ) \\div ( m + 10 )\\)",
+      "math": [
+        "( {m}^{3} + 1000 ) \\div ( m + 10 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>m</mi>\n                <mn>3</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>1000</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>m</mi>\n              <mo>+</mo>\n              <mn>10</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>m</mi>\n                <mn>3</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>1000</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>m</mi>\n              <mo>+</mo>\n              <mn>10</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 314,
+      "anchor": "fs-id1167834462189",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide Polynomials using Long Division",
+        "In the following exercises, divide each polynomial by the binomial."
+      ],
+      "text": "\\(( 64 {x}^{3} - 27 ) \\div ( 4 x - 3 )\\)",
+      "math": [
+        "( 64 {x}^{3} - 27 ) \\div ( 4 x - 3 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>64</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>3</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>27</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>64</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>3</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>27</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 315,
+      "anchor": "fs-id1167834377048",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide Polynomials using Long Division",
+        "In the following exercises, divide each polynomial by the binomial."
+      ],
+      "text": "\\(( 125 {y}^{3} - 64 ) \\div ( 5 y - 4 )\\)",
+      "math": [
+        "( 125 {y}^{3} - 64 ) \\div ( 5 y - 4 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>125</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>3</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>64</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>125</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>3</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>64</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 316,
+      "anchor": "fs-id1167830954389",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide Polynomials using Synthetic Division",
+        "In the following exercises, use synthetic Division to find the quotient and remainder."
+      ],
+      "text": "\\({x}^{3}-6{x}^{2}+5x+14\\) is divided by \\(x+1\\)",
+      "math": [
+        "{x}^{3}-6{x}^{2}+5x+14",
+        "x+1"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>6</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mi>x</mi><mo>+</mo><mn>14</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>6</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mi>x</mi><mo>+</mo><mn>14</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 317,
+      "anchor": "fs-id1167834473913",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide Polynomials using Synthetic Division",
+        "In the following exercises, use synthetic Division to find the quotient and remainder."
+      ],
+      "text": "\\({x}^{3}-3{x}^{2}-4x+12\\) is divided by \\(x+2\\)",
+      "math": [
+        "{x}^{3}-3{x}^{2}-4x+12",
+        "x+2"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>12</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>12</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 318,
+      "anchor": "fs-id1167832068295",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide Polynomials using Synthetic Division",
+        "In the following exercises, use synthetic Division to find the quotient and remainder."
+      ],
+      "text": "\\(2{x}^{3}-11{x}^{2}+11x+12\\) is divided by \\(x-3\\)",
+      "math": [
+        "2{x}^{3}-11{x}^{2}+11x+12",
+        "x-3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>11</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>11</mn><mi>x</mi><mo>+</mo><mn>12</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>11</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>11</mn><mi>x</mi><mo>+</mo><mn>12</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>−</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>−</mo><mn>3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 319,
+      "anchor": "fs-id1167831224757",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide Polynomials using Synthetic Division",
+        "In the following exercises, use synthetic Division to find the quotient and remainder."
+      ],
+      "text": "\\(2{x}^{3}-11{x}^{2}+16x-12\\) is divided by \\(x-4\\)",
+      "math": [
+        "2{x}^{3}-11{x}^{2}+16x-12",
+        "x-4"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>11</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>16</mn><mi>x</mi><mo>−</mo><mn>12</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>11</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>16</mn><mi>x</mi><mo>−</mo><mn>12</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>−</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>−</mo><mn>4</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 320,
+      "anchor": "fs-id1167834189660",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide Polynomials using Synthetic Division",
+        "In the following exercises, use synthetic Division to find the quotient and remainder."
+      ],
+      "text": "\\({x}^{4}-5{x}^{2}+13x+3\\) is divided by \\(x+3\\)",
+      "math": [
+        "{x}^{4}-5{x}^{2}+13x+3",
+        "x+3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>4</mn></msup><mo>−</mo><mn>5</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>13</mn><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>4</mn></msup><mo>−</mo><mn>5</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>13</mn><mi>x</mi><mo>+</mo><mn>3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 321,
+      "anchor": "fs-id1167834111683",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide Polynomials using Synthetic Division",
+        "In the following exercises, use synthetic Division to find the quotient and remainder."
+      ],
+      "text": "\\({x}^{4}+{x}^{2}+6x-10\\) is divided by \\(x+2\\)",
+      "math": [
+        "{x}^{4}+{x}^{2}+6x-10",
+        "x+2"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>4</mn></msup><mo>+</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn><mi>x</mi><mo>−</mo><mn>10</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>4</mn></msup><mo>+</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn><mi>x</mi><mo>−</mo><mn>10</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 322,
+      "anchor": "fs-id1167835550509",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide Polynomials using Synthetic Division",
+        "In the following exercises, use synthetic Division to find the quotient and remainder."
+      ],
+      "text": "\\(2{x}^{4}-9{x}^{3}+5{x}^{2}-3x-6\\) is divided by \\(x-4\\)",
+      "math": [
+        "2{x}^{4}-9{x}^{3}+5{x}^{2}-3x-6",
+        "x-4"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><msup><mi>x</mi><mn>4</mn></msup><mo>−</mo><mn>9</mn><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mn>5</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><msup><mi>x</mi><mn>4</mn></msup><mo>−</mo><mn>9</mn><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mn>5</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>6</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>−</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>−</mo><mn>4</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 323,
+      "anchor": "fs-id1167835515273",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide Polynomials using Synthetic Division",
+        "In the following exercises, use synthetic Division to find the quotient and remainder."
+      ],
+      "text": "\\(3{x}^{4}-11{x}^{3}+2{x}^{2}+10x+6\\) is divided by \\(x-3\\)",
+      "math": [
+        "3{x}^{4}-11{x}^{3}+2{x}^{2}+10x+6",
+        "x-3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><msup><mi>x</mi><mn>4</mn></msup><mo>−</mo><mn>11</mn><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>10</mn><mi>x</mi><mo>+</mo><mn>6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><msup><mi>x</mi><mn>4</mn></msup><mo>−</mo><mn>11</mn><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>10</mn><mi>x</mi><mo>+</mo><mn>6</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>−</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>−</mo><mn>3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 324,
+      "anchor": "fs-id1167831922274",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide Polynomial Functions",
+        "In the following exercises, divide."
+      ],
+      "text": "For functions \\(f(x)={x}^{2}-13x+36\\) and \\(g(x)=x-4,\\) find ⓐ \\((\\frac{f}{g})(x)\\) ⓑ \\((\\frac{f}{g})(-1)\\)",
+      "math": [
+        "f(x)={x}^{2}-13x+36",
+        "g(x)=x-4,",
+        "(\\frac{f}{g})(x)",
+        "(\\frac{f}{g})(-1)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>13</mn><mi>x</mi><mo>+</mo><mn>36</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>13</mn><mi>x</mi><mo>+</mo><mn>36</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>x</mi><mo>−</mo><mn>4</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>x</mi><mo>−</mo><mn>4</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mfrac><mi>f</mi><mi>g</mi></mfrac></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mfrac><mi>f</mi><mi>g</mi></mfrac></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mfrac><mi>f</mi><mi>g</mi></mfrac></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mfrac><mi>f</mi><mi>g</mi></mfrac></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 325,
+      "anchor": "fs-id1167835367404",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide Polynomial Functions",
+        "In the following exercises, divide."
+      ],
+      "text": "For functions \\(f(x)={x}^{2}-15x+54\\) and \\(g(x)=x-9,\\) find ⓐ \\((\\frac{f}{g})(x)\\) ⓑ \\((\\frac{f}{g})(-5)\\)",
+      "math": [
+        "f(x)={x}^{2}-15x+54",
+        "g(x)=x-9,",
+        "(\\frac{f}{g})(x)",
+        "(\\frac{f}{g})(-5)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>15</mn><mi>x</mi><mo>+</mo><mn>54</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>15</mn><mi>x</mi><mo>+</mo><mn>54</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>x</mi><mo>−</mo><mn>9</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>x</mi><mo>−</mo><mn>9</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mfrac><mi>f</mi><mi>g</mi></mfrac></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mfrac><mi>f</mi><mi>g</mi></mfrac></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mfrac><mi>f</mi><mi>g</mi></mfrac></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mfrac><mi>f</mi><mi>g</mi></mfrac></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 326,
+      "anchor": "fs-id1167834061693",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide Polynomial Functions",
+        "In the following exercises, divide."
+      ],
+      "text": "For functions \\(f(x)={x}^{3}+{x}^{2}-7x+2\\) and \\(g(x)=x-2,\\) find ⓐ \\((\\frac{f}{g})(x)\\) ⓑ \\((\\frac{f}{g})(2)\\)",
+      "math": [
+        "f(x)={x}^{3}+{x}^{2}-7x+2",
+        "g(x)=x-2,",
+        "(\\frac{f}{g})(x)",
+        "(\\frac{f}{g})(2)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>7</mn><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>7</mn><mi>x</mi><mo>+</mo><mn>2</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>x</mi><mo>−</mo><mn>2</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>x</mi><mo>−</mo><mn>2</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mfrac><mi>f</mi><mi>g</mi></mfrac></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mfrac><mi>f</mi><mi>g</mi></mfrac></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mfrac><mi>f</mi><mi>g</mi></mfrac></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mfrac><mi>f</mi><mi>g</mi></mfrac></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 327,
+      "anchor": "fs-id1167835229376",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide Polynomial Functions",
+        "In the following exercises, divide."
+      ],
+      "text": "For functions \\(f(x)={x}^{3}+2{x}^{2}-19x+12\\) and \\(g(x)=x-3,\\) find ⓐ \\((\\frac{f}{g})(x)\\) ⓑ \\((\\frac{f}{g})(0)\\)",
+      "math": [
+        "f(x)={x}^{3}+2{x}^{2}-19x+12",
+        "g(x)=x-3,",
+        "(\\frac{f}{g})(x)",
+        "(\\frac{f}{g})(0)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>19</mn><mi>x</mi><mo>+</mo><mn>12</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>19</mn><mi>x</mi><mo>+</mo><mn>12</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>x</mi><mo>−</mo><mn>3</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>x</mi><mo>−</mo><mn>3</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mfrac><mi>f</mi><mi>g</mi></mfrac></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mfrac><mi>f</mi><mi>g</mi></mfrac></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mfrac><mi>f</mi><mi>g</mi></mfrac></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mfrac><mi>f</mi><mi>g</mi></mfrac></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 328,
+      "anchor": "fs-id1167834279190",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide Polynomial Functions",
+        "In the following exercises, divide."
+      ],
+      "text": "For functions \\(f(x)={x}^{2}-3x+2\\) and \\(g(x)=x+3,\\) find ⓐ \\((\\frac{f}{g})(x)\\) ⓑ \\((\\frac{f}{g})(3)\\)",
+      "math": [
+        "f(x)={x}^{2}-3x+2",
+        "g(x)=x+3,",
+        "(\\frac{f}{g})(x)",
+        "(\\frac{f}{g})(3)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>2</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>x</mi><mo>+</mo><mn>3</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>x</mi><mo>+</mo><mn>3</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mfrac><mi>f</mi><mi>g</mi></mfrac></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mfrac><mi>f</mi><mi>g</mi></mfrac></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mfrac><mi>f</mi><mi>g</mi></mfrac></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mfrac><mi>f</mi><mi>g</mi></mfrac></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 329,
+      "anchor": "fs-id1167834229293",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Divide Polynomial Functions",
+        "In the following exercises, divide."
+      ],
+      "text": "For functions \\(f(x)={x}^{2}+2x-3\\) and \\(g(x)=x+3\\) find ⓐ \\((\\frac{f}{g})(x)\\)ⓑ \\((\\frac{f}{g})(3)\\)",
+      "math": [
+        "f(x)={x}^{2}+2x-3",
+        "g(x)=x+3",
+        "(\\frac{f}{g})(x)",
+        "(\\frac{f}{g})(3)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>x</mi><mo>+</mo><mn>3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mo>(</mo><mfrac><mi>f</mi><mi>g</mi></mfrac><mo>)</mo><mo>(</mo><mi>x</mi><mo>)</mo></mrow><annotation-xml encoding=\"MathML-Content\"><mo>(</mo><mfrac><mi>f</mi><mi>g</mi></mfrac><mo>)</mo><mo>(</mo><mi>x</mi><mo>)</mo></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mfrac><mi>f</mi><mi>g</mi></mfrac><mo>)</mo><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mfrac><mi>f</mi><mi>g</mi></mfrac><mo>)</mo><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 330,
+      "anchor": "fs-id1167835384532",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Use the Remainder and Factor Theorem",
+        "In the following exercises, use the Remainder Theorem to find the remainder."
+      ],
+      "text": "\\(f(x)={x}^{3}-8x+7\\) is divided by \\(x+3\\)",
+      "math": [
+        "f(x)={x}^{3}-8x+7",
+        "x+3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>8</mn><mi>x</mi><mo>+</mo><mn>7</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>8</mn><mi>x</mi><mo>+</mo><mn>7</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 331,
+      "anchor": "fs-id1167826995963",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Use the Remainder and Factor Theorem",
+        "In the following exercises, use the Remainder Theorem to find the remainder."
+      ],
+      "text": "\\(f(x)={x}^{3}-4x-9\\) is divided by \\(x+2\\)",
+      "math": [
+        "f(x)={x}^{3}-4x-9",
+        "x+2"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>4</mn><mi>x</mi><mo>−</mo><mn>9</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>4</mn><mi>x</mi><mo>−</mo><mn>9</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 332,
+      "anchor": "fs-id1167834300708",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Use the Remainder and Factor Theorem",
+        "In the following exercises, use the Remainder Theorem to find the remainder."
+      ],
+      "text": "\\(f(x)=2{x}^{3}-6x-24\\) divided by \\(x-3\\)",
+      "math": [
+        "f(x)=2{x}^{3}-6x-24",
+        "x-3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>2</mn><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>6</mn><mi>x</mi><mo>−</mo><mn>24</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>2</mn><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>6</mn><mi>x</mi><mo>−</mo><mn>24</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>−</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>−</mo><mn>3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 333,
+      "anchor": "fs-id1167832015452",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Use the Remainder and Factor Theorem",
+        "In the following exercises, use the Remainder Theorem to find the remainder."
+      ],
+      "text": "\\(f(x)=7{x}^{2}-5x-8\\) divided by \\(x-1\\)",
+      "math": [
+        "f(x)=7{x}^{2}-5x-8",
+        "x-1"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>7</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>x</mi><mo>−</mo><mn>8</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>7</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>x</mi><mo>−</mo><mn>8</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 334,
+      "anchor": "fs-id1167834063320",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "In the following exercises, use the Remainder Theorem to find the remainder.",
+        "In the following exercises, use the Factor Theorem to determine if \\(x-c\\) is a factor of the polynomial function."
+      ],
+      "text": "Determine whether \\(x+3\\) a factor of \\({x}^{3}+8{x}^{2}+21x+18\\)",
+      "math": [
+        "x+3",
+        "{x}^{3}+8{x}^{2}+21x+18"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mn>8</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>21</mn><mi>x</mi><mo>+</mo><mn>18</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mn>8</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>21</mn><mi>x</mi><mo>+</mo><mn>18</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 335,
+      "anchor": "fs-id1167834593508",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "In the following exercises, use the Remainder Theorem to find the remainder.",
+        "In the following exercises, use the Factor Theorem to determine if \\(x-c\\) is a factor of the polynomial function."
+      ],
+      "text": "Determine whether \\(x+4\\) a factor of \\({x}^{3}+{x}^{2}-14x+8\\)",
+      "math": [
+        "x+4",
+        "{x}^{3}+{x}^{2}-14x+8"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>+</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>+</mo><mn>4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>14</mn><mi>x</mi><mo>+</mo><mn>8</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>14</mn><mi>x</mi><mo>+</mo><mn>8</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 336,
+      "anchor": "fs-id1167834137641",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "In the following exercises, use the Remainder Theorem to find the remainder.",
+        "In the following exercises, use the Factor Theorem to determine if \\(x-c\\) is a factor of the polynomial function."
+      ],
+      "text": "Determine whether \\(x-2\\) a factor of \\({x}^{3}-7{x}^{2}+7x-6\\)",
+      "math": [
+        "x-2",
+        "{x}^{3}-7{x}^{2}+7x-6"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>7</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>7</mn><mi>x</mi><mo>−</mo><mn>6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>7</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>7</mn><mi>x</mi><mo>−</mo><mn>6</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 337,
+      "anchor": "fs-id1167831881950",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "In the following exercises, use the Remainder Theorem to find the remainder.",
+        "In the following exercises, use the Factor Theorem to determine if \\(x-c\\) is a factor of the polynomial function."
+      ],
+      "text": "Determine whether \\(x-3\\) a factor of \\({x}^{3}-7{x}^{2}+11x+3\\)",
+      "math": [
+        "x-3",
+        "{x}^{3}-7{x}^{2}+11x+3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>−</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>−</mo><mn>3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>7</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>11</mn><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>7</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>11</mn><mi>x</mi><mo>+</mo><mn>3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 338,
+      "anchor": "fs-id1167835326159",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "James divides \\(48y+6\\) by 6 this way: \\(\\frac{48y+6}{6}=48y.\\) What is wrong with his reasoning?",
+      "math": [
+        "48y+6",
+        "\\frac{48y+6}{6}=48y."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>48</mn><mi>y</mi><mo>+</mo><mn>6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>48</mn><mi>y</mi><mo>+</mo><mn>6</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mn>48</mn><mi>y</mi><mo>+</mo><menclose notation=\"updiagonalstrike\"><mn>6</mn></menclose></mrow><mrow><menclose notation=\"updiagonalstrike\"><mn>6</mn></menclose></mrow></mfrac><mo>=</mo><mn>48</mn><mi>y</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mn>48</mn><mi>y</mi><mo>+</mo><menclose notation=\"updiagonalstrike\"><mn>6</mn></menclose></mrow><mrow><menclose notation=\"updiagonalstrike\"><mn>6</mn></menclose></mrow></mfrac><mo>=</mo><mn>48</mn><mi>y</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 339,
+      "anchor": "fs-id1167831239167",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Divide \\(\\frac{10{x}^{2}+x-12}{2x}\\) and explain with words how you get each term of the quotient.",
+      "math": [
+        "\\frac{10{x}^{2}+x-12}{2x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mn>10</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>x</mi><mo>−</mo><mn>12</mn></mrow><mrow><mn>2</mn><mi>x</mi></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mn>10</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>x</mi><mo>−</mo><mn>12</mn></mrow><mrow><mn>2</mn><mi>x</mi></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 340,
+      "anchor": "fs-id1167835596594",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain when you can use synthetic division.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 341,
+      "anchor": "fs-id1167831923187",
+      "page": "5-4-dividing-polynomials",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "In your own words, write the steps for synthetic division for \\({x}^{2}+5x+6\\) divided by \\(x-2.\\)",
+      "math": [
+        "{x}^{2}+5x+6",
+        "x-2."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mi>x</mi><mo>+</mo><mn>6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mi>x</mi><mo>+</mo><mn>6</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>−</mo><mn>2</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>−</mo><mn>2</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "5.71",
+      "page": "5-4-dividing-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167835349346",
+      "context": [
+        "Dividing Monomials"
+      ],
+      "text": "Find the quotient: \\(-72{a}^{7}{b}^{3}\\div (8{a}^{12}{b}^{4}).\\)",
+      "math": [
+        "-72{a}^{7}{b}^{3}\\div (8{a}^{12}{b}^{4})."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−72</mn><msup><mi>a</mi><mn>7</mn></msup><msup><mi>b</mi><mn>3</mn></msup><mo>÷</mo><mrow><mo>(</mo><mrow><mn>8</mn><msup><mi>a</mi><mrow><mn>12</mn></mrow></msup><msup><mi>b</mi><mn>4</mn></msup></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−72</mn><msup><mi>a</mi><mn>7</mn></msup><msup><mi>b</mi><mn>3</mn></msup><mo>÷</mo><mrow><mo>(</mo><mrow><mn>8</mn><msup><mi>a</mi><mrow><mn>12</mn></mrow></msup><msup><mi>b</mi><mn>4</mn></msup></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.72",
+      "page": "5-4-dividing-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167826938133",
+      "context": [
+        "Dividing Monomials"
+      ],
+      "text": "Find the quotient: \\(-63{c}^{8}{d}^{3}\\div (7{c}^{12}{d}^{2}).\\)",
+      "math": [
+        "-63{c}^{8}{d}^{3}\\div (7{c}^{12}{d}^{2})."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−63</mn><msup><mi>c</mi><mn>8</mn></msup><msup><mi>d</mi><mn>3</mn></msup><mo>÷</mo><mrow><mo>(</mo><mrow><mn>7</mn><msup><mi>c</mi><mrow><mn>12</mn></mrow></msup><msup><mi>d</mi><mn>2</mn></msup></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−63</mn><msup><mi>c</mi><mn>8</mn></msup><msup><mi>d</mi><mn>3</mn></msup><mo>÷</mo><mrow><mo>(</mo><mrow><mn>7</mn><msup><mi>c</mi><mrow><mn>12</mn></mrow></msup><msup><mi>d</mi><mn>2</mn></msup></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.73",
+      "page": "5-4-dividing-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167830698259",
+      "context": [
+        "Dividing Monomials"
+      ],
+      "text": "Find the quotient: \\(\\frac{28{x}^{5}{y}^{14}}{49{x}^{9}{y}^{12}}.\\)",
+      "math": [
+        "\\frac{28{x}^{5}{y}^{14}}{49{x}^{9}{y}^{12}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mn>28</mn><msup><mi>x</mi><mn>5</mn></msup><msup><mi>y</mi><mrow><mn>14</mn></mrow></msup></mrow><mrow><mn>49</mn><msup><mi>x</mi><mn>9</mn></msup><msup><mi>y</mi><mrow><mn>12</mn></mrow></msup></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mn>28</mn><msup><mi>x</mi><mn>5</mn></msup><msup><mi>y</mi><mrow><mn>14</mn></mrow></msup></mrow><mrow><mn>49</mn><msup><mi>x</mi><mn>9</mn></msup><msup><mi>y</mi><mrow><mn>12</mn></mrow></msup></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.74",
+      "page": "5-4-dividing-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167835331022",
+      "context": [
+        "Dividing Monomials"
+      ],
+      "text": "Find the quotient: \\(\\frac{30{m}^{5}{n}^{11}}{48{m}^{10}{n}^{14}}.\\)",
+      "math": [
+        "\\frac{30{m}^{5}{n}^{11}}{48{m}^{10}{n}^{14}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mn>30</mn><msup><mi>m</mi><mn>5</mn></msup><msup><mi>n</mi><mrow><mn>11</mn></mrow></msup></mrow><mrow><mn>48</mn><msup><mi>m</mi><mrow><mn>10</mn></mrow></msup><msup><mi>n</mi><mrow><mn>14</mn></mrow></msup></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mn>30</mn><msup><mi>m</mi><mn>5</mn></msup><msup><mi>n</mi><mrow><mn>11</mn></mrow></msup></mrow><mrow><mn>48</mn><msup><mi>m</mi><mrow><mn>10</mn></mrow></msup><msup><mi>n</mi><mrow><mn>14</mn></mrow></msup></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.75",
+      "page": "5-4-dividing-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167834346402",
+      "context": [
+        "Divide a Polynomial by a Monomial"
+      ],
+      "text": "Find the quotient: \\((32{a}^{2}b-16a{b}^{2})\\div (-8ab).\\)",
+      "math": [
+        "(32{a}^{2}b-16a{b}^{2})\\div (-8ab)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>32</mn><msup><mi>a</mi><mn>2</mn></msup><mi>b</mi><mo>−</mo><mn>16</mn><mi>a</mi><msup><mi>b</mi><mn>2</mn></msup></mrow><mo>)</mo></mrow><mo>÷</mo><mrow><mo>(</mo><mrow><mn>−8</mn><mi>a</mi><mi>b</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>32</mn><msup><mi>a</mi><mn>2</mn></msup><mi>b</mi><mo>−</mo><mn>16</mn><mi>a</mi><msup><mi>b</mi><mn>2</mn></msup></mrow><mo>)</mo></mrow><mo>÷</mo><mrow><mo>(</mo><mrow><mn>−8</mn><mi>a</mi><mi>b</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.76",
+      "page": "5-4-dividing-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167826937939",
+      "context": [
+        "Divide a Polynomial by a Monomial"
+      ],
+      "text": "Find the quotient: \\((-48{a}^{8}{b}^{4}-36{a}^{6}{b}^{5})\\div (-6{a}^{3}{b}^{3}).\\)",
+      "math": [
+        "(-48{a}^{8}{b}^{4}-36{a}^{6}{b}^{5})\\div (-6{a}^{3}{b}^{3})."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−48</mn><msup><mi>a</mi><mn>8</mn></msup><msup><mi>b</mi><mn>4</mn></msup><mo>−</mo><mn>36</mn><msup><mi>a</mi><mn>6</mn></msup><msup><mi>b</mi><mn>5</mn></msup></mrow><mo>)</mo></mrow><mo>÷</mo><mrow><mo>(</mo><mrow><mn>−6</mn><msup><mi>a</mi><mn>3</mn></msup><msup><mi>b</mi><mn>3</mn></msup></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−48</mn><msup><mi>a</mi><mn>8</mn></msup><msup><mi>b</mi><mn>4</mn></msup><mo>−</mo><mn>36</mn><msup><mi>a</mi><mn>6</mn></msup><msup><mi>b</mi><mn>5</mn></msup></mrow><mo>)</mo></mrow><mo>÷</mo><mrow><mo>(</mo><mrow><mn>−6</mn><msup><mi>a</mi><mn>3</mn></msup><msup><mi>b</mi><mn>3</mn></msup></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.77",
+      "page": "5-4-dividing-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167831882387",
+      "context": [
+        "Divide Polynomials Using Long Division"
+      ],
+      "text": "Find the quotient: \\(({y}^{2}+10y+21)\\div (y+3).\\)",
+      "math": [
+        "({y}^{2}+10y+21)\\div (y+3)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>10</mn><mi>y</mi><mo>+</mo><mn>21</mn></mrow><mo>)</mo></mrow><mo>÷</mo><mrow><mo>(</mo><mrow><mi>y</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>10</mn><mi>y</mi><mo>+</mo><mn>21</mn></mrow><mo>)</mo></mrow><mo>÷</mo><mrow><mo>(</mo><mrow><mi>y</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.78",
+      "page": "5-4-dividing-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167834345678",
+      "context": [
+        "Divide Polynomials Using Long Division"
+      ],
+      "text": "Find the quotient: \\(({m}^{2}+9m+20)\\div (m+4).\\)",
+      "math": [
+        "({m}^{2}+9m+20)\\div (m+4)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><msup><mi>m</mi><mn>2</mn></msup><mo>+</mo><mn>9</mn><mi>m</mi><mo>+</mo><mn>20</mn></mrow><mo>)</mo></mrow><mo>÷</mo><mrow><mo>(</mo><mrow><mi>m</mi><mo>+</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><msup><mi>m</mi><mn>2</mn></msup><mo>+</mo><mn>9</mn><mi>m</mi><mo>+</mo><mn>20</mn></mrow><mo>)</mo></mrow><mo>÷</mo><mrow><mo>(</mo><mrow><mi>m</mi><mo>+</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.79",
+      "page": "5-4-dividing-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167835325550",
+      "context": [
+        "Divide Polynomials Using Long Division"
+      ],
+      "text": "Find the quotient: \\(({x}^{4}-7{x}^{2}+7x+6)\\div (x+3).\\)",
+      "math": [
+        "({x}^{4}-7{x}^{2}+7x+6)\\div (x+3)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><msup><mi>x</mi><mn>4</mn></msup><mo>−</mo><mn>7</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>7</mn><mi>x</mi><mo>+</mo><mn>6</mn></mrow><mo>)</mo></mrow><mo>÷</mo><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><msup><mi>x</mi><mn>4</mn></msup><mo>−</mo><mn>7</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>7</mn><mi>x</mi><mo>+</mo><mn>6</mn></mrow><mo>)</mo></mrow><mo>÷</mo><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.80",
+      "page": "5-4-dividing-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167835354645",
+      "context": [
+        "Divide Polynomials Using Long Division"
+      ],
+      "text": "Find the quotient: \\(({x}^{4}-11{x}^{2}-7x-6)\\div (x+3).\\)",
+      "math": [
+        "({x}^{4}-11{x}^{2}-7x-6)\\div (x+3)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><msup><mi>x</mi><mn>4</mn></msup><mo>−</mo><mn>11</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>7</mn><mi>x</mi><mo>−</mo><mn>6</mn></mrow><mo>)</mo></mrow><mo>÷</mo><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><msup><mi>x</mi><mn>4</mn></msup><mo>−</mo><mn>11</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>7</mn><mi>x</mi><mo>−</mo><mn>6</mn></mrow><mo>)</mo></mrow><mo>÷</mo><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.81",
+      "page": "5-4-dividing-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167835331749",
+      "context": [
+        "Divide Polynomials Using Long Division"
+      ],
+      "text": "Find the quotient: \\(({x}^{3}-64)\\div (x-4).\\)",
+      "math": [
+        "({x}^{3}-64)\\div (x-4)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>64</mn></mrow><mo>)</mo></mrow><mo>÷</mo><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>64</mn></mrow><mo>)</mo></mrow><mo>÷</mo><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.82",
+      "page": "5-4-dividing-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167835575810",
+      "context": [
+        "Divide Polynomials Using Long Division"
+      ],
+      "text": "Find the quotient: \\((125{x}^{3}-8)\\div (5x-2).\\)",
+      "math": [
+        "(125{x}^{3}-8)\\div (5x-2)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>125</mn><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>8</mn></mrow><mo>)</mo></mrow><mo>÷</mo><mrow><mo>(</mo><mrow><mn>5</mn><mi>x</mi><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>125</mn><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>8</mn></mrow><mo>)</mo></mrow><mo>÷</mo><mrow><mo>(</mo><mrow><mn>5</mn><mi>x</mi><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.83",
+      "page": "5-4-dividing-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167832059968",
+      "context": [
+        "Divide Polynomials using Synthetic Division"
+      ],
+      "text": "Use synthetic division to find the quotient and remainder when \\(3{x}^{3}+10{x}^{2}+6x-2\\) is divided by \\(x+2.\\)",
+      "math": [
+        "3{x}^{3}+10{x}^{2}+6x-2",
+        "x+2."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mn>10</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn><mi>x</mi><mo>−</mo><mn>2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mn>10</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn><mi>x</mi><mo>−</mo><mn>2</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>+</mo><mn>2</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>+</mo><mn>2</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.84",
+      "page": "5-4-dividing-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167835304949",
+      "context": [
+        "Divide Polynomials using Synthetic Division"
+      ],
+      "text": "Use synthetic division to find the quotient and remainder when \\(4{x}^{3}+5{x}^{2}-5x+3\\) is divided by \\(x+2.\\)",
+      "math": [
+        "4{x}^{3}+5{x}^{2}-5x+3",
+        "x+2."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mn>5</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mn>5</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>x</mi><mo>+</mo><mn>3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>+</mo><mn>2</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>+</mo><mn>2</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.85",
+      "page": "5-4-dividing-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167834244178",
+      "context": [
+        "Divide Polynomials using Synthetic Division"
+      ],
+      "text": "Use synthetic division to find the quotient and remainder when \\({x}^{4}-16{x}^{2}+5x+20\\) is divided by \\(x+4.\\)",
+      "math": [
+        "{x}^{4}-16{x}^{2}+5x+20",
+        "x+4."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>4</mn></msup><mo>−</mo><mn>16</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mi>x</mi><mo>+</mo><mn>20</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>4</mn></msup><mo>−</mo><mn>16</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mi>x</mi><mo>+</mo><mn>20</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>+</mo><mn>4</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>+</mo><mn>4</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.86",
+      "page": "5-4-dividing-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167826967443",
+      "context": [
+        "Divide Polynomials using Synthetic Division"
+      ],
+      "text": "Use synthetic division to find the quotient and remainder when \\({x}^{4}-9{x}^{2}+2x+6\\) is divided by \\(x+3.\\)",
+      "math": [
+        "{x}^{4}-9{x}^{2}+2x+6",
+        "x+3."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>4</mn></msup><mo>−</mo><mn>9</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>4</mn></msup><mo>−</mo><mn>9</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>6</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>+</mo><mn>3</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>+</mo><mn>3</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.87",
+      "page": "5-4-dividing-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167830898679",
+      "context": [
+        "Divide Polynomial Functions"
+      ],
+      "text": "For functions \\(f(x)={x}^{2}-5x-24\\) and \\(g(x)=x+3,\\) find ⓐ \\((\\frac{f}{g})(x)\\) ⓑ \\((\\frac{f}{g})(-3).\\)",
+      "math": [
+        "f(x)={x}^{2}-5x-24",
+        "g(x)=x+3,",
+        "(\\frac{f}{g})(x)",
+        "(\\frac{f}{g})(-3)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>x</mi><mo>−</mo><mn>24</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>x</mi><mo>−</mo><mn>24</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>x</mi><mo>+</mo><mn>3</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>x</mi><mo>+</mo><mn>3</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mfrac><mi>f</mi><mi>g</mi></mfrac></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mfrac><mi>f</mi><mi>g</mi></mfrac></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mfrac><mi>f</mi><mi>g</mi></mfrac></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>−3</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mfrac><mi>f</mi><mi>g</mi></mfrac></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>−3</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.88",
+      "page": "5-4-dividing-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167834161594",
+      "context": [
+        "Divide Polynomial Functions"
+      ],
+      "text": "For functions \\(f(x)={x}^{2}-5x-36\\) and \\(g(x)=x+4,\\) find ⓐ \\((\\frac{f}{g})(x)\\) ⓑ \\((\\frac{f}{g})(-5).\\)",
+      "math": [
+        "f(x)={x}^{2}-5x-36",
+        "g(x)=x+4,",
+        "(\\frac{f}{g})(x)",
+        "(\\frac{f}{g})(-5)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>x</mi><mo>−</mo><mn>36</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>x</mi><mo>−</mo><mn>36</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>x</mi><mo>+</mo><mn>4</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>x</mi><mo>+</mo><mn>4</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mfrac><mi>f</mi><mi>g</mi></mfrac></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mfrac><mi>f</mi><mi>g</mi></mfrac></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mfrac><mi>f</mi><mi>g</mi></mfrac></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>−5</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mfrac><mi>f</mi><mi>g</mi></mfrac></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>−5</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.89",
+      "page": "5-4-dividing-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167834227333",
+      "context": [
+        "Use the Remainder and Factor Theorem"
+      ],
+      "text": "Use the Remainder Theorem to find the remainder when \\(f(x)={x}^{3}+4x+15\\) is divided by \\(x+2.\\)",
+      "math": [
+        "f(x)={x}^{3}+4x+15",
+        "x+2."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>15</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>15</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>+</mo><mn>2</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>+</mo><mn>2</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.90",
+      "page": "5-4-dividing-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167835529944",
+      "context": [
+        "Use the Remainder and Factor Theorem"
+      ],
+      "text": "Use the Remainder Theorem to find the remainder when \\(f(x)={x}^{3}-7x+12\\) is divided by \\(x+3.\\)",
+      "math": [
+        "f(x)={x}^{3}-7x+12",
+        "x+3."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>7</mn><mi>x</mi><mo>+</mo><mn>12</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>7</mn><mi>x</mi><mo>+</mo><mn>12</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>+</mo><mn>3</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>+</mo><mn>3</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.91",
+      "page": "5-4-dividing-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167834309004",
+      "context": [
+        "Use the Remainder and Factor Theorem"
+      ],
+      "text": "Use the Factor Theorem to determine if \\(x-5\\) is a factor of \\(f(x)={x}^{3}-125.\\)",
+      "math": [
+        "x-5",
+        "f(x)={x}^{3}-125."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>−</mo><mn>5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>−</mo><mn>5</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>125</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>125</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.92",
+      "page": "5-4-dividing-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167834403341",
+      "context": [
+        "Use the Remainder and Factor Theorem"
+      ],
+      "text": "Use the Factor Theorem to determine if \\(x-6\\) is a factor of \\(f(x)={x}^{3}-216.\\)",
+      "math": [
+        "x-6",
+        "f(x)={x}^{3}-216."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>−</mo><mn>6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>−</mo><mn>6</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>216</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>216</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

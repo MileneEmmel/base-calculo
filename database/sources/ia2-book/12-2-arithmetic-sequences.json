@@ -1,0 +1,1104 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/12-2-arithmetic-sequences",
+  "title": "12.2 Arithmetic Sequences",
+  "sha256": "d4e2c0aa03b3096c1e29d80cb3503d6c1c43df0034ed3ca9770dbdc614429d12",
+  "questions": [
+    {
+      "number": 77,
+      "anchor": "fs-id1167834537739",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "Determine if a Sequence is Arithmetic",
+        "In the following exercises, determine if each sequence is arithmetic, and if so, indicate the common difference."
+      ],
+      "text": "\\(4 , 12 , 20 , 28 , 36 , 44 , …\\)",
+      "math": [
+        "4 , 12 , 20 , 28 , 36 , 44 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <mo>,</mo>\n          <mn>12</mn>\n          <mo>,</mo>\n          <mn>20</mn>\n          <mo>,</mo>\n          <mn>28</mn>\n          <mo>,</mo>\n          <mn>36</mn>\n          <mo>,</mo>\n          <mn>44</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <mo>,</mo>\n          <mn>12</mn>\n          <mo>,</mo>\n          <mn>20</mn>\n          <mo>,</mo>\n          <mn>28</mn>\n          <mo>,</mo>\n          <mn>36</mn>\n          <mo>,</mo>\n          <mn>44</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 78,
+      "anchor": "fs-id1167835344522",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "Determine if a Sequence is Arithmetic",
+        "In the following exercises, determine if each sequence is arithmetic, and if so, indicate the common difference."
+      ],
+      "text": "\\(-7 , -2 , 3 , 8 , 13 , 18 , …\\)",
+      "math": [
+        "-7 , -2 , 3 , 8 , 13 , 18 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−7</mn>\n          <mo>,</mo>\n          <mn>−2</mn>\n          <mo>,</mo>\n          <mn>3</mn>\n          <mo>,</mo>\n          <mn>8</mn>\n          <mo>,</mo>\n          <mn>13</mn>\n          <mo>,</mo>\n          <mn>18</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−7</mn>\n          <mo>,</mo>\n          <mn>−2</mn>\n          <mo>,</mo>\n          <mn>3</mn>\n          <mo>,</mo>\n          <mn>8</mn>\n          <mo>,</mo>\n          <mn>13</mn>\n          <mo>,</mo>\n          <mn>18</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 79,
+      "anchor": "fs-id1167830703159",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "Determine if a Sequence is Arithmetic",
+        "In the following exercises, determine if each sequence is arithmetic, and if so, indicate the common difference."
+      ],
+      "text": "\\(-15 , -16 , 3 , 12 , 21 , 30 , …\\)",
+      "math": [
+        "-15 , -16 , 3 , 12 , 21 , 30 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−15</mn>\n          <mo>,</mo>\n          <mn>−16</mn>\n          <mo>,</mo>\n          <mn>3</mn>\n          <mo>,</mo>\n          <mn>12</mn>\n          <mo>,</mo>\n          <mn>21</mn>\n          <mo>,</mo>\n          <mn>30</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−15</mn>\n          <mo>,</mo>\n          <mn>−16</mn>\n          <mo>,</mo>\n          <mn>3</mn>\n          <mo>,</mo>\n          <mn>12</mn>\n          <mo>,</mo>\n          <mn>21</mn>\n          <mo>,</mo>\n          <mn>30</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 80,
+      "anchor": "fs-id1167831922087",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "Determine if a Sequence is Arithmetic",
+        "In the following exercises, determine if each sequence is arithmetic, and if so, indicate the common difference."
+      ],
+      "text": "\\(11 , 5 , -1 , -7 - 13 , -19 , …\\)",
+      "math": [
+        "11 , 5 , -1 , -7 - 13 , -19 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>11</mn>\n          <mo>,</mo>\n          <mn>5</mn>\n          <mo>,</mo>\n          <mn>−1</mn>\n          <mo>,</mo>\n          <mn>−7</mn>\n          <mo>−</mo>\n          <mn>13</mn>\n          <mo>,</mo>\n          <mn>−19</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>11</mn>\n          <mo>,</mo>\n          <mn>5</mn>\n          <mo>,</mo>\n          <mn>−1</mn>\n          <mo>,</mo>\n          <mn>−7</mn>\n          <mo>−</mo>\n          <mn>13</mn>\n          <mo>,</mo>\n          <mn>−19</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 81,
+      "anchor": "fs-id1167835284952",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "Determine if a Sequence is Arithmetic",
+        "In the following exercises, determine if each sequence is arithmetic, and if so, indicate the common difference."
+      ],
+      "text": "\\(8 , 5 , 2 , -1 , -4 , -7 , …\\)",
+      "math": [
+        "8 , 5 , 2 , -1 , -4 , -7 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>8</mn>\n          <mo>,</mo>\n          <mn>5</mn>\n          <mo>,</mo>\n          <mn>2</mn>\n          <mo>,</mo>\n          <mn>−1</mn>\n          <mo>,</mo>\n          <mn>−4</mn>\n          <mo>,</mo>\n          <mn>−7</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>8</mn>\n          <mo>,</mo>\n          <mn>5</mn>\n          <mo>,</mo>\n          <mn>2</mn>\n          <mo>,</mo>\n          <mn>−1</mn>\n          <mo>,</mo>\n          <mn>−4</mn>\n          <mo>,</mo>\n          <mn>−7</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 82,
+      "anchor": "fs-id1167832067132",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "Determine if a Sequence is Arithmetic",
+        "In the following exercises, determine if each sequence is arithmetic, and if so, indicate the common difference."
+      ],
+      "text": "\\(15 , 5 , -5 , -15 , -25 , -35 , …\\)",
+      "math": [
+        "15 , 5 , -5 , -15 , -25 , -35 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>15</mn>\n          <mo>,</mo>\n          <mn>5</mn>\n          <mo>,</mo>\n          <mn>−5</mn>\n          <mo>,</mo>\n          <mn>−15</mn>\n          <mo>,</mo>\n          <mn>−25</mn>\n          <mo>,</mo>\n          <mn>−35</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>15</mn>\n          <mo>,</mo>\n          <mn>5</mn>\n          <mo>,</mo>\n          <mn>−5</mn>\n          <mo>,</mo>\n          <mn>−15</mn>\n          <mo>,</mo>\n          <mn>−25</mn>\n          <mo>,</mo>\n          <mn>−35</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 83,
+      "anchor": "fs-id1167835280314",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "In the following exercises, determine if each sequence is arithmetic, and if so, indicate the common difference.",
+        "In the following exercises, write the first five terms of each sequence with the given first term and common difference."
+      ],
+      "text": "\\({a}_{1}=11\\) and \\(d=7\\)",
+      "math": [
+        "{a}_{1}=11",
+        "d=7"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>11</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>11</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>d</mi><mo>=</mo><mn>7</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>d</mi><mo>=</mo><mn>7</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 84,
+      "anchor": "fs-id1167832087084",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "In the following exercises, determine if each sequence is arithmetic, and if so, indicate the common difference.",
+        "In the following exercises, write the first five terms of each sequence with the given first term and common difference."
+      ],
+      "text": "\\({a}_{1}=18\\) and \\(d=9\\)",
+      "math": [
+        "{a}_{1}=18",
+        "d=9"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>18</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>18</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>d</mi><mo>=</mo><mn>9</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>d</mi><mo>=</mo><mn>9</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 85,
+      "anchor": "fs-id1167835340208",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "In the following exercises, determine if each sequence is arithmetic, and if so, indicate the common difference.",
+        "In the following exercises, write the first five terms of each sequence with the given first term and common difference."
+      ],
+      "text": "\\({a}_{1}=-7\\) and \\(d=4\\)",
+      "math": [
+        "{a}_{1}=-7",
+        "d=4"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>−7</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>−7</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>d</mi><mo>=</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>d</mi><mo>=</mo><mn>4</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 86,
+      "anchor": "fs-id1167834301167",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "In the following exercises, determine if each sequence is arithmetic, and if so, indicate the common difference.",
+        "In the following exercises, write the first five terms of each sequence with the given first term and common difference."
+      ],
+      "text": "\\({a}_{1}=-8\\) and \\(d=5\\)",
+      "math": [
+        "{a}_{1}=-8",
+        "d=5"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>−8</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>−8</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>d</mi><mo>=</mo><mn>5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>d</mi><mo>=</mo><mn>5</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 87,
+      "anchor": "fs-id1167834584370",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "In the following exercises, determine if each sequence is arithmetic, and if so, indicate the common difference.",
+        "In the following exercises, write the first five terms of each sequence with the given first term and common difference."
+      ],
+      "text": "\\({a}_{1}=14\\) and \\(d=-9\\)",
+      "math": [
+        "{a}_{1}=14",
+        "d=-9"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>14</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>14</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>d</mi><mo>=</mo><mn>−9</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>d</mi><mo>=</mo><mn>−9</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 88,
+      "anchor": "fs-id1167831920468",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "In the following exercises, determine if each sequence is arithmetic, and if so, indicate the common difference.",
+        "In the following exercises, write the first five terms of each sequence with the given first term and common difference."
+      ],
+      "text": "\\({a}_{1}=-3\\) and \\(d=-3\\)",
+      "math": [
+        "{a}_{1}=-3",
+        "d=-3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>−3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>−3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>d</mi><mo>=</mo><mn>−3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>d</mi><mo>=</mo><mn>−3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 89,
+      "anchor": "fs-id1167835515405",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "Find the General Term (nth Term) of an Arithmetic Sequence",
+        "In the following exercises, find the term described using the information provided."
+      ],
+      "text": "Find the twenty-first term of a sequence where the first term is three and the common difference is eight.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 90,
+      "anchor": "fs-id1167834063455",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "Find the General Term (nth Term) of an Arithmetic Sequence",
+        "In the following exercises, find the term described using the information provided."
+      ],
+      "text": "Find the twenty-third term of a sequence where the first term is six and the common difference is four.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 91,
+      "anchor": "fs-id1167831872319",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "Find the General Term (nth Term) of an Arithmetic Sequence",
+        "In the following exercises, find the term described using the information provided."
+      ],
+      "text": "Find the thirtieth term of a sequence where the first term is \\(-14\\) and the common difference is five.",
+      "math": [
+        "-14"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−14</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−14</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 92,
+      "anchor": "fs-id1167835479014",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "Find the General Term (nth Term) of an Arithmetic Sequence",
+        "In the following exercises, find the term described using the information provided."
+      ],
+      "text": "Find the fortieth term of a sequence where the first term is \\(-19\\) and the common difference is seven.",
+      "math": [
+        "-19"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−19</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−19</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 93,
+      "anchor": "fs-id1167835479491",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "Find the General Term (nth Term) of an Arithmetic Sequence",
+        "In the following exercises, find the term described using the information provided."
+      ],
+      "text": "Find the sixteenth term of a sequence where the first term is 11 and the common difference is \\(-6.\\)",
+      "math": [
+        "-6."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−6</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−6</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 94,
+      "anchor": "fs-id1167831921343",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "Find the General Term (nth Term) of an Arithmetic Sequence",
+        "In the following exercises, find the term described using the information provided."
+      ],
+      "text": "Find the fourteenth term of a sequence where the first term is eight and the common difference is \\(-3.\\)",
+      "math": [
+        "-3."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−3</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−3</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 95,
+      "anchor": "fs-id1167835301613",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "Find the General Term (nth Term) of an Arithmetic Sequence",
+        "In the following exercises, find the term described using the information provided."
+      ],
+      "text": "Find the twentieth term of a sequence where the fifth term is \\(-4\\) and the common difference is \\(-2.\\) Give the formula for the general term.",
+      "math": [
+        "-4",
+        "-2."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−2</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−2</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 96,
+      "anchor": "fs-id1167835514340",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "Find the General Term (nth Term) of an Arithmetic Sequence",
+        "In the following exercises, find the term described using the information provided."
+      ],
+      "text": "Find the thirteenth term of a sequence where the sixth term is \\(-1\\) and the common difference is \\(-4.\\) Give the formula for the general term.",
+      "math": [
+        "-1",
+        "-4."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−4</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−4</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 97,
+      "anchor": "fs-id1167835361599",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "Find the General Term (nth Term) of an Arithmetic Sequence",
+        "In the following exercises, find the term described using the information provided."
+      ],
+      "text": "Find the eleventh term of a sequence where the third term is 19 and the common difference is five. Give the formula for the general term.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 98,
+      "anchor": "fs-id1167835332338",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "Find the General Term (nth Term) of an Arithmetic Sequence",
+        "In the following exercises, find the term described using the information provided."
+      ],
+      "text": "Find the fifteenth term of a sequence where the tenth term is 17 and the common difference is seven. Give the formula for the general term.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 99,
+      "anchor": "fs-id1167835280338",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "Find the General Term (nth Term) of an Arithmetic Sequence",
+        "In the following exercises, find the term described using the information provided."
+      ],
+      "text": "Find the eighth term of a sequence where the seventh term is \\(-8\\) and the common difference is \\(-5.\\) Give the formula for the general term.",
+      "math": [
+        "-8",
+        "-5."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−8</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−8</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−5</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−5</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 100,
+      "anchor": "fs-id1167835280403",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "Find the General Term (nth Term) of an Arithmetic Sequence",
+        "In the following exercises, find the term described using the information provided."
+      ],
+      "text": "Find the fifteenth term of a sequence where the tenth term is \\(-11\\) and the common difference is \\(-3.\\) Give the formula for the general term.",
+      "math": [
+        "-11",
+        "-3."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−11</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−11</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−3</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−3</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 101,
+      "anchor": "fs-id1167830705166",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "In the following exercises, find the term described using the information provided.",
+        "In the following exercises, find the first term and common difference of the sequence with the given terms. Give the formula for the general term."
+      ],
+      "text": "The second term is 14 and the thirteenth term is 47.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 102,
+      "anchor": "fs-id1167834194337",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "In the following exercises, find the term described using the information provided.",
+        "In the following exercises, find the first term and common difference of the sequence with the given terms. Give the formula for the general term."
+      ],
+      "text": "The third term is 18 and the fourteenth term is 73.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 103,
+      "anchor": "fs-id1167826996712",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "In the following exercises, find the term described using the information provided.",
+        "In the following exercises, find the first term and common difference of the sequence with the given terms. Give the formula for the general term."
+      ],
+      "text": "The second term is 13 and the tenth term is \\(-51.\\)",
+      "math": [
+        "-51."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−51</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−51</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 104,
+      "anchor": "fs-id1167834535636",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "In the following exercises, find the term described using the information provided.",
+        "In the following exercises, find the first term and common difference of the sequence with the given terms. Give the formula for the general term."
+      ],
+      "text": "The third term is four and the tenth term is \\(-38\\).",
+      "math": [
+        "-38"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−38</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−38</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 105,
+      "anchor": "fs-id1167834194386",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "In the following exercises, find the term described using the information provided.",
+        "In the following exercises, find the first term and common difference of the sequence with the given terms. Give the formula for the general term."
+      ],
+      "text": "The fourth term is \\(-6\\) and the fifteenth term is 27.",
+      "math": [
+        "-6"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−6</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 106,
+      "anchor": "fs-id1167835360260",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "In the following exercises, find the term described using the information provided.",
+        "In the following exercises, find the first term and common difference of the sequence with the given terms. Give the formula for the general term."
+      ],
+      "text": "The third term is \\(-13\\) and the seventeenth term is 15.",
+      "math": [
+        "-13"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−13</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−13</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 107,
+      "anchor": "fs-id1167831872377",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "Find the Sum of the First n Terms of an Arithmetic Sequence",
+        "In the following exercises, find the sum of the first 30 terms of each arithmetic sequence."
+      ],
+      "text": "\\(11 , 14 , 17 , 20 , 23 , …\\)",
+      "math": [
+        "11 , 14 , 17 , 20 , 23 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>11</mn>\n          <mo>,</mo>\n          <mn>14</mn>\n          <mo>,</mo>\n          <mn>17</mn>\n          <mo>,</mo>\n          <mn>20</mn>\n          <mo>,</mo>\n          <mn>23</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>11</mn>\n          <mo>,</mo>\n          <mn>14</mn>\n          <mo>,</mo>\n          <mn>17</mn>\n          <mo>,</mo>\n          <mn>20</mn>\n          <mo>,</mo>\n          <mn>23</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 108,
+      "anchor": "fs-id1167827967200",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "Find the Sum of the First n Terms of an Arithmetic Sequence",
+        "In the following exercises, find the sum of the first 30 terms of each arithmetic sequence."
+      ],
+      "text": "\\(12 , 18 , 24 , 30 , 36 , …\\)",
+      "math": [
+        "12 , 18 , 24 , 30 , 36 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>12</mn>\n          <mo>,</mo>\n          <mn>18</mn>\n          <mo>,</mo>\n          <mn>24</mn>\n          <mo>,</mo>\n          <mn>30</mn>\n          <mo>,</mo>\n          <mn>36</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>12</mn>\n          <mo>,</mo>\n          <mn>18</mn>\n          <mo>,</mo>\n          <mn>24</mn>\n          <mo>,</mo>\n          <mn>30</mn>\n          <mo>,</mo>\n          <mn>36</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 109,
+      "anchor": "fs-id1167835515365",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "Find the Sum of the First n Terms of an Arithmetic Sequence",
+        "In the following exercises, find the sum of the first 30 terms of each arithmetic sequence."
+      ],
+      "text": "\\(8 , 5 , 2 , -1 , -4 , …\\)",
+      "math": [
+        "8 , 5 , 2 , -1 , -4 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>8</mn>\n          <mo>,</mo>\n          <mn>5</mn>\n          <mo>,</mo>\n          <mn>2</mn>\n          <mo>,</mo>\n          <mn>−1</mn>\n          <mo>,</mo>\n          <mn>−4</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>8</mn>\n          <mo>,</mo>\n          <mn>5</mn>\n          <mo>,</mo>\n          <mn>2</mn>\n          <mo>,</mo>\n          <mn>−1</mn>\n          <mo>,</mo>\n          <mn>−4</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 110,
+      "anchor": "fs-id1167835360173",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "Find the Sum of the First n Terms of an Arithmetic Sequence",
+        "In the following exercises, find the sum of the first 30 terms of each arithmetic sequence."
+      ],
+      "text": "\\(16 , 10 , 4 , -2 , -8 , …\\)",
+      "math": [
+        "16 , 10 , 4 , -2 , -8 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>16</mn>\n          <mo>,</mo>\n          <mn>10</mn>\n          <mo>,</mo>\n          <mn>4</mn>\n          <mo>,</mo>\n          <mn>−2</mn>\n          <mo>,</mo>\n          <mn>−8</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>16</mn>\n          <mo>,</mo>\n          <mn>10</mn>\n          <mo>,</mo>\n          <mn>4</mn>\n          <mo>,</mo>\n          <mn>−2</mn>\n          <mo>,</mo>\n          <mn>−8</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 111,
+      "anchor": "fs-id1167834449015",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "Find the Sum of the First n Terms of an Arithmetic Sequence",
+        "In the following exercises, find the sum of the first 30 terms of each arithmetic sequence."
+      ],
+      "text": "\\(-17 , -15 , -13 , -11 , -9 , …\\)",
+      "math": [
+        "-17 , -15 , -13 , -11 , -9 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−17</mn>\n          <mo>,</mo>\n          <mn>−15</mn>\n          <mo>,</mo>\n          <mn>−13</mn>\n          <mo>,</mo>\n          <mn>−11</mn>\n          <mo>,</mo>\n          <mn>−9</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−17</mn>\n          <mo>,</mo>\n          <mn>−15</mn>\n          <mo>,</mo>\n          <mn>−13</mn>\n          <mo>,</mo>\n          <mn>−11</mn>\n          <mo>,</mo>\n          <mn>−9</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 112,
+      "anchor": "fs-id1167835589635",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "Find the Sum of the First n Terms of an Arithmetic Sequence",
+        "In the following exercises, find the sum of the first 30 terms of each arithmetic sequence."
+      ],
+      "text": "\\(-15 , -12 , -9 , -6 , -3 , …\\)",
+      "math": [
+        "-15 , -12 , -9 , -6 , -3 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−15</mn>\n          <mo>,</mo>\n          <mn>−12</mn>\n          <mo>,</mo>\n          <mn>−9</mn>\n          <mo>,</mo>\n          <mn>−6</mn>\n          <mo>,</mo>\n          <mn>−3</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−15</mn>\n          <mo>,</mo>\n          <mn>−12</mn>\n          <mo>,</mo>\n          <mn>−9</mn>\n          <mo>,</mo>\n          <mn>−6</mn>\n          <mo>,</mo>\n          <mn>−3</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 113,
+      "anchor": "fs-id1167826996728",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "In the following exercises, find the sum of the first 30 terms of each arithmetic sequence.",
+        "In the following exercises, find the sum of the first 50 terms of the arithmetic sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = 5 n - 1\\)",
+      "math": [
+        "{a}_{n} = 5 n - 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mn>5</mn>\n          <mi>n</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mn>5</mn>\n          <mi>n</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 114,
+      "anchor": "fs-id1167834448936",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "In the following exercises, find the sum of the first 30 terms of each arithmetic sequence.",
+        "In the following exercises, find the sum of the first 50 terms of the arithmetic sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = 2 n + 7\\)",
+      "math": [
+        "{a}_{n} = 2 n + 7"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mn>2</mn>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mn>7</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mn>2</mn>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mn>7</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 115,
+      "anchor": "fs-id1167834448969",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "In the following exercises, find the sum of the first 30 terms of each arithmetic sequence.",
+        "In the following exercises, find the sum of the first 50 terms of the arithmetic sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = -3 n + 5\\)",
+      "math": [
+        "{a}_{n} = -3 n + 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mn>−3</mn>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mn>−3</mn>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 116,
+      "anchor": "fs-id1167831025355",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "In the following exercises, find the sum of the first 30 terms of each arithmetic sequence.",
+        "In the following exercises, find the sum of the first 50 terms of the arithmetic sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = -4 n + 3\\)",
+      "math": [
+        "{a}_{n} = -4 n + 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mn>−4</mn>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mn>−4</mn>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 117,
+      "anchor": "fs-id1167834583349",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "In the following exercises, find the sum of the first 50 terms of the arithmetic sequence whose general term is given.",
+        "In the following exercises, find each sum."
+      ],
+      "text": "\\(∑ i = 1 40 ( 8 i - 7 )\\)",
+      "math": [
+        "\\sum_{ i = 1 }^{ 40 } ( 8 i - 7 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mrow>\n                <mn>40</mn>\n              </mrow>\n            </munderover>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mn>8</mn>\n              <mi>i</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n          </mstyle>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mrow>\n                <mn>40</mn>\n              </mrow>\n            </munderover>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mn>8</mn>\n              <mi>i</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n          </mstyle>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 118,
+      "anchor": "fs-id1167830704030",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "In the following exercises, find the sum of the first 50 terms of the arithmetic sequence whose general term is given.",
+        "In the following exercises, find each sum."
+      ],
+      "text": "\\(∑ i = 1 45 ( 7 i - 5 )\\)",
+      "math": [
+        "\\sum_{ i = 1 }^{ 45 } ( 7 i - 5 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mrow>\n                <mn>45</mn>\n              </mrow>\n            </munderover>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mn>7</mn>\n              <mi>i</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n          </mstyle>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mrow>\n                <mn>45</mn>\n              </mrow>\n            </munderover>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mn>7</mn>\n              <mi>i</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n          </mstyle>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 119,
+      "anchor": "fs-id1167835284910",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "In the following exercises, find the sum of the first 50 terms of the arithmetic sequence whose general term is given.",
+        "In the following exercises, find each sum."
+      ],
+      "text": "\\(∑ i = 1 50 ( 3 i + 6 )\\)",
+      "math": [
+        "\\sum_{ i = 1 }^{ 50 } ( 3 i + 6 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mrow>\n                <mn>50</mn>\n              </mrow>\n            </munderover>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mn>3</mn>\n              <mi>i</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n          </mstyle>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mrow>\n                <mn>50</mn>\n              </mrow>\n            </munderover>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mn>3</mn>\n              <mi>i</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n          </mstyle>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 120,
+      "anchor": "fs-id1167835511985",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "In the following exercises, find the sum of the first 50 terms of the arithmetic sequence whose general term is given.",
+        "In the following exercises, find each sum."
+      ],
+      "text": "\\(∑ i = 1 25 ( 4 i + 3 )\\)",
+      "math": [
+        "\\sum_{ i = 1 }^{ 25 } ( 4 i + 3 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mrow>\n                <mn>25</mn>\n              </mrow>\n            </munderover>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mn>4</mn>\n              <mi>i</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n          </mstyle>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mrow>\n                <mn>25</mn>\n              </mrow>\n            </munderover>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mn>4</mn>\n              <mi>i</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n          </mstyle>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 121,
+      "anchor": "fs-id1167834583425",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "In the following exercises, find the sum of the first 50 terms of the arithmetic sequence whose general term is given.",
+        "In the following exercises, find each sum."
+      ],
+      "text": "\\(∑ i = 1 35 ( -6 i - 2 )\\)",
+      "math": [
+        "\\sum_{ i = 1 }^{ 35 } ( -6 i - 2 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mrow>\n                <mn>35</mn>\n              </mrow>\n            </munderover>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mn>−6</mn>\n              <mi>i</mi>\n            </mrow>\n          </mstyle>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mrow>\n                <mn>35</mn>\n              </mrow>\n            </munderover>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mn>−6</mn>\n              <mi>i</mi>\n            </mrow>\n          </mstyle>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 122,
+      "anchor": "fs-id1167835512736",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "In the following exercises, find the sum of the first 50 terms of the arithmetic sequence whose general term is given.",
+        "In the following exercises, find each sum."
+      ],
+      "text": "\\(∑ i = 1 30 ( -5 i + 1 )\\)",
+      "math": [
+        "\\sum_{ i = 1 }^{ 30 } ( -5 i + 1 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mrow>\n                <mn>30</mn>\n              </mrow>\n            </munderover>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mn>−5</mn>\n              <mi>i</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </mstyle>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mrow>\n                <mn>30</mn>\n              </mrow>\n            </munderover>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mn>−5</mn>\n              <mi>i</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </mstyle>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 123,
+      "anchor": "fs-id1167830703947",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "In your own words, explain how to determine whether a sequence is arithmetic.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 124,
+      "anchor": "fs-id1167830703963",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "In your own words, explain how the first two terms are used to find the tenth term. Show an example to illustrate your explanation.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 125,
+      "anchor": "fs-id1167831066263",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "In your own words, explain how to find the general term of an arithmetic sequence.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 126,
+      "anchor": "fs-id1167831066279",
+      "page": "12-2-arithmetic-sequences",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "In your own words, explain how to find the sum of the first \\(n\\) terms of an arithmetic sequence without adding all the terms.",
+      "math": [
+        "n"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mi>n</mi></mrow><annotation-xml encoding=\"MathML-Content\"><mi>n</mi></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "12.25",
+      "page": "12-2-arithmetic-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167834556290",
+      "context": [
+        "Determine if a Sequence is Arithmetic"
+      ],
+      "text": "Determine if each sequence is arithmetic. If so, indicate the common difference. ⓐ \\(9,20,31,42,53,64,…\\) ⓑ \\(12,6,0,-6,-12,-18,…\\) ⓒ \\(7,1,10,4,13,7,…\\)",
+      "math": [
+        "9,20,31,42,53,64,…",
+        "12,6,0,-6,-12,-18,…",
+        "7,1,10,4,13,7,…"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>9</mn><mo>,</mo><mn>20</mn><mo>,</mo><mn>31</mn><mo>,</mo><mn>42</mn><mo>,</mo><mn>53</mn><mo>,</mo><mn>64</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>9</mn><mo>,</mo><mn>20</mn><mo>,</mo><mn>31</mn><mo>,</mo><mn>42</mn><mo>,</mo><mn>53</mn><mo>,</mo><mn>64</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>12</mn><mo>,</mo><mn>6</mn><mo>,</mo><mn>0</mn><mo>,</mo><mn>−6</mn><mo>,</mo><mn>−12</mn><mo>,</mo><mn>−18</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>12</mn><mo>,</mo><mn>6</mn><mo>,</mo><mn>0</mn><mo>,</mo><mn>−6</mn><mo>,</mo><mn>−12</mn><mo>,</mo><mn>−18</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>7</mn><mo>,</mo><mn>1</mn><mo>,</mo><mn>10</mn><mo>,</mo><mn>4</mn><mo>,</mo><mn>13</mn><mo>,</mo><mn>7</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>7</mn><mo>,</mo><mn>1</mn><mo>,</mo><mn>10</mn><mo>,</mo><mn>4</mn><mo>,</mo><mn>13</mn><mo>,</mo><mn>7</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.26",
+      "page": "12-2-arithmetic-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167835367810",
+      "context": [
+        "Determine if a Sequence is Arithmetic"
+      ],
+      "text": "Determine if each sequence is arithmetic. If so, indicate the common difference. ⓐ \\(-4,4,2,10,8,16,…\\) ⓑ \\(-3,-1,1,3,5,7,…\\) ⓒ \\(7,2,-3,-8,-13,-18,…\\)",
+      "math": [
+        "-4,4,2,10,8,16,…",
+        "-3,-1,1,3,5,7,…",
+        "7,2,-3,-8,-13,-18,…"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−4</mn><mo>,</mo><mn>4</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>10</mn><mo>,</mo><mn>8</mn><mo>,</mo><mn>16</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−4</mn><mo>,</mo><mn>4</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>10</mn><mo>,</mo><mn>8</mn><mo>,</mo><mn>16</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−3</mn><mo>,</mo><mn>−1</mn><mo>,</mo><mn>1</mn><mo>,</mo><mn>3</mn><mo>,</mo><mn>5</mn><mo>,</mo><mn>7</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−3</mn><mo>,</mo><mn>−1</mn><mo>,</mo><mn>1</mn><mo>,</mo><mn>3</mn><mo>,</mo><mn>5</mn><mo>,</mo><mn>7</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>7</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>−3</mn><mo>,</mo><mn>−8</mn><mo>,</mo><mn>−13</mn><mo>,</mo><mn>−18</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>7</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>−3</mn><mo>,</mo><mn>−8</mn><mo>,</mo><mn>−13</mn><mo>,</mo><mn>−18</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.27",
+      "page": "12-2-arithmetic-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167832052324",
+      "context": [
+        "Determine if a Sequence is Arithmetic"
+      ],
+      "text": "Write the first five terms of the sequence where the first term is 7 and the common difference is \\(d=-4.\\)",
+      "math": [
+        "d=-4."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>d</mi><mo>=</mo><mn>−4</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>d</mi><mo>=</mo><mn>−4</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.28",
+      "page": "12-2-arithmetic-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167834189547",
+      "context": [
+        "Determine if a Sequence is Arithmetic"
+      ],
+      "text": "Write the first five terms of the sequence where the first term is 11 and the common difference is \\(d=-8.\\)",
+      "math": [
+        "d=-8."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>d</mi><mo>=</mo><mn>−8</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>d</mi><mo>=</mo><mn>−8</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.29",
+      "page": "12-2-arithmetic-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167835513406",
+      "context": [
+        "Find the General Term (nth Term) of an Arithmetic Sequence"
+      ],
+      "text": "Find the twenty-seventh term of a sequence where the first term is 7 and the common difference is 9.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "12.30",
+      "page": "12-2-arithmetic-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167835347370",
+      "context": [
+        "Find the General Term (nth Term) of an Arithmetic Sequence"
+      ],
+      "text": "Find the eighteenth term of a sequence where the first term is 13 and the common difference is \\(-7\\).",
+      "math": [
+        "-7"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−7</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−7</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.31",
+      "page": "12-2-arithmetic-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167835342802",
+      "context": [
+        "Find the General Term (nth Term) of an Arithmetic Sequence"
+      ],
+      "text": "Find the eleventh term of a sequence where the ninth term is 8 and the common difference is \\(-3.\\) Give the formula for the general term.",
+      "math": [
+        "-3."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−3</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−3</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.32",
+      "page": "12-2-arithmetic-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167835346520",
+      "context": [
+        "Find the General Term (nth Term) of an Arithmetic Sequence"
+      ],
+      "text": "Find the nineteenth term of a sequence where the fifth term is 1 and the common difference is \\(-4.\\) Give the formula for the general term.",
+      "math": [
+        "-4."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−4</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−4</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.33",
+      "page": "12-2-arithmetic-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167835311257",
+      "context": [
+        "Find the General Term (nth Term) of an Arithmetic Sequence"
+      ],
+      "text": "Find the first term and common difference of a sequence where the fourth term is 17 and the thirteenth term is 53. Give the formula for the general term.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "12.34",
+      "page": "12-2-arithmetic-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167835306222",
+      "context": [
+        "Find the General Term (nth Term) of an Arithmetic Sequence"
+      ],
+      "text": "Find the first term and common difference of a sequence where the third term is 2 and the twelfth term is \\(-25.\\) Give the formula for the general term.",
+      "math": [
+        "-25."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−25</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−25</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.35",
+      "page": "12-2-arithmetic-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167835335560",
+      "context": [
+        "Find the Sum of the First n Terms of an Arithmetic Sequence"
+      ],
+      "text": "Find the sum of the first 30 terms of the arithmetic sequence: 5, 9, 13, 17, 21, …",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "12.36",
+      "page": "12-2-arithmetic-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167834062240",
+      "context": [
+        "Find the Sum of the First n Terms of an Arithmetic Sequence"
+      ],
+      "text": "Find the sum of the first 30 terms of the arithmetic sequence: 7, 10, 13, 16, 19, …",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "12.37",
+      "page": "12-2-arithmetic-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167835343614",
+      "context": [
+        "Find the Sum of the First n Terms of an Arithmetic Sequence"
+      ],
+      "text": "Find the sum of the first 50 terms of the arithmetic sequence whose general term is \\({a}_{n}=2n-5.\\)",
+      "math": [
+        "{a}_{n}=2n-5."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><mn>2</mn><mi>n</mi><mo>−</mo><mn>5</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><mn>2</mn><mi>n</mi><mo>−</mo><mn>5</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.38",
+      "page": "12-2-arithmetic-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167835239514",
+      "context": [
+        "Find the Sum of the First n Terms of an Arithmetic Sequence"
+      ],
+      "text": "Find the sum of the first 50 terms of the arithmetic sequence whose general term is \\({a}_{n}=4n+3.\\)",
+      "math": [
+        "{a}_{n}=4n+3."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><mn>4</mn><mi>n</mi><mo>+</mo><mn>3</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><mn>4</mn><mi>n</mi><mo>+</mo><mn>3</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.39",
+      "page": "12-2-arithmetic-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167835381410",
+      "context": [
+        "Find the Sum of the First n Terms of an Arithmetic Sequence"
+      ],
+      "text": "Find the sum: \\(∑i=130(6i-4).\\)",
+      "math": [
+        "\\sum_{i=1}^{30}(6i-4)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mstyle displaystyle=\"true\"><munderover><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mrow><mn>30</mn></mrow></munderover><mrow><mo stretchy=\"false\">(</mo><mn>6</mn><mi>i</mi><mo>−</mo><mn>4</mn></mrow></mstyle><mo stretchy=\"false\">)</mo><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mstyle displaystyle=\"true\"><munderover><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mrow><mn>30</mn></mrow></munderover><mrow><mo stretchy=\"false\">(</mo><mn>6</mn><mi>i</mi><mo>−</mo><mn>4</mn></mrow></mstyle><mo stretchy=\"false\">)</mo><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.40",
+      "page": "12-2-arithmetic-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167831066315",
+      "context": [
+        "Find the Sum of the First n Terms of an Arithmetic Sequence"
+      ],
+      "text": "Find the sum: \\(∑i=135(5i-3).\\)",
+      "math": [
+        "\\sum_{i=1}^{35}(5i-3)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mstyle displaystyle=\"true\"><munderover><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mrow><mn>35</mn></mrow></munderover><mrow><mo stretchy=\"false\">(</mo><mn>5</mn><mi>i</mi><mo>−</mo><mn>3</mn></mrow></mstyle><mo stretchy=\"false\">)</mo><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mstyle displaystyle=\"true\"><munderover><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mrow><mn>35</mn></mrow></munderover><mrow><mo stretchy=\"false\">(</mo><mn>5</mn><mi>i</mi><mo>−</mo><mn>3</mn></mrow></mstyle><mo stretchy=\"false\">)</mo><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

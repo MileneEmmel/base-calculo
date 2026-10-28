@@ -1,0 +1,1362 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/8-3-simplify-rational-exponents",
+  "title": "8.3 Simplify Rational Exponents",
+  "sha256": "b07d5b59ca0966c3ff8ce0f03968dae6722ea90db7bf64df642e91a7db1484b8",
+  "questions": [
+    {
+      "number": 119,
+      "anchor": "fs-id1169143576446",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "Simplify expressions with \\({a}^{\\frac{1}{n}}\\)",
+        "In the following exercises, write as a radical expression."
+      ],
+      "text": "ⓐ \\({x}^{\\frac{1}{2}}\\) ⓑ \\({y}^{\\frac{1}{3}}\\) ⓒ \\({z}^{\\frac{1}{4}}\\)",
+      "math": [
+        "{x}^{\\frac{1}{2}}",
+        "{y}^{\\frac{1}{3}}",
+        "{z}^{\\frac{1}{4}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>y</mi><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>y</mi><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>z</mi><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>z</mi><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 120,
+      "anchor": "fs-id1169143305832",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "Simplify expressions with \\({a}^{\\frac{1}{n}}\\)",
+        "In the following exercises, write as a radical expression."
+      ],
+      "text": "ⓐ \\({r}^{\\frac{1}{2}}\\) ⓑ \\({s}^{\\frac{1}{3}}\\) ⓒ \\({t}^{\\frac{1}{4}}\\)",
+      "math": [
+        "{r}^{\\frac{1}{2}}",
+        "{s}^{\\frac{1}{3}}",
+        "{t}^{\\frac{1}{4}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>r</mi><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>r</mi><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>s</mi><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>s</mi><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>t</mi><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>t</mi><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 121,
+      "anchor": "fs-id1169147864239",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "Simplify expressions with \\({a}^{\\frac{1}{n}}\\)",
+        "In the following exercises, write as a radical expression."
+      ],
+      "text": "ⓐ \\({u}^{\\frac{1}{5}}\\) ⓑ \\({v}^{\\frac{1}{9}}\\) ⓒ \\({w}^{\\frac{1}{20}}\\)",
+      "math": [
+        "{u}^{\\frac{1}{5}}",
+        "{v}^{\\frac{1}{9}}",
+        "{w}^{\\frac{1}{20}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>u</mi><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>u</mi><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>v</mi><mrow><mfrac><mn>1</mn><mn>9</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>v</mi><mrow><mfrac><mn>1</mn><mn>9</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>w</mi><mrow><mfrac><mn>1</mn><mrow><mn>20</mn></mrow></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>w</mi><mrow><mfrac><mn>1</mn><mrow><mn>20</mn></mrow></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 122,
+      "anchor": "fs-id1169142246805",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "Simplify expressions with \\({a}^{\\frac{1}{n}}\\)",
+        "In the following exercises, write as a radical expression."
+      ],
+      "text": "ⓐ \\({g}^{\\frac{1}{7}}\\) ⓑ \\({h}^{\\frac{1}{5}}\\) ⓒ \\({j}^{\\frac{1}{25}}\\)",
+      "math": [
+        "{g}^{\\frac{1}{7}}",
+        "{h}^{\\frac{1}{5}}",
+        "{j}^{\\frac{1}{25}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>g</mi><mrow><mfrac><mn>1</mn><mn>7</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>g</mi><mrow><mfrac><mn>1</mn><mn>7</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>h</mi><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>h</mi><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>j</mi><mrow><mfrac><mn>1</mn><mrow><mn>25</mn></mrow></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>j</mi><mrow><mfrac><mn>1</mn><mrow><mn>25</mn></mrow></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 123,
+      "anchor": "fs-id1169145492540",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "In the following exercises, write as a radical expression.",
+        "In the following exercises, write with a rational exponent."
+      ],
+      "text": "ⓐ \\(x7\\) ⓑ \\(y9\\) ⓒ \\(f5\\)",
+      "math": [
+        "\\sqrt[7]{x}",
+        "\\sqrt[9]{y}",
+        "\\sqrt[5]{f}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mi>x</mi><mn>7</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mi>x</mi><mn>7</mn></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mi>y</mi><mn>9</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mi>y</mi><mn>9</mn></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mi>f</mi><mn>5</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mi>f</mi><mn>5</mn></mroot></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 124,
+      "anchor": "fs-id1169148250580",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "In the following exercises, write as a radical expression.",
+        "In the following exercises, write with a rational exponent."
+      ],
+      "text": "ⓐ \\(r8\\) ⓑ \\(s10\\) ⓒ \\(t4\\)",
+      "math": [
+        "\\sqrt[8]{r}",
+        "\\sqrt[10]{s}",
+        "\\sqrt[4]{t}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mi>r</mi><mn>8</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mi>r</mi><mn>8</mn></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mi>s</mi><mrow><mn>10</mn></mrow></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mi>s</mi><mrow><mn>10</mn></mrow></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mi>t</mi><mn>4</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mi>t</mi><mn>4</mn></mroot></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 125,
+      "anchor": "fs-id1169147862174",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "In the following exercises, write as a radical expression.",
+        "In the following exercises, write with a rational exponent."
+      ],
+      "text": "ⓐ \\(7c3\\) ⓑ \\(12d7\\) ⓒ \\(26b4\\)",
+      "math": [
+        "\\sqrt[3]{7c}",
+        "\\sqrt[7]{12d}",
+        "2\\sqrt[4]{6b}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><mn>7</mn><mi>c</mi></mrow><mn>3</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><mn>7</mn><mi>c</mi></mrow><mn>3</mn></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><mn>12</mn><mi>d</mi></mrow><mn>7</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><mn>12</mn><mi>d</mi></mrow><mn>7</mn></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mroot><mrow><mn>6</mn><mi>b</mi></mrow><mn>4</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mroot><mrow><mn>6</mn><mi>b</mi></mrow><mn>4</mn></mroot></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 126,
+      "anchor": "fs-id1169143760110",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "In the following exercises, write as a radical expression.",
+        "In the following exercises, write with a rational exponent."
+      ],
+      "text": "ⓐ \\(5x4\\) ⓑ \\(9y8\\) ⓒ \\(73z5\\)",
+      "math": [
+        "\\sqrt[4]{5x}",
+        "\\sqrt[8]{9y}",
+        "7\\sqrt[5]{3z}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><mn>5</mn><mi>x</mi></mrow><mn>4</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><mn>5</mn><mi>x</mi></mrow><mn>4</mn></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><mn>9</mn><mi>y</mi></mrow><mn>8</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><mn>9</mn><mi>y</mi></mrow><mn>8</mn></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>7</mn><mroot><mrow><mn>3</mn><mi>z</mi></mrow><mn>5</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>7</mn><mroot><mrow><mn>3</mn><mi>z</mi></mrow><mn>5</mn></mroot></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 127,
+      "anchor": "fs-id1169143516656",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "In the following exercises, write as a radical expression.",
+        "In the following exercises, write with a rational exponent."
+      ],
+      "text": "ⓐ \\(\\sqrt{21p}\\) ⓑ \\(8q4\\) ⓒ \\(436r6\\)",
+      "math": [
+        "\\sqrt{21p}",
+        "\\sqrt[4]{8q}",
+        "4\\sqrt[6]{36r}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>21</mn><mi>p</mi></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>21</mn><mi>p</mi></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><mn>8</mn><mi>q</mi></mrow><mn>4</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><mn>8</mn><mi>q</mi></mrow><mn>4</mn></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mroot><mrow><mn>36</mn><mi>r</mi></mrow><mn>6</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mroot><mrow><mn>36</mn><mi>r</mi></mrow><mn>6</mn></mroot></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 128,
+      "anchor": "fs-id1169141172333",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "In the following exercises, write as a radical expression.",
+        "In the following exercises, write with a rational exponent."
+      ],
+      "text": "ⓐ \\(25a3\\) ⓑ \\(\\sqrt{3b}\\) ⓒ \\(40c8\\)",
+      "math": [
+        "\\sqrt[3]{25a}",
+        "\\sqrt{3b}",
+        "\\sqrt[8]{40c}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><mn>25</mn><mi>a</mi></mrow><mn>3</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><mn>25</mn><mi>a</mi></mrow><mn>3</mn></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>3</mn><mi>b</mi></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>3</mn><mi>b</mi></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><mn>40</mn><mi>c</mi></mrow><mn>8</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><mn>40</mn><mi>c</mi></mrow><mn>8</mn></mroot></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 129,
+      "anchor": "fs-id1169145720586",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "In the following exercises, write with a rational exponent.",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\({81}^{\\frac{1}{2}}\\) ⓑ \\({125}^{\\frac{1}{3}}\\) ⓒ \\({64}^{\\frac{1}{2}}\\)",
+      "math": [
+        "{81}^{\\frac{1}{2}}",
+        "{125}^{\\frac{1}{3}}",
+        "{64}^{\\frac{1}{2}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>81</mn></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>81</mn></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>125</mn></mrow><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>125</mn></mrow><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>64</mn></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>64</mn></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 130,
+      "anchor": "fs-id1169145720672",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "In the following exercises, write with a rational exponent.",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\({625}^{\\frac{1}{4}}\\) ⓑ \\({243}^{\\frac{1}{5}}\\) ⓒ \\({32}^{\\frac{1}{5}}\\)",
+      "math": [
+        "{625}^{\\frac{1}{4}}",
+        "{243}^{\\frac{1}{5}}",
+        "{32}^{\\frac{1}{5}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>625</mn></mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>625</mn></mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>243</mn></mrow><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>243</mn></mrow><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>32</mn></mrow><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>32</mn></mrow><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 131,
+      "anchor": "fs-id1169147793698",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "In the following exercises, write with a rational exponent.",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\({16}^{\\frac{1}{4}}\\) ⓑ \\({16}^{\\frac{1}{2}}\\) ⓒ \\({625}^{\\frac{1}{4}}\\)",
+      "math": [
+        "{16}^{\\frac{1}{4}}",
+        "{16}^{\\frac{1}{2}}",
+        "{625}^{\\frac{1}{4}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>16</mn></mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>16</mn></mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>16</mn></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>16</mn></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>625</mn></mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>625</mn></mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 132,
+      "anchor": "fs-id1169147776668",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "In the following exercises, write with a rational exponent.",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\({64}^{\\frac{1}{3}}\\) ⓑ \\({32}^{\\frac{1}{5}}\\) ⓒ \\({81}^{\\frac{1}{4}}\\)",
+      "math": [
+        "{64}^{\\frac{1}{3}}",
+        "{32}^{\\frac{1}{5}}",
+        "{81}^{\\frac{1}{4}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>64</mn></mrow><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>64</mn></mrow><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>32</mn></mrow><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>32</mn></mrow><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>81</mn></mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>81</mn></mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 133,
+      "anchor": "fs-id1169143582271",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "In the following exercises, write with a rational exponent.",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\({(-216)}^{\\frac{1}{3}}\\) ⓑ \\(-{216}^{\\frac{1}{3}}\\) ⓒ \\({(216)}^{-\\frac{1}{3}}\\)",
+      "math": [
+        "{(-216)}^{\\frac{1}{3}}",
+        "-{216}^{\\frac{1}{3}}",
+        "{(216)}^{-\\frac{1}{3}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>−216</mn></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>−216</mn></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>−</mtext><msup><mrow><mn>216</mn></mrow><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>−</mtext><msup><mrow><mn>216</mn></mrow><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>216</mn></mrow><mo>)</mo></mrow></mrow><mrow><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>216</mn></mrow><mo>)</mo></mrow></mrow><mrow><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 134,
+      "anchor": "fs-id1169145643459",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "In the following exercises, write with a rational exponent.",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\({(-1000)}^{\\frac{1}{3}}\\) ⓑ \\(-{1000}^{\\frac{1}{3}}\\) ⓒ \\({(1000)}^{-\\frac{1}{3}}\\)",
+      "math": [
+        "{(-1000)}^{\\frac{1}{3}}",
+        "-{1000}^{\\frac{1}{3}}",
+        "{(1000)}^{-\\frac{1}{3}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>−1000</mn></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>−1000</mn></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>−</mtext><msup><mrow><mn>1000</mn></mrow><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>−</mtext><msup><mrow><mn>1000</mn></mrow><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>1000</mn></mrow><mo>)</mo></mrow></mrow><mrow><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>1000</mn></mrow><mo>)</mo></mrow></mrow><mrow><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 135,
+      "anchor": "fs-id1169143662158",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "In the following exercises, write with a rational exponent.",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\({(-81)}^{\\frac{1}{4}}\\) ⓑ \\(-{81}^{\\frac{1}{4}}\\) ⓒ \\({(81)}^{-\\frac{1}{4}}\\)",
+      "math": [
+        "{(-81)}^{\\frac{1}{4}}",
+        "-{81}^{\\frac{1}{4}}",
+        "{(81)}^{-\\frac{1}{4}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>−81</mn></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>−81</mn></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>−</mtext><msup><mrow><mn>81</mn></mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>−</mtext><msup><mrow><mn>81</mn></mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>81</mn></mrow><mo>)</mo></mrow></mrow><mrow><mo>−</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>81</mn></mrow><mo>)</mo></mrow></mrow><mrow><mo>−</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 136,
+      "anchor": "fs-id1169145599558",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "In the following exercises, write with a rational exponent.",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\({(-49)}^{\\frac{1}{2}}\\) ⓑ \\(-{49}^{\\frac{1}{2}}\\) ⓒ \\({(49)}^{-\\frac{1}{2}}\\)",
+      "math": [
+        "{(-49)}^{\\frac{1}{2}}",
+        "-{49}^{\\frac{1}{2}}",
+        "{(49)}^{-\\frac{1}{2}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>−49</mn></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>−49</mn></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>−</mtext><msup><mrow><mn>49</mn></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>−</mtext><msup><mrow><mn>49</mn></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>49</mn></mrow><mo>)</mo></mrow></mrow><mrow><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>49</mn></mrow><mo>)</mo></mrow></mrow><mrow><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 137,
+      "anchor": "fs-id1169137793829",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "In the following exercises, write with a rational exponent.",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\({(-36)}^{\\frac{1}{2}}\\) ⓑ \\(-{36}^{\\frac{1}{2}}\\) ⓒ \\({(36)}^{-\\frac{1}{2}}\\)",
+      "math": [
+        "{(-36)}^{\\frac{1}{2}}",
+        "-{36}^{\\frac{1}{2}}",
+        "{(36)}^{-\\frac{1}{2}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>−36</mn></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>−36</mn></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>−</mtext><msup><mrow><mn>36</mn></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>−</mtext><msup><mrow><mn>36</mn></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>36</mn></mrow><mo>)</mo></mrow></mrow><mrow><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>36</mn></mrow><mo>)</mo></mrow></mrow><mrow><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 138,
+      "anchor": "fs-id1169145716939",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "In the following exercises, write with a rational exponent.",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\({(-16)}^{\\frac{1}{4}}\\) ⓑ \\(-{16}^{\\frac{1}{4}}\\) ⓒ \\({16}^{-\\frac{1}{4}}\\)",
+      "math": [
+        "{(-16)}^{\\frac{1}{4}}",
+        "-{16}^{\\frac{1}{4}}",
+        "{16}^{-\\frac{1}{4}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mo stretchy=\"false\">(</mo><mn>−16</mn><mo stretchy=\"false\">)</mo></mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mo stretchy=\"false\">(</mo><mn>−16</mn><mo stretchy=\"false\">)</mo></mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>−</mtext><msup><mrow><mn>16</mn></mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>−</mtext><msup><mrow><mn>16</mn></mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>16</mn></mrow><mrow><mo>−</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>16</mn></mrow><mrow><mo>−</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 139,
+      "anchor": "fs-id1169145534788",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "In the following exercises, write with a rational exponent.",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\({(-100)}^{\\frac{1}{2}}\\) ⓑ \\(-{100}^{\\frac{1}{2}}\\) ⓒ \\({(100)}^{-\\frac{1}{2}}\\)",
+      "math": [
+        "{(-100)}^{\\frac{1}{2}}",
+        "-{100}^{\\frac{1}{2}}",
+        "{(100)}^{-\\frac{1}{2}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mo stretchy=\"false\">(</mo><mn>−100</mn><mo stretchy=\"false\">)</mo></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mo stretchy=\"false\">(</mo><mn>−100</mn><mo stretchy=\"false\">)</mo></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>−</mtext><msup><mrow><mn>100</mn></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>−</mtext><msup><mrow><mn>100</mn></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>100</mn></mrow><mo>)</mo></mrow></mrow><mrow><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>100</mn></mrow><mo>)</mo></mrow></mrow><mrow><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 140,
+      "anchor": "fs-id1169143487052",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "In the following exercises, write with a rational exponent.",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\({(-32)}^{\\frac{1}{5}}\\) ⓑ \\({(243)}^{-\\frac{1}{5}}\\) ⓒ \\(-{125}^{\\frac{1}{3}}\\)",
+      "math": [
+        "{(-32)}^{\\frac{1}{5}}",
+        "{(243)}^{-\\frac{1}{5}}",
+        "-{125}^{\\frac{1}{3}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mo stretchy=\"false\">(</mo><mn>−32</mn><mo stretchy=\"false\">)</mo></mrow><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mo stretchy=\"false\">(</mo><mn>−32</mn><mo stretchy=\"false\">)</mo></mrow><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mo stretchy=\"false\">(</mo><mn>243</mn><mo stretchy=\"false\">)</mo></mrow><mrow><mo>−</mo><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mo stretchy=\"false\">(</mo><mn>243</mn><mo stretchy=\"false\">)</mo></mrow><mrow><mo>−</mo><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>−</mtext><msup><mrow><mn>125</mn></mrow><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>−</mtext><msup><mrow><mn>125</mn></mrow><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 141,
+      "anchor": "fs-id1169147786952",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "Simplify Expressions with \\({a}^{\\frac{m}{n}}\\)",
+        "In the following exercises, write with a rational exponent."
+      ],
+      "text": "ⓐ \\(\\sqrt{{m}^{5}}\\) ⓑ \\({(3y3)}^{7}\\) ⓒ \\({(\\frac{4x}{5y})}^{3}5\\)",
+      "math": [
+        "\\sqrt{{m}^{5}}",
+        "{(\\sqrt[3]{3y})}^{7}",
+        "\\sqrt[5]{{(\\frac{4x}{5y})}^{3}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><msup><mi>m</mi><mn>5</mn></msup></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><msup><mi>m</mi><mn>5</mn></msup></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mroot><mrow><mn>3</mn><mi>y</mi></mrow><mn>3</mn></mroot></mrow><mo>)</mo></mrow></mrow><mn>7</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mroot><mrow><mn>3</mn><mi>y</mi></mrow><mn>3</mn></mroot></mrow><mo>)</mo></mrow></mrow><mn>7</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>4</mn><mi>x</mi></mrow><mrow><mn>5</mn><mi>y</mi></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mn>3</mn></msup></mrow><mn>5</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>4</mn><mi>x</mi></mrow><mrow><mn>5</mn><mi>y</mi></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mn>3</mn></msup></mrow><mn>5</mn></mroot></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 142,
+      "anchor": "fs-id1169145597891",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "Simplify Expressions with \\({a}^{\\frac{m}{n}}\\)",
+        "In the following exercises, write with a rational exponent."
+      ],
+      "text": "ⓐ \\({r}^{7}4\\) ⓑ \\({(2pq5)}^{3}\\) ⓒ \\({(\\frac{12m}{7n})}^{3}4\\)",
+      "math": [
+        "\\sqrt[4]{{r}^{7}}",
+        "{(\\sqrt[5]{2pq})}^{3}",
+        "\\sqrt[4]{{(\\frac{12m}{7n})}^{3}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><msup><mi>r</mi><mn>7</mn></msup></mrow><mn>4</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><msup><mi>r</mi><mn>7</mn></msup></mrow><mn>4</mn></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mroot><mrow><mn>2</mn><mi>p</mi><mi>q</mi></mrow><mn>5</mn></mroot></mrow><mo>)</mo></mrow></mrow><mn>3</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mroot><mrow><mn>2</mn><mi>p</mi><mi>q</mi></mrow><mn>5</mn></mroot></mrow><mo>)</mo></mrow></mrow><mn>3</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>12</mn><mi>m</mi></mrow><mrow><mn>7</mn><mi>n</mi></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mn>3</mn></msup></mrow><mn>4</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>12</mn><mi>m</mi></mrow><mrow><mn>7</mn><mi>n</mi></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mn>3</mn></msup></mrow><mn>4</mn></mroot></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 143,
+      "anchor": "fs-id1169143759999",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "Simplify Expressions with \\({a}^{\\frac{m}{n}}\\)",
+        "In the following exercises, write with a rational exponent."
+      ],
+      "text": "ⓐ \\({u}^{2}5\\) ⓑ \\({(6x3)}^{5}\\) ⓒ \\({(\\frac{18a}{5b})}^{7}4\\)",
+      "math": [
+        "\\sqrt[5]{{u}^{2}}",
+        "{(\\sqrt[3]{6x})}^{5}",
+        "\\sqrt[4]{{(\\frac{18a}{5b})}^{7}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><msup><mi>u</mi><mn>2</mn></msup></mrow><mn>5</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><msup><mi>u</mi><mn>2</mn></msup></mrow><mn>5</mn></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mroot><mrow><mn>6</mn><mi>x</mi></mrow><mn>3</mn></mroot></mrow><mo>)</mo></mrow></mrow><mn>5</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mroot><mrow><mn>6</mn><mi>x</mi></mrow><mn>3</mn></mroot></mrow><mo>)</mo></mrow></mrow><mn>5</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>18</mn><mi>a</mi></mrow><mrow><mn>5</mn><mi>b</mi></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mn>7</mn></msup></mrow><mn>4</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>18</mn><mi>a</mi></mrow><mrow><mn>5</mn><mi>b</mi></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mn>7</mn></msup></mrow><mn>4</mn></mroot></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 144,
+      "anchor": "fs-id1169137723475",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "Simplify Expressions with \\({a}^{\\frac{m}{n}}\\)",
+        "In the following exercises, write with a rational exponent."
+      ],
+      "text": "ⓐ \\(a3\\) ⓑ \\({(21v4)}^{3}\\) ⓒ \\({(\\frac{2xy}{5z})}^{2}4\\)",
+      "math": [
+        "\\sqrt[3]{a}",
+        "{(\\sqrt[4]{21v})}^{3}",
+        "\\sqrt[4]{{(\\frac{2xy}{5z})}^{2}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mi>a</mi><mn>3</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mi>a</mi><mn>3</mn></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mroot><mrow><mn>21</mn><mi>v</mi></mrow><mn>4</mn></mroot></mrow><mo>)</mo></mrow></mrow><mn>3</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mroot><mrow><mn>21</mn><mi>v</mi></mrow><mn>4</mn></mroot></mrow><mo>)</mo></mrow></mrow><mn>3</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>2</mn><mi>x</mi><mi>y</mi></mrow><mrow><mn>5</mn><mi>z</mi></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mn>4</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>2</mn><mi>x</mi><mi>y</mi></mrow><mrow><mn>5</mn><mi>z</mi></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mn>4</mn></mroot></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 145,
+      "anchor": "fs-id1169143533415",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "In the following exercises, write with a rational exponent.",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\({64}^{\\frac{5}{2}}\\) ⓑ \\({81}^{\\frac{-3}{2}}\\) ⓒ \\({(-27)}^{\\frac{2}{3}}\\)",
+      "math": [
+        "{64}^{\\frac{5}{2}}",
+        "{81}^{\\frac{-3}{2}}",
+        "{(-27)}^{\\frac{2}{3}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>64</mn></mrow><mrow><mfrac><mn>5</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>64</mn></mrow><mrow><mfrac><mn>5</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>81</mn></mrow><mrow><mfrac><mrow><mn>−3</mn></mrow><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>81</mn></mrow><mrow><mfrac><mrow><mn>−3</mn></mrow><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>−27</mn></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>−27</mn></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 146,
+      "anchor": "fs-id1169143458588",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "In the following exercises, write with a rational exponent.",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\({25}^{\\frac{3}{2}}\\) ⓑ \\({9}^{-\\frac{3}{2}}\\) ⓒ \\({(-64)}^{\\frac{2}{3}}\\)",
+      "math": [
+        "{25}^{\\frac{3}{2}}",
+        "{9}^{-\\frac{3}{2}}",
+        "{(-64)}^{\\frac{2}{3}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>25</mn></mrow><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>25</mn></mrow><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mn>9</mn><mrow><mo>−</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mn>9</mn><mrow><mo>−</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>−64</mn></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>−64</mn></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 147,
+      "anchor": "fs-id1169145599988",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "In the following exercises, write with a rational exponent.",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\({32}^{\\frac{2}{5}}\\) ⓑ \\({27}^{-\\frac{2}{3}}\\) ⓒ \\({(-25)}^{\\frac{1}{2}}\\)",
+      "math": [
+        "{32}^{\\frac{2}{5}}",
+        "{27}^{-\\frac{2}{3}}",
+        "{(-25)}^{\\frac{1}{2}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>32</mn></mrow><mrow><mfrac><mn>2</mn><mn>5</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>32</mn></mrow><mrow><mfrac><mn>2</mn><mn>5</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>27</mn></mrow><mrow><mo>−</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>27</mn></mrow><mrow><mo>−</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mo stretchy=\"false\">(</mo><mn>−25</mn><mo stretchy=\"false\">)</mo></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mo stretchy=\"false\">(</mo><mn>−25</mn><mo stretchy=\"false\">)</mo></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 148,
+      "anchor": "fs-id1169145600092",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "In the following exercises, write with a rational exponent.",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\({100}^{\\frac{3}{2}}\\) ⓑ \\({49}^{-\\frac{5}{2}}\\) ⓒ \\({(-100)}^{\\frac{3}{2}}\\)",
+      "math": [
+        "{100}^{\\frac{3}{2}}",
+        "{49}^{-\\frac{5}{2}}",
+        "{(-100)}^{\\frac{3}{2}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>100</mn></mrow><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>100</mn></mrow><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>49</mn></mrow><mrow><mo>−</mo><mfrac><mn>5</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>49</mn></mrow><mrow><mo>−</mo><mfrac><mn>5</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>−100</mn></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>−100</mn></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 149,
+      "anchor": "fs-id1169141322490",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "In the following exercises, write with a rational exponent.",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\(-{9}^{\\frac{3}{2}}\\) ⓑ \\(-{9}^{-\\frac{3}{2}}\\) ⓒ \\({(-9)}^{\\frac{3}{2}}\\)",
+      "math": [
+        "-{9}^{\\frac{3}{2}}",
+        "-{9}^{-\\frac{3}{2}}",
+        "{(-9)}^{\\frac{3}{2}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>−</mtext><msup><mn>9</mn><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>−</mtext><msup><mn>9</mn><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>−</mtext><msup><mn>9</mn><mrow><mo>−</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>−</mtext><msup><mn>9</mn><mrow><mo>−</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>−9</mn></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>−9</mn></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 150,
+      "anchor": "fs-id1169145498898",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "In the following exercises, write with a rational exponent.",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\(-{64}^{\\frac{3}{2}}\\) ⓑ \\(-{64}^{-\\frac{3}{2}}\\) ⓒ \\({(-64)}^{\\frac{3}{2}}\\)",
+      "math": [
+        "-{64}^{\\frac{3}{2}}",
+        "-{64}^{-\\frac{3}{2}}",
+        "{(-64)}^{\\frac{3}{2}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>−</mtext><msup><mrow><mn>64</mn></mrow><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>−</mtext><msup><mrow><mn>64</mn></mrow><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>−</mtext><msup><mrow><mn>64</mn></mrow><mrow><mo>−</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>−</mtext><msup><mrow><mn>64</mn></mrow><mrow><mo>−</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>−64</mn></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>−64</mn></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 151,
+      "anchor": "fs-id1169145600178",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "Use the Laws of Exponents to Simplify Expressions with Rational Exponents",
+        "In the following exercises, simplify. Assume all variables are positive."
+      ],
+      "text": "ⓐ \\({c}^{\\frac{1}{4}}\\cdot {c}^{\\frac{5}{8}}\\) ⓑ \\({({p}^{12})}^{\\frac{3}{4}}\\) ⓒ \\(\\frac{{r}^{\\frac{4}{5}}}{{r}^{\\frac{9}{5}}}\\)",
+      "math": [
+        "{c}^{\\frac{1}{4}}\\cdot {c}^{\\frac{5}{8}}",
+        "{({p}^{12})}^{\\frac{3}{4}}",
+        "\\frac{{r}^{\\frac{4}{5}}}{{r}^{\\frac{9}{5}}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>c</mi><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup><mo>·</mo><msup><mi>c</mi><mrow><mfrac><mn>5</mn><mn>8</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>c</mi><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup><mo>·</mo><msup><mi>c</mi><mrow><mfrac><mn>5</mn><mn>8</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><msup><mi>p</mi><mrow><mn>12</mn></mrow></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><msup><mi>p</mi><mrow><mn>12</mn></mrow></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msup><mi>r</mi><mrow><mfrac><mn>4</mn><mn>5</mn></mfrac></mrow></msup></mrow><mrow><msup><mi>r</mi><mrow><mfrac><mn>9</mn><mn>5</mn></mfrac></mrow></msup></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msup><mi>r</mi><mrow><mfrac><mn>4</mn><mn>5</mn></mfrac></mrow></msup></mrow><mrow><msup><mi>r</mi><mrow><mfrac><mn>9</mn><mn>5</mn></mfrac></mrow></msup></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 152,
+      "anchor": "fs-id1169148198247",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "Use the Laws of Exponents to Simplify Expressions with Rational Exponents",
+        "In the following exercises, simplify. Assume all variables are positive."
+      ],
+      "text": "ⓐ \\({6}^{\\frac{5}{2}}\\cdot {6}^{\\frac{1}{2}}\\) ⓑ \\({({b}^{15})}^{\\frac{3}{5}}\\) ⓒ \\(\\frac{{w}^{\\frac{2}{7}}}{{w}^{\\frac{9}{7}}}\\)",
+      "math": [
+        "{6}^{\\frac{5}{2}}\\cdot {6}^{\\frac{1}{2}}",
+        "{({b}^{15})}^{\\frac{3}{5}}",
+        "\\frac{{w}^{\\frac{2}{7}}}{{w}^{\\frac{9}{7}}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mn>6</mn><mrow><mfrac><mn>5</mn><mn>2</mn></mfrac></mrow></msup><mo>·</mo><msup><mn>6</mn><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mn>6</mn><mrow><mfrac><mn>5</mn><mn>2</mn></mfrac></mrow></msup><mo>·</mo><msup><mn>6</mn><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><msup><mi>b</mi><mrow><mn>15</mn></mrow></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>3</mn><mn>5</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><msup><mi>b</mi><mrow><mn>15</mn></mrow></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>3</mn><mn>5</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msup><mi>w</mi><mrow><mfrac><mn>2</mn><mn>7</mn></mfrac></mrow></msup></mrow><mrow><msup><mi>w</mi><mrow><mfrac><mn>9</mn><mn>7</mn></mfrac></mrow></msup></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msup><mi>w</mi><mrow><mfrac><mn>2</mn><mn>7</mn></mfrac></mrow></msup></mrow><mrow><msup><mi>w</mi><mrow><mfrac><mn>9</mn><mn>7</mn></mfrac></mrow></msup></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 153,
+      "anchor": "fs-id1169145744831",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "Use the Laws of Exponents to Simplify Expressions with Rational Exponents",
+        "In the following exercises, simplify. Assume all variables are positive."
+      ],
+      "text": "ⓐ \\({y}^{\\frac{1}{2}}\\cdot {y}^{\\frac{3}{4}}\\) ⓑ \\({({x}^{12})}^{\\frac{2}{3}}\\) ⓒ \\(\\frac{{m}^{\\frac{5}{8}}}{{m}^{\\frac{13}{8}}}\\)",
+      "math": [
+        "{y}^{\\frac{1}{2}}\\cdot {y}^{\\frac{3}{4}}",
+        "{({x}^{12})}^{\\frac{2}{3}}",
+        "\\frac{{m}^{\\frac{5}{8}}}{{m}^{\\frac{13}{8}}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>y</mi><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup><mo>·</mo><msup><mi>y</mi><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>y</mi><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup><mo>·</mo><msup><mi>y</mi><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><msup><mi>x</mi><mrow><mn>12</mn></mrow></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><msup><mi>x</mi><mrow><mn>12</mn></mrow></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msup><mi>m</mi><mrow><mfrac><mn>5</mn><mn>8</mn></mfrac></mrow></msup></mrow><mrow><msup><mi>m</mi><mrow><mfrac><mrow><mn>13</mn></mrow><mn>8</mn></mfrac></mrow></msup></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msup><mi>m</mi><mrow><mfrac><mn>5</mn><mn>8</mn></mfrac></mrow></msup></mrow><mrow><msup><mi>m</mi><mrow><mfrac><mrow><mn>13</mn></mrow><mn>8</mn></mfrac></mrow></msup></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 154,
+      "anchor": "fs-id1169147731126",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "Use the Laws of Exponents to Simplify Expressions with Rational Exponents",
+        "In the following exercises, simplify. Assume all variables are positive."
+      ],
+      "text": "ⓐ \\({q}^{\\frac{2}{3}}\\cdot {q}^{\\frac{5}{6}}\\) ⓑ \\({({h}^{6})}^{\\frac{4}{3}}\\) ⓒ \\(\\frac{{n}^{\\frac{3}{5}}}{{n}^{\\frac{8}{5}}}\\)",
+      "math": [
+        "{q}^{\\frac{2}{3}}\\cdot {q}^{\\frac{5}{6}}",
+        "{({h}^{6})}^{\\frac{4}{3}}",
+        "\\frac{{n}^{\\frac{3}{5}}}{{n}^{\\frac{8}{5}}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>q</mi><mrow><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></msup><mo>·</mo><msup><mi>q</mi><mrow><mfrac><mn>5</mn><mn>6</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>q</mi><mrow><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></msup><mo>·</mo><msup><mi>q</mi><mrow><mfrac><mn>5</mn><mn>6</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><msup><mi>h</mi><mn>6</mn></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>4</mn><mn>3</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><msup><mi>h</mi><mn>6</mn></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>4</mn><mn>3</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msup><mi>n</mi><mrow><mfrac><mn>3</mn><mn>5</mn></mfrac></mrow></msup></mrow><mrow><msup><mi>n</mi><mrow><mfrac><mn>8</mn><mn>5</mn></mfrac></mrow></msup></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msup><mi>n</mi><mrow><mfrac><mn>3</mn><mn>5</mn></mfrac></mrow></msup></mrow><mrow><msup><mi>n</mi><mrow><mfrac><mn>8</mn><mn>5</mn></mfrac></mrow></msup></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 155,
+      "anchor": "fs-id1169143426492",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "Use the Laws of Exponents to Simplify Expressions with Rational Exponents",
+        "In the following exercises, simplify. Assume all variables are positive."
+      ],
+      "text": "ⓐ \\({(27{q}^{\\frac{3}{2}})}^{\\frac{4}{3}}\\) ⓑ \\({({a}^{\\frac{1}{3}}{b}^{\\frac{2}{3}})}^{\\frac{3}{2}}\\)",
+      "math": [
+        "{(27{q}^{\\frac{3}{2}})}^{\\frac{4}{3}}",
+        "{({a}^{\\frac{1}{3}}{b}^{\\frac{2}{3}})}^{\\frac{3}{2}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>27</mn><msup><mi>q</mi><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>4</mn><mn>3</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>27</mn><msup><mi>q</mi><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>4</mn><mn>3</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><msup><mi>a</mi><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup><msup><mi>b</mi><mrow><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><msup><mi>a</mi><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup><msup><mi>b</mi><mrow><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 156,
+      "anchor": "fs-id1169145499683",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "Use the Laws of Exponents to Simplify Expressions with Rational Exponents",
+        "In the following exercises, simplify. Assume all variables are positive."
+      ],
+      "text": "ⓐ \\({(64{s}^{\\frac{3}{7}})}^{\\frac{1}{6}}\\) ⓑ \\({({m}^{\\frac{4}{3}}{n}^{\\frac{1}{2}})}^{\\frac{3}{4}}\\)",
+      "math": [
+        "{(64{s}^{\\frac{3}{7}})}^{\\frac{1}{6}}",
+        "{({m}^{\\frac{4}{3}}{n}^{\\frac{1}{2}})}^{\\frac{3}{4}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>64</mn><msup><mi>s</mi><mrow><mfrac><mn>3</mn><mn>7</mn></mfrac></mrow></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>64</mn><msup><mi>s</mi><mrow><mfrac><mn>3</mn><mn>7</mn></mfrac></mrow></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><msup><mi>m</mi><mrow><mfrac><mn>4</mn><mn>3</mn></mfrac></mrow></msup><msup><mi>n</mi><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><msup><mi>m</mi><mrow><mfrac><mn>4</mn><mn>3</mn></mfrac></mrow></msup><msup><mi>n</mi><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 157,
+      "anchor": "fs-id1169145924578",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "Use the Laws of Exponents to Simplify Expressions with Rational Exponents",
+        "In the following exercises, simplify. Assume all variables are positive."
+      ],
+      "text": "ⓐ \\({(16{u}^{\\frac{1}{3}})}^{\\frac{3}{4}}\\) ⓑ \\({(4{p}^{\\frac{1}{3}}{q}^{\\frac{1}{2}})}^{\\frac{3}{2}}\\)",
+      "math": [
+        "{(16{u}^{\\frac{1}{3}})}^{\\frac{3}{4}}",
+        "{(4{p}^{\\frac{1}{3}}{q}^{\\frac{1}{2}})}^{\\frac{3}{2}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>16</mn><mspace width=\"0.2em\"></mspace><msup><mi>u</mi><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>16</mn><mspace width=\"0.2em\"></mspace><msup><mi>u</mi><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mspace width=\"0.2em\"></mspace><msup><mi>p</mi><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup><msup><mi>q</mi><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mspace width=\"0.2em\"></mspace><msup><mi>p</mi><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup><msup><mi>q</mi><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 158,
+      "anchor": "fs-id1169143746420",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "Use the Laws of Exponents to Simplify Expressions with Rational Exponents",
+        "In the following exercises, simplify. Assume all variables are positive."
+      ],
+      "text": "ⓐ \\({(625{n}^{\\frac{8}{3}})}^{\\frac{3}{4}}\\) ⓑ \\({(9{x}^{\\frac{2}{5}}{y}^{\\frac{3}{5}})}^{\\frac{5}{2}}\\)",
+      "math": [
+        "{(625{n}^{\\frac{8}{3}})}^{\\frac{3}{4}}",
+        "{(9{x}^{\\frac{2}{5}}{y}^{\\frac{3}{5}})}^{\\frac{5}{2}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>625</mn><mspace width=\"0.2em\"></mspace><msup><mi>n</mi><mrow><mfrac><mn>8</mn><mn>3</mn></mfrac></mrow></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>625</mn><mspace width=\"0.2em\"></mspace><msup><mi>n</mi><mrow><mfrac><mn>8</mn><mn>3</mn></mfrac></mrow></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>9</mn><mspace width=\"0.2em\"></mspace><msup><mi>x</mi><mrow><mfrac><mn>2</mn><mn>5</mn></mfrac></mrow></msup><msup><mi>y</mi><mrow><mfrac><mn>3</mn><mn>5</mn></mfrac></mrow></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>5</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>9</mn><mspace width=\"0.2em\"></mspace><msup><mi>x</mi><mrow><mfrac><mn>2</mn><mn>5</mn></mfrac></mrow></msup><msup><mi>y</mi><mrow><mfrac><mn>3</mn><mn>5</mn></mfrac></mrow></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>5</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 159,
+      "anchor": "fs-id1169143658325",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "Use the Laws of Exponents to Simplify Expressions with Rational Exponents",
+        "In the following exercises, simplify. Assume all variables are positive."
+      ],
+      "text": "ⓐ \\(\\frac{{r}^{\\frac{5}{2}}\\cdot {r}^{-\\frac{1}{2}}}{{r}^{-\\frac{3}{2}}}\\) ⓑ \\({(\\frac{36{s}^{\\frac{1}{5}}{t}^{-\\frac{3}{2}}}{{s}^{-\\frac{9}{5}}{t}^{\\frac{1}{2}}})}^{\\frac{1}{2}}\\)",
+      "math": [
+        "\\frac{{r}^{\\frac{5}{2}}\\cdot {r}^{-\\frac{1}{2}}}{{r}^{-\\frac{3}{2}}}",
+        "{(\\frac{36{s}^{\\frac{1}{5}}{t}^{-\\frac{3}{2}}}{{s}^{-\\frac{9}{5}}{t}^{\\frac{1}{2}}})}^{\\frac{1}{2}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msup><mi>r</mi><mrow><mfrac><mn>5</mn><mn>2</mn></mfrac></mrow></msup><mo>·</mo><msup><mi>r</mi><mrow><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow><mrow><msup><mi>r</mi><mrow><mo>−</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msup><mi>r</mi><mrow><mfrac><mn>5</mn><mn>2</mn></mfrac></mrow></msup><mo>·</mo><msup><mi>r</mi><mrow><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow><mrow><msup><mi>r</mi><mrow><mo>−</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>36</mn><mspace width=\"0.2em\"></mspace><msup><mi>s</mi><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></msup><msup><mi>t</mi><mrow><mo>−</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow><mrow><msup><mi>s</mi><mrow><mo>−</mo><mfrac><mn>9</mn><mn>5</mn></mfrac></mrow></msup><msup><mi>t</mi><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>36</mn><mspace width=\"0.2em\"></mspace><msup><mi>s</mi><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></msup><msup><mi>t</mi><mrow><mo>−</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow><mrow><msup><mi>s</mi><mrow><mo>−</mo><mfrac><mn>9</mn><mn>5</mn></mfrac></mrow></msup><msup><mi>t</mi><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 160,
+      "anchor": "fs-id1169145535944",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "Use the Laws of Exponents to Simplify Expressions with Rational Exponents",
+        "In the following exercises, simplify. Assume all variables are positive."
+      ],
+      "text": "ⓐ \\(\\frac{{a}^{\\frac{3}{4}}\\cdot {a}^{-\\frac{1}{4}}}{{a}^{-\\frac{10}{4}}}\\) ⓑ \\({(\\frac{27{b}^{\\frac{2}{3}}{c}^{-\\frac{5}{2}}}{{b}^{-\\frac{7}{3}}{c}^{\\frac{1}{2}}})}^{\\frac{1}{3}}\\)",
+      "math": [
+        "\\frac{{a}^{\\frac{3}{4}}\\cdot {a}^{-\\frac{1}{4}}}{{a}^{-\\frac{10}{4}}}",
+        "{(\\frac{27{b}^{\\frac{2}{3}}{c}^{-\\frac{5}{2}}}{{b}^{-\\frac{7}{3}}{c}^{\\frac{1}{2}}})}^{\\frac{1}{3}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msup><mi>a</mi><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></msup><mo>·</mo><msup><mi>a</mi><mrow><mo>−</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup></mrow><mrow><msup><mi>a</mi><mrow><mo>−</mo><mfrac><mrow><mn>10</mn></mrow><mn>4</mn></mfrac></mrow></msup></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msup><mi>a</mi><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></msup><mo>·</mo><msup><mi>a</mi><mrow><mo>−</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup></mrow><mrow><msup><mi>a</mi><mrow><mo>−</mo><mfrac><mrow><mn>10</mn></mrow><mn>4</mn></mfrac></mrow></msup></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>27</mn><mspace width=\"0.2em\"></mspace><msup><mi>b</mi><mrow><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></msup><msup><mi>c</mi><mrow><mo>−</mo><mfrac><mn>5</mn><mn>2</mn></mfrac></mrow></msup></mrow><mrow><msup><mi>b</mi><mrow><mo>−</mo><mfrac><mn>7</mn><mn>3</mn></mfrac></mrow></msup><msup><mi>c</mi><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>27</mn><mspace width=\"0.2em\"></mspace><msup><mi>b</mi><mrow><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></msup><msup><mi>c</mi><mrow><mo>−</mo><mfrac><mn>5</mn><mn>2</mn></mfrac></mrow></msup></mrow><mrow><msup><mi>b</mi><mrow><mo>−</mo><mfrac><mn>7</mn><mn>3</mn></mfrac></mrow></msup><msup><mi>c</mi><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 161,
+      "anchor": "fs-id1169141297901",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "Use the Laws of Exponents to Simplify Expressions with Rational Exponents",
+        "In the following exercises, simplify. Assume all variables are positive."
+      ],
+      "text": "ⓐ \\(\\frac{{c}^{\\frac{5}{3}}\\cdot {c}^{-\\frac{1}{3}}}{{c}^{-\\frac{2}{3}}}\\) ⓑ \\({(\\frac{8{x}^{\\frac{5}{3}}{y}^{-\\frac{1}{2}}}{27{x}^{-\\frac{4}{3}}{y}^{\\frac{5}{2}}})}^{\\frac{1}{3}}\\)",
+      "math": [
+        "\\frac{{c}^{\\frac{5}{3}}\\cdot {c}^{-\\frac{1}{3}}}{{c}^{-\\frac{2}{3}}}",
+        "{(\\frac{8{x}^{\\frac{5}{3}}{y}^{-\\frac{1}{2}}}{27{x}^{-\\frac{4}{3}}{y}^{\\frac{5}{2}}})}^{\\frac{1}{3}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msup><mi>c</mi><mrow><mfrac><mn>5</mn><mn>3</mn></mfrac></mrow></msup><mo>·</mo><msup><mi>c</mi><mrow><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow><mrow><msup><mi>c</mi><mrow><mo>−</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></msup></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msup><mi>c</mi><mrow><mfrac><mn>5</mn><mn>3</mn></mfrac></mrow></msup><mo>·</mo><msup><mi>c</mi><mrow><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow><mrow><msup><mi>c</mi><mrow><mo>−</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></msup></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>8</mn><mspace width=\"0.2em\"></mspace><msup><mi>x</mi><mrow><mfrac><mn>5</mn><mn>3</mn></mfrac></mrow></msup><mspace width=\"0.2em\"></mspace><msup><mi>y</mi><mrow><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow><mrow><mn>27</mn><mspace width=\"0.2em\"></mspace><msup><mi>x</mi><mrow><mo>−</mo><mfrac><mn>4</mn><mn>3</mn></mfrac></mrow></msup><mspace width=\"0.2em\"></mspace><msup><mi>y</mi><mrow><mfrac><mn>5</mn><mn>2</mn></mfrac></mrow></msup></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>8</mn><mspace width=\"0.2em\"></mspace><msup><mi>x</mi><mrow><mfrac><mn>5</mn><mn>3</mn></mfrac></mrow></msup><mspace width=\"0.2em\"></mspace><msup><mi>y</mi><mrow><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow><mrow><mn>27</mn><mspace width=\"0.2em\"></mspace><msup><mi>x</mi><mrow><mo>−</mo><mfrac><mn>4</mn><mn>3</mn></mfrac></mrow></msup><mspace width=\"0.2em\"></mspace><msup><mi>y</mi><mrow><mfrac><mn>5</mn><mn>2</mn></mfrac></mrow></msup></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 162,
+      "anchor": "fs-id1169145579129",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "Use the Laws of Exponents to Simplify Expressions with Rational Exponents",
+        "In the following exercises, simplify. Assume all variables are positive."
+      ],
+      "text": "ⓐ \\(\\frac{{m}^{\\frac{7}{4}}\\cdot {m}^{-\\frac{5}{4}}}{{m}^{-\\frac{2}{4}}}\\) ⓑ \\({(\\frac{16{m}^{\\frac{1}{5}}{n}^{\\frac{3}{2}}}{81{m}^{\\frac{9}{5}}{n}^{-\\frac{1}{2}}})}^{\\frac{1}{4}}\\)",
+      "math": [
+        "\\frac{{m}^{\\frac{7}{4}}\\cdot {m}^{-\\frac{5}{4}}}{{m}^{-\\frac{2}{4}}}",
+        "{(\\frac{16{m}^{\\frac{1}{5}}{n}^{\\frac{3}{2}}}{81{m}^{\\frac{9}{5}}{n}^{-\\frac{1}{2}}})}^{\\frac{1}{4}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msup><mi>m</mi><mrow><mfrac><mn>7</mn><mn>4</mn></mfrac></mrow></msup><mo>·</mo><msup><mi>m</mi><mrow><mo>−</mo><mfrac><mn>5</mn><mn>4</mn></mfrac></mrow></msup></mrow><mrow><msup><mi>m</mi><mrow><mo>−</mo><mfrac><mn>2</mn><mn>4</mn></mfrac></mrow></msup></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msup><mi>m</mi><mrow><mfrac><mn>7</mn><mn>4</mn></mfrac></mrow></msup><mo>·</mo><msup><mi>m</mi><mrow><mo>−</mo><mfrac><mn>5</mn><mn>4</mn></mfrac></mrow></msup></mrow><mrow><msup><mi>m</mi><mrow><mo>−</mo><mfrac><mn>2</mn><mn>4</mn></mfrac></mrow></msup></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>16</mn><mspace width=\"0.2em\"></mspace><msup><mi>m</mi><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></msup><mspace width=\"0.2em\"></mspace><msup><mi>n</mi><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow><mrow><mn>81</mn><mspace width=\"0.2em\"></mspace><msup><mi>m</mi><mrow><mfrac><mn>9</mn><mn>5</mn></mfrac></mrow></msup><mspace width=\"0.2em\"></mspace><msup><mi>n</mi><mrow><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>16</mn><mspace width=\"0.2em\"></mspace><msup><mi>m</mi><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></msup><mspace width=\"0.2em\"></mspace><msup><mi>n</mi><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow><mrow><mn>81</mn><mspace width=\"0.2em\"></mspace><msup><mi>m</mi><mrow><mfrac><mn>9</mn><mn>5</mn></mfrac></mrow></msup><mspace width=\"0.2em\"></mspace><msup><mi>n</mi><mrow><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 163,
+      "anchor": "fs-id1169137750510",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Show two different algebraic methods to simplify \\({4}^{\\frac{3}{2}}.\\) Explain all your steps.",
+      "math": [
+        "{4}^{\\frac{3}{2}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mn>4</mn><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mn>4</mn><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 164,
+      "anchor": "fs-id1169141528213",
+      "page": "8-3-simplify-rational-exponents",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain why the expression \\({(-16)}^{\\frac{3}{2}}\\) cannot be evaluated.",
+      "math": [
+        "{(-16)}^{\\frac{3}{2}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mo>−</mo><mn>16</mn></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mo>−</mo><mn>16</mn></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "8.51",
+      "page": "8-3-simplify-rational-exponents",
+      "is_try_it": true,
+      "anchor": "fs-id1169147878205",
+      "context": [
+        "Simplify Expressions with \\({a}^{\\frac{1}{n}}\\)"
+      ],
+      "text": "Write as a radical expression: ⓐ \\({t}^{\\frac{1}{2}}\\) ⓑ \\({m}^{\\frac{1}{3}}\\) ⓒ \\({r}^{\\frac{1}{4}}.\\)",
+      "math": [
+        "{t}^{\\frac{1}{2}}",
+        "{m}^{\\frac{1}{3}}",
+        "{r}^{\\frac{1}{4}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>t</mi><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>t</mi><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>m</mi><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>m</mi><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>r</mi><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>r</mi><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.52",
+      "page": "8-3-simplify-rational-exponents",
+      "is_try_it": true,
+      "anchor": "fs-id1169145489130",
+      "context": [
+        "Simplify Expressions with \\({a}^{\\frac{1}{n}}\\)"
+      ],
+      "text": "Write as a radial expression: ⓐ \\({b}^{\\frac{1}{6}}\\) ⓑ \\({z}^{\\frac{1}{5}}\\) ⓒ \\({p}^{\\frac{1}{4}}.\\)",
+      "math": [
+        "{b}^{\\frac{1}{6}}",
+        "{z}^{\\frac{1}{5}}",
+        "{p}^{\\frac{1}{4}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>b</mi><mrow><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>b</mi><mrow><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>z</mi><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>z</mi><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>p</mi><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>p</mi><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.53",
+      "page": "8-3-simplify-rational-exponents",
+      "is_try_it": true,
+      "anchor": "fs-id1169147743120",
+      "context": [
+        "Simplify Expressions with \\({a}^{\\frac{1}{n}}\\)"
+      ],
+      "text": "Write with a rational exponent: ⓐ \\(\\sqrt{10m}\\) ⓑ \\(3n5\\) ⓒ \\(36y4.\\)",
+      "math": [
+        "\\sqrt{10m}",
+        "\\sqrt[5]{3n}",
+        "3\\sqrt[4]{6y}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>10</mn><mi>m</mi></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>10</mn><mi>m</mi></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><mn>3</mn><mi>n</mi></mrow><mn>5</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><mn>3</mn><mi>n</mi></mrow><mn>5</mn></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mroot><mrow><mn>6</mn><mi>y</mi></mrow><mn>4</mn></mroot><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mroot><mrow><mn>6</mn><mi>y</mi></mrow><mn>4</mn></mroot><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.54",
+      "page": "8-3-simplify-rational-exponents",
+      "is_try_it": true,
+      "anchor": "fs-id1169147821115",
+      "context": [
+        "Simplify Expressions with \\({a}^{\\frac{1}{n}}\\)"
+      ],
+      "text": "Write with a rational exponent: ⓐ \\(3k7\\) ⓑ \\(5j4\\) ⓒ \\(82a3.\\)",
+      "math": [
+        "\\sqrt[7]{3k}",
+        "\\sqrt[4]{5j}",
+        "8\\sqrt[3]{2a}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><mn>3</mn><mi>k</mi></mrow><mn>7</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><mn>3</mn><mi>k</mi></mrow><mn>7</mn></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><mn>5</mn><mi>j</mi></mrow><mn>4</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><mn>5</mn><mi>j</mi></mrow><mn>4</mn></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>8</mn><mroot><mrow><mn>2</mn><mi>a</mi></mrow><mn>3</mn></mroot><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>8</mn><mroot><mrow><mn>2</mn><mi>a</mi></mrow><mn>3</mn></mroot><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.55",
+      "page": "8-3-simplify-rational-exponents",
+      "is_try_it": true,
+      "anchor": "fs-id1169145507732",
+      "context": [
+        "Simplify Expressions with \\({a}^{\\frac{1}{n}}\\)"
+      ],
+      "text": "Simplify: ⓐ \\({36}^{\\frac{1}{2}}\\) ⓑ \\({8}^{\\frac{1}{3}}\\) ⓒ \\({16}^{\\frac{1}{4}}.\\)",
+      "math": [
+        "{36}^{\\frac{1}{2}}",
+        "{8}^{\\frac{1}{3}}",
+        "{16}^{\\frac{1}{4}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>36</mn></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>36</mn></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mn>8</mn><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mn>8</mn><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>16</mn></mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>16</mn></mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.56",
+      "page": "8-3-simplify-rational-exponents",
+      "is_try_it": true,
+      "anchor": "fs-id1169143580466",
+      "context": [
+        "Simplify Expressions with \\({a}^{\\frac{1}{n}}\\)"
+      ],
+      "text": "Simplify: ⓐ \\({100}^{\\frac{1}{2}}\\) ⓑ \\({27}^{\\frac{1}{3}}\\) ⓒ \\({81}^{\\frac{1}{4}}.\\)",
+      "math": [
+        "{100}^{\\frac{1}{2}}",
+        "{27}^{\\frac{1}{3}}",
+        "{81}^{\\frac{1}{4}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>100</mn></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>100</mn></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>27</mn></mrow><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>27</mn></mrow><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>81</mn></mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>81</mn></mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.57",
+      "page": "8-3-simplify-rational-exponents",
+      "is_try_it": true,
+      "anchor": "fs-id1169141300454",
+      "context": [
+        "Simplify Expressions with \\({a}^{\\frac{1}{n}}\\)"
+      ],
+      "text": "Simplify: ⓐ \\({(-64)}^{-\\frac{1}{2}}\\) ⓑ \\(-{64}^{\\frac{1}{2}}\\) ⓒ \\({(64)}^{-\\frac{1}{2}}.\\)",
+      "math": [
+        "{(-64)}^{-\\frac{1}{2}}",
+        "-{64}^{\\frac{1}{2}}",
+        "{(64)}^{-\\frac{1}{2}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mo stretchy=\"false\">(</mo><mn>−64</mn><mo stretchy=\"false\">)</mo></mrow><mrow><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mo stretchy=\"false\">(</mo><mn>−64</mn><mo stretchy=\"false\">)</mo></mrow><mrow><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>−</mtext><msup><mrow><mn>64</mn></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>−</mtext><msup><mrow><mn>64</mn></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mo stretchy=\"false\">(</mo><mn>64</mn><mo stretchy=\"false\">)</mo></mrow><mrow><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mo stretchy=\"false\">(</mo><mn>64</mn><mo stretchy=\"false\">)</mo></mrow><mrow><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.58",
+      "page": "8-3-simplify-rational-exponents",
+      "is_try_it": true,
+      "anchor": "fs-id1169141042844",
+      "context": [
+        "Simplify Expressions with \\({a}^{\\frac{1}{n}}\\)"
+      ],
+      "text": "Simplify: ⓐ \\({(-256)}^{\\frac{1}{4}}\\) ⓑ \\(-{256}^{\\frac{1}{4}}\\) ⓒ \\({(256)}^{-\\frac{1}{4}}.\\)",
+      "math": [
+        "{(-256)}^{\\frac{1}{4}}",
+        "-{256}^{\\frac{1}{4}}",
+        "{(256)}^{-\\frac{1}{4}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mo stretchy=\"false\">(</mo><mn>−256</mn><mo stretchy=\"false\">)</mo></mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mo stretchy=\"false\">(</mo><mn>−256</mn><mo stretchy=\"false\">)</mo></mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>−</mtext><msup><mrow><mn>256</mn></mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>−</mtext><msup><mrow><mn>256</mn></mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>256</mn></mrow><mo>)</mo></mrow></mrow><mrow><mo>−</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>256</mn></mrow><mo>)</mo></mrow></mrow><mrow><mo>−</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.59",
+      "page": "8-3-simplify-rational-exponents",
+      "is_try_it": true,
+      "anchor": "fs-id1169145641636",
+      "context": [
+        "Simplify Expressions with \\({a}^{\\frac{m}{n}}\\)"
+      ],
+      "text": "Write with a rational exponent: ⓐ \\(\\sqrt{{x}^{5}}\\) ⓑ \\({(3y4)}^{3}\\) ⓒ \\(\\sqrt{{(\\frac{2m}{3n})}^{5}}.\\)",
+      "math": [
+        "\\sqrt{{x}^{5}}",
+        "{(\\sqrt[4]{3y})}^{3}",
+        "\\sqrt{{(\\frac{2m}{3n})}^{5}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><msup><mi>x</mi><mn>5</mn></msup></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><msup><mi>x</mi><mn>5</mn></msup></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mroot><mrow><mn>3</mn><mi>y</mi></mrow><mn>4</mn></mroot></mrow><mo>)</mo></mrow></mrow><mn>3</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mroot><mrow><mn>3</mn><mi>y</mi></mrow><mn>4</mn></mroot></mrow><mo>)</mo></mrow></mrow><mn>3</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>2</mn><mi>m</mi></mrow><mrow><mn>3</mn><mi>n</mi></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mn>5</mn></msup></mrow></msqrt><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>2</mn><mi>m</mi></mrow><mrow><mn>3</mn><mi>n</mi></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mn>5</mn></msup></mrow></msqrt><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.60",
+      "page": "8-3-simplify-rational-exponents",
+      "is_try_it": true,
+      "anchor": "fs-id1169145604559",
+      "context": [
+        "Simplify Expressions with \\({a}^{\\frac{m}{n}}\\)"
+      ],
+      "text": "Write with a rational exponent: ⓐ \\({a}^{2}5\\) ⓑ \\({(5ab3)}^{5}\\) ⓒ \\(\\sqrt{{(\\frac{7xy}{z})}^{3}}.\\)",
+      "math": [
+        "\\sqrt[5]{{a}^{2}}",
+        "{(\\sqrt[3]{5ab})}^{5}",
+        "\\sqrt{{(\\frac{7xy}{z})}^{3}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><msup><mi>a</mi><mn>2</mn></msup></mrow><mn>5</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><msup><mi>a</mi><mn>2</mn></msup></mrow><mn>5</mn></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mroot><mrow><mn>5</mn><mi>a</mi><mi>b</mi></mrow><mn>3</mn></mroot></mrow><mo>)</mo></mrow></mrow><mn>5</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mroot><mrow><mn>5</mn><mi>a</mi><mi>b</mi></mrow><mn>3</mn></mroot></mrow><mo>)</mo></mrow></mrow><mn>5</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>7</mn><mi>x</mi><mi>y</mi></mrow><mi>z</mi></mfrac></mrow><mo>)</mo></mrow></mrow><mn>3</mn></msup></mrow></msqrt><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>7</mn><mi>x</mi><mi>y</mi></mrow><mi>z</mi></mfrac></mrow><mo>)</mo></mrow></mrow><mn>3</mn></msup></mrow></msqrt><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.61",
+      "page": "8-3-simplify-rational-exponents",
+      "is_try_it": true,
+      "anchor": "fs-id1169142658474",
+      "context": [
+        "Simplify Expressions with \\({a}^{\\frac{m}{n}}\\)"
+      ],
+      "text": "Simplify: ⓐ \\({27}^{\\frac{2}{3}}\\) ⓑ \\({81}^{-\\frac{3}{2}}\\) ⓒ \\({16}^{-\\frac{3}{4}}.\\)",
+      "math": [
+        "{27}^{\\frac{2}{3}}",
+        "{81}^{-\\frac{3}{2}}",
+        "{16}^{-\\frac{3}{4}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>27</mn></mrow><mrow><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>27</mn></mrow><mrow><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>81</mn></mrow><mrow><mo>−</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>81</mn></mrow><mrow><mo>−</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>16</mn></mrow><mrow><mo>−</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>16</mn></mrow><mrow><mo>−</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.62",
+      "page": "8-3-simplify-rational-exponents",
+      "is_try_it": true,
+      "anchor": "fs-id1169147767197",
+      "context": [
+        "Simplify Expressions with \\({a}^{\\frac{m}{n}}\\)"
+      ],
+      "text": "Simplify: ⓐ \\({4}^{\\frac{3}{2}}\\) ⓑ \\({27}^{-\\frac{2}{3}}\\) ⓒ \\({625}^{-\\frac{3}{4}}.\\)",
+      "math": [
+        "{4}^{\\frac{3}{2}}",
+        "{27}^{-\\frac{2}{3}}",
+        "{625}^{-\\frac{3}{4}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mn>4</mn><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mn>4</mn><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>27</mn></mrow><mrow><mo>−</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>27</mn></mrow><mrow><mo>−</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>625</mn></mrow><mrow><mo>−</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>625</mn></mrow><mrow><mo>−</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.63",
+      "page": "8-3-simplify-rational-exponents",
+      "is_try_it": true,
+      "anchor": "fs-id1169145597498",
+      "context": [
+        "Simplify Expressions with \\({a}^{\\frac{m}{n}}\\)"
+      ],
+      "text": "Simplify: ⓐ \\({-16}^{\\frac{3}{2}}\\) ⓑ \\({-16}^{-\\frac{3}{2}}\\) ⓒ \\({(-16)}^{-\\frac{3}{2}}.\\)",
+      "math": [
+        "{-16}^{\\frac{3}{2}}",
+        "{-16}^{-\\frac{3}{2}}",
+        "{(-16)}^{-\\frac{3}{2}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mn>−16</mn><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mn>−16</mn><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mn>−16</mn><mrow><mo>−</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mn>−16</mn><mrow><mo>−</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mo>(</mo><mrow><mn>−16</mn></mrow><mo>)</mo></mrow><mrow><mo>−</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mo>(</mo><mrow><mn>−16</mn></mrow><mo>)</mo></mrow><mrow><mo>−</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.64",
+      "page": "8-3-simplify-rational-exponents",
+      "is_try_it": true,
+      "anchor": "fs-id1169145660357",
+      "context": [
+        "Simplify Expressions with \\({a}^{\\frac{m}{n}}\\)"
+      ],
+      "text": "Simplify: ⓐ \\({-81}^{\\frac{3}{2}}\\) ⓑ \\({-81}^{-\\frac{3}{2}}\\) ⓒ \\({(-81)}^{-\\frac{3}{2}}.\\)",
+      "math": [
+        "{-81}^{\\frac{3}{2}}",
+        "{-81}^{-\\frac{3}{2}}",
+        "{(-81)}^{-\\frac{3}{2}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mn>−81</mn><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mn>−81</mn><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mn>−81</mn><mrow><mo>−</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mn>−81</mn><mrow><mo>−</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mo>(</mo><mrow><mn>−81</mn></mrow><mo>)</mo></mrow><mrow><mo>−</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mo>(</mo><mrow><mn>−81</mn></mrow><mo>)</mo></mrow><mrow><mo>−</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.65",
+      "page": "8-3-simplify-rational-exponents",
+      "is_try_it": true,
+      "anchor": "fs-id1169147819548",
+      "context": [
+        "Use the Properties of Exponents to Simplify Expressions with Rational Exponents"
+      ],
+      "text": "Simplify: ⓐ \\({x}^{\\frac{1}{6}}\\cdot {x}^{\\frac{4}{3}}\\) ⓑ \\({({x}^{6})}^{\\frac{4}{3}}\\) ⓒ \\(\\frac{{x}^{\\frac{2}{3}}}{{x}^{\\frac{5}{3}}}.\\)",
+      "math": [
+        "{x}^{\\frac{1}{6}}\\cdot {x}^{\\frac{4}{3}}",
+        "{({x}^{6})}^{\\frac{4}{3}}",
+        "\\frac{{x}^{\\frac{2}{3}}}{{x}^{\\frac{5}{3}}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mrow><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></msup><mo>·</mo><msup><mi>x</mi><mrow><mfrac><mn>4</mn><mn>3</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mrow><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></msup><mo>·</mo><msup><mi>x</mi><mrow><mfrac><mn>4</mn><mn>3</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><msup><mi>x</mi><mn>6</mn></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>4</mn><mn>3</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><msup><mi>x</mi><mn>6</mn></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>4</mn><mn>3</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msup><mi>x</mi><mrow><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></msup></mrow><mrow><msup><mi>x</mi><mrow><mfrac><mn>5</mn><mn>3</mn></mfrac></mrow></msup></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msup><mi>x</mi><mrow><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></msup></mrow><mrow><msup><mi>x</mi><mrow><mfrac><mn>5</mn><mn>3</mn></mfrac></mrow></msup></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.66",
+      "page": "8-3-simplify-rational-exponents",
+      "is_try_it": true,
+      "anchor": "fs-id1169147767956",
+      "context": [
+        "Use the Properties of Exponents to Simplify Expressions with Rational Exponents"
+      ],
+      "text": "Simplify: ⓐ \\({y}^{\\frac{3}{4}}\\cdot {y}^{\\frac{5}{8}}\\) ⓑ \\({({m}^{9})}^{\\frac{2}{9}}\\) ⓒ \\(\\frac{{d}^{\\frac{1}{5}}}{{d}^{\\frac{6}{5}}}.\\)",
+      "math": [
+        "{y}^{\\frac{3}{4}}\\cdot {y}^{\\frac{5}{8}}",
+        "{({m}^{9})}^{\\frac{2}{9}}",
+        "\\frac{{d}^{\\frac{1}{5}}}{{d}^{\\frac{6}{5}}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>y</mi><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></msup><mo>·</mo><msup><mi>y</mi><mrow><mfrac><mn>5</mn><mn>8</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>y</mi><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></msup><mo>·</mo><msup><mi>y</mi><mrow><mfrac><mn>5</mn><mn>8</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><msup><mi>m</mi><mn>9</mn></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>2</mn><mn>9</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><msup><mi>m</mi><mn>9</mn></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>2</mn><mn>9</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msup><mi>d</mi><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></msup></mrow><mrow><msup><mi>d</mi><mrow><mfrac><mn>6</mn><mn>5</mn></mfrac></mrow></msup></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msup><mi>d</mi><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></msup></mrow><mrow><msup><mi>d</mi><mrow><mfrac><mn>6</mn><mn>5</mn></mfrac></mrow></msup></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.67",
+      "page": "8-3-simplify-rational-exponents",
+      "is_try_it": true,
+      "anchor": "fs-id1169145586243",
+      "context": [
+        "Use the Properties of Exponents to Simplify Expressions with Rational Exponents"
+      ],
+      "text": "Simplify: ⓐ \\({(32{x}^{\\frac{1}{3}})}^{\\frac{3}{5}}\\) ⓑ \\({({x}^{\\frac{3}{4}}{y}^{\\frac{1}{2}})}^{\\frac{2}{3}}.\\)",
+      "math": [
+        "{(32{x}^{\\frac{1}{3}})}^{\\frac{3}{5}}",
+        "{({x}^{\\frac{3}{4}}{y}^{\\frac{1}{2}})}^{\\frac{2}{3}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>32</mn><msup><mi>x</mi><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>3</mn><mn>5</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>32</mn><msup><mi>x</mi><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>3</mn><mn>5</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><msup><mi>x</mi><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></msup><msup><mi>y</mi><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><msup><mi>x</mi><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></msup><msup><mi>y</mi><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.68",
+      "page": "8-3-simplify-rational-exponents",
+      "is_try_it": true,
+      "anchor": "fs-id1169143578274",
+      "context": [
+        "Use the Properties of Exponents to Simplify Expressions with Rational Exponents"
+      ],
+      "text": "Simplify: ⓐ \\({(81{n}^{\\frac{2}{5}})}^{\\frac{3}{2}}\\) ⓑ \\({({a}^{\\frac{3}{2}}{b}^{\\frac{1}{2}})}^{\\frac{4}{3}}.\\)",
+      "math": [
+        "{(81{n}^{\\frac{2}{5}})}^{\\frac{3}{2}}",
+        "{({a}^{\\frac{3}{2}}{b}^{\\frac{1}{2}})}^{\\frac{4}{3}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>81</mn><msup><mi>n</mi><mrow><mfrac><mn>2</mn><mn>5</mn></mfrac></mrow></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>81</mn><msup><mi>n</mi><mrow><mfrac><mn>2</mn><mn>5</mn></mfrac></mrow></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><msup><mi>a</mi><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup><msup><mi>b</mi><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>4</mn><mn>3</mn></mfrac></mrow></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><msup><mi>a</mi><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></msup><msup><mi>b</mi><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>4</mn><mn>3</mn></mfrac></mrow></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.69",
+      "page": "8-3-simplify-rational-exponents",
+      "is_try_it": true,
+      "anchor": "fs-id1169145670495",
+      "context": [
+        "Use the Properties of Exponents to Simplify Expressions with Rational Exponents"
+      ],
+      "text": "Simplify: ⓐ \\(\\frac{{m}^{\\frac{2}{3}}\\cdot {m}^{-\\frac{1}{3}}}{{m}^{-\\frac{5}{3}}}\\) ⓑ \\({(\\frac{25{m}^{\\frac{1}{6}}{n}^{\\frac{11}{6}}}{{m}^{\\frac{2}{3}}{n}^{-\\frac{1}{6}}})}^{\\frac{1}{2}}.\\)",
+      "math": [
+        "\\frac{{m}^{\\frac{2}{3}}\\cdot {m}^{-\\frac{1}{3}}}{{m}^{-\\frac{5}{3}}}",
+        "{(\\frac{25{m}^{\\frac{1}{6}}{n}^{\\frac{11}{6}}}{{m}^{\\frac{2}{3}}{n}^{-\\frac{1}{6}}})}^{\\frac{1}{2}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msup><mi>m</mi><mrow><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></msup><mo>·</mo><msup><mi>m</mi><mrow><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow><mrow><msup><mi>m</mi><mrow><mo>−</mo><mfrac><mn>5</mn><mn>3</mn></mfrac></mrow></msup></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msup><mi>m</mi><mrow><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></msup><mo>·</mo><msup><mi>m</mi><mrow><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup></mrow><mrow><msup><mi>m</mi><mrow><mo>−</mo><mfrac><mn>5</mn><mn>3</mn></mfrac></mrow></msup></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>25</mn><msup><mi>m</mi><mrow><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></msup><msup><mi>n</mi><mrow><mfrac><mrow><mn>11</mn></mrow><mn>6</mn></mfrac></mrow></msup></mrow><mrow><msup><mi>m</mi><mrow><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></msup><msup><mi>n</mi><mrow><mo>−</mo><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></msup></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>25</mn><msup><mi>m</mi><mrow><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></msup><msup><mi>n</mi><mrow><mfrac><mrow><mn>11</mn></mrow><mn>6</mn></mfrac></mrow></msup></mrow><mrow><msup><mi>m</mi><mrow><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></msup><msup><mi>n</mi><mrow><mo>−</mo><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></msup></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.70",
+      "page": "8-3-simplify-rational-exponents",
+      "is_try_it": true,
+      "anchor": "fs-id1169143760925",
+      "context": [
+        "Use the Properties of Exponents to Simplify Expressions with Rational Exponents"
+      ],
+      "text": "Simplify: ⓐ \\(\\frac{{u}^{\\frac{4}{5}}\\cdot {u}^{-\\frac{2}{5}}}{{u}^{-\\frac{13}{5}}}\\) ⓑ \\({(\\frac{27{x}^{\\frac{4}{5}}{y}^{\\frac{1}{6}}}{{x}^{\\frac{1}{5}}{y}^{-\\frac{5}{6}}})}^{\\frac{1}{3}}.\\)",
+      "math": [
+        "\\frac{{u}^{\\frac{4}{5}}\\cdot {u}^{-\\frac{2}{5}}}{{u}^{-\\frac{13}{5}}}",
+        "{(\\frac{27{x}^{\\frac{4}{5}}{y}^{\\frac{1}{6}}}{{x}^{\\frac{1}{5}}{y}^{-\\frac{5}{6}}})}^{\\frac{1}{3}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msup><mi>u</mi><mrow><mfrac><mn>4</mn><mn>5</mn></mfrac></mrow></msup><mo>·</mo><msup><mi>u</mi><mrow><mo>−</mo><mfrac><mn>2</mn><mn>5</mn></mfrac></mrow></msup></mrow><mrow><msup><mi>u</mi><mrow><mo>−</mo><mfrac><mrow><mn>13</mn></mrow><mn>5</mn></mfrac></mrow></msup></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msup><mi>u</mi><mrow><mfrac><mn>4</mn><mn>5</mn></mfrac></mrow></msup><mo>·</mo><msup><mi>u</mi><mrow><mo>−</mo><mfrac><mn>2</mn><mn>5</mn></mfrac></mrow></msup></mrow><mrow><msup><mi>u</mi><mrow><mo>−</mo><mfrac><mrow><mn>13</mn></mrow><mn>5</mn></mfrac></mrow></msup></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>27</mn><msup><mi>x</mi><mrow><mfrac><mn>4</mn><mn>5</mn></mfrac></mrow></msup><msup><mi>y</mi><mrow><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></msup></mrow><mrow><msup><mi>x</mi><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></msup><msup><mi>y</mi><mrow><mo>−</mo><mfrac><mn>5</mn><mn>6</mn></mfrac></mrow></msup></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mrow><mn>27</mn><msup><mi>x</mi><mrow><mfrac><mn>4</mn><mn>5</mn></mfrac></mrow></msup><msup><mi>y</mi><mrow><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></msup></mrow><mrow><msup><mi>x</mi><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></msup><msup><mi>y</mi><mrow><mo>−</mo><mfrac><mn>5</mn><mn>6</mn></mfrac></mrow></msup></mrow></mfrac></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

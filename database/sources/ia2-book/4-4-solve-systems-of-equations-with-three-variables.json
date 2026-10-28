@@ -1,0 +1,782 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/4-4-solve-systems-of-equations-with-three-variables",
+  "title": "4.4 Solve Systems of Equations with Three Variables",
+  "sha256": "d29d3518fe22a10f71041728fbf3b50569648c4268f2b5a55ed361e3f76539b3",
+  "questions": [
+    {
+      "number": 162,
+      "anchor": "fs-id1167836501642",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "context": [
+        "Determine Whether an Ordered Triple is a Solution of a System of Three Linear Equations with Three Variables",
+        "In the following exercises, determine whether the ordered triple is a solution to the system."
+      ],
+      "text": "\\({ 2 x - 6 y + z = 3 3 x - 4 y - 3 z = 2 2 x + 3 y - 2 z = 3\\) ⓐ \\((3,1,3)\\) ⓑ \\((4,3,7)\\)",
+      "math": [
+        "{ \\begin{matrix} 2 x - 6 y + z = 3 \\\\ 3 x - 4 y - 3 z = 2 \\\\ 2 x + 3 y - 2 z = 3 \\end{matrix}",
+        "(3,1,3)",
+        "(4,3,7)"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>6</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>6</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mo stretchy=\"false\">(</mo><mn>3</mn><mo>,</mo><mn>1</mn><mo>,</mo><mn>3</mn><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mo stretchy=\"false\">(</mo><mn>3</mn><mo>,</mo><mn>1</mn><mo>,</mo><mn>3</mn><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mo stretchy=\"false\">(</mo><mn>4</mn><mo>,</mo><mn>3</mn><mo>,</mo><mn>7</mn><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mo stretchy=\"false\">(</mo><mn>4</mn><mo>,</mo><mn>3</mn><mo>,</mo><mn>7</mn><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 163,
+      "anchor": "fs-id1167836510397",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "context": [
+        "Determine Whether an Ordered Triple is a Solution of a System of Three Linear Equations with Three Variables",
+        "In the following exercises, determine whether the ordered triple is a solution to the system."
+      ],
+      "text": "\\({ - 3 x + y + z = -4 - x + 2 y - 2 z = 1 2 x - y - z = -1\\) ⓐ \\((-5,-7,4)\\) ⓑ \\((5,7,4)\\)",
+      "math": [
+        "{ \\begin{matrix} - 3 x + y + z = -4 \\\\ - x + 2 y - 2 z = 1 \\\\ 2 x - y - z = -1 \\end{matrix}",
+        "(-5,-7,4)",
+        "(5,7,4)"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mspace width=\"0.2em\"></mspace>\n                  <mtext></mtext>\n                  <mspace width=\"0.2em\"></mspace>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mo>−</mo>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mspace width=\"0.2em\"></mspace>\n                  <mtext></mtext>\n                  <mspace width=\"0.2em\"></mspace>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mspace width=\"0.2em\"></mspace>\n                  <mtext></mtext>\n                  <mspace width=\"0.2em\"></mspace>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mo>−</mo>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mspace width=\"0.2em\"></mspace>\n                  <mtext></mtext>\n                  <mspace width=\"0.2em\"></mspace>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mo stretchy=\"false\">(</mo><mn>−5</mn><mo>,</mo><mn>−7</mn><mo>,</mo><mn>4</mn><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mo stretchy=\"false\">(</mo><mn>−5</mn><mo>,</mo><mn>−7</mn><mo>,</mo><mn>4</mn><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mo stretchy=\"false\">(</mo><mn>5</mn><mo>,</mo><mn>7</mn><mo>,</mo><mn>4</mn><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mo stretchy=\"false\">(</mo><mn>5</mn><mo>,</mo><mn>7</mn><mo>,</mo><mn>4</mn><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 164,
+      "anchor": "fs-id1167833136684",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "context": [
+        "Determine Whether an Ordered Triple is a Solution of a System of Three Linear Equations with Three Variables",
+        "In the following exercises, determine whether the ordered triple is a solution to the system."
+      ],
+      "text": "\\({ y - 10 z = -8 2 x - y = 2 x - 5 z = 3\\) ⓐ \\((7,12,2)\\) ⓑ \\((2,2,1)\\)",
+      "math": [
+        "{ \\begin{matrix} y - 10 z = -8 \\\\ 2 x - y = 2 \\\\ x - 5 z = 3 \\end{matrix}",
+        "(7,12,2)",
+        "(2,2,1)"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>10</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−8</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>10</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−8</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>7</mn><mo>,</mo><mn>12</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>7</mn><mo>,</mo><mn>12</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 165,
+      "anchor": "fs-id1167836686650",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "context": [
+        "Determine Whether an Ordered Triple is a Solution of a System of Three Linear Equations with Three Variables",
+        "In the following exercises, determine whether the ordered triple is a solution to the system."
+      ],
+      "text": "\\({ x + 3 y - z = 15 y = \\frac{2}{3} x - 2 x - 3 y + z = -2\\) ⓐ \\((-6,5,\\frac{1}{2})\\) ⓑ \\((5,\\frac{4}{3},-3)\\)",
+      "math": [
+        "{ \\begin{matrix} x + 3 y - z = 15 \\\\ y = \\frac{2}{3} x - 2 \\\\ x - 3 y + z = -2 \\end{matrix}",
+        "(-6,5,\\frac{1}{2})",
+        "(5,\\frac{4}{3},-3)"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>15</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mfrac>\n                    <mn>2</mn>\n                    <mn>3</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−2</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>15</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mfrac>\n                    <mn>2</mn>\n                    <mn>3</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−2</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−6</mn><mo>,</mo><mn>5</mn><mo>,</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−6</mn><mo>,</mo><mn>5</mn><mo>,</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>,</mo><mfrac><mn>4</mn><mn>3</mn></mfrac><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>,</mo><mfrac><mn>4</mn><mn>3</mn></mfrac><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 166,
+      "anchor": "fs-id1167833327314",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "context": [
+        "Solve a System of Linear Equations with Three Variables",
+        "In the following exercises, solve the system of equations."
+      ],
+      "text": "\\({ 5 x + 2 y + z = 5 - 3 x - y + 2 z = 6 2 x + 3 y - 3 z = 5\\)",
+      "math": [
+        "{ \\begin{matrix} 5 x + 2 y + z = 5 \\\\ - 3 x - y + 2 z = 6 \\\\ 2 x + 3 y - 3 z = 5 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>5</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>5</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>6</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>5</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>5</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>5</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>6</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>5</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 167,
+      "anchor": "fs-id1167833086748",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "context": [
+        "Solve a System of Linear Equations with Three Variables",
+        "In the following exercises, solve the system of equations."
+      ],
+      "text": "\\({ 6 x - 5 y + 2 z = 3 2 x + y - 4 z = 5 3 x - 3 y + z = -1\\)",
+      "math": [
+        "{ \\begin{matrix} 6 x - 5 y + 2 z = 3 \\\\ 2 x + y - 4 z = 5 \\\\ 3 x - 3 y + z = -1 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>6</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>5</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>6</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>5</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 168,
+      "anchor": "fs-id1167836392614",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "context": [
+        "Solve a System of Linear Equations with Three Variables",
+        "In the following exercises, solve the system of equations."
+      ],
+      "text": "\\({ 2 x - 5 y + 3 z = 8 3 x - y + 4 z = 7 x + 3 y + 2 z = -3\\)",
+      "math": [
+        "{ \\begin{matrix} 2 x - 5 y + 3 z = 8 \\\\ 3 x - y + 4 z = 7 \\\\ x + 3 y + 2 z = -3 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>8</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>7</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−3</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>8</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>7</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−3</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 169,
+      "anchor": "fs-id1167836493253",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "context": [
+        "Solve a System of Linear Equations with Three Variables",
+        "In the following exercises, solve the system of equations."
+      ],
+      "text": "\\({ 5 x - 3 y + 2 z = -5 2 x - y - z = 4 3 x - 2 y + 2 z = -7\\)",
+      "math": [
+        "{ \\begin{matrix} 5 x - 3 y + 2 z = -5 \\\\ 2 x - y - z = 4 \\\\ 3 x - 2 y + 2 z = -7 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>5</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−5</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−7</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>5</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−5</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−7</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 170,
+      "anchor": "fs-id1167836477516",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "context": [
+        "Solve a System of Linear Equations with Three Variables",
+        "In the following exercises, solve the system of equations."
+      ],
+      "text": "\\({ 3 x - 5 y + 4 z = 5 5 x + 2 y + z = 0 2 x + 3 y - 2 z = 3\\)",
+      "math": [
+        "{ \\begin{matrix} 3 x - 5 y + 4 z = 5 \\\\ 5 x + 2 y + z = 0 \\\\ 2 x + 3 y - 2 z = 3 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>5</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>5</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>0</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>5</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>5</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>0</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 171,
+      "anchor": "fs-id1167829878819",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "context": [
+        "Solve a System of Linear Equations with Three Variables",
+        "In the following exercises, solve the system of equations."
+      ],
+      "text": "\\({ 4 x - 3 y + z = 7 2 x - 5 y - 4 z = 3 3 x - 2 y - 2 z = -7\\)",
+      "math": [
+        "{ \\begin{matrix} 4 x - 3 y + z = 7 \\\\ 2 x - 5 y - 4 z = 3 \\\\ 3 x - 2 y - 2 z = -7 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>4</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>7</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−7</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>4</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>7</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−7</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 172,
+      "anchor": "fs-id1167830013969",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "context": [
+        "Solve a System of Linear Equations with Three Variables",
+        "In the following exercises, solve the system of equations."
+      ],
+      "text": "\\({ 3 x + 8 y + 2 z = -5 2 x + 5 y - 3 z = 0 x + 2 y - 2 z = -1\\)",
+      "math": [
+        "{ \\begin{matrix} 3 x + 8 y + 2 z = -5 \\\\ 2 x + 5 y - 3 z = 0 \\\\ x + 2 y - 2 z = -1 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>8</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−5</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>0</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>8</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−5</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>0</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 173,
+      "anchor": "fs-id1167832999524",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "context": [
+        "Solve a System of Linear Equations with Three Variables",
+        "In the following exercises, solve the system of equations."
+      ],
+      "text": "\\({ 11 x + 9 y + 2 z = -9 7 x + 5 y + 3 z = -7 4 x + 3 y + z = -3\\)",
+      "math": [
+        "{ \\begin{matrix} 11 x + 9 y + 2 z = -9 \\\\ 7 x + 5 y + 3 z = -7 \\\\ 4 x + 3 y + z = -3 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>11</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>9</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−9</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>7</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−7</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>4</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−3</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>11</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>9</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−9</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>7</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−7</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>4</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−3</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 174,
+      "anchor": "fs-id1167836689151",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "context": [
+        "Solve a System of Linear Equations with Three Variables",
+        "In the following exercises, solve the system of equations."
+      ],
+      "text": "\\({ \\frac{1}{3} x - y - z = 1 x + \\frac{5}{2} y + z = -2 2 x + 2 y + \\frac{1}{2} z = -4\\)",
+      "math": [
+        "{ \\begin{matrix} \\frac{1}{3} x - y - z = 1 \\\\ x + \\frac{5}{2} y + z = -2 \\\\ 2 x + 2 y + \\frac{1}{2} z = -4 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>3</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mfrac>\n                    <mn>5</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−4</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>3</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mfrac>\n                    <mn>5</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−4</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 175,
+      "anchor": "fs-id1167836614091",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "context": [
+        "Solve a System of Linear Equations with Three Variables",
+        "In the following exercises, solve the system of equations."
+      ],
+      "text": "\\({ x + \\frac{1}{2} y + \\frac{1}{2} z = 0 \\frac{1}{5} x - \\frac{1}{5} y + z = 0 \\frac{1}{3} x - \\frac{1}{3} y + 2 z = -1\\)",
+      "math": [
+        "{ \\begin{matrix} x + \\frac{1}{2} y + \\frac{1}{2} z = 0 \\\\ \\frac{1}{5} x - \\frac{1}{5} y + z = 0 \\\\ \\frac{1}{3} x - \\frac{1}{3} y + 2 z = -1 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>0</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>5</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>5</mn>\n                  </mfrac>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>0</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>3</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>3</mn>\n                  </mfrac>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>0</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>5</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>5</mn>\n                  </mfrac>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>0</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>3</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>3</mn>\n                  </mfrac>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 176,
+      "anchor": "fs-id1167836598004",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "context": [
+        "Solve a System of Linear Equations with Three Variables",
+        "In the following exercises, solve the system of equations."
+      ],
+      "text": "\\({ x + \\frac{1}{3} y - 2 z = -1 \\frac{1}{3} x + y + \\frac{1}{2} z = 0 \\frac{1}{2} x + \\frac{1}{3} y - \\frac{1}{2} z = -1\\)",
+      "math": [
+        "{ \\begin{matrix} x + \\frac{1}{3} y - 2 z = -1 \\\\ \\frac{1}{3} x + y + \\frac{1}{2} z = 0 \\\\ \\frac{1}{2} x + \\frac{1}{3} y - \\frac{1}{2} z = -1 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>3</mn>\n                  </mfrac>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>3</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>0</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>3</mn>\n                  </mfrac>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>3</mn>\n                  </mfrac>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>3</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>0</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>3</mn>\n                  </mfrac>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 177,
+      "anchor": "fs-id1167836510914",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "context": [
+        "Solve a System of Linear Equations with Three Variables",
+        "In the following exercises, solve the system of equations."
+      ],
+      "text": "\\({ \\frac{1}{3} x - y + \\frac{1}{2} z = 4 \\frac{2}{3} x + \\frac{5}{2} y - 4 z = 0 x - \\frac{1}{2} y + \\frac{3}{2} z = 2\\)",
+      "math": [
+        "{ \\begin{matrix} \\frac{1}{3} x - y + \\frac{1}{2} z = 4 \\\\ \\frac{2}{3} x + \\frac{5}{2} y - 4 z = 0 \\\\ x - \\frac{1}{2} y + \\frac{3}{2} z = 2 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>3</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mfrac>\n                    <mn>2</mn>\n                    <mn>3</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mfrac>\n                    <mn>5</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>0</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mfrac>\n                    <mn>3</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>3</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mfrac>\n                    <mn>2</mn>\n                    <mn>3</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mfrac>\n                    <mn>5</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>0</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mfrac>\n                    <mn>3</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 178,
+      "anchor": "fs-id1167836362489",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "context": [
+        "Solve a System of Linear Equations with Three Variables",
+        "In the following exercises, solve the system of equations."
+      ],
+      "text": "\\({ x + 2 z = 0 4 y + 3 z = -2 2 x - 5 y = 3\\)",
+      "math": [
+        "{ \\begin{matrix} x + 2 z = 0 \\\\ 4 y + 3 z = -2 \\\\ 2 x - 5 y = 3 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>0</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>4</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>0</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>4</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 179,
+      "anchor": "fs-id1167829748029",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "context": [
+        "Solve a System of Linear Equations with Three Variables",
+        "In the following exercises, solve the system of equations."
+      ],
+      "text": "\\({ 2 x + 5 y = 4 3 y - z = 3 4 x + 3 z = -3\\)",
+      "math": [
+        "{ \\begin{matrix} 2 x + 5 y = 4 \\\\ 3 y - z = 3 \\\\ 4 x + 3 z = -3 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>4</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−3</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>4</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−3</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 180,
+      "anchor": "fs-id1167829807670",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "context": [
+        "Solve a System of Linear Equations with Three Variables",
+        "In the following exercises, solve the system of equations."
+      ],
+      "text": "\\({ 2 y + 3 z = -1 5 x + 3 y = -6 7 x + z = 1\\)",
+      "math": [
+        "{ \\begin{matrix} 2 y + 3 z = -1 \\\\ 5 x + 3 y = -6 \\\\ 7 x + z = 1 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>5</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>−6</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>7</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>5</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>−6</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>7</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 181,
+      "anchor": "fs-id1167829740446",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "context": [
+        "Solve a System of Linear Equations with Three Variables",
+        "In the following exercises, solve the system of equations."
+      ],
+      "text": "\\({ 3 x - z = -3 5 y + 2 z = -6 4 x + 3 y = -8\\)",
+      "math": [
+        "{ \\begin{matrix} 3 x - z = -3 \\\\ 5 y + 2 z = -6 \\\\ 4 x + 3 y = -8 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−3</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>5</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−6</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>4</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>−8</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−3</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>5</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−6</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>4</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>−8</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 182,
+      "anchor": "fs-id1167836532846",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "context": [
+        "Solve a System of Linear Equations with Three Variables",
+        "In the following exercises, solve the system of equations."
+      ],
+      "text": "\\({ 4 x - 3 y + 2 z = 0 - 2 x + 3 y - 7 z = 1 2 x - 2 y + 3 z = 6\\)",
+      "math": [
+        "{ \\begin{matrix} 4 x - 3 y + 2 z = 0 \\\\ - 2 x + 3 y - 7 z = 1 \\\\ 2 x - 2 y + 3 z = 6 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>4</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>0</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>7</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>6</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>4</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>0</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>7</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>6</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 183,
+      "anchor": "fs-id1167829811216",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "context": [
+        "Solve a System of Linear Equations with Three Variables",
+        "In the following exercises, solve the system of equations."
+      ],
+      "text": "\\({ x - 2 y + 2 z = 1 - 2 x + y - z = 2 x - y + z = 5\\)",
+      "math": [
+        "{ \\begin{matrix} x - 2 y + 2 z = 1 \\\\ - 2 x + y - z = 2 \\\\ x - y + z = 5 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>5</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>5</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 184,
+      "anchor": "fs-id1167829850954",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "context": [
+        "Solve a System of Linear Equations with Three Variables",
+        "In the following exercises, solve the system of equations."
+      ],
+      "text": "\\({ 2 x + 3 y + z = 12 x + y + z = 9 3 x + 4 y + 2 z = 20\\)",
+      "math": [
+        "{ \\begin{matrix} 2 x + 3 y + z = 12 \\\\ x + y + z = 9 \\\\ 3 x + 4 y + 2 z = 20 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>12</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>9</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>20</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>12</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>9</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>20</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 185,
+      "anchor": "fs-id1167836524317",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "context": [
+        "Solve a System of Linear Equations with Three Variables",
+        "In the following exercises, solve the system of equations."
+      ],
+      "text": "\\({ x + 4 y + z = -8 4 x - y + 3 z = 9 2 x + 7 y + z = 0\\)",
+      "math": [
+        "{ \\begin{matrix} x + 4 y + z = -8 \\\\ 4 x - y + 3 z = 9 \\\\ 2 x + 7 y + z = 0 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−8</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>4</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>9</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>7</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>0</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−8</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>4</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>9</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>7</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>0</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 186,
+      "anchor": "fs-id1167829930558",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "context": [
+        "Solve a System of Linear Equations with Three Variables",
+        "In the following exercises, solve the system of equations."
+      ],
+      "text": "\\({ x + 2 y + z = 4 x + y - 2 z = 3 - 2 x - 3 y + z = -7\\)",
+      "math": [
+        "{ \\begin{matrix} x + 2 y + z = 4 \\\\ x + y - 2 z = 3 \\\\ - 2 x - 3 y + z = -7 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−7</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−7</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 187,
+      "anchor": "fs-id1167836318721",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "context": [
+        "Solve a System of Linear Equations with Three Variables",
+        "In the following exercises, solve the system of equations."
+      ],
+      "text": "\\({ x + y - 2 z = 3 - 2 x - 3 y + z = -7 x + 2 y + z = 4\\)",
+      "math": [
+        "{ \\begin{matrix} x + y - 2 z = 3 \\\\ - 2 x - 3 y + z = -7 \\\\ x + 2 y + z = 4 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−7</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−7</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 188,
+      "anchor": "fs-id1167833135136",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "context": [
+        "Solve a System of Linear Equations with Three Variables",
+        "In the following exercises, solve the system of equations."
+      ],
+      "text": "\\({ x + y - 3 z = -1 y - z = 0 - x + 2 y = 1\\)",
+      "math": [
+        "{ \\begin{matrix} x + y - 3 z = -1 \\\\ y - z = 0 \\\\ - x + 2 y = 1 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>0</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mo>−</mo>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>0</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mo>−</mo>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 189,
+      "anchor": "fs-id1167829598896",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "context": [
+        "Solve a System of Linear Equations with Three Variables",
+        "In the following exercises, solve the system of equations."
+      ],
+      "text": "\\({ x - 2 y + 3 z = 1 x + y - 3 z = 7 3 x - 4 y + 5 z = 7\\)",
+      "math": [
+        "{ \\begin{matrix} x - 2 y + 3 z = 1 \\\\ x + y - 3 z = 7 \\\\ 3 x - 4 y + 5 z = 7 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>7</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>7</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>7</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>7</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 190,
+      "anchor": "fs-id1167836501812",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "context": [
+        "Solve Applications using Systems of Linear Equations with Three Variables",
+        "In the following exercises, solve the given problem."
+      ],
+      "text": "The sum of the measures of the angles of a triangle is 180. The sum of the measures of the second and third angles is twice the measure of the first angle. The third angle is twelve more than the second. Find the measures of the three angles.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 191,
+      "anchor": "fs-id1167836561270",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "context": [
+        "Solve Applications using Systems of Linear Equations with Three Variables",
+        "In the following exercises, solve the given problem."
+      ],
+      "text": "The sum of the measures of the angles of a triangle is 180. The sum of the measures of the second and third angles is three times the measure of the first angle. The third angle is fifteen more than the second. Find the measures of the three angles.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 192,
+      "anchor": "fs-id1167836556299",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "context": [
+        "Solve Applications using Systems of Linear Equations with Three Variables",
+        "In the following exercises, solve the given problem."
+      ],
+      "text": "After watching a major musical production at the theater, the patrons can purchase souvenirs. If a family purchases 4 t-shirts, the video, and 1 stuffed animal, their total is $135. A couple buys 2 t-shirts, the video, and 3 stuffed animals for their nieces and spends $115. Another couple buys 2 t-shirts, the video, and 1 stuffed animal and their total is $85. What is the cost of each item?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 193,
+      "anchor": "fs-id1167836525390",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "context": [
+        "Solve Applications using Systems of Linear Equations with Three Variables",
+        "In the following exercises, solve the given problem."
+      ],
+      "text": "The church youth group is selling snacks to raise money to attend their convention. Amy sold 2 pounds of candy, 3 boxes of cookies and 1 can of popcorn for a total sales of $65. Brian sold 4 pounds of candy, 6 boxes of cookies and 3 cans of popcorn for a total sales of $140. Paulina sold 8 pounds of candy, 8 boxes of cookies and 5 cans of popcorn for a total sales of $250. What is the cost of each item?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 194,
+      "anchor": "fs-id1167829807546",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "In your own words explain the steps to solve a system of linear equations with three variables by elimination.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 195,
+      "anchor": "fs-id1167833047500",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "How can you tell when a system of three linear equations with three variables has no solution? Infinitely many solutions?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "4.61",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167836543515",
+      "context": [
+        "Determine Whether an Ordered Triple is a Solution of a System of Three Linear Equations with Three Variables"
+      ],
+      "text": "Determine whether the ordered triple is a solution to the system: \\({3x+y+z=2x+2y+z=-33x+y+2z=4.\\) ⓐ \\((1,-3,2)\\) ⓑ \\((4,-1,-5)\\)",
+      "math": [
+        "{\\begin{matrix}3x+y+z=2\\\\x+2y+z=-3\\\\3x+y+2z=4\\end{matrix}.",
+        "(1,-3,2)",
+        "(4,-1,-5)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mn>3</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>+</mo><mi>z</mi><mo>=</mo><mn>2</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>+</mo><mi>z</mi><mo>=</mo><mn>−3</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>3</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>+</mo><mn>2</mn><mi>z</mi><mo>=</mo><mn>4</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mn>3</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>+</mo><mi>z</mi><mo>=</mo><mn>2</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>+</mo><mi>z</mi><mo>=</mo><mn>−3</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>3</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>+</mo><mn>2</mn><mi>z</mi><mo>=</mo><mn>4</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mo stretchy=\"false\">(</mo><mn>1</mn><mo>,</mo><mn>−3</mn><mo>,</mo><mn>2</mn><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mo stretchy=\"false\">(</mo><mn>1</mn><mo>,</mo><mn>−3</mn><mo>,</mo><mn>2</mn><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mo stretchy=\"false\">(</mo><mn>4</mn><mo>,</mo><mn>−1</mn><mo>,</mo><mn>−5</mn><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mo stretchy=\"false\">(</mo><mn>4</mn><mo>,</mo><mn>−1</mn><mo>,</mo><mn>−5</mn><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "4.62",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167833139268",
+      "context": [
+        "Determine Whether an Ordered Triple is a Solution of a System of Three Linear Equations with Three Variables"
+      ],
+      "text": "Determine whether the ordered triple is a solution to the system: \\({x-3y+z=-5-3x-y-z=12x-2y+3z=1.\\) ⓐ \\((2,-2,3)\\) ⓑ \\((-2,2,3)\\)",
+      "math": [
+        "{\\begin{matrix}x-3y+z=-5\\\\-3x-y-z=1\\\\2x-2y+3z=1\\end{matrix}.",
+        "(2,-2,3)",
+        "(-2,2,3)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>x</mi><mo>−</mo><mn>3</mn><mi>y</mi><mo>+</mo><mi>z</mi><mo>=</mo><mn>−5</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mo>−</mo><mn>3</mn><mi>x</mi><mo>−</mo><mi>y</mi><mo>−</mo><mi>z</mi><mo>=</mo><mn>1</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>2</mn><mi>x</mi><mo>−</mo><mn>2</mn><mi>y</mi><mo>+</mo><mn>3</mn><mi>z</mi><mo>=</mo><mn>1</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>x</mi><mo>−</mo><mn>3</mn><mi>y</mi><mo>+</mo><mi>z</mi><mo>=</mo><mn>−5</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mo>−</mo><mn>3</mn><mi>x</mi><mo>−</mo><mi>y</mi><mo>−</mo><mi>z</mi><mo>=</mo><mn>1</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>2</mn><mi>x</mi><mo>−</mo><mn>2</mn><mi>y</mi><mo>+</mo><mn>3</mn><mi>z</mi><mo>=</mo><mn>1</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mo stretchy=\"false\">(</mo><mn>2</mn><mo>,</mo><mn>−2</mn><mo>,</mo><mn>3</mn><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mo stretchy=\"false\">(</mo><mn>2</mn><mo>,</mo><mn>−2</mn><mo>,</mo><mn>3</mn><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mo stretchy=\"false\">(</mo><mn>−2</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mo stretchy=\"false\">(</mo><mn>−2</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "4.63",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167836621335",
+      "context": [
+        "Solve a System of Linear Equations with Three Variables"
+      ],
+      "text": "Solve the system by elimination: \\({3x+y-z=22x-3y-2z=14x-y-3z=0.\\)",
+      "math": [
+        "{\\begin{matrix}3x+y-z=2\\\\2x-3y-2z=1\\\\4x-y-3z=0\\end{matrix}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mn>3</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>−</mo><mi>z</mi><mo>=</mo><mn>2</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn><mi>y</mi><mo>−</mo><mn>2</mn><mi>z</mi><mo>=</mo><mn>1</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>4</mn><mi>x</mi><mo>−</mo><mi>y</mi><mo>−</mo><mn>3</mn><mi>z</mi><mo>=</mo><mn>0</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mn>3</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>−</mo><mi>z</mi><mo>=</mo><mn>2</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn><mi>y</mi><mo>−</mo><mn>2</mn><mi>z</mi><mo>=</mo><mn>1</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>4</mn><mi>x</mi><mo>−</mo><mi>y</mi><mo>−</mo><mn>3</mn><mi>z</mi><mo>=</mo><mn>0</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "4.64",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167836356451",
+      "context": [
+        "Solve a System of Linear Equations with Three Variables"
+      ],
+      "text": "Solve the system by elimination: \\({4x+y+z=-1-2x-2y+z=22x+3y-z=1.\\)",
+      "math": [
+        "{\\begin{matrix}4x+y+z=-1\\\\-2x-2y+z=2\\\\2x+3y-z=1\\end{matrix}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mn>4</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>+</mo><mi>z</mi><mo>=</mo><mn>−1</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mo>−</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>2</mn><mi>y</mi><mo>+</mo><mi>z</mi><mo>=</mo><mn>2</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>−</mo><mi>z</mi><mo>=</mo><mn>1</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mn>4</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>+</mo><mi>z</mi><mo>=</mo><mn>−1</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mo>−</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>2</mn><mi>y</mi><mo>+</mo><mi>z</mi><mo>=</mo><mn>2</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>−</mo><mi>z</mi><mo>=</mo><mn>1</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "4.65",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167832940114",
+      "context": [
+        "Solve a System of Linear Equations with Three Variables"
+      ],
+      "text": "Solve: \\({3x-4z=-12y+3z=22x+3y=6.\\)",
+      "math": [
+        "{\\begin{matrix}3x-4z=-1\\\\2y+3z=2\\\\2x+3y=6\\end{matrix}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn><mi>z</mi><mo>=</mo><mn>−1</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>2</mn><mi>y</mi><mo>+</mo><mn>3</mn><mi>z</mi><mo>=</mo><mn>2</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>6</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn><mi>z</mi><mo>=</mo><mn>−1</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>2</mn><mi>y</mi><mo>+</mo><mn>3</mn><mi>z</mi><mo>=</mo><mn>2</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>6</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "4.66",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167836627315",
+      "context": [
+        "Solve a System of Linear Equations with Three Variables"
+      ],
+      "text": "Solve: \\({4x-3z=-53y+2z=73x+4y=6.\\)",
+      "math": [
+        "{\\begin{matrix}4x-3z=-5\\\\3y+2z=7\\\\3x+4y=6\\end{matrix}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mn>4</mn><mi>x</mi><mo>−</mo><mn>3</mn><mi>z</mi><mo>=</mo><mn>−5</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>3</mn><mi>y</mi><mo>+</mo><mn>2</mn><mi>z</mi><mo>=</mo><mn>7</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>3</mn><mi>x</mi><mo>+</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>6</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mn>4</mn><mi>x</mi><mo>−</mo><mn>3</mn><mi>z</mi><mo>=</mo><mn>−5</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>3</mn><mi>y</mi><mo>+</mo><mn>2</mn><mi>z</mi><mo>=</mo><mn>7</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>3</mn><mi>x</mi><mo>+</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>6</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "4.67",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167836334898",
+      "context": [
+        "Solve a System of Linear Equations with Three Variables"
+      ],
+      "text": "Solve the system of equations: \\({x+2y+6z=5-x+y-2z=3x-4y-2z=1.\\)",
+      "math": [
+        "{\\begin{matrix}x+2y+6z=5\\\\-x+y-2z=3\\\\x-4y-2z=1\\end{matrix}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>+</mo><mn>6</mn><mi>z</mi><mo>=</mo><mn>5</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mo>−</mo><mi>x</mi><mo>+</mo><mi>y</mi><mo>−</mo><mn>2</mn><mi>z</mi><mo>=</mo><mn>3</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>x</mi><mo>−</mo><mn>4</mn><mi>y</mi><mo>−</mo><mn>2</mn><mi>z</mi><mo>=</mo><mn>1</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>+</mo><mn>6</mn><mi>z</mi><mo>=</mo><mn>5</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mo>−</mo><mi>x</mi><mo>+</mo><mi>y</mi><mo>−</mo><mn>2</mn><mi>z</mi><mo>=</mo><mn>3</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>x</mi><mo>−</mo><mn>4</mn><mi>y</mi><mo>−</mo><mn>2</mn><mi>z</mi><mo>=</mo><mn>1</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "4.68",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167830095268",
+      "context": [
+        "Solve a System of Linear Equations with Three Variables"
+      ],
+      "text": "Solve the system of equations: \\({2x-2y+3z=64x-3y+2z=0-2x+3y-7z=1.\\)",
+      "math": [
+        "{\\begin{matrix}2x-2y+3z=6\\\\4x-3y+2z=0\\\\-2x+3y-7z=1\\end{matrix}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mn>2</mn><mi>x</mi><mo>−</mo><mn>2</mn><mi>y</mi><mo>+</mo><mn>3</mn><mi>z</mi><mo>=</mo><mn>6</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>4</mn><mi>x</mi><mo>−</mo><mn>3</mn><mi>y</mi><mo>+</mo><mn>2</mn><mi>z</mi><mo>=</mo><mn>0</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mo>−</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>−</mo><mn>7</mn><mi>z</mi><mo>=</mo><mn>1</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mn>2</mn><mi>x</mi><mo>−</mo><mn>2</mn><mi>y</mi><mo>+</mo><mn>3</mn><mi>z</mi><mo>=</mo><mn>6</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>4</mn><mi>x</mi><mo>−</mo><mn>3</mn><mi>y</mi><mo>+</mo><mn>2</mn><mi>z</mi><mo>=</mo><mn>0</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mo>−</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>−</mo><mn>7</mn><mi>z</mi><mo>=</mo><mn>1</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "4.69",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167829796752",
+      "context": [
+        "Solve a System of Linear Equations with Three Variables"
+      ],
+      "text": "Solve the system by equations: \\({x+y-z=02x+4y-2z=63x+6y-3z=9.\\)",
+      "math": [
+        "{\\begin{matrix}x+y-z=0\\\\2x+4y-2z=6\\\\3x+6y-3z=9\\end{matrix}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>x</mi><mo>+</mo><mi>y</mi><mo>−</mo><mi>z</mi><mo>=</mo><mn>0</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>2</mn><mi>x</mi><mo>+</mo><mn>4</mn><mi>y</mi><mo>−</mo><mn>2</mn><mi>z</mi><mo>=</mo><mn>6</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>3</mn><mi>x</mi><mo>+</mo><mn>6</mn><mi>y</mi><mo>−</mo><mn>3</mn><mi>z</mi><mo>=</mo><mn>9</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>x</mi><mo>+</mo><mi>y</mi><mo>−</mo><mi>z</mi><mo>=</mo><mn>0</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>2</mn><mi>x</mi><mo>+</mo><mn>4</mn><mi>y</mi><mo>−</mo><mn>2</mn><mi>z</mi><mo>=</mo><mn>6</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>3</mn><mi>x</mi><mo>+</mo><mn>6</mn><mi>y</mi><mo>−</mo><mn>3</mn><mi>z</mi><mo>=</mo><mn>9</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "4.70",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167836530163",
+      "context": [
+        "Solve a System of Linear Equations with Three Variables"
+      ],
+      "text": "Solve the system by equations: \\({x-y-z=1-x+2y-3z=-43x-2y-7z=0.\\)",
+      "math": [
+        "{\\begin{matrix}x-y-z=1\\\\-x+2y-3z=-4\\\\3x-2y-7z=0\\end{matrix}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>x</mi><mo>−</mo><mi>y</mi><mo>−</mo><mi>z</mi><mo>=</mo><mn>1</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mo>−</mo><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>−</mo><mn>3</mn><mi>z</mi><mo>=</mo><mn>−4</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>3</mn><mi>x</mi><mo>−</mo><mn>2</mn><mi>y</mi><mo>−</mo><mn>7</mn><mi>z</mi><mo>=</mo><mn>0</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>x</mi><mo>−</mo><mi>y</mi><mo>−</mo><mi>z</mi><mo>=</mo><mn>1</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mo>−</mo><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>−</mo><mn>3</mn><mi>z</mi><mo>=</mo><mn>−4</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>3</mn><mi>x</mi><mo>−</mo><mn>2</mn><mi>y</mi><mo>−</mo><mn>7</mn><mi>z</mi><mo>=</mo><mn>0</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "4.71",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167829651324",
+      "context": [
+        "Solve Applications using Systems of Linear Equations with Three Variables"
+      ],
+      "text": "The community college fine arts department sold three kinds of tickets to its latest dance presentation. The adult tickets sold for $20, the student tickets for $12 and the child tickets for $10.The fine arts department was thrilled to have sold 350 tickets and brought in $4,650 in one night. The number of child tickets sold is the same as the number of adult tickets sold. How many of each type did the department sell?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "4.72",
+      "page": "4-4-solve-systems-of-equations-with-three-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167836486854",
+      "context": [
+        "Solve Applications using Systems of Linear Equations with Three Variables"
+      ],
+      "text": "The community college soccer team sold three kinds of tickets to its latest game. The adult tickets sold for $10, the student tickets for $8 and the child tickets for $5. The soccer team was thrilled to have sold 600 tickets and brought in $4,900 for one game. The number of adult tickets is twice the number of child tickets. How many of each type did the soccer team sell?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

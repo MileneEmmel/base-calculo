@@ -1,0 +1,1648 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/chapter-4",
+  "title": "Chapter 4",
+  "sha256": "d7021f91a44a428ee1b1290a0742b3f42bd75e486483a77bf88640169784a12b",
+  "questions": [],
+  "practice": [],
+  "answers": {
+    "4.1": {
+      "text": "ⓐ yes ⓑ no",
+      "math": []
+    },
+    "4.2": {
+      "text": "ⓐ no ⓑ yes",
+      "math": []
+    },
+    "4.3": {
+      "text": "\\(( 3 , 2 )\\)",
+      "math": [
+        "( 3 , 2 )"
+      ]
+    },
+    "4.4": {
+      "text": "\\(( 2 , 3 )\\)",
+      "math": [
+        "( 2 , 3 )"
+      ]
+    },
+    "4.5": {
+      "text": "\\(( 3 , 4 )\\)",
+      "math": [
+        "( 3 , 4 )"
+      ]
+    },
+    "4.6": {
+      "text": "\\(( 5 , -4 )\\)",
+      "math": [
+        "( 5 , -4 )"
+      ]
+    },
+    "4.7": {
+      "text": "no solution",
+      "math": []
+    },
+    "4.8": {
+      "text": "no solution",
+      "math": []
+    },
+    "4.9": {
+      "text": "infinitely many solutions",
+      "math": []
+    },
+    "4.10": {
+      "text": "infinitely many solutions",
+      "math": []
+    },
+    "4.11": {
+      "text": "ⓐ no solution, inconsistent, independent ⓑ one solution, consistent, independent",
+      "math": []
+    },
+    "4.12": {
+      "text": "ⓐ no solution, inconsistent, independent ⓑ one solution, consistent, independent",
+      "math": []
+    },
+    "4.13": {
+      "text": "\\(( 6 , 1 )\\)",
+      "math": [
+        "( 6 , 1 )"
+      ]
+    },
+    "4.14": {
+      "text": "\\(( -3 , 5 )\\)",
+      "math": [
+        "( -3 , 5 )"
+      ]
+    },
+    "4.15": {
+      "text": "\\(( 2 , \\frac{3}{2} )\\)",
+      "math": [
+        "( 2 , \\frac{3}{2} )"
+      ]
+    },
+    "4.16": {
+      "text": "\\(( - \\frac{1}{2} , -2 )\\)",
+      "math": [
+        "( - \\frac{1}{2} , -2 )"
+      ]
+    },
+    "4.17": {
+      "text": "\\(( 2 , -1 )\\)",
+      "math": [
+        "( 2 , -1 )"
+      ]
+    },
+    "4.18": {
+      "text": "\\(( -2 , 3 )\\)",
+      "math": [
+        "( -2 , 3 )"
+      ]
+    },
+    "4.19": {
+      "text": "\\(( 1 , 3 )\\)",
+      "math": [
+        "( 1 , 3 )"
+      ]
+    },
+    "4.20": {
+      "text": "\\(( 4 , -3 )\\)",
+      "math": [
+        "( 4 , -3 )"
+      ]
+    },
+    "4.21": {
+      "text": "\\(( 6 , 2 )\\)",
+      "math": [
+        "( 6 , 2 )"
+      ]
+    },
+    "4.22": {
+      "text": "\\(( 1 , -2 )\\)",
+      "math": [
+        "( 1 , -2 )"
+      ]
+    },
+    "4.23": {
+      "text": "infinitely many solutions",
+      "math": []
+    },
+    "4.24": {
+      "text": "infinitely many solutions",
+      "math": []
+    },
+    "4.25": {
+      "text": "ⓐ Since both equations are in standard form, using elimination will be most convenient. ⓑ Since one equation is already solved for x, using substitution will be most convenient.",
+      "math": []
+    },
+    "4.26": {
+      "text": "ⓐ Since one equation is already solved for y, using substitution will be most convenient. ⓑ Since both equations are in standard form, using elimination will be most convenient.",
+      "math": []
+    },
+    "4.27": {
+      "text": "3, 7",
+      "math": []
+    },
+    "4.28": {
+      "text": "2, \\(-8\\)",
+      "math": [
+        "-8"
+      ]
+    },
+    "4.29": {
+      "text": "160 policies",
+      "math": []
+    },
+    "4.30": {
+      "text": "1000 suits",
+      "math": []
+    },
+    "4.31": {
+      "text": "Mark burned 11 calories for each minute of yoga and 7 calories for each minute of jumping jacks.",
+      "math": []
+    },
+    "4.32": {
+      "text": "Erin burned 11 calories for each minute on the rowing machine and 5 calories for each minute of weight lifting.",
+      "math": []
+    },
+    "4.33": {
+      "text": "The angle measures are 55 and 35.",
+      "math": []
+    },
+    "4.34": {
+      "text": "The angle measures are 5 and 85.",
+      "math": []
+    },
+    "4.35": {
+      "text": "The angle measures are 42 and 138.",
+      "math": []
+    },
+    "4.36": {
+      "text": "The angle measures are 66 and 114.",
+      "math": []
+    },
+    "4.37": {
+      "text": "22, 68",
+      "math": []
+    },
+    "4.38": {
+      "text": "36, 54",
+      "math": []
+    },
+    "4.39": {
+      "text": "The length is 60 feet and the width is 35 feet.",
+      "math": []
+    },
+    "4.40": {
+      "text": "The length is 60 feet and the width is 38 feet.",
+      "math": []
+    },
+    "4.41": {
+      "text": "It will take Clark 4 hours to catch Mitchell.",
+      "math": []
+    },
+    "4.42": {
+      "text": "It will take Sally \\(1\\frac{1}{2}\\) hours to catch up to Charlie.",
+      "math": [
+        "1\\frac{1}{2}"
+      ]
+    },
+    "4.43": {
+      "text": "The rate of the boat is 11 mph and the rate of the current is 1 mph.",
+      "math": []
+    },
+    "4.44": {
+      "text": "The speed of the canoe is 7 mph and the speed of the current is 1 mph.",
+      "math": []
+    },
+    "4.45": {
+      "text": "The speed of the jet is 236 mph and the speed of the wind is 29 mph.",
+      "math": []
+    },
+    "4.46": {
+      "text": "The speed of the jet is 408 mph and the speed of the wind is 24 mph.",
+      "math": []
+    },
+    "4.47": {
+      "text": "206 adults, 347 children",
+      "math": []
+    },
+    "4.48": {
+      "text": "42 adults, 105 children",
+      "math": []
+    },
+    "4.49": {
+      "text": "13 dimes and 29 quarters",
+      "math": []
+    },
+    "4.50": {
+      "text": "19 quarters and 51 nickels",
+      "math": []
+    },
+    "4.51": {
+      "text": "3 pounds peanuts and 2 pounds cashews",
+      "math": []
+    },
+    "4.52": {
+      "text": "10 pounds of beans, 10 pounds of ground beef",
+      "math": []
+    },
+    "4.53": {
+      "text": "120 ml of 25% solution and 30 ml of 50% solution",
+      "math": []
+    },
+    "4.54": {
+      "text": "125 ml of 10% solution and 125 ml of 40% solution",
+      "math": []
+    },
+    "4.55": {
+      "text": "$42,000 in the stock fund and $8000 in the savings account",
+      "math": []
+    },
+    "4.56": {
+      "text": "$1750 at 11% and $5250 at 13%",
+      "math": []
+    },
+    "4.57": {
+      "text": "Bank $4,000; Federal $14,000",
+      "math": []
+    },
+    "4.58": {
+      "text": "$41,200 at 4.5%, $24,000 at 7.2%",
+      "math": []
+    },
+    "4.59": {
+      "text": "ⓐ \\(C(x)=15x+25,500\\) ⓑ \\(R(x)=32x\\) ⓒ [FIGURA: Figure shows a graph with two intersecting lines. One of them passes through the origin. The other crosses the y axis at point 25,687.] ⓓ \\(1,500\\); when 1,500 benches are sold, the cost and revenue will be both 48,000",
+      "math": [
+        "C(x)=15x+25,500",
+        "R(x)=32x",
+        "1,500"
+      ]
+    },
+    "4.60": {
+      "text": "ⓐ \\(C(x)=120x+150,000\\) ⓑ \\(R(x)=170x\\) ⓒ [FIGURA: Figure shows a graph with two intersecting lines. One of them passes through the origin.] ⓓ \\(3,000\\); when 3,000 benches are sold, the revenue and costs are both $510,000",
+      "math": [
+        "C(x)=120x+150,000",
+        "R(x)=170x",
+        "3,000"
+      ]
+    },
+    "4.61": {
+      "text": "ⓐ yes ⓑ no",
+      "math": []
+    },
+    "4.62": {
+      "text": "ⓐ no ⓑ yes",
+      "math": []
+    },
+    "4.63": {
+      "text": "\\(( 2 , -1 , 3 )\\)",
+      "math": [
+        "( 2 , -1 , 3 )"
+      ]
+    },
+    "4.64": {
+      "text": "\\(( -2 , 3 , 4 )\\)",
+      "math": [
+        "( -2 , 3 , 4 )"
+      ]
+    },
+    "4.65": {
+      "text": "\\(( -3 , 4 , -2 )\\)",
+      "math": [
+        "( -3 , 4 , -2 )"
+      ]
+    },
+    "4.66": {
+      "text": "\\(( -2 , 3 , -1 )\\)",
+      "math": [
+        "( -2 , 3 , -1 )"
+      ]
+    },
+    "4.67": {
+      "text": "no solution",
+      "math": []
+    },
+    "4.68": {
+      "text": "no solution",
+      "math": []
+    },
+    "4.69": {
+      "text": "infinitely many solutions\\((x,3,z)\\) where \\(x=z-3;y=3;z\\) is any real number",
+      "math": [
+        "(x,3,z)",
+        "x=z-3;y=3;z"
+      ]
+    },
+    "4.70": {
+      "text": "infinitely many solutions \\((x,y,z)\\) where\\(x=5z-2;y=4z-3;z\\) is any real number",
+      "math": [
+        "(x,y,z)",
+        "x=5z-2;y=4z-3;z"
+      ]
+    },
+    "4.71": {
+      "text": "The fine arts department sold 75 adult tickets, 200 student tickets, and 75 child tickets.",
+      "math": []
+    },
+    "4.72": {
+      "text": "The soccer team sold 200 adult tickets, 300 student tickets, and 100 child tickets.",
+      "math": []
+    },
+    "4.73": {
+      "text": "ⓐ \\([38-325-3]\\)ⓑ \\([2-5383-147132-3]\\)",
+      "math": [
+        "[\\begin{matrix}3 & & & 8 & & & -3\\\\2 & & & 5 & & & -3\\end{matrix}]",
+        "[\\begin{matrix}2 & & & -5 & & & 3 & & & 8\\\\3 & & & -1 & & & 4 & & & 7\\\\1 & & & 3 & & & 2 & & & -3\\end{matrix}]"
+      ]
+    },
+    "4.74": {
+      "text": "ⓐ \\([119-575-1]\\)ⓑ \\([5-32-52-1-143-22-7]\\)",
+      "math": [
+        "[\\begin{matrix}11 & & & 9 & & & -5\\\\7 & & & 5 & & & -1\\end{matrix}]",
+        "[\\begin{matrix}5 & & & -3 & & & 2 & & & -5\\\\2 & & & -1 & & & -1 & & & 4\\\\3 & & & -2 & & & 2 & & & -7\\end{matrix}]"
+      ]
+    },
+    "4.75": {
+      "text": "\\({ x - y + 2 z = 3 2 x + y - 2 z = 1 4 x - y + 2 z = 0\\)",
+      "math": [
+        "{ \\begin{matrix} x - y + 2 z = 3 \\\\ 2 x + y - 2 z = 1 \\\\ 4 x - y + 2 z = 0 \\end{matrix}"
+      ]
+    },
+    "4.76": {
+      "text": "\\({ x + y + z = 4 2 x + 3 y - z = 8 x + y - z = 3\\)",
+      "math": [
+        "{ \\begin{matrix} x + y + z = 4 \\\\ 2 x + 3 y - z = 8 \\\\ x + y - z = 3 \\end{matrix}"
+      ]
+    },
+    "4.77": {
+      "text": "ⓐ \\([-230-14-1-445-2-2-2]\\) ⓑ \\([-23004-1-4415-6-6-6]\\) ⓒ \\([-230-134-13-16-815-6-6-6]\\)",
+      "math": [
+        "[\\begin{matrix}-2 & & & 3 & & & 0 & & & -1\\\\4 & & & -1 & & & -4 & & & 4\\\\5 & & & -2 & & & -2 & & & -2\\end{matrix}]",
+        "[\\begin{matrix}-2 & & & 3 & & & 0 & & & 0\\\\4 & & & -1 & & & -4 & & & 4\\\\15 & & & -6 & & & -6 & & & -6\\end{matrix}]",
+        "[\\begin{matrix}-2 & & & 3 & & & 0 & & & -1 & & & \\\\34 & & & -13 & & & -16 & & & -8\\\\15 & & & -6 & & & -6 & & & -6 & & & \\end{matrix}]"
+      ]
+    },
+    "4.78": {
+      "text": "ⓐ \\([41-322-3-2-4504-1]\\)ⓑ \\([82-642-3-2-4504-1]\\)ⓒ \\([14-7-12-82-3-2-4504-1]\\)",
+      "math": [
+        "[\\begin{matrix}4 & & & 1 & & & -3 & & & 2\\\\2 & & & -3 & & & -2 & & & -4\\\\5 & & & 0 & & & 4 & & & -1\\end{matrix}]",
+        "[\\begin{matrix}8 & & & 2 & & & -6 & & & 4\\\\2 & & & -3 & & & -2 & & & -4\\\\5 & & & 0 & & & 4 & & & -1\\end{matrix}]",
+        "[\\begin{matrix}14 & & & -7 & & & -12 & & & -8\\\\2 & & & -3 & & & -2 & & & -4\\\\5 & & & 0 & & & 4 & & & -1\\end{matrix}]"
+      ]
+    },
+    "4.79": {
+      "text": "\\([ 1 -1 2 0 -3 -4 ]\\)",
+      "math": [
+        "[ \\begin{matrix} 1 & & & -1 & & & 2 \\\\ 0 & & & -3 & & & -4 \\end{matrix} ]"
+      ]
+    },
+    "4.80": {
+      "text": "\\([ 1 -1 3 0 -5 8 ]\\)",
+      "math": [
+        "[ \\begin{matrix} 1 & & & -1 & & & 3 \\\\ 0 & & & -5 & & & 8 \\end{matrix} ]"
+      ]
+    },
+    "4.81": {
+      "text": "The solution is \\((4,-1).\\)",
+      "math": [
+        "(4,-1)."
+      ]
+    },
+    "4.82": {
+      "text": "The solution is \\((-2,0).\\)",
+      "math": [
+        "(-2,0)."
+      ]
+    },
+    "4.83": {
+      "text": "\\(( 6 , -1 , -3 )\\)",
+      "math": [
+        "( 6 , -1 , -3 )"
+      ]
+    },
+    "4.84": {
+      "text": "\\(( 5 , 7 , 4 )\\)",
+      "math": [
+        "( 5 , 7 , 4 )"
+      ]
+    },
+    "4.85": {
+      "text": "no solution",
+      "math": []
+    },
+    "4.86": {
+      "text": "no solution",
+      "math": []
+    },
+    "4.87": {
+      "text": "infinitely many solutions \\((x,y,z),\\) where \\(x=z-3;y=3;z\\) is any real number.",
+      "math": [
+        "(x,y,z),",
+        "x=z-3;y=3;z"
+      ]
+    },
+    "4.88": {
+      "text": "infinitely many solutions \\((x,y,z),\\) where \\(x=5z-2;y=4z-3;z\\) is any real number.",
+      "math": [
+        "(x,y,z),",
+        "x=5z-2;y=4z-3;z"
+      ]
+    },
+    "4.89": {
+      "text": "ⓐ \\(-14;\\) ⓑ \\(-28\\)",
+      "math": [
+        "-14;",
+        "-28"
+      ]
+    },
+    "4.90": {
+      "text": "ⓐ 2 ⓑ \\(-15\\)",
+      "math": [
+        "-15"
+      ]
+    },
+    "4.91": {
+      "text": "ⓐ 3 ⓑ 11 ⓒ 2",
+      "math": []
+    },
+    "4.92": {
+      "text": "ⓐ \\(-3\\) ⓑ 2 ⓒ 3",
+      "math": [
+        "-3"
+      ]
+    },
+    "4.93": {
+      "text": "37",
+      "math": []
+    },
+    "4.94": {
+      "text": "7",
+      "math": []
+    },
+    "4.95": {
+      "text": "\\(-11\\)",
+      "math": [
+        "-11"
+      ]
+    },
+    "4.96": {
+      "text": "\\(-12\\)",
+      "math": [
+        "-12"
+      ]
+    },
+    "4.97": {
+      "text": "\\(( - \\frac{ 15 }{7} , \\frac{ 24 }{7} )\\)",
+      "math": [
+        "( - \\frac{ 15 }{7} , \\frac{ 24 }{7} )"
+      ]
+    },
+    "4.98": {
+      "text": "\\(( -2 , 0 )\\)",
+      "math": [
+        "( -2 , 0 )"
+      ]
+    },
+    "4.99": {
+      "text": "\\(( -9 , 3 , -1 )\\)",
+      "math": [
+        "( -9 , 3 , -1 )"
+      ]
+    },
+    "4.100": {
+      "text": "\\(( -6 , 3 , -2 )\\)",
+      "math": [
+        "( -6 , 3 , -2 )"
+      ]
+    },
+    "4.101": {
+      "text": "no solution",
+      "math": []
+    },
+    "4.102": {
+      "text": "infinite solutions",
+      "math": []
+    },
+    "4.103": {
+      "text": "yes",
+      "math": []
+    },
+    "4.104": {
+      "text": "yes",
+      "math": []
+    },
+    "4.105": {
+      "text": "ⓐ no ⓑ yes",
+      "math": []
+    },
+    "4.106": {
+      "text": "ⓐ yes ⓑ no",
+      "math": []
+    },
+    "4.107": {
+      "text": "[FIGURA: The figure shows a graph plotted for the inequalities y less than three times x plus two and y greater than minus x minus one. Two lines intersect each other on the graph. An area to the right of both the lines is colored in grey. It is the solution.] The solution is the grey region.",
+      "math": []
+    },
+    "4.108": {
+      "text": "[FIGURA: The figure shows the graph plotted for the inequalities y less than minus half of x plus three and y less than three times x minus four. Two intersecting lines are shown on the graph. The area bound by the two lines to the bottom right is shown in grey. It is the solution.] The solution is the grey region.",
+      "math": []
+    },
+    "4.109": {
+      "text": "[FIGURA: The figure shows the graph for the inequalities x plus y less than or equal to two and y greater than or equal to two by three of x minus one. Two intersecting lines are shown and the region bound by both the lines is the marked in grey. It is the solution.] The solution is the grey region.",
+      "math": []
+    },
+    "4.110": {
+      "text": "[FIGURA: The figure shows graph for the inequalities three times x minus two times y less than or equal to six and y greater than or equal to minus one by four of x plus five. Two intersecting lines are shown and the region bound by both the lines is the marked in grey. It is the solution.] The solution is the grey region.",
+      "math": []
+    },
+    "4.111": {
+      "text": "[FIGURA: The figure shows graph for the inequalities y greater than or equal to three times x minus two and y less than minus one. Two intersecting lines are shown and the region bound by both the lines is the marked in grey. It is the solution] The solution is the grey region.",
+      "math": []
+    },
+    "4.112": {
+      "text": "[FIGURA: The figure shows graph for the inequalities x greater than or equal to minus four and x minus two times y greater than minus four. Two intersecting lines are shown and the region bound by both the lines is the marked in grey. It is the solution.] The solution is the grey region.",
+      "math": []
+    },
+    "4.113": {
+      "text": "[FIGURA: The graph of three times x minus two times y greater than or equal to twelve and y greater than or equal to three by two of x plus one is shown. Two intersecting lines are shown. The inequalities do not have a solution.] No solution.",
+      "math": []
+    },
+    "4.114": {
+      "text": "[FIGURA: The graph of x plus three times y greater than eight and y less than minus one by three of x minus two is shown. Two intersecting lines are shown. The inequalities do not have a solution.] No solution.",
+      "math": []
+    },
+    "4.115": {
+      "text": "[FIGURA: The figure shows the graph of the inequalities y greater than or equal to three times x plus one and minus three times x plus y greater than or equal to minus four. Two parallel lines are shown and the region to the left of both is colored in grey. It is the solution.] The solution is the grey region.",
+      "math": []
+    },
+    "4.116": {
+      "text": "[FIGURA: The figure shows the graph of the inequalities y less than or equal to minus one fourth of x plus 2 and x plus four times y less than or equal to four. Two parallel lines are shown and the region to the bottom of both is colored in grey. It is the solution.] The solution is the grey region.",
+      "math": []
+    },
+    "4.117": {
+      "text": "ⓐ \\({30m+20p≤1602m+3p≤15\\) ⓑ [FIGURA: The graph of two intersecting lines, one red and one blue, is shown. The area bound by the two lines is shown in grey.] ⓒ yes ⓓ no",
+      "math": [
+        "{\\begin{matrix}30m+20p\\le 160\\\\2m+3p\\le 15\\end{matrix}"
+      ]
+    },
+    "4.118": {
+      "text": "ⓐ \\({a≥p+5a+2p≤400\\) ⓑ [FIGURA: The graph of two intersecting lines, one red and one blue, is shown. The area bound by the two lines is shown in grey.] ⓒ no ⓓ no",
+      "math": [
+        "{\\begin{matrix}a\\ge p+5\\\\a+2p\\le 400\\end{matrix}"
+      ]
+    },
+    "4.119": {
+      "text": "ⓐ \\({0.75d+2e≤25360d+110e≥1000\\) ⓑ [FIGURA: The graph of two intersecting lines, one red and one blue, is shown. The area bound by the two lines is shown in grey.] ⓒ yes ⓓ no",
+      "math": [
+        "{\\begin{matrix}0.75d+2e\\le 25\\\\360d+110e\\ge 1000\\end{matrix}"
+      ]
+    },
+    "4.120": {
+      "text": "ⓐ \\({140p+125j≥10001.80p+1.25j≤12\\) ⓑ [FIGURA: The graph of two intersecting lines, one red and one blue, is shown. The area bound by the two lines is shown in grey.] ⓒ yes ⓓ no",
+      "math": [
+        "{\\begin{matrix}140p+125j\\ge 1000\\\\1.80p+1.25j\\le 12\\end{matrix}"
+      ]
+    },
+    "1": {
+      "text": "ⓐ yes ⓑ no",
+      "math": []
+    },
+    "3": {
+      "text": "ⓐ yes ⓑ no",
+      "math": []
+    },
+    "5": {
+      "text": "\\(( -2 , 3 )\\)",
+      "math": [
+        "( -2 , 3 )"
+      ]
+    },
+    "7": {
+      "text": "\\(( 0 , 2 )\\)",
+      "math": [
+        "( 0 , 2 )"
+      ]
+    },
+    "9": {
+      "text": "\\(( 2 , 4 )\\)",
+      "math": [
+        "( 2 , 4 )"
+      ]
+    },
+    "11": {
+      "text": "\\(( -2 , -2 )\\)",
+      "math": [
+        "( -2 , -2 )"
+      ]
+    },
+    "13": {
+      "text": "\\(( 3 , 3 )\\)",
+      "math": [
+        "( 3 , 3 )"
+      ]
+    },
+    "15": {
+      "text": "\\(( 6 , -4 )\\)",
+      "math": [
+        "( 6 , -4 )"
+      ]
+    },
+    "17": {
+      "text": "no solution",
+      "math": []
+    },
+    "19": {
+      "text": "no solution",
+      "math": []
+    },
+    "21": {
+      "text": "infinite solutions",
+      "math": []
+    },
+    "23": {
+      "text": "infinite solutions",
+      "math": []
+    },
+    "25": {
+      "text": "No solution, Inconsistent, Independent",
+      "math": []
+    },
+    "27": {
+      "text": "1 point, consistent and independent",
+      "math": []
+    },
+    "29": {
+      "text": "infinite solutions, consistent, dependent",
+      "math": []
+    },
+    "31": {
+      "text": "\\(( 1 , -4 )\\)",
+      "math": [
+        "( 1 , -4 )"
+      ]
+    },
+    "33": {
+      "text": "\\(( -3 , 2 )\\)",
+      "math": [
+        "( -3 , 2 )"
+      ]
+    },
+    "35": {
+      "text": "\\(( - \\frac{1}{2} , \\frac{5}{2} )\\)",
+      "math": [
+        "( - \\frac{1}{2} , \\frac{5}{2} )"
+      ]
+    },
+    "37": {
+      "text": "\\(( -5 , 4 )\\)",
+      "math": [
+        "( -5 , 4 )"
+      ]
+    },
+    "39": {
+      "text": "\\(( 0 , 10 )\\)",
+      "math": [
+        "( 0 , 10 )"
+      ]
+    },
+    "41": {
+      "text": "\\(( 4 , -2 )\\)",
+      "math": [
+        "( 4 , -2 )"
+      ]
+    },
+    "43": {
+      "text": "\\(( 4 , 0 )\\)",
+      "math": [
+        "( 4 , 0 )"
+      ]
+    },
+    "45": {
+      "text": "no solution",
+      "math": []
+    },
+    "47": {
+      "text": "\\(( 4 , 5 )\\)",
+      "math": [
+        "( 4 , 5 )"
+      ]
+    },
+    "49": {
+      "text": "\\(( 7 , 12 )\\)",
+      "math": [
+        "( 7 , 12 )"
+      ]
+    },
+    "51": {
+      "text": "\\(( -3 , -5 )\\)",
+      "math": [
+        "( -3 , -5 )"
+      ]
+    },
+    "53": {
+      "text": "\\(( 2 , -3 )\\)",
+      "math": [
+        "( 2 , -3 )"
+      ]
+    },
+    "55": {
+      "text": "\\(( -11 , 2 )\\)",
+      "math": [
+        "( -11 , 2 )"
+      ]
+    },
+    "57": {
+      "text": "\\(( 6 , - 9 )\\)",
+      "math": [
+        "( 6 , - 9 )"
+      ]
+    },
+    "59": {
+      "text": "\\(( -3 , 2 )\\)",
+      "math": [
+        "( -3 , 2 )"
+      ]
+    },
+    "61": {
+      "text": "infinitely many",
+      "math": []
+    },
+    "63": {
+      "text": "infinitely many",
+      "math": []
+    },
+    "65": {
+      "text": "ⓐ substitution ⓑ elimination",
+      "math": []
+    },
+    "67": {
+      "text": "ⓐ elimination ⓑ substituion",
+      "math": []
+    },
+    "69": {
+      "text": "Answers will vary.",
+      "math": []
+    },
+    "71": {
+      "text": "Answers will vary.",
+      "math": []
+    },
+    "73": {
+      "text": "13 and 17",
+      "math": []
+    },
+    "75": {
+      "text": "\\(-7\\) and \\(-19\\)",
+      "math": [
+        "-7",
+        "-19"
+      ]
+    },
+    "77": {
+      "text": "14 and 23",
+      "math": []
+    },
+    "79": {
+      "text": "22 and \\(-67\\)",
+      "math": [
+        "-67"
+      ]
+    },
+    "81": {
+      "text": "Eighty cable packages would need to be sold to make the total pay the same.",
+      "math": []
+    },
+    "83": {
+      "text": "Mitchell would need to sell 120 stoves for the companies to be equal.",
+      "math": []
+    },
+    "85": {
+      "text": "8 and 40 gallons",
+      "math": []
+    },
+    "87": {
+      "text": "1000 calories playing basketball and 400 calories canoeing",
+      "math": []
+    },
+    "89": {
+      "text": "Oranges cost $2 per pound and bananas cost $1 per pound",
+      "math": []
+    },
+    "91": {
+      "text": "Package of paper $4, stapler $7",
+      "math": []
+    },
+    "93": {
+      "text": "Hot dog 150 calories, cup of cottage cheese 220 calories",
+      "math": []
+    },
+    "95": {
+      "text": "Owen will need 80 quarts of water and 20 quarts of concentrate to make 100 quarts of lemonade.",
+      "math": []
+    },
+    "97": {
+      "text": "\\(53.5\\) degrees and \\(36.5\\) degrees",
+      "math": [
+        "53.5",
+        "36.5"
+      ]
+    },
+    "99": {
+      "text": "16 degrees and 74 degrees",
+      "math": []
+    },
+    "101": {
+      "text": "134 degrees and 46 degrees",
+      "math": []
+    },
+    "103": {
+      "text": "37 degrees and 143 degrees",
+      "math": []
+    },
+    "105": {
+      "text": "16 degrees and 74 degrees",
+      "math": []
+    },
+    "107": {
+      "text": "45 degrees and 45 degrees",
+      "math": []
+    },
+    "109": {
+      "text": "Width is 41 feet and length is 118 feet.",
+      "math": []
+    },
+    "111": {
+      "text": "Width is 10 feet and length is 40 feet.",
+      "math": []
+    },
+    "113": {
+      "text": "12 hours",
+      "math": []
+    },
+    "115": {
+      "text": "1.83 hour",
+      "math": []
+    },
+    "117": {
+      "text": "Boat rate is 16 mph and current rate is 4 mph.",
+      "math": []
+    },
+    "119": {
+      "text": "Boat rate is 18 mph and current rate is 2 mph.",
+      "math": []
+    },
+    "121": {
+      "text": "Jet rate is 265 mph and wind speed is 22 mph.",
+      "math": []
+    },
+    "123": {
+      "text": "Jet rate is 415 mph and wind speed is 25 mph.",
+      "math": []
+    },
+    "125": {
+      "text": "Answers will vary.",
+      "math": []
+    },
+    "127": {
+      "text": "110 adult tickets, 190 child tickets",
+      "math": []
+    },
+    "129": {
+      "text": "6 good seats, 10 cheap seats",
+      "math": []
+    },
+    "131": {
+      "text": "92 adult tickets, 220 children tickets",
+      "math": []
+    },
+    "133": {
+      "text": "13 nickels, 3 dimes",
+      "math": []
+    },
+    "135": {
+      "text": "42 dimes, 8 quarters",
+      "math": []
+    },
+    "137": {
+      "text": "17 $10 bills, 37 $20 bills",
+      "math": []
+    },
+    "139": {
+      "text": "80 pounds nuts and 40 pounds raisins",
+      "math": []
+    },
+    "141": {
+      "text": "9 pounds of Chicory coffee, 3 pounds of Jamaican Blue Mountain coffee",
+      "math": []
+    },
+    "143": {
+      "text": "10 bags of M&M’s, 15 bags of Reese’s Pieces",
+      "math": []
+    },
+    "145": {
+      "text": "\\(7.5\\) liters of each solution",
+      "math": [
+        "7.5"
+      ]
+    },
+    "147": {
+      "text": "80 liters of the 25% solution and 40 liters of the 10% solution",
+      "math": []
+    },
+    "149": {
+      "text": "240 liters of the 90% solution and 120 liters of the 75% solution",
+      "math": []
+    },
+    "151": {
+      "text": "$1600 at 8%, 960 at 6%",
+      "math": []
+    },
+    "153": {
+      "text": "$28,000 at 9%, $36,000 at \\(5.5%\\)",
+      "math": [
+        "5.5%"
+      ]
+    },
+    "155": {
+      "text": "$8500 CD, $1500 savings account",
+      "math": []
+    },
+    "157": {
+      "text": "$55,000 on loan at 6% and $30,000 on loan at \\(4.5%\\)",
+      "math": [
+        "4.5%"
+      ]
+    },
+    "159": {
+      "text": "ⓐ \\(C(x)=5x+6500\\) ⓑ \\(R(x)=10x\\) ⓒ [FIGURA: Figure shows a graph with two intersecting lines. One of them passes through the origin. The other crosses the y axis at point 6560.] ⓓ 1,300; when 1,300 water bottles are sold, the cost and the revenue equal $13,000",
+      "math": [
+        "C(x)=5x+6500",
+        "R(x)=10x"
+      ]
+    },
+    "161": {
+      "text": "Answers will vary.",
+      "math": []
+    },
+    "163": {
+      "text": "ⓐ no ⓑ yes",
+      "math": []
+    },
+    "165": {
+      "text": "ⓐ no ⓑ no",
+      "math": []
+    },
+    "167": {
+      "text": "\\(( 4 , 5 , 2 )\\)",
+      "math": [
+        "( 4 , 5 , 2 )"
+      ]
+    },
+    "169": {
+      "text": "\\(( 7 , 12 , -2 )\\)",
+      "math": [
+        "( 7 , 12 , -2 )"
+      ]
+    },
+    "171": {
+      "text": "\\(( -3 , -5 , 4 )\\)",
+      "math": [
+        "( -3 , -5 , 4 )"
+      ]
+    },
+    "173": {
+      "text": "\\(( 2 , -3 , -2 )\\)",
+      "math": [
+        "( 2 , -3 , -2 )"
+      ]
+    },
+    "175": {
+      "text": "\\(( 6 , -9 , -3 )\\)",
+      "math": [
+        "( 6 , -9 , -3 )"
+      ]
+    },
+    "177": {
+      "text": "\\(( 3 , -4 , -2 )\\)",
+      "math": [
+        "( 3 , -4 , -2 )"
+      ]
+    },
+    "179": {
+      "text": "\\(( -3 , 2 , 3 )\\)",
+      "math": [
+        "( -3 , 2 , 3 )"
+      ]
+    },
+    "181": {
+      "text": "\\(( -2 , 0 , -3 )\\)",
+      "math": [
+        "( -2 , 0 , -3 )"
+      ]
+    },
+    "183": {
+      "text": "no solution",
+      "math": []
+    },
+    "185": {
+      "text": "\\(x=\\frac{203}{16};y=\\frac{–25}{16};z=\\frac{–231}{16};\\)",
+      "math": [
+        "x=\\frac{203}{16};y=\\frac{–25}{16};z=\\frac{–231}{16};"
+      ]
+    },
+    "187": {
+      "text": "\\((x,y,z)\\) where \\(x=5z+2;y=-3z+1;z\\) is any real number",
+      "math": [
+        "(x,y,z)",
+        "x=5z+2;y=-3z+1;z"
+      ]
+    },
+    "189": {
+      "text": "\\((x,y,z)\\) where \\(x=5z-2;y=4z-3;z\\) is any real number",
+      "math": [
+        "(x,y,z)",
+        "x=5z-2;y=4z-3;z"
+      ]
+    },
+    "191": {
+      "text": "45 degrees, 60 degrees, 75 degrees",
+      "math": []
+    },
+    "193": {
+      "text": "$20, $5, $10",
+      "math": []
+    },
+    "195": {
+      "text": "Answers will vary.",
+      "math": []
+    },
+    "197": {
+      "text": "ⓐ \\([24-53-22]\\)ⓑ \\([3-2-1-2-2105541-1]\\)",
+      "math": [
+        "[\\begin{matrix}2 & & & 4 & & & -5\\\\3 & & & -2 & & & 2\\end{matrix}]",
+        "[\\begin{matrix}3 & & & -2 & & & -1 & & & -2\\\\-2 & & & 1 & & & 0 & & & 5\\\\5 & & & 4 & & & 1 & & & -1\\end{matrix}]"
+      ]
+    },
+    "199": {
+      "text": "ⓐ \\([2-5-34-3-1]\\)ⓑ \\([43-2-3-21-34-1-45-2]\\)",
+      "math": [
+        "[\\begin{matrix}2 & & & -5 & & & -3\\\\4 & & & -3 & & & -1\\end{matrix}]",
+        "[\\begin{matrix}4 & & & 3 & & & -2 & & & -3\\\\-2 & & & 1 & & & -3 & & & 4\\\\-1 & & & -4 & & & 5 & & & -2\\end{matrix}]"
+      ]
+    },
+    "201": {
+      "text": "\\({ 2 x - 4 y = -2 3 x - 3 y = -1\\)",
+      "math": [
+        "{ \\begin{matrix} 2 x - 4 y = -2 \\\\ 3 x - 3 y = -1 \\end{matrix}"
+      ]
+    },
+    "203": {
+      "text": "\\({ 2 x - 2 y = -1 2 y - z = 2 3 x - z = -2\\)",
+      "math": [
+        "{ \\begin{matrix} 2 x - 2 y = -1 \\\\ 2 y - z = 2 \\\\ 3 x - z = -2 \\end{matrix}"
+      ]
+    },
+    "205": {
+      "text": "ⓐ \\([3214-6-3]\\)ⓑ \\([12844-6-3]\\)ⓒ \\([128424-10-5]\\)",
+      "math": [
+        "[\\begin{matrix}3 & & & 2 & & & 1\\\\4 & & & -6 & & & -3\\end{matrix}]",
+        "[\\begin{matrix}12 & & & 8 & & & 4\\\\4 & & & -6 & & & -3\\end{matrix}]",
+        "[\\begin{matrix}12 & & & 8 & & & 4\\\\24 & & & -10 & & & -5\\end{matrix}]"
+      ]
+    },
+    "207": {
+      "text": "ⓐ \\(6-5233-31-121-45\\)ⓑ \\(6-52315-155-521-45\\)ⓒ \\(2-710-715-155-521-45\\)",
+      "math": [
+        "\\begin{matrix}6 & -5 & 2 & 3\\\\3 & -3 & 1 & -1\\\\2 & 1 & -4 & 5\\end{matrix}",
+        "\\begin{matrix}6 & -5 & 2 & 3\\\\15 & -15 & 5 & -5\\\\2 & 1 & -4 & 5\\end{matrix}",
+        "\\begin{matrix}2 & -7 & 10 & -7\\\\15 & -15 & 5 & -5\\\\2 & 1 & -4 & 5\\end{matrix}"
+      ]
+    },
+    "209": {
+      "text": "\\([ 1 -2 3 -4 0 5 -11 17 0 1 -10 7 ]\\)",
+      "math": [
+        "[ \\begin{matrix} 1 & & & -2 & & & 3 & & & -4 \\\\ 0 & & & 5 & & & -11 & & & 17 \\\\ 0 & & & 1 & & & -10 & & & 7 \\end{matrix} ]"
+      ]
+    },
+    "211": {
+      "text": "\\(( 1 , -1 )\\)",
+      "math": [
+        "( 1 , -1 )"
+      ]
+    },
+    "213": {
+      "text": "\\(( 3 , 3 )\\)",
+      "math": [
+        "( 3 , 3 )"
+      ]
+    },
+    "215": {
+      "text": "\\(( -2 , 5 , 2 )\\)",
+      "math": [
+        "( -2 , 5 , 2 )"
+      ]
+    },
+    "217": {
+      "text": "\\(( -3 , -5 , 4 )\\)",
+      "math": [
+        "( -3 , -5 , 4 )"
+      ]
+    },
+    "219": {
+      "text": "\\(( -3 , 2 , 3 )\\)",
+      "math": [
+        "( -3 , 2 , 3 )"
+      ]
+    },
+    "221": {
+      "text": "\\(( -2 , 0 , -3 )\\)",
+      "math": [
+        "( -2 , 0 , -3 )"
+      ]
+    },
+    "223": {
+      "text": "no solution",
+      "math": []
+    },
+    "225": {
+      "text": "no solution",
+      "math": []
+    },
+    "227": {
+      "text": "\\(\\frac{8}{5} , - \\frac{42}{5} , - \\frac{24}{5}\\)",
+      "math": [
+        "\\frac{8}{5} , - \\frac{42}{5} , - \\frac{24}{5}"
+      ]
+    },
+    "229": {
+      "text": "infinitely many solutions \\((x,y,z)\\) where \\(x=5z+2;y=-3z+1;z\\) is any real number",
+      "math": [
+        "(x,y,z)",
+        "x=5z+2;y=-3z+1;z"
+      ]
+    },
+    "231": {
+      "text": "Answers will vary.",
+      "math": []
+    },
+    "233": {
+      "text": "4",
+      "math": []
+    },
+    "235": {
+      "text": "10",
+      "math": []
+    },
+    "237": {
+      "text": "ⓐ 6 ⓑ \\(-14\\) ⓒ \\(-6\\)",
+      "math": [
+        "-14",
+        "-6"
+      ]
+    },
+    "239": {
+      "text": "ⓐ 9 ⓑ \\(-3\\) ⓒ 8",
+      "math": [
+        "-3"
+      ]
+    },
+    "241": {
+      "text": "\\(-77\\)",
+      "math": [
+        "-77"
+      ]
+    },
+    "243": {
+      "text": "49",
+      "math": []
+    },
+    "245": {
+      "text": "\\(-24\\)",
+      "math": [
+        "-24"
+      ]
+    },
+    "247": {
+      "text": "25",
+      "math": []
+    },
+    "249": {
+      "text": "\\(( 7 , 6 )\\)",
+      "math": [
+        "( 7 , 6 )"
+      ]
+    },
+    "251": {
+      "text": "\\(( -2 , 0 )\\)",
+      "math": [
+        "( -2 , 0 )"
+      ]
+    },
+    "253": {
+      "text": "\\(( -3 , 2 )\\)",
+      "math": [
+        "( -3 , 2 )"
+      ]
+    },
+    "255": {
+      "text": "\\(( -9 , 3 )\\)",
+      "math": [
+        "( -9 , 3 )"
+      ]
+    },
+    "257": {
+      "text": "\\(( -3 , -5 , 4 )\\)",
+      "math": [
+        "( -3 , -5 , 4 )"
+      ]
+    },
+    "259": {
+      "text": "\\(( 2 , -3 , -2 )\\)",
+      "math": [
+        "( 2 , -3 , -2 )"
+      ]
+    },
+    "261": {
+      "text": "\\(( -3 , 2 , 3 )\\)",
+      "math": [
+        "( -3 , 2 , 3 )"
+      ]
+    },
+    "263": {
+      "text": "\\(( -2 , 0 , -3 )\\)",
+      "math": [
+        "( -2 , 0 , -3 )"
+      ]
+    },
+    "265": {
+      "text": "infinitely many solutions",
+      "math": []
+    },
+    "267": {
+      "text": "inconsistent",
+      "math": []
+    },
+    "269": {
+      "text": "inconsistent",
+      "math": []
+    },
+    "271": {
+      "text": "infinitely many solutions",
+      "math": []
+    },
+    "273": {
+      "text": "yes",
+      "math": []
+    },
+    "275": {
+      "text": "yes",
+      "math": []
+    },
+    "277": {
+      "text": "Answers will vary.",
+      "math": []
+    },
+    "279": {
+      "text": "Answers will vary.",
+      "math": []
+    },
+    "281": {
+      "text": "ⓐ false ⓑ true",
+      "math": []
+    },
+    "283": {
+      "text": "ⓐ false ⓑ true",
+      "math": []
+    },
+    "285": {
+      "text": "ⓐ false ⓑ true",
+      "math": []
+    },
+    "287": {
+      "text": "[FIGURA: The figure shows the graph of inequalities y less than minus two times x plus two and y greater than or equal to minus x minus one. Two intersecting lines are shown, one in red and the other in blue. The area bound by the two lines is shown in grey.] The solution is the grey region.",
+      "math": []
+    },
+    "289": {
+      "text": "[FIGURA: The figure shows the graph of the inequalities y greater than or equal to minus two by three x plus two and y greater than two times x minus three. Two intersecting lines, one in red and the other in blue, are shown. The region bound by them is shown in grey.] The solution is the grey region.",
+      "math": []
+    },
+    "291": {
+      "text": "[FIGURA: The figure shows the graph of the inequalities x minus two times y less than four and y less than x minus two. Two intersecting lines, one in blue and the other in red, are shown. The area bound by the lines is shown in grey.] The solution is the grey region.",
+      "math": []
+    },
+    "293": {
+      "text": "[FIGURA: The figure shows the graph of the inequalities two times x plus four times y greater than or equal to eight and y less than or equal to minus three fourth of x. Two intersecting lines, one in blue and the other in red, are shown. The area bound by the lines is shown in grey. It is the solution.] The solution is the grey region.",
+      "math": []
+    },
+    "295": {
+      "text": "[FIGURA: The figure shows the graph of the inequalities three times x minus two times y less than or equal to six and minus four times x minus two times y greater than eight. Two intersecting lines, one in blue and the other in red, are shown. The area bound by the lines is shown in grey. It is the solution.] The solution is the grey region.",
+      "math": []
+    },
+    "297": {
+      "text": "[FIGURA: The figure shows the graph of the inequalities two times x plus y greater than minus six and minus x plus two times y greater than or equal to minus four. Two intersecting lines, one in blue and the other in red, are shown. The area bound by the lines is shown in grey. It is the solution.] The solution is the grey region.",
+      "math": []
+    },
+    "299": {
+      "text": "[FIGURA: The figure shows the graph of the inequalities x minus three times y greater than four and y less than or equal to minus one. Two intersecting lines, one in blue and the other in red, are shown. The area bound by the lines is shown in grey. It is the solution.] The solution is the grey region.",
+      "math": []
+    },
+    "301": {
+      "text": "[FIGURA: The figure shows the graph of the inequality y less than or equal to minus two by three times x plus five and x greater than or equal to three. Two intersecting lines, one in blue and the other in red, are shown. The area bound by the lines is shown in grey. It is the solution.] The solution is the grey region.",
+      "math": []
+    },
+    "303": {
+      "text": "[FIGURA: The figure shows the graph of the inequalities y less than or equal to minus half x plus three and y less than one. Two intersecting lines, one in blue and the other in red, are shown. The area bound by the lines is shown in grey. It is the solution.] The solution is the grey region.",
+      "math": []
+    },
+    "305": {
+      "text": "[FIGURA: The figure shows the graph of the inequalities minus three times x plus five times y greater than ten and x greater than minus one. Two intersecting lines, one in blue and the other in red, are shown. The area bound by the lines is shown in grey. It is the solution.] The solution is the grey region.",
+      "math": []
+    },
+    "307": {
+      "text": "[FIGURA: The figure shows the graph of the inequalities x less than or equal to minus one and y greater than or equal to three. Two intersecting lines, one in blue and the other in red, are shown. The area bound by the lines is shown in grey. It is the solution.] The solution is the grey region.",
+      "math": []
+    },
+    "309": {
+      "text": "[FIGURA: The figure shows the graph of the inequalities x minus three times y greater than or equal to six and y greater than one third of x plus one. Two non intersecting lines, one in blue and the other in red, are shown.] No solution.",
+      "math": []
+    },
+    "311": {
+      "text": "[FIGURA: The figure shows the graph of the inequalities minus three times x plus six times y greater than twelve and four times y less than or equal to two times x minus four. Two non intersecting lines, one in blue and the other in red, are shown.] No solution.",
+      "math": []
+    },
+    "313": {
+      "text": "[FIGURA: The figure shows the graph of the inequalities y greater than or equal to minus half x minus one and minus two times x plus four times y greater than or equal to four. Two non intersecting lines, one in blue and the other in red, are shown. The solution area is shown in grey.] The solution is the grey region.",
+      "math": []
+    },
+    "315": {
+      "text": "[FIGURA: The figure shows the graph of the inequalities y greater than or equal to three times x minus one and minus three times x plus y greater than minus four. Two non intersecting lines, one in blue and the other in red, are shown. The solution area is shown in grey.] The solution is the grey region.",
+      "math": []
+    },
+    "317": {
+      "text": "[FIGURA: The figure shows the graph of the inequalities y less than three by fourth x minus two and minus three x plus four y less than seven. Two non intersecting lines, one in blue and the other in red, are shown. The solution area is shown in grey.] The solution is the grey region.",
+      "math": []
+    },
+    "319": {
+      "text": "ⓐ \\({f≥0p≥0f+p≤202f+5p≤50\\) ⓑ [FIGURA: The figure shows the graph of the inequalities f plus p less than or equal to twenty and two f and five p less than or equal to fifty. Two intersecting lines, one in blue and the other in red, are shown. An area is shown in grey.] ⓒ yes ⓓ no",
+      "math": [
+        "{\\begin{matrix}f\\ge 0\\\\p\\ge 0\\\\f+p\\le 20\\\\2f+5p\\le 50\\end{matrix}"
+      ]
+    },
+    "321": {
+      "text": "ⓐ \\({c≥0a≥0c+a≤24a≥3c\\) ⓑ [FIGURA: The figure shows the graph of the inequalities c plus a less than or equal to twenty four and a greater than or equal to three times c. Two intersecting lines, one in blue and the other in red, are shown. An area is shown in grey.] ⓒ yes ⓓ no",
+      "math": [
+        "{\\begin{matrix}c\\ge 0\\\\a\\ge 0\\\\c+a\\le 24\\\\a\\ge 3c\\end{matrix}"
+      ]
+    },
+    "323": {
+      "text": "ⓐ \\({w≥0b≥027w+16b>803.20w+1.75b≤10\\) ⓑ [FIGURA: The figure shows the graph of the inequalities twenty seven times w plus sixteen times b greater than eighty and three point two times w plus one point seven five b less than or equal to ten. Two intersecting lines, one in blue and the other in red, are shown. An area is shown in grey.] ⓒ no ⓓ yes",
+      "math": [
+        "{\\begin{matrix}w\\ge 0\\\\b\\ge 0\\\\27w+16b>80\\\\3.20w+1.75b\\le 10\\end{matrix}"
+      ]
+    },
+    "325": {
+      "text": "ⓐ \\({w≥0r≥0w+r≥4270w+650r≥1500\\) ⓑ [FIGURA: The figure shows the graph of the inequalities w plus r greater than or equals to four and two seventy w plus six fifty r greater than or equal to fifteen hundred. Two intersecting lines, one in blue and the other in red, are shown. An area is shown in grey.] ⓒ no ⓓ yes",
+      "math": [
+        "{\\begin{matrix}w\\ge 0\\\\r\\ge 0\\\\w+r\\ge 4\\\\270w+650r\\ge 1500\\end{matrix}"
+      ]
+    },
+    "327": {
+      "text": "Answers will vary.",
+      "math": []
+    },
+    "329": {
+      "text": "ⓐ yes ⓑ no",
+      "math": []
+    },
+    "331": {
+      "text": "[FIGURA: The figure shows the graph of equations x plus four times y equal to minus one and x equal to three. Two intersecting lines are shown.] \\((3,-1)\\)",
+      "math": [
+        "(3,-1)"
+      ]
+    },
+    "333": {
+      "text": "[FIGURA: The figure shows the graph for the equations minus x plus two times y equal to four and y equal to half x minus three. Two parallel lines are shown.] no solution",
+      "math": []
+    },
+    "335": {
+      "text": "one solution, consistent system, independent equations",
+      "math": []
+    },
+    "337": {
+      "text": "\\(( 4 , 5 )\\)",
+      "math": [
+        "( 4 , 5 )"
+      ]
+    },
+    "339": {
+      "text": "\\(( 3 , 1 )\\)",
+      "math": [
+        "( 3 , 1 )"
+      ]
+    },
+    "341": {
+      "text": "infinitely many solutions",
+      "math": []
+    },
+    "343": {
+      "text": "\\(( 4 , -1 )\\)",
+      "math": [
+        "( 4 , -1 )"
+      ]
+    },
+    "345": {
+      "text": "\\(( 6 , 2 )\\)",
+      "math": [
+        "( 6 , 2 )"
+      ]
+    },
+    "347": {
+      "text": "elimination",
+      "math": []
+    },
+    "349": {
+      "text": "50 irises and 150 tulips",
+      "math": []
+    },
+    "351": {
+      "text": "10 calories jogging and 10 calories cycling",
+      "math": []
+    },
+    "353": {
+      "text": "119 degrees and 61 degrees",
+      "math": []
+    },
+    "355": {
+      "text": "35 degrees and 55 degrees",
+      "math": []
+    },
+    "357": {
+      "text": "Length = 502 feet, Width = 212 feet",
+      "math": []
+    },
+    "359": {
+      "text": "\\(\\frac{1}{2}\\) an hour",
+      "math": [
+        "\\frac{1}{2}"
+      ]
+    },
+    "361": {
+      "text": "the rate of the jet is 395 mph, the rate of the wind is 7 mph",
+      "math": []
+    },
+    "363": {
+      "text": "41 dimes and 11 pennies",
+      "math": []
+    },
+    "365": {
+      "text": "\\(46\\frac{2}{3}\\) liters of 30% solution, \\(23\\frac{1}{3}\\) liters of 60% solution",
+      "math": [
+        "46\\frac{2}{3}",
+        "23\\frac{1}{3}"
+      ]
+    },
+    "367": {
+      "text": "$29,000 for the federal loan, $14,000 for the private loan",
+      "math": []
+    },
+    "369": {
+      "text": "ⓐ no ⓑ no",
+      "math": []
+    },
+    "371": {
+      "text": "\\(( -3 , 2 , -4 )\\)",
+      "math": [
+        "( -3 , 2 , -4 )"
+      ]
+    },
+    "373": {
+      "text": "no solution",
+      "math": []
+    },
+    "375": {
+      "text": "25, 20, 15",
+      "math": []
+    },
+    "377": {
+      "text": "\\([ 4 3 0 -2 1 -2 -3 7 2 -1 2 -6 ]\\)",
+      "math": [
+        "[ \\begin{matrix} 4 & & & 3 & & & 0 & & & -2 \\\\ 1 & & & -2 & & & -3 & & & 7 \\\\ 2 & & & -1 & & & 2 & & & -6 \\end{matrix} ]"
+      ]
+    },
+    "379": {
+      "text": "\\({ x - 3 z = -1 x - 2 y = -2 - y + 2 z = 3\\)",
+      "math": [
+        "{ \\begin{matrix} x - 3 z = -1 \\\\ x - 2 y = -2 \\\\ - y + 2 z = 3 \\end{matrix}"
+      ]
+    },
+    "381": {
+      "text": "ⓐ \\([1-3-244-2-3-122-1-3]\\)ⓑ \\([2-6-484-2-3-122-1-3]\\)ⓒ \\([2-6-484-2-3-10-6-15]\\)",
+      "math": [
+        "[\\begin{matrix}1 & & & -3 & & & -2 & & & 4\\\\4 & & & -2 & & & -3 & & & -1\\\\2 & & & 2 & & & -1 & & & -3\\end{matrix}]",
+        "[\\begin{matrix}2 & & & -6 & & & -4 & & & 8\\\\4 & & & -2 & & & -3 & & & -1\\\\2 & & & 2 & & & -1 & & & -3\\end{matrix}]",
+        "[\\begin{matrix}2 & & & -6 & & & -4 & & & 8\\\\4 & & & -2 & & & -3 & & & -1\\\\0 & & & -6 & & & -1 & & & 5\\end{matrix}]"
+      ]
+    },
+    "383": {
+      "text": "\\(( -2 , 5 , 2 )\\)",
+      "math": [
+        "( -2 , 5 , 2 )"
+      ]
+    },
+    "385": {
+      "text": "no solution",
+      "math": []
+    },
+    "387": {
+      "text": "\\(-4\\)",
+      "math": [
+        "-4"
+      ]
+    },
+    "389": {
+      "text": "33",
+      "math": []
+    },
+    "391": {
+      "text": "\\(( -3 , 2 )\\)",
+      "math": [
+        "( -3 , 2 )"
+      ]
+    },
+    "393": {
+      "text": "\\(( -3 , 2 , 3 )\\)",
+      "math": [
+        "( -3 , 2 , 3 )"
+      ]
+    },
+    "395": {
+      "text": "inconsistent",
+      "math": []
+    },
+    "397": {
+      "text": "ⓐ yes ⓑ yes",
+      "math": []
+    },
+    "399": {
+      "text": "[FIGURA: The figure shows the graph of inequalities y less than three times x plus one and y greater than or equal to minus x minus two. Two intersecting lines, one in red and the other in blue, are shown. An area is shown in grey.] The solution is the grey region.",
+      "math": []
+    },
+    "401": {
+      "text": "[FIGURA: The figure shows the graph of inequalities two times x minus three times y less six and three times x plus four times y greater than or equal to twelve. Two intersecting lines, one in red and the other in blue, are shown. An area is shown in grey.] The solution is the grey region.",
+      "math": []
+    },
+    "403": {
+      "text": "[FIGURA: The figure shows the graph of inequalities x plus three times y less than five and y greater than or equal to minus one third x plus six. Two parallel lines, one in red and the other in blue, are shown. An area is shown in grey.] No solution.",
+      "math": []
+    },
+    "405": {
+      "text": "ⓐ \\({b≥0n≥0b+n≤4012b+18n≥500\\) ⓑ [FIGURA: The figure shows the graph of b plus n equal to forty and twelve b plus eighteen n equal to five hundred. Two intersecting lines, one in red and the other in blue, are shown. An area is shown in grey.] ⓒ yes ⓓ no",
+      "math": [
+        "{\\begin{matrix}b\\ge 0\\\\n\\ge 0\\\\b+n\\le 40\\\\12b+18n\\ge 500\\end{matrix}"
+      ]
+    },
+    "407": {
+      "text": "[FIGURA: The figure shows the graph of inequalities h equal to three p plus five and four times p plus fifteen times h equal to six hundred. Two intersecting lines, one in red and the other in blue, are shown. An area is shown in grey.] \\((2,-3)\\)",
+      "math": [
+        "(2,-3)"
+      ]
+    },
+    "409": {
+      "text": "\\(( 2 , 1 )\\)",
+      "math": [
+        "( 2 , 1 )"
+      ]
+    },
+    "411": {
+      "text": "\\(( 2 , -2 , 1 )\\)",
+      "math": [
+        "( 2 , -2 , 1 )"
+      ]
+    },
+    "413": {
+      "text": "\\(( 5 , 7 , 4 )\\)",
+      "math": [
+        "( 5 , 7 , 4 )"
+      ]
+    },
+    "415": {
+      "text": "\\(7\\)",
+      "math": [
+        "7"
+      ]
+    },
+    "417": {
+      "text": "15 liters of 1% solution, 5 liters of 5% solution",
+      "math": []
+    },
+    "419": {
+      "text": "The candy cost $20; the cookies cost $5; and the popcorn cost $10.",
+      "math": []
+    },
+    "421": {
+      "text": "ⓐ \\({C≥0L≥0C+0.5L≤50L≥3C\\) ⓑ [FIGURA: The figure shows the graph of two equations. Two intersecting lines, one in red and the other in blue, are shown. The red line passes through origin. An area is shown in grey.] ⓒ no ⓓ yes",
+      "math": [
+        "{\\begin{matrix}C\\ge 0\\\\L\\ge 0\\\\C+0.5L\\le 50\\\\L\\ge 3C\\end{matrix}"
+      ]
+    }
+  }
+}

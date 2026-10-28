@@ -1,0 +1,1086 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/9-2-solve-quadratic-equations-by-completing-the-square",
+  "title": "9.2 Solve Quadratic Equations by Completing the Square",
+  "sha256": "440a6b0cfdd191e3ed7f2dca68f53e9e3d183a9cc9044b18bb5457e3815e900d",
+  "questions": [
+    {
+      "number": 71,
+      "anchor": "fs-id1167836390279",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Complete the Square of a Binomial Expression",
+        "In the following exercises, complete the square to make a perfect square trinomial. Then write the result as a binomial squared."
+      ],
+      "text": "ⓐ \\({m}^{2}-24m\\) ⓑ \\({x}^{2}-11x\\) ⓒ \\({p}^{2}-\\frac{1}{3}p\\)",
+      "math": [
+        "{m}^{2}-24m",
+        "{x}^{2}-11x",
+        "{p}^{2}-\\frac{1}{3}p"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>m</mi><mn>2</mn></msup><mo>−</mo><mn>24</mn><mi>m</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>m</mi><mn>2</mn></msup><mo>−</mo><mn>24</mn><mi>m</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>11</mn><mi>x</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>11</mn><mi>x</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>p</mi><mn>2</mn></msup><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>p</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>p</mi><mn>2</mn></msup><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>p</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 72,
+      "anchor": "fs-id1167829746316",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Complete the Square of a Binomial Expression",
+        "In the following exercises, complete the square to make a perfect square trinomial. Then write the result as a binomial squared."
+      ],
+      "text": "ⓐ \\({n}^{2}-16n\\) ⓑ \\({y}^{2}+15y\\) ⓒ \\({q}^{2}+\\frac{3}{4}q\\)",
+      "math": [
+        "{n}^{2}-16n",
+        "{y}^{2}+15y",
+        "{q}^{2}+\\frac{3}{4}q"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>n</mi><mn>2</mn></msup><mo>−</mo><mn>16</mn><mi>n</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>n</mi><mn>2</mn></msup><mo>−</mo><mn>16</mn><mi>n</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>15</mn><mi>y</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>15</mn><mi>y</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>q</mi><mn>2</mn></msup><mo>+</mo><mfrac><mn>3</mn><mn>4</mn></mfrac><mi>q</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>q</mi><mn>2</mn></msup><mo>+</mo><mfrac><mn>3</mn><mn>4</mn></mfrac><mi>q</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 73,
+      "anchor": "fs-id1167836323142",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Complete the Square of a Binomial Expression",
+        "In the following exercises, complete the square to make a perfect square trinomial. Then write the result as a binomial squared."
+      ],
+      "text": "ⓐ \\({p}^{2}-22p\\) ⓑ \\({y}^{2}+5y\\) ⓒ \\({m}^{2}+\\frac{2}{5}m\\)",
+      "math": [
+        "{p}^{2}-22p",
+        "{y}^{2}+5y",
+        "{m}^{2}+\\frac{2}{5}m"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>p</mi><mn>2</mn></msup><mo>−</mo><mn>22</mn><mi>p</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>p</mi><mn>2</mn></msup><mo>−</mo><mn>22</mn><mi>p</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mi>y</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mi>y</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>m</mi><mn>2</mn></msup><mo>+</mo><mfrac><mn>2</mn><mn>5</mn></mfrac><mi>m</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>m</mi><mn>2</mn></msup><mo>+</mo><mfrac><mn>2</mn><mn>5</mn></mfrac><mi>m</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 74,
+      "anchor": "fs-id1167830077402",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Complete the Square of a Binomial Expression",
+        "In the following exercises, complete the square to make a perfect square trinomial. Then write the result as a binomial squared."
+      ],
+      "text": "ⓐ \\({q}^{2}-6q\\) ⓑ \\({x}^{2}-7x\\) ⓒ \\({n}^{2}-\\frac{2}{3}n\\)",
+      "math": [
+        "{q}^{2}-6q",
+        "{x}^{2}-7x",
+        "{n}^{2}-\\frac{2}{3}n"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>q</mi><mn>2</mn></msup><mo>−</mo><mn>6</mn><mi>q</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>q</mi><mn>2</mn></msup><mo>−</mo><mn>6</mn><mi>q</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>7</mn><mi>x</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>7</mn><mi>x</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>n</mi><mn>2</mn></msup><mo>−</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>n</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>n</mi><mn>2</mn></msup><mo>−</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>n</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 75,
+      "anchor": "fs-id1167825702838",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form x2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\({u}^{2} + 2 u = 3\\)",
+      "math": [
+        "{u}^{2} + 2 u = 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>u</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>u</mi>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>u</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>u</mi>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 76,
+      "anchor": "fs-id1167836349336",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form x2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\({z}^{2} + 12 z = -11\\)",
+      "math": [
+        "{z}^{2} + 12 z = -11"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>z</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mi>z</mi>\n          <mo>=</mo>\n          <mn>−11</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>z</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mi>z</mi>\n          <mo>=</mo>\n          <mn>−11</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 77,
+      "anchor": "fs-id1167832982349",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form x2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\({x}^{2} - 20 x = 21\\)",
+      "math": [
+        "{x}^{2} - 20 x = 21"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>20</mn>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>21</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>20</mn>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>21</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 78,
+      "anchor": "fs-id1167836685027",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form x2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\({y}^{2} - 2 y = 8\\)",
+      "math": [
+        "{y}^{2} - 2 y = 8"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>8</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>8</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 79,
+      "anchor": "fs-id1167836536608",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form x2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\({m}^{2} + 4 m = -44\\)",
+      "math": [
+        "{m}^{2} + 4 m = -44"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>m</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>m</mi>\n          <mo>=</mo>\n          <mn>−44</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>m</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>m</mi>\n          <mo>=</mo>\n          <mn>−44</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 80,
+      "anchor": "fs-id1167836322851",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form x2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\({n}^{2} - 2 n = -3\\)",
+      "math": [
+        "{n}^{2} - 2 n = -3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>n</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>n</mi>\n          <mo>=</mo>\n          <mn>−3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>n</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>n</mi>\n          <mo>=</mo>\n          <mn>−3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 81,
+      "anchor": "fs-id1167833021153",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form x2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\({r}^{2} + 6 r = -11\\)",
+      "math": [
+        "{r}^{2} + 6 r = -11"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>r</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>r</mi>\n          <mo>=</mo>\n          <mn>−11</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>r</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>r</mi>\n          <mo>=</mo>\n          <mn>−11</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 82,
+      "anchor": "fs-id1167833024011",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form x2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\({t}^{2} - 14 t = -50\\)",
+      "math": [
+        "{t}^{2} - 14 t = -50"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>t</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>14</mn>\n          <mi>t</mi>\n          <mo>=</mo>\n          <mn>−50</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>t</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>14</mn>\n          <mi>t</mi>\n          <mo>=</mo>\n          <mn>−50</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 83,
+      "anchor": "fs-id1167826077597",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form x2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\({a}^{2} - 10 a = -5\\)",
+      "math": [
+        "{a}^{2} - 10 a = -5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>10</mn>\n          <mi>a</mi>\n          <mo>=</mo>\n          <mn>−5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>10</mn>\n          <mi>a</mi>\n          <mo>=</mo>\n          <mn>−5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 84,
+      "anchor": "fs-id1167836717039",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form x2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\({b}^{2} + 6 b = 41\\)",
+      "math": [
+        "{b}^{2} + 6 b = 41"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>b</mi>\n          <mo>=</mo>\n          <mn>41</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>b</mi>\n          <mo>=</mo>\n          <mn>41</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 85,
+      "anchor": "fs-id1167836295347",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form x2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\({x}^{2} + 5 x = 2\\)",
+      "math": [
+        "{x}^{2} + 5 x = 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 86,
+      "anchor": "fs-id1167829752498",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form x2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\({y}^{2} - 3 y = 2\\)",
+      "math": [
+        "{y}^{2} - 3 y = 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 87,
+      "anchor": "fs-id1167833338934",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form x2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\({u}^{2} - 14 u + 12 = -1\\)",
+      "math": [
+        "{u}^{2} - 14 u + 12 = -1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>u</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>14</mn>\n          <mi>u</mi>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mo>=</mo>\n          <mn>−1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>u</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>14</mn>\n          <mi>u</mi>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mo>=</mo>\n          <mn>−1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 88,
+      "anchor": "fs-id1167829739303",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form x2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\({z}^{2} + 2 z - 5 = 2\\)",
+      "math": [
+        "{z}^{2} + 2 z - 5 = 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>z</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>z</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>z</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>z</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 89,
+      "anchor": "fs-id1167833060172",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form x2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\({r}^{2} - 4 r - 3 = 9\\)",
+      "math": [
+        "{r}^{2} - 4 r - 3 = 9"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>r</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>r</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>9</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>r</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>r</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>9</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 90,
+      "anchor": "fs-id1167836520251",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form x2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\({t}^{2} - 10 t - 6 = 5\\)",
+      "math": [
+        "{t}^{2} - 10 t - 6 = 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>t</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>10</mn>\n          <mi>t</mi>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mo>=</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>t</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>10</mn>\n          <mi>t</mi>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mo>=</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 91,
+      "anchor": "fs-id1167836528272",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form x2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\({v}^{2} = 9 v + 2\\)",
+      "math": [
+        "{v}^{2} = 9 v + 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>v</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>9</mn>\n          <mi>v</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>v</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>9</mn>\n          <mi>v</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 92,
+      "anchor": "fs-id1167829809842",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form x2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\({w}^{2} = 5 w - 1\\)",
+      "math": [
+        "{w}^{2} = 5 w - 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>w</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>5</mn>\n          <mi>w</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>w</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>5</mn>\n          <mi>w</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 93,
+      "anchor": "fs-id1167833025559",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form x2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\({x}^{2} - 5 = 10 x\\)",
+      "math": [
+        "{x}^{2} - 5 = 10 x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mo>=</mo>\n          <mn>10</mn>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mo>=</mo>\n          <mn>10</mn>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 94,
+      "anchor": "fs-id1167833396393",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form x2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\({y}^{2} - 14 = 6 y\\)",
+      "math": [
+        "{y}^{2} - 14 = 6 y"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>14</mn>\n          <mo>=</mo>\n          <mn>6</mn>\n          <mi>y</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>14</mn>\n          <mo>=</mo>\n          <mn>6</mn>\n          <mi>y</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 95,
+      "anchor": "fs-id1167833085342",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form x2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\(( x + 6 ) ( x - 2 ) = 9\\)",
+      "math": [
+        "( x + 6 ) ( x - 2 ) = 9"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>9</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>9</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 96,
+      "anchor": "fs-id1167833051595",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form x2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\(( y + 9 ) ( y + 7 ) = 80\\)",
+      "math": [
+        "( y + 9 ) ( y + 7 ) = 80"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>9</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>80</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>9</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>80</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 97,
+      "anchor": "fs-id1167836706352",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form x2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\(( x + 2 ) ( x + 4 ) = 3\\)",
+      "math": [
+        "( x + 2 ) ( x + 4 ) = 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 98,
+      "anchor": "fs-id1167836349279",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form x2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\(( x - 2 ) ( x - 6 ) = 5\\)",
+      "math": [
+        "( x - 2 ) ( x - 6 ) = 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 99,
+      "anchor": "fs-id1167836554015",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form ax2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\(3 {m}^{2} + 30 m - 27 = 6\\)",
+      "math": [
+        "3 {m}^{2} + 30 m - 27 = 6"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <msup>\n            <mi>m</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>30</mn>\n          <mi>m</mi>\n          <mo>−</mo>\n          <mn>27</mn>\n          <mo>=</mo>\n          <mn>6</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <msup>\n            <mi>m</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>30</mn>\n          <mi>m</mi>\n          <mo>−</mo>\n          <mn>27</mn>\n          <mo>=</mo>\n          <mn>6</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 100,
+      "anchor": "fs-id1167833224433",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form ax2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\(2 {x}^{2} - 14 x + 12 = 0\\)",
+      "math": [
+        "2 {x}^{2} - 14 x + 12 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>14</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>14</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 101,
+      "anchor": "fs-id1167836558013",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form ax2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\(2 {n}^{2} + 4 n = 26\\)",
+      "math": [
+        "2 {n}^{2} + 4 n = 26"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>n</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>n</mi>\n          <mo>=</mo>\n          <mn>26</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>n</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>n</mi>\n          <mo>=</mo>\n          <mn>26</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 102,
+      "anchor": "fs-id1167833334776",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form ax2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\(5 {x}^{2} + 20 x = 15\\)",
+      "math": [
+        "5 {x}^{2} + 20 x = 15"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>5</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>20</mn>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>15</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>5</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>20</mn>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>15</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 103,
+      "anchor": "fs-id1167836599358",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form ax2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\(2 {c}^{2} + c = 6\\)",
+      "math": [
+        "2 {c}^{2} + c = 6"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>c</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mi>c</mi>\n          <mo>=</mo>\n          <mn>6</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>c</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mi>c</mi>\n          <mo>=</mo>\n          <mn>6</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 104,
+      "anchor": "fs-id1167829714659",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form ax2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\(3 {d}^{2} - 4 d = 15\\)",
+      "math": [
+        "3 {d}^{2} - 4 d = 15"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <msup>\n            <mi>d</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>d</mi>\n          <mo>=</mo>\n          <mn>15</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <msup>\n            <mi>d</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>d</mi>\n          <mo>=</mo>\n          <mn>15</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 105,
+      "anchor": "fs-id1167833138092",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form ax2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\(2 {x}^{2} + 7 x - 15 = 0\\)",
+      "math": [
+        "2 {x}^{2} + 7 x - 15 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>15</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>15</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 106,
+      "anchor": "fs-id1167836542019",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form ax2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\(3 {x}^{2} - 14 x + 8 = 0\\)",
+      "math": [
+        "3 {x}^{2} - 14 x + 8 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>14</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>14</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 107,
+      "anchor": "fs-id1167836524254",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form ax2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\(2 {p}^{2} + 7 p = 14\\)",
+      "math": [
+        "2 {p}^{2} + 7 p = 14"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mi>p</mi>\n          <mo>=</mo>\n          <mn>14</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mi>p</mi>\n          <mo>=</mo>\n          <mn>14</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 108,
+      "anchor": "fs-id1167836543379",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form ax2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\(3 {q}^{2} - 5 q = 9\\)",
+      "math": [
+        "3 {q}^{2} - 5 q = 9"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mi>q</mi>\n          <mo>=</mo>\n          <mn>9</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mi>q</mi>\n          <mo>=</mo>\n          <mn>9</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 109,
+      "anchor": "fs-id1167836731358",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form ax2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\(5 {x}^{2} - 3 x = -10\\)",
+      "math": [
+        "5 {x}^{2} - 3 x = -10"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>5</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>−10</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>5</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>−10</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 110,
+      "anchor": "fs-id1167824578910",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Solve Quadratic Equations of the form ax2 + bx + c = 0 by Completing the Square",
+        "In the following exercises, solve by completing the square."
+      ],
+      "text": "\\(7 {x}^{2} + 4 x = -3\\)",
+      "math": [
+        "7 {x}^{2} + 4 x = -3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>7</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>−3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>7</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>−3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 111,
+      "anchor": "fs-id1167836619205",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Solve the equation \\({x}^{2}+10x=-25\\) ⓐ by using the Square Root Property ⓑ by Completing the Square ⓒ Which method do you prefer? Why?",
+      "math": [
+        "{x}^{2}+10x=-25"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>10</mn><mi>x</mi><mo>=</mo><mn>−25</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>10</mn><mi>x</mi><mo>=</mo><mn>−25</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 112,
+      "anchor": "fs-id1167836730436",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Solve the equation \\({y}^{2}+8y=48\\) by completing the square and explain all your steps.",
+      "math": [
+        "{y}^{2}+8y=48"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><mi>y</mi><mo>=</mo><mn>48</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><mi>y</mi><mo>=</mo><mn>48</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "9.21",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "is_try_it": true,
+      "anchor": "fs-id1167829579073",
+      "context": [
+        "Complete the Square of a Binomial Expression"
+      ],
+      "text": "Complete the square to make a perfect square trinomial. Then write the result as a binomial squared. ⓐ \\({a}^{2}-20a\\) ⓑ \\({m}^{2}-5m\\) ⓒ \\({p}^{2}+\\frac{1}{4}p\\)",
+      "math": [
+        "{a}^{2}-20a",
+        "{m}^{2}-5m",
+        "{p}^{2}+\\frac{1}{4}p"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>−</mo><mn>20</mn><mi>a</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>−</mo><mn>20</mn><mi>a</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>m</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>m</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>m</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>m</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>p</mi><mn>2</mn></msup><mo>+</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mi>p</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>p</mi><mn>2</mn></msup><mo>+</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mi>p</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.22",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "is_try_it": true,
+      "anchor": "fs-id1167836687917",
+      "context": [
+        "Complete the Square of a Binomial Expression"
+      ],
+      "text": "Complete the square to make a perfect square trinomial. Then write the result as a binomial squared. ⓐ \\({b}^{2}-4b\\) ⓑ \\({n}^{2}+13n\\) ⓒ \\({q}^{2}-\\frac{2}{3}q\\)",
+      "math": [
+        "{b}^{2}-4b",
+        "{n}^{2}+13n",
+        "{q}^{2}-\\frac{2}{3}q"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>b</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>b</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>b</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>b</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>n</mi><mn>2</mn></msup><mo>+</mo><mn>13</mn><mi>n</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>n</mi><mn>2</mn></msup><mo>+</mo><mn>13</mn><mi>n</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>q</mi><mn>2</mn></msup><mo>−</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>q</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>q</mi><mn>2</mn></msup><mo>−</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>q</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.23",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "is_try_it": true,
+      "anchor": "fs-id1167836625042",
+      "context": [
+        "Solve Quadratic Equations of the Form x2 + bx + c = 0 by Completing the Square"
+      ],
+      "text": "Solve by completing the square: \\({x}^{2}+4x=5.\\)",
+      "math": [
+        "{x}^{2}+4x=5."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn><mi>x</mi><mo>=</mo><mn>5</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn><mi>x</mi><mo>=</mo><mn>5</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.24",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "is_try_it": true,
+      "anchor": "fs-id1167833058751",
+      "context": [
+        "Solve Quadratic Equations of the Form x2 + bx + c = 0 by Completing the Square"
+      ],
+      "text": "Solve by completing the square: \\({y}^{2}-10y=-9.\\)",
+      "math": [
+        "{y}^{2}-10y=-9."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>10</mn><mi>y</mi><mo>=</mo><mn>−9</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>10</mn><mi>y</mi><mo>=</mo><mn>−9</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.25",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "is_try_it": true,
+      "anchor": "fs-id1167833379532",
+      "context": [
+        "Solve Quadratic Equations of the Form x2 + bx + c = 0 by Completing the Square"
+      ],
+      "text": "Solve by completing the square: \\({y}^{2}-10y=-35.\\)",
+      "math": [
+        "{y}^{2}-10y=-35."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>10</mn><mi>y</mi><mo>=</mo><mn>−35</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>10</mn><mi>y</mi><mo>=</mo><mn>−35</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.26",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "is_try_it": true,
+      "anchor": "fs-id1167824754841",
+      "context": [
+        "Solve Quadratic Equations of the Form x2 + bx + c = 0 by Completing the Square"
+      ],
+      "text": "Solve by completing the square: \\({z}^{2}+8z=-19.\\)",
+      "math": [
+        "{z}^{2}+8z=-19."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>z</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><mi>z</mi><mo>=</mo><mn>−19</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>z</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><mi>z</mi><mo>=</mo><mn>−19</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.27",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "is_try_it": true,
+      "anchor": "fs-id1167829832718",
+      "context": [
+        "Solve Quadratic Equations of the Form x2 + bx + c = 0 by Completing the Square"
+      ],
+      "text": "Solve by completing the square: \\({x}^{2}-16x=-16.\\)",
+      "math": [
+        "{x}^{2}-16x=-16."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>16</mn><mi>x</mi><mo>=</mo><mn>−16</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>16</mn><mi>x</mi><mo>=</mo><mn>−16</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.28",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "is_try_it": true,
+      "anchor": "fs-id1167824720413",
+      "context": [
+        "Solve Quadratic Equations of the Form x2 + bx + c = 0 by Completing the Square"
+      ],
+      "text": "Solve by completing the square: \\({y}^{2}+8y=11.\\)",
+      "math": [
+        "{y}^{2}+8y=11."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><mi>y</mi><mo>=</mo><mn>11</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><mi>y</mi><mo>=</mo><mn>11</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.29",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "is_try_it": true,
+      "anchor": "fs-id1167836520603",
+      "context": [
+        "Solve Quadratic Equations of the Form x2 + bx + c = 0 by Completing the Square"
+      ],
+      "text": "Solve by completing the square: \\({a}^{2}+4a+9=30.\\)",
+      "math": [
+        "{a}^{2}+4a+9=30."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn><mi>a</mi><mo>+</mo><mn>9</mn><mo>=</mo><mn>30</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn><mi>a</mi><mo>+</mo><mn>9</mn><mo>=</mo><mn>30</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.30",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "is_try_it": true,
+      "anchor": "fs-id1167833055847",
+      "context": [
+        "Solve Quadratic Equations of the Form x2 + bx + c = 0 by Completing the Square"
+      ],
+      "text": "Solve by completing the square: \\({b}^{2}+8b-4=16.\\)",
+      "math": [
+        "{b}^{2}+8b-4=16."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>b</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><mi>b</mi><mo>−</mo><mn>4</mn><mo>=</mo><mn>16</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>b</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><mi>b</mi><mo>−</mo><mn>4</mn><mo>=</mo><mn>16</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.31",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "is_try_it": true,
+      "anchor": "fs-id1167833346510",
+      "context": [
+        "Solve Quadratic Equations of the Form x2 + bx + c = 0 by Completing the Square"
+      ],
+      "text": "Solve by completing the square: \\({p}^{2}=5p+9.\\)",
+      "math": [
+        "{p}^{2}=5p+9."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>p</mi><mn>2</mn></msup><mo>=</mo><mn>5</mn><mi>p</mi><mo>+</mo><mn>9</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>p</mi><mn>2</mn></msup><mo>=</mo><mn>5</mn><mi>p</mi><mo>+</mo><mn>9</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.32",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "is_try_it": true,
+      "anchor": "fs-id1167833059138",
+      "context": [
+        "Solve Quadratic Equations of the Form x2 + bx + c = 0 by Completing the Square"
+      ],
+      "text": "Solve by completing the square: \\({q}^{2}=7q-3.\\)",
+      "math": [
+        "{q}^{2}=7q-3."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>q</mi><mn>2</mn></msup><mo>=</mo><mn>7</mn><mi>q</mi><mo>−</mo><mn>3</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>q</mi><mn>2</mn></msup><mo>=</mo><mn>7</mn><mi>q</mi><mo>−</mo><mn>3</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.33",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "is_try_it": true,
+      "anchor": "fs-id1167829691674",
+      "context": [
+        "Solve Quadratic Equations of the Form x2 + bx + c = 0 by Completing the Square"
+      ],
+      "text": "Solve by completing the square: \\((c-2)(c+8)=11.\\)",
+      "math": [
+        "(c-2)(c+8)=11."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mi>c</mi><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mi>c</mi><mo>+</mo><mn>8</mn></mrow><mo>)</mo></mrow><mo>=</mo><mn>11</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mi>c</mi><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mi>c</mi><mo>+</mo><mn>8</mn></mrow><mo>)</mo></mrow><mo>=</mo><mn>11</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.34",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "is_try_it": true,
+      "anchor": "fs-id1167830077335",
+      "context": [
+        "Solve Quadratic Equations of the Form x2 + bx + c = 0 by Completing the Square"
+      ],
+      "text": "Solve by completing the square: \\((d-7)(d+3)=56.\\)",
+      "math": [
+        "(d-7)(d+3)=56."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mi>d</mi><mo>−</mo><mn>7</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mi>d</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>=</mo><mn>56</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mi>d</mi><mo>−</mo><mn>7</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mi>d</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>=</mo><mn>56</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.35",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "is_try_it": true,
+      "anchor": "fs-id1167833024381",
+      "context": [
+        "Solve Quadratic Equations of the Form ax2 + bx + c = 0 by Completing the Square"
+      ],
+      "text": "Solve by completing the square: \\(2{m}^{2}+16m+14=0.\\)",
+      "math": [
+        "2{m}^{2}+16m+14=0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><msup><mi>m</mi><mn>2</mn></msup><mo>+</mo><mn>16</mn><mi>m</mi><mo>+</mo><mn>14</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><msup><mi>m</mi><mn>2</mn></msup><mo>+</mo><mn>16</mn><mi>m</mi><mo>+</mo><mn>14</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.36",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "is_try_it": true,
+      "anchor": "fs-id1167836282523",
+      "context": [
+        "Solve Quadratic Equations of the Form ax2 + bx + c = 0 by Completing the Square"
+      ],
+      "text": "Solve by completing the square: \\(4{n}^{2}-24n-56=8.\\)",
+      "math": [
+        "4{n}^{2}-24n-56=8."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><msup><mi>n</mi><mn>2</mn></msup><mo>−</mo><mn>24</mn><mi>n</mi><mo>−</mo><mn>56</mn><mo>=</mo><mn>8</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><msup><mi>n</mi><mn>2</mn></msup><mo>−</mo><mn>24</mn><mi>n</mi><mo>−</mo><mn>56</mn><mo>=</mo><mn>8</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.37",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "is_try_it": true,
+      "anchor": "fs-id1167836410349",
+      "context": [
+        "Solve Quadratic Equations of the Form ax2 + bx + c = 0 by Completing the Square"
+      ],
+      "text": "Solve by completing the square: \\(3{r}^{2}-2r=21.\\)",
+      "math": [
+        "3{r}^{2}-2r=21."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><msup><mi>r</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn><mi>r</mi><mo>=</mo><mn>21</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><msup><mi>r</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn><mi>r</mi><mo>=</mo><mn>21</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.38",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "is_try_it": true,
+      "anchor": "fs-id1167829807666",
+      "context": [
+        "Solve Quadratic Equations of the Form ax2 + bx + c = 0 by Completing the Square"
+      ],
+      "text": "Solve by completing the square: \\(4{t}^{2}+2t=20.\\)",
+      "math": [
+        "4{t}^{2}+2t=20."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><msup><mi>t</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>t</mi><mo>=</mo><mn>20</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><msup><mi>t</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>t</mi><mo>=</mo><mn>20</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.39",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "is_try_it": true,
+      "anchor": "fs-id1167833309872",
+      "context": [
+        "Solve Quadratic Equations of the Form ax2 + bx + c = 0 by Completing the Square"
+      ],
+      "text": "Solve by completing the square: \\(4{x}^{2}+3x=2.\\)",
+      "math": [
+        "4{x}^{2}+3x=2."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>x</mi><mo>=</mo><mn>2</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>x</mi><mo>=</mo><mn>2</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.40",
+      "page": "9-2-solve-quadratic-equations-by-completing-the-square",
+      "is_try_it": true,
+      "anchor": "fs-id1167836287203",
+      "context": [
+        "Solve Quadratic Equations of the Form ax2 + bx + c = 0 by Completing the Square"
+      ],
+      "text": "Solve by completing the square: \\(3{y}^{2}-10y=-5.\\)",
+      "math": [
+        "3{y}^{2}-10y=-5."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>10</mn><mi>y</mi><mo>=</mo><mn>−5</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>10</mn><mi>y</mi><mo>=</mo><mn>−5</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

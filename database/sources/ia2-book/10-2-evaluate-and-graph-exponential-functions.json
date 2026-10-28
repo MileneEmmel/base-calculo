@@ -1,0 +1,1322 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/10-2-evaluate-and-graph-exponential-functions",
+  "title": "10.2 Evaluate and Graph Exponential Functions",
+  "sha256": "afd98ac701ebfcc4db62fcec5f351436458738b56022bfc624b5ac24fe6b56d5",
+  "questions": [
+    {
+      "number": 65,
+      "anchor": "fs-id1167832940776",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Graph Exponential Functions",
+        "In the following exercises, graph each exponential function."
+      ],
+      "text": "\\(f ( x ) = {2}^{x}\\)",
+      "math": [
+        "f ( x ) = {2}^{x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>2</mn>\n            <mi>x</mi>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>2</mn>\n            <mi>x</mi>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 66,
+      "anchor": "fs-id1167836628536",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Graph Exponential Functions",
+        "In the following exercises, graph each exponential function."
+      ],
+      "text": "\\(g ( x ) = {3}^{x}\\)",
+      "math": [
+        "g ( x ) = {3}^{x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>3</mn>\n            <mi>x</mi>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>3</mn>\n            <mi>x</mi>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 67,
+      "anchor": "fs-id1167829597539",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Graph Exponential Functions",
+        "In the following exercises, graph each exponential function."
+      ],
+      "text": "\\(f ( x ) = {6}^{x}\\)",
+      "math": [
+        "f ( x ) = {6}^{x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>6</mn>\n            <mi>x</mi>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>6</mn>\n            <mi>x</mi>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 68,
+      "anchor": "fs-id1167829906634",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Graph Exponential Functions",
+        "In the following exercises, graph each exponential function."
+      ],
+      "text": "\\(g ( x ) = {7}^{x}\\)",
+      "math": [
+        "g ( x ) = {7}^{x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>7</mn>\n            <mi>x</mi>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>7</mn>\n            <mi>x</mi>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 69,
+      "anchor": "fs-id1167836508789",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Graph Exponential Functions",
+        "In the following exercises, graph each exponential function."
+      ],
+      "text": "\\(f ( x ) = { ( 1.5 ) }^{x}\\)",
+      "math": [
+        "f ( x ) = { ( 1.5 ) }^{x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>1.5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mi>x</mi>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>1.5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mi>x</mi>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 70,
+      "anchor": "fs-id1167829627651",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Graph Exponential Functions",
+        "In the following exercises, graph each exponential function."
+      ],
+      "text": "\\(g ( x ) = { ( 2.5 ) }^{x}\\)",
+      "math": [
+        "g ( x ) = { ( 2.5 ) }^{x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>2.5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mi>x</mi>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>2.5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mi>x</mi>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 71,
+      "anchor": "fs-id1167836788123",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Graph Exponential Functions",
+        "In the following exercises, graph each exponential function."
+      ],
+      "text": "\\(f ( x ) = { ( \\frac{1}{2} ) }^{x}\\)",
+      "math": [
+        "f ( x ) = { ( \\frac{1}{2} ) }^{x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mi>x</mi>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mi>x</mi>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 72,
+      "anchor": "fs-id1167836571350",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Graph Exponential Functions",
+        "In the following exercises, graph each exponential function."
+      ],
+      "text": "\\(g ( x ) = { ( \\frac{1}{3} ) }^{x}\\)",
+      "math": [
+        "g ( x ) = { ( \\frac{1}{3} ) }^{x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>3</mn>\n                  </mfrac>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mi>x</mi>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>3</mn>\n                  </mfrac>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mi>x</mi>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 73,
+      "anchor": "fs-id1167833052000",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Graph Exponential Functions",
+        "In the following exercises, graph each exponential function."
+      ],
+      "text": "\\(f ( x ) = { ( \\frac{1}{6} ) }^{x}\\)",
+      "math": [
+        "f ( x ) = { ( \\frac{1}{6} ) }^{x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>6</mn>\n                  </mfrac>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mi>x</mi>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>6</mn>\n                  </mfrac>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mi>x</mi>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 74,
+      "anchor": "fs-id1167836313393",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Graph Exponential Functions",
+        "In the following exercises, graph each exponential function."
+      ],
+      "text": "\\(g ( x ) = { ( \\frac{1}{7} ) }^{x}\\)",
+      "math": [
+        "g ( x ) = { ( \\frac{1}{7} ) }^{x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>7</mn>\n                  </mfrac>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mi>x</mi>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>7</mn>\n                  </mfrac>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mi>x</mi>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 75,
+      "anchor": "fs-id1167829694032",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Graph Exponential Functions",
+        "In the following exercises, graph each exponential function."
+      ],
+      "text": "\\(f ( x ) = { ( 0.4 ) }^{x}\\)",
+      "math": [
+        "f ( x ) = { ( 0.4 ) }^{x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>0.4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mi>x</mi>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>0.4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mi>x</mi>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 76,
+      "anchor": "fs-id1167826024965",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Graph Exponential Functions",
+        "In the following exercises, graph each exponential function."
+      ],
+      "text": "\\(g ( x ) = { ( 0.6 ) }^{x}\\)",
+      "math": [
+        "g ( x ) = { ( 0.6 ) }^{x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>0.6</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mi>x</mi>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>0.6</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mi>x</mi>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 77,
+      "anchor": "fs-id1167829742599",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "In the following exercises, graph each exponential function.",
+        "In the following exercises, graph each function in the same coordinate system."
+      ],
+      "text": "\\(f ( x ) = {4}^{x} , g ( x ) = {4}^{ x - 1 }\\)",
+      "math": [
+        "f ( x ) = {4}^{x} , g ( x ) = {4}^{ x - 1 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>4</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>,</mo>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>4</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>4</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>,</mo>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>4</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 78,
+      "anchor": "fs-id1167836501882",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "In the following exercises, graph each exponential function.",
+        "In the following exercises, graph each function in the same coordinate system."
+      ],
+      "text": "\\(f ( x ) = {3}^{x} , g ( x ) = {3}^{ x - 1 }\\)",
+      "math": [
+        "f ( x ) = {3}^{x} , g ( x ) = {3}^{ x - 1 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>3</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>,</mo>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>3</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>3</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>,</mo>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>3</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 79,
+      "anchor": "fs-id1167829877554",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "In the following exercises, graph each exponential function.",
+        "In the following exercises, graph each function in the same coordinate system."
+      ],
+      "text": "\\(f ( x ) = {2}^{x} , g ( x ) = {2}^{ x - 2 }\\)",
+      "math": [
+        "f ( x ) = {2}^{x} , g ( x ) = {2}^{ x - 2 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>2</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>,</mo>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>2</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>2</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>,</mo>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>2</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 80,
+      "anchor": "fs-id1167836536175",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "In the following exercises, graph each exponential function.",
+        "In the following exercises, graph each function in the same coordinate system."
+      ],
+      "text": "\\(f ( x ) = {2}^{x} , g ( x ) = {2}^{ x + 2 }\\)",
+      "math": [
+        "f ( x ) = {2}^{x} , g ( x ) = {2}^{ x + 2 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>2</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>,</mo>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>2</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>2</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>,</mo>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>2</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 81,
+      "anchor": "fs-id1167829598084",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "In the following exercises, graph each exponential function.",
+        "In the following exercises, graph each function in the same coordinate system."
+      ],
+      "text": "\\(f ( x ) = {3}^{x} , g ( x ) = {3}^{x} + 2\\)",
+      "math": [
+        "f ( x ) = {3}^{x} , g ( x ) = {3}^{x} + 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>3</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>,</mo>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>3</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>3</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>,</mo>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>3</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 82,
+      "anchor": "fs-id1167836356899",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "In the following exercises, graph each exponential function.",
+        "In the following exercises, graph each function in the same coordinate system."
+      ],
+      "text": "\\(f ( x ) = {4}^{x} , g ( x ) = {4}^{x} + 2\\)",
+      "math": [
+        "f ( x ) = {4}^{x} , g ( x ) = {4}^{x} + 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>4</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>,</mo>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>4</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>4</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>,</mo>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>4</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 83,
+      "anchor": "fs-id1167836608785",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "In the following exercises, graph each exponential function.",
+        "In the following exercises, graph each function in the same coordinate system."
+      ],
+      "text": "\\(f ( x ) = {2}^{x} , g ( x ) = {2}^{x} + 1\\)",
+      "math": [
+        "f ( x ) = {2}^{x} , g ( x ) = {2}^{x} + 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>2</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>,</mo>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>2</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>2</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>,</mo>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>2</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 84,
+      "anchor": "fs-id1167829579734",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "In the following exercises, graph each exponential function.",
+        "In the following exercises, graph each function in the same coordinate system."
+      ],
+      "text": "\\(f ( x ) = {2}^{x} , g ( x ) = {2}^{x} - 1\\)",
+      "math": [
+        "f ( x ) = {2}^{x} , g ( x ) = {2}^{x} - 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>2</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>,</mo>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>2</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>2</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>,</mo>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>2</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 85,
+      "anchor": "fs-id1167836629505",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "In the following exercises, graph each function in the same coordinate system.",
+        "In the following exercises, graph each exponential function."
+      ],
+      "text": "\\(f ( x ) = {3}^{ x + 2 }\\)",
+      "math": [
+        "f ( x ) = {3}^{ x + 2 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>3</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>3</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 86,
+      "anchor": "fs-id1167836399165",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "In the following exercises, graph each function in the same coordinate system.",
+        "In the following exercises, graph each exponential function."
+      ],
+      "text": "\\(f ( x ) = {3}^{ x - 2 }\\)",
+      "math": [
+        "f ( x ) = {3}^{ x - 2 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>3</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>3</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 87,
+      "anchor": "fs-id1167833339426",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "In the following exercises, graph each function in the same coordinate system.",
+        "In the following exercises, graph each exponential function."
+      ],
+      "text": "\\(f ( x ) = {2}^{x} + 3\\)",
+      "math": [
+        "f ( x ) = {2}^{x} + 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>2</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>2</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 88,
+      "anchor": "fs-id1167833056981",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "In the following exercises, graph each function in the same coordinate system.",
+        "In the following exercises, graph each exponential function."
+      ],
+      "text": "\\(f ( x ) = {2}^{x} - 3\\)",
+      "math": [
+        "f ( x ) = {2}^{x} - 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>2</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>2</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 89,
+      "anchor": "fs-id1167836611970",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "In the following exercises, graph each function in the same coordinate system.",
+        "In the following exercises, graph each exponential function."
+      ],
+      "text": "\\(f ( x ) = { ( \\frac{1}{2} ) }^{ x - 4 }\\)",
+      "math": [
+        "f ( x ) = { ( \\frac{1}{2} ) }^{ x - 4 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 90,
+      "anchor": "fs-id1167836700964",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "In the following exercises, graph each function in the same coordinate system.",
+        "In the following exercises, graph each exponential function."
+      ],
+      "text": "\\(f ( x ) = { ( \\frac{1}{2} ) }^{x} - 3\\)",
+      "math": [
+        "f ( x ) = { ( \\frac{1}{2} ) }^{x} - 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mi>x</mi>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mi>x</mi>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 91,
+      "anchor": "fs-id1167833379384",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "In the following exercises, graph each function in the same coordinate system.",
+        "In the following exercises, graph each exponential function."
+      ],
+      "text": "\\(f ( x ) = {e}^{x} + 1\\)",
+      "math": [
+        "f ( x ) = {e}^{x} + 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mi>e</mi>\n            <mi>x</mi>\n          </msup>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mi>e</mi>\n            <mi>x</mi>\n          </msup>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 92,
+      "anchor": "fs-id1167836554885",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "In the following exercises, graph each function in the same coordinate system.",
+        "In the following exercises, graph each exponential function."
+      ],
+      "text": "\\(f ( x ) = {e}^{ x - 2 }\\)",
+      "math": [
+        "f ( x ) = {e}^{ x - 2 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 93,
+      "anchor": "fs-id1167836578972",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "In the following exercises, graph each function in the same coordinate system.",
+        "In the following exercises, graph each exponential function."
+      ],
+      "text": "\\(f ( x ) = - {2}^{x}\\)",
+      "math": [
+        "f ( x ) = - {2}^{x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mn>2</mn>\n            <mi>x</mi>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mn>2</mn>\n            <mi>x</mi>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 94,
+      "anchor": "fs-id1167832929830",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "In the following exercises, graph each function in the same coordinate system.",
+        "In the following exercises, graph each exponential function."
+      ],
+      "text": "\\(f ( x ) = {2}^{ - x - 1 } -1\\)",
+      "math": [
+        "f ( x ) = {2}^{ - x - 1 } -1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>2</mn>\n            <mrow>\n              <mo>−</mo>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </msup>\n          <mn>−1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mn>2</mn>\n            <mrow>\n              <mo>−</mo>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </msup>\n          <mn>−1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 95,
+      "anchor": "fs-id1167833128967",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Solve Exponential Equations",
+        "In the following exercises, solve each equation."
+      ],
+      "text": "\\({2}^{ 3 x - 8 } = 16\\)",
+      "math": [
+        "{2}^{ 3 x - 8 } = 16"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mn>2</mn>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>8</mn>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>16</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mn>2</mn>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>8</mn>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>16</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 96,
+      "anchor": "fs-id1167829833411",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Solve Exponential Equations",
+        "In the following exercises, solve each equation."
+      ],
+      "text": "\\({2}^{ 2 x - 3 } = 32\\)",
+      "math": [
+        "{2}^{ 2 x - 3 } = 32"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mn>2</mn>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>32</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mn>2</mn>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>32</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 97,
+      "anchor": "fs-id1167829597161",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Solve Exponential Equations",
+        "In the following exercises, solve each equation."
+      ],
+      "text": "\\({3}^{ x + 3 } = 9\\)",
+      "math": [
+        "{3}^{ x + 3 } = 9"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mn>3</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>9</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mn>3</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>9</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 98,
+      "anchor": "fs-id1167829834054",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Solve Exponential Equations",
+        "In the following exercises, solve each equation."
+      ],
+      "text": "\\({3}^{ {x}^{2} } = 81\\)",
+      "math": [
+        "{3}^{ {x}^{2} } = 81"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mn>3</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>81</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mn>3</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>81</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 99,
+      "anchor": "fs-id1167833138732",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Solve Exponential Equations",
+        "In the following exercises, solve each equation."
+      ],
+      "text": "\\({4}^{ {x}^{2} } = 4\\)",
+      "math": [
+        "{4}^{ {x}^{2} } = 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mn>4</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mn>4</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 100,
+      "anchor": "fs-id1167836530847",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Solve Exponential Equations",
+        "In the following exercises, solve each equation."
+      ],
+      "text": "\\({4}^{x} = 32\\)",
+      "math": [
+        "{4}^{x} = 32"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mn>4</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>=</mo>\n          <mn>32</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mn>4</mn>\n            <mi>x</mi>\n          </msup>\n          <mo>=</mo>\n          <mn>32</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 101,
+      "anchor": "fs-id1167836534978",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Solve Exponential Equations",
+        "In the following exercises, solve each equation."
+      ],
+      "text": "\\({4}^{ x + 2 } = 64\\)",
+      "math": [
+        "{4}^{ x + 2 } = 64"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mn>4</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>64</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mn>4</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>64</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 102,
+      "anchor": "fs-id1167833066502",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Solve Exponential Equations",
+        "In the following exercises, solve each equation."
+      ],
+      "text": "\\({4}^{ x + 3 } = 16\\)",
+      "math": [
+        "{4}^{ x + 3 } = 16"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mn>4</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>16</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mn>4</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>16</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 103,
+      "anchor": "fs-id1167829712689",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Solve Exponential Equations",
+        "In the following exercises, solve each equation."
+      ],
+      "text": "\\({2}^{ {x}^{2} + 2 x } = \\frac{1}{2}\\)",
+      "math": [
+        "{2}^{ {x}^{2} + 2 x } = \\frac{1}{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mn>2</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>x</mi>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mn>2</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>x</mi>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 104,
+      "anchor": "fs-id1167829931158",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Solve Exponential Equations",
+        "In the following exercises, solve each equation."
+      ],
+      "text": "\\({3}^{ {x}^{2} - 2 x } = \\frac{1}{3}\\)",
+      "math": [
+        "{3}^{ {x}^{2} - 2 x } = \\frac{1}{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mn>3</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>x</mi>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mn>3</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>x</mi>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 105,
+      "anchor": "fs-id1167833086742",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Solve Exponential Equations",
+        "In the following exercises, solve each equation."
+      ],
+      "text": "\\({e}^{ 3 x } \\cdot {e}^{4} = {e}^{ 10 }\\)",
+      "math": [
+        "{e}^{ 3 x } \\cdot {e}^{4} = {e}^{ 10 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n            </mrow>\n          </msup>\n          <mo>·</mo>\n          <msup>\n            <mi>e</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>=</mo>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mn>10</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n            </mrow>\n          </msup>\n          <mo>·</mo>\n          <msup>\n            <mi>e</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>=</mo>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mn>10</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 106,
+      "anchor": "fs-id1167833041938",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Solve Exponential Equations",
+        "In the following exercises, solve each equation."
+      ],
+      "text": "\\({e}^{ 2 x } \\cdot {e}^{3} = {e}^{9}\\)",
+      "math": [
+        "{e}^{ 2 x } \\cdot {e}^{3} = {e}^{9}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n            </mrow>\n          </msup>\n          <mo>·</mo>\n          <msup>\n            <mi>e</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>=</mo>\n          <msup>\n            <mi>e</mi>\n            <mn>9</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n            </mrow>\n          </msup>\n          <mo>·</mo>\n          <msup>\n            <mi>e</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>=</mo>\n          <msup>\n            <mi>e</mi>\n            <mn>9</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 107,
+      "anchor": "fs-id1167829756010",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Solve Exponential Equations",
+        "In the following exercises, solve each equation."
+      ],
+      "text": "\\(\\frac{ {e}^{ {x}^{2} } }{ {e}^{2} } = {e}^{x}\\)",
+      "math": [
+        "\\frac{ {e}^{ {x}^{2} } }{ {e}^{2} } = {e}^{x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>e</mi>\n                <mrow>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </msup>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>e</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <msup>\n            <mi>e</mi>\n            <mi>x</mi>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>e</mi>\n                <mrow>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </msup>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>e</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <msup>\n            <mi>e</mi>\n            <mi>x</mi>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 108,
+      "anchor": "fs-id1167832929868",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Solve Exponential Equations",
+        "In the following exercises, solve each equation."
+      ],
+      "text": "\\(\\frac{ {e}^{ {x}^{2} } }{ {e}^{3} } = {e}^{ 2 x }\\)",
+      "math": [
+        "\\frac{ {e}^{ {x}^{2} } }{ {e}^{3} } = {e}^{ 2 x }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>e</mi>\n                <mrow>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </msup>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>e</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n            </mrow>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>e</mi>\n                <mrow>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </msup>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>e</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n            </mrow>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 109,
+      "anchor": "fs-id1167836571140",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "In the following exercises, solve each equation.",
+        "In the following exercises, match the graphs to one of the following functions: ⓐ \\({2}^{x}\\) ⓑ \\({2}^{x+1}\\) ⓒ \\({2}^{x-1}\\) ⓓ \\({2}^{x}+2\\) ⓔ \\({2}^{x}-2\\) ⓕ \\({3}^{x}\\)"
+      ],
+      "text": "[FIGURA: This figure shows an exponential that passes through (1, 1 over 3), (0, 1), and (1, 3).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure shows an exponential that passes through (1, 1 over 3), (0, 1), and (1, 3)."
+      ]
+    },
+    {
+      "number": 110,
+      "anchor": "fs-id1167829906628",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "In the following exercises, solve each equation.",
+        "In the following exercises, match the graphs to one of the following functions: ⓐ \\({2}^{x}\\) ⓑ \\({2}^{x+1}\\) ⓒ \\({2}^{x-1}\\) ⓓ \\({2}^{x}+2\\) ⓔ \\({2}^{x}-2\\) ⓕ \\({3}^{x}\\)"
+      ],
+      "text": "[FIGURA: This figure shows an exponential that passes through (negative 2, 1 over 2), (negative 1, 1), and (0, 2).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure shows an exponential that passes through (negative 2, 1 over 2), (negative 1, 1), and (0, 2)."
+      ]
+    },
+    {
+      "number": 111,
+      "anchor": "fs-id1167836327321",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "In the following exercises, solve each equation.",
+        "In the following exercises, match the graphs to one of the following functions: ⓐ \\({2}^{x}\\) ⓑ \\({2}^{x+1}\\) ⓒ \\({2}^{x-1}\\) ⓓ \\({2}^{x}+2\\) ⓔ \\({2}^{x}-2\\) ⓕ \\({3}^{x}\\)"
+      ],
+      "text": "[FIGURA: This figure shows an exponential that passes through (1, 1 over 2), (0, 1), and (1, 2).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure shows an exponential that passes through (1, 1 over 2), (0, 1), and (1, 2)."
+      ]
+    },
+    {
+      "number": 112,
+      "anchor": "fs-id1167836406799",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "In the following exercises, solve each equation.",
+        "In the following exercises, match the graphs to one of the following functions: ⓐ \\({2}^{x}\\) ⓑ \\({2}^{x+1}\\) ⓒ \\({2}^{x-1}\\) ⓓ \\({2}^{x}+2\\) ⓔ \\({2}^{x}-2\\) ⓕ \\({3}^{x}\\)"
+      ],
+      "text": "[FIGURA: This figure shows an exponential that passes through (0, 1 over 2), (1, 1), and (2, 2).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure shows an exponential that passes through (0, 1 over 2), (1, 1), and (2, 2)."
+      ]
+    },
+    {
+      "number": 113,
+      "anchor": "fs-id1167829595987",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "In the following exercises, solve each equation.",
+        "In the following exercises, match the graphs to one of the following functions: ⓐ \\({2}^{x}\\) ⓑ \\({2}^{x+1}\\) ⓒ \\({2}^{x-1}\\) ⓓ \\({2}^{x}+2\\) ⓔ \\({2}^{x}-2\\) ⓕ \\({3}^{x}\\)"
+      ],
+      "text": "[FIGURA: This figure shows an exponential that passes through (negative 1, 3 over 2), (0, negative 1), and (1, 0).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure shows an exponential that passes through (negative 1, 3 over 2), (0, negative 1), and (1, 0)."
+      ]
+    },
+    {
+      "number": 114,
+      "anchor": "fs-id1167836360604",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "In the following exercises, solve each equation.",
+        "In the following exercises, match the graphs to one of the following functions: ⓐ \\({2}^{x}\\) ⓑ \\({2}^{x+1}\\) ⓒ \\({2}^{x-1}\\) ⓓ \\({2}^{x}+2\\) ⓔ \\({2}^{x}-2\\) ⓕ \\({3}^{x}\\)"
+      ],
+      "text": "[FIGURA: This figure shows an exponential that passes through (negative 1, 5 over 2), (0, 3), and (1, 4).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure shows an exponential that passes through (negative 1, 5 over 2), (0, 3), and (1, 4)."
+      ]
+    },
+    {
+      "number": 115,
+      "anchor": "fs-id1167826024628",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Use exponential models in applications",
+        "In the following exercises, use an exponential model to solve."
+      ],
+      "text": "Edgar accumulated \\(\\$5,000\\) in credit card debt. If the interest rate is \\(20%\\) per year, and he does not make any payments for 2 years, how much will he owe on this debt in 2 years by each method of compounding? ⓐ compound quarterly ⓑ compound monthly ⓒ compound continuously",
+      "math": [
+        "$5,000",
+        "20%"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>$</mtext><mn>5,000</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>$</mtext><mn>5,000</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>20</mn><mtext>%</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>20</mn><mtext>%</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 116,
+      "anchor": "fs-id1167833138146",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Use exponential models in applications",
+        "In the following exercises, use an exponential model to solve."
+      ],
+      "text": "Cynthia invested \\(\\$12,000\\) in a savings account. If the interest rate is \\(6%,\\) how much will be in the account in 10 years by each method of compounding? ⓐ compound quarterlyⓑ compound monthly ⓒ compound continuously",
+      "math": [
+        "$12,000",
+        "6%,"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>$</mtext><mn>12,000</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>$</mtext><mn>12,000</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>6</mn><mtext>%</mtext><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>6</mn><mtext>%</mtext><mo>,</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 117,
+      "anchor": "fs-id1167836440538",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Use exponential models in applications",
+        "In the following exercises, use an exponential model to solve."
+      ],
+      "text": "Rochelle deposits \\(\\$5,000\\) in an IRA. What will be the value of her investment in 25 years if the investment is earning \\(8%\\) per year and is compounded continuously?",
+      "math": [
+        "$5,000",
+        "8%"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>$</mtext><mn>5,000</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>$</mtext><mn>5,000</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>8</mn><mtext>%</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>8</mn><mtext>%</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 118,
+      "anchor": "fs-id1167836684973",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Use exponential models in applications",
+        "In the following exercises, use an exponential model to solve."
+      ],
+      "text": "Nazerhy deposits \\(\\$8,000\\) in a certificate of deposit. The annual interest rate is \\(6%\\) and the interest will be compounded quarterly. How much will the certificate be worth in 10 years?",
+      "math": [
+        "$8,000",
+        "6%"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>$</mtext><mn>8,000</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>$</mtext><mn>8,000</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>6</mn><mtext>%</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>6</mn><mtext>%</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 119,
+      "anchor": "fs-id1167833377186",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Use exponential models in applications",
+        "In the following exercises, use an exponential model to solve."
+      ],
+      "text": "A researcher at the Center for Disease Control and Prevention is studying the growth of a bacteria. He starts his experiment with 100 of the bacteria that grows at a rate of \\(6%\\) per hour. He will check on the bacteria every 8 hours. How many bacteria will he find in 8 hours?",
+      "math": [
+        "6%"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>6</mn><mtext>%</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>6</mn><mtext>%</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 120,
+      "anchor": "fs-id1167829689066",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Use exponential models in applications",
+        "In the following exercises, use an exponential model to solve."
+      ],
+      "text": "A biologist is observing the growth pattern of a virus. She starts with 50 of the virus that grows at a rate of \\(20%\\) per hour. She will check on the virus in 24 hours. How many viruses will she find?",
+      "math": [
+        "20%"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>20</mn><mtext>%</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>20</mn><mtext>%</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 121,
+      "anchor": "fs-id1167836323412",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Use exponential models in applications",
+        "In the following exercises, use an exponential model to solve."
+      ],
+      "text": "In the last ten years the population of Indonesia has grown at a rate of \\(1.12%\\) per year to 258,316,051. If this rate continues, what will be the population in 10 more years?",
+      "math": [
+        "1.12%"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>1.12</mn><mtext>%</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>1.12</mn><mtext>%</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 122,
+      "anchor": "fs-id1167836610448",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Use exponential models in applications",
+        "In the following exercises, use an exponential model to solve."
+      ],
+      "text": "In the last ten years the population of Brazil has grown at a rate of \\(0.9%\\) per year to 205,823,665. If this rate continues, what will be the population in 10 more years?",
+      "math": [
+        "0.9%"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>0.9</mn><mtext>%</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>0.9</mn><mtext>%</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 123,
+      "anchor": "fs-id1167826171541",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain how you can distinguish between exponential functions and polynomial functions.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 124,
+      "anchor": "fs-id1167826133016",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Compare and contrast the graphs of \\(y={x}^{2}\\) and \\(y={2}^{x}\\).",
+      "math": [
+        "y={x}^{2}",
+        "y={2}^{x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><msup><mn>2</mn><mi>x</mi></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><msup><mn>2</mn><mi>x</mi></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 125,
+      "anchor": "fs-id1167836630538",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "What happens to an exponential function as the values of \\(x\\) decreases? Will the graph ever cross the\\(x\\)-axis? Explain.",
+      "math": [
+        "x",
+        "x"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mi>x</mi></mrow><annotation-xml encoding=\"MathML-Content\"><mi>x</mi></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mi>x</mi></mrow><annotation-xml encoding=\"MathML-Content\"><mi>x</mi></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "10.19",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167829850844",
+      "context": [
+        "Graph Exponential Functions"
+      ],
+      "text": "Graph: \\(f(x)={4}^{x}.\\)",
+      "math": [
+        "f(x)={4}^{x}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mn>4</mn><mi>x</mi></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mn>4</mn><mi>x</mi></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.20",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167836549679",
+      "context": [
+        "Graph Exponential Functions"
+      ],
+      "text": "Graph: \\(g(x)={5}^{x}.\\)",
+      "math": [
+        "g(x)={5}^{x}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mn>5</mn><mi>x</mi></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mn>5</mn><mi>x</mi></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.21",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167836543755",
+      "context": [
+        "Graph Exponential Functions"
+      ],
+      "text": "Graph: \\(f(x)={(\\frac{1}{4})}^{x}.\\)",
+      "math": [
+        "f(x)={(\\frac{1}{4})}^{x}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow><mo>)</mo></mrow></mrow><mi>x</mi></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow><mo>)</mo></mrow></mrow><mi>x</mi></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.22",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167829720040",
+      "context": [
+        "Graph Exponential Functions"
+      ],
+      "text": "Graph: \\(g(x)={(\\frac{1}{5})}^{x}.\\)",
+      "math": [
+        "g(x)={(\\frac{1}{5})}^{x}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow><mo>)</mo></mrow></mrow><mi>x</mi></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow><mo>)</mo></mrow></mrow><mi>x</mi></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.23",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167836662585",
+      "context": [
+        "Graph Exponential Functions"
+      ],
+      "text": "On the same coordinate system, graph: \\(f(x)={2}^{x}\\) and \\(g(x)={2}^{x-1}.\\)",
+      "math": [
+        "f(x)={2}^{x}",
+        "g(x)={2}^{x-1}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mn>2</mn><mi>x</mi></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mn>2</mn><mi>x</mi></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mn>2</mn><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mn>2</mn><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.24",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167836480992",
+      "context": [
+        "Graph Exponential Functions"
+      ],
+      "text": "On the same coordinate system, graph: \\(f(x)={3}^{x}\\) and \\(g(x)={3}^{x+1}.\\)",
+      "math": [
+        "f(x)={3}^{x}",
+        "g(x)={3}^{x+1}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mn>3</mn><mi>x</mi></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mn>3</mn><mi>x</mi></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mn>3</mn><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mn>3</mn><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.25",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167833025186",
+      "context": [
+        "Graph Exponential Functions"
+      ],
+      "text": "On the same coordinate system, graph: \\(f(x)={3}^{x}\\) and \\(g(x)={3}^{x}+2.\\)",
+      "math": [
+        "f(x)={3}^{x}",
+        "g(x)={3}^{x}+2."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mn>3</mn><mi>x</mi></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mn>3</mn><mi>x</mi></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mn>3</mn><mi>x</mi></msup><mo>+</mo><mn>2</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mn>3</mn><mi>x</mi></msup><mo>+</mo><mn>2</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.26",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167836701273",
+      "context": [
+        "Graph Exponential Functions"
+      ],
+      "text": "On the same coordinate system, graph: \\(f(x)={4}^{x}\\) and \\(g(x)={4}^{x}-2.\\)",
+      "math": [
+        "f(x)={4}^{x}",
+        "g(x)={4}^{x}-2."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mn>4</mn><mi>x</mi></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mn>4</mn><mi>x</mi></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mn>4</mn><mi>x</mi></msup><mo>−</mo><mn>2</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mn>4</mn><mi>x</mi></msup><mo>−</mo><mn>2</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.27",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167829924466",
+      "context": [
+        "Solve Exponential Equations"
+      ],
+      "text": "Solve: \\({3}^{3x-2}=81.\\)",
+      "math": [
+        "{3}^{3x-2}=81."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mn>3</mn><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>2</mn></mrow></msup><mo>=</mo><mn>81</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mn>3</mn><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>2</mn></mrow></msup><mo>=</mo><mn>81</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.28",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167836612582",
+      "context": [
+        "Solve Exponential Equations"
+      ],
+      "text": "Solve: \\({7}^{x-3}=7.\\)",
+      "math": [
+        "{7}^{x-3}=7."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mn>7</mn><mrow><mi>x</mi><mo>−</mo><mn>3</mn></mrow></msup><mo>=</mo><mn>7</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mn>7</mn><mrow><mi>x</mi><mo>−</mo><mn>3</mn></mrow></msup><mo>=</mo><mn>7</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.29",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167836552087",
+      "context": [
+        "Solve Exponential Equations"
+      ],
+      "text": "Solve: \\(\\frac{{e}^{{x}^{2}}}{{e}^{x}}={e}^{2}.\\)",
+      "math": [
+        "\\frac{{e}^{{x}^{2}}}{{e}^{x}}={e}^{2}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msup><mi>e</mi><mrow><msup><mi>x</mi><mn>2</mn></msup></mrow></msup></mrow><mrow><msup><mi>e</mi><mi>x</mi></msup></mrow></mfrac><mo>=</mo><msup><mi>e</mi><mn>2</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msup><mi>e</mi><mrow><msup><mi>x</mi><mn>2</mn></msup></mrow></msup></mrow><mrow><msup><mi>e</mi><mi>x</mi></msup></mrow></mfrac><mo>=</mo><msup><mi>e</mi><mn>2</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.30",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167836628862",
+      "context": [
+        "Solve Exponential Equations"
+      ],
+      "text": "Solve: \\(\\frac{{e}^{{x}^{2}}}{{e}^{x}}={e}^{6}.\\)",
+      "math": [
+        "\\frac{{e}^{{x}^{2}}}{{e}^{x}}={e}^{6}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msup><mi>e</mi><mrow><msup><mi>x</mi><mn>2</mn></msup></mrow></msup></mrow><mrow><msup><mi>e</mi><mi>x</mi></msup></mrow></mfrac><mo>=</mo><msup><mi>e</mi><mn>6</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msup><mi>e</mi><mrow><msup><mi>x</mi><mn>2</mn></msup></mrow></msup></mrow><mrow><msup><mi>e</mi><mi>x</mi></msup></mrow></mfrac><mo>=</mo><msup><mi>e</mi><mn>6</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.31",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167836326753",
+      "context": [
+        "Use Exponential Models in Applications"
+      ],
+      "text": "Angela invested \\(\\$15,000\\) in a savings account. If the interest rate is \\(4%,\\) how much will be in the account in 10 years by each method of compounding? ⓐ compound quarterly ⓑ compound monthly ⓒ compound continuously",
+      "math": [
+        "$15,000",
+        "4%,"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>$</mtext><mn>15,000</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>$</mtext><mn>15,000</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mtext>%</mtext><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mtext>%</mtext><mo>,</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.32",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167836449449",
+      "context": [
+        "Use Exponential Models in Applications"
+      ],
+      "text": "Allan invested $10,000 in a mutual fund. If the interest rate is \\(5%,\\) how much will be in the account in 15 years by each method of compounding? ⓐ compound quarterly ⓑ compound monthly ⓒ compound continuously",
+      "math": [
+        "5%,"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mtext>%</mtext><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mtext>%</mtext><mo>,</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.33",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167836388369",
+      "context": [
+        "Use Exponential Models in Applications"
+      ],
+      "text": "Another researcher at the Center for Disease Control and Prevention, Lisa, is studying the growth of a bacteria. She starts her experiment with 50 of the bacteria that grows at a rate of \\(15%\\) per hour. She will check on the bacteria every 8 hours. How many bacteria will she find in 8 hours?",
+      "math": [
+        "15%"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>15</mn><mtext>%</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>15</mn><mtext>%</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.34",
+      "page": "10-2-evaluate-and-graph-exponential-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167836525488",
+      "context": [
+        "Use Exponential Models in Applications"
+      ],
+      "text": "Milan, a biologist is observing the growth pattern of a virus. They start with 100 of the virus that grows at a rate of \\(10%\\) per hour. They will check on the virus in 24 hours. How many viruses will they find?",
+      "math": [
+        "10%"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>10</mn><mtext>%</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>10</mn><mtext>%</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

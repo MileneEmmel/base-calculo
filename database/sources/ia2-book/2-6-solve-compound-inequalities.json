@@ -1,0 +1,1300 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/2-6-solve-compound-inequalities",
+  "title": "2.6 Solve Compound Inequalities",
+  "sha256": "5dd29d80d66f2151555f319c7dd83681f92d7373a729519ba63243d147b3671d",
+  "questions": [
+    {
+      "number": 376,
+      "anchor": "fs-id1167835410923",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “and”",
+        "In the following exercises, solve each inequality, graph the solution, and write the solution in interval notation."
+      ],
+      "text": "\\(x<3\\) and \\(x≥1\\)",
+      "math": [
+        "x<3",
+        "x\\ge 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>&lt;</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>&lt;</mo><mn>3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>≥</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>≥</mo><mn>1</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 377,
+      "anchor": "fs-id1167835365420",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “and”",
+        "In the following exercises, solve each inequality, graph the solution, and write the solution in interval notation."
+      ],
+      "text": "\\(x≤4\\) and \\(x>-2\\)",
+      "math": [
+        "x\\le 4",
+        "x>-2"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>≤</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>≤</mo><mn>4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>&gt;</mo><mn>−2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>&gt;</mo><mn>−2</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 378,
+      "anchor": "fs-id1167835172044",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “and”",
+        "In the following exercises, solve each inequality, graph the solution, and write the solution in interval notation."
+      ],
+      "text": "\\(x≥-4\\) and \\(x≤-1\\)",
+      "math": [
+        "x\\ge -4",
+        "x\\le -1"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>≥</mo><mn>−4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>≥</mo><mn>−4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>≤</mo><mn>−1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>≤</mo><mn>−1</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 379,
+      "anchor": "fs-id1167832226738",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “and”",
+        "In the following exercises, solve each inequality, graph the solution, and write the solution in interval notation."
+      ],
+      "text": "\\(x>-6\\) and \\(x<-3\\)",
+      "math": [
+        "x>-6",
+        "x<-3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>&gt;</mo><mn>−6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>&gt;</mo><mn>−6</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>&lt;</mo><mn>−3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>&lt;</mo><mn>−3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 380,
+      "anchor": "fs-id1167835479842",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “and”",
+        "In the following exercises, solve each inequality, graph the solution, and write the solution in interval notation."
+      ],
+      "text": "\\(5x-2<8\\) and \\(6x+9≥3\\)",
+      "math": [
+        "5x-2<8",
+        "6x+9\\ge 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mi>x</mi><mo>−</mo><mn>2</mn><mo>&lt;</mo><mn>8</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mi>x</mi><mo>−</mo><mn>2</mn><mo>&lt;</mo><mn>8</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>6</mn><mi>x</mi><mo>+</mo><mn>9</mn><mo>≥</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>6</mn><mi>x</mi><mo>+</mo><mn>9</mn><mo>≥</mo><mn>3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 381,
+      "anchor": "fs-id1167831920497",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “and”",
+        "In the following exercises, solve each inequality, graph the solution, and write the solution in interval notation."
+      ],
+      "text": "\\(4x-1<7\\) and \\(2x+8≥4\\)",
+      "math": [
+        "4x-1<7",
+        "2x+8\\ge 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mi>x</mi><mo>−</mo><mn>1</mn><mo>&lt;</mo><mn>7</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mi>x</mi><mo>−</mo><mn>1</mn><mo>&lt;</mo><mn>7</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>8</mn><mo>≥</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>8</mn><mo>≥</mo><mn>4</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 382,
+      "anchor": "fs-id1167834228215",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “and”",
+        "In the following exercises, solve each inequality, graph the solution, and write the solution in interval notation."
+      ],
+      "text": "\\(4x+6≤2\\) and\\(2x+1≥-5\\)",
+      "math": [
+        "4x+6\\le 2",
+        "2x+1\\ge -5"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mn>6</mn><mo>≤</mo><mn>2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mn>6</mn><mo>≤</mo><mn>2</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn><mo>≥</mo><mn>−5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn><mo>≥</mo><mn>−5</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 383,
+      "anchor": "fs-id1167835519126",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “and”",
+        "In the following exercises, solve each inequality, graph the solution, and write the solution in interval notation."
+      ],
+      "text": "\\(4x-2≤4\\) and\\(7x-1>-8\\)",
+      "math": [
+        "4x-2\\le 4",
+        "7x-1>-8"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mi>x</mi><mo>−</mo><mn>2</mn><mo>≤</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mi>x</mi><mo>−</mo><mn>2</mn><mo>≤</mo><mn>4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>7</mn><mi>x</mi><mo>−</mo><mn>1</mn><mo>&gt;</mo><mn>−8</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>7</mn><mi>x</mi><mo>−</mo><mn>1</mn><mo>&gt;</mo><mn>−8</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 384,
+      "anchor": "fs-id1167834061295",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “and”",
+        "In the following exercises, solve each inequality, graph the solution, and write the solution in interval notation."
+      ],
+      "text": "\\(2x-11<5\\) and\\(3x-8>-5\\)",
+      "math": [
+        "2x-11<5",
+        "3x-8>-5"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>11</mn><mo>&lt;</mo><mn>5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>11</mn><mo>&lt;</mo><mn>5</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>8</mn><mo>&gt;</mo><mn>−5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>8</mn><mo>&gt;</mo><mn>−5</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 385,
+      "anchor": "fs-id1167834376303",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “and”",
+        "In the following exercises, solve each inequality, graph the solution, and write the solution in interval notation."
+      ],
+      "text": "\\(7x-8<6\\) and\\(5x+7>-3\\)",
+      "math": [
+        "7x-8<6",
+        "5x+7>-3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>7</mn><mi>x</mi><mo>−</mo><mn>8</mn><mo>&lt;</mo><mn>6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>7</mn><mi>x</mi><mo>−</mo><mn>8</mn><mo>&lt;</mo><mn>6</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mi>x</mi><mo>+</mo><mn>7</mn><mo>&gt;</mo><mn>−3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mi>x</mi><mo>+</mo><mn>7</mn><mo>&gt;</mo><mn>−3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 386,
+      "anchor": "fs-id1167835280396",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “and”",
+        "In the following exercises, solve each inequality, graph the solution, and write the solution in interval notation."
+      ],
+      "text": "\\(4(2x-1)≤12\\) and\\(2(x+1)<4\\)",
+      "math": [
+        "4(2x-1)\\le 12",
+        "2(x+1)<4"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mrow><mo>(</mo><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>≤</mo><mn>12</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mrow><mo>(</mo><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>≤</mo><mn>12</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>&lt;</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>&lt;</mo><mn>4</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 387,
+      "anchor": "fs-id1167835395541",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “and”",
+        "In the following exercises, solve each inequality, graph the solution, and write the solution in interval notation."
+      ],
+      "text": "\\(5(3x-2)≤5\\) and\\(3(x+3)<3\\)",
+      "math": [
+        "5(3x-2)\\le 5",
+        "3(x+3)<3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mrow><mo>(</mo><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>≤</mo><mn>5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mrow><mo>(</mo><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>≤</mo><mn>5</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>&lt;</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>&lt;</mo><mn>3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 388,
+      "anchor": "fs-id1167832054794",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “and”",
+        "In the following exercises, solve each inequality, graph the solution, and write the solution in interval notation."
+      ],
+      "text": "\\(3(2x-3)>3\\) and\\(4(x+5)≥4\\)",
+      "math": [
+        "3(2x-3)>3",
+        "4(x+5)\\ge 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mrow><mo>(</mo><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>&gt;</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mrow><mo>(</mo><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>&gt;</mo><mn>3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>5</mn></mrow><mo>)</mo></mrow><mo>≥</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>5</mn></mrow><mo>)</mo></mrow><mo>≥</mo><mn>4</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 389,
+      "anchor": "fs-id1167828401864",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “and”",
+        "In the following exercises, solve each inequality, graph the solution, and write the solution in interval notation."
+      ],
+      "text": "\\(-3(x+4)<0\\) and\\(-1(3x-1)≤7\\)",
+      "math": [
+        "-3(x+4)<0",
+        "-1(3x-1)\\le 7"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−3</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>&lt;</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−3</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>&lt;</mo><mn>0</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−1</mn><mrow><mo>(</mo><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>≤</mo><mn>7</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−1</mn><mrow><mo>(</mo><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>≤</mo><mn>7</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 390,
+      "anchor": "fs-id1167835305263",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “and”",
+        "In the following exercises, solve each inequality, graph the solution, and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{1}{2}(3x-4)≤1\\) and\\(\\frac{1}{3}(x+6)≤4\\)",
+      "math": [
+        "\\frac{1}{2}(3x-4)\\le 1",
+        "\\frac{1}{3}(x+6)\\le 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mrow><mo>(</mo><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>≤</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mrow><mo>(</mo><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>≤</mo><mn>1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>6</mn></mrow><mo>)</mo></mrow><mo>≤</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>6</mn></mrow><mo>)</mo></mrow><mo>≤</mo><mn>4</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 391,
+      "anchor": "fs-id1167835336477",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “and”",
+        "In the following exercises, solve each inequality, graph the solution, and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{3}{4}(x-8)≤3\\) and\\(\\frac{1}{5}(x-5)≤3\\)",
+      "math": [
+        "\\frac{3}{4}(x-8)\\le 3",
+        "\\frac{1}{5}(x-5)\\le 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>8</mn></mrow><mo>)</mo></mrow><mo>≤</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>8</mn></mrow><mo>)</mo></mrow><mo>≤</mo><mn>3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>5</mn></mrow><mo>)</mo></mrow><mo>≤</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>5</mn></mrow><mo>)</mo></mrow><mo>≤</mo><mn>3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 392,
+      "anchor": "fs-id1167835622016",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “and”",
+        "In the following exercises, solve each inequality, graph the solution, and write the solution in interval notation."
+      ],
+      "text": "\\(5x-2≤3x+4\\) and\\(3x-4≥2x+1\\)",
+      "math": [
+        "5x-2\\le 3x+4",
+        "3x-4\\ge 2x+1"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mi>x</mi><mo>−</mo><mn>2</mn><mo>≤</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mi>x</mi><mo>−</mo><mn>2</mn><mo>≤</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn><mo>≥</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn><mo>≥</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 393,
+      "anchor": "fs-id1167835374454",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “and”",
+        "In the following exercises, solve each inequality, graph the solution, and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{3}{4}x-5≥-2\\) and\\(-3(x+1)≥6\\)",
+      "math": [
+        "\\frac{3}{4}x-5\\ge -2",
+        "-3(x+1)\\ge 6"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac><mi>x</mi><mo>−</mo><mn>5</mn><mo>≥</mo><mn>−2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac><mi>x</mi><mo>−</mo><mn>5</mn><mo>≥</mo><mn>−2</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−3</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>≥</mo><mn>6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−3</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>≥</mo><mn>6</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 394,
+      "anchor": "fs-id1167835358541",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “and”",
+        "In the following exercises, solve each inequality, graph the solution, and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{2}{3}x-6≥-4\\) and\\(-4(x+2)≥0\\)",
+      "math": [
+        "\\frac{2}{3}x-6\\ge -4",
+        "-4(x+2)\\ge 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>x</mi><mo>−</mo><mn>6</mn><mo>≥</mo><mn>−4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>x</mi><mo>−</mo><mn>6</mn><mo>≥</mo><mn>−4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−4</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>≥</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−4</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>≥</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 395,
+      "anchor": "fs-id1167832056107",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “and”",
+        "In the following exercises, solve each inequality, graph the solution, and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{1}{2}(x-6)+2<-5\\) and\\(4-\\frac{2}{3}x<6\\)",
+      "math": [
+        "\\frac{1}{2}(x-6)+2<-5",
+        "4-\\frac{2}{3}x<6"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>6</mn></mrow><mo>)</mo></mrow><mo>+</mo><mn>2</mn><mo>&lt;</mo><mn>−5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>6</mn></mrow><mo>)</mo></mrow><mo>+</mo><mn>2</mn><mo>&lt;</mo><mn>−5</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mo>−</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>x</mi><mo>&lt;</mo><mn>6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mo>−</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>x</mi><mo>&lt;</mo><mn>6</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 396,
+      "anchor": "fs-id1167834053651",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “and”",
+        "In the following exercises, solve each inequality, graph the solution, and write the solution in interval notation."
+      ],
+      "text": "\\(-5 ≤ 4 x - 1 < 7\\)",
+      "math": [
+        "-5 \\le 4 x - 1 < 7"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−5</mn>\n          <mo>≤</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n          <mo>&lt;</mo>\n          <mn>7</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−5</mn>\n          <mo>≤</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n          <mo>&lt;</mo>\n          <mn>7</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 397,
+      "anchor": "fs-id1167835216015",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “and”",
+        "In the following exercises, solve each inequality, graph the solution, and write the solution in interval notation."
+      ],
+      "text": "\\(-3 < 2 x - 5 ≤ 1\\)",
+      "math": [
+        "-3 < 2 x - 5 \\le 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−3</mn>\n          <mo>&lt;</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mo>≤</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−3</mn>\n          <mo>&lt;</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mo>≤</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 398,
+      "anchor": "fs-id1167834193415",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “and”",
+        "In the following exercises, solve each inequality, graph the solution, and write the solution in interval notation."
+      ],
+      "text": "\\(5 < 4 x + 1 < 9\\)",
+      "math": [
+        "5 < 4 x + 1 < 9"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>5</mn>\n          <mo>&lt;</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n          <mo>&lt;</mo>\n          <mn>9</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>5</mn>\n          <mo>&lt;</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n          <mo>&lt;</mo>\n          <mn>9</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 399,
+      "anchor": "fs-id1167835166910",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “and”",
+        "In the following exercises, solve each inequality, graph the solution, and write the solution in interval notation."
+      ],
+      "text": "\\(-1 < 3 x + 2 < 8\\)",
+      "math": [
+        "-1 < 3 x + 2 < 8"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−1</mn>\n          <mo>&lt;</mo>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>&lt;</mo>\n          <mn>8</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−1</mn>\n          <mo>&lt;</mo>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>&lt;</mo>\n          <mn>8</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 400,
+      "anchor": "fs-id1167834372491",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “and”",
+        "In the following exercises, solve each inequality, graph the solution, and write the solution in interval notation."
+      ],
+      "text": "\\(-8 < 5 x + 2 ≤ -3\\)",
+      "math": [
+        "-8 < 5 x + 2 \\le -3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−8</mn>\n          <mo>&lt;</mo>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>≤</mo>\n          <mn>−3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−8</mn>\n          <mo>&lt;</mo>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>≤</mo>\n          <mn>−3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 401,
+      "anchor": "fs-id1167826869972",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “and”",
+        "In the following exercises, solve each inequality, graph the solution, and write the solution in interval notation."
+      ],
+      "text": "\\(-6 ≤ 4 x - 2 < -2\\)",
+      "math": [
+        "-6 \\le 4 x - 2 < -2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−6</mn>\n          <mo>≤</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mo>&lt;</mo>\n          <mn>−2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−6</mn>\n          <mo>≤</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mo>&lt;</mo>\n          <mn>−2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 402,
+      "anchor": "fs-id1167835350578",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “or”",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(x≤-2\\) or \\(x>3\\)",
+      "math": [
+        "x\\le -2",
+        "x>3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>≤</mo><mn>−2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>≤</mo><mn>−2</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>&gt;</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>&gt;</mo><mn>3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 403,
+      "anchor": "fs-id1167834120546",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “or”",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(x≤-4\\) or \\(x>-3\\)",
+      "math": [
+        "x\\le -4",
+        "x>-3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>≤</mo><mn>−4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>≤</mo><mn>−4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>&gt;</mo><mn>−3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>&gt;</mo><mn>−3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 404,
+      "anchor": "fs-id1167834146970",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “or”",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(x<2\\) or \\(x≥5\\)",
+      "math": [
+        "x<2",
+        "x\\ge 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>&lt;</mo><mn>2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>&lt;</mo><mn>2</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>≥</mo><mn>5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>≥</mo><mn>5</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 405,
+      "anchor": "fs-id1167832026058",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “or”",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(x<0\\) or \\(x≥4\\)",
+      "math": [
+        "x<0",
+        "x\\ge 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>&lt;</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>&lt;</mo><mn>0</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>≥</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>≥</mo><mn>4</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 406,
+      "anchor": "fs-id1167826997912",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “or”",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(2+3x≤4\\) or\\(5-2x≤-1\\)",
+      "math": [
+        "2+3x\\le 4",
+        "5-2x\\le -1"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mo>+</mo><mn>3</mn><mi>x</mi><mo>≤</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mo>+</mo><mn>3</mn><mi>x</mi><mo>≤</mo><mn>4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mo>−</mo><mn>2</mn><mi>x</mi><mo>≤</mo><mn>−1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mo>−</mo><mn>2</mn><mi>x</mi><mo>≤</mo><mn>−1</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 407,
+      "anchor": "fs-id1167835234301",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “or”",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(4-3x≤-2\\) or\\(2x-1≤-5\\)",
+      "math": [
+        "4-3x\\le -2",
+        "2x-1\\le -5"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mo>−</mo><mn>3</mn><mi>x</mi><mo>≤</mo><mn>−2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mo>−</mo><mn>3</mn><mi>x</mi><mo>≤</mo><mn>−2</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>1</mn><mo>≤</mo><mn>−5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>1</mn><mo>≤</mo><mn>−5</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 408,
+      "anchor": "fs-id1167831106365",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “or”",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(2(3x-1)<4\\) or\\(3x-5>1\\)",
+      "math": [
+        "2(3x-1)<4",
+        "3x-5>1"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mrow><mo>(</mo><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>&lt;</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mrow><mo>(</mo><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>&lt;</mo><mn>4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>5</mn><mo>&gt;</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>5</mn><mo>&gt;</mo><mn>1</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 409,
+      "anchor": "fs-id1167830868590",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “or”",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(3(2x-3)<-5\\) or\\(4x-1>3\\)",
+      "math": [
+        "3(2x-3)<-5",
+        "4x-1>3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mrow><mo>(</mo><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>&lt;</mo><mn>−5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mrow><mo>(</mo><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>&lt;</mo><mn>−5</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mi>x</mi><mo>−</mo><mn>1</mn><mo>&gt;</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mi>x</mi><mo>−</mo><mn>1</mn><mo>&gt;</mo><mn>3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 410,
+      "anchor": "fs-id1167834252380",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “or”",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{3}{4}x-2>4\\) or \\(4(2-x)>0\\)",
+      "math": [
+        "\\frac{3}{4}x-2>4",
+        "4(2-x)>0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac><mi>x</mi><mo>−</mo><mn>2</mn><mo>&gt;</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac><mi>x</mi><mo>−</mo><mn>2</mn><mo>&gt;</mo><mn>4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mrow><mo>(</mo><mrow><mn>2</mn><mo>−</mo><mi>x</mi></mrow><mo>)</mo></mrow><mo>&gt;</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mrow><mo>(</mo><mrow><mn>2</mn><mo>−</mo><mi>x</mi></mrow><mo>)</mo></mrow><mo>&gt;</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 411,
+      "anchor": "fs-id1167830699114",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “or”",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{2}{3}x-3>5\\) or \\(3(5-x)>6\\)",
+      "math": [
+        "\\frac{2}{3}x-3>5",
+        "3(5-x)>6"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>x</mi><mo>−</mo><mn>3</mn><mo>&gt;</mo><mn>5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>x</mi><mo>−</mo><mn>3</mn><mo>&gt;</mo><mn>5</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mrow><mo>(</mo><mrow><mn>5</mn><mo>−</mo><mi>x</mi></mrow><mo>)</mo></mrow><mo>&gt;</mo><mn>6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mrow><mo>(</mo><mrow><mn>5</mn><mo>−</mo><mi>x</mi></mrow><mo>)</mo></mrow><mo>&gt;</mo><mn>6</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 412,
+      "anchor": "fs-id1167827958539",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “or”",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(3x-2>4\\) or \\(5x-3≤7\\)",
+      "math": [
+        "3x-2>4",
+        "5x-3\\le 7"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>2</mn><mo>&gt;</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>2</mn><mo>&gt;</mo><mn>4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mi>x</mi><mo>−</mo><mn>3</mn><mo>≤</mo><mn>7</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mi>x</mi><mo>−</mo><mn>3</mn><mo>≤</mo><mn>7</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 413,
+      "anchor": "fs-id1167831107016",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “or”",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(2(x+3)≥0\\) or\\(3(x+4)≤6\\)",
+      "math": [
+        "2(x+3)\\ge 0",
+        "3(x+4)\\le 6"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>≥</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>≥</mo><mn>0</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>≤</mo><mn>6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>≤</mo><mn>6</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 414,
+      "anchor": "fs-id1167834372539",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “or”",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{1}{2}x-3≤4\\) or\\(\\frac{1}{3}(x-6)≥-2\\)",
+      "math": [
+        "\\frac{1}{2}x-3\\le 4",
+        "\\frac{1}{3}(x-6)\\ge -2"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi><mo>−</mo><mn>3</mn><mo>≤</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi><mo>−</mo><mn>3</mn><mo>≤</mo><mn>4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>6</mn></mrow><mo>)</mo></mrow><mo>≥</mo><mn>−2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>6</mn></mrow><mo>)</mo></mrow><mo>≥</mo><mn>−2</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 415,
+      "anchor": "fs-id1167834429124",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Compound Inequalities with “or”",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{3}{4}x+2≤-1\\) or\\(\\frac{1}{2}(x+8)≥-3\\)",
+      "math": [
+        "\\frac{3}{4}x+2\\le -1",
+        "\\frac{1}{2}(x+8)\\ge -3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac><mi>x</mi><mo>+</mo><mn>2</mn><mo>≤</mo><mn>−1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac><mi>x</mi><mo>+</mo><mn>2</mn><mo>≤</mo><mn>−1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>8</mn></mrow><mo>)</mo></mrow><mo>≥</mo><mn>−3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>8</mn></mrow><mo>)</mo></mrow><mo>≥</mo><mn>−3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 416,
+      "anchor": "fs-id1167831923362",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Mixed practice",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(3x+7≤1\\) and\\(2x+3≥-5\\)",
+      "math": [
+        "3x+7\\le 1",
+        "2x+3\\ge -5"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mi>x</mi><mo>+</mo><mn>7</mn><mo>≤</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mi>x</mi><mo>+</mo><mn>7</mn><mo>≤</mo><mn>1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn><mo>≥</mo><mn>−5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn><mo>≥</mo><mn>−5</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 417,
+      "anchor": "fs-id1167832015546",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Mixed practice",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(6(2x-1)>6\\) and\\(5(x+2)≥0\\)",
+      "math": [
+        "6(2x-1)>6",
+        "5(x+2)\\ge 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>6</mn><mrow><mo>(</mo><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>&gt;</mo><mn>6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>6</mn><mrow><mo>(</mo><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>&gt;</mo><mn>6</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>≥</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>≥</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 418,
+      "anchor": "fs-id1167831832694",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Mixed practice",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(4-7x≥-3\\) or\\(5(x-3)+8>3\\)",
+      "math": [
+        "4-7x\\ge -3",
+        "5(x-3)+8>3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mo>−</mo><mn>7</mn><mi>x</mi><mo>≥</mo><mn>−3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mo>−</mo><mn>7</mn><mi>x</mi><mo>≥</mo><mn>−3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>+</mo><mn>8</mn><mo>&gt;</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>+</mo><mn>8</mn><mo>&gt;</mo><mn>3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 419,
+      "anchor": "fs-id1167834537127",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Mixed practice",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{1}{2}x-5≤3\\) or\\(\\frac{1}{4}(x-8)≥-3\\)",
+      "math": [
+        "\\frac{1}{2}x-5\\le 3",
+        "\\frac{1}{4}(x-8)\\ge -3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi><mo>−</mo><mn>5</mn><mo>≤</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi><mo>−</mo><mn>5</mn><mo>≤</mo><mn>3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>8</mn></mrow><mo>)</mo></mrow><mo>≥</mo><mn>−3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>8</mn></mrow><mo>)</mo></mrow><mo>≥</mo><mn>−3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 420,
+      "anchor": "fs-id1167826880124",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Mixed practice",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(-5 ≤ 2 x - 1 < 7\\)",
+      "math": [
+        "-5 \\le 2 x - 1 < 7"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−5</mn>\n          <mo>≤</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n          <mo>&lt;</mo>\n          <mn>7</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−5</mn>\n          <mo>≤</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n          <mo>&lt;</mo>\n          <mn>7</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 421,
+      "anchor": "fs-id1167834535529",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Mixed practice",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{1}{5}(x-5)+6<4\\) and\\(3-\\frac{2}{3}x<5\\)",
+      "math": [
+        "\\frac{1}{5}(x-5)+6<4",
+        "3-\\frac{2}{3}x<5"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>5</mn></mrow><mo>)</mo></mrow><mo>+</mo><mn>6</mn><mo>&lt;</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>5</mn></mrow><mo>)</mo></mrow><mo>+</mo><mn>6</mn><mo>&lt;</mo><mn>4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mo>−</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>x</mi><mo>&lt;</mo><mn>5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mo>−</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>x</mi><mo>&lt;</mo><mn>5</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 422,
+      "anchor": "fs-id1167834184189",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Mixed practice",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(4x-2>6\\) or\\(3x-1≤-2\\)",
+      "math": [
+        "4x-2>6",
+        "3x-1\\le -2"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mi>x</mi><mo>−</mo><mn>2</mn><mo>&gt;</mo><mn>6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mi>x</mi><mo>−</mo><mn>2</mn><mo>&gt;</mo><mn>6</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>1</mn><mo>≤</mo><mn>−2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>1</mn><mo>≤</mo><mn>−2</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 423,
+      "anchor": "fs-id1167835356559",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Mixed practice",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(6x-3≤1\\) and\\(5x-1>-6\\)",
+      "math": [
+        "6x-3\\le 1",
+        "5x-1>-6"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>6</mn><mi>x</mi><mo>−</mo><mn>3</mn><mo>≤</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>6</mn><mi>x</mi><mo>−</mo><mn>3</mn><mo>≤</mo><mn>1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mi>x</mi><mo>−</mo><mn>1</mn><mo>&gt;</mo><mn>−6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mi>x</mi><mo>−</mo><mn>1</mn><mo>&gt;</mo><mn>−6</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 424,
+      "anchor": "fs-id1167831880376",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Mixed practice",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(-2(3x-4)≤2\\) and\\(-4(x-1)<2\\)",
+      "math": [
+        "-2(3x-4)\\le 2",
+        "-4(x-1)<2"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−2</mn><mrow><mo>(</mo><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>≤</mo><mn>2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−2</mn><mrow><mo>(</mo><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>≤</mo><mn>2</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−4</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>&lt;</mo><mn>2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−4</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>&lt;</mo><mn>2</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 425,
+      "anchor": "fs-id1167835173744",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Mixed practice",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(-5 ≤ 3 x - 2 ≤ 4\\)",
+      "math": [
+        "-5 \\le 3 x - 2 \\le 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−5</mn>\n          <mo>≤</mo>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mo>≤</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−5</mn>\n          <mo>≤</mo>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mo>≤</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 426,
+      "anchor": "fs-id1167831911300",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Applications with Compound Inequalities",
+        "In the following exercises, solve."
+      ],
+      "text": "Penelope is playing a number game with her sister June. Penelope is thinking of a number and wants June to guess it. Five more than three times her number is between 2 and 32. Write a compound inequality that shows the range of numbers that Penelope might be thinking of.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 427,
+      "anchor": "fs-id1167826802327",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Applications with Compound Inequalities",
+        "In the following exercises, solve."
+      ],
+      "text": "Gregory is thinking of a number and he wants his sister Lauren to guess the number. His first clue is that six less than twice his number is between four and forty-two. Write a compound inequality that shows the range of numbers that Gregory might be thinking of.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 428,
+      "anchor": "fs-id1167834190496",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Applications with Compound Inequalities",
+        "In the following exercises, solve."
+      ],
+      "text": "Andrew is creating a rectangular dog run in his back yard. The length of the dog run is 18 feet. The perimeter of the dog run must be at least 42 feet and no more than 72 feet. Use a compound inequality to find the range of values for the width of the dog run.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 429,
+      "anchor": "fs-id1167835360423",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Solve Applications with Compound Inequalities",
+        "In the following exercises, solve."
+      ],
+      "text": "Elouise is creating a rectangular garden in her back yard. The length of the garden is 12 feet. The perimeter of the garden must be at least 36 feet and no more than 48 feet. Use a compound inequality to find the range of values for the width of the garden.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 430,
+      "anchor": "fs-id1167827943008",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Everyday Math"
+      ],
+      "text": "Blood Pressure A person’s blood pressure is measured with two numbers. The systolic blood pressure measures the pressure of the blood on the arteries as the heart beats. The diastolic blood pressure measures the pressure while the heart is resting. ⓐ Let x be your systolic blood pressure. Research and then write the compound inequality that shows you what a normal systolic blood pressure should be for someone your age. ⓑ Let y be your diastolic blood pressure. Research and then write the compound inequality that shows you what a normal diastolic blood pressure should be for someone your age.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 431,
+      "anchor": "fs-id1167834214012",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Everyday Math"
+      ],
+      "text": "Body Mass Index (BMI) is a measure of body fat is determined using your height and weight. ⓐ Let x be your BMI. Research and then write the compound inequality to show the BMI range for you to be considered normal weight. ⓑ Research a BMI calculator and determine your BMI. Is it a solution to the inequality in part (a)?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 432,
+      "anchor": "fs-id1167835283002",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "In your own words, explain the difference between the properties of equality and the properties of inequality.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 433,
+      "anchor": "fs-id1167835341545",
+      "page": "2-6-solve-compound-inequalities",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain the steps for solving the compound inequality \\(2-7x≥-5\\) or \\(4(x-3)+7>3.\\)",
+      "math": [
+        "2-7x\\ge -5",
+        "4(x-3)+7>3."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mo>−</mo><mn>7</mn><mi>x</mi><mo>≥</mo><mn>−5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mo>−</mo><mn>7</mn><mi>x</mi><mo>≥</mo><mn>−5</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>+</mo><mn>7</mn><mo>&gt;</mo><mn>3</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>+</mo><mn>7</mn><mo>&gt;</mo><mn>3</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "2.121",
+      "page": "2-6-solve-compound-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167832046520",
+      "context": [
+        "Solve Compound Inequalities with “and”"
+      ],
+      "text": "Solve the compound inequality. Graph the solution and write the solution in interval notation: \\(4x-7<9\\) and \\(5x+8≥3.\\)",
+      "math": [
+        "4x-7<9",
+        "5x+8\\ge 3."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mi>x</mi><mo>−</mo><mn>7</mn><mo>&lt;</mo><mn>9</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mi>x</mi><mo>−</mo><mn>7</mn><mo>&lt;</mo><mn>9</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mi>x</mi><mo>+</mo><mn>8</mn><mo>≥</mo><mn>3</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mi>x</mi><mo>+</mo><mn>8</mn><mo>≥</mo><mn>3</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.122",
+      "page": "2-6-solve-compound-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167835303505",
+      "context": [
+        "Solve Compound Inequalities with “and”"
+      ],
+      "text": "Solve the compound inequality. Graph the solution and write the solution in interval notation: \\(3x-4<5\\) and \\(4x+9≥1.\\)",
+      "math": [
+        "3x-4<5",
+        "4x+9\\ge 1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn><mo>&lt;</mo><mn>5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn><mo>&lt;</mo><mn>5</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mn>9</mn><mo>≥</mo><mn>1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mn>9</mn><mo>≥</mo><mn>1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.123",
+      "page": "2-6-solve-compound-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167835419122",
+      "context": [
+        "Solve Compound Inequalities with “and”"
+      ],
+      "text": "Solve the compound inequality. Graph the solution and write the solution in interval notation: \\(2(3x+1)≤20\\) and \\(4(x-1)<2.\\)",
+      "math": [
+        "2(3x+1)\\le 20",
+        "4(x-1)<2."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mrow><mo>(</mo><mrow><mn>3</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>≤</mo><mn>20</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mrow><mo>(</mo><mrow><mn>3</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>≤</mo><mn>20</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>&lt;</mo><mn>2</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>&lt;</mo><mn>2</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.124",
+      "page": "2-6-solve-compound-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167832056538",
+      "context": [
+        "Solve Compound Inequalities with “and”"
+      ],
+      "text": "Solve the compound inequality. Graph the solution and write the solution in interval notation: \\(5(3x-1)≤10\\) and \\(4(x+3)<8.\\)",
+      "math": [
+        "5(3x-1)\\le 10",
+        "4(x+3)<8."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mrow><mo>(</mo><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>≤</mo><mn>10</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mrow><mo>(</mo><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>≤</mo><mn>10</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>&lt;</mo><mn>8</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>&lt;</mo><mn>8</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.125",
+      "page": "2-6-solve-compound-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167835343501",
+      "context": [
+        "Solve Compound Inequalities with “and”"
+      ],
+      "text": "Solve the compound inequality. Graph the solution and write the solution in interval notation: \\(\\frac{1}{4}x-3≥-1\\) and \\(-3(x-2)≥2.\\)",
+      "math": [
+        "\\frac{1}{4}x-3\\ge -1",
+        "-3(x-2)\\ge 2."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac><mi>x</mi><mo>−</mo><mn>3</mn><mo>≥</mo><mn>−1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac><mi>x</mi><mo>−</mo><mn>3</mn><mo>≥</mo><mn>−1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−3</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>≥</mo><mn>2</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−3</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>≥</mo><mn>2</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.126",
+      "page": "2-6-solve-compound-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167835341663",
+      "context": [
+        "Solve Compound Inequalities with “and”"
+      ],
+      "text": "Solve the compound inequality. Graph the solution and write the solution in interval notation: \\(\\frac{1}{5}x-5≥-3\\) and \\(-4(x-1)≥-2.\\)",
+      "math": [
+        "\\frac{1}{5}x-5\\ge -3",
+        "-4(x-1)\\ge -2."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac><mi>x</mi><mo>−</mo><mn>5</mn><mo>≥</mo><mn>−3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac><mi>x</mi><mo>−</mo><mn>5</mn><mo>≥</mo><mn>−3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−4</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>≥</mo><mn>−2</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−4</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>≥</mo><mn>−2</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.127",
+      "page": "2-6-solve-compound-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167827957278",
+      "context": [
+        "Solve Compound Inequalities with “and”"
+      ],
+      "text": "Solve the compound inequality. Graph the solution and write the solution in interval notation: \\(-5≤4x-1<7.\\)",
+      "math": [
+        "-5\\le 4x-1<7."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−5</mn><mo>≤</mo><mn>4</mn><mi>x</mi><mo>−</mo><mn>1</mn><mo>&lt;</mo><mn>7</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−5</mn><mo>≤</mo><mn>4</mn><mi>x</mi><mo>−</mo><mn>1</mn><mo>&lt;</mo><mn>7</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.128",
+      "page": "2-6-solve-compound-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167835232564",
+      "context": [
+        "Solve Compound Inequalities with “and”"
+      ],
+      "text": "Solve the compound inequality. Graph the solution and write the solution in interval notation: \\(-3<2x-5≤1.\\)",
+      "math": [
+        "-3<2x-5\\le 1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−3</mn><mo>&lt;</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>5</mn><mo>≤</mo><mn>1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−3</mn><mo>&lt;</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>5</mn><mo>≤</mo><mn>1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.129",
+      "page": "2-6-solve-compound-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167835377510",
+      "context": [
+        "Solve Compound Inequalities with “or”"
+      ],
+      "text": "Solve the compound inequality. Graph the solution and write the solution in interval notation: \\(1-2x≤-3\\) or \\(7+3x≤4.\\)",
+      "math": [
+        "1-2x\\le -3",
+        "7+3x\\le 4."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>1</mn><mo>−</mo><mn>2</mn><mi>x</mi><mo>≤</mo><mn>−3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>1</mn><mo>−</mo><mn>2</mn><mi>x</mi><mo>≤</mo><mn>−3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>7</mn><mo>+</mo><mn>3</mn><mi>x</mi><mo>≤</mo><mn>4</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>7</mn><mo>+</mo><mn>3</mn><mi>x</mi><mo>≤</mo><mn>4</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.130",
+      "page": "2-6-solve-compound-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167831880592",
+      "context": [
+        "Solve Compound Inequalities with “or”"
+      ],
+      "text": "Solve the compound inequality. Graph the solution and write the solution in interval notation: \\(2-5x≤-3\\) or \\(5+2x≤3.\\)",
+      "math": [
+        "2-5x\\le -3",
+        "5+2x\\le 3."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mo>−</mo><mn>5</mn><mi>x</mi><mo>≤</mo><mn>−3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mo>−</mo><mn>5</mn><mi>x</mi><mo>≤</mo><mn>−3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mo>+</mo><mn>2</mn><mi>x</mi><mo>≤</mo><mn>3</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mo>+</mo><mn>2</mn><mi>x</mi><mo>≤</mo><mn>3</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.131",
+      "page": "2-6-solve-compound-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167834246594",
+      "context": [
+        "Solve Compound Inequalities with “or”"
+      ],
+      "text": "Solve the compound inequality. Graph the solution and write the solution in interval notation: \\(\\frac{3}{5}x-7≤-1\\) or \\(\\frac{1}{3}(x+6)≥-2.\\)",
+      "math": [
+        "\\frac{3}{5}x-7\\le -1",
+        "\\frac{1}{3}(x+6)\\ge -2."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>3</mn><mn>5</mn></mfrac><mi>x</mi><mo>−</mo><mn>7</mn><mo>≤</mo><mn>−1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>3</mn><mn>5</mn></mfrac><mi>x</mi><mo>−</mo><mn>7</mn><mo>≤</mo><mn>−1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>6</mn></mrow><mo>)</mo></mrow><mo>≥</mo><mn>−2</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>6</mn></mrow><mo>)</mo></mrow><mo>≥</mo><mn>−2</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.132",
+      "page": "2-6-solve-compound-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167834099096",
+      "context": [
+        "Solve Compound Inequalities with “or”"
+      ],
+      "text": "Solve the compound inequality. Graph the solution and write the solution in interval notation: \\(\\frac{3}{4}x-3≤3\\) or \\(\\frac{2}{5}(x+10)≥0.\\)",
+      "math": [
+        "\\frac{3}{4}x-3\\le 3",
+        "\\frac{2}{5}(x+10)\\ge 0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac><mi>x</mi><mo>−</mo><mn>3</mn><mo>≤</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac><mi>x</mi><mo>−</mo><mn>3</mn><mo>≤</mo><mn>3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>2</mn><mn>5</mn></mfrac><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>10</mn></mrow><mo>)</mo></mrow><mo>≥</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>2</mn><mn>5</mn></mfrac><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>10</mn></mrow><mo>)</mo></mrow><mo>≥</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.133",
+      "page": "2-6-solve-compound-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167835269568",
+      "context": [
+        "Solve Applications with Compound Inequalities"
+      ],
+      "text": "Due to the drought in California, many communities now have tiered water rates. There are different rates for Conservation Usage, Normal Usage and Excessive Usage. The usage is measured in the number of hundred cubic feet (hcf) the property owner uses. During the summer, a property owner will pay $24.72 plus $1.32 per hcf for Conservation Usage. The bill for Conservation Usage would be between or equal to $31.32 and $52.12. How many hcf can the owner use if she wants her usage to stay in the conservation range?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "2.134",
+      "page": "2-6-solve-compound-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167831911604",
+      "context": [
+        "Solve Applications with Compound Inequalities"
+      ],
+      "text": "Due to the drought in California, many communities have tiered water rates. There are different rates for Conservation Usage, Normal Usage and Excessive Usage. The usage is measured in the number of hundred cubic feet (hcf) the property owner uses. During the winter, a property owner will pay $24.72 plus $1.54 per hcf for Normal Usage. The bill for Normal Usage would be between or equal to $49.36 and $86.32. How many hcf will he be allowed to use if he wants his usage to stay in the normal range?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

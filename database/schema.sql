@@ -11,6 +11,7 @@ CREATE TABLE modules (
 CREATE TABLE topics (
     id TEXT PRIMARY KEY,
     module_id TEXT NOT NULL REFERENCES modules(id),
+    parent_id TEXT REFERENCES topics(id),
     slug TEXT NOT NULL UNIQUE,
     title TEXT NOT NULL,
     description TEXT NOT NULL,
@@ -41,7 +42,7 @@ CREATE TABLE questions (
     question_type TEXT NOT NULL CHECK (
         question_type IN ('numeric', 'short_text', 'multiple_choice')
     ),
-    difficulty INTEGER NOT NULL CHECK (difficulty BETWEEN 1 AND 5),
+    difficulty INTEGER NOT NULL CHECK (difficulty BETWEEN 1 AND 4),
     answer_json TEXT NOT NULL,
     hint_md TEXT,
     solution_md TEXT NOT NULL,
@@ -87,6 +88,7 @@ SELECT
     t.title AS topic_title,
     m.slug AS module_slug,
     m.title AS module_title,
+    s.id AS source_id,
     s.title AS source_title,
     s.authors AS source_authors,
     s.url AS source_url,

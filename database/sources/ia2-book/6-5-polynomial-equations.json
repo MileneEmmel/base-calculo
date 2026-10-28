@@ -1,0 +1,1374 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/6-5-polynomial-equations",
+  "title": "6.5 Polynomial Equations",
+  "sha256": "d9e8e3d550b14d802949e812edb8d00008e32c22268847eaa5f79ce15bada494",
+  "questions": [
+    {
+      "number": 277,
+      "anchor": "fs-id1167836652581",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Use the Zero Product Property",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(( 3 a - 10 ) ( 2 a - 7 ) = 0\\)",
+      "math": [
+        "( 3 a - 10 ) ( 2 a - 7 ) = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>10</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>10</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 278,
+      "anchor": "fs-id1167833024298",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Use the Zero Product Property",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(( 5 b + 1 ) ( 6 b + 1 ) = 0\\)",
+      "math": [
+        "( 5 b + 1 ) ( 6 b + 1 ) = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mi>b</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>6</mn>\n              <mi>b</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mi>b</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>6</mn>\n              <mi>b</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 279,
+      "anchor": "fs-id1167836623729",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Use the Zero Product Property",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(6 m ( 12 m - 5 ) = 0\\)",
+      "math": [
+        "6 m ( 12 m - 5 ) = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>6</mn>\n          <mi>m</mi>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>12</mn>\n              <mi>m</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>6</mn>\n          <mi>m</mi>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>12</mn>\n              <mi>m</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 280,
+      "anchor": "fs-id1167836504078",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Use the Zero Product Property",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(2 x ( 6 x - 3 ) = 0\\)",
+      "math": [
+        "2 x ( 6 x - 3 ) = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>6</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>6</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 281,
+      "anchor": "fs-id1167833082106",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Use the Zero Product Property",
+        "In the following exercises, solve."
+      ],
+      "text": "\\({ ( 2 x - 1 ) }^{2} = 0\\)",
+      "math": [
+        "{ ( 2 x - 1 ) }^{2} = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n              <mo stretchy=\"false\">)</mo>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n              <mo stretchy=\"false\">)</mo>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 282,
+      "anchor": "fs-id1167829741712",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Use the Zero Product Property",
+        "In the following exercises, solve."
+      ],
+      "text": "\\({ ( 3 y + 5 ) }^{2} = 0\\)",
+      "math": [
+        "{ ( 3 y + 5 ) }^{2} = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mn>3</mn>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n              <mo stretchy=\"false\">)</mo>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mn>3</mn>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n              <mo stretchy=\"false\">)</mo>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 283,
+      "anchor": "fs-id1167836529760",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Quadratic Equations by Factoring",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(5 {a}^{2} - 26 a = 24\\)",
+      "math": [
+        "5 {a}^{2} - 26 a = 24"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>5</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>26</mn>\n          <mi>a</mi>\n          <mo>=</mo>\n          <mn>24</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>5</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>26</mn>\n          <mi>a</mi>\n          <mo>=</mo>\n          <mn>24</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 284,
+      "anchor": "fs-id1167836635232",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Quadratic Equations by Factoring",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(4 {b}^{2} + 7 b = -3\\)",
+      "math": [
+        "4 {b}^{2} + 7 b = -3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mi>b</mi>\n          <mo>=</mo>\n          <mn>−3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mi>b</mi>\n          <mo>=</mo>\n          <mn>−3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 285,
+      "anchor": "fs-id1167829717788",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Quadratic Equations by Factoring",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(4 {m}^{2} = 17 m - 15\\)",
+      "math": [
+        "4 {m}^{2} = 17 m - 15"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>m</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>17</mn>\n          <mi>m</mi>\n          <mo>−</mo>\n          <mn>15</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>m</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>17</mn>\n          <mi>m</mi>\n          <mo>−</mo>\n          <mn>15</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 286,
+      "anchor": "fs-id1167836318326",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Quadratic Equations by Factoring",
+        "In the following exercises, solve."
+      ],
+      "text": "\\({n}^{2} = 5 n - 6\\)",
+      "math": [
+        "{n}^{2} = 5 n - 6"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>n</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>5</mn>\n          <mi>n</mi>\n          <mo>−</mo>\n          <mn>6</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>n</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>5</mn>\n          <mi>n</mi>\n          <mo>−</mo>\n          <mn>6</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 287,
+      "anchor": "fs-id1167829715838",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Quadratic Equations by Factoring",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(7 {a}^{2} + 14 a = 7 a\\)",
+      "math": [
+        "7 {a}^{2} + 14 a = 7 a"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>7</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>14</mn>\n          <mi>a</mi>\n          <mo>=</mo>\n          <mn>7</mn>\n          <mi>a</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>7</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>14</mn>\n          <mi>a</mi>\n          <mo>=</mo>\n          <mn>7</mn>\n          <mi>a</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 288,
+      "anchor": "fs-id1167829599736",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Quadratic Equations by Factoring",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(12 {b}^{2} - 15 b = -9 b\\)",
+      "math": [
+        "12 {b}^{2} - 15 b = -9 b"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>12</mn>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>15</mn>\n          <mi>b</mi>\n          <mo>=</mo>\n          <mn>−9</mn>\n          <mi>b</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>12</mn>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>15</mn>\n          <mi>b</mi>\n          <mo>=</mo>\n          <mn>−9</mn>\n          <mi>b</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 289,
+      "anchor": "fs-id1167833386007",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Quadratic Equations by Factoring",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(49 {m}^{2} = 144\\)",
+      "math": [
+        "49 {m}^{2} = 144"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>49</mn>\n          <msup>\n            <mi>m</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>144</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>49</mn>\n          <msup>\n            <mi>m</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>144</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 290,
+      "anchor": "fs-id1167836296256",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Quadratic Equations by Factoring",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(625 = {x}^{2}\\)",
+      "math": [
+        "625 = {x}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>625</mn>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>625</mn>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 291,
+      "anchor": "fs-id1167836543476",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Quadratic Equations by Factoring",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(16 {y}^{2} = 81\\)",
+      "math": [
+        "16 {y}^{2} = 81"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>16</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>81</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>16</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>81</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 292,
+      "anchor": "fs-id1167836526027",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Quadratic Equations by Factoring",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(64 {p}^{2} = 225\\)",
+      "math": [
+        "64 {p}^{2} = 225"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>64</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>225</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>64</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>225</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 293,
+      "anchor": "fs-id1167836386707",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Quadratic Equations by Factoring",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(121 {n}^{2} = 36\\)",
+      "math": [
+        "121 {n}^{2} = 36"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>121</mn>\n          <msup>\n            <mi>n</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>36</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>121</mn>\n          <msup>\n            <mi>n</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>36</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 294,
+      "anchor": "fs-id1167832951079",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Quadratic Equations by Factoring",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(100 {y}^{2} = 9\\)",
+      "math": [
+        "100 {y}^{2} = 9"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>100</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>9</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>100</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>9</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 295,
+      "anchor": "fs-id1167833385717",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Quadratic Equations by Factoring",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(( x + 6 ) ( x - 3 ) = -8\\)",
+      "math": [
+        "( x + 6 ) ( x - 3 ) = -8"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>−8</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>−8</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 296,
+      "anchor": "fs-id1167829832924",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Quadratic Equations by Factoring",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(( p - 5 ) ( p + 3 ) = -7\\)",
+      "math": [
+        "( p - 5 ) ( p + 3 ) = -7"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mo stretchy=\"false\">(</mo>\n          <mi>p</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo stretchy=\"false\">(</mo>\n          <mi>p</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>−7</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mo stretchy=\"false\">(</mo>\n          <mi>p</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo stretchy=\"false\">(</mo>\n          <mi>p</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>−7</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 297,
+      "anchor": "fs-id1167829739370",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Quadratic Equations by Factoring",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(( 2 x + 1 ) ( x - 3 ) = -4 x\\)",
+      "math": [
+        "( 2 x + 1 ) ( x - 3 ) = -4 x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>−4</mn>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>−4</mn>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 298,
+      "anchor": "fs-id1167833181233",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Quadratic Equations by Factoring",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(( y - 3 ) ( y + 2 ) = 4 y\\)",
+      "math": [
+        "( y - 3 ) ( y + 2 ) = 4 y"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mo stretchy=\"false\">(</mo>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mo stretchy=\"false\">(</mo>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 299,
+      "anchor": "fs-id1167836706420",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Quadratic Equations by Factoring",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(( 3 x - 2 ) ( x + 4 ) = 12 x\\)",
+      "math": [
+        "( 3 x - 2 ) ( x + 4 ) = 12 x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>12</mn>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>12</mn>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 300,
+      "anchor": "fs-id1167836362558",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Quadratic Equations by Factoring",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(( 2 y - 3 ) ( 3 y - 1 ) = 8 y\\)",
+      "math": [
+        "( 2 y - 3 ) ( 3 y - 1 ) = 8 y"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mo stretchy=\"false\">(</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>8</mn>\n          <mi>y</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mo stretchy=\"false\">(</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>8</mn>\n          <mi>y</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 301,
+      "anchor": "fs-id1167833046960",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Quadratic Equations by Factoring",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(20 {x}^{2} - 60 x = -45\\)",
+      "math": [
+        "20 {x}^{2} - 60 x = -45"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>20</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>60</mn>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>−45</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>20</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>60</mn>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>−45</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 302,
+      "anchor": "fs-id1167836450605",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Quadratic Equations by Factoring",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(3 {y}^{2} - 18 y = -27\\)",
+      "math": [
+        "3 {y}^{2} - 18 y = -27"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>18</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−27</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>18</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−27</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 303,
+      "anchor": "fs-id1167836493013",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Quadratic Equations by Factoring",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(15 {x}^{2} - 10 x = 40\\)",
+      "math": [
+        "15 {x}^{2} - 10 x = 40"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>15</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>10</mn>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>40</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>15</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>10</mn>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>40</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 304,
+      "anchor": "fs-id1167836704609",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Quadratic Equations by Factoring",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(14 {y}^{2} - 77 y = -35\\)",
+      "math": [
+        "14 {y}^{2} - 77 y = -35"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>14</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>77</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−35</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>14</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>77</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−35</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 305,
+      "anchor": "fs-id1167836407331",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Quadratic Equations by Factoring",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(18 {x}^{2} - 9 = -21 x\\)",
+      "math": [
+        "18 {x}^{2} - 9 = -21 x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>18</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>9</mn>\n          <mo>=</mo>\n          <mn>−21</mn>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>18</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>9</mn>\n          <mo>=</mo>\n          <mn>−21</mn>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 306,
+      "anchor": "fs-id1167836540286",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Quadratic Equations by Factoring",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(16 {y}^{2} + 12 = -32 y\\)",
+      "math": [
+        "16 {y}^{2} + 12 = -32 y"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>16</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mo>=</mo>\n          <mn>−32</mn>\n          <mi>y</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>16</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mo>=</mo>\n          <mn>−32</mn>\n          <mi>y</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 307,
+      "anchor": "fs-id1167836286867",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Quadratic Equations by Factoring",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(16 {p}^{3} = 24 {p}^{2} – 9 p\\)",
+      "math": [
+        "16 {p}^{3} = 24 {p}^{2} – 9 p"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>16</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>24</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>–</mo>\n          <mn>9</mn>\n          <mi>p</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>16</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>24</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>–</mo>\n          <mn>9</mn>\n          <mi>p</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 308,
+      "anchor": "fs-id1167829595273",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Quadratic Equations by Factoring",
+        "In the following exercises, solve."
+      ],
+      "text": "\\({m}^{3} - 2 {m}^{2} = - m\\)",
+      "math": [
+        "{m}^{3} - 2 {m}^{2} = - m"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>m</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>2</mn>\n          <msup>\n            <mi>m</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <mi>m</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>m</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>2</mn>\n          <msup>\n            <mi>m</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <mi>m</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 309,
+      "anchor": "fs-id1167829790573",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Quadratic Equations by Factoring",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(2 {x}^{3} + 72 x = 24 {x}^{2}\\)",
+      "math": [
+        "2 {x}^{3} + 72 x = 24 {x}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>72</mn>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>24</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>72</mn>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>24</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 310,
+      "anchor": "fs-id1167836300282",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Quadratic Equations by Factoring",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(3 {y}^{3} + 48 y = 24 {y}^{2}\\)",
+      "math": [
+        "3 {y}^{3} + 48 y = 24 {y}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>48</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>24</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>48</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>24</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 311,
+      "anchor": "fs-id1167836439638",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Quadratic Equations by Factoring",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(36 {x}^{3} + 24 {x}^{2} = -4 x\\)",
+      "math": [
+        "36 {x}^{3} + 24 {x}^{2} = -4 x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>36</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>24</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>−4</mn>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>36</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>24</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>−4</mn>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 312,
+      "anchor": "fs-id1167836529024",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Quadratic Equations by Factoring",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(2 {y}^{3} + 2 {y}^{2} = 12 y\\)",
+      "math": [
+        "2 {y}^{3} + 2 {y}^{2} = 12 y"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>12</mn>\n          <mi>y</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>12</mn>\n          <mi>y</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 313,
+      "anchor": "fs-id1167836377499",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Equations with Polynomial Functions",
+        "In the following exercises, solve."
+      ],
+      "text": "For the function, \\(f(x)={x}^{2}-8x+8,\\) ⓐ find when \\(f(x)=-4\\) ⓑ Use this information to find two points that lie on the graph of the function.",
+      "math": [
+        "f(x)={x}^{2}-8x+8,",
+        "f(x)=-4"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>8</mn><mi>x</mi><mo>+</mo><mn>8</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>8</mn><mi>x</mi><mo>+</mo><mn>8</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>−4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>−4</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 314,
+      "anchor": "fs-id1167836311497",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Equations with Polynomial Functions",
+        "In the following exercises, solve."
+      ],
+      "text": "For the function, \\(f(x)={x}^{2}+11x+20,\\) ⓐ find when \\(f(x)=-8\\) ⓑ Use this information to find two points that lie on the graph of the function.",
+      "math": [
+        "f(x)={x}^{2}+11x+20,",
+        "f(x)=-8"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>11</mn><mi>x</mi><mo>+</mo><mn>20</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>11</mn><mi>x</mi><mo>+</mo><mn>20</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>−8</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>−8</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 315,
+      "anchor": "fs-id1167836535278",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Equations with Polynomial Functions",
+        "In the following exercises, solve."
+      ],
+      "text": "For the function, \\(f(x)=8{x}^{2}-18x+5,\\) ⓐ find when \\(f(x)=-4\\) ⓑ Use this information to find two points that lie on the graph of the function.",
+      "math": [
+        "f(x)=8{x}^{2}-18x+5,",
+        "f(x)=-4"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>8</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>18</mn><mi>x</mi><mo>+</mo><mn>5</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>8</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>18</mn><mi>x</mi><mo>+</mo><mn>5</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>−4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>−4</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 316,
+      "anchor": "fs-id1167836455830",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Equations with Polynomial Functions",
+        "In the following exercises, solve."
+      ],
+      "text": "For the function, \\(f(x)=18{x}^{2}+15x-10,\\) ⓐ find when \\(f(x)=15\\) ⓑ Use this information to find two points that lie on the graph of the function.",
+      "math": [
+        "f(x)=18{x}^{2}+15x-10,",
+        "f(x)=15"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>18</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>15</mn><mi>x</mi><mo>−</mo><mn>10</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>18</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>15</mn><mi>x</mi><mo>−</mo><mn>10</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>15</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>15</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 317,
+      "anchor": "fs-id1167836521631",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "In the following exercises, solve.",
+        "In the following exercises, for each function, find: ⓐ the zeros of the function ⓑ the x-intercepts of the graph of the function ⓒ the y-intercept of the graph of the function."
+      ],
+      "text": "\\(f ( x ) = 9 {x}^{2} - 4\\)",
+      "math": [
+        "f ( x ) = 9 {x}^{2} - 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>9</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>9</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 318,
+      "anchor": "fs-id1167829739808",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "In the following exercises, solve.",
+        "In the following exercises, for each function, find: ⓐ the zeros of the function ⓑ the x-intercepts of the graph of the function ⓒ the y-intercept of the graph of the function."
+      ],
+      "text": "\\(f ( x ) = 25 {x}^{2} - 49\\)",
+      "math": [
+        "f ( x ) = 25 {x}^{2} - 49"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>25</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>49</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>25</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>49</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 319,
+      "anchor": "fs-id1167836407732",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "In the following exercises, solve.",
+        "In the following exercises, for each function, find: ⓐ the zeros of the function ⓑ the x-intercepts of the graph of the function ⓒ the y-intercept of the graph of the function."
+      ],
+      "text": "\\(f ( x ) = 6 {x}^{2} - 7 x - 5\\)",
+      "math": [
+        "f ( x ) = 6 {x}^{2} - 7 x - 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>6</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>7</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>6</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>7</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 320,
+      "anchor": "fs-id1167836524185",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "In the following exercises, solve.",
+        "In the following exercises, for each function, find: ⓐ the zeros of the function ⓑ the x-intercepts of the graph of the function ⓒ the y-intercept of the graph of the function."
+      ],
+      "text": "\\(f ( x ) = 12 {x}^{2} - 11 x + 2\\)",
+      "math": [
+        "f ( x ) = 12 {x}^{2} - 11 x + 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>12</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>11</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>12</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>11</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 321,
+      "anchor": "fs-id1167829908175",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Applications Modeled by Quadratic Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "The product of two consecutive odd integers is 143. Find the integers.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 322,
+      "anchor": "fs-id1167833057832",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Applications Modeled by Quadratic Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "The product of two consecutive odd integers is 195. Find the integers.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 323,
+      "anchor": "fs-id1167829712386",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Applications Modeled by Quadratic Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "The product of two consecutive even integers is 168. Find the integers.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 324,
+      "anchor": "fs-id1167832940587",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Applications Modeled by Quadratic Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "The product of two consecutive even integers is 288. Find the integers.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 325,
+      "anchor": "fs-id1167833311290",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Applications Modeled by Quadratic Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "The area of a rectangular carpet is 28 square feet. The length is three feet more than the width. Find the length and the width of the carpet.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 326,
+      "anchor": "fs-id1167836288744",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Applications Modeled by Quadratic Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "A rectangular retaining wall has area 15 square feet. The height of the wall is two feet less than its length. Find the height and the length of the wall.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 327,
+      "anchor": "fs-id1167836432337",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Applications Modeled by Quadratic Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "The area of a bulletin board is 55 square feet. The length is four feet less than three times the width. Find the length and the width of the a bulletin board.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 328,
+      "anchor": "fs-id1167836294735",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Applications Modeled by Quadratic Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "A rectangular carport has area 150 square feet. The width of the carport is five feet less than twice its length. Find the width and the length of the carport.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 329,
+      "anchor": "fs-id1167833050541",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Applications Modeled by Quadratic Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "A pennant is shaped like a right triangle, with hypotenuse 10 feet. The length of one side of the pennant is two feet longer than the length of the other side. Find the length of the two sides of the pennant.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 330,
+      "anchor": "fs-id1167836683998",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Applications Modeled by Quadratic Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "A stained glass window is shaped like a right triangle. The hypotenuse is 15 feet. One leg is three more than the other. Find the lengths of the legs.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 331,
+      "anchor": "fs-id1167829589871",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Applications Modeled by Quadratic Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "A reflecting pool is shaped like a right triangle, with one leg along the wall of a building. The hypotenuse is 9 feet longer than the side along the building. The third side is 7 feet longer than the side along the building. Find the lengths of all three sides of the reflecting pool.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 332,
+      "anchor": "fs-id1167833024496",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Applications Modeled by Quadratic Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "A goat enclosure is in the shape of a right triangle. One leg of the enclosure is built against the side of the barn. The other leg is 4 feet more than the leg against the barn. The hypotenuse is 8 feet more than the leg along the barn. Find the three sides of the goat enclosure.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 333,
+      "anchor": "fs-id1167836610606",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Applications Modeled by Quadratic Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "Juli is going to launch a model rocket in her back yard. When she launches the rocket, the function \\(h(t)=-16{t}^{2}+32t\\) models the height, h, of the rocket above the ground as a function of time, t. Find: ⓐ the zeros of this function, which tell us when the rocket will be on the ground. ⓑ the time the rocket will be 16 feet above the ground.",
+      "math": [
+        "h(t)=-16{t}^{2}+32t"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mn>−16</mn><msup><mi>t</mi><mn>2</mn></msup><mo>+</mo><mn>32</mn><mi>t</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mn>−16</mn><msup><mi>t</mi><mn>2</mn></msup><mo>+</mo><mn>32</mn><mi>t</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 334,
+      "anchor": "fs-id1167829747436",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Solve Applications Modeled by Quadratic Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "Gianna is going to throw a ball from the top floor of her middle school. When she throws the ball from 48 feet above the ground, the function \\(h(t)=-16{t}^{2}+32t+48\\) models the height, h, of the ball above the ground as a function of time, t. Find: ⓐ the zeros of this function which tells us when the ball will hit the ground. ⓑ the time(s) the ball will be 48 feet above the ground. ⓒ the height the ball will be at \\(t=1\\) seconds which is when the ball will be at its highest point.",
+      "math": [
+        "h(t)=-16{t}^{2}+32t+48",
+        "t=1"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mn>−16</mn><msup><mi>t</mi><mn>2</mn></msup><mo>+</mo><mn>32</mn><mi>t</mi><mo>+</mo><mn>48</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mn>−16</mn><msup><mi>t</mi><mn>2</mn></msup><mo>+</mo><mn>32</mn><mi>t</mi><mo>+</mo><mn>48</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>t</mi><mo>=</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>t</mi><mo>=</mo><mn>1</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 335,
+      "anchor": "fs-id1167836519198",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain how you solve a quadratic equation. How many answers do you expect to get for a quadratic equation?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 336,
+      "anchor": "fs-id1167836551135",
+      "page": "6-5-polynomial-equations",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Give an example of a quadratic equation that has a GCF and none of the solutions to the equation is zero.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "6.87",
+      "page": "6-5-polynomial-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836625622",
+      "context": [
+        "Use the Zero Product Property"
+      ],
+      "text": "Solve: \\((3m-2)(2m+1)=0.\\)",
+      "math": [
+        "(3m-2)(2m+1)=0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mi>m</mi><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>2</mn><mi>m</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>=</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mi>m</mi><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>2</mn><mi>m</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>=</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.88",
+      "page": "6-5-polynomial-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836312584",
+      "context": [
+        "Use the Zero Product Property"
+      ],
+      "text": "Solve: \\((4p+3)(4p-3)=0.\\)",
+      "math": [
+        "(4p+3)(4p-3)=0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mi>p</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>4</mn><mi>p</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>=</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mi>p</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>4</mn><mi>p</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>=</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.89",
+      "page": "6-5-polynomial-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167829742302",
+      "context": [
+        "Solve Quadratic Equations by Factoring"
+      ],
+      "text": "Solve: \\(3{c}^{2}=10c-8.\\)",
+      "math": [
+        "3{c}^{2}=10c-8."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><msup><mi>c</mi><mn>2</mn></msup><mo>=</mo><mn>10</mn><mi>c</mi><mo>−</mo><mn>8</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><msup><mi>c</mi><mn>2</mn></msup><mo>=</mo><mn>10</mn><mi>c</mi><mo>−</mo><mn>8</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.90",
+      "page": "6-5-polynomial-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167829754669",
+      "context": [
+        "Solve Quadratic Equations by Factoring"
+      ],
+      "text": "Solve: \\(2{d}^{2}-5d=3.\\)",
+      "math": [
+        "2{d}^{2}-5d=3."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><msup><mi>d</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>d</mi><mo>=</mo><mn>3</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><msup><mi>d</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>d</mi><mo>=</mo><mn>3</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.91",
+      "page": "6-5-polynomial-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836553739",
+      "context": [
+        "Solve Quadratic Equations by Factoring"
+      ],
+      "text": "Solve: \\(25{p}^{2}=49.\\)",
+      "math": [
+        "25{p}^{2}=49."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>25</mn><msup><mi>p</mi><mn>2</mn></msup><mo>=</mo><mn>49</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>25</mn><msup><mi>p</mi><mn>2</mn></msup><mo>=</mo><mn>49</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.92",
+      "page": "6-5-polynomial-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836544502",
+      "context": [
+        "Solve Quadratic Equations by Factoring"
+      ],
+      "text": "Solve: \\(36{x}^{2}=121.\\)",
+      "math": [
+        "36{x}^{2}=121."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>36</mn><msup><mi>x</mi><mn>2</mn></msup><mo>=</mo><mn>121</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>36</mn><msup><mi>x</mi><mn>2</mn></msup><mo>=</mo><mn>121</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.93",
+      "page": "6-5-polynomial-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836309718",
+      "context": [
+        "Solve Quadratic Equations by Factoring"
+      ],
+      "text": "Solve: \\((2m+1)(m+3)=12m.\\)",
+      "math": [
+        "(2m+1)(m+3)=12m."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mi>m</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mi>m</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>=</mo><mn>1</mn><mn>2</mn><mi>m</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mi>m</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mi>m</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>=</mo><mn>1</mn><mn>2</mn><mi>m</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.94",
+      "page": "6-5-polynomial-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836333805",
+      "context": [
+        "Solve Quadratic Equations by Factoring"
+      ],
+      "text": "Solve: \\((k+1)(k-1)=8.\\)",
+      "math": [
+        "(k+1)(k-1)=8."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mi>k</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mi>k</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>=</mo><mn>8</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mi>k</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mi>k</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>=</mo><mn>8</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.95",
+      "page": "6-5-polynomial-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836376734",
+      "context": [
+        "Solve Quadratic Equations by Factoring"
+      ],
+      "text": "Solve: \\(18{a}^{2}-30=-33a.\\)",
+      "math": [
+        "18{a}^{2}-30=-33a."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>18</mn><msup><mi>a</mi><mn>2</mn></msup><mo>−</mo><mn>30</mn><mo>=</mo><mn>−33</mn><mi>a</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>18</mn><msup><mi>a</mi><mn>2</mn></msup><mo>−</mo><mn>30</mn><mo>=</mo><mn>−33</mn><mi>a</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.96",
+      "page": "6-5-polynomial-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836333546",
+      "context": [
+        "Solve Quadratic Equations by Factoring"
+      ],
+      "text": "Solve: \\(123b=-6-60{b}^{2}.\\)",
+      "math": [
+        "123b=-6-60{b}^{2}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>123</mn><mi>b</mi><mo>=</mo><mn>−6</mn><mo>−</mo><mn>60</mn><msup><mi>b</mi><mn>2</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>123</mn><mi>b</mi><mo>=</mo><mn>−6</mn><mo>−</mo><mn>60</mn><msup><mi>b</mi><mn>2</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.97",
+      "page": "6-5-polynomial-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836363174",
+      "context": [
+        "Solve Quadratic Equations by Factoring"
+      ],
+      "text": "Solve: \\(8{x}^{3}=24{x}^{2}-18x.\\)",
+      "math": [
+        "8{x}^{3}=24{x}^{2}-18x."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>8</mn><msup><mi>x</mi><mn>3</mn></msup><mo>=</mo><mn>24</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>18</mn><mi>x</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>8</mn><msup><mi>x</mi><mn>3</mn></msup><mo>=</mo><mn>24</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>18</mn><mi>x</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.98",
+      "page": "6-5-polynomial-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836447280",
+      "context": [
+        "Solve Quadratic Equations by Factoring"
+      ],
+      "text": "Solve: \\(16{y}^{2}=32{y}^{3}+2y.\\)",
+      "math": [
+        "16{y}^{2}=32{y}^{3}+2y."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>16</mn><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>32</mn><msup><mi>y</mi><mn>3</mn></msup><mo>+</mo><mn>2</mn><mi>y</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>16</mn><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>32</mn><msup><mi>y</mi><mn>3</mn></msup><mo>+</mo><mn>2</mn><mi>y</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.99",
+      "page": "6-5-polynomial-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836692073",
+      "context": [
+        "Solve Equations with Polynomial Functions"
+      ],
+      "text": "For the function \\(f(x)={x}^{2}-2x-8,\\) ⓐ find x when \\(f(x)=7\\) ⓑ Find two points that lie on the graph of the function.",
+      "math": [
+        "f(x)={x}^{2}-2x-8,",
+        "f(x)=7"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>8</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>8</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>7</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>7</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.100",
+      "page": "6-5-polynomial-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836667141",
+      "context": [
+        "Solve Equations with Polynomial Functions"
+      ],
+      "text": "For the function \\(f(x)={x}^{2}-8x+3,\\) ⓐ find x when \\(f(x)=-4\\) ⓑ Find two points that lie on the graph of the function.",
+      "math": [
+        "f(x)={x}^{2}-8x+3,",
+        "f(x)=-4"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>8</mn><mi>x</mi><mo>+</mo><mn>3</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>8</mn><mi>x</mi><mo>+</mo><mn>3</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>−4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>−4</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.101",
+      "page": "6-5-polynomial-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167829811740",
+      "context": [
+        "Solve Equations with Polynomial Functions"
+      ],
+      "text": "For the function \\(f(x)=2{x}^{2}-7x+5,\\) find ⓐ the zeros of the function, ⓑ any x-intercepts of the graph of the function, ⓒ any y-intercepts of the graph of the function.",
+      "math": [
+        "f(x)=2{x}^{2}-7x+5,"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>7</mn><mi>x</mi><mo>+</mo><mn>5</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>7</mn><mi>x</mi><mo>+</mo><mn>5</mn><mo>,</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.102",
+      "page": "6-5-polynomial-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167829693111",
+      "context": [
+        "Solve Equations with Polynomial Functions"
+      ],
+      "text": "For the function \\(f(x)=6{x}^{2}+13x-15,\\) find ⓐ the zeros of the function, ⓑ any x-intercepts of the graph of the function, ⓒ any y-intercepts of the graph of the function.",
+      "math": [
+        "f(x)=6{x}^{2}+13x-15,"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>6</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>13</mn><mi>x</mi><mo>−</mo><mn>15</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>6</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>13</mn><mi>x</mi><mo>−</mo><mn>15</mn><mo>,</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.103",
+      "page": "6-5-polynomial-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836509306",
+      "context": [
+        "Solve Applications Modeled by Polynomial Equations"
+      ],
+      "text": "The product of two consecutive odd integers is 255. Find the integers.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "6.104",
+      "page": "6-5-polynomial-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836660223",
+      "context": [
+        "Solve Applications Modeled by Polynomial Equations"
+      ],
+      "text": "The product of two consecutive odd integers is 483 Find the integers.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "6.105",
+      "page": "6-5-polynomial-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836693448",
+      "context": [
+        "Solve Applications Modeled by Polynomial Equations"
+      ],
+      "text": "A rectangular sign has an area of 30 square feet. The length of the sign is one foot more than the width. Find the length and width of the sign.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "6.106",
+      "page": "6-5-polynomial-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836416135",
+      "context": [
+        "Solve Applications Modeled by Polynomial Equations"
+      ],
+      "text": "A rectangular patio has an area of 180 square feet. The width of the patio is three feet less than the length. Find the length and width of the patio.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "6.107",
+      "page": "6-5-polynomial-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836450411",
+      "context": [
+        "Solve Applications Modeled by Polynomial Equations"
+      ],
+      "text": "Justine wants to put a deck in the corner of her backyard in the shape of a right triangle. The length of one side of the deck is 7 feet more than the other side. The hypotenuse is 13. Find the lengths of the two sides of the deck.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "6.108",
+      "page": "6-5-polynomial-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167829747291",
+      "context": [
+        "Solve Applications Modeled by Polynomial Equations"
+      ],
+      "text": "A meditation garden is in the shape of a right triangle, with one leg 7 feet. The length of the hypotenuse is one more than the length of the other leg. Find the lengths of the hypotenuse and the other leg.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "6.109",
+      "page": "6-5-polynomial-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167836706000",
+      "context": [
+        "Solve Applications Modeled by Polynomial Equations"
+      ],
+      "text": "Genevieve is going to throw a rock from the top a trail overlooking the ocean. When she throws the rock upward from 160 feet above the ocean, the function \\(h(t)=-16{t}^{2}+48t+160\\) models the height, h, of the rock above the ocean as a function of time, t. Find: ⓐ the zeros of this function which tell us when the rock will hit the ocean, ⓑ when the rock will be 160 feet above the ocean, ⓒ the height of the rock at \\(t=1.5\\) seconds.",
+      "math": [
+        "h(t)=-16{t}^{2}+48t+160",
+        "t=1.5"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mn>−16</mn><msup><mi>t</mi><mn>2</mn></msup><mo>+</mo><mn>48</mn><mi>t</mi><mo>+</mo><mn>160</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mn>−16</mn><msup><mi>t</mi><mn>2</mn></msup><mo>+</mo><mn>48</mn><mi>t</mi><mo>+</mo><mn>160</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>t</mi><mo>=</mo><mn>1.5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>t</mi><mo>=</mo><mn>1.5</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.110",
+      "page": "6-5-polynomial-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1167829744740",
+      "context": [
+        "Solve Applications Modeled by Polynomial Equations"
+      ],
+      "text": "Calib is going to throw his lucky penny from his balcony on a cruise ship. When he throws the penny upward from 128 feet above the ground, the function \\(h(t)=-16{t}^{2}+32t+128\\) models the height, h, of the penny above the ocean as a function of time, t. Find: ⓐ the zeros of this function which is when the penny will hit the ocean, ⓑ when the penny will be 128 feet above the ocean, ⓒ the height the penny will be at \\(t=1\\) seconds which is when the penny will be at its highest point.",
+      "math": [
+        "h(t)=-16{t}^{2}+32t+128",
+        "t=1"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mn>−16</mn><msup><mi>t</mi><mn>2</mn></msup><mo>+</mo><mn>32</mn><mi>t</mi><mo>+</mo><mn>128</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mn>−16</mn><msup><mi>t</mi><mn>2</mn></msup><mo>+</mo><mn>32</mn><mi>t</mi><mo>+</mo><mn>128</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>t</mi><mo>=</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>t</mi><mo>=</mo><mn>1</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

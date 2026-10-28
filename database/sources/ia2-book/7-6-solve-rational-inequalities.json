@@ -1,0 +1,866 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/7-6-solve-rational-inequalities",
+  "title": "7.6 Solve Rational Inequalities",
+  "sha256": "3d831bd48cff9d0d459e6c816ca885a24adccfc3f6f761ef164900b2c514cdda",
+  "questions": [
+    {
+      "number": 339,
+      "anchor": "fs-id1167835190851",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{ x - 3 }{ x + 4 } ≥ 0\\)",
+      "math": [
+        "\\frac{ x - 3 }{ x + 4 } \\ge 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n          <mo>≥</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n          <mo>≥</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 340,
+      "anchor": "fs-id1167835302959",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{ x + 6 }{ x - 5 } ≥ 0\\)",
+      "math": [
+        "\\frac{ x + 6 }{ x - 5 } \\ge 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n          <mo>≥</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n          <mo>≥</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 341,
+      "anchor": "fs-id1167834161495",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{ x + 1 }{ x - 3 } ≤ 0\\)",
+      "math": [
+        "\\frac{ x + 1 }{ x - 3 } \\le 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n          <mo>≤</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n          <mo>≤</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 342,
+      "anchor": "fs-id1167830700952",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{ x - 4 }{ x + 2 } ≤ 0\\)",
+      "math": [
+        "\\frac{ x - 4 }{ x + 2 } \\le 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>≤</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>≤</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 343,
+      "anchor": "fs-id1167834058872",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{ x - 7 }{ x - 1 } > 0\\)",
+      "math": [
+        "\\frac{ x - 7 }{ x - 1 } > 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </mfrac>\n          <mo>&gt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </mfrac>\n          <mo>&gt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 344,
+      "anchor": "fs-id1167826780686",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{ x + 8 }{ x + 3 } > 0\\)",
+      "math": [
+        "\\frac{ x + 8 }{ x + 3 } > 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n          <mo>&gt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n          <mo>&gt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 345,
+      "anchor": "fs-id1167834192313",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{ x - 6 }{ x + 5 } < 0\\)",
+      "math": [
+        "\\frac{ x - 6 }{ x + 5 } < 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n          <mo>&lt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n          <mo>&lt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 346,
+      "anchor": "fs-id1167832053800",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{ x + 5 }{ x - 2 } < 0\\)",
+      "math": [
+        "\\frac{ x + 5 }{ x - 2 } < 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>&lt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>&lt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 347,
+      "anchor": "fs-id1167827967212",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{ 3 x }{ x - 5 } < 1\\)",
+      "math": [
+        "\\frac{ 3 x }{ x - 5 } < 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n          <mo>&lt;</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n          <mo>&lt;</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 348,
+      "anchor": "fs-id1167834397407",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{ 5 x }{ x - 2 } < 1\\)",
+      "math": [
+        "\\frac{ 5 x }{ x - 2 } < 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>&lt;</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>&lt;</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 349,
+      "anchor": "fs-id1167826801738",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{ 6 x }{ x - 6 } > 2\\)",
+      "math": [
+        "\\frac{ 6 x }{ x - 6 } > 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>6</mn>\n              <mi>x</mi>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n          <mo>&gt;</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>6</mn>\n              <mi>x</mi>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n          <mo>&gt;</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 350,
+      "anchor": "fs-id1167830961889",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{ 3 x }{ x - 4 } > 2\\)",
+      "math": [
+        "\\frac{ 3 x }{ x - 4 } > 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n          <mo>&gt;</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n          <mo>&gt;</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 351,
+      "anchor": "fs-id1167835269015",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{ 2 x + 3 }{ x - 6 } ≤ 1\\)",
+      "math": [
+        "\\frac{ 2 x + 3 }{ x - 6 } \\le 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n          <mo>≤</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n          <mo>≤</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 352,
+      "anchor": "fs-id1167834429013",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{ 4 x - 1 }{ x - 4 } ≤ 1\\)",
+      "math": [
+        "\\frac{ 4 x - 1 }{ x - 4 } \\le 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n          <mo>≤</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n          <mo>≤</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 353,
+      "anchor": "fs-id1167827943096",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{ 3 x - 2 }{ x - 4 } ≥ 2\\)",
+      "math": [
+        "\\frac{ 3 x - 2 }{ x - 4 } \\ge 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n          <mo>≥</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n          <mo>≥</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 354,
+      "anchor": "fs-id1167831895060",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{ 4 x - 3 }{ x - 3 } ≥ 2\\)",
+      "math": [
+        "\\frac{ 4 x - 3 }{ x - 3 } \\ge 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n          <mo>≥</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n          <mo>≥</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 355,
+      "anchor": "fs-id1167835317202",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{1}{ {x}^{2} + 7 x + 12 } > 0\\)",
+      "math": [
+        "\\frac{1}{ {x}^{2} + 7 x + 12 } > 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>7</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n          <mo>&gt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>7</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n          <mo>&gt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 356,
+      "anchor": "fs-id1167834523673",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{1}{ {x}^{2} - 4 x - 12 } > 0\\)",
+      "math": [
+        "\\frac{1}{ {x}^{2} - 4 x - 12 } > 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n          <mo>&gt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n          <mo>&gt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 357,
+      "anchor": "fs-id1167830696702",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{3}{ {x}^{2} - 5 x + 4 } < 0\\)",
+      "math": [
+        "\\frac{3}{ {x}^{2} - 5 x + 4 } < 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n          <mo>&lt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n          <mo>&lt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 358,
+      "anchor": "fs-id1167832042101",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{4}{ {x}^{2} + 7 x + 12 } < 0\\)",
+      "math": [
+        "\\frac{4}{ {x}^{2} + 7 x + 12 } < 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>7</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n          <mo>&lt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>7</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n          <mo>&lt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 359,
+      "anchor": "fs-id1167832042614",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{2}{ 2 {x}^{2} + x - 15 } ≥ 0\\)",
+      "math": [
+        "\\frac{2}{ 2 {x}^{2} + x - 15 } \\ge 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>2</mn>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>15</mn>\n            </mrow>\n          </mfrac>\n          <mo>≥</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>2</mn>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>15</mn>\n            </mrow>\n          </mfrac>\n          <mo>≥</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 360,
+      "anchor": "fs-id1167835509903",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{6}{ 3 {x}^{2} - 2 x - 5 } ≥ 0\\)",
+      "math": [
+        "\\frac{6}{ 3 {x}^{2} - 2 x - 5 } \\ge 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>6</mn>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n          <mo>≥</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>6</mn>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n          <mo>≥</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 361,
+      "anchor": "fs-id1167830960568",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{ -2 }{ 6 {x}^{2} - 13 x + 6 } ≤ 0\\)",
+      "math": [
+        "\\frac{ -2 }{ 6 {x}^{2} - 13 x + 6 } \\le 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>−2</mn>\n            </mrow>\n            <mrow>\n              <mn>6</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>13</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n          <mo>≤</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>−2</mn>\n            </mrow>\n            <mrow>\n              <mn>6</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>13</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n          <mo>≤</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 362,
+      "anchor": "fs-id1167834420250",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{ -1 }{ 10 {x}^{2} + 11 x - 6 } ≤ 0\\)",
+      "math": [
+        "\\frac{ -1 }{ 10 {x}^{2} + 11 x - 6 } \\le 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>−1</mn>\n            </mrow>\n            <mrow>\n              <mn>10</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>11</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n          <mo>≤</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>−1</mn>\n            </mrow>\n            <mrow>\n              <mn>10</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>11</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n          <mo>≤</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 363,
+      "anchor": "fs-id1167835534032",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{1}{2} + \\frac{ 12 }{ {x}^{2} } > \\frac{5}{x}\\)",
+      "math": [
+        "\\frac{1}{2} + \\frac{ 12 }{ {x}^{2} } > \\frac{5}{x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>12</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n          <mo>&gt;</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mi>x</mi>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>12</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n          <mo>&gt;</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mi>x</mi>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 364,
+      "anchor": "fs-id1167834527613",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{1}{3} + \\frac{1}{ {x}^{2} } > \\frac{4}{ 3 x }\\)",
+      "math": [
+        "\\frac{1}{3} + \\frac{1}{ {x}^{2} } > \\frac{4}{ 3 x }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n          <mo>&gt;</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n          <mo>&gt;</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 365,
+      "anchor": "fs-id1167830963228",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{1}{2} - \\frac{4}{ {x}^{2} } ≤ \\frac{1}{x}\\)",
+      "math": [
+        "\\frac{1}{2} - \\frac{4}{ {x}^{2} } \\le \\frac{1}{x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n          <mo>≤</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mi>x</mi>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n          <mo>≤</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mi>x</mi>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 366,
+      "anchor": "fs-id1167835533528",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{1}{2} - \\frac{3}{ 2 {x}^{2} } ≥ \\frac{1}{x}\\)",
+      "math": [
+        "\\frac{1}{2} - \\frac{3}{ 2 {x}^{2} } \\ge \\frac{1}{x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n          <mo>≥</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mi>x</mi>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n          <mo>≥</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mi>x</mi>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 367,
+      "anchor": "fs-id1167831892961",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{1}{ {x}^{2} - 16 } < 0\\)",
+      "math": [
+        "\\frac{1}{ {x}^{2} - 16 } < 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>&lt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>&lt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 368,
+      "anchor": "fs-id1167834432302",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{4}{ {x}^{2} - 25 } > 0\\)",
+      "math": [
+        "\\frac{4}{ {x}^{2} - 25 } > 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>&gt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>&gt;</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 369,
+      "anchor": "fs-id1167831895237",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{4}{ x - 2 } ≥ \\frac{3}{ x + 1 }\\)",
+      "math": [
+        "\\frac{4}{ x - 2 } \\ge \\frac{3}{ x + 1 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>≥</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>≥</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 370,
+      "anchor": "fs-id1167835332752",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve Rational Inequalities",
+        "In the following exercises, solve each rational inequality and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{5}{ x - 1 } ≤ \\frac{4}{ x + 2 }\\)",
+      "math": [
+        "\\frac{5}{ x - 1 } \\le \\frac{4}{ x + 2 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </mfrac>\n          <mo>≤</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </mfrac>\n          <mo>≤</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 371,
+      "anchor": "fs-id1167831191361",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve an Inequality with Rational Functions",
+        "In the following exercises, solve each rational function inequality and write the solution in interval notation."
+      ],
+      "text": "Given the function \\(R(x)=\\frac{x-5}{x-2},\\) find the values of \\(x\\) that make the function less than or equal to 0.",
+      "math": [
+        "R(x)=\\frac{x-5}{x-2},",
+        "x"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>R</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mi>x</mi><mo>−</mo><mn>5</mn></mrow><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow></mfrac><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>R</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mi>x</mi><mo>−</mo><mn>5</mn></mrow><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow></mfrac><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mi>x</mi></mrow><annotation-xml encoding=\"MathML-Content\"><mi>x</mi></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 372,
+      "anchor": "fs-id1167834194935",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve an Inequality with Rational Functions",
+        "In the following exercises, solve each rational function inequality and write the solution in interval notation."
+      ],
+      "text": "Given the function \\(R(x)=\\frac{x+1}{x+3},\\) find the values of \\(x\\) that make the function greater than or equal to 0.",
+      "math": [
+        "R(x)=\\frac{x+1}{x+3},",
+        "x"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>R</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>R</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mi>x</mi></mrow><annotation-xml encoding=\"MathML-Content\"><mi>x</mi></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 373,
+      "anchor": "fs-id1167832119260",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve an Inequality with Rational Functions",
+        "In the following exercises, solve each rational function inequality and write the solution in interval notation."
+      ],
+      "text": "Given the function \\(R(x)=\\frac{x-6}{x+2}\\), find the values of x that make the function less than or equal to 0.",
+      "math": [
+        "R(x)=\\frac{x-6}{x+2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>R</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mi>x</mi><mo>−</mo><mn>6</mn></mrow><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>R</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mi>x</mi><mo>−</mo><mn>6</mn></mrow><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 374,
+      "anchor": "fs-id1167835299648",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Solve an Inequality with Rational Functions",
+        "In the following exercises, solve each rational function inequality and write the solution in interval notation."
+      ],
+      "text": "Given the function \\(R(x)=\\frac{x+1}{x-4},\\) find the values of x that make the function less than or equal to 0.",
+      "math": [
+        "R(x)=\\frac{x+1}{x-4},"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>R</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mrow><mi>x</mi><mo>−</mo><mn>4</mn></mrow></mfrac><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>R</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mrow><mi>x</mi><mo>−</mo><mn>4</mn></mrow></mfrac><mo>,</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 375,
+      "anchor": "fs-id1167834463935",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Write the steps you would use to explain solving rational inequalities to your little brother.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 376,
+      "anchor": "fs-id1167835529315",
+      "page": "7-6-solve-rational-inequalities",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Create a rational inequality whose solution is \\((-∞,-2]∪[4,∞).\\)",
+      "math": [
+        "(-\\infty,-2]∪[4,\\infty)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mtext>−</mtext><mi>∞</mi><mo>,</mo><mn>−2</mn></mrow><mo>]</mo></mrow><mo>∪</mo><mrow><mo>[</mo><mrow><mn>4</mn><mo>,</mo><mi>∞</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mtext>−</mtext><mi>∞</mi><mo>,</mo><mn>−2</mn></mrow><mo>]</mo></mrow><mo>∪</mo><mrow><mo>[</mo><mrow><mn>4</mn><mo>,</mo><mi>∞</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "7.107",
+      "page": "7-6-solve-rational-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167831112014",
+      "context": [
+        "Solve Rational Inequalities"
+      ],
+      "text": "Solve and write the solution in interval notation: \\(\\frac{x-2}{x+4}≥0.\\)",
+      "math": [
+        "\\frac{x-2}{x+4}\\ge 0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow><mrow><mi>x</mi><mo>+</mo><mn>4</mn></mrow></mfrac><mo>≥</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow><mrow><mi>x</mi><mo>+</mo><mn>4</mn></mrow></mfrac><mo>≥</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.108",
+      "page": "7-6-solve-rational-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167834309629",
+      "context": [
+        "Solve Rational Inequalities"
+      ],
+      "text": "Solve and write the solution in interval notation: \\(\\frac{x+2}{x-4}≥0.\\)",
+      "math": [
+        "\\frac{x+2}{x-4}\\ge 0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mrow><mi>x</mi><mo>−</mo><mn>4</mn></mrow></mfrac><mo>≥</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mrow><mi>x</mi><mo>−</mo><mn>4</mn></mrow></mfrac><mo>≥</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.109",
+      "page": "7-6-solve-rational-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167835353129",
+      "context": [
+        "Solve Rational Inequalities"
+      ],
+      "text": "Solve and write the solution in interval notation: \\(\\frac{3x}{x-3}<1.\\)",
+      "math": [
+        "\\frac{3x}{x-3}<1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mn>3</mn><mi>x</mi></mrow><mrow><mi>x</mi><mo>−</mo><mn>3</mn></mrow></mfrac><mo>&lt;</mo><mn>1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mn>3</mn><mi>x</mi></mrow><mrow><mi>x</mi><mo>−</mo><mn>3</mn></mrow></mfrac><mo>&lt;</mo><mn>1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.110",
+      "page": "7-6-solve-rational-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167835257383",
+      "context": [
+        "Solve Rational Inequalities"
+      ],
+      "text": "Solve and write the solution in interval notation: \\(\\frac{3x}{x-4}<2.\\)",
+      "math": [
+        "\\frac{3x}{x-4}<2."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mn>3</mn><mi>x</mi></mrow><mrow><mi>x</mi><mo>−</mo><mn>4</mn></mrow></mfrac><mo>&lt;</mo><mn>2</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mn>3</mn><mi>x</mi></mrow><mrow><mi>x</mi><mo>−</mo><mn>4</mn></mrow></mfrac><mo>&lt;</mo><mn>2</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.111",
+      "page": "7-6-solve-rational-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167835421722",
+      "context": [
+        "Solve Rational Inequalities"
+      ],
+      "text": "Solve and write the solution in interval notation: \\(\\frac{1}{{x}^{2}+2x-8}>0.\\)",
+      "math": [
+        "\\frac{1}{{x}^{2}+2x-8}>0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>8</mn></mrow></mfrac><mo>&gt;</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>8</mn></mrow></mfrac><mo>&gt;</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.112",
+      "page": "7-6-solve-rational-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167835332644",
+      "context": [
+        "Solve Rational Inequalities"
+      ],
+      "text": "Solve and write the solution in interval notation: \\(\\frac{3}{{x}^{2}+x-12}>0.\\)",
+      "math": [
+        "\\frac{3}{{x}^{2}+x-12}>0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>3</mn><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>x</mi><mo>−</mo><mn>12</mn></mrow></mfrac><mo>&gt;</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>3</mn><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>x</mi><mo>−</mo><mn>12</mn></mrow></mfrac><mo>&gt;</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.113",
+      "page": "7-6-solve-rational-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167835299860",
+      "context": [
+        "Solve Rational Inequalities"
+      ],
+      "text": "Solve and write the solution in interval notation: \\(\\frac{1}{2}+\\frac{4}{{x}^{2}}<\\frac{3}{x}.\\)",
+      "math": [
+        "\\frac{1}{2}+\\frac{4}{{x}^{2}}<\\frac{3}{x}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mfrac><mn>4</mn><mrow><msup><mi>x</mi><mn>2</mn></msup></mrow></mfrac><mo>&lt;</mo><mfrac><mn>3</mn><mi>x</mi></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mfrac><mn>4</mn><mrow><msup><mi>x</mi><mn>2</mn></msup></mrow></mfrac><mo>&lt;</mo><mfrac><mn>3</mn><mi>x</mi></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.114",
+      "page": "7-6-solve-rational-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167835369147",
+      "context": [
+        "Solve Rational Inequalities"
+      ],
+      "text": "Solve and write the solution in interval notation: \\(\\frac{1}{3}+\\frac{6}{{x}^{2}}<\\frac{3}{x}.\\)",
+      "math": [
+        "\\frac{1}{3}+\\frac{6}{{x}^{2}}<\\frac{3}{x}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>+</mo><mfrac><mn>6</mn><mrow><msup><mi>x</mi><mn>2</mn></msup></mrow></mfrac><mo>&lt;</mo><mfrac><mn>3</mn><mi>x</mi></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>+</mo><mfrac><mn>6</mn><mrow><msup><mi>x</mi><mn>2</mn></msup></mrow></mfrac><mo>&lt;</mo><mfrac><mn>3</mn><mi>x</mi></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.115",
+      "page": "7-6-solve-rational-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167831239696",
+      "context": [
+        "Solve an Inequality with Rational Functions"
+      ],
+      "text": "Given the function \\(R(x)=\\frac{x-2}{x+4},\\) find the values of x that make the function less than or equal to 0.",
+      "math": [
+        "R(x)=\\frac{x-2}{x+4},"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>R</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow><mrow><mi>x</mi><mo>+</mo><mn>4</mn></mrow></mfrac><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>R</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow><mrow><mi>x</mi><mo>+</mo><mn>4</mn></mrow></mfrac><mo>,</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.116",
+      "page": "7-6-solve-rational-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167828421075",
+      "context": [
+        "Solve an Inequality with Rational Functions"
+      ],
+      "text": "Given the function \\(R(x)=\\frac{x+1}{x-4},\\) find the values of x that make the function less than or equal to 0.",
+      "math": [
+        "R(x)=\\frac{x+1}{x-4},"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>R</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mrow><mi>x</mi><mo>−</mo><mn>4</mn></mrow></mfrac><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>R</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mrow><mi>x</mi><mo>−</mo><mn>4</mn></mrow></mfrac><mo>,</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.117",
+      "page": "7-6-solve-rational-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167827967245",
+      "context": [
+        "Solve an Inequality with Rational Functions"
+      ],
+      "text": "The function \\(C(x)=20x+6000\\) represents the cost to produce \\(x,\\) number of items. Find ⓐ the average cost function, \\(c(x)\\) ⓑ how many items should be produced so that the average cost is less than $60?",
+      "math": [
+        "C(x)=20x+6000",
+        "x,",
+        "c(x)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>C</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>20</mn><mi>x</mi><mo>+</mo><mn>6000</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>C</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>20</mn><mi>x</mi><mo>+</mo><mn>6000</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>c</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>c</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.118",
+      "page": "7-6-solve-rational-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167834084459",
+      "context": [
+        "Solve an Inequality with Rational Functions"
+      ],
+      "text": "The function \\(C(x)=5x+900\\) represents the cost to produce \\(x,\\) number of items. Find ⓐ the average cost function, \\(c(x)\\) ⓑ how many items should be produced so that the average cost is less than $20?",
+      "math": [
+        "C(x)=5x+900",
+        "x,",
+        "c(x)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>C</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>5</mn><mi>x</mi><mo>+</mo><mn>900</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>C</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>5</mn><mi>x</mi><mo>+</mo><mn>900</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>c</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>c</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

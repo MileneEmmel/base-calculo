@@ -1,0 +1,1392 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/9-7-graph-quadratic-functions-using-transformations",
+  "title": "9.7 Graph Quadratic Functions Using Transformations",
+  "sha256": "deac4dbe57e747267af3c37932277a913bd2ac95a63b375713c469d878af659f",
+  "questions": [
+    {
+      "number": 293,
+      "anchor": "fs-id1169144378742",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "Graph Quadratic Functions of the form \\(f(x)={x}^{2}+k\\)",
+        "In the following exercises, ⓐ graph the quadratic functions on the same rectangular coordinate system and ⓑ describe what effect adding a constant, k, to the function has on the basic parabola."
+      ],
+      "text": "\\(f(x)={x}^{2},g(x)={x}^{2}+4,\\) and \\(h(x)={x}^{2}-4.\\)",
+      "math": [
+        "f(x)={x}^{2},g(x)={x}^{2}+4,",
+        "h(x)={x}^{2}-4."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>,</mo><mspace width=\"0.2em\"></mspace><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>,</mo><mspace width=\"0.2em\"></mspace><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 294,
+      "anchor": "fs-id1169144451007",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "Graph Quadratic Functions of the form \\(f(x)={x}^{2}+k\\)",
+        "In the following exercises, ⓐ graph the quadratic functions on the same rectangular coordinate system and ⓑ describe what effect adding a constant, k, to the function has on the basic parabola."
+      ],
+      "text": "\\(f(x)={x}^{2},g(x)={x}^{2}+7,\\) and \\(h(x)={x}^{2}-7.\\)",
+      "math": [
+        "f(x)={x}^{2},g(x)={x}^{2}+7,",
+        "h(x)={x}^{2}-7."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>,</mo><mspace width=\"0.2em\"></mspace><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>7</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>,</mo><mspace width=\"0.2em\"></mspace><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>7</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>7</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>7</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 295,
+      "anchor": "fs-id1169144823921",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, ⓐ graph the quadratic functions on the same rectangular coordinate system and ⓑ describe what effect adding a constant, k, to the function has on the basic parabola.",
+        "In the following exercises, graph each function using a vertical shift."
+      ],
+      "text": "\\(f ( x ) = {x}^{2} + 3\\)",
+      "math": [
+        "f ( x ) = {x}^{2} + 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 296,
+      "anchor": "fs-id1169144724421",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, ⓐ graph the quadratic functions on the same rectangular coordinate system and ⓑ describe what effect adding a constant, k, to the function has on the basic parabola.",
+        "In the following exercises, graph each function using a vertical shift."
+      ],
+      "text": "\\(f ( x ) = {x}^{2} - 7\\)",
+      "math": [
+        "f ( x ) = {x}^{2} - 7"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>7</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>7</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 297,
+      "anchor": "fs-id1169149196553",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, ⓐ graph the quadratic functions on the same rectangular coordinate system and ⓑ describe what effect adding a constant, k, to the function has on the basic parabola.",
+        "In the following exercises, graph each function using a vertical shift."
+      ],
+      "text": "\\(g ( x ) = {x}^{2} + 2\\)",
+      "math": [
+        "g ( x ) = {x}^{2} + 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 298,
+      "anchor": "fs-id1169144555545",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, ⓐ graph the quadratic functions on the same rectangular coordinate system and ⓑ describe what effect adding a constant, k, to the function has on the basic parabola.",
+        "In the following exercises, graph each function using a vertical shift."
+      ],
+      "text": "\\(g ( x ) = {x}^{2} + 5\\)",
+      "math": [
+        "g ( x ) = {x}^{2} + 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>g</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 299,
+      "anchor": "fs-id1169146626127",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, ⓐ graph the quadratic functions on the same rectangular coordinate system and ⓑ describe what effect adding a constant, k, to the function has on the basic parabola.",
+        "In the following exercises, graph each function using a vertical shift."
+      ],
+      "text": "\\(h ( x ) = {x}^{2} - 4\\)",
+      "math": [
+        "h ( x ) = {x}^{2} - 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>h</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>h</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 300,
+      "anchor": "fs-id1169146669868",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, ⓐ graph the quadratic functions on the same rectangular coordinate system and ⓑ describe what effect adding a constant, k, to the function has on the basic parabola.",
+        "In the following exercises, graph each function using a vertical shift."
+      ],
+      "text": "\\(h ( x ) = {x}^{2} - 5\\)",
+      "math": [
+        "h ( x ) = {x}^{2} - 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>h</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>h</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 301,
+      "anchor": "fs-id1169149101378",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "Graph Quadratic Functions of the form \\(f(x)={(x-h)}^{2}\\)",
+        "In the following exercises, ⓐ graph the quadratic functions on the same rectangular coordinate system and ⓑ describe what effect adding a constant, \\(h\\), inside the parentheses has"
+      ],
+      "text": "\\(f(x)={x}^{2},g(x)={(x-3)}^{2},\\) and \\(h(x)={(x+3)}^{2}.\\)",
+      "math": [
+        "f(x)={x}^{2},g(x)={(x-3)}^{2},",
+        "h(x)={(x+3)}^{2}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>,</mo><mspace width=\"0.2em\"></mspace><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>,</mo><mspace width=\"0.2em\"></mspace><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 302,
+      "anchor": "fs-id1169148957288",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "Graph Quadratic Functions of the form \\(f(x)={(x-h)}^{2}\\)",
+        "In the following exercises, ⓐ graph the quadratic functions on the same rectangular coordinate system and ⓑ describe what effect adding a constant, \\(h\\), inside the parentheses has"
+      ],
+      "text": "\\(f(x)={x}^{2},g(x)={(x+4)}^{2},\\) and \\(h(x)={(x-4)}^{2}.\\)",
+      "math": [
+        "f(x)={x}^{2},g(x)={(x+4)}^{2},",
+        "h(x)={(x-4)}^{2}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>,</mo><mspace width=\"0.2em\"></mspace><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>,</mo><mspace width=\"0.2em\"></mspace><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 303,
+      "anchor": "fs-id1169146631837",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, ⓐ graph the quadratic functions on the same rectangular coordinate system and ⓑ describe what effect adding a constant, \\(h\\), inside the parentheses has",
+        "In the following exercises, graph each function using a horizontal shift."
+      ],
+      "text": "\\(f ( x ) = { ( x - 2 ) }^{2}\\)",
+      "math": [
+        "f ( x ) = { ( x - 2 ) }^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 304,
+      "anchor": "fs-id1169144876581",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, ⓐ graph the quadratic functions on the same rectangular coordinate system and ⓑ describe what effect adding a constant, \\(h\\), inside the parentheses has",
+        "In the following exercises, graph each function using a horizontal shift."
+      ],
+      "text": "\\(f ( x ) = { ( x - 1 ) }^{2}\\)",
+      "math": [
+        "f ( x ) = { ( x - 1 ) }^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 305,
+      "anchor": "fs-id1169146639448",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, ⓐ graph the quadratic functions on the same rectangular coordinate system and ⓑ describe what effect adding a constant, \\(h\\), inside the parentheses has",
+        "In the following exercises, graph each function using a horizontal shift."
+      ],
+      "text": "\\(f ( x ) = { ( x + 5 ) }^{2}\\)",
+      "math": [
+        "f ( x ) = { ( x + 5 ) }^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 306,
+      "anchor": "fs-id1169149360888",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, ⓐ graph the quadratic functions on the same rectangular coordinate system and ⓑ describe what effect adding a constant, \\(h\\), inside the parentheses has",
+        "In the following exercises, graph each function using a horizontal shift."
+      ],
+      "text": "\\(f ( x ) = { ( x + 3 ) }^{2}\\)",
+      "math": [
+        "f ( x ) = { ( x + 3 ) }^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 307,
+      "anchor": "fs-id1169144892933",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, ⓐ graph the quadratic functions on the same rectangular coordinate system and ⓑ describe what effect adding a constant, \\(h\\), inside the parentheses has",
+        "In the following exercises, graph each function using a horizontal shift."
+      ],
+      "text": "\\(f ( x ) = { ( x - 5 ) }^{2}\\)",
+      "math": [
+        "f ( x ) = { ( x - 5 ) }^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 308,
+      "anchor": "fs-id1169144566263",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, ⓐ graph the quadratic functions on the same rectangular coordinate system and ⓑ describe what effect adding a constant, \\(h\\), inside the parentheses has",
+        "In the following exercises, graph each function using a horizontal shift."
+      ],
+      "text": "\\(f ( x ) = { ( x + 2 ) }^{2}\\)",
+      "math": [
+        "f ( x ) = { ( x + 2 ) }^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 309,
+      "anchor": "fs-id1169149194319",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, graph each function using a horizontal shift.",
+        "In the following exercises, graph each function using transformations."
+      ],
+      "text": "\\(f ( x ) = { ( x + 2 ) }^{2} + 1\\)",
+      "math": [
+        "f ( x ) = { ( x + 2 ) }^{2} + 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 310,
+      "anchor": "fs-id1169146665368",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, graph each function using a horizontal shift.",
+        "In the following exercises, graph each function using transformations."
+      ],
+      "text": "\\(f ( x ) = { ( x + 4 ) }^{2} + 2\\)",
+      "math": [
+        "f ( x ) = { ( x + 4 ) }^{2} + 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 311,
+      "anchor": "fs-id1169139960649",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, graph each function using a horizontal shift.",
+        "In the following exercises, graph each function using transformations."
+      ],
+      "text": "\\(f ( x ) = { ( x - 1 ) }^{2} + 5\\)",
+      "math": [
+        "f ( x ) = { ( x - 1 ) }^{2} + 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 312,
+      "anchor": "fs-id1169149293789",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, graph each function using a horizontal shift.",
+        "In the following exercises, graph each function using transformations."
+      ],
+      "text": "\\(f ( x ) = { ( x - 3 ) }^{2} + 4\\)",
+      "math": [
+        "f ( x ) = { ( x - 3 ) }^{2} + 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 313,
+      "anchor": "fs-id1169146621931",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, graph each function using a horizontal shift.",
+        "In the following exercises, graph each function using transformations."
+      ],
+      "text": "\\(f ( x ) = { ( x + 3 ) }^{2} - 1\\)",
+      "math": [
+        "f ( x ) = { ( x + 3 ) }^{2} - 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 314,
+      "anchor": "fs-id1169149303573",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, graph each function using a horizontal shift.",
+        "In the following exercises, graph each function using transformations."
+      ],
+      "text": "\\(f ( x ) = { ( x + 5 ) }^{2} - 2\\)",
+      "math": [
+        "f ( x ) = { ( x + 5 ) }^{2} - 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 315,
+      "anchor": "fs-id1169146623143",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, graph each function using a horizontal shift.",
+        "In the following exercises, graph each function using transformations."
+      ],
+      "text": "\\(f ( x ) = { ( x - 4 ) }^{2} - 3\\)",
+      "math": [
+        "f ( x ) = { ( x - 4 ) }^{2} - 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 316,
+      "anchor": "fs-id1169146937041",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, graph each function using a horizontal shift.",
+        "In the following exercises, graph each function using transformations."
+      ],
+      "text": "\\(f ( x ) = { ( x - 6 ) }^{2} - 2\\)",
+      "math": [
+        "f ( x ) = { ( x - 6 ) }^{2} - 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>6</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>6</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 317,
+      "anchor": "fs-id1169149043372",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "Graph Quadratic Functions of the form \\(f(x)=a{x}^{2}\\)",
+        "In the following exercises, graph each function."
+      ],
+      "text": "\\(f ( x ) = -2 {x}^{2}\\)",
+      "math": [
+        "f ( x ) = -2 {x}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>−2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>−2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 318,
+      "anchor": "fs-id1169149240401",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "Graph Quadratic Functions of the form \\(f(x)=a{x}^{2}\\)",
+        "In the following exercises, graph each function."
+      ],
+      "text": "\\(f ( x ) = 4 {x}^{2}\\)",
+      "math": [
+        "f ( x ) = 4 {x}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 319,
+      "anchor": "fs-id1169149240453",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "Graph Quadratic Functions of the form \\(f(x)=a{x}^{2}\\)",
+        "In the following exercises, graph each function."
+      ],
+      "text": "\\(f ( x ) = -4 {x}^{2}\\)",
+      "math": [
+        "f ( x ) = -4 {x}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>−4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>−4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 320,
+      "anchor": "fs-id1169144538690",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "Graph Quadratic Functions of the form \\(f(x)=a{x}^{2}\\)",
+        "In the following exercises, graph each function."
+      ],
+      "text": "\\(f ( x ) = - {x}^{2}\\)",
+      "math": [
+        "f ( x ) = - {x}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 321,
+      "anchor": "fs-id1169144365536",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "Graph Quadratic Functions of the form \\(f(x)=a{x}^{2}\\)",
+        "In the following exercises, graph each function."
+      ],
+      "text": "\\(f ( x ) = \\frac{1}{2} {x}^{2}\\)",
+      "math": [
+        "f ( x ) = \\frac{1}{2} {x}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 322,
+      "anchor": "fs-id1169147027597",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "Graph Quadratic Functions of the form \\(f(x)=a{x}^{2}\\)",
+        "In the following exercises, graph each function."
+      ],
+      "text": "\\(f ( x ) = \\frac{1}{3} {x}^{2}\\)",
+      "math": [
+        "f ( x ) = \\frac{1}{3} {x}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 323,
+      "anchor": "fs-id1169146640150",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "Graph Quadratic Functions of the form \\(f(x)=a{x}^{2}\\)",
+        "In the following exercises, graph each function."
+      ],
+      "text": "\\(f ( x ) = \\frac{1}{4} {x}^{2}\\)",
+      "math": [
+        "f ( x ) = \\frac{1}{4} {x}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 324,
+      "anchor": "fs-id1169147086881",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "Graph Quadratic Functions of the form \\(f(x)=a{x}^{2}\\)",
+        "In the following exercises, graph each function."
+      ],
+      "text": "\\(f ( x ) = - \\frac{1}{2} {x}^{2}\\)",
+      "math": [
+        "f ( x ) = - \\frac{1}{2} {x}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 325,
+      "anchor": "fs-id1169149290730",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "Graph Quadratic Functions Using Transformations",
+        "In the following exercises, rewrite each function in the \\(f(x)=a{(x-h)}^{2}+k\\) form by completing the square."
+      ],
+      "text": "\\(f ( x ) = -3 {x}^{2} - 12 x - 5\\)",
+      "math": [
+        "f ( x ) = -3 {x}^{2} - 12 x - 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>−3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>12</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>−3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>12</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 326,
+      "anchor": "fs-id1169149195345",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "Graph Quadratic Functions Using Transformations",
+        "In the following exercises, rewrite each function in the \\(f(x)=a{(x-h)}^{2}+k\\) form by completing the square."
+      ],
+      "text": "\\(f ( x ) = 2 {x}^{2} - 12 x + 7\\)",
+      "math": [
+        "f ( x ) = 2 {x}^{2} - 12 x + 7"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>12</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>7</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>12</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>7</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 327,
+      "anchor": "fs-id1169149328890",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "Graph Quadratic Functions Using Transformations",
+        "In the following exercises, rewrite each function in the \\(f(x)=a{(x-h)}^{2}+k\\) form by completing the square."
+      ],
+      "text": "\\(f ( x ) = 3 {x}^{2} + 6 x - 1\\)",
+      "math": [
+        "f ( x ) = 3 {x}^{2} + 6 x - 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 328,
+      "anchor": "fs-id1169146594120",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "Graph Quadratic Functions Using Transformations",
+        "In the following exercises, rewrite each function in the \\(f(x)=a{(x-h)}^{2}+k\\) form by completing the square."
+      ],
+      "text": "\\(f ( x ) = -4 {x}^{2} - 16 x - 9\\)",
+      "math": [
+        "f ( x ) = -4 {x}^{2} - 16 x - 9"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>−4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>16</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>9</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>−4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>16</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>9</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 329,
+      "anchor": "fs-id1169144451677",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, rewrite each function in the \\(f(x)=a{(x-h)}^{2}+k\\) form by completing the square.",
+        "In the following exercises, ⓐ rewrite each function in \\(f(x)=a{(x-h)}^{2}+k\\) form and ⓑ graph it by using transformations."
+      ],
+      "text": "\\(f ( x ) = {x}^{2} + 6 x + 5\\)",
+      "math": [
+        "f ( x ) = {x}^{2} + 6 x + 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 330,
+      "anchor": "fs-id1169149357673",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, rewrite each function in the \\(f(x)=a{(x-h)}^{2}+k\\) form by completing the square.",
+        "In the following exercises, ⓐ rewrite each function in \\(f(x)=a{(x-h)}^{2}+k\\) form and ⓑ graph it by using transformations."
+      ],
+      "text": "\\(f ( x ) = {x}^{2} + 4 x - 12\\)",
+      "math": [
+        "f ( x ) = {x}^{2} + 4 x - 12"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>12</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>12</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 331,
+      "anchor": "fs-id1169144365120",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, rewrite each function in the \\(f(x)=a{(x-h)}^{2}+k\\) form by completing the square.",
+        "In the following exercises, ⓐ rewrite each function in \\(f(x)=a{(x-h)}^{2}+k\\) form and ⓑ graph it by using transformations."
+      ],
+      "text": "\\(f ( x ) = {x}^{2} + 4 x + 3\\)",
+      "math": [
+        "f ( x ) = {x}^{2} + 4 x + 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 332,
+      "anchor": "fs-id1169149280723",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, rewrite each function in the \\(f(x)=a{(x-h)}^{2}+k\\) form by completing the square.",
+        "In the following exercises, ⓐ rewrite each function in \\(f(x)=a{(x-h)}^{2}+k\\) form and ⓑ graph it by using transformations."
+      ],
+      "text": "\\(f ( x ) = {x}^{2} - 6 x + 8\\)",
+      "math": [
+        "f ( x ) = {x}^{2} - 6 x + 8"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>8</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>8</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 333,
+      "anchor": "fs-id1169146644568",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, rewrite each function in the \\(f(x)=a{(x-h)}^{2}+k\\) form by completing the square.",
+        "In the following exercises, ⓐ rewrite each function in \\(f(x)=a{(x-h)}^{2}+k\\) form and ⓑ graph it by using transformations."
+      ],
+      "text": "\\(f ( x ) = {x}^{2} - 6 x + 15\\)",
+      "math": [
+        "f ( x ) = {x}^{2} - 6 x + 15"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>15</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>15</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 334,
+      "anchor": "fs-id1169149204947",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, rewrite each function in the \\(f(x)=a{(x-h)}^{2}+k\\) form by completing the square.",
+        "In the following exercises, ⓐ rewrite each function in \\(f(x)=a{(x-h)}^{2}+k\\) form and ⓑ graph it by using transformations."
+      ],
+      "text": "\\(f ( x ) = {x}^{2} + 8 x + 10\\)",
+      "math": [
+        "f ( x ) = {x}^{2} + 8 x + 10"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>10</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>10</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 335,
+      "anchor": "fs-id1169144606276",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, rewrite each function in the \\(f(x)=a{(x-h)}^{2}+k\\) form by completing the square.",
+        "In the following exercises, ⓐ rewrite each function in \\(f(x)=a{(x-h)}^{2}+k\\) form and ⓑ graph it by using transformations."
+      ],
+      "text": "\\(f ( x ) = - {x}^{2} + 8 x - 16\\)",
+      "math": [
+        "f ( x ) = - {x}^{2} + 8 x - 16"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>16</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>16</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 336,
+      "anchor": "fs-id1169149348904",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, rewrite each function in the \\(f(x)=a{(x-h)}^{2}+k\\) form by completing the square.",
+        "In the following exercises, ⓐ rewrite each function in \\(f(x)=a{(x-h)}^{2}+k\\) form and ⓑ graph it by using transformations."
+      ],
+      "text": "\\(f ( x ) = - {x}^{2} + 2 x - 7\\)",
+      "math": [
+        "f ( x ) = - {x}^{2} + 2 x - 7"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>7</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>7</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 337,
+      "anchor": "fs-id1169146732866",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, rewrite each function in the \\(f(x)=a{(x-h)}^{2}+k\\) form by completing the square.",
+        "In the following exercises, ⓐ rewrite each function in \\(f(x)=a{(x-h)}^{2}+k\\) form and ⓑ graph it by using transformations."
+      ],
+      "text": "\\(f ( x ) = - {x}^{2} - 4 x + 2\\)",
+      "math": [
+        "f ( x ) = - {x}^{2} - 4 x + 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 338,
+      "anchor": "fs-id1169147085309",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, rewrite each function in the \\(f(x)=a{(x-h)}^{2}+k\\) form by completing the square.",
+        "In the following exercises, ⓐ rewrite each function in \\(f(x)=a{(x-h)}^{2}+k\\) form and ⓑ graph it by using transformations."
+      ],
+      "text": "\\(f ( x ) = - {x}^{2} + 4 x - 5\\)",
+      "math": [
+        "f ( x ) = - {x}^{2} + 4 x - 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 339,
+      "anchor": "fs-id1169146738012",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, rewrite each function in the \\(f(x)=a{(x-h)}^{2}+k\\) form by completing the square.",
+        "In the following exercises, ⓐ rewrite each function in \\(f(x)=a{(x-h)}^{2}+k\\) form and ⓑ graph it by using transformations."
+      ],
+      "text": "\\(f ( x ) = 5 {x}^{2} - 10 x + 8\\)",
+      "math": [
+        "f ( x ) = 5 {x}^{2} - 10 x + 8"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>5</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>10</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>8</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>5</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>10</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>8</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 340,
+      "anchor": "fs-id1169148958679",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, rewrite each function in the \\(f(x)=a{(x-h)}^{2}+k\\) form by completing the square.",
+        "In the following exercises, ⓐ rewrite each function in \\(f(x)=a{(x-h)}^{2}+k\\) form and ⓑ graph it by using transformations."
+      ],
+      "text": "\\(f ( x ) = 3 {x}^{2} + 18 x + 20\\)",
+      "math": [
+        "f ( x ) = 3 {x}^{2} + 18 x + 20"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>18</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>20</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>18</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>20</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 341,
+      "anchor": "fs-id1169144417671",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, rewrite each function in the \\(f(x)=a{(x-h)}^{2}+k\\) form by completing the square.",
+        "In the following exercises, ⓐ rewrite each function in \\(f(x)=a{(x-h)}^{2}+k\\) form and ⓑ graph it by using transformations."
+      ],
+      "text": "\\(f ( x ) = 2 {x}^{2} - 4 x + 1\\)",
+      "math": [
+        "f ( x ) = 2 {x}^{2} - 4 x + 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 342,
+      "anchor": "fs-id1169146738134",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, rewrite each function in the \\(f(x)=a{(x-h)}^{2}+k\\) form by completing the square.",
+        "In the following exercises, ⓐ rewrite each function in \\(f(x)=a{(x-h)}^{2}+k\\) form and ⓑ graph it by using transformations."
+      ],
+      "text": "\\(f ( x ) = 3 {x}^{2} - 6 x - 1\\)",
+      "math": [
+        "f ( x ) = 3 {x}^{2} - 6 x - 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 343,
+      "anchor": "fs-id1169147106529",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, rewrite each function in the \\(f(x)=a{(x-h)}^{2}+k\\) form by completing the square.",
+        "In the following exercises, ⓐ rewrite each function in \\(f(x)=a{(x-h)}^{2}+k\\) form and ⓑ graph it by using transformations."
+      ],
+      "text": "\\(f ( x ) = -2 {x}^{2} + 8 x - 10\\)",
+      "math": [
+        "f ( x ) = -2 {x}^{2} + 8 x - 10"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>−2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>10</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>−2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>10</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 344,
+      "anchor": "fs-id1169149190641",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, rewrite each function in the \\(f(x)=a{(x-h)}^{2}+k\\) form by completing the square.",
+        "In the following exercises, ⓐ rewrite each function in \\(f(x)=a{(x-h)}^{2}+k\\) form and ⓑ graph it by using transformations."
+      ],
+      "text": "\\(f ( x ) = -3 {x}^{2} + 6 x + 1\\)",
+      "math": [
+        "f ( x ) = -3 {x}^{2} + 6 x + 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>−3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>−3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 345,
+      "anchor": "fs-id1169149023584",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, ⓐ rewrite each function in \\(f(x)=a{(x-h)}^{2}+k\\) form and ⓑ graph it by using transformations.",
+        "In the following exercises, ⓐ rewrite each function in \\(f(x)=a{(x-h)}^{2}+k\\) form and ⓑ graph it using properties."
+      ],
+      "text": "\\(f ( x ) = 2 {x}^{2} + 4 x + 6\\)",
+      "math": [
+        "f ( x ) = 2 {x}^{2} + 4 x + 6"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>6</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>6</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 346,
+      "anchor": "fs-id1169149224328",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, ⓐ rewrite each function in \\(f(x)=a{(x-h)}^{2}+k\\) form and ⓑ graph it by using transformations.",
+        "In the following exercises, ⓐ rewrite each function in \\(f(x)=a{(x-h)}^{2}+k\\) form and ⓑ graph it using properties."
+      ],
+      "text": "\\(f ( x ) = 3 {x}^{2} - 12 x + 7\\)",
+      "math": [
+        "f ( x ) = 3 {x}^{2} - 12 x + 7"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>12</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>7</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>12</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>7</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 347,
+      "anchor": "fs-id1169144420817",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, ⓐ rewrite each function in \\(f(x)=a{(x-h)}^{2}+k\\) form and ⓑ graph it by using transformations.",
+        "In the following exercises, ⓐ rewrite each function in \\(f(x)=a{(x-h)}^{2}+k\\) form and ⓑ graph it using properties."
+      ],
+      "text": "\\(f ( x ) = - {x}^{2} + 2 x - 4\\)",
+      "math": [
+        "f ( x ) = - {x}^{2} + 2 x - 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 348,
+      "anchor": "fs-id1169144877272",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "In the following exercises, ⓐ rewrite each function in \\(f(x)=a{(x-h)}^{2}+k\\) form and ⓑ graph it by using transformations.",
+        "In the following exercises, ⓐ rewrite each function in \\(f(x)=a{(x-h)}^{2}+k\\) form and ⓑ graph it using properties."
+      ],
+      "text": "\\(f ( x ) = -2 {x}^{2} - 4 x - 5\\)",
+      "math": [
+        "f ( x ) = -2 {x}^{2} - 4 x - 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>−2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>−2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 361,
+      "anchor": "fs-id1169149339232",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "Writing Exercise"
+      ],
+      "text": "Graph the quadratic function \\(f(x)={x}^{2}+4x+5\\) first using the properties as we did in the last section and then graph it using transformations. Which method do you prefer? Why?",
+      "math": [
+        "f(x)={x}^{2}+4x+5"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>5</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 362,
+      "anchor": "fs-id1169146627958",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "context": [
+        "Writing Exercise"
+      ],
+      "text": "Graph the quadratic function \\(f(x)=2{x}^{2}-4x-3\\) first using the properties as we did in the last section and then graph it using transformations. Which method do you prefer? Why?",
+      "math": [
+        "f(x)=2{x}^{2}-4x-3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "9.105",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "is_try_it": true,
+      "anchor": "fs-id1169149017068",
+      "context": [
+        "Graph Quadratic Functions of the form \\(f(x)={x}^{2}+k\\)"
+      ],
+      "text": "ⓐ Graph \\(f(x)={x}^{2},g(x)={x}^{2}+1,\\) and \\(h(x)={x}^{2}-1\\) on the same rectangular coordinate system.ⓑ Describe what effect adding a constant to the function has on the basic parabola.",
+      "math": [
+        "f(x)={x}^{2},g(x)={x}^{2}+1,",
+        "h(x)={x}^{2}-1"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>,</mo><mspace width=\"0.2em\"></mspace><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>1</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>,</mo><mspace width=\"0.2em\"></mspace><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>1</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>1</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.106",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "is_try_it": true,
+      "anchor": "fs-id1169146639326",
+      "context": [
+        "Graph Quadratic Functions of the form \\(f(x)={x}^{2}+k\\)"
+      ],
+      "text": "ⓐ Graph \\(f(x)={x}^{2},g(x)={x}^{2}+6,\\) and \\(h(x)={x}^{2}-6\\) on the same rectangular coordinate system.ⓑ Describe what effect adding a constant to the function has on the basic parabola.",
+      "math": [
+        "f(x)={x}^{2},g(x)={x}^{2}+6,",
+        "h(x)={x}^{2}-6"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>,</mo><mspace width=\"0.2em\"></mspace><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>,</mo><mspace width=\"0.2em\"></mspace><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>6</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.107",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "is_try_it": true,
+      "anchor": "fs-id1169148952706",
+      "context": [
+        "Graph Quadratic Functions of the form \\(f(x)={x}^{2}+k\\)"
+      ],
+      "text": "Graph \\(f(x)={x}^{2}-5\\) using a vertical shift.",
+      "math": [
+        "f(x)={x}^{2}-5"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.108",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "is_try_it": true,
+      "anchor": "fs-id1169149336332",
+      "context": [
+        "Graph Quadratic Functions of the form \\(f(x)={x}^{2}+k\\)"
+      ],
+      "text": "Graph \\(f(x)={x}^{2}+7\\) using a vertical shift.",
+      "math": [
+        "f(x)={x}^{2}+7"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>7</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>7</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.109",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "is_try_it": true,
+      "anchor": "fs-id1169148991807",
+      "context": [
+        "Graph Quadratic Functions of the form \\(f(x)={(x-h)}^{2}\\)"
+      ],
+      "text": "ⓐ Graph \\(f(x)={x}^{2},g(x)={(x+2)}^{2},\\) and \\(h(x)={(x-2)}^{2}\\) on the same rectangular coordinate system.ⓑ Describe what effect adding a constant to the function has on the basic parabola.",
+      "math": [
+        "f(x)={x}^{2},g(x)={(x+2)}^{2},",
+        "h(x)={(x-2)}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>,</mo><mspace width=\"0.5em\"></mspace><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>,</mo><mspace width=\"0.5em\"></mspace><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mrow><mo stretchy=\"false\">(</mo><mi>x</mi><mo>−</mo><mn>2</mn><mo stretchy=\"false\">)</mo></mrow><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mrow><mo stretchy=\"false\">(</mo><mi>x</mi><mo>−</mo><mn>2</mn><mo stretchy=\"false\">)</mo></mrow><mn>2</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.110",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "is_try_it": true,
+      "anchor": "fs-id1169146741856",
+      "context": [
+        "Graph Quadratic Functions of the form \\(f(x)={(x-h)}^{2}\\)"
+      ],
+      "text": "ⓐ Graph \\(f(x)={x}^{2},g(x)={x}^{2}+5,\\) and \\(h(x)={x}^{2}-5\\) on the same rectangular coordinate system.ⓑ Describe what effect adding a constant to the function has on the basic parabola.",
+      "math": [
+        "f(x)={x}^{2},g(x)={x}^{2}+5,",
+        "h(x)={x}^{2}-5"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>,</mo><mspace width=\"0.5em\"></mspace><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>,</mo><mspace width=\"0.5em\"></mspace><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.111",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "is_try_it": true,
+      "anchor": "fs-id1169148837213",
+      "context": [
+        "Graph Quadratic Functions of the form \\(f(x)={(x-h)}^{2}\\)"
+      ],
+      "text": "Graph \\(f(x)={(x-4)}^{2}\\) using a horizontal shift.",
+      "math": [
+        "f(x)={(x-4)}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.112",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "is_try_it": true,
+      "anchor": "fs-id1169148821362",
+      "context": [
+        "Graph Quadratic Functions of the form \\(f(x)={(x-h)}^{2}\\)"
+      ],
+      "text": "Graph \\(f(x)={(x+6)}^{2}\\) using a horizontal shift.",
+      "math": [
+        "f(x)={(x+6)}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>6</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>6</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.113",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "is_try_it": true,
+      "anchor": "fs-id1169149089502",
+      "context": [
+        "Graph Quadratic Functions of the form \\(f(x)={(x-h)}^{2}\\)"
+      ],
+      "text": "Graph \\(f(x)={(x+2)}^{2}-3\\) using transformations.",
+      "math": [
+        "f(x)={(x+2)}^{2}-3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>−</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>−</mo><mn>3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.114",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "is_try_it": true,
+      "anchor": "fs-id1169148957608",
+      "context": [
+        "Graph Quadratic Functions of the form \\(f(x)={(x-h)}^{2}\\)"
+      ],
+      "text": "Graph \\(f(x)={(x-3)}^{2}+1\\) using transformations.",
+      "math": [
+        "f(x)={(x-3)}^{2}+1"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>+</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>+</mo><mn>1</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.115",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "is_try_it": true,
+      "anchor": "fs-id1169149150153",
+      "context": [
+        "Graph Quadratic Functions of the Form \\(f(x)=a{x}^{2}\\)"
+      ],
+      "text": "Graph \\(f(x)=-3{x}^{2}.\\)",
+      "math": [
+        "f(x)=-3{x}^{2}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>−3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>−3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.116",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "is_try_it": true,
+      "anchor": "fs-id1169148943450",
+      "context": [
+        "Graph Quadratic Functions of the Form \\(f(x)=a{x}^{2}\\)"
+      ],
+      "text": "Graph \\(f(x)=2{x}^{2}.\\)",
+      "math": [
+        "f(x)=2{x}^{2}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.117",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "is_try_it": true,
+      "anchor": "fs-id1169148963136",
+      "context": [
+        "Graph Quadratic Functions Using Transformations"
+      ],
+      "text": "Rewrite \\(f(x)=-4{x}^{2}-8x+1\\) in the \\(f(x)=a{(x-h)}^{2}+k\\) form by completing the square.",
+      "math": [
+        "f(x)=-4{x}^{2}-8x+1",
+        "f(x)=a{(x-h)}^{2}+k"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>−4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>8</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>−4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>8</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>a</mi><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mi>h</mi></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>+</mo><mi>k</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>a</mi><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mi>h</mi></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>+</mo><mi>k</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.118",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "is_try_it": true,
+      "anchor": "fs-id1169149193773",
+      "context": [
+        "Graph Quadratic Functions Using Transformations"
+      ],
+      "text": "Rewrite \\(f(x)=2{x}^{2}-8x+3\\) in the \\(f(x)=a{(x-h)}^{2}+k\\) form by completing the square.",
+      "math": [
+        "f(x)=2{x}^{2}-8x+3",
+        "f(x)=a{(x-h)}^{2}+k"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>8</mn><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>8</mn><mi>x</mi><mo>+</mo><mn>3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>a</mi><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mi>h</mi></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>+</mo><mi>k</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>a</mi><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mi>h</mi></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>+</mo><mi>k</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.119",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "is_try_it": true,
+      "anchor": "fs-id1169149144148",
+      "context": [
+        "Graph Quadratic Functions Using Transformations"
+      ],
+      "text": "Graph \\(f(x)={x}^{2}+2x-3\\) by using transformations.",
+      "math": [
+        "f(x)={x}^{2}+2x-3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.120",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "is_try_it": true,
+      "anchor": "fs-id1169149040152",
+      "context": [
+        "Graph Quadratic Functions Using Transformations"
+      ],
+      "text": "Graph \\(f(x)={x}^{2}-8x+12\\) by using transformations.",
+      "math": [
+        "f(x)={x}^{2}-8x+12"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>8</mn><mi>x</mi><mo>+</mo><mn>12</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>8</mn><mi>x</mi><mo>+</mo><mn>12</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.121",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "is_try_it": true,
+      "anchor": "fs-id1169146621161",
+      "context": [
+        "Graph Quadratic Functions Using Transformations"
+      ],
+      "text": "Graph \\(f(x)=-3{x}^{2}+12x-4\\) by using transformations.",
+      "math": [
+        "f(x)=-3{x}^{2}+12x-4"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>−3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>12</mn><mi>x</mi><mo>−</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>−3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>12</mn><mi>x</mi><mo>−</mo><mn>4</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.122",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "is_try_it": true,
+      "anchor": "fs-id1169149023639",
+      "context": [
+        "Graph Quadratic Functions Using Transformations"
+      ],
+      "text": "Graph \\(f(x)=-2{x}^{2}+12x-9\\) by using transformations.",
+      "math": [
+        "f(x)=-2{x}^{2}+12x-9"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>−2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>12</mn><mi>x</mi><mo>−</mo><mn>9</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>−2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>12</mn><mi>x</mi><mo>−</mo><mn>9</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.123",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "is_try_it": true,
+      "anchor": "fs-id1169149285306",
+      "context": [
+        "Graph Quadratic Functions Using Transformations"
+      ],
+      "text": "ⓐ Rewrite \\(f(x)=3{x}^{2}-6x+5\\) in \\(f(x)=a{(x-h)}^{2}+k\\) form and ⓑ graph the function using properties.",
+      "math": [
+        "f(x)=3{x}^{2}-6x+5",
+        "f(x)=a{(x-h)}^{2}+k"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>6</mn><mi>x</mi><mo>+</mo><mn>5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>6</mn><mi>x</mi><mo>+</mo><mn>5</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>a</mi><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mi>h</mi></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>+</mo><mi>k</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>a</mi><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mi>h</mi></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>+</mo><mi>k</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.124",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "is_try_it": true,
+      "anchor": "fs-id1169149329181",
+      "context": [
+        "Graph Quadratic Functions Using Transformations"
+      ],
+      "text": "ⓐ Rewrite \\(f(x)=-2{x}^{2}+8x-7\\) in \\(f(x)=a{(x-h)}^{2}+k\\) form and ⓑ graph the function using properties.",
+      "math": [
+        "f(x)=-2{x}^{2}+8x-7",
+        "f(x)=a{(x-h)}^{2}+k"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>−2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><mi>x</mi><mo>−</mo><mn>7</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>−2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><mi>x</mi><mo>−</mo><mn>7</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>a</mi><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mi>h</mi></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>+</mo><mi>k</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>a</mi><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mi>h</mi></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>+</mo><mi>k</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.125",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "is_try_it": true,
+      "anchor": "fs-id1169148957432",
+      "context": [
+        "Find a Quadratic Function from its Graph"
+      ],
+      "text": "Write the quadratic function in \\(f(x)=a{(x-h)}^{2}+k\\) form whose graph is shown. [FIGURA: The graph shown is an upward facing parabola with vertex (3, negative 4) and y-intercept (0, 5).]",
+      "math": [
+        "f(x)=a{(x-h)}^{2}+k"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>a</mi><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mi>h</mi></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>+</mo><mi>k</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>a</mi><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mi>h</mi></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>+</mo><mi>k</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": [
+        "The graph shown is an upward facing parabola with vertex (3, negative 4) and y-intercept (0, 5)."
+      ]
+    },
+    {
+      "number": "9.126",
+      "page": "9-7-graph-quadratic-functions-using-transformations",
+      "is_try_it": true,
+      "anchor": "fs-id1169146816989",
+      "context": [
+        "Find a Quadratic Function from its Graph"
+      ],
+      "text": "Determine the quadratic function whose graph is shown. [FIGURA: The graph shown is an upward facing parabola with vertex (negative 3, negative 1) and y-intercept (0, 8).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "The graph shown is an upward facing parabola with vertex (negative 3, negative 1) and y-intercept (0, 8)."
+      ]
+    }
+  ],
+  "answers": {}
+}

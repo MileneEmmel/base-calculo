@@ -1,0 +1,921 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/11-4-hyperbolas",
+  "title": "11.4 Hyperbolas",
+  "sha256": "395368c6427d11b02600354ff2a12c0652376f4eff1f1dc70039747c8a3ef1f9",
+  "questions": [
+    {
+      "number": 147,
+      "anchor": "fs-id1163874053966",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Graph a Hyperbola with Center at \\((0,0)\\)",
+        "In the following exercises, graph."
+      ],
+      "text": "\\(\\frac{ {x}^{2} }{9} - \\frac{ {y}^{2} }{4} = 1\\)",
+      "math": [
+        "\\frac{ {x}^{2} }{9} - \\frac{ {y}^{2} }{4} = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>4</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>4</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 148,
+      "anchor": "fs-id1163874047591",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Graph a Hyperbola with Center at \\((0,0)\\)",
+        "In the following exercises, graph."
+      ],
+      "text": "\\(\\frac{ {x}^{2} }{ 25 } - \\frac{ {y}^{2} }{9} = 1\\)",
+      "math": [
+        "\\frac{ {x}^{2} }{ 25 } - \\frac{ {y}^{2} }{9} = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 149,
+      "anchor": "fs-id1163873657989",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Graph a Hyperbola with Center at \\((0,0)\\)",
+        "In the following exercises, graph."
+      ],
+      "text": "\\(\\frac{ {x}^{2} }{ 16 } - \\frac{ {y}^{2} }{ 25 } = 1\\)",
+      "math": [
+        "\\frac{ {x}^{2} }{ 16 } - \\frac{ {y}^{2} }{ 25 } = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 150,
+      "anchor": "fs-id1163873850658",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Graph a Hyperbola with Center at \\((0,0)\\)",
+        "In the following exercises, graph."
+      ],
+      "text": "\\(\\frac{ {x}^{2} }{9} - \\frac{ {y}^{2} }{ 36 } = 1\\)",
+      "math": [
+        "\\frac{ {x}^{2} }{9} - \\frac{ {y}^{2} }{ 36 } = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>36</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>36</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 151,
+      "anchor": "fs-id1163874019191",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Graph a Hyperbola with Center at \\((0,0)\\)",
+        "In the following exercises, graph."
+      ],
+      "text": "\\(\\frac{ {y}^{2} }{ 25 } - \\frac{ {x}^{2} }{4} = 1\\)",
+      "math": [
+        "\\frac{ {y}^{2} }{ 25 } - \\frac{ {x}^{2} }{4} = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>4</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>4</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 152,
+      "anchor": "fs-id1163873627622",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Graph a Hyperbola with Center at \\((0,0)\\)",
+        "In the following exercises, graph."
+      ],
+      "text": "\\(\\frac{ {y}^{2} }{ 36 } - \\frac{ {x}^{2} }{ 16 } = 1\\)",
+      "math": [
+        "\\frac{ {y}^{2} }{ 36 } - \\frac{ {x}^{2} }{ 16 } = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>36</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>36</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 153,
+      "anchor": "fs-id1163869138006",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Graph a Hyperbola with Center at \\((0,0)\\)",
+        "In the following exercises, graph."
+      ],
+      "text": "\\(16 {y}^{2} - 9 {x}^{2} = 144\\)",
+      "math": [
+        "16 {y}^{2} - 9 {x}^{2} = 144"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>16</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>9</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>144</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>16</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>9</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>144</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 154,
+      "anchor": "fs-id1163870384297",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Graph a Hyperbola with Center at \\((0,0)\\)",
+        "In the following exercises, graph."
+      ],
+      "text": "\\(25 {y}^{2} - 9 {x}^{2} = 225\\)",
+      "math": [
+        "25 {y}^{2} - 9 {x}^{2} = 225"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>25</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>9</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>225</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>25</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>9</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>225</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 155,
+      "anchor": "fs-id1163873787573",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Graph a Hyperbola with Center at \\((0,0)\\)",
+        "In the following exercises, graph."
+      ],
+      "text": "\\(4 {y}^{2} - 9 {x}^{2} = 36\\)",
+      "math": [
+        "4 {y}^{2} - 9 {x}^{2} = 36"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>9</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>36</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>9</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>36</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 156,
+      "anchor": "fs-id1163869200126",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Graph a Hyperbola with Center at \\((0,0)\\)",
+        "In the following exercises, graph."
+      ],
+      "text": "\\(16 {y}^{2} - 25 {x}^{2} = 400\\)",
+      "math": [
+        "16 {y}^{2} - 25 {x}^{2} = 400"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>16</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>25</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>400</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>16</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>25</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>400</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 157,
+      "anchor": "fs-id1163873793246",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Graph a Hyperbola with Center at \\((0,0)\\)",
+        "In the following exercises, graph."
+      ],
+      "text": "\\(4 {x}^{2} - 16 {y}^{2} = 64\\)",
+      "math": [
+        "4 {x}^{2} - 16 {y}^{2} = 64"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>16</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>64</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>16</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>64</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 158,
+      "anchor": "fs-id1163873814481",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Graph a Hyperbola with Center at \\((0,0)\\)",
+        "In the following exercises, graph."
+      ],
+      "text": "\\(9 {x}^{2} - 4 {y}^{2} = 36\\)",
+      "math": [
+        "9 {x}^{2} - 4 {y}^{2} = 36"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>9</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>36</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>9</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>36</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 159,
+      "anchor": "fs-id1163873898761",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Graph a Hyperbola with Center at \\((h,k)\\)",
+        "In the following exercises, graph."
+      ],
+      "text": "\\(\\frac{ { ( x - 1 ) }^{2} }{ 16 } - \\frac{ { ( y - 3 ) }^{2} }{4} = 1\\)",
+      "math": [
+        "\\frac{ { ( x - 1 ) }^{2} }{ 16 } - \\frac{ { ( y - 3 ) }^{2} }{4} = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>−</mo>\n                      <mn>1</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>−</mo>\n                      <mn>3</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>4</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>−</mo>\n                      <mn>1</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>−</mo>\n                      <mn>3</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>4</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 160,
+      "anchor": "fs-id1163873655036",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Graph a Hyperbola with Center at \\((h,k)\\)",
+        "In the following exercises, graph."
+      ],
+      "text": "\\(\\frac{ { ( x - 2 ) }^{2} }{4} - \\frac{ { ( y - 3 ) }^{2} }{ 16 } = 1\\)",
+      "math": [
+        "\\frac{ { ( x - 2 ) }^{2} }{4} - \\frac{ { ( y - 3 ) }^{2} }{ 16 } = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>−</mo>\n                      <mn>2</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>4</mn>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>−</mo>\n                      <mn>3</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>−</mo>\n                      <mn>2</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>4</mn>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>−</mo>\n                      <mn>3</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 161,
+      "anchor": "fs-id1163873607551",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Graph a Hyperbola with Center at \\((h,k)\\)",
+        "In the following exercises, graph."
+      ],
+      "text": "\\(\\frac{ { ( y - 4 ) }^{2} }{9} - \\frac{ { ( x - 2 ) }^{2} }{ 25 } = 1\\)",
+      "math": [
+        "\\frac{ { ( y - 4 ) }^{2} }{9} - \\frac{ { ( x - 2 ) }^{2} }{ 25 } = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>−</mo>\n                      <mn>4</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>−</mo>\n                      <mn>2</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>−</mo>\n                      <mn>4</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>−</mo>\n                      <mn>2</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 162,
+      "anchor": "fs-id1163874032597",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Graph a Hyperbola with Center at \\((h,k)\\)",
+        "In the following exercises, graph."
+      ],
+      "text": "\\(\\frac{ { ( y - 1 ) }^{2} }{ 25 } - \\frac{ { ( x - 4 ) }^{2} }{ 16 } = 1\\)",
+      "math": [
+        "\\frac{ { ( y - 1 ) }^{2} }{ 25 } - \\frac{ { ( x - 4 ) }^{2} }{ 16 } = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>−</mo>\n                      <mn>1</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>−</mo>\n                      <mn>4</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>−</mo>\n                      <mn>1</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>−</mo>\n                      <mn>4</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 163,
+      "anchor": "fs-id1163870462018",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Graph a Hyperbola with Center at \\((h,k)\\)",
+        "In the following exercises, graph."
+      ],
+      "text": "\\(\\frac{ { ( y + 4 ) }^{2} }{ 25 } - \\frac{ { ( x + 1 ) }^{2} }{ 36 } = 1\\)",
+      "math": [
+        "\\frac{ { ( y + 4 ) }^{2} }{ 25 } - \\frac{ { ( x + 1 ) }^{2} }{ 36 } = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>+</mo>\n                      <mn>4</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>+</mo>\n                      <mn>1</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>36</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>+</mo>\n                      <mn>4</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>+</mo>\n                      <mn>1</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>36</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 164,
+      "anchor": "fs-id1163873768786",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Graph a Hyperbola with Center at \\((h,k)\\)",
+        "In the following exercises, graph."
+      ],
+      "text": "\\(\\frac{ { ( y + 1 ) }^{2} }{ 16 } - \\frac{ { ( x + 1 ) }^{2} }{4} = 1\\)",
+      "math": [
+        "\\frac{ { ( y + 1 ) }^{2} }{ 16 } - \\frac{ { ( x + 1 ) }^{2} }{4} = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>+</mo>\n                      <mn>1</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>+</mo>\n                      <mn>1</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>4</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>+</mo>\n                      <mn>1</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>+</mo>\n                      <mn>1</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>4</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 165,
+      "anchor": "fs-id1163873639294",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Graph a Hyperbola with Center at \\((h,k)\\)",
+        "In the following exercises, graph."
+      ],
+      "text": "\\(\\frac{ { ( y - 4 ) }^{2} }{ 16 } - \\frac{ { ( x + 1 ) }^{2} }{ 25 } = 1\\)",
+      "math": [
+        "\\frac{ { ( y - 4 ) }^{2} }{ 16 } - \\frac{ { ( x + 1 ) }^{2} }{ 25 } = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>−</mo>\n                      <mn>4</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>+</mo>\n                      <mn>1</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>−</mo>\n                      <mn>4</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>+</mo>\n                      <mn>1</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 166,
+      "anchor": "fs-id1163873753634",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Graph a Hyperbola with Center at \\((h,k)\\)",
+        "In the following exercises, graph."
+      ],
+      "text": "\\(\\frac{ { ( y + 3 ) }^{2} }{ 16 } - \\frac{ { ( x - 3 ) }^{2} }{ 36 } = 1\\)",
+      "math": [
+        "\\frac{ { ( y + 3 ) }^{2} }{ 16 } - \\frac{ { ( x - 3 ) }^{2} }{ 36 } = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>+</mo>\n                      <mn>3</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>−</mo>\n                      <mn>3</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>36</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>+</mo>\n                      <mn>3</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>−</mo>\n                      <mn>3</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>36</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 167,
+      "anchor": "fs-id1163870489128",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Graph a Hyperbola with Center at \\((h,k)\\)",
+        "In the following exercises, graph."
+      ],
+      "text": "\\(\\frac{ { ( x - 3 ) }^{2} }{ 25 } - \\frac{ { ( y + 2 ) }^{2} }{9} = 1\\)",
+      "math": [
+        "\\frac{ { ( x - 3 ) }^{2} }{ 25 } - \\frac{ { ( y + 2 ) }^{2} }{9} = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>−</mo>\n                      <mn>3</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>+</mo>\n                      <mn>2</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>−</mo>\n                      <mn>3</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>+</mo>\n                      <mn>2</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 168,
+      "anchor": "fs-id1163873645239",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Graph a Hyperbola with Center at \\((h,k)\\)",
+        "In the following exercises, graph."
+      ],
+      "text": "\\(\\frac{ { ( x + 2 ) }^{2} }{4} - \\frac{ { ( y - 1 ) }^{2} }{9} = 1\\)",
+      "math": [
+        "\\frac{ { ( x + 2 ) }^{2} }{4} - \\frac{ { ( y - 1 ) }^{2} }{9} = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>+</mo>\n                      <mn>2</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>4</mn>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>−</mo>\n                      <mn>1</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>+</mo>\n                      <mn>2</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>4</mn>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>−</mo>\n                      <mn>1</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 169,
+      "anchor": "fs-id1163870256623",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "In the following exercises, graph.",
+        "In the following exercises, ⓐ write the equation in standard form and ⓑ graph."
+      ],
+      "text": "\\(9 {x}^{2} - 4 {y}^{2} - 18 x + 8 y - 31 = 0\\)",
+      "math": [
+        "9 {x}^{2} - 4 {y}^{2} - 18 x + 8 y - 31 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>9</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>18</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>31</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>9</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>18</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>31</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 170,
+      "anchor": "fs-id1163873799258",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "In the following exercises, graph.",
+        "In the following exercises, ⓐ write the equation in standard form and ⓑ graph."
+      ],
+      "text": "\\(16 {x}^{2} - 4 {y}^{2} + 64 x - 24 y - 36 = 0\\)",
+      "math": [
+        "16 {x}^{2} - 4 {y}^{2} + 64 x - 24 y - 36 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>16</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>64</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>24</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>36</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>16</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>64</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>24</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>36</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 171,
+      "anchor": "fs-id1163873866311",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "In the following exercises, graph.",
+        "In the following exercises, ⓐ write the equation in standard form and ⓑ graph."
+      ],
+      "text": "\\({y}^{2} - {x}^{2} - 4 y + 2 x - 6 = 0\\)",
+      "math": [
+        "{y}^{2} - {x}^{2} - 4 y + 2 x - 6 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 172,
+      "anchor": "fs-id1163873919210",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "In the following exercises, graph.",
+        "In the following exercises, ⓐ write the equation in standard form and ⓑ graph."
+      ],
+      "text": "\\(4 {y}^{2} - 16 {x}^{2} - 24 y + 96 x - 172 = 0\\)",
+      "math": [
+        "4 {y}^{2} - 16 {x}^{2} - 24 y + 96 x - 172 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>16</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>24</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>96</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>172</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>16</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>24</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>96</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>172</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 173,
+      "anchor": "fs-id1163873819963",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "In the following exercises, graph.",
+        "In the following exercises, ⓐ write the equation in standard form and ⓑ graph."
+      ],
+      "text": "\\(9 {y}^{2} - {x}^{2} + 18 y - 4 x - 4 = 0\\)",
+      "math": [
+        "9 {y}^{2} - {x}^{2} + 18 y - 4 x - 4 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>9</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>18</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>9</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>18</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 174,
+      "anchor": "fs-id1163870516342",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Identify the Graph of each Equation as a Circle, Parabola, Ellipse, or Hyperbola",
+        "In the following exercises, identify the type of graph."
+      ],
+      "text": "ⓐ \\(x=-{y}^{2}-2y+3\\) ⓑ \\(9{y}^{2}-{x}^{2}+18y-4x-4=0\\) ⓒ \\(9{x}^{2}+25{y}^{2}=225\\) ⓓ \\({x}^{2}+{y}^{2}-4x+10y-7=0\\)",
+      "math": [
+        "x=-{y}^{2}-2y+3",
+        "9{y}^{2}-{x}^{2}+18y-4x-4=0",
+        "9{x}^{2}+25{y}^{2}=225",
+        "{x}^{2}+{y}^{2}-4x+10y-7=0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mtext>−</mtext><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn><mi>y</mi><mo>+</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mtext>−</mtext><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn><mi>y</mi><mo>+</mo><mn>3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>9</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>18</mn><mi>y</mi><mo>−</mo><mn>4</mn><mi>x</mi><mo>−</mo><mn>4</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>9</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>18</mn><mi>y</mi><mo>−</mo><mn>4</mn><mi>x</mi><mo>−</mo><mn>4</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>9</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>25</mn><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>225</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>9</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>25</mn><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>225</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>10</mn><mi>y</mi><mo>−</mo><mn>7</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>10</mn><mi>y</mi><mo>−</mo><mn>7</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 175,
+      "anchor": "fs-id1163873796654",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Identify the Graph of each Equation as a Circle, Parabola, Ellipse, or Hyperbola",
+        "In the following exercises, identify the type of graph."
+      ],
+      "text": "ⓐ \\(x=-2{y}^{2}-12y-16\\) ⓑ \\({x}^{2}+{y}^{2}=9\\) ⓒ \\(16{x}^{2}-4{y}^{2}+64x-24y-36=0\\) ⓓ \\(16{x}^{2}+36{y}^{2}=576\\)",
+      "math": [
+        "x=-2{y}^{2}-12y-16",
+        "{x}^{2}+{y}^{2}=9",
+        "16{x}^{2}-4{y}^{2}+64x-24y-36=0",
+        "16{x}^{2}+36{y}^{2}=576"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>−2</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>12</mn><mi>y</mi><mo>−</mo><mn>16</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>−2</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>12</mn><mi>y</mi><mo>−</mo><mn>16</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>9</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>9</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>16</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>64</mn><mi>x</mi><mo>−</mo><mn>24</mn><mi>y</mi><mo>−</mo><mn>36</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>16</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>64</mn><mi>x</mi><mo>−</mo><mn>24</mn><mi>y</mi><mo>−</mo><mn>36</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>16</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>36</mn><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>576</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>16</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>36</mn><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>576</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 176,
+      "anchor": "fs-id1163870259323",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, graph each equation."
+      ],
+      "text": "\\(\\frac{ { ( y - 3 ) }^{2} }{9} - \\frac{ { ( x + 2 ) }^{2} }{ 16 } = 1\\)",
+      "math": [
+        "\\frac{ { ( y - 3 ) }^{2} }{9} - \\frac{ { ( x + 2 ) }^{2} }{ 16 } = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>−</mo>\n                      <mn>3</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>+</mo>\n                      <mn>2</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>−</mo>\n                      <mn>3</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>+</mo>\n                      <mn>2</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 177,
+      "anchor": "fs-id1163873662392",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, graph each equation."
+      ],
+      "text": "\\({x}^{2} + {y}^{2} - 4 x + 10 y - 7 = 0\\)",
+      "math": [
+        "{x}^{2} + {y}^{2} - 4 x + 10 y - 7 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>10</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>7</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>10</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>7</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 178,
+      "anchor": "fs-id1163873855097",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, graph each equation."
+      ],
+      "text": "\\(y = { ( x - 1 ) }^{2} + 2\\)",
+      "math": [
+        "y = { ( x - 1 ) }^{2} + 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 179,
+      "anchor": "fs-id1163870644270",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, graph each equation."
+      ],
+      "text": "\\(\\frac{ {x}^{2} }{9} + \\frac{ {y}^{2} }{ 25 } = 1\\)",
+      "math": [
+        "\\frac{ {x}^{2} }{9} + \\frac{ {y}^{2} }{ 25 } = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 180,
+      "anchor": "fs-id1163870292668",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, graph each equation."
+      ],
+      "text": "\\({ ( x + 2 ) }^{2} + { ( y - 5 ) }^{2} = 4\\)",
+      "math": [
+        "{ ( x + 2 ) }^{2} + { ( y - 5 ) }^{2} = 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 181,
+      "anchor": "fs-id1163873804950",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, graph each equation."
+      ],
+      "text": "\\({y}^{2} - {x}^{2} - 4 y + 2 x - 6 = 0\\)",
+      "math": [
+        "{y}^{2} - {x}^{2} - 4 y + 2 x - 6 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 182,
+      "anchor": "fs-id1163873748917",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, graph each equation."
+      ],
+      "text": "\\(x = - {y}^{2} - 2 y + 3\\)",
+      "math": [
+        "x = - {y}^{2} - 2 y + 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 183,
+      "anchor": "fs-id1163870549277",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, graph each equation."
+      ],
+      "text": "\\(16 {x}^{2} + 9 {y}^{2} = 144\\)",
+      "math": [
+        "16 {x}^{2} + 9 {y}^{2} = 144"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>16</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>9</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>144</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>16</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>9</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>144</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 184,
+      "anchor": "fs-id1163874054196",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "In your own words, define a hyperbola and write the equation of a hyperbola centered at the origin in standard form. Draw a sketch of the hyperbola labeling the center, vertices, and asymptotes.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 185,
+      "anchor": "fs-id1163870693901",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain in your own words how to create and use the rectangle that helps graph a hyperbola.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 186,
+      "anchor": "fs-id1163873641726",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Compare and contrast the graphs of the equations \\(\\frac{{x}^{2}}{4}-\\frac{{y}^{2}}{9}=1\\) and \\(\\frac{{y}^{2}}{9}-\\frac{{x}^{2}}{4}=1.\\)",
+      "math": [
+        "\\frac{{x}^{2}}{4}-\\frac{{y}^{2}}{9}=1",
+        "\\frac{{y}^{2}}{9}-\\frac{{x}^{2}}{4}=1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup></mrow><mn>4</mn></mfrac><mo>−</mo><mfrac><mrow><msup><mi>y</mi><mn>2</mn></msup></mrow><mn>9</mn></mfrac><mo>=</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup></mrow><mn>4</mn></mfrac><mo>−</mo><mfrac><mrow><msup><mi>y</mi><mn>2</mn></msup></mrow><mn>9</mn></mfrac><mo>=</mo><mn>1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msup><mi>y</mi><mn>2</mn></msup></mrow><mn>9</mn></mfrac><mo>−</mo><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup></mrow><mn>4</mn></mfrac><mo>=</mo><mn>1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msup><mi>y</mi><mn>2</mn></msup></mrow><mn>9</mn></mfrac><mo>−</mo><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup></mrow><mn>4</mn></mfrac><mo>=</mo><mn>1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 187,
+      "anchor": "fs-id1163873716520",
+      "page": "11-4-hyperbolas",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain in your own words, how to distinguish the equation of an ellipse with the equation of a hyperbola.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "11.53",
+      "page": "11-4-hyperbolas",
+      "is_try_it": true,
+      "anchor": "fs-id1163873758427",
+      "context": [
+        "Graph a Hyperbola with Center at (0, 0)"
+      ],
+      "text": "Graph \\(\\frac{{x}^{2}}{16}-\\frac{{y}^{2}}{4}=1.\\)",
+      "math": [
+        "\\frac{{x}^{2}}{16}-\\frac{{y}^{2}}{4}=1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup></mrow><mrow><mn>16</mn></mrow></mfrac><mo>−</mo><mfrac><mrow><msup><mi>y</mi><mn>2</mn></msup></mrow><mn>4</mn></mfrac><mo>=</mo><mn>1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup></mrow><mrow><mn>16</mn></mrow></mfrac><mo>−</mo><mfrac><mrow><msup><mi>y</mi><mn>2</mn></msup></mrow><mn>4</mn></mfrac><mo>=</mo><mn>1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.54",
+      "page": "11-4-hyperbolas",
+      "is_try_it": true,
+      "anchor": "fs-id1163873629407",
+      "context": [
+        "Graph a Hyperbola with Center at (0, 0)"
+      ],
+      "text": "Graph \\(\\frac{{x}^{2}}{9}-\\frac{{y}^{2}}{16}=1.\\)",
+      "math": [
+        "\\frac{{x}^{2}}{9}-\\frac{{y}^{2}}{16}=1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup></mrow><mn>9</mn></mfrac><mo>−</mo><mfrac><mrow><msup><mi>y</mi><mn>2</mn></msup></mrow><mrow><mn>16</mn></mrow></mfrac><mo>=</mo><mn>1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup></mrow><mn>9</mn></mfrac><mo>−</mo><mfrac><mrow><msup><mi>y</mi><mn>2</mn></msup></mrow><mrow><mn>16</mn></mrow></mfrac><mo>=</mo><mn>1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.55",
+      "page": "11-4-hyperbolas",
+      "is_try_it": true,
+      "anchor": "fs-id1163870619492",
+      "context": [
+        "Graph a Hyperbola with Center at (0, 0)"
+      ],
+      "text": "Graph \\(4{y}^{2}-25{x}^{2}=100.\\)",
+      "math": [
+        "4{y}^{2}-25{x}^{2}=100."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>25</mn><msup><mi>x</mi><mn>2</mn></msup><mo>=</mo><mn>100</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>25</mn><msup><mi>x</mi><mn>2</mn></msup><mo>=</mo><mn>100</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.56",
+      "page": "11-4-hyperbolas",
+      "is_try_it": true,
+      "anchor": "fs-id1163870504874",
+      "context": [
+        "Graph a Hyperbola with Center at (0, 0)"
+      ],
+      "text": "Graph \\(25{y}^{2}-9{x}^{2}=225.\\)",
+      "math": [
+        "25{y}^{2}-9{x}^{2}=225."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>25</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>9</mn><msup><mi>x</mi><mn>2</mn></msup><mo>=</mo><mn>225</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>25</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>9</mn><msup><mi>x</mi><mn>2</mn></msup><mo>=</mo><mn>225</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.57",
+      "page": "11-4-hyperbolas",
+      "is_try_it": true,
+      "anchor": "fs-id1163873787444",
+      "context": [
+        "Graph a Hyperbola with Center at \\((h,k)\\)"
+      ],
+      "text": "Graph \\(\\frac{{(x-3)}^{2}}{25}-\\frac{{(y-1)}^{2}}{9}=1.\\)",
+      "math": [
+        "\\frac{{(x-3)}^{2}}{25}-\\frac{{(y-1)}^{2}}{9}=1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mrow><mn>25</mn></mrow></mfrac><mo>−</mo><mfrac><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mn>9</mn></mfrac><mo>=</mo><mn>1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mrow><mn>25</mn></mrow></mfrac><mo>−</mo><mfrac><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mn>9</mn></mfrac><mo>=</mo><mn>1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.58",
+      "page": "11-4-hyperbolas",
+      "is_try_it": true,
+      "anchor": "fs-id1163870376223",
+      "context": [
+        "Graph a Hyperbola with Center at \\((h,k)\\)"
+      ],
+      "text": "Graph \\(\\frac{{(x-2)}^{2}}{4}-\\frac{{(y-2)}^{2}}{9}=1.\\)",
+      "math": [
+        "\\frac{{(x-2)}^{2}}{4}-\\frac{{(y-2)}^{2}}{9}=1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mn>4</mn></mfrac><mo>−</mo><mfrac><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mn>9</mn></mfrac><mo>=</mo><mn>1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mn>4</mn></mfrac><mo>−</mo><mfrac><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mn>9</mn></mfrac><mo>=</mo><mn>1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.59",
+      "page": "11-4-hyperbolas",
+      "is_try_it": true,
+      "anchor": "fs-id1163870254062",
+      "context": [
+        "Graph a Hyperbola with Center at \\((h,k)\\)"
+      ],
+      "text": "Graph \\(\\frac{{(y+3)}^{2}}{16}-\\frac{{(x+2)}^{2}}{9}=1.\\)",
+      "math": [
+        "\\frac{{(y+3)}^{2}}{16}-\\frac{{(x+2)}^{2}}{9}=1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mrow><mn>16</mn></mrow></mfrac><mo>−</mo><mfrac><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mn>9</mn></mfrac><mo>=</mo><mn>1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mrow><mn>16</mn></mrow></mfrac><mo>−</mo><mfrac><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mn>9</mn></mfrac><mo>=</mo><mn>1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.60",
+      "page": "11-4-hyperbolas",
+      "is_try_it": true,
+      "anchor": "fs-id1163873789429",
+      "context": [
+        "Graph a Hyperbola with Center at \\((h,k)\\)"
+      ],
+      "text": "Graph \\(\\frac{{(y+2)}^{2}}{9}-\\frac{{(x+2)}^{2}}{9}=1.\\)",
+      "math": [
+        "\\frac{{(y+2)}^{2}}{9}-\\frac{{(x+2)}^{2}}{9}=1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mn>9</mn></mfrac><mo>−</mo><mfrac><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mn>9</mn></mfrac><mo>=</mo><mn>1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mn>9</mn></mfrac><mo>−</mo><mfrac><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mn>9</mn></mfrac><mo>=</mo><mn>1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.61",
+      "page": "11-4-hyperbolas",
+      "is_try_it": true,
+      "anchor": "fs-id1163873626188",
+      "context": [
+        "Graph a Hyperbola with Center at \\((h,k)\\)"
+      ],
+      "text": "ⓐ Write the equation in standard form and ⓑ graph \\(9{x}^{2}-16{y}^{2}+18x+64y-199=0.\\)",
+      "math": [
+        "9{x}^{2}-16{y}^{2}+18x+64y-199=0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>9</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>16</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>18</mn><mi>x</mi><mo>+</mo><mn>64</mn><mi>y</mi><mo>−</mo><mn>199</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>9</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>16</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>18</mn><mi>x</mi><mo>+</mo><mn>64</mn><mi>y</mi><mo>−</mo><mn>199</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.62",
+      "page": "11-4-hyperbolas",
+      "is_try_it": true,
+      "anchor": "fs-id1163869435921",
+      "context": [
+        "Graph a Hyperbola with Center at \\((h,k)\\)"
+      ],
+      "text": "ⓐ Write the equation in standard form and ⓑ graph \\(16{x}^{2}-25{y}^{2}+96x-50y-281=0.\\)",
+      "math": [
+        "16{x}^{2}-25{y}^{2}+96x-50y-281=0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>16</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>25</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>96</mn><mi>x</mi><mo>−</mo><mn>50</mn><mi>y</mi><mo>−</mo><mn>281</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>16</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>25</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>96</mn><mi>x</mi><mo>−</mo><mn>50</mn><mi>y</mi><mo>−</mo><mn>281</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.63",
+      "page": "11-4-hyperbolas",
+      "is_try_it": true,
+      "anchor": "fs-id1163873744525",
+      "context": [
+        "Identify Conic Sections by their Equations"
+      ],
+      "text": "Identify the graph of each equation as a circle, parabola, ellipse, or hyperbola. ⓐ \\({x}^{2}+{y}^{2}-8x-6y=0\\) ⓑ \\(4{x}^{2}+25{y}^{2}=100\\) ⓒ \\(y=6{x}^{2}+2x-1\\) ⓓ \\(16{y}^{2}-9{x}^{2}=144\\)",
+      "math": [
+        "{x}^{2}+{y}^{2}-8x-6y=0",
+        "4{x}^{2}+25{y}^{2}=100",
+        "y=6{x}^{2}+2x-1",
+        "16{y}^{2}-9{x}^{2}=144"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>8</mn><mi>x</mi><mo>−</mo><mn>6</mn><mi>y</mi><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>8</mn><mi>x</mi><mo>−</mo><mn>6</mn><mi>y</mi><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>25</mn><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>100</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>25</mn><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>100</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>6</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>6</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>16</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>9</mn><msup><mi>x</mi><mn>2</mn></msup><mo>=</mo><mn>144</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>16</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>9</mn><msup><mi>x</mi><mn>2</mn></msup><mo>=</mo><mn>144</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.64",
+      "page": "11-4-hyperbolas",
+      "is_try_it": true,
+      "anchor": "fs-id1163873861534",
+      "context": [
+        "Identify Conic Sections by their Equations"
+      ],
+      "text": "Identify the graph of each equation as a circle, parabola, ellipse, or hyperbola. ⓐ \\(16{x}^{2}+9{y}^{2}=144\\) ⓑ \\(y=2{x}^{2}+4x+6\\) ⓒ \\({x}^{2}+{y}^{2}+2x+6y+9=0\\) ⓓ \\(4{x}^{2}-16{y}^{2}=64\\)",
+      "math": [
+        "16{x}^{2}+9{y}^{2}=144",
+        "y=2{x}^{2}+4x+6",
+        "{x}^{2}+{y}^{2}+2x+6y+9=0",
+        "4{x}^{2}-16{y}^{2}=64"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>16</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>9</mn><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>144</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>16</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>9</mn><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>144</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>6</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>6</mn><mi>y</mi><mo>+</mo><mn>9</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>6</mn><mi>y</mi><mo>+</mo><mn>9</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>16</mn><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>64</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>16</mn><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>64</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

@@ -1,0 +1,469 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/5-practice-test",
+  "title": "Practice Test",
+  "sha256": "967093ef0f26ba88ca3b7ea45288ef10c9107447934a4324f3321208a570673b",
+  "questions": [
+    {
+      "number": 487,
+      "anchor": "fs-id1167828325880",
+      "page": "5-practice-test",
+      "context": [],
+      "text": "For the polynomial \\(8{y}^{4}-3{y}^{2}+1\\) ⓐ Is it a monomial, binomial, or trinomial? ⓑ What is its degree?",
+      "math": [
+        "8{y}^{4}-3{y}^{2}+1"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>8</mn><msup><mi>y</mi><mn>4</mn></msup><mo>−</mo><mn>3</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>8</mn><msup><mi>y</mi><mn>4</mn></msup><mo>−</mo><mn>3</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>1</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 488,
+      "anchor": "fs-id1167834461881",
+      "page": "5-practice-test",
+      "context": [],
+      "text": "\\(( 5 {a}^{2} + 2 a - 12 ) ( 9 {a}^{2} + 8 a - 4 )\\)",
+      "math": [
+        "( 5 {a}^{2} + 2 a - 12 ) ( 9 {a}^{2} + 8 a - 4 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>12</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>9</mn>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>8</mn>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>12</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>9</mn>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>8</mn>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 489,
+      "anchor": "fs-id1167827957306",
+      "page": "5-practice-test",
+      "context": [],
+      "text": "\\(( 10 {x}^{2} - 3 x + 5 ) - ( 4 {x}^{2} - 6 )\\)",
+      "math": [
+        "( 10 {x}^{2} - 3 x + 5 ) - ( 4 {x}^{2} - 6 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>10</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>10</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 490,
+      "anchor": "fs-id1167830959530",
+      "page": "5-practice-test",
+      "context": [],
+      "text": "\\({ ( - \\frac{3}{4} ) }^{3}\\)",
+      "math": [
+        "{ ( - \\frac{3}{4} ) }^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mo>−</mo>\n                  <mfrac>\n                    <mn>3</mn>\n                    <mn>4</mn>\n                  </mfrac>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mo>−</mo>\n                  <mfrac>\n                    <mn>3</mn>\n                    <mn>4</mn>\n                  </mfrac>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 491,
+      "anchor": "fs-id1167830757432",
+      "page": "5-practice-test",
+      "context": [],
+      "text": "\\({x}^{ -3 } {x}^{4}\\)",
+      "math": [
+        "{x}^{ -3 } {x}^{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mn>−3</mn>\n            </mrow>\n          </msup>\n          <msup>\n            <mi>x</mi>\n            <mn>4</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mn>−3</mn>\n            </mrow>\n          </msup>\n          <msup>\n            <mi>x</mi>\n            <mn>4</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 492,
+      "anchor": "fs-id1167834494725",
+      "page": "5-practice-test",
+      "context": [],
+      "text": "\\(\\frac{ {5}^{6} }{ {5}^{8} }\\)",
+      "math": [
+        "\\frac{ {5}^{6} }{ {5}^{8} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mn>5</mn>\n                <mn>6</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <msup>\n                <mn>5</mn>\n                <mn>8</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mn>5</mn>\n                <mn>6</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <msup>\n                <mn>5</mn>\n                <mn>8</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 493,
+      "anchor": "fs-id1167834494763",
+      "page": "5-practice-test",
+      "context": [],
+      "text": "\\({ ( 47 {a}^{ 18 } {b}^{ 23 } {c}^{5} ) }^{0}\\)",
+      "math": [
+        "{ ( 47 {a}^{ 18 } {b}^{ 23 } {c}^{5} ) }^{0}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>47</mn>\n                  <msup>\n                    <mi>a</mi>\n                    <mrow>\n                      <mn>18</mn>\n                    </mrow>\n                  </msup>\n                  <msup>\n                    <mi>b</mi>\n                    <mrow>\n                      <mn>23</mn>\n                    </mrow>\n                  </msup>\n                  <msup>\n                    <mi>c</mi>\n                    <mn>5</mn>\n                  </msup>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>0</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>47</mn>\n                  <msup>\n                    <mi>a</mi>\n                    <mrow>\n                      <mn>18</mn>\n                    </mrow>\n                  </msup>\n                  <msup>\n                    <mi>b</mi>\n                    <mrow>\n                      <mn>23</mn>\n                    </mrow>\n                  </msup>\n                  <msup>\n                    <mi>c</mi>\n                    <mn>5</mn>\n                  </msup>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>0</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 494,
+      "anchor": "fs-id1167834527813",
+      "page": "5-practice-test",
+      "context": [],
+      "text": "\\({4}^{ -1 }\\)",
+      "math": [
+        "{4}^{ -1 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mn>4</mn>\n            <mrow>\n              <mn>−1</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mn>4</mn>\n            <mrow>\n              <mn>−1</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 495,
+      "anchor": "fs-id1167835609210",
+      "page": "5-practice-test",
+      "context": [],
+      "text": "\\({ ( 2 y ) }^{ -3 }\\)",
+      "math": [
+        "{ ( 2 y ) }^{ -3 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mrow>\n              <mn>−3</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mrow>\n              <mn>−3</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 496,
+      "anchor": "fs-id1167827897726",
+      "page": "5-practice-test",
+      "context": [],
+      "text": "\\({p}^{ -3 } \\cdot {p}^{ -8 }\\)",
+      "math": [
+        "{p}^{ -3 } \\cdot {p}^{ -8 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>p</mi>\n            <mrow>\n              <mn>−3</mn>\n            </mrow>\n          </msup>\n          <mo>·</mo>\n          <msup>\n            <mi>p</mi>\n            <mrow>\n              <mn>−8</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>p</mi>\n            <mrow>\n              <mn>−3</mn>\n            </mrow>\n          </msup>\n          <mo>·</mo>\n          <msup>\n            <mi>p</mi>\n            <mrow>\n              <mn>−8</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 497,
+      "anchor": "fs-id1167831891050",
+      "page": "5-practice-test",
+      "context": [],
+      "text": "\\(\\frac{ {x}^{4} }{ {x}^{ -5 } }\\)",
+      "math": [
+        "\\frac{ {x}^{4} }{ {x}^{ -5 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>4</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mrow>\n                  <mn>−5</mn>\n                </mrow>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>4</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mrow>\n                  <mn>−5</mn>\n                </mrow>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 498,
+      "anchor": "fs-id1167831224105",
+      "page": "5-practice-test",
+      "context": [],
+      "text": "\\({ ( 3 {x}^{ -3 } ) }^{2}\\)",
+      "math": [
+        "{ ( 3 {x}^{ -3 } ) }^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>3</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mrow>\n                      <mn>−3</mn>\n                    </mrow>\n                  </msup>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>3</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mrow>\n                      <mn>−3</mn>\n                    </mrow>\n                  </msup>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 499,
+      "anchor": "fs-id1167834517697",
+      "page": "5-practice-test",
+      "context": [],
+      "text": "\\(\\frac{ 24 {r}^{3} s }{ 6 {r}^{2} {s}^{7} }\\)",
+      "math": [
+        "\\frac{ 24 {r}^{3} s }{ 6 {r}^{2} {s}^{7} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>24</mn>\n              <msup>\n                <mi>r</mi>\n                <mn>3</mn>\n              </msup>\n              <mi>s</mi>\n            </mrow>\n            <mrow>\n              <mn>6</mn>\n              <msup>\n                <mi>r</mi>\n                <mn>2</mn>\n              </msup>\n              <msup>\n                <mi>s</mi>\n                <mn>7</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>24</mn>\n              <msup>\n                <mi>r</mi>\n                <mn>3</mn>\n              </msup>\n              <mi>s</mi>\n            </mrow>\n            <mrow>\n              <mn>6</mn>\n              <msup>\n                <mi>r</mi>\n                <mn>2</mn>\n              </msup>\n              <msup>\n                <mi>s</mi>\n                <mn>7</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 500,
+      "anchor": "fs-id1167834097878",
+      "page": "5-practice-test",
+      "context": [],
+      "text": "\\({ ( \\frac{ {x}^{4} {y}^{9} }{ {x}^{ -3 } } ) }^{2}\\)",
+      "math": [
+        "{ ( \\frac{ {x}^{4} {y}^{9} }{ {x}^{ -3 } } ) }^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mfrac>\n                    <mrow>\n                      <msup>\n                        <mi>x</mi>\n                        <mn>4</mn>\n                      </msup>\n                      <msup>\n                        <mi>y</mi>\n                        <mn>9</mn>\n                      </msup>\n                    </mrow>\n                    <mrow>\n                      <msup>\n                        <mi>x</mi>\n                        <mrow>\n                          <mn>−3</mn>\n                        </mrow>\n                      </msup>\n                    </mrow>\n                  </mfrac>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mfrac>\n                    <mrow>\n                      <msup>\n                        <mi>x</mi>\n                        <mn>4</mn>\n                      </msup>\n                      <msup>\n                        <mi>y</mi>\n                        <mn>9</mn>\n                      </msup>\n                    </mrow>\n                    <mrow>\n                      <msup>\n                        <mi>x</mi>\n                        <mrow>\n                          <mn>−3</mn>\n                        </mrow>\n                      </msup>\n                    </mrow>\n                  </mfrac>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 501,
+      "anchor": "fs-id1167834461621",
+      "page": "5-practice-test",
+      "context": [],
+      "text": "\\(( 8 x {y}^{3} ) ( -6 {x}^{4} {y}^{6} )\\)",
+      "math": [
+        "( 8 x {y}^{3} ) ( -6 {x}^{4} {y}^{6} )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>8</mn>\n              <mi>x</mi>\n              <msup>\n                <mi>y</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−6</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>4</mn>\n              </msup>\n              <msup>\n                <mi>y</mi>\n                <mn>6</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>8</mn>\n              <mi>x</mi>\n              <msup>\n                <mi>y</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−6</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>4</mn>\n              </msup>\n              <msup>\n                <mi>y</mi>\n                <mn>6</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 502,
+      "anchor": "fs-id1167831023446",
+      "page": "5-practice-test",
+      "context": [],
+      "text": "\\(4 u ( {u}^{2} - 9 u + 1 )\\)",
+      "math": [
+        "4 u ( {u}^{2} - 9 u + 1 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <mi>u</mi>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>u</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>9</mn>\n              <mi>u</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <mi>u</mi>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>u</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>9</mn>\n              <mi>u</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 503,
+      "anchor": "fs-id1167828409666",
+      "page": "5-practice-test",
+      "context": [],
+      "text": "\\(( m + 3 ) ( 7 m - 2 )\\)",
+      "math": [
+        "( m + 3 ) ( 7 m - 2 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>m</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>7</mn>\n              <mi>m</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>m</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>7</mn>\n              <mi>m</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 504,
+      "anchor": "fs-id1167835498878",
+      "page": "5-practice-test",
+      "context": [],
+      "text": "\\(( n - 8 ) ( {n}^{2} - 4 n + 11 )\\)",
+      "math": [
+        "( n - 8 ) ( {n}^{2} - 4 n + 11 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>n</mi>\n              <mo>−</mo>\n              <mn>8</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>n</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>11</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>n</mi>\n              <mo>−</mo>\n              <mn>8</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>n</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>11</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 505,
+      "anchor": "fs-id1167828095700",
+      "page": "5-practice-test",
+      "context": [],
+      "text": "\\({ ( 4 x - 3 ) }^{2}\\)",
+      "math": [
+        "{ ( 4 x - 3 ) }^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>4</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>4</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 506,
+      "anchor": "fs-id1167830960583",
+      "page": "5-practice-test",
+      "context": [],
+      "text": "\\(( 5 x + 2 y ) ( 5 x - 2 y )\\)",
+      "math": [
+        "( 5 x + 2 y ) ( 5 x - 2 y )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>y</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>y</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>y</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>y</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 507,
+      "anchor": "fs-id1167831909422",
+      "page": "5-practice-test",
+      "context": [],
+      "text": "\\(( 15 x {y}^{3} - 35 {x}^{2} y ) \\div 5 x y\\)",
+      "math": [
+        "( 15 x {y}^{3} - 35 {x}^{2} y ) \\div 5 x y"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>15</mn>\n              <mi>x</mi>\n              <msup>\n                <mi>y</mi>\n                <mn>3</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>35</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mi>y</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mi>y</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>15</mn>\n              <mi>x</mi>\n              <msup>\n                <mi>y</mi>\n                <mn>3</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>35</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mi>y</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mi>y</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 508,
+      "anchor": "fs-id1167832133988",
+      "page": "5-practice-test",
+      "context": [],
+      "text": "\\(( 3 {x}^{3} - 10 {x}^{2} + 7 x + 10 ) \\div ( 3 x + 2 )\\)",
+      "math": [
+        "( 3 {x}^{3} - 10 {x}^{2} + 7 x + 10 ) \\div ( 3 x + 2 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>3</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>10</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>7</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>10</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>3</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>10</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>7</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>10</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 509,
+      "anchor": "fs-id1167826879986",
+      "page": "5-practice-test",
+      "context": [],
+      "text": "Use the Factor Theorem to determine if \\(x+3\\) a factor of \\({x}^{3}+8{x}^{2}+21x+18.\\)",
+      "math": [
+        "x+3",
+        "{x}^{3}+8{x}^{2}+21x+18."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mn>8</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>21</mn><mi>x</mi><mo>+</mo><mn>18</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mn>8</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>21</mn><mi>x</mi><mo>+</mo><mn>18</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 510,
+      "anchor": "fs-id1167831224794",
+      "page": "5-practice-test",
+      "context": [],
+      "text": "ⓐ Convert 112,000 to scientific notation. ⓑ Convert \\(5.25\\times {10}^{-4}\\) to decimal form.",
+      "math": [
+        "5.25\\times {10}^{-4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5.25</mn><mspace width=\"0.2em\"></mspace><mo>×</mo><mspace width=\"0.2em\"></mspace><msup><mrow><mn>10</mn></mrow><mrow><mn>−4</mn></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5.25</mn><mspace width=\"0.2em\"></mspace><mo>×</mo><mspace width=\"0.2em\"></mspace><msup><mrow><mn>10</mn></mrow><mrow><mn>−4</mn></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 511,
+      "anchor": "fs-id1167831882326",
+      "page": "5-practice-test",
+      "context": [
+        "In the following exercises, simplify and write your answer in exponential notation."
+      ],
+      "text": "\\(( 2.4 \\times { 10 }^{8} ) ( 2 \\times { 10 }^{ -5 } )\\)",
+      "math": [
+        "( 2.4 \\times { 10 }^{8} ) ( 2 \\times { 10 }^{ -5 } )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2.4</mn>\n              <mspace width=\"0.2em\"></mspace>\n              <mo>×</mo>\n              <mspace width=\"0.2em\"></mspace>\n              <msup>\n                <mrow>\n                  <mn>10</mn>\n                </mrow>\n                <mn>8</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mspace width=\"0.2em\"></mspace>\n              <mo>×</mo>\n              <mspace width=\"0.2em\"></mspace>\n              <msup>\n                <mrow>\n                  <mn>10</mn>\n                </mrow>\n                <mrow>\n                  <mn>−5</mn>\n                </mrow>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2.4</mn>\n              <mspace width=\"0.2em\"></mspace>\n              <mo>×</mo>\n              <mspace width=\"0.2em\"></mspace>\n              <msup>\n                <mrow>\n                  <mn>10</mn>\n                </mrow>\n                <mn>8</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mspace width=\"0.2em\"></mspace>\n              <mo>×</mo>\n              <mspace width=\"0.2em\"></mspace>\n              <msup>\n                <mrow>\n                  <mn>10</mn>\n                </mrow>\n                <mrow>\n                  <mn>−5</mn>\n                </mrow>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 512,
+      "anchor": "fs-id1167834228739",
+      "page": "5-practice-test",
+      "context": [
+        "In the following exercises, simplify and write your answer in exponential notation."
+      ],
+      "text": "\\(\\frac{ 9 \\times { 10 }^{4} }{ 3 \\times { 10 }^{ -1 } }\\)",
+      "math": [
+        "\\frac{ 9 \\times { 10 }^{4} }{ 3 \\times { 10 }^{ -1 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>9</mn>\n              <mspace width=\"0.2em\"></mspace>\n              <mo>×</mo>\n              <mspace width=\"0.2em\"></mspace>\n              <msup>\n                <mrow>\n                  <mn>10</mn>\n                </mrow>\n                <mn>4</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <mspace width=\"0.2em\"></mspace>\n              <mo>×</mo>\n              <mspace width=\"0.2em\"></mspace>\n              <msup>\n                <mrow>\n                  <mn>10</mn>\n                </mrow>\n                <mrow>\n                  <mn>−1</mn>\n                </mrow>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>9</mn>\n              <mspace width=\"0.2em\"></mspace>\n              <mo>×</mo>\n              <mspace width=\"0.2em\"></mspace>\n              <msup>\n                <mrow>\n                  <mn>10</mn>\n                </mrow>\n                <mn>4</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <mspace width=\"0.2em\"></mspace>\n              <mo>×</mo>\n              <mspace width=\"0.2em\"></mspace>\n              <msup>\n                <mrow>\n                  <mn>10</mn>\n                </mrow>\n                <mrow>\n                  <mn>−1</mn>\n                </mrow>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 513,
+      "anchor": "fs-id1167835496126",
+      "page": "5-practice-test",
+      "context": [
+        "In the following exercises, simplify and write your answer in exponential notation."
+      ],
+      "text": "For the function \\(f(x)=6{x}^{2}-3x-9\\) find:ⓐ \\(f(3)\\) ⓑ \\(f(-2)\\) ⓒ \\(f(0)\\)",
+      "math": [
+        "f(x)=6{x}^{2}-3x-9",
+        "f(3)",
+        "f(-2)",
+        "f(0)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>6</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>9</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>6</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>9</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mrow><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mrow><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 514,
+      "anchor": "fs-id1167834525318",
+      "page": "5-practice-test",
+      "context": [
+        "In the following exercises, simplify and write your answer in exponential notation."
+      ],
+      "text": "For \\(f(x)=2{x}^{2}-3x-5\\) and \\(g(x)=3{x}^{2}-4x+1,\\) findⓐ \\((f+g)(x)\\) ⓑ \\((f+g)(1)\\)ⓒ \\((f-g)(x)\\) ⓓ \\((f-g)(-2)\\)",
+      "math": [
+        "f(x)=2{x}^{2}-3x-5",
+        "g(x)=3{x}^{2}-4x+1,",
+        "(f+g)(x)",
+        "(f+g)(1)",
+        "(f-g)(x)",
+        "(f-g)(-2)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>5</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>1</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>1</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mi>f</mi><mo>+</mo><mi>g</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mi>f</mi><mo>+</mo><mi>g</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mi>f</mi><mo>+</mo><mi>g</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mn>1</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mi>f</mi><mo>+</mo><mi>g</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mn>1</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mi>f</mi><mo>−</mo><mi>g</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mi>f</mi><mo>−</mo><mi>g</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mi>f</mi><mo>−</mo><mi>g</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mi>f</mi><mo>−</mo><mi>g</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 515,
+      "anchor": "fs-id1167831893243",
+      "page": "5-practice-test",
+      "context": [
+        "In the following exercises, simplify and write your answer in exponential notation."
+      ],
+      "text": "For functions\\(f(x)=3{x}^{2}-23x-36\\) and\\(g(x)=x-9,\\) findⓐ \\((\\frac{f}{g})(x)\\) ⓑ \\((\\frac{f}{g})(3)\\)",
+      "math": [
+        "f(x)=3{x}^{2}-23x-36",
+        "g(x)=x-9,",
+        "(\\frac{f}{g})(x)",
+        "(\\frac{f}{g})(3)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>23</mn><mi>x</mi><mo>−</mo><mn>36</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>23</mn><mi>x</mi><mo>−</mo><mn>36</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>x</mi><mo>−</mo><mn>9</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>x</mi><mo>−</mo><mn>9</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mfrac><mi>f</mi><mi>g</mi></mfrac></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mfrac><mi>f</mi><mi>g</mi></mfrac></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mfrac><mi>f</mi><mi>g</mi></mfrac></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mfrac><mi>f</mi><mi>g</mi></mfrac></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 516,
+      "anchor": "fs-id1167834505309",
+      "page": "5-practice-test",
+      "context": [
+        "In the following exercises, simplify and write your answer in exponential notation."
+      ],
+      "text": "A hiker drops a pebble from a bridge 240 feet above a canyon. The function \\(h(t)=-16{t}^{2}+240\\) gives the height of the pebble \\(t\\) seconds after it was dropped. Find the height when \\(t=3.\\)",
+      "math": [
+        "h(t)=-16{t}^{2}+240",
+        "t",
+        "t=3."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mn>−16</mn><msup><mi>t</mi><mn>2</mn></msup><mo>+</mo><mn>240</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mn>−16</mn><msup><mi>t</mi><mn>2</mn></msup><mo>+</mo><mn>240</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mi>t</mi></mrow><annotation-xml encoding=\"MathML-Content\"><mi>t</mi></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>t</mi><mo>=</mo><mn>3</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>t</mi><mo>=</mo><mn>3</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "practice": [],
+  "answers": {}
+}

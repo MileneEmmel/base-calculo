@@ -1,0 +1,1417 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/12-review-exercises",
+  "title": "Review Exercises",
+  "sha256": "0cfe12482e6a73f5e2a3d64b50e729cbf0ed010fd35365c786843c99a30671e4",
+  "questions": [
+    {
+      "number": 240,
+      "anchor": "fs-id1167834533120",
+      "page": "12-review-exercises",
+      "context": [
+        "Write the First Few Terms of a Sequence",
+        "In the following exercises, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = 7 n - 5\\)",
+      "math": [
+        "{a}_{n} = 7 n - 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mn>7</mn>\n          <mi>n</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mn>7</mn>\n          <mi>n</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 241,
+      "anchor": "fs-id1167834533173",
+      "page": "12-review-exercises",
+      "context": [
+        "Write the First Few Terms of a Sequence",
+        "In the following exercises, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = {3}^{n} + 4\\)",
+      "math": [
+        "{a}_{n} = {3}^{n} + 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <msup>\n            <mn>3</mn>\n            <mi>n</mi>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <msup>\n            <mn>3</mn>\n            <mi>n</mi>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 242,
+      "anchor": "fs-id1167834533228",
+      "page": "12-review-exercises",
+      "context": [
+        "Write the First Few Terms of a Sequence",
+        "In the following exercises, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = {2}^{n} + n\\)",
+      "math": [
+        "{a}_{n} = {2}^{n} + n"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <msup>\n            <mn>2</mn>\n            <mi>n</mi>\n          </msup>\n          <mo>+</mo>\n          <mi>n</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <msup>\n            <mn>2</mn>\n            <mi>n</mi>\n          </msup>\n          <mo>+</mo>\n          <mi>n</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 243,
+      "anchor": "fs-id1167830699125",
+      "page": "12-review-exercises",
+      "context": [
+        "Write the First Few Terms of a Sequence",
+        "In the following exercises, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = \\frac{ 2 n + 1 }{ {4}^{n} }\\)",
+      "math": [
+        "{a}_{n} = \\frac{ 2 n + 1 }{ {4}^{n} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mn>4</mn>\n                <mi>n</mi>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mn>4</mn>\n                <mi>n</mi>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 244,
+      "anchor": "fs-id1167830699208",
+      "page": "12-review-exercises",
+      "context": [
+        "Write the First Few Terms of a Sequence",
+        "In the following exercises, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = \\frac{ { ( -1 ) }^{n} }{ {n}^{2} }\\)",
+      "math": [
+        "{a}_{n} = \\frac{ { ( -1 ) }^{n} }{ {n}^{2} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mn>−1</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mi>n</mi>\n              </msup>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>n</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mn>−1</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mi>n</mi>\n              </msup>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>n</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 245,
+      "anchor": "fs-id1167834098152",
+      "page": "12-review-exercises",
+      "context": [
+        "Find a Formula for the General Term (nth Term) of a Sequence",
+        "In the following exercises, find a general term for the sequence whose first five terms are shown."
+      ],
+      "text": "\\(9 , 18 , 27 , 36 , 45 , …\\)",
+      "math": [
+        "9 , 18 , 27 , 36 , 45 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>9</mn>\n          <mo>,</mo>\n          <mn>18</mn>\n          <mo>,</mo>\n          <mn>27</mn>\n          <mo>,</mo>\n          <mn>36</mn>\n          <mo>,</mo>\n          <mn>45</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>9</mn>\n          <mo>,</mo>\n          <mn>18</mn>\n          <mo>,</mo>\n          <mn>27</mn>\n          <mo>,</mo>\n          <mn>36</mn>\n          <mo>,</mo>\n          <mn>45</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 246,
+      "anchor": "fs-id1167834098207",
+      "page": "12-review-exercises",
+      "context": [
+        "Find a Formula for the General Term (nth Term) of a Sequence",
+        "In the following exercises, find a general term for the sequence whose first five terms are shown."
+      ],
+      "text": "\\(-5 , -4 , -3 , -2 , -1 , …\\)",
+      "math": [
+        "-5 , -4 , -3 , -2 , -1 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−5</mn>\n          <mo>,</mo>\n          <mn>−4</mn>\n          <mo>,</mo>\n          <mn>−3</mn>\n          <mo>,</mo>\n          <mn>−2</mn>\n          <mo>,</mo>\n          <mn>−1</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−5</mn>\n          <mo>,</mo>\n          <mn>−4</mn>\n          <mo>,</mo>\n          <mn>−3</mn>\n          <mo>,</mo>\n          <mn>−2</mn>\n          <mo>,</mo>\n          <mn>−1</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 247,
+      "anchor": "fs-id1167834098265",
+      "page": "12-review-exercises",
+      "context": [
+        "Find a Formula for the General Term (nth Term) of a Sequence",
+        "In the following exercises, find a general term for the sequence whose first five terms are shown."
+      ],
+      "text": "\\(\\frac{1}{ {e}^{3} } , \\frac{1}{ {e}^{2} } , \\frac{1}{e} , 1 , e , …\\)",
+      "math": [
+        "\\frac{1}{ {e}^{3} } , \\frac{1}{ {e}^{2} } , \\frac{1}{e} , 1 , e , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <msup>\n                <mi>e</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <msup>\n                <mi>e</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mi>e</mi>\n          </mfrac>\n          <mo>,</mo>\n          <mn>1</mn>\n          <mo>,</mo>\n          <mi>e</mi>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <msup>\n                <mi>e</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <msup>\n                <mi>e</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mi>e</mi>\n          </mfrac>\n          <mo>,</mo>\n          <mn>1</mn>\n          <mo>,</mo>\n          <mi>e</mi>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 248,
+      "anchor": "fs-id1167834536230",
+      "page": "12-review-exercises",
+      "context": [
+        "Find a Formula for the General Term (nth Term) of a Sequence",
+        "In the following exercises, find a general term for the sequence whose first five terms are shown."
+      ],
+      "text": "\\(1 , -8 , 27 , -64 , 125 , …\\)",
+      "math": [
+        "1 , -8 , 27 , -64 , 125 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>1</mn>\n          <mo>,</mo>\n          <mn>−8</mn>\n          <mo>,</mo>\n          <mn>27</mn>\n          <mo>,</mo>\n          <mn>−64</mn>\n          <mo>,</mo>\n          <mn>125</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>1</mn>\n          <mo>,</mo>\n          <mn>−8</mn>\n          <mo>,</mo>\n          <mn>27</mn>\n          <mo>,</mo>\n          <mn>−64</mn>\n          <mo>,</mo>\n          <mn>125</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 249,
+      "anchor": "fs-id1167834536307",
+      "page": "12-review-exercises",
+      "context": [
+        "Find a Formula for the General Term (nth Term) of a Sequence",
+        "In the following exercises, find a general term for the sequence whose first five terms are shown."
+      ],
+      "text": "\\(- \\frac{1}{3} , - \\frac{1}{2} , - \\frac{3}{5} , - \\frac{2}{3} , - \\frac{5}{7} , …\\)",
+      "math": [
+        "- \\frac{1}{3} , - \\frac{1}{2} , - \\frac{3}{5} , - \\frac{2}{3} , - \\frac{5}{7} , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mn>7</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mn>7</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 250,
+      "anchor": "fs-id1167831847022",
+      "page": "12-review-exercises",
+      "context": [
+        "Use Factorial Notation",
+        "In the following exercises, using factorial notation, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = 4 n !\\)",
+      "math": [
+        "{a}_{n} = 4 n !"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mn>4</mn>\n          <mi>n</mi>\n          <mo>!</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mn>4</mn>\n          <mi>n</mi>\n          <mo>!</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 251,
+      "anchor": "fs-id1167831847073",
+      "page": "12-review-exercises",
+      "context": [
+        "Use Factorial Notation",
+        "In the following exercises, using factorial notation, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = \\frac{ n ! }{ ( n + 2 ) ! }\\)",
+      "math": [
+        "{a}_{n} = \\frac{ n ! }{ ( n + 2 ) ! }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mi>n</mi>\n              <mo>!</mo>\n            </mrow>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mo stretchy=\"false\">)</mo>\n              <mtext>!</mtext>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mi>n</mi>\n              <mo>!</mo>\n            </mrow>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mo stretchy=\"false\">)</mo>\n              <mtext>!</mtext>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 252,
+      "anchor": "fs-id1167834095018",
+      "page": "12-review-exercises",
+      "context": [
+        "Use Factorial Notation",
+        "In the following exercises, using factorial notation, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = \\frac{ ( n - 1 ) ! }{ { ( n + 1 ) }^{2} }\\)",
+      "math": [
+        "{a}_{n} = \\frac{ ( n - 1 ) ! }{ { ( n + 1 ) }^{2} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mi>n</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n              <mo stretchy=\"false\">)</mo>\n              <mo>!</mo>\n            </mrow>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mo stretchy=\"false\">(</mo>\n                  <mi>n</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                  <mo stretchy=\"false\">)</mo>\n                </mrow>\n                <mtext>2</mtext>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mi>n</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n              <mo stretchy=\"false\">)</mo>\n              <mo>!</mo>\n            </mrow>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mo stretchy=\"false\">(</mo>\n                  <mi>n</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                  <mo stretchy=\"false\">)</mo>\n                </mrow>\n                <mtext>2</mtext>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 253,
+      "anchor": "fs-id1167834095129",
+      "page": "12-review-exercises",
+      "context": [
+        "Find the Partial Sum",
+        "In the following exercises, expand the partial sum and find its value."
+      ],
+      "text": "\\(∑ i = 1 7 ( 2 i - 5 )\\)",
+      "math": [
+        "\\sum_{ i = 1 }^{7} ( 2 i - 5 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>7</mn>\n            </munderover>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mn>2</mn>\n              <mi>i</mi>\n            </mrow>\n          </mstyle>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>7</mn>\n            </munderover>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mn>2</mn>\n              <mi>i</mi>\n            </mrow>\n          </mstyle>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 254,
+      "anchor": "fs-id1167830699397",
+      "page": "12-review-exercises",
+      "context": [
+        "Find the Partial Sum",
+        "In the following exercises, expand the partial sum and find its value."
+      ],
+      "text": "\\(∑ i = 1 3 {5}^{i}\\)",
+      "math": [
+        "\\sum_{ i = 1 }^{3} {5}^{i}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>3</mn>\n            </munderover>\n            <mrow>\n              <msup>\n                <mn>5</mn>\n                <mi>i</mi>\n              </msup>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>3</mn>\n            </munderover>\n            <mrow>\n              <msup>\n                <mn>5</mn>\n                <mi>i</mi>\n              </msup>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 255,
+      "anchor": "fs-id1167830699453",
+      "page": "12-review-exercises",
+      "context": [
+        "Find the Partial Sum",
+        "In the following exercises, expand the partial sum and find its value."
+      ],
+      "text": "\\(∑ k = 0 4 \\frac{4}{ k ! }\\)",
+      "math": [
+        "\\sum_{ k = 0 }^{4} \\frac{4}{ k ! }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>k</mi>\n                <mo>=</mo>\n                <mn>0</mn>\n              </mrow>\n              <mn>4</mn>\n            </munderover>\n            <mrow>\n              <mfrac>\n                <mn>4</mn>\n                <mrow>\n                  <mi>k</mi>\n                  <mo>!</mo>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>k</mi>\n                <mo>=</mo>\n                <mn>0</mn>\n              </mrow>\n              <mn>4</mn>\n            </munderover>\n            <mrow>\n              <mfrac>\n                <mn>4</mn>\n                <mrow>\n                  <mi>k</mi>\n                  <mo>!</mo>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 256,
+      "anchor": "fs-id1167835514050",
+      "page": "12-review-exercises",
+      "context": [
+        "Find the Partial Sum",
+        "In the following exercises, expand the partial sum and find its value."
+      ],
+      "text": "\\(∑ k = 1 4 ( k + 1 ) ( 2 k + 1 )\\)",
+      "math": [
+        "\\sum_{ k = 1 }^{4} ( k + 1 ) ( 2 k + 1 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>k</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>4</mn>\n            </munderover>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mi>k</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n              <mo stretchy=\"false\">)</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>2</mn>\n                  <mi>k</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>k</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>4</mn>\n            </munderover>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mi>k</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n              <mo stretchy=\"false\">)</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>2</mn>\n                  <mi>k</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 257,
+      "anchor": "fs-id1167835514143",
+      "page": "12-review-exercises",
+      "context": [
+        "Use Summation Notation to write a Sum",
+        "In the following exercises, write each sum using summation notation."
+      ],
+      "text": "\\(- \\frac{1}{3} + \\frac{1}{9} - \\frac{1}{ 27 } + \\frac{1}{ 81 } - \\frac{1}{ 243 }\\)",
+      "math": [
+        "- \\frac{1}{3} + \\frac{1}{9} - \\frac{1}{ 27 } + \\frac{1}{ 81 } - \\frac{1}{ 243 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>9</mn>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>27</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>81</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>243</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>9</mn>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>27</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>81</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>243</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 258,
+      "anchor": "fs-id1167834228203",
+      "page": "12-review-exercises",
+      "context": [
+        "Use Summation Notation to write a Sum",
+        "In the following exercises, write each sum using summation notation."
+      ],
+      "text": "\\(4 - 8 + 12 - 16 + 20 - 24\\)",
+      "math": [
+        "4 - 8 + 12 - 16 + 20 - 24"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <mo>−</mo>\n          <mn>8</mn>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mo>−</mo>\n          <mn>16</mn>\n          <mo>+</mo>\n          <mn>20</mn>\n          <mo>−</mo>\n          <mn>24</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <mo>−</mo>\n          <mn>8</mn>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mo>−</mo>\n          <mn>16</mn>\n          <mo>+</mo>\n          <mn>20</mn>\n          <mo>−</mo>\n          <mn>24</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 259,
+      "anchor": "fs-id1167834228286",
+      "page": "12-review-exercises",
+      "context": [
+        "Use Summation Notation to write a Sum",
+        "In the following exercises, write each sum using summation notation."
+      ],
+      "text": "\\(4 + 2 + \\frac{4}{3} + 1 + \\frac{4}{5}\\)",
+      "math": [
+        "4 + 2 + \\frac{4}{3} + 1 + \\frac{4}{5}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>+</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mn>1</mn>\n          <mo>+</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mn>5</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>+</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mn>1</mn>\n          <mo>+</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mn>5</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 260,
+      "anchor": "fs-id1167834301006",
+      "page": "12-review-exercises",
+      "context": [
+        "Determine if a Sequence is Arithmetic",
+        "In the following exercises, determine if each sequence is arithmetic, and if so, indicate the common difference."
+      ],
+      "text": "\\(1 , 2 , 4 , 8 , 16 , 32 , …\\)",
+      "math": [
+        "1 , 2 , 4 , 8 , 16 , 32 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>1</mn>\n          <mo>,</mo>\n          <mn>2</mn>\n          <mo>,</mo>\n          <mn>4</mn>\n          <mo>,</mo>\n          <mn>8</mn>\n          <mo>,</mo>\n          <mn>16</mn>\n          <mo>,</mo>\n          <mn>32</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>1</mn>\n          <mo>,</mo>\n          <mn>2</mn>\n          <mo>,</mo>\n          <mn>4</mn>\n          <mo>,</mo>\n          <mn>8</mn>\n          <mo>,</mo>\n          <mn>16</mn>\n          <mo>,</mo>\n          <mn>32</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 261,
+      "anchor": "fs-id1167834301053",
+      "page": "12-review-exercises",
+      "context": [
+        "Determine if a Sequence is Arithmetic",
+        "In the following exercises, determine if each sequence is arithmetic, and if so, indicate the common difference."
+      ],
+      "text": "\\(-7 , -1 , 5 , 11 , 17 , 23 , …\\)",
+      "math": [
+        "-7 , -1 , 5 , 11 , 17 , 23 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−7</mn>\n          <mo>,</mo>\n          <mn>−1</mn>\n          <mo>,</mo>\n          <mn>5</mn>\n          <mo>,</mo>\n          <mn>11</mn>\n          <mo>,</mo>\n          <mn>17</mn>\n          <mo>,</mo>\n          <mn>23</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−7</mn>\n          <mo>,</mo>\n          <mn>−1</mn>\n          <mo>,</mo>\n          <mn>5</mn>\n          <mo>,</mo>\n          <mn>11</mn>\n          <mo>,</mo>\n          <mn>17</mn>\n          <mo>,</mo>\n          <mn>23</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 262,
+      "anchor": "fs-id1167834301111",
+      "page": "12-review-exercises",
+      "context": [
+        "Determine if a Sequence is Arithmetic",
+        "In the following exercises, determine if each sequence is arithmetic, and if so, indicate the common difference."
+      ],
+      "text": "\\(13 , 9 , 5 , 1 , -3 , -7 , …\\)",
+      "math": [
+        "13 , 9 , 5 , 1 , -3 , -7 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>13</mn>\n          <mo>,</mo>\n          <mn>9</mn>\n          <mo>,</mo>\n          <mn>5</mn>\n          <mo>,</mo>\n          <mn>1</mn>\n          <mo>,</mo>\n          <mn>−3</mn>\n          <mo>,</mo>\n          <mn>−7</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>13</mn>\n          <mo>,</mo>\n          <mn>9</mn>\n          <mo>,</mo>\n          <mn>5</mn>\n          <mo>,</mo>\n          <mn>1</mn>\n          <mo>,</mo>\n          <mn>−3</mn>\n          <mo>,</mo>\n          <mn>−7</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 263,
+      "anchor": "fs-id1167834279556",
+      "page": "12-review-exercises",
+      "context": [
+        "In the following exercises, determine if each sequence is arithmetic, and if so, indicate the common difference.",
+        "In the following exercises, write the first five terms of each arithmetic sequence with the given first term and common difference."
+      ],
+      "text": "\\({a}_{1}=5\\) and \\(d=3\\)",
+      "math": [
+        "{a}_{1}=5",
+        "d=3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>5</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>d</mi><mo>=</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>d</mi><mo>=</mo><mn>3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 264,
+      "anchor": "fs-id1167834279612",
+      "page": "12-review-exercises",
+      "context": [
+        "In the following exercises, determine if each sequence is arithmetic, and if so, indicate the common difference.",
+        "In the following exercises, write the first five terms of each arithmetic sequence with the given first term and common difference."
+      ],
+      "text": "\\({a}_{1}=8\\) and \\(d=-2\\)",
+      "math": [
+        "{a}_{1}=8",
+        "d=-2"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>8</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>8</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>d</mi><mo>=</mo><mn>−2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>d</mi><mo>=</mo><mn>−2</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 265,
+      "anchor": "fs-id1167834279669",
+      "page": "12-review-exercises",
+      "context": [
+        "In the following exercises, determine if each sequence is arithmetic, and if so, indicate the common difference.",
+        "In the following exercises, write the first five terms of each arithmetic sequence with the given first term and common difference."
+      ],
+      "text": "\\({a}_{1}=-13\\) and \\(d=6\\)",
+      "math": [
+        "{a}_{1}=-13",
+        "d=6"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>−13</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>−13</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>d</mi><mo>=</mo><mn>6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>d</mi><mo>=</mo><mn>6</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 266,
+      "anchor": "fs-id1167830704149",
+      "page": "12-review-exercises",
+      "context": [
+        "Find the General Term (nth Term) of an Arithmetic Sequence",
+        "In the following exercises, find the term described using the information provided."
+      ],
+      "text": "Find the twenty-fifth term of a sequence where the first term is five and the common difference is three.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 267,
+      "anchor": "fs-id1167830704169",
+      "page": "12-review-exercises",
+      "context": [
+        "Find the General Term (nth Term) of an Arithmetic Sequence",
+        "In the following exercises, find the term described using the information provided."
+      ],
+      "text": "Find the thirtieth term of a sequence where the first term is 16 and the common difference is \\(-5.\\)",
+      "math": [
+        "-5."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−5</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−5</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 268,
+      "anchor": "fs-id1167830704196",
+      "page": "12-review-exercises",
+      "context": [
+        "Find the General Term (nth Term) of an Arithmetic Sequence",
+        "In the following exercises, find the term described using the information provided."
+      ],
+      "text": "Find the seventeenth term of a sequence where the first term is \\(-21\\) and the common difference is two.",
+      "math": [
+        "-21"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−21</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−21</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 269,
+      "anchor": "fs-id1167830704224",
+      "page": "12-review-exercises",
+      "context": [
+        "In the following exercises, find the term described using the information provided.",
+        "In the following exercises, find the indicated term and give the formula for the general term."
+      ],
+      "text": "Find the eighteenth term of a sequence where the fifth term is \\(12\\) and the common difference is seven.",
+      "math": [
+        "12"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>12</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>12</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 270,
+      "anchor": "fs-id1167830704281",
+      "page": "12-review-exercises",
+      "context": [
+        "In the following exercises, find the term described using the information provided.",
+        "In the following exercises, find the indicated term and give the formula for the general term."
+      ],
+      "text": "Find the twenty-first term of a sequence where the seventh term is \\(14\\) and the common difference is \\(-3.\\)",
+      "math": [
+        "14",
+        "-3."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>14</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>14</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−3</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−3</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 271,
+      "anchor": "fs-id1167830694006",
+      "page": "12-review-exercises",
+      "context": [
+        "In the following exercises, find the indicated term and give the formula for the general term.",
+        "In the following exercises, find the first term and common difference of the sequence with the given terms. Give the formula for the general term."
+      ],
+      "text": "The fifth term is 17 and the fourteenth term is 53.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 272,
+      "anchor": "fs-id1167830694067",
+      "page": "12-review-exercises",
+      "context": [
+        "In the following exercises, find the indicated term and give the formula for the general term.",
+        "In the following exercises, find the first term and common difference of the sequence with the given terms. Give the formula for the general term."
+      ],
+      "text": "The third term is \\(-26\\) and the sixteenth term is \\(-91.\\)",
+      "math": [
+        "-26",
+        "-91."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−26</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−26</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−91</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−91</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 273,
+      "anchor": "fs-id1167834533418",
+      "page": "12-review-exercises",
+      "context": [
+        "Find the Sum of the First n Terms of an Arithmetic Sequence",
+        "In the following exercises, find the sum of the first 30 terms of each arithmetic sequence."
+      ],
+      "text": "\\(7 , 4 , 1 , -2 , -5 , …\\)",
+      "math": [
+        "7 , 4 , 1 , -2 , -5 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>7</mn>\n          <mo>,</mo>\n          <mn>4</mn>\n          <mo>,</mo>\n          <mn>1</mn>\n          <mo>,</mo>\n          <mn>−2</mn>\n          <mo>,</mo>\n          <mn>−5</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>7</mn>\n          <mo>,</mo>\n          <mn>4</mn>\n          <mo>,</mo>\n          <mn>1</mn>\n          <mo>,</mo>\n          <mn>−2</mn>\n          <mo>,</mo>\n          <mn>−5</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 274,
+      "anchor": "fs-id1167834533464",
+      "page": "12-review-exercises",
+      "context": [
+        "Find the Sum of the First n Terms of an Arithmetic Sequence",
+        "In the following exercises, find the sum of the first 30 terms of each arithmetic sequence."
+      ],
+      "text": "\\(1 , 6 , 11 , 16 , 21 , …\\)",
+      "math": [
+        "1 , 6 , 11 , 16 , 21 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>1</mn>\n          <mo>,</mo>\n          <mn>6</mn>\n          <mo>,</mo>\n          <mn>11</mn>\n          <mo>,</mo>\n          <mn>16</mn>\n          <mo>,</mo>\n          <mn>21</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>1</mn>\n          <mo>,</mo>\n          <mn>6</mn>\n          <mo>,</mo>\n          <mn>11</mn>\n          <mo>,</mo>\n          <mn>16</mn>\n          <mo>,</mo>\n          <mn>21</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 275,
+      "anchor": "fs-id1167834533514",
+      "page": "12-review-exercises",
+      "context": [
+        "In the following exercises, find the sum of the first 30 terms of each arithmetic sequence.",
+        "In the following exercises, find the sum of the first fifteen terms of the arithmetic sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = 4 n + 7\\)",
+      "math": [
+        "{a}_{n} = 4 n + 7"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mn>4</mn>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mn>7</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mn>4</mn>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mn>7</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 276,
+      "anchor": "fs-id1167834533550",
+      "page": "12-review-exercises",
+      "context": [
+        "In the following exercises, find the sum of the first 30 terms of each arithmetic sequence.",
+        "In the following exercises, find the sum of the first fifteen terms of the arithmetic sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = -2 n + 19\\)",
+      "math": [
+        "{a}_{n} = -2 n + 19"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mn>−2</mn>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mn>19</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mn>−2</mn>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mn>19</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 277,
+      "anchor": "fs-id1167831921889",
+      "page": "12-review-exercises",
+      "context": [
+        "In the following exercises, find the sum of the first fifteen terms of the arithmetic sequence whose general term is given.",
+        "In the following exercises, find each sum."
+      ],
+      "text": "\\(∑ i = 1 50 ( 4 i - 5 )\\)",
+      "math": [
+        "\\sum_{ i = 1 }^{ 50 } ( 4 i - 5 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mrow>\n                <mn>50</mn>\n              </mrow>\n            </munderover>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mn>4</mn>\n              <mi>i</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n          </mstyle>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mrow>\n                <mn>50</mn>\n              </mrow>\n            </munderover>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mn>4</mn>\n              <mi>i</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n          </mstyle>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 278,
+      "anchor": "fs-id1167831921944",
+      "page": "12-review-exercises",
+      "context": [
+        "In the following exercises, find the sum of the first fifteen terms of the arithmetic sequence whose general term is given.",
+        "In the following exercises, find each sum."
+      ],
+      "text": "\\(∑ i = 1 30 ( -3 i - 7 )\\)",
+      "math": [
+        "\\sum_{ i = 1 }^{ 30 } ( -3 i - 7 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mrow>\n                <mn>30</mn>\n              </mrow>\n            </munderover>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mn>−3</mn>\n              <mi>i</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n          </mstyle>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mrow>\n                <mn>30</mn>\n              </mrow>\n            </munderover>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mn>−3</mn>\n              <mi>i</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n          </mstyle>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 279,
+      "anchor": "fs-id1167831922004",
+      "page": "12-review-exercises",
+      "context": [
+        "In the following exercises, find the sum of the first fifteen terms of the arithmetic sequence whose general term is given.",
+        "In the following exercises, find each sum."
+      ],
+      "text": "\\(∑ i = 1 35 ( i + 10 )\\)",
+      "math": [
+        "\\sum_{ i = 1 }^{ 35 } ( i + 10 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mrow>\n                <mn>35</mn>\n              </mrow>\n            </munderover>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mi>i</mi>\n              <mo>+</mo>\n              <mn>10</mn>\n            </mrow>\n          </mstyle>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mrow>\n                <mn>35</mn>\n              </mrow>\n            </munderover>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mi>i</mi>\n              <mo>+</mo>\n              <mn>10</mn>\n            </mrow>\n          </mstyle>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 280,
+      "anchor": "fs-id1167834432290",
+      "page": "12-review-exercises",
+      "context": [
+        "Determine if a Sequence is Geometric",
+        "In the following exercises, determine if the sequence is geometric, and if so, indicate the common ratio."
+      ],
+      "text": "\\(3 , 12 , 48 , 192 , 768 , 3072 , …\\)",
+      "math": [
+        "3 , 12 , 48 , 192 , 768 , 3072 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <mo>,</mo>\n          <mn>12</mn>\n          <mo>,</mo>\n          <mn>48</mn>\n          <mo>,</mo>\n          <mn>192</mn>\n          <mo>,</mo>\n          <mn>768</mn>\n          <mo>,</mo>\n          <mn>3072</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <mo>,</mo>\n          <mn>12</mn>\n          <mo>,</mo>\n          <mn>48</mn>\n          <mo>,</mo>\n          <mn>192</mn>\n          <mo>,</mo>\n          <mn>768</mn>\n          <mo>,</mo>\n          <mn>3072</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 281,
+      "anchor": "fs-id1167834432347",
+      "page": "12-review-exercises",
+      "context": [
+        "Determine if a Sequence is Geometric",
+        "In the following exercises, determine if the sequence is geometric, and if so, indicate the common ratio."
+      ],
+      "text": "\\(5 , 10 , 15 , 20 , 25 , 30 , …\\)",
+      "math": [
+        "5 , 10 , 15 , 20 , 25 , 30 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>5</mn>\n          <mo>,</mo>\n          <mn>10</mn>\n          <mo>,</mo>\n          <mn>15</mn>\n          <mo>,</mo>\n          <mn>20</mn>\n          <mo>,</mo>\n          <mn>25</mn>\n          <mo>,</mo>\n          <mn>30</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>5</mn>\n          <mo>,</mo>\n          <mn>10</mn>\n          <mo>,</mo>\n          <mn>15</mn>\n          <mo>,</mo>\n          <mn>20</mn>\n          <mo>,</mo>\n          <mn>25</mn>\n          <mo>,</mo>\n          <mn>30</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 282,
+      "anchor": "fs-id1167834432394",
+      "page": "12-review-exercises",
+      "context": [
+        "Determine if a Sequence is Geometric",
+        "In the following exercises, determine if the sequence is geometric, and if so, indicate the common ratio."
+      ],
+      "text": "\\(112 , 56 , 28 , 14 , 7 , \\frac{7}{2} , …\\)",
+      "math": [
+        "112 , 56 , 28 , 14 , 7 , \\frac{7}{2} , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>112</mn>\n          <mo>,</mo>\n          <mn>56</mn>\n          <mo>,</mo>\n          <mn>28</mn>\n          <mo>,</mo>\n          <mn>14</mn>\n          <mo>,</mo>\n          <mn>7</mn>\n          <mo>,</mo>\n          <mfrac>\n            <mn>7</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>112</mn>\n          <mo>,</mo>\n          <mn>56</mn>\n          <mo>,</mo>\n          <mn>28</mn>\n          <mo>,</mo>\n          <mn>14</mn>\n          <mo>,</mo>\n          <mn>7</mn>\n          <mo>,</mo>\n          <mfrac>\n            <mn>7</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 283,
+      "anchor": "fs-id1167834279767",
+      "page": "12-review-exercises",
+      "context": [
+        "Determine if a Sequence is Geometric",
+        "In the following exercises, determine if the sequence is geometric, and if so, indicate the common ratio."
+      ],
+      "text": "\\(9 , -18 , 36 , -72 , 144 , -288 , …\\)",
+      "math": [
+        "9 , -18 , 36 , -72 , 144 , -288 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>9</mn>\n          <mo>,</mo>\n          <mn>−18</mn>\n          <mo>,</mo>\n          <mn>36</mn>\n          <mo>,</mo>\n          <mn>−72</mn>\n          <mo>,</mo>\n          <mn>144</mn>\n          <mo>,</mo>\n          <mn>−288</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>9</mn>\n          <mo>,</mo>\n          <mn>−18</mn>\n          <mo>,</mo>\n          <mn>36</mn>\n          <mo>,</mo>\n          <mn>−72</mn>\n          <mo>,</mo>\n          <mn>144</mn>\n          <mo>,</mo>\n          <mn>−288</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 284,
+      "anchor": "fs-id1167834279829",
+      "page": "12-review-exercises",
+      "context": [
+        "In the following exercises, determine if the sequence is geometric, and if so, indicate the common ratio.",
+        "In the following exercises, write the first five terms of each geometric sequence with the given first term and common ratio."
+      ],
+      "text": "\\({a}_{1}=-3\\) and \\(r=5\\)",
+      "math": [
+        "{a}_{1}=-3",
+        "r=5"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>−3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>−3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>r</mi><mo>=</mo><mn>5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>r</mi><mo>=</mo><mn>5</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 285,
+      "anchor": "fs-id1167834279885",
+      "page": "12-review-exercises",
+      "context": [
+        "In the following exercises, determine if the sequence is geometric, and if so, indicate the common ratio.",
+        "In the following exercises, write the first five terms of each geometric sequence with the given first term and common ratio."
+      ],
+      "text": "\\({a}_{1}=128\\) and \\(r=\\frac{1}{4}\\)",
+      "math": [
+        "{a}_{1}=128",
+        "r=\\frac{1}{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>128</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>128</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>r</mi><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>r</mi><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 286,
+      "anchor": "fs-id1167834279948",
+      "page": "12-review-exercises",
+      "context": [
+        "In the following exercises, determine if the sequence is geometric, and if so, indicate the common ratio.",
+        "In the following exercises, write the first five terms of each geometric sequence with the given first term and common ratio."
+      ],
+      "text": "\\({a}_{1}=5\\) and \\(r=-3\\)",
+      "math": [
+        "{a}_{1}=5",
+        "r=-3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>5</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>r</mi><mo>=</mo><mn>−3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>r</mi><mo>=</mo><mn>−3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 287,
+      "anchor": "fs-id1167826994722",
+      "page": "12-review-exercises",
+      "context": [
+        "Find the General Term (nth Term) of a Geometric Sequence",
+        "In the following exercises, find the indicated term of a sequence where the first term and the common ratio is given."
+      ],
+      "text": "Find \\({a}_{9}\\) given \\({a}_{1}=6\\) and \\(r=2.\\)",
+      "math": [
+        "{a}_{9}",
+        "{a}_{1}=6",
+        "r=2."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mn>9</mn></msub></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mn>9</mn></msub></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>6</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>r</mi><mo>=</mo><mn>2</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>r</mi><mo>=</mo><mn>2</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 288,
+      "anchor": "fs-id1167826994775",
+      "page": "12-review-exercises",
+      "context": [
+        "Find the General Term (nth Term) of a Geometric Sequence",
+        "In the following exercises, find the indicated term of a sequence where the first term and the common ratio is given."
+      ],
+      "text": "Find \\({a}_{11}\\) given \\({a}_{1}=10,000,000\\) and \\(r=0.1.\\)",
+      "math": [
+        "{a}_{11}",
+        "{a}_{1}=10,000,000",
+        "r=0.1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mrow><mn>11</mn></mrow></msub></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mrow><mn>11</mn></mrow></msub></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>10,000,000</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>10,000,000</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>r</mi><mo>=</mo><mn>0.1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>r</mi><mo>=</mo><mn>0.1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 289,
+      "anchor": "fs-id1167826994838",
+      "page": "12-review-exercises",
+      "context": [
+        "In the following exercises, find the indicated term of a sequence where the first term and the common ratio is given.",
+        "In the following exercises, find the indicated term of the given sequence. Find the general term of the sequence."
+      ],
+      "text": "Find \\({a}_{12}\\) of the sequence, \\(6,-24,96,-384,1536,-6144,…\\)",
+      "math": [
+        "{a}_{12}",
+        "6,-24,96,-384,1536,-6144,…"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mrow><mn>12</mn></mrow></msub></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mrow><mn>12</mn></mrow></msub></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>6</mn><mo>,</mo><mn>−24</mn><mo>,</mo><mn>96</mn><mo>,</mo><mn>−384</mn><mo>,</mo><mn>1536</mn><mo>,</mo><mn>−6144</mn><mo>,</mo><mtext>…</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>6</mn><mo>,</mo><mn>−24</mn><mo>,</mo><mn>96</mn><mo>,</mo><mn>−384</mn><mo>,</mo><mn>1536</mn><mo>,</mo><mn>−6144</mn><mo>,</mo><mtext>…</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 290,
+      "anchor": "fs-id1167831835605",
+      "page": "12-review-exercises",
+      "context": [
+        "In the following exercises, find the indicated term of a sequence where the first term and the common ratio is given.",
+        "In the following exercises, find the indicated term of the given sequence. Find the general term of the sequence."
+      ],
+      "text": "Find \\({a}_{9}\\) of the sequence, \\(4374,1458,486,162,54,18,…\\)",
+      "math": [
+        "{a}_{9}",
+        "4374,1458,486,162,54,18,…"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mn>9</mn></msub></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mn>9</mn></msub></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4374</mn><mo>,</mo><mn>1458</mn><mo>,</mo><mn>486</mn><mo>,</mo><mn>162</mn><mo>,</mo><mn>54</mn><mo>,</mo><mn>18</mn><mo>,</mo><mtext>…</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4374</mn><mo>,</mo><mn>1458</mn><mo>,</mo><mn>486</mn><mo>,</mo><mn>162</mn><mo>,</mo><mn>54</mn><mo>,</mo><mn>18</mn><mo>,</mo><mtext>…</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 291,
+      "anchor": "fs-id1167834309726",
+      "page": "12-review-exercises",
+      "context": [
+        "Find the Sum of the First n terms of a Geometric Sequence",
+        "In the following exercises, find the sum of the first fifteen terms of each geometric sequence."
+      ],
+      "text": "\\(-4 , 8 , -16 , 32 , -64 , 128 …\\)",
+      "math": [
+        "-4 , 8 , -16 , 32 , -64 , 128 …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−4</mn>\n          <mo>,</mo>\n          <mn>8</mn>\n          <mo>,</mo>\n          <mn>−16</mn>\n          <mo>,</mo>\n          <mn>32</mn>\n          <mo>,</mo>\n          <mn>−64</mn>\n          <mo>,</mo>\n          <mn>128</mn>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−4</mn>\n          <mo>,</mo>\n          <mn>8</mn>\n          <mo>,</mo>\n          <mn>−16</mn>\n          <mo>,</mo>\n          <mn>32</mn>\n          <mo>,</mo>\n          <mn>−64</mn>\n          <mo>,</mo>\n          <mn>128</mn>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 292,
+      "anchor": "fs-id1167834309771",
+      "page": "12-review-exercises",
+      "context": [
+        "Find the Sum of the First n terms of a Geometric Sequence",
+        "In the following exercises, find the sum of the first fifteen terms of each geometric sequence."
+      ],
+      "text": "\\(3 , 12 , 48 , 192 , 768 , 3072 …\\)",
+      "math": [
+        "3 , 12 , 48 , 192 , 768 , 3072 …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <mo>,</mo>\n          <mn>12</mn>\n          <mo>,</mo>\n          <mn>48</mn>\n          <mo>,</mo>\n          <mn>192</mn>\n          <mo>,</mo>\n          <mn>768</mn>\n          <mo>,</mo>\n          <mn>3072</mn>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <mo>,</mo>\n          <mn>12</mn>\n          <mo>,</mo>\n          <mn>48</mn>\n          <mo>,</mo>\n          <mn>192</mn>\n          <mo>,</mo>\n          <mn>768</mn>\n          <mo>,</mo>\n          <mn>3072</mn>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 293,
+      "anchor": "fs-id1167834309828",
+      "page": "12-review-exercises",
+      "context": [
+        "Find the Sum of the First n terms of a Geometric Sequence",
+        "In the following exercises, find the sum of the first fifteen terms of each geometric sequence."
+      ],
+      "text": "\\(3125 , 625 , 125 , 25 , 5 , 1 …\\)",
+      "math": [
+        "3125 , 625 , 125 , 25 , 5 , 1 …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3125</mn>\n          <mo>,</mo>\n          <mn>625</mn>\n          <mo>,</mo>\n          <mn>125</mn>\n          <mo>,</mo>\n          <mn>25</mn>\n          <mo>,</mo>\n          <mn>5</mn>\n          <mo>,</mo>\n          <mn>1</mn>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3125</mn>\n          <mo>,</mo>\n          <mn>625</mn>\n          <mo>,</mo>\n          <mn>125</mn>\n          <mo>,</mo>\n          <mn>25</mn>\n          <mo>,</mo>\n          <mn>5</mn>\n          <mo>,</mo>\n          <mn>1</mn>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 294,
+      "anchor": "fs-id1167834309881",
+      "page": "12-review-exercises",
+      "context": [
+        "In the following exercises, find the sum of the first fifteen terms of each geometric sequence.",
+        "In the following exercises, find the sum"
+      ],
+      "text": "\\(∑ i = 1 8 7 { ( 3 ) }^{i}\\)",
+      "math": [
+        "\\sum_{ i = 1 }^{8} 7 { ( 3 ) }^{i}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>8</mn>\n            </munderover>\n            <mrow>\n              <mn>7</mn>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mn>3</mn>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mi>i</mi>\n              </msup>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>8</mn>\n            </munderover>\n            <mrow>\n              <mn>7</mn>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mn>3</mn>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mi>i</mi>\n              </msup>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 295,
+      "anchor": "fs-id1167830702709",
+      "page": "12-review-exercises",
+      "context": [
+        "In the following exercises, find the sum of the first fifteen terms of each geometric sequence.",
+        "In the following exercises, find the sum"
+      ],
+      "text": "\\(∑ i = 1 6 24 { ( \\frac{1}{2} ) }^{i}\\)",
+      "math": [
+        "\\sum_{ i = 1 }^{6} 24 { ( \\frac{1}{2} ) }^{i}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>6</mn>\n            </munderover>\n            <mrow>\n              <mn>24</mn>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mfrac>\n                        <mn>1</mn>\n                        <mn>2</mn>\n                      </mfrac>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mi>i</mi>\n              </msup>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>6</mn>\n            </munderover>\n            <mrow>\n              <mn>24</mn>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mfrac>\n                        <mn>1</mn>\n                        <mn>2</mn>\n                      </mfrac>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mi>i</mi>\n              </msup>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 296,
+      "anchor": "fs-id1167830702782",
+      "page": "12-review-exercises",
+      "context": [
+        "Find the Sum of an Infinite Geometric Series",
+        "In the following exercises, find the sum of each infinite geometric series."
+      ],
+      "text": "\\(1 - \\frac{1}{3} + \\frac{1}{9} - \\frac{1}{ 27 } + \\frac{1}{ 81 } - \\frac{1}{ 243 } + \\frac{1}{ 729 } - …\\)",
+      "math": [
+        "1 - \\frac{1}{3} + \\frac{1}{9} - \\frac{1}{ 27 } + \\frac{1}{ 81 } - \\frac{1}{ 243 } + \\frac{1}{ 729 } - …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>1</mn>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>9</mn>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>27</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>81</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>243</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>729</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>1</mn>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>9</mn>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>27</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>81</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>243</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>729</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 297,
+      "anchor": "fs-id1167830702863",
+      "page": "12-review-exercises",
+      "context": [
+        "Find the Sum of an Infinite Geometric Series",
+        "In the following exercises, find the sum of each infinite geometric series."
+      ],
+      "text": "\\(49 + 7 + 1 + \\frac{1}{7} + \\frac{1}{ 49 } + \\frac{1}{ 343 } + …\\)",
+      "math": [
+        "49 + 7 + 1 + \\frac{1}{7} + \\frac{1}{ 49 } + \\frac{1}{ 343 } + …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>49</mn>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mo>+</mo>\n          <mn>1</mn>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>7</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>49</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>343</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>49</mn>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mo>+</mo>\n          <mn>1</mn>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>7</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>49</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>343</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 298,
+      "anchor": "fs-id1167834314326",
+      "page": "12-review-exercises",
+      "context": [
+        "In the following exercises, find the sum of each infinite geometric series.",
+        "In the following exercises, write each repeating decimal as a fraction."
+      ],
+      "text": "\\(0. \\overline{8}\\)",
+      "math": [
+        "0. \\overline{8}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>0.</mn>\n          <mover accent=\"true\">\n            <mn>8</mn>\n            <mo>–</mo>\n          </mover>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>0.</mn>\n          <mover accent=\"true\">\n            <mn>8</mn>\n            <mo>–</mo>\n          </mover>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 299,
+      "anchor": "fs-id1167834314360",
+      "page": "12-review-exercises",
+      "context": [
+        "In the following exercises, find the sum of each infinite geometric series.",
+        "In the following exercises, write each repeating decimal as a fraction."
+      ],
+      "text": "\\(0. \\overline{ 36 }\\)",
+      "math": [
+        "0. \\overline{ 36 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>0.</mn>\n          <mover accent=\"true\">\n            <mrow>\n              <mn>36</mn>\n            </mrow>\n            <mo>—</mo>\n          </mover>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>0.</mn>\n          <mover accent=\"true\">\n            <mrow>\n              <mn>36</mn>\n            </mrow>\n            <mo>—</mo>\n          </mover>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 300,
+      "anchor": "fs-id1167834314406",
+      "page": "12-review-exercises",
+      "context": [
+        "Apply Geometric Sequences and Series in the Real World",
+        "In the following exercises, solve the problem."
+      ],
+      "text": "What is the total effect on the economy of a government tax rebate of \\(\\$360\\) to each household in order to stimulate the economy if each household will spend \\(60%\\) of the rebate in goods and services?",
+      "math": [
+        "$360",
+        "60%"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>$</mtext><mn>360</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>$</mtext><mn>360</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>60</mn><mi>%</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>60</mn><mi>%</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 301,
+      "anchor": "fs-id1167834314443",
+      "page": "12-review-exercises",
+      "context": [
+        "Apply Geometric Sequences and Series in the Real World",
+        "In the following exercises, solve the problem."
+      ],
+      "text": "Adam just got his first full-time job after graduating from high school at age 17. He decided to invest \\(\\$300\\) per month in an IRA (an annuity). The interest on the annuity is \\(7%\\) which is compounded monthly. How much will be in Adam’s account when he retires at his sixty-seventh birthday?",
+      "math": [
+        "$300",
+        "7%"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>$</mtext><mn>300</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>$</mtext><mn>300</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>7</mn><mi>%</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>7</mn><mi>%</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 302,
+      "anchor": "fs-id1167831836443",
+      "page": "12-review-exercises",
+      "context": [
+        "Use Pascal’s Triangle to Expand a Binomial",
+        "In the following exercises, expand each binomial using Pascal’s Triangle."
+      ],
+      "text": "\\({ ( a + b ) }^{7}\\)",
+      "math": [
+        "{ ( a + b ) }^{7}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>a</mi>\n                  <mo>+</mo>\n                  <mi>b</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>7</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>a</mi>\n                  <mo>+</mo>\n                  <mi>b</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>7</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 303,
+      "anchor": "fs-id1167831836574",
+      "page": "12-review-exercises",
+      "context": [
+        "Use Pascal’s Triangle to Expand a Binomial",
+        "In the following exercises, expand each binomial using Pascal’s Triangle."
+      ],
+      "text": "\\({ ( x - y ) }^{4}\\)",
+      "math": [
+        "{ ( x - y ) }^{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>4</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>4</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 304,
+      "anchor": "fs-id1167834395028",
+      "page": "12-review-exercises",
+      "context": [
+        "Use Pascal’s Triangle to Expand a Binomial",
+        "In the following exercises, expand each binomial using Pascal’s Triangle."
+      ],
+      "text": "\\({ ( x + 6 ) }^{3}\\)",
+      "math": [
+        "{ ( x + 6 ) }^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>6</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>6</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 305,
+      "anchor": "fs-id1167834395089",
+      "page": "12-review-exercises",
+      "context": [
+        "Use Pascal’s Triangle to Expand a Binomial",
+        "In the following exercises, expand each binomial using Pascal’s Triangle."
+      ],
+      "text": "\\({ ( 2 y - 3 ) }^{5}\\)",
+      "math": [
+        "{ ( 2 y - 3 ) }^{5}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>5</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>5</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 306,
+      "anchor": "fs-id1167834395173",
+      "page": "12-review-exercises",
+      "context": [
+        "Use Pascal’s Triangle to Expand a Binomial",
+        "In the following exercises, expand each binomial using Pascal’s Triangle."
+      ],
+      "text": "\\({ ( 7 x + 2 y ) }^{3}\\)",
+      "math": [
+        "{ ( 7 x + 2 y ) }^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>7</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>7</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 307,
+      "anchor": "fs-id1167834528372",
+      "page": "12-review-exercises",
+      "context": [
+        "Evaluate a Binomial Coefficient",
+        "In the following exercises, evaluate."
+      ],
+      "text": "ⓐ \\((111)\\)ⓑ \\((1212)\\)ⓒ \\((130)\\)ⓓ \\((83)\\)",
+      "math": [
+        "(\\begin{matrix}11\\\\1\\end{matrix})",
+        "(\\begin{matrix}12\\\\12\\end{matrix})",
+        "(\\begin{matrix}13\\\\0\\end{matrix})",
+        "(\\begin{matrix}8\\\\3\\end{matrix})"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>11</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>1</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>11</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>1</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>12</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>12</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>12</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>12</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>13</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>0</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>13</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>0</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>8</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>3</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>8</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>3</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 308,
+      "anchor": "fs-id1167834528515",
+      "page": "12-review-exercises",
+      "context": [
+        "Evaluate a Binomial Coefficient",
+        "In the following exercises, evaluate."
+      ],
+      "text": "ⓐ \\((71)\\)ⓑ \\((55)\\)ⓒ \\((90)\\)ⓓ \\((95)\\)",
+      "math": [
+        "(\\begin{matrix}7\\\\1\\end{matrix})",
+        "(\\begin{matrix}5\\\\5\\end{matrix})",
+        "(\\begin{matrix}9\\\\0\\end{matrix})",
+        "(\\begin{matrix}9\\\\5\\end{matrix})"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>7</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>1</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>7</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>1</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>5</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>5</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>5</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>5</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>9</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>0</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>9</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>0</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>9</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>5</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>9</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>5</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 309,
+      "anchor": "fs-id1167831908221",
+      "page": "12-review-exercises",
+      "context": [
+        "Evaluate a Binomial Coefficient",
+        "In the following exercises, evaluate."
+      ],
+      "text": "ⓐ \\((11)\\)ⓑ \\((1515)\\)ⓒ \\((40)\\)ⓓ \\((112)\\)",
+      "math": [
+        "(\\begin{matrix}1\\\\1\\end{matrix})",
+        "(\\begin{matrix}15\\\\15\\end{matrix})",
+        "(\\begin{matrix}4\\\\0\\end{matrix})",
+        "(\\begin{matrix}11\\\\2\\end{matrix})"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>1</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>1</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>1</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>1</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>15</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>15</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>15</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>15</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>4</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>0</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>4</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>0</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>11</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>2</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>11</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>2</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 310,
+      "anchor": "fs-id1167834273850",
+      "page": "12-review-exercises",
+      "context": [
+        "Use the Binomial Theorem to Expand a Binomial",
+        "In the following exercises, expand each binomial, using the Binomial Theorem."
+      ],
+      "text": "\\({ ( p + q ) }^{6}\\)",
+      "math": [
+        "{ ( p + q ) }^{6}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>p</mi>\n                  <mo>+</mo>\n                  <mi>q</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>6</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>p</mi>\n                  <mo>+</mo>\n                  <mi>q</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>6</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 311,
+      "anchor": "fs-id1167834273967",
+      "page": "12-review-exercises",
+      "context": [
+        "Use the Binomial Theorem to Expand a Binomial",
+        "In the following exercises, expand each binomial, using the Binomial Theorem."
+      ],
+      "text": "\\({ ( t - 1 ) }^{9}\\)",
+      "math": [
+        "{ ( t - 1 ) }^{9}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>t</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>9</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>t</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>9</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 312,
+      "anchor": "fs-id1167828316129",
+      "page": "12-review-exercises",
+      "context": [
+        "Use the Binomial Theorem to Expand a Binomial",
+        "In the following exercises, expand each binomial, using the Binomial Theorem."
+      ],
+      "text": "\\({ ( 2 x + 1 ) }^{4}\\)",
+      "math": [
+        "{ ( 2 x + 1 ) }^{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>4</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>4</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 313,
+      "anchor": "fs-id1167828316203",
+      "page": "12-review-exercises",
+      "context": [
+        "Use the Binomial Theorem to Expand a Binomial",
+        "In the following exercises, expand each binomial, using the Binomial Theorem."
+      ],
+      "text": "\\({ ( 4 x + 3 y ) }^{4}\\)",
+      "math": [
+        "{ ( 4 x + 3 y ) }^{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>4</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>4</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>4</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>4</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 314,
+      "anchor": "fs-id1167831919555",
+      "page": "12-review-exercises",
+      "context": [
+        "Use the Binomial Theorem to Expand a Binomial",
+        "In the following exercises, expand each binomial, using the Binomial Theorem."
+      ],
+      "text": "\\({ ( x - 3 y ) }^{5}\\)",
+      "math": [
+        "{ ( x - 3 y ) }^{5}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>5</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>5</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 315,
+      "anchor": "fs-id1167831919663",
+      "page": "12-review-exercises",
+      "context": [
+        "In the following exercises, expand each binomial, using the Binomial Theorem.",
+        "In the following exercises, find the indicated term in the expansion of the binomial."
+      ],
+      "text": "Seventh term of \\({(a+b)}^{9}\\)",
+      "math": [
+        "{(a+b)}^{9}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>a</mi><mo>+</mo><mi>b</mi></mrow><mo>)</mo></mrow></mrow><mn>9</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>a</mi><mo>+</mo><mi>b</mi></mrow><mo>)</mo></mrow></mrow><mn>9</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 316,
+      "anchor": "fs-id1167831919715",
+      "page": "12-review-exercises",
+      "context": [
+        "In the following exercises, expand each binomial, using the Binomial Theorem.",
+        "In the following exercises, find the indicated term in the expansion of the binomial."
+      ],
+      "text": "Third term of \\({(x-y)}^{7}\\)",
+      "math": [
+        "{(x-y)}^{7}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mi>y</mi></mrow><mo>)</mo></mrow></mrow><mn>7</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mi>y</mi></mrow><mo>)</mo></mrow></mrow><mn>7</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 317,
+      "anchor": "fs-id1167834308236",
+      "page": "12-review-exercises",
+      "context": [
+        "In the following exercises, find the indicated term in the expansion of the binomial.",
+        "In the following exercises, find the coefficient of the indicated term in the expansion of the binomial."
+      ],
+      "text": "\\({y}^{4}\\) term of \\({(y+3)}^{6}\\)",
+      "math": [
+        "{y}^{4}",
+        "{(y+3)}^{6}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>y</mi><mn>4</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>y</mi><mn>4</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>6</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>6</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 318,
+      "anchor": "fs-id1167834308281",
+      "page": "12-review-exercises",
+      "context": [
+        "In the following exercises, find the indicated term in the expansion of the binomial.",
+        "In the following exercises, find the coefficient of the indicated term in the expansion of the binomial."
+      ],
+      "text": "\\({x}^{5}\\) term of \\({(x-2)}^{8}\\)",
+      "math": [
+        "{x}^{5}",
+        "{(x-2)}^{8}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>5</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>5</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow><mn>8</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow><mn>8</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 319,
+      "anchor": "fs-id1167834308329",
+      "page": "12-review-exercises",
+      "context": [
+        "In the following exercises, find the indicated term in the expansion of the binomial.",
+        "In the following exercises, find the coefficient of the indicated term in the expansion of the binomial."
+      ],
+      "text": "\\({a}^{3}{b}^{4}\\) term of \\({(2a+b)}^{7}\\)",
+      "math": [
+        "{a}^{3}{b}^{4}",
+        "{(2a+b)}^{7}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>a</mi><mn>3</mn></msup><msup><mi>b</mi><mn>4</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>a</mi><mn>3</mn></msup><msup><mi>b</mi><mn>4</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mi>a</mi><mo>+</mo><mi>b</mi></mrow><mo>)</mo></mrow></mrow><mn>7</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mi>a</mi><mo>+</mo><mi>b</mi></mrow><mo>)</mo></mrow></mrow><mn>7</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "practice": [],
+  "answers": {}
+}

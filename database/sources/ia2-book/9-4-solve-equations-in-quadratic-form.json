@@ -1,0 +1,850 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/9-4-solve-equations-in-quadratic-form",
+  "title": "9.4 Solve Equations in Quadratic Form",
+  "sha256": "2bea2ce64f28a0bf29d7d8364cfbd00ca75a3ea741f078bfbde3456d06a0b77c",
+  "questions": [
+    {
+      "number": 155,
+      "anchor": "fs-id1167833048634",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\({x}^{4} - 7 {x}^{2} + 12 = 0\\)",
+      "math": [
+        "{x}^{4} - 7 {x}^{2} + 12 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>7</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>7</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 156,
+      "anchor": "fs-id1167836621350",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\({x}^{4} - 9 {x}^{2} + 18 = 0\\)",
+      "math": [
+        "{x}^{4} - 9 {x}^{2} + 18 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>9</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>18</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>9</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>18</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 157,
+      "anchor": "fs-id1167833056781",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\({x}^{4} - 13 {x}^{2} - 30 = 0\\)",
+      "math": [
+        "{x}^{4} - 13 {x}^{2} - 30 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>13</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>30</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>13</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>30</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 158,
+      "anchor": "fs-id1167836652640",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\({x}^{4} + 5 {x}^{2} - 36 = 0\\)",
+      "math": [
+        "{x}^{4} + 5 {x}^{2} - 36 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>5</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>36</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>5</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>36</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 159,
+      "anchor": "fs-id1167836379312",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(2 {x}^{4} - 5 {x}^{2} + 3 = 0\\)",
+      "math": [
+        "2 {x}^{4} - 5 {x}^{2} + 3 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>5</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>5</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 160,
+      "anchor": "fs-id1167833269880",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(4 {x}^{4} - 5 {x}^{2} + 1 = 0\\)",
+      "math": [
+        "4 {x}^{4} - 5 {x}^{2} + 1 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>5</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>1</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>5</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>1</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 161,
+      "anchor": "fs-id1167829750536",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(2 {x}^{4} - 7 {x}^{2} + 3 = 0\\)",
+      "math": [
+        "2 {x}^{4} - 7 {x}^{2} + 3 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>7</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>7</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 162,
+      "anchor": "fs-id1167836408950",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(3 {x}^{4} - 14 {x}^{2} + 8 = 0\\)",
+      "math": [
+        "3 {x}^{4} - 14 {x}^{2} + 8 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>14</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>14</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 163,
+      "anchor": "fs-id1167836699100",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\({ ( x - 3 ) }^{2} - 5 ( x - 3 ) - 36 = 0\\)",
+      "math": [
+        "{ ( x - 3 ) }^{2} - 5 ( x - 3 ) - 36 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>36</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>36</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 164,
+      "anchor": "fs-id1167836620823",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\({ ( x + 2 ) }^{2} - 3 ( x + 2 ) - 54 = 0\\)",
+      "math": [
+        "{ ( x + 2 ) }^{2} - 3 ( x + 2 ) - 54 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>54</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>54</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 165,
+      "anchor": "fs-id1167825872620",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\({ ( 3 y + 2 ) }^{2} + ( 3 y + 2 ) - 6 = 0\\)",
+      "math": [
+        "{ ( 3 y + 2 ) }^{2} + ( 3 y + 2 ) - 6 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 166,
+      "anchor": "fs-id1167836289041",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\({ ( 5 y - 1 ) }^{2} + 3 ( 5 y - 1 ) - 28 = 0\\)",
+      "math": [
+        "{ ( 5 y - 1 ) }^{2} + 3 ( 5 y - 1 ) - 28 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>5</mn>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>28</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>5</mn>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>28</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 167,
+      "anchor": "fs-id1167836293918",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\({ ( {x}^{2} + 1 ) }^{2} - 5 ( {x}^{2} + 1 ) + 4 = 0\\)",
+      "math": [
+        "{ ( {x}^{2} + 1 ) }^{2} - 5 ( {x}^{2} + 1 ) + 4 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 168,
+      "anchor": "fs-id1167829942584",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\({ ( {x}^{2} - 4 ) }^{2} - 4 ( {x}^{2} - 4 ) + 3 = 0\\)",
+      "math": [
+        "{ ( {x}^{2} - 4 ) }^{2} - 4 ( {x}^{2} - 4 ) + 3 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 169,
+      "anchor": "fs-id1167829826691",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(2 { ( {x}^{2} - 5 ) }^{2} - 5 ( {x}^{2} - 5 ) + 2 = 0\\)",
+      "math": [
+        "2 { ( {x}^{2} - 5 ) }^{2} - 5 ( {x}^{2} - 5 ) + 2 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 170,
+      "anchor": "fs-id1167833022079",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(2 { ( {x}^{2} - 5 ) }^{2} - 7 ( {x}^{2} - 5 ) + 6 = 0\\)",
+      "math": [
+        "2 { ( {x}^{2} - 5 ) }^{2} - 7 ( {x}^{2} - 5 ) + 6 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>7</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>7</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 171,
+      "anchor": "fs-id1167836552088",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(x - \\sqrt{x} - 20 = 0\\)",
+      "math": [
+        "x - \\sqrt{x} - 20 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>−</mo>\n          <msqrt>\n            <mi>x</mi>\n          </msqrt>\n          <mo>−</mo>\n          <mn>20</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>−</mo>\n          <msqrt>\n            <mi>x</mi>\n          </msqrt>\n          <mo>−</mo>\n          <mn>20</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 172,
+      "anchor": "fs-id1167833059781",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(x - 8 \\sqrt{x} + 15 = 0\\)",
+      "math": [
+        "x - 8 \\sqrt{x} + 15 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>8</mn>\n          <msqrt>\n            <mi>x</mi>\n          </msqrt>\n          <mo>+</mo>\n          <mn>15</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>8</mn>\n          <msqrt>\n            <mi>x</mi>\n          </msqrt>\n          <mo>+</mo>\n          <mn>15</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 173,
+      "anchor": "fs-id1167836329465",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(x + 6 \\sqrt{x} - 16 = 0\\)",
+      "math": [
+        "x + 6 \\sqrt{x} - 16 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>6</mn>\n          <msqrt>\n            <mi>x</mi>\n          </msqrt>\n          <mo>−</mo>\n          <mn>16</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>6</mn>\n          <msqrt>\n            <mi>x</mi>\n          </msqrt>\n          <mo>−</mo>\n          <mn>16</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 174,
+      "anchor": "fs-id1167829744349",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(x + 4 \\sqrt{x} - 21 = 0\\)",
+      "math": [
+        "x + 4 \\sqrt{x} - 21 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n          <msqrt>\n            <mi>x</mi>\n          </msqrt>\n          <mo>−</mo>\n          <mn>21</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n          <msqrt>\n            <mi>x</mi>\n          </msqrt>\n          <mo>−</mo>\n          <mn>21</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 175,
+      "anchor": "fs-id1167836391104",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(6 x + \\sqrt{x} - 2 = 0\\)",
+      "math": [
+        "6 x + \\sqrt{x} - 2 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <msqrt>\n            <mi>x</mi>\n          </msqrt>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <msqrt>\n            <mi>x</mi>\n          </msqrt>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 176,
+      "anchor": "fs-id1167836391718",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(6 x + \\sqrt{x} - 1 = 0\\)",
+      "math": [
+        "6 x + \\sqrt{x} - 1 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <msqrt>\n            <mi>x</mi>\n          </msqrt>\n          <mo>−</mo>\n          <mn>1</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <msqrt>\n            <mi>x</mi>\n          </msqrt>\n          <mo>−</mo>\n          <mn>1</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 177,
+      "anchor": "fs-id1167836323284",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(10 x - 17 \\sqrt{x} + 3 = 0\\)",
+      "math": [
+        "10 x - 17 \\sqrt{x} + 3 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>10</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>17</mn>\n          <msqrt>\n            <mi>x</mi>\n          </msqrt>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>10</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>17</mn>\n          <msqrt>\n            <mi>x</mi>\n          </msqrt>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 178,
+      "anchor": "fs-id1167833082053",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(12 x + 5 \\sqrt{x} - 3 = 0\\)",
+      "math": [
+        "12 x + 5 \\sqrt{x} - 3 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>12</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n          <msqrt>\n            <mi>x</mi>\n          </msqrt>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>12</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n          <msqrt>\n            <mi>x</mi>\n          </msqrt>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 179,
+      "anchor": "fs-id1167836492727",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\({x}^{ \\frac{2}{3} } + 9 {x}^{ \\frac{1}{3} } + 8 = 0\\)",
+      "math": [
+        "{x}^{ \\frac{2}{3} } + 9 {x}^{ \\frac{1}{3} } + 8 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>+</mo>\n          <mn>9</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>+</mo>\n          <mn>9</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 180,
+      "anchor": "fs-id1167836612020",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\({x}^{ \\frac{2}{3} } - 3 {x}^{ \\frac{1}{3} } = 28\\)",
+      "math": [
+        "{x}^{ \\frac{2}{3} } - 3 {x}^{ \\frac{1}{3} } = 28"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>28</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>28</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 181,
+      "anchor": "fs-id1167836756609",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\({x}^{ \\frac{2}{3} } + 4 {x}^{ \\frac{1}{3} } = 12\\)",
+      "math": [
+        "{x}^{ \\frac{2}{3} } + 4 {x}^{ \\frac{1}{3} } = 12"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>12</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>12</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 182,
+      "anchor": "fs-id1167833025488",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\({x}^{ \\frac{2}{3} } - 11 {x}^{ \\frac{1}{3} } + 30 = 0\\)",
+      "math": [
+        "{x}^{ \\frac{2}{3} } - 11 {x}^{ \\frac{1}{3} } + 30 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>−</mo>\n          <mn>11</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>+</mo>\n          <mn>30</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>−</mo>\n          <mn>11</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>+</mo>\n          <mn>30</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 183,
+      "anchor": "fs-id1167829745221",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(6 {x}^{ \\frac{2}{3} } - {x}^{ \\frac{1}{3} } = 12\\)",
+      "math": [
+        "6 {x}^{ \\frac{2}{3} } - {x}^{ \\frac{1}{3} } = 12"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>6</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>−</mo>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>12</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>6</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>−</mo>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>12</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 184,
+      "anchor": "fs-id1167836522254",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(3 {x}^{ \\frac{2}{3} } - 10 {x}^{ \\frac{1}{3} } = 8\\)",
+      "math": [
+        "3 {x}^{ \\frac{2}{3} } - 10 {x}^{ \\frac{1}{3} } = 8"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>−</mo>\n          <mn>10</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>8</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>−</mo>\n          <mn>10</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>8</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 185,
+      "anchor": "fs-id1167829748135",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(8 {x}^{ \\frac{2}{3} } - 43 {x}^{ \\frac{1}{3} } + 15 = 0\\)",
+      "math": [
+        "8 {x}^{ \\frac{2}{3} } - 43 {x}^{ \\frac{1}{3} } + 15 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>8</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>−</mo>\n          <mn>43</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>+</mo>\n          <mn>15</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>8</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>−</mo>\n          <mn>43</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>+</mo>\n          <mn>15</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 186,
+      "anchor": "fs-id1167836480304",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(20 {x}^{ \\frac{2}{3} } - 23 {x}^{ \\frac{1}{3} } + 6 = 0\\)",
+      "math": [
+        "20 {x}^{ \\frac{2}{3} } - 23 {x}^{ \\frac{1}{3} } + 6 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>20</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>−</mo>\n          <mn>23</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>20</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>−</mo>\n          <mn>23</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 187,
+      "anchor": "fs-id1167826131782",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(x - 8 {x}^{ \\frac{1}{2} } + 7 = 0\\)",
+      "math": [
+        "x - 8 {x}^{ \\frac{1}{2} } + 7 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>8</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>2</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>8</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>2</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 188,
+      "anchor": "fs-id1167836553976",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(2 x - 7 {x}^{ \\frac{1}{2} } = 15\\)",
+      "math": [
+        "2 x - 7 {x}^{ \\frac{1}{2} } = 15"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>7</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>2</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>15</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>7</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>2</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>15</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 189,
+      "anchor": "fs-id1167829721215",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(6 {x}^{ -2 } + 13 {x}^{ -1 } + 5 = 0\\)",
+      "math": [
+        "6 {x}^{ -2 } + 13 {x}^{ -1 } + 5 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>6</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mn>−2</mn>\n            </mrow>\n          </msup>\n          <mo>+</mo>\n          <mn>13</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mn>−1</mn>\n            </mrow>\n          </msup>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>6</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mn>−2</mn>\n            </mrow>\n          </msup>\n          <mo>+</mo>\n          <mn>13</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mn>−1</mn>\n            </mrow>\n          </msup>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 190,
+      "anchor": "fs-id1167824734801",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(15 {x}^{ -2 } - 26 {x}^{ -1 } + 8 = 0\\)",
+      "math": [
+        "15 {x}^{ -2 } - 26 {x}^{ -1 } + 8 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>15</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mn>−2</mn>\n            </mrow>\n          </msup>\n          <mo>−</mo>\n          <mn>26</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mn>−1</mn>\n            </mrow>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>15</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mn>−2</mn>\n            </mrow>\n          </msup>\n          <mo>−</mo>\n          <mn>26</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mn>−1</mn>\n            </mrow>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 191,
+      "anchor": "fs-id1167836356048",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(8 {x}^{ -2 } - 2 {x}^{ -1 } - 3 = 0\\)",
+      "math": [
+        "8 {x}^{ -2 } - 2 {x}^{ -1 } - 3 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>8</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mn>−2</mn>\n            </mrow>\n          </msup>\n          <mo>−</mo>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mn>−1</mn>\n            </mrow>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>8</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mn>−2</mn>\n            </mrow>\n          </msup>\n          <mo>−</mo>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mn>−1</mn>\n            </mrow>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 192,
+      "anchor": "fs-id1167836367159",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Solve Equations in Quadratic Form",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(15 {x}^{ -2 } - 4 {x}^{ -1 } - 4 = 0\\)",
+      "math": [
+        "15 {x}^{ -2 } - 4 {x}^{ -1 } - 4 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>15</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mn>−2</mn>\n            </mrow>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mn>−1</mn>\n            </mrow>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>15</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mn>−2</mn>\n            </mrow>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mn>−1</mn>\n            </mrow>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 193,
+      "anchor": "fs-id1167829750381",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain how to recognize an equation in quadratic form.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 194,
+      "anchor": "fs-id1167833328888",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain the procedure for solving an equation in quadratic form.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "9.59",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "is_try_it": true,
+      "anchor": "fs-id1167829931396",
+      "context": [
+        "Solve Equations in Quadratic Form"
+      ],
+      "text": "Solve: \\({x}^{4}-6{x}^{2}+8=0\\).",
+      "math": [
+        "{x}^{4}-6{x}^{2}+8=0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>4</mn></msup><mo>−</mo><mn>6</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>4</mn></msup><mo>−</mo><mn>6</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.60",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "is_try_it": true,
+      "anchor": "fs-id1167824585372",
+      "context": [
+        "Solve Equations in Quadratic Form"
+      ],
+      "text": "Solve: \\({x}^{4}-11{x}^{2}+28=0\\).",
+      "math": [
+        "{x}^{4}-11{x}^{2}+28=0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>4</mn></msup><mo>−</mo><mn>11</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>28</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>4</mn></msup><mo>−</mo><mn>11</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>28</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.61",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "is_try_it": true,
+      "anchor": "fs-id1167829849616",
+      "context": [
+        "Solve Equations in Quadratic Form"
+      ],
+      "text": "Solve: \\({(x-5)}^{2}+6(x-5)+8=0.\\)",
+      "math": [
+        "{(x-5)}^{2}+6(x-5)+8=0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>5</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>+</mo><mn>6</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>5</mn></mrow><mo>)</mo></mrow><mo>+</mo><mn>8</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>5</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>+</mo><mn>6</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>5</mn></mrow><mo>)</mo></mrow><mo>+</mo><mn>8</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.62",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "is_try_it": true,
+      "anchor": "fs-id1167833017969",
+      "context": [
+        "Solve Equations in Quadratic Form"
+      ],
+      "text": "Solve: \\({(y-4)}^{2}+8(y-4)+15=0.\\)",
+      "math": [
+        "{(y-4)}^{2}+8(y-4)+15=0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>+</mo><mn>8</mn><mrow><mo>(</mo><mrow><mi>y</mi><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>+</mo><mn>15</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>+</mo><mn>8</mn><mrow><mo>(</mo><mrow><mi>y</mi><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>+</mo><mn>15</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.63",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "is_try_it": true,
+      "anchor": "fs-id1167826152334",
+      "context": [
+        "Solve Equations in Quadratic Form"
+      ],
+      "text": "Solve: \\(x-7\\sqrt{x}+12=0.\\)",
+      "math": [
+        "x-7\\sqrt{x}+12=0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>−</mo><mn>7</mn><msqrt><mi>x</mi></msqrt><mo>+</mo><mn>12</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>−</mo><mn>7</mn><msqrt><mi>x</mi></msqrt><mo>+</mo><mn>12</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.64",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "is_try_it": true,
+      "anchor": "fs-id1167836775158",
+      "context": [
+        "Solve Equations in Quadratic Form"
+      ],
+      "text": "Solve: \\(x-6\\sqrt{x}+8=0.\\)",
+      "math": [
+        "x-6\\sqrt{x}+8=0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>−</mo><mn>6</mn><msqrt><mi>x</mi></msqrt><mo>+</mo><mn>8</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>−</mo><mn>6</mn><msqrt><mi>x</mi></msqrt><mo>+</mo><mn>8</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.65",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "is_try_it": true,
+      "anchor": "fs-id1167829599191",
+      "context": [
+        "Solve Equations in Quadratic Form"
+      ],
+      "text": "Solve: \\({x}^{\\frac{2}{3}}-5{x}^{\\frac{1}{3}}-14=0.\\)",
+      "math": [
+        "{x}^{\\frac{2}{3}}-5{x}^{\\frac{1}{3}}-14=0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mrow><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></msup><mo>−</mo><mn>5</mn><msup><mi>x</mi><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup><mo>−</mo><mn>14</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mrow><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></msup><mo>−</mo><mn>5</mn><msup><mi>x</mi><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup><mo>−</mo><mn>14</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.66",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "is_try_it": true,
+      "anchor": "fs-id1167824765299",
+      "context": [
+        "Solve Equations in Quadratic Form"
+      ],
+      "text": "Solve: \\({x}^{\\frac{1}{2}}-8{x}^{\\frac{1}{4}}+15=0.\\)",
+      "math": [
+        "{x}^{\\frac{1}{2}}-8{x}^{\\frac{1}{4}}+15=0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup><mo>−</mo><mn>8</mn><msup><mi>x</mi><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup><mo>+</mo><mn>15</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup><mo>−</mo><mn>8</mn><msup><mi>x</mi><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup><mo>+</mo><mn>15</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.67",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "is_try_it": true,
+      "anchor": "fs-id1167836554174",
+      "context": [
+        "Solve Equations in Quadratic Form"
+      ],
+      "text": "Solve: \\(8{x}^{-2}-10{x}^{-1}+3=0.\\)",
+      "math": [
+        "8{x}^{-2}-10{x}^{-1}+3=0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>8</mn><msup><mi>x</mi><mrow><mn>−2</mn></mrow></msup><mo>−</mo><mn>10</mn><msup><mi>x</mi><mrow><mn>−1</mn></mrow></msup><mo>+</mo><mn>3</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>8</mn><msup><mi>x</mi><mrow><mn>−2</mn></mrow></msup><mo>−</mo><mn>10</mn><msup><mi>x</mi><mrow><mn>−1</mn></mrow></msup><mo>+</mo><mn>3</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.68",
+      "page": "9-4-solve-equations-in-quadratic-form",
+      "is_try_it": true,
+      "anchor": "fs-id1167833024591",
+      "context": [
+        "Solve Equations in Quadratic Form"
+      ],
+      "text": "Solve: \\(6{x}^{-2}-23{x}^{-1}+20=0.\\)",
+      "math": [
+        "6{x}^{-2}-23{x}^{-1}+20=0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>6</mn><msup><mi>x</mi><mrow><mn>−2</mn></mrow></msup><mo>−</mo><mn>23</mn><msup><mi>x</mi><mrow><mn>−1</mn></mrow></msup><mo>+</mo><mn>20</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>6</mn><msup><mi>x</mi><mrow><mn>−2</mn></mrow></msup><mo>−</mo><mn>23</mn><msup><mi>x</mi><mrow><mn>−1</mn></mrow></msup><mo>+</mo><mn>20</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

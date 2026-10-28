@@ -1,0 +1,1026 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/11-3-ellipses",
+  "title": "11.3 Ellipses",
+  "sha256": "9e5ad23cd1e2a47416c70db3fd7c66ca35dfd4c7b30e672bacaef49866519510",
+  "questions": [
+    {
+      "number": 99,
+      "anchor": "fs-id1163872829148",
+      "page": "11-3-ellipses",
+      "context": [
+        "Graph an Ellipse with Center at the Origin",
+        "In the following exercises, graph each ellipse."
+      ],
+      "text": "\\(\\frac{ {x}^{2} }{4} + \\frac{ {y}^{2} }{ 25 } = 1\\)",
+      "math": [
+        "\\frac{ {x}^{2} }{4} + \\frac{ {y}^{2} }{ 25 } = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>4</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>4</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 100,
+      "anchor": "fs-id1163871997735",
+      "page": "11-3-ellipses",
+      "context": [
+        "Graph an Ellipse with Center at the Origin",
+        "In the following exercises, graph each ellipse."
+      ],
+      "text": "\\(\\frac{ {x}^{2} }{9} + \\frac{ {y}^{2} }{ 25 } = 1\\)",
+      "math": [
+        "\\frac{ {x}^{2} }{9} + \\frac{ {y}^{2} }{ 25 } = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 101,
+      "anchor": "fs-id1163872709615",
+      "page": "11-3-ellipses",
+      "context": [
+        "Graph an Ellipse with Center at the Origin",
+        "In the following exercises, graph each ellipse."
+      ],
+      "text": "\\(\\frac{ {x}^{2} }{ 25 } + \\frac{ {y}^{2} }{ 36 } = 1\\)",
+      "math": [
+        "\\frac{ {x}^{2} }{ 25 } + \\frac{ {y}^{2} }{ 36 } = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>36</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>36</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 102,
+      "anchor": "fs-id1163872110892",
+      "page": "11-3-ellipses",
+      "context": [
+        "Graph an Ellipse with Center at the Origin",
+        "In the following exercises, graph each ellipse."
+      ],
+      "text": "\\(\\frac{ {x}^{2} }{ 16 } + \\frac{ {y}^{2} }{ 36 } = 1\\)",
+      "math": [
+        "\\frac{ {x}^{2} }{ 16 } + \\frac{ {y}^{2} }{ 36 } = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>36</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>36</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 103,
+      "anchor": "fs-id1163872514193",
+      "page": "11-3-ellipses",
+      "context": [
+        "Graph an Ellipse with Center at the Origin",
+        "In the following exercises, graph each ellipse."
+      ],
+      "text": "\\(\\frac{ {x}^{2} }{ 36 } + \\frac{ {y}^{2} }{ 16 } = 1\\)",
+      "math": [
+        "\\frac{ {x}^{2} }{ 36 } + \\frac{ {y}^{2} }{ 16 } = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>36</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>36</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 104,
+      "anchor": "fs-id1163872531832",
+      "page": "11-3-ellipses",
+      "context": [
+        "Graph an Ellipse with Center at the Origin",
+        "In the following exercises, graph each ellipse."
+      ],
+      "text": "\\(\\frac{ {x}^{2} }{ 25 } + \\frac{ {y}^{2} }{9} = 1\\)",
+      "math": [
+        "\\frac{ {x}^{2} }{ 25 } + \\frac{ {y}^{2} }{9} = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 105,
+      "anchor": "fs-id1163872611075",
+      "page": "11-3-ellipses",
+      "context": [
+        "Graph an Ellipse with Center at the Origin",
+        "In the following exercises, graph each ellipse."
+      ],
+      "text": "\\({x}^{2} + \\frac{ {y}^{2} }{4} = 1\\)",
+      "math": [
+        "{x}^{2} + \\frac{ {y}^{2} }{4} = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>4</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>4</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 106,
+      "anchor": "fs-id1163872768883",
+      "page": "11-3-ellipses",
+      "context": [
+        "Graph an Ellipse with Center at the Origin",
+        "In the following exercises, graph each ellipse."
+      ],
+      "text": "\\(\\frac{ {x}^{2} }{9} + {y}^{2} = 1\\)",
+      "math": [
+        "\\frac{ {x}^{2} }{9} + {y}^{2} = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n          <mo>+</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n          <mo>+</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 107,
+      "anchor": "fs-id1163865848463",
+      "page": "11-3-ellipses",
+      "context": [
+        "Graph an Ellipse with Center at the Origin",
+        "In the following exercises, graph each ellipse."
+      ],
+      "text": "\\(4 {x}^{2} + 25 {y}^{2} = 100\\)",
+      "math": [
+        "4 {x}^{2} + 25 {y}^{2} = 100"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>25</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>100</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>25</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>100</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 108,
+      "anchor": "fs-id1163872536189",
+      "page": "11-3-ellipses",
+      "context": [
+        "Graph an Ellipse with Center at the Origin",
+        "In the following exercises, graph each ellipse."
+      ],
+      "text": "\\(16 {x}^{2} + 9 {y}^{2} = 144\\)",
+      "math": [
+        "16 {x}^{2} + 9 {y}^{2} = 144"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>16</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>9</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>144</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>16</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>9</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>144</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 109,
+      "anchor": "fs-id1163871868040",
+      "page": "11-3-ellipses",
+      "context": [
+        "Graph an Ellipse with Center at the Origin",
+        "In the following exercises, graph each ellipse."
+      ],
+      "text": "\\(16 {x}^{2} + 36 {y}^{2} = 576\\)",
+      "math": [
+        "16 {x}^{2} + 36 {y}^{2} = 576"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>16</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>36</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>576</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>16</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>36</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>576</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 110,
+      "anchor": "fs-id1163872768062",
+      "page": "11-3-ellipses",
+      "context": [
+        "Graph an Ellipse with Center at the Origin",
+        "In the following exercises, graph each ellipse."
+      ],
+      "text": "\\(9 {x}^{2} + 25 {y}^{2} = 225\\)",
+      "math": [
+        "9 {x}^{2} + 25 {y}^{2} = 225"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>9</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>25</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>225</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>9</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>25</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>225</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 111,
+      "anchor": "fs-id1163868451657",
+      "page": "11-3-ellipses",
+      "context": [
+        "Find the Equation of an Ellipse with Center at the Origin",
+        "In the following exercises, find the equation of the ellipse shown in the graph."
+      ],
+      "text": "[FIGURA: This graph shows an ellipse with center (0, 0), vertices (0, 5) and (0, negative 5) and endpoints of minor axis (negative 3, 0) and (3, 0).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This graph shows an ellipse with center (0, 0), vertices (0, 5) and (0, negative 5) and endpoints of minor axis (negative 3, 0) and (3, 0)."
+      ]
+    },
+    {
+      "number": 112,
+      "anchor": "fs-id1163871710691",
+      "page": "11-3-ellipses",
+      "context": [
+        "Find the Equation of an Ellipse with Center at the Origin",
+        "In the following exercises, find the equation of the ellipse shown in the graph."
+      ],
+      "text": "[FIGURA: This graph shows an ellipse with center (0, 0), vertices (5, 0) and (negative 5, 0) and endpoints of minor axis (0, 2) and (0, negative 2).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This graph shows an ellipse with center (0, 0), vertices (5, 0) and (negative 5, 0) and endpoints of minor axis (0, 2) and (0, negative 2)."
+      ]
+    },
+    {
+      "number": 113,
+      "anchor": "fs-id1163871874103",
+      "page": "11-3-ellipses",
+      "context": [
+        "Find the Equation of an Ellipse with Center at the Origin",
+        "In the following exercises, find the equation of the ellipse shown in the graph."
+      ],
+      "text": "[FIGURA: This graph shows an ellipse with center (0, 0), vertices (0, 4) and (0, negative 4) and endpoints of minor axis (negative 3, 0) and (3, 0).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This graph shows an ellipse with center (0, 0), vertices (0, 4) and (0, negative 4) and endpoints of minor axis (negative 3, 0) and (3, 0)."
+      ]
+    },
+    {
+      "number": 114,
+      "anchor": "fs-id1163872768251",
+      "page": "11-3-ellipses",
+      "context": [
+        "Find the Equation of an Ellipse with Center at the Origin",
+        "In the following exercises, find the equation of the ellipse shown in the graph."
+      ],
+      "text": "[FIGURA: This graph shows an ellipse with center (0, 0), vertices (0, 6) and (0, negative 6) and endpoints of minor axis (negative 4, 0) and (4, 0).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This graph shows an ellipse with center (0, 0), vertices (0, 6) and (0, negative 6) and endpoints of minor axis (negative 4, 0) and (4, 0)."
+      ]
+    },
+    {
+      "number": 115,
+      "anchor": "fs-id1163872418395",
+      "page": "11-3-ellipses",
+      "context": [
+        "Graph an Ellipse with Center Not at the Origin",
+        "In the following exercises, graph each ellipse."
+      ],
+      "text": "\\(\\frac{ { ( x + 1 ) }^{2} }{4} + \\frac{ { ( y + 6 ) }^{2} }{ 25 } = 1\\)",
+      "math": [
+        "\\frac{ { ( x + 1 ) }^{2} }{4} + \\frac{ { ( y + 6 ) }^{2} }{ 25 } = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>+</mo>\n                      <mn>1</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>4</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>+</mo>\n                      <mn>6</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>+</mo>\n                      <mn>1</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>4</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>+</mo>\n                      <mn>6</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 116,
+      "anchor": "fs-id1163872570186",
+      "page": "11-3-ellipses",
+      "context": [
+        "Graph an Ellipse with Center Not at the Origin",
+        "In the following exercises, graph each ellipse."
+      ],
+      "text": "\\(\\frac{ { ( x - 3 ) }^{2} }{ 25 } + \\frac{ { ( y + 2 ) }^{2} }{9} = 1\\)",
+      "math": [
+        "\\frac{ { ( x - 3 ) }^{2} }{ 25 } + \\frac{ { ( y + 2 ) }^{2} }{9} = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>−</mo>\n                      <mn>3</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>+</mo>\n                      <mn>2</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>−</mo>\n                      <mn>3</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>+</mo>\n                      <mn>2</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 117,
+      "anchor": "fs-id1163872842208",
+      "page": "11-3-ellipses",
+      "context": [
+        "Graph an Ellipse with Center Not at the Origin",
+        "In the following exercises, graph each ellipse."
+      ],
+      "text": "\\(\\frac{ { ( x + 4 ) }^{2} }{4} + \\frac{ { ( y - 2 ) }^{2} }{9} = 1\\)",
+      "math": [
+        "\\frac{ { ( x + 4 ) }^{2} }{4} + \\frac{ { ( y - 2 ) }^{2} }{9} = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>+</mo>\n                      <mn>4</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>4</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>−</mo>\n                      <mn>2</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>+</mo>\n                      <mn>4</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>4</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>−</mo>\n                      <mn>2</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 118,
+      "anchor": "fs-id1163872448776",
+      "page": "11-3-ellipses",
+      "context": [
+        "Graph an Ellipse with Center Not at the Origin",
+        "In the following exercises, graph each ellipse."
+      ],
+      "text": "\\(\\frac{ { ( x - 4 ) }^{2} }{9} + \\frac{ { ( y - 1 ) }^{2} }{ 16 } = 1\\)",
+      "math": [
+        "\\frac{ { ( x - 4 ) }^{2} }{9} + \\frac{ { ( y - 1 ) }^{2} }{ 16 } = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>−</mo>\n                      <mn>4</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>−</mo>\n                      <mn>1</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>−</mo>\n                      <mn>4</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>−</mo>\n                      <mn>1</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 119,
+      "anchor": "fs-id1163871783180",
+      "page": "11-3-ellipses",
+      "context": [
+        "In the following exercises, graph each ellipse.",
+        "In the following exercises, graph each equation by translation."
+      ],
+      "text": "\\(\\frac{ { ( x - 3 ) }^{2} }{4} + \\frac{ { ( y - 7 ) }^{2} }{ 25 } = 1\\)",
+      "math": [
+        "\\frac{ { ( x - 3 ) }^{2} }{4} + \\frac{ { ( y - 7 ) }^{2} }{ 25 } = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>−</mo>\n                      <mn>3</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>4</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>−</mo>\n                      <mn>7</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>−</mo>\n                      <mn>3</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>4</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>−</mo>\n                      <mn>7</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 120,
+      "anchor": "fs-id1163871882005",
+      "page": "11-3-ellipses",
+      "context": [
+        "In the following exercises, graph each ellipse.",
+        "In the following exercises, graph each equation by translation."
+      ],
+      "text": "\\(\\frac{ { ( x + 6 ) }^{2} }{ 16 } + \\frac{ { ( y + 5 ) }^{2} }{4} = 1\\)",
+      "math": [
+        "\\frac{ { ( x + 6 ) }^{2} }{ 16 } + \\frac{ { ( y + 5 ) }^{2} }{4} = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>+</mo>\n                      <mn>6</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>+</mo>\n                      <mn>5</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>4</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>+</mo>\n                      <mn>6</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>+</mo>\n                      <mn>5</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>4</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 121,
+      "anchor": "fs-id1163871927127",
+      "page": "11-3-ellipses",
+      "context": [
+        "In the following exercises, graph each ellipse.",
+        "In the following exercises, graph each equation by translation."
+      ],
+      "text": "\\(\\frac{ { ( x - 5 ) }^{2} }{9} + \\frac{ { ( y + 4 ) }^{2} }{ 25 } = 1\\)",
+      "math": [
+        "\\frac{ { ( x - 5 ) }^{2} }{9} + \\frac{ { ( y + 4 ) }^{2} }{ 25 } = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>−</mo>\n                      <mn>5</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>+</mo>\n                      <mn>4</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>−</mo>\n                      <mn>5</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>+</mo>\n                      <mn>4</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 122,
+      "anchor": "fs-id1163872510998",
+      "page": "11-3-ellipses",
+      "context": [
+        "In the following exercises, graph each ellipse.",
+        "In the following exercises, graph each equation by translation."
+      ],
+      "text": "\\(\\frac{ { ( x + 5 ) }^{2} }{ 36 } + \\frac{ { ( y - 3 ) }^{2} }{ 16 } = 1\\)",
+      "math": [
+        "\\frac{ { ( x + 5 ) }^{2} }{ 36 } + \\frac{ { ( y - 3 ) }^{2} }{ 16 } = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>+</mo>\n                      <mn>5</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>36</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>−</mo>\n                      <mn>3</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>+</mo>\n                      <mn>5</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>36</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>−</mo>\n                      <mn>3</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 123,
+      "anchor": "fs-id1163872693587",
+      "page": "11-3-ellipses",
+      "context": [
+        "In the following exercises, graph each equation by translation.",
+        "In the following exercises, ⓐ write the equation in standard form and ⓑ graph."
+      ],
+      "text": "\\(25 {x}^{2} + 9 {y}^{2} - 100 x - 54 y - 44 = 0\\)",
+      "math": [
+        "25 {x}^{2} + 9 {y}^{2} - 100 x - 54 y - 44 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>25</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>9</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>100</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>54</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>44</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>25</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>9</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>100</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>54</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>44</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 124,
+      "anchor": "fs-id1163872841555",
+      "page": "11-3-ellipses",
+      "context": [
+        "In the following exercises, graph each equation by translation.",
+        "In the following exercises, ⓐ write the equation in standard form and ⓑ graph."
+      ],
+      "text": "\\(4 {x}^{2} + 25 {y}^{2} + 8 x + 100 y + 4 = 0\\)",
+      "math": [
+        "4 {x}^{2} + 25 {y}^{2} + 8 x + 100 y + 4 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>25</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>100</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>25</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>100</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 125,
+      "anchor": "fs-id1163871704288",
+      "page": "11-3-ellipses",
+      "context": [
+        "In the following exercises, graph each equation by translation.",
+        "In the following exercises, ⓐ write the equation in standard form and ⓑ graph."
+      ],
+      "text": "\\(4 {x}^{2} + 25 {y}^{2} - 24 x - 64 = 0\\)",
+      "math": [
+        "4 {x}^{2} + 25 {y}^{2} - 24 x - 64 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>25</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>24</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>64</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>25</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>24</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>64</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 126,
+      "anchor": "fs-id1163872515061",
+      "page": "11-3-ellipses",
+      "context": [
+        "In the following exercises, graph each equation by translation.",
+        "In the following exercises, ⓐ write the equation in standard form and ⓑ graph."
+      ],
+      "text": "\\(9 {x}^{2} + 4 {y}^{2} + 56 y + 160 = 0\\)",
+      "math": [
+        "9 {x}^{2} + 4 {y}^{2} + 56 y + 160 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>9</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>56</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>160</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>9</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>56</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>160</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 127,
+      "anchor": "fs-id1163872400116",
+      "page": "11-3-ellipses",
+      "context": [
+        "In the following exercises, ⓐ write the equation in standard form and ⓑ graph.",
+        "In the following exercises, graph the equation."
+      ],
+      "text": "\\(x = -2 { ( y - 1 ) }^{2} + 2\\)",
+      "math": [
+        "x = -2 { ( y - 1 ) }^{2} + 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>−2</mn>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>−2</mn>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 128,
+      "anchor": "fs-id1163866047685",
+      "page": "11-3-ellipses",
+      "context": [
+        "In the following exercises, ⓐ write the equation in standard form and ⓑ graph.",
+        "In the following exercises, graph the equation."
+      ],
+      "text": "\\({x}^{2} + {y}^{2} = 49\\)",
+      "math": [
+        "{x}^{2} + {y}^{2} = 49"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>49</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>49</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 129,
+      "anchor": "fs-id1163872600142",
+      "page": "11-3-ellipses",
+      "context": [
+        "In the following exercises, ⓐ write the equation in standard form and ⓑ graph.",
+        "In the following exercises, graph the equation."
+      ],
+      "text": "\\({ ( x + 5 ) }^{2} + { ( y + 2 ) }^{2} = 4\\)",
+      "math": [
+        "{ ( x + 5 ) }^{2} + { ( y + 2 ) }^{2} = 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 130,
+      "anchor": "fs-id1163872664239",
+      "page": "11-3-ellipses",
+      "context": [
+        "In the following exercises, ⓐ write the equation in standard form and ⓑ graph.",
+        "In the following exercises, graph the equation."
+      ],
+      "text": "\\(y = - {x}^{2} + 8 x - 15\\)",
+      "math": [
+        "y = - {x}^{2} + 8 x - 15"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>15</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>15</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 131,
+      "anchor": "fs-id1163871756540",
+      "page": "11-3-ellipses",
+      "context": [
+        "In the following exercises, ⓐ write the equation in standard form and ⓑ graph.",
+        "In the following exercises, graph the equation."
+      ],
+      "text": "\\(\\frac{ { ( x + 3 ) }^{2} }{ 16 } + \\frac{ { ( y + 1 ) }^{2} }{4} = 1\\)",
+      "math": [
+        "\\frac{ { ( x + 3 ) }^{2} }{ 16 } + \\frac{ { ( y + 1 ) }^{2} }{4} = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>+</mo>\n                      <mn>3</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>+</mo>\n                      <mn>1</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>4</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>+</mo>\n                      <mn>3</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>+</mo>\n                      <mn>1</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>4</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 132,
+      "anchor": "fs-id1163872557744",
+      "page": "11-3-ellipses",
+      "context": [
+        "In the following exercises, ⓐ write the equation in standard form and ⓑ graph.",
+        "In the following exercises, graph the equation."
+      ],
+      "text": "\\({ ( x - 2 ) }^{2} + { ( y - 3 ) }^{2} = 9\\)",
+      "math": [
+        "{ ( x - 2 ) }^{2} + { ( y - 3 ) }^{2} = 9"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>9</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>9</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 133,
+      "anchor": "fs-id1163872629661",
+      "page": "11-3-ellipses",
+      "context": [
+        "In the following exercises, ⓐ write the equation in standard form and ⓑ graph.",
+        "In the following exercises, graph the equation."
+      ],
+      "text": "\\(\\frac{ {x}^{2} }{ 25 } + \\frac{ {y}^{2} }{ 36 } = 1\\)",
+      "math": [
+        "\\frac{ {x}^{2} }{ 25 } + \\frac{ {y}^{2} }{ 36 } = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>36</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>36</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 134,
+      "anchor": "fs-id1163871866286",
+      "page": "11-3-ellipses",
+      "context": [
+        "In the following exercises, ⓐ write the equation in standard form and ⓑ graph.",
+        "In the following exercises, graph the equation."
+      ],
+      "text": "\\(x = 4 { ( y + 1 ) }^{2} - 4\\)",
+      "math": [
+        "x = 4 { ( y + 1 ) }^{2} - 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>4</mn>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>4</mn>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 135,
+      "anchor": "fs-id1163871908392",
+      "page": "11-3-ellipses",
+      "context": [
+        "In the following exercises, ⓐ write the equation in standard form and ⓑ graph.",
+        "In the following exercises, graph the equation."
+      ],
+      "text": "\\({x}^{2} + {y}^{2} = 64\\)",
+      "math": [
+        "{x}^{2} + {y}^{2} = 64"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>64</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>64</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 136,
+      "anchor": "fs-id1163871870368",
+      "page": "11-3-ellipses",
+      "context": [
+        "In the following exercises, ⓐ write the equation in standard form and ⓑ graph.",
+        "In the following exercises, graph the equation."
+      ],
+      "text": "\\(\\frac{ {x}^{2} }{9} + \\frac{ {y}^{2} }{ 25 } = 1\\)",
+      "math": [
+        "\\frac{ {x}^{2} }{9} + \\frac{ {y}^{2} }{ 25 } = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 137,
+      "anchor": "fs-id1163872560516",
+      "page": "11-3-ellipses",
+      "context": [
+        "In the following exercises, ⓐ write the equation in standard form and ⓑ graph.",
+        "In the following exercises, graph the equation."
+      ],
+      "text": "\\(y = 6 {x}^{2} + 2 x - 1\\)",
+      "math": [
+        "y = 6 {x}^{2} + 2 x - 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>6</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>6</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 138,
+      "anchor": "fs-id1163872940076",
+      "page": "11-3-ellipses",
+      "context": [
+        "In the following exercises, ⓐ write the equation in standard form and ⓑ graph.",
+        "In the following exercises, graph the equation."
+      ],
+      "text": "\\(\\frac{ { ( x - 2 ) }^{2} }{9} + \\frac{ { ( y + 3 ) }^{2} }{ 25 } = 1\\)",
+      "math": [
+        "\\frac{ { ( x - 2 ) }^{2} }{9} + \\frac{ { ( y + 3 ) }^{2} }{ 25 } = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>−</mo>\n                      <mn>2</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>+</mo>\n                      <mn>3</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>x</mi>\n                      <mo>−</mo>\n                      <mn>2</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mn>9</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mi>y</mi>\n                      <mo>+</mo>\n                      <mn>3</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 139,
+      "anchor": "fs-id1163871987462",
+      "page": "11-3-ellipses",
+      "context": [
+        "In the following exercises, graph the equation.",
+        "Solve Application with Ellipses"
+      ],
+      "text": "A planet moves in an elliptical orbit around its sun. The closest the planet gets to the sun is approximately 10 AU and the furthest is approximately 30 AU. The sun is one of the foci of the elliptical orbit. Letting the ellipse center at the origin and labeling the axes in AU, the orbit will look like the figure below. Use the graph to write an equation for the elliptical orbit of the planet. [FIGURA: This graph shows an ellipse with center (0, 0), vertices (negative 20, 0) and (20, 0). The sun is shown at point (10, 0), which is 30 units from the left vertex and 10 units from the right vertex.]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This graph shows an ellipse with center (0, 0), vertices (negative 20, 0) and (20, 0). The sun is shown at point (10, 0), which is 30 units from the left vertex and 10 units from the right vertex."
+      ]
+    },
+    {
+      "number": 140,
+      "anchor": "fs-id1163872435929",
+      "page": "11-3-ellipses",
+      "context": [
+        "In the following exercises, graph the equation.",
+        "Solve Application with Ellipses"
+      ],
+      "text": "A planet moves in an elliptical orbit around its sun. The closest the planet gets to the sun is approximately 10 AU and the furthest is approximately 70 AU. The sun is one of the foci of the elliptical orbit. Letting the ellipse center at the origin and labeling the axes in AU, the orbit will look like the figure below. Use the graph to write an equation for the elliptical orbit of the planet. [FIGURA: This graph shows an ellipse with center (0, 0), vertices (negative 40, 0) and (40, 0). The sun is shown at point (30, 0), which is 70 units from the left vertex and 10 units from the right vertex.]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This graph shows an ellipse with center (0, 0), vertices (negative 40, 0) and (40, 0). The sun is shown at point (30, 0), which is 70 units from the left vertex and 10 units from the right vertex."
+      ]
+    },
+    {
+      "number": 141,
+      "anchor": "fs-id1163871895792",
+      "page": "11-3-ellipses",
+      "context": [
+        "In the following exercises, graph the equation.",
+        "Solve Application with Ellipses"
+      ],
+      "text": "A comet moves in an elliptical orbit around a sun. The closest the comet gets to the sun is approximately 15 AU and the furthest is approximately 85 AU. The sun is one of the foci of the elliptical orbit. Letting the ellipse center at the origin and labeling the axes in AU, the orbit will look like the figure below. Use the graph to write an equation for the elliptical orbit of the comet. [FIGURA: This graph shows an ellipse with center (0, 0), vertices (negative 50, 0) and (50, 0). The sun is shown at point (35, 0), which is 85 units from the left vertex and 15 units from the right vertex.]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This graph shows an ellipse with center (0, 0), vertices (negative 50, 0) and (50, 0). The sun is shown at point (35, 0), which is 85 units from the left vertex and 15 units from the right vertex."
+      ]
+    },
+    {
+      "number": 142,
+      "anchor": "fs-id1163872748963",
+      "page": "11-3-ellipses",
+      "context": [
+        "In the following exercises, graph the equation.",
+        "Solve Application with Ellipses"
+      ],
+      "text": "A comet moves in an elliptical orbit around a sun. The closest the comet gets to the sun is approximately 15 AU and the furthest is approximately 95 AU. The sun is one of the foci of the elliptical orbit. Letting the ellipse center at the origin and labeling the axes in AU, the orbit will look like the figure below. Use the graph to write an equation for the elliptical orbit of the comet. [FIGURA: This graph shows an ellipse with center (0, 0), vertices (negative 55, 0) and (55, 0). The sun is shown at point (40, 0), which is 95 units from the left vertex and 15 units from the right vertex.]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This graph shows an ellipse with center (0, 0), vertices (negative 55, 0) and (55, 0). The sun is shown at point (40, 0), which is 95 units from the left vertex and 15 units from the right vertex."
+      ]
+    },
+    {
+      "number": 143,
+      "anchor": "fs-id1163871993197",
+      "page": "11-3-ellipses",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "In your own words, define an ellipse and write the equation of an ellipse centered at the origin in standard form. Draw a sketch of the ellipse labeling the center, vertices and major and minor axes.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 144,
+      "anchor": "fs-id1163872564055",
+      "page": "11-3-ellipses",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain in your own words how to get the axes from the equation in standard form.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 145,
+      "anchor": "fs-id1163872713558",
+      "page": "11-3-ellipses",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Compare and contrast the graphs of the equations \\(\\frac{{x}^{2}}{4}+\\frac{{y}^{2}}{9}=1\\) and \\(\\frac{{x}^{2}}{9}+\\frac{{y}^{2}}{4}=1.\\)",
+      "math": [
+        "\\frac{{x}^{2}}{4}+\\frac{{y}^{2}}{9}=1",
+        "\\frac{{x}^{2}}{9}+\\frac{{y}^{2}}{4}=1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup></mrow><mn>4</mn></mfrac><mo>+</mo><mfrac><mrow><msup><mi>y</mi><mn>2</mn></msup></mrow><mn>9</mn></mfrac><mo>=</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup></mrow><mn>4</mn></mfrac><mo>+</mo><mfrac><mrow><msup><mi>y</mi><mn>2</mn></msup></mrow><mn>9</mn></mfrac><mo>=</mo><mn>1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup></mrow><mn>9</mn></mfrac><mo>+</mo><mfrac><mrow><msup><mi>y</mi><mn>2</mn></msup></mrow><mn>4</mn></mfrac><mo>=</mo><mn>1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup></mrow><mn>9</mn></mfrac><mo>+</mo><mfrac><mrow><msup><mi>y</mi><mn>2</mn></msup></mrow><mn>4</mn></mfrac><mo>=</mo><mn>1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 146,
+      "anchor": "fs-id1163872020384",
+      "page": "11-3-ellipses",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain in your own words, the difference between a vertex and a focus of the ellipse.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "11.39",
+      "page": "11-3-ellipses",
+      "is_try_it": true,
+      "anchor": "fs-id1163872449228",
+      "context": [
+        "Graph an Ellipse with Center at the Origin"
+      ],
+      "text": "Graph: \\(\\frac{{x}^{2}}{4}+\\frac{{y}^{2}}{16}=1.\\)",
+      "math": [
+        "\\frac{{x}^{2}}{4}+\\frac{{y}^{2}}{16}=1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup></mrow><mn>4</mn></mfrac><mo>+</mo><mfrac><mrow><msup><mi>y</mi><mn>2</mn></msup></mrow><mrow><mn>16</mn></mrow></mfrac><mo>=</mo><mn>1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup></mrow><mn>4</mn></mfrac><mo>+</mo><mfrac><mrow><msup><mi>y</mi><mn>2</mn></msup></mrow><mrow><mn>16</mn></mrow></mfrac><mo>=</mo><mn>1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.40",
+      "page": "11-3-ellipses",
+      "is_try_it": true,
+      "anchor": "fs-id1163872515144",
+      "context": [
+        "Graph an Ellipse with Center at the Origin"
+      ],
+      "text": "Graph: \\(\\frac{{x}^{2}}{9}+\\frac{{y}^{2}}{16}=1.\\)",
+      "math": [
+        "\\frac{{x}^{2}}{9}+\\frac{{y}^{2}}{16}=1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup></mrow><mn>9</mn></mfrac><mo>+</mo><mfrac><mrow><msup><mi>y</mi><mn>2</mn></msup></mrow><mrow><mn>16</mn></mrow></mfrac><mo>=</mo><mn>1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup></mrow><mn>9</mn></mfrac><mo>+</mo><mfrac><mrow><msup><mi>y</mi><mn>2</mn></msup></mrow><mrow><mn>16</mn></mrow></mfrac><mo>=</mo><mn>1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.41",
+      "page": "11-3-ellipses",
+      "is_try_it": true,
+      "anchor": "fs-id1163872388297",
+      "context": [
+        "Graph an Ellipse with Center at the Origin"
+      ],
+      "text": "Graph \\(9{x}^{2}+16{y}^{2}=144.\\)",
+      "math": [
+        "9{x}^{2}+16{y}^{2}=144."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>9</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>16</mn><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>144</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>9</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>16</mn><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>144</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.42",
+      "page": "11-3-ellipses",
+      "is_try_it": true,
+      "anchor": "fs-id1163872437330",
+      "context": [
+        "Graph an Ellipse with Center at the Origin"
+      ],
+      "text": "Graph \\(16{x}^{2}+25{y}^{2}=400.\\)",
+      "math": [
+        "16{x}^{2}+25{y}^{2}=400."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>16</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>25</mn><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>400</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>16</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>25</mn><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>400</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.43",
+      "page": "11-3-ellipses",
+      "is_try_it": true,
+      "anchor": "fs-id1163872750117",
+      "context": [
+        "Find the Equation of an Ellipse with Center at the Origin"
+      ],
+      "text": "Find the equation of the ellipse shown. [FIGURA: This graph shows an ellipse with x intercepts (negative 2, 0) and (2, 0) and y intercepts (0, 5) and (0, negative 5).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This graph shows an ellipse with x intercepts (negative 2, 0) and (2, 0) and y intercepts (0, 5) and (0, negative 5)."
+      ]
+    },
+    {
+      "number": "11.44",
+      "page": "11-3-ellipses",
+      "is_try_it": true,
+      "anchor": "fs-id1163872547351",
+      "context": [
+        "Find the Equation of an Ellipse with Center at the Origin"
+      ],
+      "text": "Find the equation of the ellipse shown. [FIGURA: This graph shows an ellipse with x intercepts (negative 3, 0) and (3, 0) and y intercepts (0, 2) and (0, negative 2).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This graph shows an ellipse with x intercepts (negative 3, 0) and (3, 0) and y intercepts (0, 2) and (0, negative 2)."
+      ]
+    },
+    {
+      "number": "11.45",
+      "page": "11-3-ellipses",
+      "is_try_it": true,
+      "anchor": "fs-id1163872456046",
+      "context": [
+        "Graph an Ellipse with Center Not at the Origin"
+      ],
+      "text": "Graph: \\(\\frac{{(x+3)}^{2}}{4}+\\frac{{(y-5)}^{2}}{16}=1.\\)",
+      "math": [
+        "\\frac{{(x+3)}^{2}}{4}+\\frac{{(y-5)}^{2}}{16}=1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mn>4</mn></mfrac><mo>+</mo><mfrac><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>−</mo><mn>5</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mrow><mn>16</mn></mrow></mfrac><mo>=</mo><mn>1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mn>4</mn></mfrac><mo>+</mo><mfrac><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>−</mo><mn>5</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mrow><mn>16</mn></mrow></mfrac><mo>=</mo><mn>1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.46",
+      "page": "11-3-ellipses",
+      "is_try_it": true,
+      "anchor": "fs-id1163871859210",
+      "context": [
+        "Graph an Ellipse with Center Not at the Origin"
+      ],
+      "text": "Graph: \\(\\frac{{(x-1)}^{2}}{25}+\\frac{{(y+3)}^{2}}{16}=1.\\)",
+      "math": [
+        "\\frac{{(x-1)}^{2}}{25}+\\frac{{(y+3)}^{2}}{16}=1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mrow><mn>25</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mrow><mn>16</mn></mrow></mfrac><mo>=</mo><mn>1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mrow><mn>25</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mrow><mn>16</mn></mrow></mfrac><mo>=</mo><mn>1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.47",
+      "page": "11-3-ellipses",
+      "is_try_it": true,
+      "anchor": "fs-id1163872502349",
+      "context": [
+        "Graph an Ellipse with Center Not at the Origin"
+      ],
+      "text": "Graph \\(\\frac{{(x-5)}^{2}}{9}+\\frac{{(y+4)}^{2}}{4}=1\\) by translation.",
+      "math": [
+        "\\frac{{(x-5)}^{2}}{9}+\\frac{{(y+4)}^{2}}{4}=1"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>5</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mn>9</mn></mfrac><mo>+</mo><mfrac><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>+</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mn>4</mn></mfrac><mo>=</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>5</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mn>9</mn></mfrac><mo>+</mo><mfrac><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>+</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mn>4</mn></mfrac><mo>=</mo><mn>1</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.48",
+      "page": "11-3-ellipses",
+      "is_try_it": true,
+      "anchor": "fs-id1163872511084",
+      "context": [
+        "Graph an Ellipse with Center Not at the Origin"
+      ],
+      "text": "Graph \\(\\frac{{(x+6)}^{2}}{16}+\\frac{{(y+2)}^{2}}{25}=1\\) by translation.",
+      "math": [
+        "\\frac{{(x+6)}^{2}}{16}+\\frac{{(y+2)}^{2}}{25}=1"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>6</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mrow><mn>16</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mrow><mn>25</mn></mrow></mfrac><mo>=</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>6</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mrow><mn>16</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow><mrow><mn>25</mn></mrow></mfrac><mo>=</mo><mn>1</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.49",
+      "page": "11-3-ellipses",
+      "is_try_it": true,
+      "anchor": "fs-id1163872012760",
+      "context": [
+        "Graph an Ellipse with Center Not at the Origin"
+      ],
+      "text": "ⓐ Write the equation \\(6{x}^{2}+4{y}^{2}+12x-32y+34=0\\) in standard form and ⓑ graph.",
+      "math": [
+        "6{x}^{2}+4{y}^{2}+12x-32y+34=0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>6</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>12</mn><mi>x</mi><mo>−</mo><mn>32</mn><mi>y</mi><mo>+</mo><mn>34</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>6</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>12</mn><mi>x</mi><mo>−</mo><mn>32</mn><mi>y</mi><mo>+</mo><mn>34</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.50",
+      "page": "11-3-ellipses",
+      "is_try_it": true,
+      "anchor": "fs-id1163872850405",
+      "context": [
+        "Graph an Ellipse with Center Not at the Origin"
+      ],
+      "text": "ⓐ Write the equation \\(4{x}^{2}+{y}^{2}-16x-6y+9=0\\) in standard form and ⓑ graph.",
+      "math": [
+        "4{x}^{2}+{y}^{2}-16x-6y+9=0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>16</mn><mi>x</mi><mo>−</mo><mn>6</mn><mi>y</mi><mo>+</mo><mn>9</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>16</mn><mi>x</mi><mo>−</mo><mn>6</mn><mi>y</mi><mo>+</mo><mn>9</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.51",
+      "page": "11-3-ellipses",
+      "is_try_it": true,
+      "anchor": "fs-id1163872836806",
+      "context": [
+        "Graph an Ellipse with Center Not at the Origin"
+      ],
+      "text": "A planet moves in an elliptical orbit around its sun. The closest the planet gets to the sun is approximately 20 AU and the furthest is approximately 30 AU. The sun is one of the foci of the elliptical orbit. Letting the ellipse center at the origin and labeling the axes in AU, the orbit will look like the figure below. Use the graph to write an equation for the elliptical orbit of the planet. [FIGURA: This graph shows an ellipse with center (0, 0) and vertices (negative 25, 0) and (25, 0). The sun is shown at point (5, 0). This is 20 units from the right vertex and 30 units from the left vertex.]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This graph shows an ellipse with center (0, 0) and vertices (negative 25, 0) and (25, 0). The sun is shown at point (5, 0). This is 20 units from the right vertex and 30 units from the left vertex."
+      ]
+    },
+    {
+      "number": "11.52",
+      "page": "11-3-ellipses",
+      "is_try_it": true,
+      "anchor": "fs-id1163872740817",
+      "context": [
+        "Graph an Ellipse with Center Not at the Origin"
+      ],
+      "text": "A planet moves in an elliptical orbit around its sun. The closest the planet gets to the sun is approximately 20 AU and the furthest is approximately 50 AU. The sun is one of the foci of the elliptical orbit. Letting the ellipse center at the origin and labeling the axes in AU, the orbit will look like the figure below. Use the graph to write an equation for the elliptical orbit of the planet. [FIGURA: This graph shows an ellipse with center (0, 0) and vertices (negative 35, 0) and (35, 0). The sun is shown at point (15, 0). This is 20 units from the right vertex and 50 units from the left vertex.]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This graph shows an ellipse with center (0, 0) and vertices (negative 35, 0) and (35, 0). The sun is shown at point (15, 0). This is 20 units from the right vertex and 50 units from the left vertex."
+      ]
+    }
+  ],
+  "answers": {}
+}

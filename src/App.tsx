@@ -1,6 +1,15 @@
 import katex from "katex";
-import { useEffect, useMemo, useState } from "react";
-import type { ModuleSlug, Question, QuestionsPayload } from "./types";
+import { lazy, Suspense, useEffect, useMemo, useState } from "react";
+import type { ModuleSlug, Question, QuestionsPayload, Topic } from "./types";
+import { progressKey, readProgress, writeLocal } from "./browserStorage";
+import SelectMenu from "./SelectMenu";
+import { experiments, experimentUrl, topicExperiment } from "./learningExperiments";
+import { bankQuery, defaultBankFilters, filterQuestions, questionNeighbors, readBankFilters, ia2ChapterOneSource, isIA2ChapterOne, ia2BookSource, isIA2Book } from "./questionNavigation";
+import SourceCredits, { bookUrl } from "./SourceCredits";
+import NumberLineSolution from "./NumberLineSolution";
+import QuestionPlot from "./QuestionPlot";
+const Laboratory = lazy(() => import("./Laboratory"));
+const ConceptMap = lazy(() => import("./ConceptMap"));
 
 const moduleMeta: Record<
   ModuleSlug,
@@ -23,12 +32,7 @@ const moduleMeta: Record<
   },
 };
 
-const difficultyLabels = ["", "Aquecimento", "Tranquilo", "Desafio", "Avançado", "Expert"];
-const moduleOrder: Record<ModuleSlug, number> = {
-  "matematica-basica": 0,
-  "pre-calculo": 1,
-  "calculo-1": 2,
-};
+const difficultyLabels = ["", "Fácil", "Médio", "Difícil", "Desafio"];
 
 function MathText({ children }: { children: string }) {
   const parts = children.split(/(\\\([\s\S]+?\\\))/g);
@@ -64,8 +68,8 @@ function MathText({ children }: { children: string }) {
 
 function DifficultyDots({ value }: { value: number }) {
   return (
-    <span className="difficulty-dots" aria-label={`Dificuldade ${value} de 5`}>
-      {Array.from({ length: 5 }, (_, index) => (
+    <span className="difficulty-dots" aria-label={`Dificuldade ${value} de 4: ${difficultyLabels[value]}`}>
+      {Array.from({ length: 4 }, (_, index) => (
         <span className={index < value ? "dot dot-filled" : "dot"} key={index} />
       ))}
     </span>
@@ -77,23 +81,34 @@ function QuestionView({
   completed,
   onBack,
   onToggleCompleted,
+  previous,
+  next,
+  position,
+  total,
+  onNavigate,
 }: {
   question: Question;
   completed: boolean;
   onBack: () => void;
   onToggleCompleted: () => void;
+  previous?: Question;
+  next?: Question;
+  position: number;
+  total: number;
+  onNavigate: (question: Question) => void;
 }) {
   const [showHint, setShowHint] = useState(false);
   const [showSolution, setShowSolution] = useState(false);
   const [selectedChoice, setSelectedChoice] = useState<string | null>(null);
   const meta = moduleMeta[question.module_slug];
+  const experimentId = experiments[`question-${question.id}`] ? `question-${question.id}` : topicExperiment[question.topic_slug];
 
   return (
-    <main className="question-page">
+    <main className="question-page" id="conteudo" tabIndex={-1}>
       <div className="question-shell">
-        <button className="back-button" onClick={onBack} type="button">
+        <div className="question-navigation"><button className="back-button" onClick={onBack} type="button">
           Voltar aos exercícios
-        </button>
+        </button><nav aria-label="Navegar pelas questões filtradas"><span aria-live="polite">{position > 0 ? `${position} de ${total}` : "Questão avulsa"}</span><button type="button" aria-label="Questão anterior" title={previous ? `Anterior: ${previous.id}` : "Primeira questão da seleção"} disabled={!previous} onClick={() => previous && onNavigate(previous)}>←</button><button type="button" aria-label="Próxima questão" title={next ? `Próxima: ${next.id}` : "Última questão da seleção"} disabled={!next} onClick={() => next && onNavigate(next)}>→</button></nav></div>
 
         <section className={`question-hero ${meta.className}`}>
           <div className="question-meta-row">
@@ -171,6 +186,8 @@ function QuestionView({
               <div>
                 <h2>Resolução</h2>
                 <p><MathText>{question.solution_md}</MathText></p>
+                <NumberLineSolution value={question.answer.number_line} />
+                <QuestionPlot value={question.answer.plot} />
               </div>
             </div>
           )}
@@ -185,12 +202,16 @@ function QuestionView({
           </button>
         </section>
 
+        {experimentId && <aside className="question-lab-link"><div><h2>Veja este conceito no gráfico</h2><p>{experiments[`question-${question.id}`] ? "O Laboratório abre com os dados desta questão. Explore antes ou depois de conferir a resolução." : "Explore um exemplo relacionado a este tópico no Laboratório."}</p></div><a className="secondary-button" href={experimentUrl(experimentId)}>Explorar no Laboratório</a></aside>}
         <aside className="source-card">
           <div>
             <p className="section-kicker">Fonte do exercício</p>
             <h2>{question.source_title}</h2>
             <p>{question.source_locator}</p>
+            <p className="source-note">{question.source_authors} · OpenStax, Rice University</p>
             <p className="source-note">{question.adaptation_note}</p>
+            <p className="source-note">Tradução e adaptações disponibilizadas sob <a href={question.license_url} target="_blank" rel="noreferrer">{question.license_code}</a>.</p>
+            <p className="source-note">Access for free at <a href={bookUrl(question)} target="_blank" rel="noreferrer">{bookUrl(question)}</a>.</p>
           </div>
           <a href={question.source_url} target="_blank" rel="noreferrer">
             Ver material original
@@ -203,20 +224,51 @@ function QuestionView({
 
 function App() {
   const [questions, setQuestions] = useState<Question[]>([]);
+  const [topicCatalog, setTopicCatalog] = useState<Topic[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
-  const [selectedQuestion, setSelectedQuestion] = useState<Question | null>(null);
-  const [moduleFilter, setModuleFilter] = useState<"todos" | ModuleSlug>("todos");
-  const [topicFilter, setTopicFilter] = useState("todos");
-  const [difficultyFilter, setDifficultyFilter] = useState("todos");
-  const [search, setSearch] = useState("");
+  const [route, setRoute] = useState(() => window.location.hash.slice(1) || "/");
+  const [moduleFilter, setModuleFilter] = useState<"todos" | ModuleSlug>(() => readBankFilters(route).module);
+  const [topicFilter, setTopicFilter] = useState(() => readBankFilters(route).topic);
+  const [difficultyFilter, setDifficultyFilter] = useState(() => readBankFilters(route).difficulty);
+  const [search, setSearch] = useState(() => readBankFilters(route).search);
+  const [sourceFilter, setSourceFilter] = useState(() => readBankFilters(route).source);
+  const [progressSaved, setProgressSaved] = useState(true);
   const [completedIds, setCompletedIds] = useState<Set<string>>(() => {
     try {
-      return new Set(JSON.parse(localStorage.getItem("calculo-completed") ?? "[]") as string[]);
+      return readProgress(localStorage.getItem(progressKey));
     } catch {
       return new Set();
     }
   });
+
+  useEffect(() => {
+    setProgressSaved(writeLocal(progressKey, Array.from(completedIds)));
+  }, [completedIds]);
+
+  useEffect(() => {
+    const syncProgress = (event: StorageEvent) => {
+      if (event.storageArea === localStorage && (event.key === progressKey || event.key === null)) setCompletedIds(readProgress(event.key === null ? null : event.newValue));
+    };
+    window.addEventListener("storage", syncProgress);
+    return () => window.removeEventListener("storage", syncProgress);
+  }, []);
+
+  useEffect(() => {
+    const updateRoute = () => setRoute(window.location.hash.slice(1) || "/");
+    window.addEventListener("hashchange", updateRoute);
+    return () => window.removeEventListener("hashchange", updateRoute);
+  }, []);
+
+  useEffect(() => {
+    document.title = route.startsWith("/questoes") ? "Banco de questões | ∫NTEGRA" : route.startsWith("/laboratorio") ? "Laboratório | ∫NTEGRA" : route.startsWith("/mapa") ? "Mapa de conceitos | ∫NTEGRA" : "∫NTEGRA";
+    document.getElementById("conteudo")?.focus({ preventScroll: true });
+    if (route === "/sobre") {
+      document.getElementById("sobre")?.scrollIntoView({ behavior: "smooth" });
+    } else {
+      window.scrollTo({ top: 0, behavior: "instant" });
+    }
+  }, [route]);
 
   useEffect(() => {
     fetch(`${import.meta.env.BASE_URL}data/questions.json`)
@@ -224,10 +276,17 @@ function App() {
         if (!response.ok) throw new Error("Não foi possível carregar o banco de questões.");
         return response.json() as Promise<QuestionsPayload>;
       })
-      .then((payload) => setQuestions(payload.questions))
+      .then((payload) => { setQuestions(payload.questions); setTopicCatalog(payload.topics); })
       .catch((reason: Error) => setError(reason.message))
       .finally(() => setLoading(false));
   }, []);
+
+  useEffect(() => {
+    if (!route.startsWith("/questoes") || !route.includes("?")) return;
+    const filters = readBankFilters(route, topicCatalog);
+    setModuleFilter(filters.module); setTopicFilter(filters.topic); setDifficultyFilter(filters.difficulty); setSearch(filters.search);
+    setSourceFilter(filters.source);
+  }, [route, topicCatalog]);
 
   const moduleCounts = useMemo(
     () =>
@@ -239,45 +298,40 @@ function App() {
   );
 
   const topics = useMemo(
-    () =>
-      Array.from(
-        new Map(
-          questions
-            .filter((question) => moduleFilter === "todos" || question.module_slug === moduleFilter)
-            .map((question) => [question.topic_slug, question.topic_title]),
-        ),
-      ).sort((a, b) => a[1].localeCompare(b[1], "pt-BR")),
-    [questions, moduleFilter],
+    () => topicCatalog.filter((topic) => moduleFilter === "todos" || topic.module_slug === moduleFilter),
+    [topicCatalog, moduleFilter],
   );
+  const selectedTopic = topicCatalog.find((topic) => topic.slug === topicFilter);
 
-  const filteredQuestions = useMemo(() => {
-    const normalizedSearch = search.trim().toLocaleLowerCase("pt-BR");
-    return questions
-      .filter((question) => {
-        const matchesModule = moduleFilter === "todos" || question.module_slug === moduleFilter;
-        const matchesTopic = topicFilter === "todos" || question.topic_slug === topicFilter;
-        const matchesDifficulty =
-          difficultyFilter === "todos" || question.difficulty === Number(difficultyFilter);
-        const matchesSearch =
-          !normalizedSearch ||
-          question.statement_md.toLocaleLowerCase("pt-BR").includes(normalizedSearch) ||
-          question.topic_title.toLocaleLowerCase("pt-BR").includes(normalizedSearch) ||
-          question.id.toLocaleLowerCase("pt-BR").includes(normalizedSearch);
-        return matchesModule && matchesTopic && matchesDifficulty && matchesSearch;
-      })
-      .sort(
-        (first, second) =>
-          moduleOrder[first.module_slug] - moduleOrder[second.module_slug] ||
-          first.id.localeCompare(second.id, "pt-BR"),
-      );
-  }, [questions, moduleFilter, topicFilter, difficultyFilter, search]);
+  const filteredQuestions = useMemo(() => filterQuestions(questions, { module: moduleFilter, topic: topicFilter, difficulty: difficultyFilter, search, source: sourceFilter }), [questions, moduleFilter, topicFilter, difficultyFilter, search, sourceFilter]);
+  const sourceOptions = useMemo(() => {
+    const sources = new Map<string, { value: string; label: string; count: number }>();
+    const chapterCount = questions.filter(isIA2ChapterOne).length;
+    if (chapterCount) sources.set(ia2ChapterOneSource, { value: ia2ChapterOneSource, label: "Intermediate Algebra 2e — Capítulo 1", count: chapterCount });
+    const bookCount = questions.filter(isIA2Book).length;
+    if (bookCount) sources.set(ia2BookSource, { value: ia2BookSource, label: "Intermediate Algebra 2e — Todas as questões ativas", count: bookCount });
+    questions.forEach((question) => { const existing = sources.get(question.source_id); if (existing) existing.count++; else sources.set(question.source_id, { value: question.source_id, label: question.source_title, count: 1 }); });
+    return [...sources.values()].sort((a, b) => a.label.localeCompare(b.label, "pt-BR", { numeric: true })).map(({ count, ...source }) => ({ ...source, description: `${count} ${count === 1 ? "questão" : "questões"} · ordem dos exercícios originais` }));
+  }, [questions]);
 
   const featuredQuestion = questions.find((question) => question.id === "C1-001") ?? questions[0];
+  const isQuestionBank = route.startsWith("/questoes");
+  const isLaboratory = route.split("?")[0] === "/laboratorio";
+  const isConceptMap = route.split("?")[0] === "/mapa";
+  const presetId = new URLSearchParams(route.split("?")[1] ?? "").get("experimento") ?? undefined;
+  const questionId = route.startsWith("/questoes/") ? decodeURIComponent(route.split("?")[0].slice("/questoes/".length)) : null;
+  const selectedQuestion = questions.find((question) => question.id === questionId);
+  const neighbors = questionNeighbors(filteredQuestions, questionId ?? "");
+  const activeFilters = { module: moduleFilter, topic: topicFilter, difficulty: difficultyFilter, search, source: sourceFilter };
+  useEffect(() => {
+    if (route.split("?")[0] === "/questoes") window.history.replaceState(null, "", `#/questoes?${bankQuery({ module: moduleFilter, topic: topicFilter, difficulty: difficultyFilter, search, source: sourceFilter })}`);
+  }, [route, moduleFilter, topicFilter, difficultyFilter, search, sourceFilter]);
 
   const selectModule = (module: ModuleSlug | "todos") => {
     setModuleFilter(module);
     setTopicFilter("todos");
-    document.getElementById("exercicios")?.scrollIntoView({ behavior: "smooth" });
+    setSourceFilter("todos");
+    window.location.hash = "/questoes";
   };
 
   const toggleCompleted = (id: string) => {
@@ -285,27 +339,30 @@ function App() {
       const next = new Set(current);
       if (next.has(id)) next.delete(id);
       else next.add(id);
-      localStorage.setItem("calculo-completed", JSON.stringify(Array.from(next)));
       return next;
     });
   };
 
-  const openQuestion = (question: Question) => {
-    setSelectedQuestion(question);
-    window.scrollTo({ top: 0, behavior: "smooth" });
+  const openQuestion = (question: Question, useActiveFilters = true) => {
+    window.location.hash = `/questoes/${encodeURIComponent(question.id)}?${bankQuery(useActiveFilters ? activeFilters : defaultBankFilters)}`;
   };
 
   if (selectedQuestion) {
     return (
       <>
-        <Header onExplore={() => setSelectedQuestion(null)} compact />
+        <Header isQuestionBank />
+        <p className="progress-storage-note" role="status">{progressSaved ? "Histórico salvo neste navegador. Você pode fechar e continuar depois no mesmo endereço." : "O navegador não permitiu salvar o histórico. Verifique o armazenamento do site."}</p>
         <QuestionView
           key={selectedQuestion.id}
           question={selectedQuestion}
           completed={completedIds.has(selectedQuestion.id)}
+          previous={neighbors.previous}
+          next={neighbors.next}
+          position={neighbors.index + 1}
+          total={neighbors.total}
+          onNavigate={openQuestion}
           onBack={() => {
-            setSelectedQuestion(null);
-            window.setTimeout(() => document.getElementById("exercicios")?.scrollIntoView(), 0);
+            window.location.hash = `/questoes?${bankQuery(activeFilters)}`;
           }}
           onToggleCompleted={() => toggleCompleted(selectedQuestion.id)}
         />
@@ -315,10 +372,16 @@ function App() {
 
   return (
     <div className="site-shell">
-      <a className="skip-link" href="#exercicios">Pular para os exercícios</a>
-      <Header onExplore={() => document.getElementById("exercicios")?.scrollIntoView({ behavior: "smooth" })} />
+      <a className="skip-link" href="#conteudo" onClick={(event) => {
+        event.preventDefault();
+        document.getElementById("conteudo")?.focus();
+      }}>Pular para o conteúdo</a>
+      <Header isQuestionBank={isQuestionBank} isLaboratory={isLaboratory} isConceptMap={isConceptMap} />
 
-      <main>
+      <main id="conteudo" tabIndex={-1}>
+        {isLaboratory && <Suspense fallback={<div className="state-message">Abrindo o laboratório...</div>}><Laboratory topics={topicCatalog} presetId={presetId} /></Suspense>}
+        {isConceptMap && <section className="map-page"><div className="section-heading"><div><p className="section-kicker">Sequência de estudo</p><h1>Mapa de conceitos</h1></div><p>Encontre as conexões entre os assuntos, revise os pré-requisitos e escolha o próximo passo.</p></div>{loading ? <p className="state-message">Carregando o mapa...</p> : error ? <p className="state-message state-error">{error}</p> : <Suspense fallback={<p className="state-message">Abrindo o mapa...</p>}><ConceptMap topics={topicCatalog} /></Suspense>}</section>}
+        {!isQuestionBank && !isLaboratory && !isConceptMap && <>
         <section className="hero">
           <div className="hero-copy">
             <p className="section-kicker">Projeto de extensão universitária</p>
@@ -330,7 +393,7 @@ function App() {
               <button className="primary-button hero-button" onClick={() => selectModule("todos")} type="button">
                 Ver banco de exercícios
               </button>
-              <span className="question-total">{questions.length || 24} questões no acervo inicial</span>
+              <span className="question-total">{questions.length} questões no acervo</span>
             </div>
           </div>
           <div className="hero-visual" aria-label="Prévia de um exercício do acervo">
@@ -347,12 +410,13 @@ function App() {
               </h2>
               <button
                 disabled={!featuredQuestion}
-                onClick={() => featuredQuestion && openQuestion(featuredQuestion)}
+                onClick={() => featuredQuestion && openQuestion(featuredQuestion, false)}
                 type="button"
               >
                 Abrir esta questão
               </button>
             </div>
+            <SourceCredits questions={featuredQuestion ? [featuredQuestion] : []} />
           </div>
         </section>
 
@@ -387,11 +451,14 @@ function App() {
           </ol>
         </section>
 
+        </>}
+        {isQuestionBank && (
         <section className="exercise-section" id="exercicios" aria-labelledby="exercise-title">
+          {!progressSaved && <p className="progress-storage-note" role="status">O navegador não permitiu salvar o histórico. Verifique o armazenamento do site.</p>}
           <div className="section-heading exercise-heading">
             <div>
               <p className="section-kicker">Banco de questões</p>
-              <h2 id="exercise-title">Escolha o que praticar agora.</h2>
+              <h1 id="exercise-title">Escolha o que praticar agora.</h1>
             </div>
             <div className="progress-chip">
               <span>{completedIds.size}</span> concluído{completedIds.size === 1 ? "" : "s"}
@@ -399,6 +466,7 @@ function App() {
           </div>
 
           <div className="filters" aria-label="Filtros de exercícios">
+            <div className="reference-filter"><SelectMenu label="Referência" value={sourceFilter} options={[{ value: "todos", label: "Todas as referências", description: "Combine a referência com os filtros abaixo." }, ...sourceOptions]} onChange={setSourceFilter} /></div>
             <label className="search-field">
               <span className="sr-only">Buscar exercício</span>
               <input
@@ -408,37 +476,9 @@ function App() {
                 onChange={(event) => setSearch(event.target.value)}
               />
             </label>
-            <label>
-              <span className="sr-only">Módulo</span>
-              <select
-                value={moduleFilter}
-                onChange={(event) => {
-                  setModuleFilter(event.target.value as "todos" | ModuleSlug);
-                  setTopicFilter("todos");
-                }}
-              >
-                <option value="todos">Todos os módulos</option>
-                <option value="matematica-basica">Matemática Básica</option>
-                <option value="pre-calculo">Pré-Cálculo</option>
-                <option value="calculo-1">Cálculo 1</option>
-              </select>
-            </label>
-            <label>
-              <span className="sr-only">Tópico</span>
-              <select value={topicFilter} onChange={(event) => setTopicFilter(event.target.value)}>
-                <option value="todos">Todos os tópicos</option>
-                {topics.map(([slug, title]) => <option value={slug} key={slug}>{title}</option>)}
-              </select>
-            </label>
-            <label>
-              <span className="sr-only">Dificuldade</span>
-              <select value={difficultyFilter} onChange={(event) => setDifficultyFilter(event.target.value)}>
-                <option value="todos">Todas as dificuldades</option>
-                {difficultyLabels.slice(1).map((label, index) => (
-                  <option value={index + 1} key={label}>{label}</option>
-                ))}
-              </select>
-            </label>
+            <SelectMenu label="Módulo" value={moduleFilter} options={[{ value: "todos", label: "Todos os módulos" }, ...Object.entries(moduleMeta).map(([value, meta]) => ({ value, label: meta.short }))]} onChange={(value) => { setModuleFilter(value as "todos" | ModuleSlug); setTopicFilter("todos"); }} />
+            <SelectMenu label="Tópico" value={topicFilter} options={[{ value: "todos", label: "Todos os tópicos" }, ...topics.map((topic) => ({ value: topic.slug, label: topic.title, description: `${topic.module_title}${topic.parent_slug ? " · Funções" : ""} · ${topic.question_count === 0 ? "sem questões" : `${topic.question_count} ${topic.question_count === 1 ? "questão" : "questões"}`}` }))]} onChange={setTopicFilter} />
+            <SelectMenu label="Dificuldade" value={difficultyFilter} options={[{ value: "todos", label: "Todas as dificuldades" }, ...difficultyLabels.slice(1).map((label, index) => ({ value: String(index + 1), label }))]} onChange={setDifficultyFilter} />
           </div>
 
           {loading && <div className="state-message">Carregando os exercícios...</div>}
@@ -475,14 +515,17 @@ function App() {
               </div>
               {filteredQuestions.length === 0 && (
                 <div className="empty-state">
-                  <h3>Nenhum exercício por aqui</h3>
-                  <p>Tente retirar um filtro ou buscar por outro assunto.</p>
+                  <h3>{selectedTopic?.question_count === 0 ? "Este tópico ainda não tem questões" : "Nenhum exercício por aqui"}</h3>
+                  <p>{selectedTopic?.question_count === 0 ? `${selectedTopic.title} já está cadastrado em ${selectedTopic.module_title}. Os exercícios serão incluídos neste tópico.` : "Tente retirar um filtro ou buscar por outro assunto."}</p>
                 </div>
               )}
+              <SourceCredits questions={filteredQuestions} />
             </>
           )}
         </section>
+        )}
 
+        {!isQuestionBank && !isLaboratory && !isConceptMap && (
         <section className="about-strip" id="sobre">
           <div>
             <p className="section-kicker">Sobre o projeto</p>
@@ -491,32 +534,33 @@ function App() {
               Um projeto de extensão universitária com exercícios organizados, resoluções claras e acesso gratuito.
             </p>
           </div>
-          <p className="about-facts">O piloto reúne 3 módulos e {questions.length || 24} exercícios. Todo o conteúdo pode ser acessado sem cadastro.</p>
+          <p className="about-facts">O acervo reúne 3 módulos e {questions.length} exercícios. Todo o conteúdo pode ser acessado sem cadastro.</p>
         </section>
+        )}
       </main>
 
       <footer>
-        <div className="brand"><span>∫</span> Base Cálculo</div>
+        <div className="brand" aria-label="∫NTEGRA"><span aria-hidden="true">∫</span>NTEGRA</div>
         <p>Plataforma gratuita de apoio ao ensino de Cálculo.</p>
-        <a href="#top">Início</a>
+        <a href="#/">Início</a>
       </footer>
     </div>
   );
 }
 
-function Header({ onExplore, compact = false }: { onExplore: () => void; compact?: boolean }) {
+function Header({ isQuestionBank = false, isLaboratory = false, isConceptMap = false }: { isQuestionBank?: boolean; isLaboratory?: boolean; isConceptMap?: boolean }) {
   return (
-    <header className={compact ? "site-header compact-header" : "site-header"} id="top">
-      <a className="brand" href="#top" onClick={onExplore}>
-        <span aria-hidden="true">∫</span> Base Cálculo
+    <header className="site-header">
+      <a className="brand" href="#/" aria-label="∫NTEGRA — Início">
+        <span aria-hidden="true">∫</span>NTEGRA
       </a>
-      {!compact && (
-        <nav aria-label="Navegação principal">
-          <button onClick={onExplore} type="button">Banco de questões</button>
-          <a href="#sobre">Sobre</a>
-        </nav>
-      )}
-      <span className="header-tag">Acesso gratuito</span>
+      <nav aria-label="Navegação principal">
+        <a href="#/" aria-current={!isQuestionBank && !isLaboratory && !isConceptMap ? "page" : undefined}>Início</a>
+        <a href="#/questoes" aria-current={isQuestionBank ? "page" : undefined}>Banco de questões</a>
+        <a href="#/laboratorio" aria-current={isLaboratory ? "page" : undefined}>Laboratório</a>
+        <a href="#/mapa" aria-current={isConceptMap ? "page" : undefined}>Mapa de conceitos</a>
+        <a href="#/sobre">Sobre</a>
+      </nav>
     </header>
   );
 }

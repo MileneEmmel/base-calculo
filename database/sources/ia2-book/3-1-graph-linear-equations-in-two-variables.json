@@ -1,0 +1,1712 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/3-1-graph-linear-equations-in-two-variables",
+  "title": "3.1 Graph Linear Equations in Two Variables",
+  "sha256": "05c83d5eb3c8797af29b1a1cf57610c68ac66b3d3473ab23342645b4013bc7d7",
+  "questions": [
+    {
+      "number": 1,
+      "anchor": "fs-id1167831837578",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Plot Points in a Rectangular Coordinate System",
+        "In the following exercises, plot each point in a rectangular coordinate system and identify the quadrant in which the point is located."
+      ],
+      "text": "ⓐ \\((-4,2)\\) ⓑ \\((-1,-2)\\) ⓒ \\((3,-5)\\) ⓓ \\((-3,0)\\) ⓔ \\((\\frac{5}{3},2)\\)",
+      "math": [
+        "(-4,2)",
+        "(-1,-2)",
+        "(3,-5)",
+        "(-3,0)",
+        "(\\frac{5}{3},2)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mfrac><mn>5</mn><mn>3</mn></mfrac><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mfrac><mn>5</mn><mn>3</mn></mfrac><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 2,
+      "anchor": "fs-id1167834133113",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Plot Points in a Rectangular Coordinate System",
+        "In the following exercises, plot each point in a rectangular coordinate system and identify the quadrant in which the point is located."
+      ],
+      "text": "ⓐ \\((-2,-3)\\) ⓑ \\((3,-3)\\) ⓒ \\((-4,1)\\) ⓓ \\((4,-1)\\) ⓔ \\((\\frac{3}{2},1)\\)",
+      "math": [
+        "(-2,-3)",
+        "(3,-3)",
+        "(-4,1)",
+        "(4,-1)",
+        "(\\frac{3}{2},1)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 3,
+      "anchor": "fs-id1167835489339",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Plot Points in a Rectangular Coordinate System",
+        "In the following exercises, plot each point in a rectangular coordinate system and identify the quadrant in which the point is located."
+      ],
+      "text": "ⓐ \\((3,-1)\\) ⓑ \\((-3,1)\\) ⓒ \\((-2,0)\\) ⓓ \\((-4,-3)\\) ⓔ \\((1,\\frac{14}{5})\\)",
+      "math": [
+        "(3,-1)",
+        "(-3,1)",
+        "(-2,0)",
+        "(-4,-3)",
+        "(1,\\frac{14}{5})"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mspace width=\"0.2em\"></mspace><mtext>0</mtext></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mspace width=\"0.2em\"></mspace><mtext>0</mtext></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mfrac><mrow><mn>14</mn></mrow><mn>5</mn></mfrac></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mfrac><mrow><mn>14</mn></mrow><mn>5</mn></mfrac></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 4,
+      "anchor": "fs-id1167831959139",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Plot Points in a Rectangular Coordinate System",
+        "In the following exercises, plot each point in a rectangular coordinate system and identify the quadrant in which the point is located."
+      ],
+      "text": "ⓐ \\((-1,1)\\) ⓑ \\((-2,-1)\\) ⓒ \\((2,0)\\) ⓓ \\((1,-4)\\) ⓔ \\((3,\\frac{7}{2})\\)",
+      "math": [
+        "(-1,1)",
+        "(-2,-1)",
+        "(2,0)",
+        "(1,-4)",
+        "(3,\\frac{7}{2})"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mfrac><mn>7</mn><mn>2</mn></mfrac></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mfrac><mn>7</mn><mn>2</mn></mfrac></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 5,
+      "anchor": "fs-id1167834516106",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "In the following exercises, for each ordered pair, decide",
+        "ⓐ is the ordered pair a solution to the equation? ⓑ is the point on the line?"
+      ],
+      "text": "\\(y=x+2;\\)A: \\((0,2);\\) B: \\((1,2);\\) C: \\((-1,1);\\) D: \\((-3,-1).\\) [FIGURA: This figure shows a straight line graphed on the x y-coordinate plane. The x and y-axes run from negative 8 to 8. The line goes through the points (negative 3, negative 1), (negative 2, 0), (negative 1, 1), (0, 2), (1, 3), (2, 4), and (3, 5).]",
+      "math": [
+        "y=x+2;",
+        "(0,2);",
+        "(1,2);",
+        "(-1,1);",
+        "(-3,-1)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mi>x</mi><mo>+</mo><mn>2</mn><mo>;</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mi>x</mi><mo>+</mo><mn>2</mn><mo>;</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>;</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>;</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>;</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>;</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>;</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>;</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": [
+        "This figure shows a straight line graphed on the x y-coordinate plane. The x and y-axes run from negative 8 to 8. The line goes through the points (negative 3, negative 1), (negative 2, 0), (negative 1, 1), (0, 2), (1, 3), (2, 4), and (3, 5)."
+      ]
+    },
+    {
+      "number": 6,
+      "anchor": "fs-id1167832015739",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "In the following exercises, for each ordered pair, decide",
+        "ⓐ is the ordered pair a solution to the equation? ⓑ is the point on the line?"
+      ],
+      "text": "\\(y=x-4;\\)A: \\((0,-4);\\) B: \\((3,-1);\\) C: \\((2,2);\\) D: \\((1,-5).\\) [FIGURA: This figure shows a straight line graphed on the x y-coordinate plane. The x and y-axes run from negative 8 to 8. The line goes through the points (negative 3, negative 7), (negative 2, negative 6), (negative 1, negative 5), (0, negative 4), (1, negative 3), (2, negative 2), and (3, negative 1).]",
+      "math": [
+        "y=x-4;",
+        "(0,-4);",
+        "(3,-1);",
+        "(2,2);",
+        "(1,-5)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mi>x</mi><mo>−</mo><mn>4</mn><mo>;</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mi>x</mi><mo>−</mo><mn>4</mn><mo>;</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow><mo>;</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow><mo>;</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow><mo>;</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow><mo>;</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>;</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>;</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": [
+        "This figure shows a straight line graphed on the x y-coordinate plane. The x and y-axes run from negative 8 to 8. The line goes through the points (negative 3, negative 7), (negative 2, negative 6), (negative 1, negative 5), (0, negative 4), (1, negative 3), (2, negative 2), and (3, negative 1)."
+      ]
+    },
+    {
+      "number": 7,
+      "anchor": "fs-id1167835379705",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "In the following exercises, for each ordered pair, decide",
+        "ⓐ is the ordered pair a solution to the equation? ⓑ is the point on the line?"
+      ],
+      "text": "\\(y=\\frac{1}{2}x-3;\\)A: \\((0,-3);\\) B: \\((2,-2);\\) C: \\((-2,-4);\\) D: \\((4,1)\\) [FIGURA: This figure shows a straight line graphed on the x y-coordinate plane. The x and y-axes run from negative 8 to 8. The line goes through the points (negative 4, negative 5), (negative 2, negative 4), (0, negative 3), (2, negative 2), (4, negative 1), and (6, 0).]",
+      "math": [
+        "y=\\frac{1}{2}x-3;",
+        "(0,-3);",
+        "(2,-2);",
+        "(-2,-4);",
+        "(4,1)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi><mo>−</mo><mn>3</mn><mo>;</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi><mo>−</mo><mn>3</mn><mo>;</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow><mo>;</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow><mo>;</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow><mo>;</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow><mo>;</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow><mo>;</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow><mo>;</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": [
+        "This figure shows a straight line graphed on the x y-coordinate plane. The x and y-axes run from negative 8 to 8. The line goes through the points (negative 4, negative 5), (negative 2, negative 4), (0, negative 3), (2, negative 2), (4, negative 1), and (6, 0)."
+      ]
+    },
+    {
+      "number": 8,
+      "anchor": "fs-id1167832043531",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "In the following exercises, for each ordered pair, decide",
+        "ⓐ is the ordered pair a solution to the equation? ⓑ is the point on the line?"
+      ],
+      "text": "\\(y=\\frac{1}{3}x+2;\\)A: \\((0,2);\\) B: \\((3,3);\\) C: \\((-3,2);\\) D: \\((-6,0).\\) [FIGURA: This figure shows a straight line graphed on the x y-coordinate plane. The x and y-axes run from negative 8 to 8. The line goes through the points (negative 6, 0), (negative 3, 1), (0, 2), (3, 3), (6, 4), and (9, 5).]",
+      "math": [
+        "y=\\frac{1}{3}x+2;",
+        "(0,2);",
+        "(3,3);",
+        "(-3,2);",
+        "(-6,0)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>x</mi><mo>+</mo><mn>2</mn><mo>;</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>x</mi><mo>+</mo><mn>2</mn><mo>;</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>;</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>;</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>;</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>;</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>;</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>;</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−6</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−6</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": [
+        "This figure shows a straight line graphed on the x y-coordinate plane. The x and y-axes run from negative 8 to 8. The line goes through the points (negative 6, 0), (negative 3, 1), (0, 2), (3, 3), (6, 4), and (9, 5)."
+      ]
+    },
+    {
+      "number": 9,
+      "anchor": "fs-id1167834133322",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph a Linear Equation by Plotting Points",
+        "In the following exercises, graph by plotting points."
+      ],
+      "text": "\\(y = x + 2\\)",
+      "math": [
+        "y = x + 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 10,
+      "anchor": "fs-id1167834049043",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph a Linear Equation by Plotting Points",
+        "In the following exercises, graph by plotting points."
+      ],
+      "text": "\\(y = x - 3\\)",
+      "math": [
+        "y = x - 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 11,
+      "anchor": "fs-id1167834227334",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph a Linear Equation by Plotting Points",
+        "In the following exercises, graph by plotting points."
+      ],
+      "text": "\\(y = 3 x - 1\\)",
+      "math": [
+        "y = 3 x - 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 12,
+      "anchor": "fs-id1167826781720",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph a Linear Equation by Plotting Points",
+        "In the following exercises, graph by plotting points."
+      ],
+      "text": "\\(y = -2 x + 2\\)",
+      "math": [
+        "y = -2 x + 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−2</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−2</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 13,
+      "anchor": "fs-id1167835640011",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph a Linear Equation by Plotting Points",
+        "In the following exercises, graph by plotting points."
+      ],
+      "text": "\\(y = - x - 3\\)",
+      "math": [
+        "y = - x - 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 14,
+      "anchor": "fs-id1167834252346",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph a Linear Equation by Plotting Points",
+        "In the following exercises, graph by plotting points."
+      ],
+      "text": "\\(y = - x - 2\\)",
+      "math": [
+        "y = - x - 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 15,
+      "anchor": "fs-id1167830868598",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph a Linear Equation by Plotting Points",
+        "In the following exercises, graph by plotting points."
+      ],
+      "text": "\\(y = 2 x\\)",
+      "math": [
+        "y = 2 x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 16,
+      "anchor": "fs-id1167834084968",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph a Linear Equation by Plotting Points",
+        "In the following exercises, graph by plotting points."
+      ],
+      "text": "\\(y = -2 x\\)",
+      "math": [
+        "y = -2 x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−2</mn>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−2</mn>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 17,
+      "anchor": "fs-id1167831228815",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph a Linear Equation by Plotting Points",
+        "In the following exercises, graph by plotting points."
+      ],
+      "text": "\\(y = \\frac{1}{2} x + 2\\)",
+      "math": [
+        "y = \\frac{1}{2} x + 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 18,
+      "anchor": "fs-id1167835201088",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph a Linear Equation by Plotting Points",
+        "In the following exercises, graph by plotting points."
+      ],
+      "text": "\\(y = \\frac{1}{3} x - 1\\)",
+      "math": [
+        "y = \\frac{1}{3} x - 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 19,
+      "anchor": "fs-id1167834161715",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph a Linear Equation by Plotting Points",
+        "In the following exercises, graph by plotting points."
+      ],
+      "text": "\\(y = \\frac{4}{3} x - 5\\)",
+      "math": [
+        "y = \\frac{4}{3} x - 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 20,
+      "anchor": "fs-id1167832214462",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph a Linear Equation by Plotting Points",
+        "In the following exercises, graph by plotting points."
+      ],
+      "text": "\\(y = \\frac{3}{2} x - 3\\)",
+      "math": [
+        "y = \\frac{3}{2} x - 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 21,
+      "anchor": "fs-id1167835510781",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph a Linear Equation by Plotting Points",
+        "In the following exercises, graph by plotting points."
+      ],
+      "text": "\\(y = - \\frac{2}{5} x + 1\\)",
+      "math": [
+        "y = - \\frac{2}{5} x + 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 22,
+      "anchor": "fs-id1167827966773",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph a Linear Equation by Plotting Points",
+        "In the following exercises, graph by plotting points."
+      ],
+      "text": "\\(y = - \\frac{4}{5} x - 1\\)",
+      "math": [
+        "y = - \\frac{4}{5} x - 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 23,
+      "anchor": "fs-id1167830693579",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph a Linear Equation by Plotting Points",
+        "In the following exercises, graph by plotting points."
+      ],
+      "text": "\\(y = - \\frac{3}{2} x + 2\\)",
+      "math": [
+        "y = - \\frac{3}{2} x + 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 24,
+      "anchor": "fs-id1167835319192",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph a Linear Equation by Plotting Points",
+        "In the following exercises, graph by plotting points."
+      ],
+      "text": "\\(y = - \\frac{5}{3} x + 4\\)",
+      "math": [
+        "y = - \\frac{5}{3} x + 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 25,
+      "anchor": "fs-id1167835267907",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph Vertical and Horizontal lines",
+        "In the following exercises, graph each equation."
+      ],
+      "text": "ⓐ \\(x=4\\) ⓑ \\(y=3\\)",
+      "math": [
+        "x=4",
+        "y=3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 26,
+      "anchor": "fs-id1167834195667",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph Vertical and Horizontal lines",
+        "In the following exercises, graph each equation."
+      ],
+      "text": "ⓐ \\(x=3\\) ⓑ \\(y=1\\)",
+      "math": [
+        "x=3",
+        "y=1"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>1</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 27,
+      "anchor": "fs-id1167826937848",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph Vertical and Horizontal lines",
+        "In the following exercises, graph each equation."
+      ],
+      "text": "ⓐ \\(x=-2\\) ⓑ \\(y=-5\\)",
+      "math": [
+        "x=-2",
+        "y=-5"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>−2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>−2</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>−5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>−5</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 28,
+      "anchor": "fs-id1167835511308",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph Vertical and Horizontal lines",
+        "In the following exercises, graph each equation."
+      ],
+      "text": "ⓐ \\(x=-5\\) ⓑ \\(y=-2\\)",
+      "math": [
+        "x=-5",
+        "y=-2"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>−5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>−5</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>−2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>−2</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 29,
+      "anchor": "fs-id1167832153429",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "In the following exercises, graph each equation.",
+        "In the following exercises, graph each pair of equations in the same rectangular coordinate system."
+      ],
+      "text": "\\(y=2x\\) and \\(y=2\\)",
+      "math": [
+        "y=2x",
+        "y=2"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>2</mn><mi>x</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>2</mn><mi>x</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>2</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 30,
+      "anchor": "fs-id1167835376055",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "In the following exercises, graph each equation.",
+        "In the following exercises, graph each pair of equations in the same rectangular coordinate system."
+      ],
+      "text": "\\(y=5x\\) and \\(y=5\\)",
+      "math": [
+        "y=5x",
+        "y=5"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>5</mn><mi>x</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>5</mn><mi>x</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>5</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 31,
+      "anchor": "fs-id1167831031010",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "In the following exercises, graph each equation.",
+        "In the following exercises, graph each pair of equations in the same rectangular coordinate system."
+      ],
+      "text": "\\(y=-\\frac{1}{2}x\\) and \\(y=-\\frac{1}{2}\\)",
+      "math": [
+        "y=-\\frac{1}{2}x",
+        "y=-\\frac{1}{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 32,
+      "anchor": "fs-id1167835301347",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "In the following exercises, graph each equation.",
+        "In the following exercises, graph each pair of equations in the same rectangular coordinate system."
+      ],
+      "text": "\\(y=-\\frac{1}{3}x\\) and \\(y=-\\frac{1}{3}\\)",
+      "math": [
+        "y=-\\frac{1}{3}x",
+        "y=-\\frac{1}{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>x</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>x</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 33,
+      "anchor": "fs-id1167831911460",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Find x- and y-Intercepts",
+        "In the following exercises, find the x- and y-intercepts on each graph."
+      ],
+      "text": "[FIGURA: The figure shows a straight line graphed on the x y-coordinate plane. The x and y axes run from negative 8 to 8. The line goes through the points (negative 6, 9), (negative 3, 6), (0, 3), (3, 0), and (6, negative 3).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "The figure shows a straight line graphed on the x y-coordinate plane. The x and y axes run from negative 8 to 8. The line goes through the points (negative 6, 9), (negative 3, 6), (0, 3), (3, 0), and (6, negative 3)."
+      ]
+    },
+    {
+      "number": 34,
+      "anchor": "fs-id1167826967394",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Find x- and y-Intercepts",
+        "In the following exercises, find the x- and y-intercepts on each graph."
+      ],
+      "text": "[FIGURA: The figure shows a straight line graphed on the x y-coordinate plane. The x and y axes run from negative 8 to 8. The line goes through the points (negative 6, 4), (negative 4, 2), (negative 2, 0), (0, negative 2), (2, negative 4), and (4, negative 6).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "The figure shows a straight line graphed on the x y-coordinate plane. The x and y axes run from negative 8 to 8. The line goes through the points (negative 6, 4), (negative 4, 2), (negative 2, 0), (0, negative 2), (2, negative 4), and (4, negative 6)."
+      ]
+    },
+    {
+      "number": 35,
+      "anchor": "fs-id1167827943612",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Find x- and y-Intercepts",
+        "In the following exercises, find the x- and y-intercepts on each graph."
+      ],
+      "text": "[FIGURA: The figure shows a straight line graphed on the x y-coordinate plane. The x and y axes run from negative 8 to 8. The line goes through the points (negative 1, negative 6), (0, negative 5), (2, negative 3), (5, 0), and (7, 2).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "The figure shows a straight line graphed on the x y-coordinate plane. The x and y axes run from negative 8 to 8. The line goes through the points (negative 1, negative 6), (0, negative 5), (2, negative 3), (5, 0), and (7, 2)."
+      ]
+    },
+    {
+      "number": 36,
+      "anchor": "fs-id1167835545442",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Find x- and y-Intercepts",
+        "In the following exercises, find the x- and y-intercepts on each graph."
+      ],
+      "text": "[FIGURA: The figure shows a straight line graphed on the x y-coordinate plane. The x and y axes run from negative 8 to 8. The line goes through the points (negative 2, negative 4), (negative 1, negative 2), (0, 0), (1, 2), and (2, 4).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "The figure shows a straight line graphed on the x y-coordinate plane. The x and y axes run from negative 8 to 8. The line goes through the points (negative 2, negative 4), (negative 1, negative 2), (0, 0), (1, 2), and (2, 4)."
+      ]
+    },
+    {
+      "number": 37,
+      "anchor": "fs-id1167831922490",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "In the following exercises, find the x- and y-intercepts on each graph.",
+        "In the following exercises, find the intercepts for each equation."
+      ],
+      "text": "\\(x - y = 5\\)",
+      "math": [
+        "x - y = 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 38,
+      "anchor": "fs-id1167831920143",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "In the following exercises, find the x- and y-intercepts on each graph.",
+        "In the following exercises, find the intercepts for each equation."
+      ],
+      "text": "\\(x - y = -4\\)",
+      "math": [
+        "x - y = -4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 39,
+      "anchor": "fs-id1167834376167",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "In the following exercises, find the x- and y-intercepts on each graph.",
+        "In the following exercises, find the intercepts for each equation."
+      ],
+      "text": "\\(3 x + y = 6\\)",
+      "math": [
+        "3 x + y = 6"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>6</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>6</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 40,
+      "anchor": "fs-id1167831071499",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "In the following exercises, find the x- and y-intercepts on each graph.",
+        "In the following exercises, find the intercepts for each equation."
+      ],
+      "text": "\\(x - 2 y = 8\\)",
+      "math": [
+        "x - 2 y = 8"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>8</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>8</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 41,
+      "anchor": "fs-id1167832081988",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "In the following exercises, find the x- and y-intercepts on each graph.",
+        "In the following exercises, find the intercepts for each equation."
+      ],
+      "text": "\\(4 x - y = 8\\)",
+      "math": [
+        "4 x - y = 8"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>8</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>8</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 42,
+      "anchor": "fs-id1167835306018",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "In the following exercises, find the x- and y-intercepts on each graph.",
+        "In the following exercises, find the intercepts for each equation."
+      ],
+      "text": "\\(5 x - y = 5\\)",
+      "math": [
+        "5 x - y = 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 43,
+      "anchor": "fs-id1167830705955",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "In the following exercises, find the x- and y-intercepts on each graph.",
+        "In the following exercises, find the intercepts for each equation."
+      ],
+      "text": "\\(2 x + 5 y = 10\\)",
+      "math": [
+        "2 x + 5 y = 10"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>10</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>10</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 44,
+      "anchor": "fs-id1167835326514",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "In the following exercises, find the x- and y-intercepts on each graph.",
+        "In the following exercises, find the intercepts for each equation."
+      ],
+      "text": "\\(3 x - 2 y = 12\\)",
+      "math": [
+        "3 x - 2 y = 12"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>12</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>12</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 45,
+      "anchor": "fs-id1167832053318",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph a Line Using the Intercepts",
+        "In the following exercises, graph using the intercepts."
+      ],
+      "text": "\\(- x + 4 y = 8\\)",
+      "math": [
+        "- x + 4 y = 8"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mo>−</mo>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>8</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mo>−</mo>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>8</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 46,
+      "anchor": "fs-id1167834506047",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph a Line Using the Intercepts",
+        "In the following exercises, graph using the intercepts."
+      ],
+      "text": "\\(x + 2 y = 4\\)",
+      "math": [
+        "x + 2 y = 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 47,
+      "anchor": "fs-id1167835217987",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph a Line Using the Intercepts",
+        "In the following exercises, graph using the intercepts."
+      ],
+      "text": "\\(x + y = -3\\)",
+      "math": [
+        "x + y = -3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 48,
+      "anchor": "fs-id1167831239741",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph a Line Using the Intercepts",
+        "In the following exercises, graph using the intercepts."
+      ],
+      "text": "\\(x - y = -4\\)",
+      "math": [
+        "x - y = -4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 49,
+      "anchor": "fs-id1167831239409",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph a Line Using the Intercepts",
+        "In the following exercises, graph using the intercepts."
+      ],
+      "text": "\\(4 x + y = 4\\)",
+      "math": [
+        "4 x + y = 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 50,
+      "anchor": "fs-id1167834063389",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph a Line Using the Intercepts",
+        "In the following exercises, graph using the intercepts."
+      ],
+      "text": "\\(3 x + y = 3\\)",
+      "math": [
+        "3 x + y = 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 51,
+      "anchor": "fs-id1167834182324",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph a Line Using the Intercepts",
+        "In the following exercises, graph using the intercepts."
+      ],
+      "text": "\\(3 x - y = -6\\)",
+      "math": [
+        "3 x - y = -6"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−6</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−6</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 52,
+      "anchor": "fs-id1167835512205",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph a Line Using the Intercepts",
+        "In the following exercises, graph using the intercepts."
+      ],
+      "text": "\\(2 x - y = -8\\)",
+      "math": [
+        "2 x - y = -8"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−8</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−8</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 53,
+      "anchor": "fs-id1167826967127",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph a Line Using the Intercepts",
+        "In the following exercises, graph using the intercepts."
+      ],
+      "text": "\\(2 x + 4 y = 12\\)",
+      "math": [
+        "2 x + 4 y = 12"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>12</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>12</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 54,
+      "anchor": "fs-id1167826967305",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph a Line Using the Intercepts",
+        "In the following exercises, graph using the intercepts."
+      ],
+      "text": "\\(3 x - 2 y = 6\\)",
+      "math": [
+        "3 x - 2 y = 6"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>6</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>6</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 55,
+      "anchor": "fs-id1167826987293",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph a Line Using the Intercepts",
+        "In the following exercises, graph using the intercepts."
+      ],
+      "text": "\\(2 x - 5 y = -20\\)",
+      "math": [
+        "2 x - 5 y = -20"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−20</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−20</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 56,
+      "anchor": "fs-id1167831891905",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph a Line Using the Intercepts",
+        "In the following exercises, graph using the intercepts."
+      ],
+      "text": "\\(3 x - 4 y = -12\\)",
+      "math": [
+        "3 x - 4 y = -12"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−12</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−12</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 57,
+      "anchor": "fs-id1167835356423",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph a Line Using the Intercepts",
+        "In the following exercises, graph using the intercepts."
+      ],
+      "text": "\\(y = -2 x\\)",
+      "math": [
+        "y = -2 x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−2</mn>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−2</mn>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 58,
+      "anchor": "fs-id1167831923233",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph a Line Using the Intercepts",
+        "In the following exercises, graph using the intercepts."
+      ],
+      "text": "\\(y = 5 x\\)",
+      "math": [
+        "y = 5 x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>5</mn>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>5</mn>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 59,
+      "anchor": "fs-id1167834156928",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph a Line Using the Intercepts",
+        "In the following exercises, graph using the intercepts."
+      ],
+      "text": "\\(y = x\\)",
+      "math": [
+        "y = x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 60,
+      "anchor": "fs-id1167835327683",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Graph a Line Using the Intercepts",
+        "In the following exercises, graph using the intercepts."
+      ],
+      "text": "\\(y = - x\\)",
+      "math": [
+        "y = - x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 61,
+      "anchor": "fs-id1167835217785",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, graph each equation."
+      ],
+      "text": "\\(y = \\frac{3}{2} x\\)",
+      "math": [
+        "y = \\frac{3}{2} x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 62,
+      "anchor": "fs-id1167827966889",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, graph each equation."
+      ],
+      "text": "\\(y = - \\frac{2}{3} x\\)",
+      "math": [
+        "y = - \\frac{2}{3} x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 63,
+      "anchor": "fs-id1167832065980",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, graph each equation."
+      ],
+      "text": "\\(y = - \\frac{1}{2} x + 3\\)",
+      "math": [
+        "y = - \\frac{1}{2} x + 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 64,
+      "anchor": "fs-id1167827956693",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, graph each equation."
+      ],
+      "text": "\\(y = \\frac{1}{4} x - 2\\)",
+      "math": [
+        "y = \\frac{1}{4} x - 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 65,
+      "anchor": "fs-id1167834063745",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, graph each equation."
+      ],
+      "text": "\\(4 x + y = 2\\)",
+      "math": [
+        "4 x + y = 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 66,
+      "anchor": "fs-id1167834124817",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, graph each equation."
+      ],
+      "text": "\\(5 x + 2 y = 10\\)",
+      "math": [
+        "5 x + 2 y = 10"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>10</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>10</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 67,
+      "anchor": "fs-id1167834396194",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, graph each equation."
+      ],
+      "text": "\\(y = -1\\)",
+      "math": [
+        "y = -1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 68,
+      "anchor": "fs-id1167835321946",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, graph each equation."
+      ],
+      "text": "\\(x = 3\\)",
+      "math": [
+        "x = 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 69,
+      "anchor": "fs-id1167835376744",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain how you would choose three x-values to make a table to graph the line \\(y=\\frac{1}{5}x-2.\\)",
+      "math": [
+        "y=\\frac{1}{5}x-2."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mfrac><mn>1</mn><mn>5</mn></mfrac><mi>x</mi><mo>−</mo><mn>2</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mfrac><mn>1</mn><mn>5</mn></mfrac><mi>x</mi><mo>−</mo><mn>2</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 70,
+      "anchor": "fs-id1167834584369",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "What is the difference between the equations of a vertical and a horizontal line?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 71,
+      "anchor": "fs-id1167831824603",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Do you prefer to use the method of plotting points or the method using the intercepts to graph the equation \\(4x+y=-4?\\) Why?",
+      "math": [
+        "4x+y=-4?"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>−4</mn><mo>?</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>−4</mn><mo>?</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 72,
+      "anchor": "fs-id1167835322025",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Do you prefer to use the method of plotting points or the method using the intercepts to graph the equation \\(y=\\frac{2}{3}x-2?\\) Why?",
+      "math": [
+        "y=\\frac{2}{3}x-2?"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>x</mi><mo>−</mo><mn>2</mn><mo>?</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>x</mi><mo>−</mo><mn>2</mn><mo>?</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "3.1",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167834495427",
+      "context": [
+        "Plot Points on a Rectangular Coordinate System"
+      ],
+      "text": "Plot each point in a rectangular coordinate system and identify the quadrant in which the point is located:ⓐ \\((-2,1)\\) ⓑ \\((-3,-1)\\) ⓒ \\((4,-4)\\) ⓓ \\((-4,4)\\) ⓔ \\((-4,\\frac{3}{2})\\)",
+      "math": [
+        "(-2,1)",
+        "(-3,-1)",
+        "(4,-4)",
+        "(-4,4)",
+        "(-4,\\frac{3}{2})"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.2",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167831920690",
+      "context": [
+        "Plot Points on a Rectangular Coordinate System"
+      ],
+      "text": "Plot each point in a rectangular coordinate system and identify the quadrant in which the point is located:ⓐ \\((-4,1)\\) ⓑ \\((-2,3)\\) ⓒ \\((2,-5)\\) ⓓ \\((-2,5)\\) ⓔ \\((-3,\\frac{5}{2})\\)",
+      "math": [
+        "(-4,1)",
+        "(-2,3)",
+        "(2,-5)",
+        "(-2,5)",
+        "(-3,\\frac{5}{2})"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>5</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>5</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mfrac><mn>5</mn><mn>2</mn></mfrac></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mfrac><mn>5</mn><mn>2</mn></mfrac></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.3",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167835529924",
+      "context": [
+        "Plot Points on a Rectangular Coordinate System"
+      ],
+      "text": "Use graph of \\(y=3x-1.\\) For each ordered pair, decide: ⓐ Is the ordered pair a solution to the equation?ⓑ Is the point on the line? A \\((0,-1)\\) B \\((2,5)\\) [FIGURA: This figure shows a straight line graphed on the x y-coordinate plane. The x and y-axes run from negative 10 to 10. The line has arrows on both ends and goes through the points (negative 3, negative 10), (negative 2, negative 7), (negative 1, negative 4), (0, negative 1), (1, 2), (2, 5), and (3, 8). The line is labeled y plus 3 x minus 1.]",
+      "math": [
+        "y=3x-1.",
+        "(0,-1)",
+        "(2,5)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>5</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>5</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": [
+        "This figure shows a straight line graphed on the x y-coordinate plane. The x and y-axes run from negative 10 to 10. The line has arrows on both ends and goes through the points (negative 3, negative 10), (negative 2, negative 7), (negative 1, negative 4), (0, negative 1), (1, 2), (2, 5), and (3, 8). The line is labeled y plus 3 x minus 1."
+      ]
+    },
+    {
+      "number": "3.4",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167835364020",
+      "context": [
+        "Plot Points on a Rectangular Coordinate System"
+      ],
+      "text": "Use graph of \\(y=3x-1.\\) For each ordered pair, decide: ⓐ Is the ordered pair a solution to the equation?ⓑ Is the point on the line? A\\((3,-1)\\) B\\((-1,-4)\\) [FIGURA: This figure shows a straight line graphed on the x y-coordinate plane. The x and y-axes run from negative 10 to 10. The line has arrows on both ends and goes through the points (negative 3, negative 10), (negative 2, negative 7), (negative 1, negative 4), (0, negative 1), (1, 2), (2, 5), and (3, 8). The line is labeled y plus 3 x minus 1.]",
+      "math": [
+        "y=3x-1.",
+        "(3,-1)",
+        "(-1,-4)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": [
+        "This figure shows a straight line graphed on the x y-coordinate plane. The x and y-axes run from negative 10 to 10. The line has arrows on both ends and goes through the points (negative 3, negative 10), (negative 2, negative 7), (negative 1, negative 4), (0, negative 1), (1, 2), (2, 5), and (3, 8). The line is labeled y plus 3 x minus 1."
+      ]
+    },
+    {
+      "number": "3.5",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167835348900",
+      "context": [
+        "Graph a Linear Equation by Plotting Points"
+      ],
+      "text": "Graph the equation by plotting points: \\(y=2x-3.\\)",
+      "math": [
+        "y=2x-3."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.6",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167831847014",
+      "context": [
+        "Graph a Linear Equation by Plotting Points"
+      ],
+      "text": "Graph the equation by plotting points: \\(y=-2x+4.\\)",
+      "math": [
+        "y=-2x+4."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>−2</mn><mi>x</mi><mo>+</mo><mn>4</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>−2</mn><mi>x</mi><mo>+</mo><mn>4</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.7",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167830837122",
+      "context": [
+        "Graph a Linear Equation by Plotting Points"
+      ],
+      "text": "Graph the equation: \\(y=\\frac{1}{3}x-1.\\)",
+      "math": [
+        "y=\\frac{1}{3}x-1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>x</mi><mo>−</mo><mn>1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>x</mi><mo>−</mo><mn>1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.8",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167826994459",
+      "context": [
+        "Graph a Linear Equation by Plotting Points"
+      ],
+      "text": "Graph the equation: \\(y=\\frac{1}{4}x+2.\\)",
+      "math": [
+        "y=\\frac{1}{4}x+2."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mi>x</mi><mo>+</mo><mn>2</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mi>x</mi><mo>+</mo><mn>2</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.9",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167835254340",
+      "context": [
+        "Graph Vertical and Horizontal Lines"
+      ],
+      "text": "Graph the equations: ⓐ \\(x=5\\) ⓑ \\(y=-4.\\)",
+      "math": [
+        "x=5",
+        "y=-4."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>5</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>−4</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>−4</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.10",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167834061467",
+      "context": [
+        "Graph Vertical and Horizontal Lines"
+      ],
+      "text": "Graph the equations: ⓐ \\(x=-2\\) ⓑ \\(y=3.\\)",
+      "math": [
+        "x=-2",
+        "y=3."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>−2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>−2</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>3</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>3</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.11",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167831954167",
+      "context": [
+        "Graph Vertical and Horizontal Lines"
+      ],
+      "text": "Graph the equations in the same rectangular coordinate system: \\(y=-4x\\) and \\(y=-4.\\)",
+      "math": [
+        "y=-4x",
+        "y=-4."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>−4</mn><mi>x</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>−4</mn><mi>x</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>−4</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>−4</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.12",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167834252684",
+      "context": [
+        "Graph Vertical and Horizontal Lines"
+      ],
+      "text": "Graph the equations in the same rectangular coordinate system: \\(y=3\\) and \\(y=3x.\\)",
+      "math": [
+        "y=3",
+        "y=3x."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>3</mn><mi>x</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>3</mn><mi>x</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.13",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167826986762",
+      "context": [
+        "Find x- and y-intercepts"
+      ],
+      "text": "Find the x- and y-intercepts on the graph. [FIGURA: This figure a shows a straight line graphed on the x y-coordinate plane. The x and y axes run from negative 10 to 10. The line goes through the points (negative 6, negative 8), (negative 4, negative 6), (negative 2, negative 4), (0, negative 2), (2, 0), (4, 2), (6, 4), (8, 6).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure a shows a straight line graphed on the x y-coordinate plane. The x and y axes run from negative 10 to 10. The line goes through the points (negative 6, negative 8), (negative 4, negative 6), (negative 2, negative 4), (0, negative 2), (2, 0), (4, 2), (6, 4), (8, 6)."
+      ]
+    },
+    {
+      "number": "3.14",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167832153758",
+      "context": [
+        "Find x- and y-intercepts"
+      ],
+      "text": "Find the x- and y-intercepts on the graph. [FIGURA: This figure a shows a straight line graphed on the x y-coordinate plane. The x and y axes run from negative 10 to 10. The line goes through the points (negative 6, 6), (negative 3, 4), (0, 2), (3, 0), (6, negative 2), and (9, negative 4).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure a shows a straight line graphed on the x y-coordinate plane. The x and y axes run from negative 10 to 10. The line goes through the points (negative 6, 6), (negative 3, 4), (0, 2), (3, 0), (6, negative 2), and (9, negative 4)."
+      ]
+    },
+    {
+      "number": "3.15",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167835353170",
+      "context": [
+        "Find x- and y-intercepts"
+      ],
+      "text": "Find the intercepts: \\(3x+y=12.\\)",
+      "math": [
+        "3x+y=12."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>12</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>12</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.16",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167835348348",
+      "context": [
+        "Find x- and y-intercepts"
+      ],
+      "text": "Find the intercepts: \\(x+4y=8.\\)",
+      "math": [
+        "x+4y=8."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>+</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>8</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>+</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>8</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.17",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167835337762",
+      "context": [
+        "Graph a Line Using the Intercepts"
+      ],
+      "text": "Graph using the intercepts: \\(x–2y=4.\\)",
+      "math": [
+        "x–2y=4."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>–</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>4</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>–</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>4</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.18",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167834448816",
+      "context": [
+        "Graph a Line Using the Intercepts"
+      ],
+      "text": "Graph using the intercepts: \\(–x+3y=6.\\)",
+      "math": [
+        "–x+3y=6."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mo>–</mo><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>6</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mo>–</mo><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>6</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.19",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167835280874",
+      "context": [
+        "Graph a Line Using the Intercepts"
+      ],
+      "text": "Graph using the intercepts: \\(5x-2y=10.\\)",
+      "math": [
+        "5x-2y=10."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mi>x</mi><mo>−</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>10</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mi>x</mi><mo>−</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>10</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.20",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167835363641",
+      "context": [
+        "Graph a Line Using the Intercepts"
+      ],
+      "text": "Graph using the intercepts: \\(3x-4y=12.\\)",
+      "math": [
+        "3x-4y=12."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>12</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>12</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.21",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167835377790",
+      "context": [
+        "Graph a Line Using the Intercepts"
+      ],
+      "text": "Graph using the intercepts: \\(y=4x.\\)",
+      "math": [
+        "y=4x."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>4</mn><mi>x</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>4</mn><mi>x</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.22",
+      "page": "3-1-graph-linear-equations-in-two-variables",
+      "is_try_it": true,
+      "anchor": "fs-id1167834309127",
+      "context": [
+        "Graph a Line Using the Intercepts"
+      ],
+      "text": "Graph the intercepts: \\(y=-x.\\)",
+      "math": [
+        "y=-x."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mtext>−</mtext><mi>x</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mtext>−</mtext><mi>x</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

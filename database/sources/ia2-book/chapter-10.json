@@ -1,0 +1,1830 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/chapter-10",
+  "title": "Chapter 10",
+  "sha256": "cf44cdbc4d609378053ad4ea0f55971b52fefd140947b0cc54524483c58a3293",
+  "questions": [],
+  "practice": [],
+  "answers": {
+    "10.1": {
+      "text": "ⓐ \\(15x+1\\) ⓑ \\(15x-9\\)ⓒ \\(15{x}^{2}-7x-2\\)",
+      "math": [
+        "15x+1",
+        "15x-9",
+        "15{x}^{2}-7x-2"
+      ]
+    },
+    "10.2": {
+      "text": "ⓐ \\(24x-23\\) ⓑ \\(24x-23\\)ⓒ \\(24{x}^{2}-38x+15\\)",
+      "math": [
+        "24x-23",
+        "24x-23",
+        "24{x}^{2}-38x+15"
+      ]
+    },
+    "10.3": {
+      "text": "ⓐ –8 ⓑ 5 ⓒ 40",
+      "math": []
+    },
+    "10.4": {
+      "text": "ⓐ 65 ⓑ 10 ⓒ 5",
+      "math": []
+    },
+    "10.5": {
+      "text": "ⓐ One-to-one functionⓑ Function; not one-to-one",
+      "math": []
+    },
+    "10.6": {
+      "text": "ⓐ Not a functionⓑ Function; not one-to-one",
+      "math": []
+    },
+    "10.7": {
+      "text": "ⓐ Not a function ⓑ One-to-one function",
+      "math": []
+    },
+    "10.8": {
+      "text": "ⓐ Function; not one-to-one ⓑ One-to-one function",
+      "math": []
+    },
+    "10.9": {
+      "text": "Inverse function: \\({(4,0),(7,1),(10,2),(13,3)}.\\) Domain: \\({4,7,10,13}.\\) Range: \\({0,1,2,3}.\\)",
+      "math": [
+        "{(4,0),(7,1),(10,2),(13,3)}.",
+        "{4,7,10,13}.",
+        "{0,1,2,3}."
+      ]
+    },
+    "10.10": {
+      "text": "Inverse function: \\({(4,-1),(1,-2),(0,-3),(2,-4)}.\\) Domain: \\({0,1,2,4}.\\) Range: \\({-4,-3,-2,-1}.\\)",
+      "math": [
+        "{(4,-1),(1,-2),(0,-3),(2,-4)}.",
+        "{0,1,2,4}.",
+        "{-4,-3,-2,-1}."
+      ]
+    },
+    "10.11": {
+      "text": "[FIGURA: This figure shows a line from (negative 4, negative 3) to (negative 2, negative 2) then to (negative 1, 0) then to (2, 1) and then to (3, 4).]",
+      "math": []
+    },
+    "10.12": {
+      "text": "[FIGURA: Graph extends from negative 4 to 4 on both axes. Points plotted are (negative 3, 4), (0, 3), (1, 2), and (4, 1). Line segments connect points.]",
+      "math": []
+    },
+    "10.13": {
+      "text": "\\(g(f(x))=x,\\) and \\(f(g(x))=x,\\) so they are inverses.",
+      "math": [
+        "g(f(x))=x,",
+        "f(g(x))=x,"
+      ]
+    },
+    "10.14": {
+      "text": "\\(g(f(x))=x,\\) and \\(f(g(x))=x,\\) so they are inverses.",
+      "math": [
+        "g(f(x))=x,",
+        "f(g(x))=x,"
+      ]
+    },
+    "10.15": {
+      "text": "\\({f}^{ -1 } ( x ) = \\frac{ x + 3 }{5}\\)",
+      "math": [
+        "{f}^{ -1 } ( x ) = \\frac{ x + 3 }{5}"
+      ]
+    },
+    "10.16": {
+      "text": "\\({f}^{ -1 } ( x ) = \\frac{ x - 5 }{8}\\)",
+      "math": [
+        "{f}^{ -1 } ( x ) = \\frac{ x - 5 }{8}"
+      ]
+    },
+    "10.17": {
+      "text": "\\({f}^{ -1 } ( x ) = \\frac{ {x}^{5} + 2 }{3}\\)",
+      "math": [
+        "{f}^{ -1 } ( x ) = \\frac{ {x}^{5} + 2 }{3}"
+      ]
+    },
+    "10.18": {
+      "text": "\\({f}^{ -1 } ( x ) = \\frac{ {x}^{4} + 7 }{6}\\)",
+      "math": [
+        "{f}^{ -1 } ( x ) = \\frac{ {x}^{4} + 7 }{6}"
+      ]
+    },
+    "10.19": {
+      "text": "[FIGURA: This figure shows a curve that slopes swiftly upward from just above (negative 3, 0) through (0, 1) up to (1, 4).]",
+      "math": []
+    },
+    "10.20": {
+      "text": "[FIGURA: This figure shows a curve that slopes swiftly upward from just above (negative 3, 0) through (0, 1) up to (1, 5).]",
+      "math": []
+    },
+    "10.21": {
+      "text": "[FIGURA: This figure shows a curve that passes through (negative 1, 4), (0, 1) to a point just above (3, 0).]",
+      "math": []
+    },
+    "10.22": {
+      "text": "[FIGURA: This figure shows a curve that passes through (negative 1, 5), (0, 1) to a point just above (3, 0).]",
+      "math": []
+    },
+    "10.23": {
+      "text": "[FIGURA: This figure shows the graphs of two functions. The first function f of x equals 2 to the x power is marked in blue and corresponds to a curve that passes through the points (negative 1, 1 over 2), (0, 1) and (1, 2). The second function g of x equals 2 to the x minus 1 power is marked in red and passes through the points (0, 1 over 2), (1, 1), and (2, 2).]",
+      "math": []
+    },
+    "10.24": {
+      "text": "[FIGURA: This figure shows the graphs of two functions. The first function f of x equals 3 to the x power is marked in blue and corresponds to a curve that passes through the points (negative 1, 1 over 3), (0, 1) and (1, 3). The second function g of x equals 3 to the x plus 1 power is marked in red and passes through the points (negative 2, 1 over 3), (negative 1, 1), and (0, 3).]",
+      "math": []
+    },
+    "10.25": {
+      "text": "[FIGURA: This figure shows the graphs of two functions. The first function f of x equals 3 to the x power is marked in blue and corresponds to a curve that passes through the points (negative 1, 1 over 3), (0, 1) and (1, 3). The second function g of x equals 3 to the x power plus 2 is marked in red and passes through the points (negative 1, 7 over 3), (0, 3) and (1, 5).]",
+      "math": []
+    },
+    "10.26": {
+      "text": "[FIGURA: This figure shows the graphs of two functions. The first function f of x equals 4 to the x power is marked in blue and corresponds to a curve that passes through the points (negative 1, 1 over 4), (0, 1) and (1, 4). The second function g of x equals 4 to the x power minus 2 is marked in red and passes through the points (negative 1, negative 7 over 4), (0, negative 1), and (1, 2).]",
+      "math": []
+    },
+    "10.27": {
+      "text": "\\(x = 2\\)",
+      "math": [
+        "x = 2"
+      ]
+    },
+    "10.28": {
+      "text": "\\(x = 4\\)",
+      "math": [
+        "x = 4"
+      ]
+    },
+    "10.29": {
+      "text": "\\(x = -1 , x = 2\\)",
+      "math": [
+        "x = -1 , x = 2"
+      ]
+    },
+    "10.30": {
+      "text": "\\(x = -2 , x = 3\\)",
+      "math": [
+        "x = -2 , x = 3"
+      ]
+    },
+    "10.31": {
+      "text": "ⓐ \\(\\$22,332.96\\)ⓑ \\(\\$22,362.49\\) ⓒ \\(\\$22,377.37\\)",
+      "math": [
+        "$22,332.96",
+        "$22,362.49",
+        "$22,377.37"
+      ]
+    },
+    "10.32": {
+      "text": "ⓐ $21,071.81 ⓑ $21,137.04ⓒ $21,170.00",
+      "math": []
+    },
+    "10.33": {
+      "text": "She will find 166 bacteria.",
+      "math": []
+    },
+    "10.34": {
+      "text": "They will find 1,102 viruses.",
+      "math": []
+    },
+    "10.35": {
+      "text": "ⓐ \\({log}_{3}9=2\\)ⓑ \\({log}_{7}\\sqrt{7}=\\frac{1}{2}\\) ⓒ \\({log}_{\\frac{1}{3}}\\frac{1}{27}=x\\)",
+      "math": [
+        "\\log_{3}9=2",
+        "\\log_{7}\\sqrt{7}=\\frac{1}{2}",
+        "\\log_{\\frac{1}{3}}\\frac{1}{27}=x"
+      ]
+    },
+    "10.36": {
+      "text": "ⓐ \\({log}_{4}64=3\\)ⓑ \\({log}_{4}43=\\frac{1}{3}\\) ⓒ \\({log}_{\\frac{1}{2}}\\frac{1}{32}=x\\)",
+      "math": [
+        "\\log_{4}64=3",
+        "\\log_{4}\\sqrt[3]{4}=\\frac{1}{3}",
+        "\\log_{\\frac{1}{2}}\\frac{1}{32}=x"
+      ]
+    },
+    "10.37": {
+      "text": "ⓐ \\(64={4}^{3}\\)ⓑ \\(1={x}^{0}\\) ⓒ \\(\\frac{1}{100}={10}^{-2}\\)",
+      "math": [
+        "64={4}^{3}",
+        "1={x}^{0}",
+        "\\frac{1}{100}={10}^{-2}"
+      ]
+    },
+    "10.38": {
+      "text": "ⓐ \\(27={3}^{3}\\) ⓑ \\(1={3}^{0}\\)ⓒ \\(\\frac{1}{10}={10}^{-1}\\)",
+      "math": [
+        "27={3}^{3}",
+        "1={3}^{0}",
+        "\\frac{1}{10}={10}^{-1}"
+      ]
+    },
+    "10.39": {
+      "text": "ⓐ \\(x=8\\) ⓑ \\(x=125\\) ⓒ \\(x=2\\)",
+      "math": [
+        "x=8",
+        "x=125",
+        "x=2"
+      ]
+    },
+    "10.40": {
+      "text": "ⓐ \\(x=9\\) ⓑ \\(x=243\\) ⓒ \\(x=3\\)",
+      "math": [
+        "x=9",
+        "x=243",
+        "x=3"
+      ]
+    },
+    "10.41": {
+      "text": "ⓐ 2 ⓑ \\(\\frac{1}{2}\\) ⓒ \\(-5\\)",
+      "math": [
+        "\\frac{1}{2}",
+        "-5"
+      ]
+    },
+    "10.42": {
+      "text": "ⓐ 2 ⓑ \\(\\frac{1}{3}\\) ⓒ \\(-2\\)",
+      "math": [
+        "\\frac{1}{3}",
+        "-2"
+      ]
+    },
+    "10.43": {
+      "text": "[FIGURA: This figure shows the logarithmic curve going through the points (1 over 3, negative 1), (1, 0), and (3, 1).]",
+      "math": []
+    },
+    "10.44": {
+      "text": "[FIGURA: This figure shows the logarithmic curve going through the points (1 over 5, negative 1), (1, 0), and (5, 1).]",
+      "math": []
+    },
+    "10.45": {
+      "text": "[FIGURA: This figure shows the logarithmic curve going through the points (1 over 2, 1), (1, 0), and (2, negative 1).]",
+      "math": []
+    },
+    "10.46": {
+      "text": "[FIGURA: This figure shows the logarithmic curve going through the points (1 over 4, 1), (1, 0), and (4, negative 1).]",
+      "math": []
+    },
+    "10.47": {
+      "text": "ⓐ \\(a=11\\)ⓑ \\(x={e}^{7}\\)",
+      "math": [
+        "a=11",
+        "x={e}^{7}"
+      ]
+    },
+    "10.48": {
+      "text": "ⓐ \\(a=4\\)ⓑ \\(x={e}^{9}\\)",
+      "math": [
+        "a=4",
+        "x={e}^{9}"
+      ]
+    },
+    "10.49": {
+      "text": "ⓐ \\(x=13\\)ⓑ \\(x=2\\)",
+      "math": [
+        "x=13",
+        "x=2"
+      ]
+    },
+    "10.50": {
+      "text": "ⓐ \\(x=6\\)ⓑ \\(x=1\\)",
+      "math": [
+        "x=6",
+        "x=1"
+      ]
+    },
+    "10.51": {
+      "text": "The quiet dishwashers have a decibel level of 50 dB.",
+      "math": []
+    },
+    "10.52": {
+      "text": "The decibel level of heavy traffic is 90 dB.",
+      "math": []
+    },
+    "10.53": {
+      "text": "The intensity of the 1906 earthquake was about 8 times the intensity of the 1989 earthquake.",
+      "math": []
+    },
+    "10.54": {
+      "text": "The intensity of the earthquake in Chile was about 1,259 times the intensity of the earthquake in Los Angeles.",
+      "math": []
+    },
+    "10.55": {
+      "text": "ⓐ 0 ⓑ 1",
+      "math": []
+    },
+    "10.56": {
+      "text": "ⓐ 0 ⓑ 1",
+      "math": []
+    },
+    "10.57": {
+      "text": "ⓐ 15 ⓑ 4",
+      "math": []
+    },
+    "10.58": {
+      "text": "ⓐ 8 ⓑ 15",
+      "math": []
+    },
+    "10.59": {
+      "text": "ⓐ \\(1+{log}_{3}x\\)ⓑ \\(3+{log}_{2}x+{log}_{2}y\\)",
+      "math": [
+        "1+\\log_{3}x",
+        "3+\\log_{2}x+\\log_{2}y"
+      ]
+    },
+    "10.60": {
+      "text": "ⓐ \\(1+{log}_{9}x\\)ⓑ \\(3+{log}_{3}x+{log}_{3}y\\)",
+      "math": [
+        "1+\\log_{9}x",
+        "3+\\log_{3}x+\\log_{3}y"
+      ]
+    },
+    "10.61": {
+      "text": "ⓐ \\({log}_{4}3-1\\) ⓑ \\(logx-3\\)",
+      "math": [
+        "\\log_{4}3-1",
+        "\\logx-3"
+      ]
+    },
+    "10.62": {
+      "text": "ⓐ \\({log}_{2}5-2\\) ⓑ \\(1-logy\\)",
+      "math": [
+        "\\log_{2}5-2",
+        "1-\\logy"
+      ]
+    },
+    "10.63": {
+      "text": "ⓐ \\(4{log}_{7}5\\) ⓑ \\(100\\cdot logx\\)",
+      "math": [
+        "4\\log_{7}5",
+        "100\\cdot \\logx"
+      ]
+    },
+    "10.64": {
+      "text": "ⓐ \\(7{log}_{2}3\\) ⓑ \\(20\\cdot logx\\)",
+      "math": [
+        "7\\log_{2}3",
+        "20\\cdot \\logx"
+      ]
+    },
+    "10.65": {
+      "text": "\\({ log }_{2} 5 + 4 { log }_{2} x + 2 { log }_{2} y\\)",
+      "math": [
+        "\\log_{2} 5 + 4 \\log_{2} x + 2 \\log_{2} y"
+      ]
+    },
+    "10.66": {
+      "text": "\\({ log }_{3} 7 + 5 { log }_{3} x + 3 { log }_{3} y\\)",
+      "math": [
+        "\\log_{3} 7 + 5 \\log_{3} x + 3 \\log_{3} y"
+      ]
+    },
+    "10.67": {
+      "text": "\\(\\frac{1}{5} ( 4 { log }_{4} x - \\frac{1}{2} - 3 { log }_{4} y - 2 { log }_{4} z )\\)",
+      "math": [
+        "\\frac{1}{5} ( 4 \\log_{4} x - \\frac{1}{2} - 3 \\log_{4} y - 2 \\log_{4} z )"
+      ]
+    },
+    "10.68": {
+      "text": "\\(\\frac{1}{3} ( 2 { log }_{3} x - { log }_{3} 5 - { log }_{3} y - { log }_{3} z )\\)",
+      "math": [
+        "\\frac{1}{3} ( 2 \\log_{3} x - \\log_{3} 5 - \\log_{3} y - \\log_{3} z )"
+      ]
+    },
+    "10.69": {
+      "text": "\\({ log }_{2} \\frac{ 5 x }{y}\\)",
+      "math": [
+        "\\log_{2} \\frac{ 5 x }{y}"
+      ]
+    },
+    "10.70": {
+      "text": "\\({ log }_{3} \\frac{6}{ x y }\\)",
+      "math": [
+        "\\log_{3} \\frac{6}{ x y }"
+      ]
+    },
+    "10.71": {
+      "text": "\\({ log }_{2} {x}^{3} { ( x - 1 ) }^{2}\\)",
+      "math": [
+        "\\log_{2} {x}^{3} { ( x - 1 ) }^{2}"
+      ]
+    },
+    "10.72": {
+      "text": "\\(log {x}^{2} { ( x + 1 ) }^{2}\\)",
+      "math": [
+        "\\log {x}^{2} { ( x + 1 ) }^{2}"
+      ]
+    },
+    "10.73": {
+      "text": "\\(3.402\\)",
+      "math": [
+        "3.402"
+      ]
+    },
+    "10.74": {
+      "text": "\\(2.379\\)",
+      "math": [
+        "2.379"
+      ]
+    },
+    "10.75": {
+      "text": "\\(x = 6\\)",
+      "math": [
+        "x = 6"
+      ]
+    },
+    "10.76": {
+      "text": "\\(x = 4\\)",
+      "math": [
+        "x = 4"
+      ]
+    },
+    "10.77": {
+      "text": "\\(x = 4\\)",
+      "math": [
+        "x = 4"
+      ]
+    },
+    "10.78": {
+      "text": "\\(x = 8\\)",
+      "math": [
+        "x = 8"
+      ]
+    },
+    "10.79": {
+      "text": "\\(x = 3\\)",
+      "math": [
+        "x = 3"
+      ]
+    },
+    "10.80": {
+      "text": "\\(x = 8\\)",
+      "math": [
+        "x = 8"
+      ]
+    },
+    "10.81": {
+      "text": "\\(x = \\frac{ log 43 }{ log 7 } ≈ 1.933\\)",
+      "math": [
+        "x = \\frac{ \\log 43 }{ \\log 7 } ≈ 1.933"
+      ]
+    },
+    "10.82": {
+      "text": "\\(x = \\frac{ log 98 }{ log 8 } ≈ 2.205\\)",
+      "math": [
+        "x = \\frac{ \\log 98 }{ \\log 8 } ≈ 2.205"
+      ]
+    },
+    "10.83": {
+      "text": "\\(x = ln 9 + 2 ≈ 4.197\\)",
+      "math": [
+        "x = \\ln 9 + 2 ≈ 4.197"
+      ]
+    },
+    "10.84": {
+      "text": "\\(x = \\frac{ ln 5 }{2} ≈ 0.805\\)",
+      "math": [
+        "x = \\frac{ \\ln 5 }{2} ≈ 0.805"
+      ]
+    },
+    "10.85": {
+      "text": "\\(r ≈ 9.3 %\\)",
+      "math": [
+        "r ≈ 9.3 %"
+      ]
+    },
+    "10.86": {
+      "text": "\\(r ≈ 11.9 %\\)",
+      "math": [
+        "r ≈ 11.9 %"
+      ]
+    },
+    "10.87": {
+      "text": "There will be 62,500 bacteria.",
+      "math": []
+    },
+    "10.88": {
+      "text": "There will be 47,700 bacteria.",
+      "math": []
+    },
+    "10.89": {
+      "text": "There will be 6.44 mg left.",
+      "math": []
+    },
+    "10.90": {
+      "text": "There will be 31.5 mg left.",
+      "math": []
+    },
+    "1": {
+      "text": "ⓐ \\(8x+23\\) ⓑ \\(8x+11\\) ⓒ \\(8{x}^{2}+26x+15\\)",
+      "math": [
+        "8x+23",
+        "8x+11",
+        "8{x}^{2}+26x+15"
+      ]
+    },
+    "3": {
+      "text": "ⓐ \\(24x+1\\) ⓑ \\(24x-19\\)ⓒ \\(24{x}^{2}-14x-5\\)",
+      "math": [
+        "24x+1",
+        "24x-19",
+        "24{x}^{2}-14x-5"
+      ]
+    },
+    "5": {
+      "text": "ⓐ \\(6{x}^{2}-9x\\) ⓑ \\(18{x}^{2}-9x\\)ⓒ \\(6{x}^{3}-9{x}^{2}\\)",
+      "math": [
+        "6{x}^{2}-9x",
+        "18{x}^{2}-9x",
+        "6{x}^{3}-9{x}^{2}"
+      ]
+    },
+    "7": {
+      "text": "ⓐ \\(2{x}^{2}+3\\) ⓑ \\(4{x}^{2}-4x+3\\)ⓒ \\(2{x}^{3}-{x}^{2}+4x-2\\)",
+      "math": [
+        "2{x}^{2}+3",
+        "4{x}^{2}-4x+3",
+        "2{x}^{3}-{x}^{2}+4x-2"
+      ]
+    },
+    "9": {
+      "text": "ⓐ 245 ⓑ 104 ⓒ 53",
+      "math": []
+    },
+    "11": {
+      "text": "ⓐ 250 ⓑ 14 ⓒ 77",
+      "math": []
+    },
+    "13": {
+      "text": "Function; not one-to-one",
+      "math": []
+    },
+    "15": {
+      "text": "One-to-one function",
+      "math": []
+    },
+    "17": {
+      "text": "ⓐ Not a function ⓑ Function; not one-to-one",
+      "math": []
+    },
+    "19": {
+      "text": "ⓐ One-to-one functionⓑ Function; not one-to-one",
+      "math": []
+    },
+    "21": {
+      "text": "Inverse function: \\({(1,2),(2,4),(3,6),(4,8)}.\\) Domain: \\({1,2,3,4}.\\) Range: \\({2,4,6,8}.\\)",
+      "math": [
+        "{(1,2),(2,4),(3,6),(4,8)}.",
+        "{1,2,3,4}.",
+        "{2,4,6,8}."
+      ]
+    },
+    "23": {
+      "text": "Inverse function: \\({(-2,0),(3,1),(7,2),(12,3)}.\\) Domain: \\({-2,3,7,12}.\\) Range: \\({0,1,2,3}.\\)",
+      "math": [
+        "{(-2,0),(3,1),(7,2),(12,3)}.",
+        "{-2,3,7,12}.",
+        "{0,1,2,3}."
+      ]
+    },
+    "25": {
+      "text": "Inverse function: \\({(-3,-2),(-1,-1),(1,0),(3,1)}.\\) Domain: \\({-3,-1,1,3}.\\) Range: \\({-2,-1,0,1}.\\)",
+      "math": [
+        "{(-3,-2),(-1,-1),(1,0),(3,1)}.",
+        "{-3,-1,1,3}.",
+        "{-2,-1,0,1}."
+      ]
+    },
+    "27": {
+      "text": "[FIGURA: This figure shows a series of line segments from (negative 3, negative 4) to (0, negative 3) then to (2, negative 1), and then to (4, 3).]",
+      "math": []
+    },
+    "29": {
+      "text": "[FIGURA: This figure shows a series of line segments from (negative 1, 4) to (2, 3) then to (3, 0), and then to (4, negative 4).]",
+      "math": []
+    },
+    "31": {
+      "text": "\\(g(f(x))=x,\\) and \\(f(g(x))=x,\\) so they are inverses.",
+      "math": [
+        "g(f(x))=x,",
+        "f(g(x))=x,"
+      ]
+    },
+    "33": {
+      "text": "\\(g(f(x))=x,\\) and \\(f(g(x))=x,\\) so they are inverses.",
+      "math": [
+        "g(f(x))=x,",
+        "f(g(x))=x,"
+      ]
+    },
+    "35": {
+      "text": "\\(g(f(x))=x,\\) and \\(f(g(x))=x,\\) so they are inverses.",
+      "math": [
+        "g(f(x))=x,",
+        "f(g(x))=x,"
+      ]
+    },
+    "37": {
+      "text": "\\(g(f(x))=x,\\) and \\(f(g(x))=x,\\) so they are inverses (for nonnegative \\(x).\\)",
+      "math": [
+        "g(f(x))=x,",
+        "f(g(x))=x,",
+        "x)."
+      ]
+    },
+    "39": {
+      "text": "\\({f}^{ -1 } ( x ) = x + 12\\)",
+      "math": [
+        "{f}^{ -1 } ( x ) = x + 12"
+      ]
+    },
+    "41": {
+      "text": "\\({f}^{ -1 } ( x ) = \\frac{x}{9}\\)",
+      "math": [
+        "{f}^{ -1 } ( x ) = \\frac{x}{9}"
+      ]
+    },
+    "43": {
+      "text": "\\({f}^{ -1 } ( x ) = 6 x\\)",
+      "math": [
+        "{f}^{ -1 } ( x ) = 6 x"
+      ]
+    },
+    "45": {
+      "text": "\\({f}^{ -1 } ( x ) = \\frac{ x + 7 }{6}\\)",
+      "math": [
+        "{f}^{ -1 } ( x ) = \\frac{ x + 7 }{6}"
+      ]
+    },
+    "47": {
+      "text": "\\({f}^{ -1 } ( x ) = \\frac{ x - 5 }{ -2 }\\)",
+      "math": [
+        "{f}^{ -1 } ( x ) = \\frac{ x - 5 }{ -2 }"
+      ]
+    },
+    "49": {
+      "text": "\\({f}^{ -1 } ( x ) = \\sqrt{ x - 6 }\\)",
+      "math": [
+        "{f}^{ -1 } ( x ) = \\sqrt{ x - 6 }"
+      ]
+    },
+    "51": {
+      "text": "\\({f}^{ -1 } ( x ) = x + 4 3\\)",
+      "math": [
+        "{f}^{ -1 } ( x ) = \\sqrt[3]{ x + 4 }"
+      ]
+    },
+    "53": {
+      "text": "\\({f}^{ -1 } ( x ) = \\frac{1}{x} - 2\\)",
+      "math": [
+        "{f}^{ -1 } ( x ) = \\frac{1}{x} - 2"
+      ]
+    },
+    "55": {
+      "text": "\\({f}^{-1}(x)={x}^{2}+2\\), \\(x≥0\\)",
+      "math": [
+        "{f}^{-1}(x)={x}^{2}+2",
+        "x\\ge 0"
+      ]
+    },
+    "57": {
+      "text": "\\({f}^{ -1 } ( x ) = {x}^{3} + 3\\)",
+      "math": [
+        "{f}^{ -1 } ( x ) = {x}^{3} + 3"
+      ]
+    },
+    "59": {
+      "text": "\\({f}^{-1}(x)=\\frac{{x}^{4}+5}{9}\\), \\(x≥0\\)",
+      "math": [
+        "{f}^{-1}(x)=\\frac{{x}^{4}+5}{9}",
+        "x\\ge 0"
+      ]
+    },
+    "61": {
+      "text": "\\({f}^{ -1 } ( x ) = \\frac{ {x}^{5} - 5 }{ -3 }\\)",
+      "math": [
+        "{f}^{ -1 } ( x ) = \\frac{ {x}^{5} - 5 }{ -3 }"
+      ]
+    },
+    "63": {
+      "text": "Answers will vary.",
+      "math": []
+    },
+    "65": {
+      "text": "[FIGURA: This figure shows a curve that passes through (negative 1, 1 over 2) through (0, 1) to (1, 2).]",
+      "math": []
+    },
+    "67": {
+      "text": "[FIGURA: This figure shows a curve that passes through (negative 1, 1 over 6) through (0, 1) to (1, 6).]",
+      "math": []
+    },
+    "69": {
+      "text": "[FIGURA: This figure shows a curve that passes through (negative 1, 2 over 3) through (0, 1) to (1, 3 over 2).]",
+      "math": []
+    },
+    "71": {
+      "text": "[FIGURA: This figure shows a curve that passes through (negative 1, 2) through (0, 1) to (1, 1 over 2).]",
+      "math": []
+    },
+    "73": {
+      "text": "[FIGURA: This figure shows a curve that passes through (negative1, 6) through (0, 1) to (1, 1 over 6).]",
+      "math": []
+    },
+    "75": {
+      "text": "[FIGURA: This figure shows a curve that passes through (negative 1, 5 over 2) through (0, 1) to (1, 2 over 5).]",
+      "math": []
+    },
+    "77": {
+      "text": "[FIGURA: This figure shows two functions. The first function f of x equals 4 to the x power is marked in blue and corresponds to a curve that passes through the points (negative 1, 1 over 4), (0, 1) and (1, 4). The second function g of x equals 4 to the x minus 1 power is marked in red and passes through the points (0, 1 over 4), (1, 1) and (2, 4).]",
+      "math": []
+    },
+    "79": {
+      "text": "[FIGURA: This figure shows two functions. The first function f of x equals 2 to the x power is marked in blue and corresponds to a curve that passes through the points (negative 1, 1 over 2), (0, 1) and (1, 2). The second function g of x equals 2 to the x minus 2 power is marked in red and passes through the points (0, 1 over 4), (1, 1 over 2), and (2, 1).]",
+      "math": []
+    },
+    "81": {
+      "text": "[FIGURA: This figure shows two functions. The first function f of x equals 3 to the x power is marked in blue and corresponds to a curve that passes through the points (negative 1, 1 over 3), (0, 1), and (1, 3). The second function g of x equals 3 to the x power plus 2 is marked in red and passes through the points (negative 2, 1), (negative 1, 3), and (0, 5).]",
+      "math": []
+    },
+    "83": {
+      "text": "[FIGURA: This figure shows two functions. The first function f of x equals 2 to the x power is marked in blue and corresponds to a curve that passes through the points (negative 1, 1 over 2), (0, 1), and (1, 2). The second function g of x equals 2 to the x power plus 1 is marked in red and passes through the points (negative 1, 1), (0, 2), and (1, 4).]",
+      "math": []
+    },
+    "85": {
+      "text": "[FIGURA: This figure shows an exponential curve that passes through (negative 3, 1 over 3), (negative 2, 1), and (0, 9).]",
+      "math": []
+    },
+    "87": {
+      "text": "[FIGURA: This figure shows an exponential that passes through (negative 1, 7 over 2), (0, 4), and (1, 5).]",
+      "math": []
+    },
+    "89": {
+      "text": "[FIGURA: This figure shows an exponential that passes through (2, 4), (3, 2), and (4, 1).]",
+      "math": []
+    },
+    "91": {
+      "text": "[FIGURA: This figure shows an exponential that passes through (1, 1 plus 1 over e), (0, 2), and (1, e).]",
+      "math": []
+    },
+    "93": {
+      "text": "[FIGURA: This figure shows an exponential that passes through (negative 1, negative 1 over 2), (0, negative 1), and (1, 2).]",
+      "math": []
+    },
+    "95": {
+      "text": "\\(x = 4\\)",
+      "math": [
+        "x = 4"
+      ]
+    },
+    "97": {
+      "text": "\\(x = -1\\)",
+      "math": [
+        "x = -1"
+      ]
+    },
+    "99": {
+      "text": "\\(x = -1 , x = 1\\)",
+      "math": [
+        "x = -1 , x = 1"
+      ]
+    },
+    "101": {
+      "text": "\\(x = 1\\)",
+      "math": [
+        "x = 1"
+      ]
+    },
+    "103": {
+      "text": "\\(x = -1\\)",
+      "math": [
+        "x = -1"
+      ]
+    },
+    "105": {
+      "text": "\\(x = 2\\)",
+      "math": [
+        "x = 2"
+      ]
+    },
+    "107": {
+      "text": "\\(x = -1 , x = 2\\)",
+      "math": [
+        "x = -1 , x = 2"
+      ]
+    },
+    "109": {
+      "text": "ⓕ",
+      "math": []
+    },
+    "111": {
+      "text": "ⓐ",
+      "math": []
+    },
+    "113": {
+      "text": "ⓔ",
+      "math": []
+    },
+    "115": {
+      "text": "ⓐ \\(\\$7,387.28\\) ⓑ \\(\\$7,434.57\\) ⓒ \\(\\$7,459.12\\)",
+      "math": [
+        "$7,387.28",
+        "$7,434.57",
+        "$7,459.12"
+      ]
+    },
+    "117": {
+      "text": "\\(\\$ 36,945.28\\)",
+      "math": [
+        "$ 36,945.28"
+      ]
+    },
+    "119": {
+      "text": "162 bacteria",
+      "math": []
+    },
+    "121": {
+      "text": "288,929,825",
+      "math": []
+    },
+    "123": {
+      "text": "Answers will vary.",
+      "math": []
+    },
+    "125": {
+      "text": "Answers will vary.",
+      "math": []
+    },
+    "127": {
+      "text": "\\({ log }_{2} 32 = 5\\)",
+      "math": [
+        "\\log_{2} 32 = 5"
+      ]
+    },
+    "129": {
+      "text": "\\({ log }_{5} 125 = 3\\)",
+      "math": [
+        "\\log_{5} 125 = 3"
+      ]
+    },
+    "131": {
+      "text": "\\(log \\frac{1}{ 100 } = -2\\)",
+      "math": [
+        "\\log \\frac{1}{ 100 } = -2"
+      ]
+    },
+    "133": {
+      "text": "\\({ log }_{x} 6 3 = \\frac{1}{3}\\)",
+      "math": [
+        "\\log_{x} \\sqrt[3]{6} = \\frac{1}{3}"
+      ]
+    },
+    "135": {
+      "text": "\\({ log }_{ 17 } 17 5 = x\\)",
+      "math": [
+        "\\log_{ 17 } \\sqrt[5]{ 17 } = x"
+      ]
+    },
+    "137": {
+      "text": "\\({ log }_{ \\frac{1}{3} } \\frac{1}{ 81 } = 4\\)",
+      "math": [
+        "\\log_{ \\frac{1}{3} } \\frac{1}{ 81 } = 4"
+      ]
+    },
+    "139": {
+      "text": "\\({ log }_{4} \\frac{1}{ 64 } = -3\\)",
+      "math": [
+        "\\log_{4} \\frac{1}{ 64 } = -3"
+      ]
+    },
+    "141": {
+      "text": "\\(ln x = 3\\)",
+      "math": [
+        "\\ln x = 3"
+      ]
+    },
+    "143": {
+      "text": "\\(64 = {2}^{6}\\)",
+      "math": [
+        "64 = {2}^{6}"
+      ]
+    },
+    "145": {
+      "text": "\\(32 = {x}^{5}\\)",
+      "math": [
+        "32 = {x}^{5}"
+      ]
+    },
+    "147": {
+      "text": "\\(1 = {7}^{0}\\)",
+      "math": [
+        "1 = {7}^{0}"
+      ]
+    },
+    "149": {
+      "text": "\\(9 = {9}^{1}\\)",
+      "math": [
+        "9 = {9}^{1}"
+      ]
+    },
+    "151": {
+      "text": "\\(1,000 = { 10 }^{3}\\)",
+      "math": [
+        "1,000 = { 10 }^{3}"
+      ]
+    },
+    "153": {
+      "text": "\\(43 = {e}^{x}\\)",
+      "math": [
+        "43 = {e}^{x}"
+      ]
+    },
+    "155": {
+      "text": "\\(x = 11\\)",
+      "math": [
+        "x = 11"
+      ]
+    },
+    "157": {
+      "text": "\\(x = 4\\)",
+      "math": [
+        "x = 4"
+      ]
+    },
+    "159": {
+      "text": "\\(x = 125\\)",
+      "math": [
+        "x = 125"
+      ]
+    },
+    "161": {
+      "text": "\\(x = \\frac{1}{ 243 }\\)",
+      "math": [
+        "x = \\frac{1}{ 243 }"
+      ]
+    },
+    "163": {
+      "text": "\\(x = 2\\)",
+      "math": [
+        "x = 2"
+      ]
+    },
+    "165": {
+      "text": "\\(x = -2\\)",
+      "math": [
+        "x = -2"
+      ]
+    },
+    "167": {
+      "text": "2",
+      "math": []
+    },
+    "169": {
+      "text": "0",
+      "math": []
+    },
+    "171": {
+      "text": "\\(\\frac{1}{3}\\)",
+      "math": [
+        "\\frac{1}{3}"
+      ]
+    },
+    "173": {
+      "text": "\\(-2\\)",
+      "math": [
+        "-2"
+      ]
+    },
+    "175": {
+      "text": "\\(-3\\)",
+      "math": [
+        "-3"
+      ]
+    },
+    "177": {
+      "text": "\\(-2\\)",
+      "math": [
+        "-2"
+      ]
+    },
+    "179": {
+      "text": "[FIGURA: This figure shows the logarithmic curve going through the points (1 over 4, negative 1), (1, 0), and (4, 1).]",
+      "math": []
+    },
+    "181": {
+      "text": "[FIGURA: This figure shows that the logarithmic curve going through the points (1 over 7, negative 1), (1, 0), and (7, 1).]",
+      "math": []
+    },
+    "183": {
+      "text": "[FIGURA: This figure shows the logarithmic curve going through the points (2 over 5, negative 1), (1, 0), and (2.5, 1).]",
+      "math": []
+    },
+    "185": {
+      "text": "[FIGURA: This figure shows the logarithmic curve going through the points (1 over 5, 1), (1, 0), and (5, negative 1).]",
+      "math": []
+    },
+    "187": {
+      "text": "[FIGURA: This figure shows the logarithmic curve going through the points (3 over 5, 1), (1, 0), and (5 over 3, negative 1).]",
+      "math": []
+    },
+    "189": {
+      "text": "\\(a = 9\\)",
+      "math": [
+        "a = 9"
+      ]
+    },
+    "191": {
+      "text": "\\(a = 3\\)",
+      "math": [
+        "a = 3"
+      ]
+    },
+    "193": {
+      "text": "\\(a = 2 3 3\\)",
+      "math": [
+        "a = 2 \\sqrt[3]{3}"
+      ]
+    },
+    "195": {
+      "text": "\\(x = {e}^{4}\\)",
+      "math": [
+        "x = {e}^{4}"
+      ]
+    },
+    "197": {
+      "text": "\\(x = 5\\)",
+      "math": [
+        "x = 5"
+      ]
+    },
+    "199": {
+      "text": "\\(x = 17\\)",
+      "math": [
+        "x = 17"
+      ]
+    },
+    "201": {
+      "text": "\\(x = 6\\)",
+      "math": [
+        "x = 6"
+      ]
+    },
+    "203": {
+      "text": "\\(x = 3\\)",
+      "math": [
+        "x = 3"
+      ]
+    },
+    "205": {
+      "text": "\\(x = -5 \\sqrt{5} , x = 5 \\sqrt{5}\\)",
+      "math": [
+        "x = -5 \\sqrt{5} , x = 5 \\sqrt{5}"
+      ]
+    },
+    "207": {
+      "text": "\\(x = -5 , x = 5\\)",
+      "math": [
+        "x = -5 , x = 5"
+      ]
+    },
+    "209": {
+      "text": "A whisper has a decibel level of 20 dB.",
+      "math": []
+    },
+    "211": {
+      "text": "The sound of a garbage disposal has a decibel level of 100 dB.",
+      "math": []
+    },
+    "213": {
+      "text": "The intensity of the 1994 Northridge earthquake in the Los Angeles area was about 40 times the intensity of the 2014 earthquake.",
+      "math": []
+    },
+    "215": {
+      "text": "Answers will vary.",
+      "math": []
+    },
+    "217": {
+      "text": "Answers will vary.",
+      "math": []
+    },
+    "219": {
+      "text": "ⓐ 0 ⓑ 1",
+      "math": []
+    },
+    "221": {
+      "text": "ⓐ 10 ⓑ 10",
+      "math": []
+    },
+    "223": {
+      "text": "ⓐ 15 ⓑ \\(-4\\)",
+      "math": [
+        "-4"
+      ]
+    },
+    "225": {
+      "text": "ⓐ \\(\\sqrt{3}\\) ⓑ \\(-1\\)",
+      "math": [
+        "\\sqrt{3}",
+        "-1"
+      ]
+    },
+    "227": {
+      "text": "ⓐ 3 ⓑ 7",
+      "math": []
+    },
+    "229": {
+      "text": "\\({ log }_{5} 8 + { log }_{5} y\\)",
+      "math": [
+        "\\log_{5} 8 + \\log_{5} y"
+      ]
+    },
+    "231": {
+      "text": "\\(4 + { log }_{3} x + { log }_{3} y\\)",
+      "math": [
+        "4 + \\log_{3} x + \\log_{3} y"
+      ]
+    },
+    "233": {
+      "text": "\\(3 + log y\\)",
+      "math": [
+        "3 + \\log y"
+      ]
+    },
+    "235": {
+      "text": "\\({ log }_{6} 5 - 1\\)",
+      "math": [
+        "\\log_{6} 5 - 1"
+      ]
+    },
+    "237": {
+      "text": "\\(3 - { log }_{5} x\\)",
+      "math": [
+        "3 - \\log_{5} x"
+      ]
+    },
+    "239": {
+      "text": "\\(4 - log y\\)",
+      "math": [
+        "4 - \\log y"
+      ]
+    },
+    "241": {
+      "text": "\\(4 - ln 16\\)",
+      "math": [
+        "4 - \\ln 16"
+      ]
+    },
+    "243": {
+      "text": "\\(5 { log }_{2} x\\)",
+      "math": [
+        "5 \\log_{2} x"
+      ]
+    },
+    "245": {
+      "text": "\\(-3 log x\\)",
+      "math": [
+        "-3 \\log x"
+      ]
+    },
+    "247": {
+      "text": "\\(\\frac{1}{3} { log }_{5} x\\)",
+      "math": [
+        "\\frac{1}{3} \\log_{5} x"
+      ]
+    },
+    "249": {
+      "text": "\\(4 3 ln x\\)",
+      "math": [
+        "\\sqrt[3]{4} \\ln x"
+      ]
+    },
+    "251": {
+      "text": "\\({ log }_{2} 3 + 5 { log }_{2} x + 3 { log }_{2} y\\)",
+      "math": [
+        "\\log_{2} 3 + 5 \\log_{2} x + 3 \\log_{2} y"
+      ]
+    },
+    "253": {
+      "text": "\\(\\frac{1}{4} { log }_{5} 21 + 3 { log }_{5} y\\)",
+      "math": [
+        "\\frac{1}{4} \\log_{5} 21 + 3 \\log_{5} y"
+      ]
+    },
+    "255": {
+      "text": "\\({ log }_{5} 4 + { log }_{5} a + 3 { log }_{5} b\\) \\(+ 4 { log }_{5} c - 2 { log }_{5} d\\)",
+      "math": [
+        "\\log_{5} 4 + \\log_{5} a + 3 \\log_{5} b",
+        "+ 4 \\log_{5} c - 2 \\log_{5} d"
+      ]
+    },
+    "257": {
+      "text": "\\(\\frac{2}{3} { log }_{3} x - 3 - 4 { log }_{3} y\\)",
+      "math": [
+        "\\frac{2}{3} \\log_{3} x - 3 - 4 \\log_{3} y"
+      ]
+    },
+    "259": {
+      "text": "\\(\\frac{1}{2} { log }_{3} ( 3 x + 2 {y}^{2} ) - { log }_{3} 5 - 2 { log }_{3} z\\)",
+      "math": [
+        "\\frac{1}{2} \\log_{3} ( 3 x + 2 {y}^{2} ) - \\log_{3} 5 - 2 \\log_{3} z"
+      ]
+    },
+    "261": {
+      "text": "\\(\\frac{1}{3} ( { log }_{5} 3 + 2 { log }_{5} x - { log }_{5} 4\\) \\(- 3 { log }_{5} y - { log }_{5} z )\\)",
+      "math": [
+        "\\frac{1}{3} ( \\log_{5} 3 + 2 \\log_{5} x - \\log_{5} 4",
+        "- 3 \\log_{5} y - \\log_{5} z )"
+      ]
+    },
+    "263": {
+      "text": "2",
+      "math": []
+    },
+    "265": {
+      "text": "2",
+      "math": []
+    },
+    "267": {
+      "text": "\\({ log }_{2} \\frac{5}{ x - 1 }\\)",
+      "math": [
+        "\\log_{2} \\frac{5}{ x - 1 }"
+      ]
+    },
+    "269": {
+      "text": "\\({ log }_{5} \\frac{2}{ x y }\\)",
+      "math": [
+        "\\log_{5} \\frac{2}{ x y }"
+      ]
+    },
+    "271": {
+      "text": "\\({ log }_{3} {x}^{6} {y}^{9}\\)",
+      "math": [
+        "\\log_{3} {x}^{6} {y}^{9}"
+      ]
+    },
+    "273": {
+      "text": "0",
+      "math": []
+    },
+    "275": {
+      "text": "\\(ln \\frac{ {x}^{3} {y}^{4} }{ {z}^{2} }\\)",
+      "math": [
+        "\\ln \\frac{ {x}^{3} {y}^{4} }{ {z}^{2} }"
+      ]
+    },
+    "277": {
+      "text": "\\(log { ( 2 x + 3 ) }^{2} \\cdot \\sqrt{ x + 1 }\\)",
+      "math": [
+        "\\log { ( 2 x + 3 ) }^{2} \\cdot \\sqrt{ x + 1 }"
+      ]
+    },
+    "279": {
+      "text": "\\(2.379\\)",
+      "math": [
+        "2.379"
+      ]
+    },
+    "281": {
+      "text": "\\(1.674\\)",
+      "math": [
+        "1.674"
+      ]
+    },
+    "283": {
+      "text": "\\(5.542\\)",
+      "math": [
+        "5.542"
+      ]
+    },
+    "285": {
+      "text": "Answers will vary.",
+      "math": []
+    },
+    "287": {
+      "text": "Answers will vary.",
+      "math": []
+    },
+    "289": {
+      "text": "\\(x = 7\\)",
+      "math": [
+        "x = 7"
+      ]
+    },
+    "291": {
+      "text": "\\(x = 4\\)",
+      "math": [
+        "x = 4"
+      ]
+    },
+    "293": {
+      "text": "\\(x=1,\\) \\(x=3\\)",
+      "math": [
+        "x=1,",
+        "x=3"
+      ]
+    },
+    "295": {
+      "text": "\\(x = 8\\)",
+      "math": [
+        "x = 8"
+      ]
+    },
+    "297": {
+      "text": "\\(x = 3\\)",
+      "math": [
+        "x = 3"
+      ]
+    },
+    "299": {
+      "text": "\\(x = 20\\)",
+      "math": [
+        "x = 20"
+      ]
+    },
+    "301": {
+      "text": "\\(x = 3\\)",
+      "math": [
+        "x = 3"
+      ]
+    },
+    "303": {
+      "text": "\\(x = 6\\)",
+      "math": [
+        "x = 6"
+      ]
+    },
+    "305": {
+      "text": "\\(x = \\frac{5}{3}\\)",
+      "math": [
+        "x = \\frac{5}{3}"
+      ]
+    },
+    "307": {
+      "text": "\\(x = \\frac{ log 74 }{ log 2 } ≈ 6.209\\)",
+      "math": [
+        "x = \\frac{ \\log 74 }{ \\log 2 } ≈ 6.209"
+      ]
+    },
+    "309": {
+      "text": "\\(x = \\frac{ log 112 }{ log 4 } ≈ 3.404\\)",
+      "math": [
+        "x = \\frac{ \\log 112 }{ \\log 4 } ≈ 3.404"
+      ]
+    },
+    "311": {
+      "text": "\\(x = ln 8 ≈ 2.079\\)",
+      "math": [
+        "x = \\ln 8 ≈ 2.079"
+      ]
+    },
+    "313": {
+      "text": "\\(x = \\frac{ log 8 }{ log \\frac{1}{3} } ≈ - 1.893\\)",
+      "math": [
+        "x = \\frac{ \\log 8 }{ \\log \\frac{1}{3} } ≈ - 1.893"
+      ]
+    },
+    "315": {
+      "text": "\\(x = ln 3 - 2 ≈ - 0.901\\)",
+      "math": [
+        "x = \\ln 3 - 2 ≈ - 0.901"
+      ]
+    },
+    "317": {
+      "text": "\\(x = \\frac{ ln 16 }{3} ≈ 0.924\\)",
+      "math": [
+        "x = \\frac{ \\ln 16 }{3} ≈ 0.924"
+      ]
+    },
+    "319": {
+      "text": "\\(x = ln 6 ≈ 1.792\\)",
+      "math": [
+        "x = \\ln 6 ≈ 1.792"
+      ]
+    },
+    "321": {
+      "text": "\\(x = ln 8 + 1 ≈ 3.079\\)",
+      "math": [
+        "x = \\ln 8 + 1 ≈ 3.079"
+      ]
+    },
+    "323": {
+      "text": "\\(x = 5\\)",
+      "math": [
+        "x = 5"
+      ]
+    },
+    "325": {
+      "text": "\\(x = -4 , x = 5\\)",
+      "math": [
+        "x = -4 , x = 5"
+      ]
+    },
+    "327": {
+      "text": "\\(a = 3\\)",
+      "math": [
+        "a = 3"
+      ]
+    },
+    "329": {
+      "text": "\\(x = {e}^{9}\\)",
+      "math": [
+        "x = {e}^{9}"
+      ]
+    },
+    "331": {
+      "text": "\\(x = 7\\)",
+      "math": [
+        "x = 7"
+      ]
+    },
+    "333": {
+      "text": "\\(x = 3\\)",
+      "math": [
+        "x = 3"
+      ]
+    },
+    "335": {
+      "text": "\\(x = 2\\)",
+      "math": [
+        "x = 2"
+      ]
+    },
+    "337": {
+      "text": "\\(x = 6\\)",
+      "math": [
+        "x = 6"
+      ]
+    },
+    "339": {
+      "text": "\\(x = 5\\)",
+      "math": [
+        "x = 5"
+      ]
+    },
+    "341": {
+      "text": "\\(x = \\frac{ log 10 }{ log \\frac{1}{2} } ≈ - 3.322\\)",
+      "math": [
+        "x = \\frac{ \\log 10 }{ \\log \\frac{1}{2} } ≈ - 3.322"
+      ]
+    },
+    "343": {
+      "text": "\\(x = ln 7 - 5 ≈ - 3.054\\)",
+      "math": [
+        "x = \\ln 7 - 5 ≈ - 3.054"
+      ]
+    },
+    "345": {
+      "text": "\\(6.9 %\\)",
+      "math": [
+        "6.9 %"
+      ]
+    },
+    "347": {
+      "text": "13.9 years",
+      "math": []
+    },
+    "349": {
+      "text": "122,070 bacteria",
+      "math": []
+    },
+    "351": {
+      "text": "8 times as large as the original population",
+      "math": []
+    },
+    "353": {
+      "text": "0.03 ml",
+      "math": []
+    },
+    "355": {
+      "text": "Answers will vary.",
+      "math": []
+    },
+    "357": {
+      "text": "ⓐ \\(4{x}^{2}+12x\\) ⓑ \\(16{x}^{2}+12x\\) ⓒ \\(4{x}^{3}+12{x}^{2}\\)",
+      "math": [
+        "4{x}^{2}+12x",
+        "16{x}^{2}+12x",
+        "4{x}^{3}+12{x}^{2}"
+      ]
+    },
+    "359": {
+      "text": "ⓐ \\(-123\\) ⓑ 356 ⓒ 41",
+      "math": [
+        "-123"
+      ]
+    },
+    "361": {
+      "text": "Function; not one-to-one",
+      "math": []
+    },
+    "363": {
+      "text": "ⓐ Function; not one-to-one ⓑ Not a function",
+      "math": []
+    },
+    "365": {
+      "text": "Inverse function: \\({(10,-3),(5,-2),(2,-1),(1,0)}.\\) Domain: \\({1,2,5,10}.\\) Range: \\({-3,-2,-1,0}.\\)",
+      "math": [
+        "{(10,-3),(5,-2),(2,-1),(1,0)}.",
+        "{1,2,5,10}.",
+        "{-3,-2,-1,0}."
+      ]
+    },
+    "367": {
+      "text": "\\(g(f(x))=x,\\) and \\(f(g(x))=x,\\) so they are inverses.",
+      "math": [
+        "g(f(x))=x,",
+        "f(g(x))=x,"
+      ]
+    },
+    "369": {
+      "text": "\\({f}^{ -1 } ( x ) = \\frac{ x + 11 }{6}\\)",
+      "math": [
+        "{f}^{ -1 } ( x ) = \\frac{ x + 11 }{6}"
+      ]
+    },
+    "371": {
+      "text": "\\({f}^{ -1 } ( x ) = \\frac{1}{x} - 5\\)",
+      "math": [
+        "{f}^{ -1 } ( x ) = \\frac{1}{x} - 5"
+      ]
+    },
+    "373": {
+      "text": "[FIGURA: This figure shows an exponential line passing through the points (negative 1, 1 over 4), (0, 1), and (1, 4).]",
+      "math": []
+    },
+    "375": {
+      "text": "[FIGURA: This figure shows an exponential line passing through the points (negative 1, 4 over 3), (0, 1), and (1, 3 over 4).]",
+      "math": []
+    },
+    "377": {
+      "text": "[FIGURA: This figure shows an exponential line passing through the points (negative 1, negative 59 over 23), (0, negative 2), and (1, negative7 over 10).]",
+      "math": []
+    },
+    "379": {
+      "text": "[FIGURA: This figure shows an exponential line passing through the points (negative 1, negative 1 over e), (0, negative 1), and (1, negative e).]",
+      "math": []
+    },
+    "381": {
+      "text": "\\(x = -2 , x = 2\\)",
+      "math": [
+        "x = -2 , x = 2"
+      ]
+    },
+    "383": {
+      "text": "\\(x = -1\\)",
+      "math": [
+        "x = -1"
+      ]
+    },
+    "385": {
+      "text": "\\(x = -3 , x = 5\\)",
+      "math": [
+        "x = -3 , x = 5"
+      ]
+    },
+    "387": {
+      "text": "\\(\\$ 163,323.40\\)",
+      "math": [
+        "$ 163,323.40"
+      ]
+    },
+    "389": {
+      "text": "330,259,000",
+      "math": []
+    },
+    "391": {
+      "text": "\\(log \\frac{1}{ 1,000 } = -3\\)",
+      "math": [
+        "\\log \\frac{1}{ 1,000 } = -3"
+      ]
+    },
+    "393": {
+      "text": "\\(ln 16 = y\\)",
+      "math": [
+        "\\ln 16 = y"
+      ]
+    },
+    "395": {
+      "text": "\\(100000 = { 10 }^{5}\\)",
+      "math": [
+        "100000 = { 10 }^{5}"
+      ]
+    },
+    "397": {
+      "text": "\\(x = 5\\)",
+      "math": [
+        "x = 5"
+      ]
+    },
+    "399": {
+      "text": "\\(x = 4\\)",
+      "math": [
+        "x = 4"
+      ]
+    },
+    "401": {
+      "text": "0",
+      "math": []
+    },
+    "403": {
+      "text": "[FIGURA: This figure shows a logarithmic line passing through the points (1 over 5, negative 1), (1, 0), and (5, 1).]",
+      "math": []
+    },
+    "405": {
+      "text": "[FIGURA: This figure shows a logarithmic line passing through the points (4 over 5, 1), (1, 0), and (5 over 4, negative 1).]",
+      "math": []
+    },
+    "407": {
+      "text": "\\(x = {e}^{ -3 }\\)",
+      "math": [
+        "x = {e}^{ -3 }"
+      ]
+    },
+    "409": {
+      "text": "\\(x = 8\\)",
+      "math": [
+        "x = 8"
+      ]
+    },
+    "411": {
+      "text": "90 dB",
+      "math": []
+    },
+    "413": {
+      "text": "ⓐ 13 ⓑ \\(-9\\)",
+      "math": [
+        "-9"
+      ]
+    },
+    "415": {
+      "text": "ⓐ 8 ⓑ 5",
+      "math": []
+    },
+    "417": {
+      "text": "\\(4 + log m\\)",
+      "math": [
+        "4 + \\log m"
+      ]
+    },
+    "419": {
+      "text": "\\(5 - ln 2\\)",
+      "math": [
+        "5 - \\ln 2"
+      ]
+    },
+    "421": {
+      "text": "\\(\\frac{1}{7} { log }_{4} z\\)",
+      "math": [
+        "\\frac{1}{7} \\log_{4} z"
+      ]
+    },
+    "423": {
+      "text": "\\({ log }_{5} 8 + 2 { log }_{5} a + 6 { log }_{5} b\\) \\(+ { log }_{5} c - 3 { log }_{5} d\\)",
+      "math": [
+        "\\log_{5} 8 + 2 \\log_{5} a + 6 \\log_{5} b",
+        "+ \\log_{5} c - 3 \\log_{5} d"
+      ]
+    },
+    "425": {
+      "text": "\\(\\frac{1}{3} ( { log }_{6} 7 + 2 { log }_{6} x - 1 - 3 { log }_{6} y\\) \\(- 5 { log }_{6} z )\\)",
+      "math": [
+        "\\frac{1}{3} ( \\log_{6} 7 + 2 \\log_{6} x - 1 - 3 \\log_{6} y",
+        "- 5 \\log_{6} z )"
+      ]
+    },
+    "427": {
+      "text": "\\({ log }_{3} {x}^{3} {y}^{7}\\)",
+      "math": [
+        "\\log_{3} {x}^{3} {y}^{7}"
+      ]
+    },
+    "429": {
+      "text": "\\(log \\frac{ y 4 }{ { ( y - 3 ) }^{2} }\\)",
+      "math": [
+        "\\log \\frac{ \\sqrt[4]{y} }{ { ( y - 3 ) }^{2} }"
+      ]
+    },
+    "431": {
+      "text": "5.047",
+      "math": []
+    },
+    "433": {
+      "text": "\\(x = 4\\)",
+      "math": [
+        "x = 4"
+      ]
+    },
+    "435": {
+      "text": "\\(x = 3\\)",
+      "math": [
+        "x = 3"
+      ]
+    },
+    "437": {
+      "text": "\\(x = \\frac{ log 101 }{ log 2 } ≈ 6.658\\)",
+      "math": [
+        "x = \\frac{ \\log 101 }{ \\log 2 } ≈ 6.658"
+      ]
+    },
+    "439": {
+      "text": "\\(x = \\frac{ log 7 }{ log \\frac{1}{3} } ≈ - 1.771\\)",
+      "math": [
+        "x = \\frac{ \\log 7 }{ \\log \\frac{1}{3} } ≈ - 1.771"
+      ]
+    },
+    "441": {
+      "text": "\\(x = ln 15 + 4 ≈ 6.708\\)",
+      "math": [
+        "x = \\ln 15 + 4 ≈ 6.708"
+      ]
+    },
+    "443": {
+      "text": "11.6 years",
+      "math": []
+    },
+    "445": {
+      "text": "12.7 months",
+      "math": []
+    },
+    "447": {
+      "text": "ⓐ \\(48x-17\\) ⓑ \\(48x+5\\)ⓒ \\(48{x}^{2}-10x-3\\)",
+      "math": [
+        "48x-17",
+        "48x+5",
+        "48{x}^{2}-10x-3"
+      ]
+    },
+    "449": {
+      "text": "ⓐ Not a function ⓑ One-to-one function",
+      "math": []
+    },
+    "451": {
+      "text": "\\({f}^{ -1 } ( x ) = x + 9 5\\)",
+      "math": [
+        "{f}^{ -1 } ( x ) = \\sqrt[5]{ x + 9 }"
+      ]
+    },
+    "453": {
+      "text": "\\(x = 5\\)",
+      "math": [
+        "x = 5"
+      ]
+    },
+    "455": {
+      "text": "ⓐ \\(\\$31,250.74\\) ⓑ \\(\\$31,302.29\\) ⓒ \\(\\$31,328.32\\)",
+      "math": [
+        "$31,250.74",
+        "$31,302.29",
+        "$31,328.32"
+      ]
+    },
+    "457": {
+      "text": "\\(343 = {7}^{3}\\)",
+      "math": [
+        "343 = {7}^{3}"
+      ]
+    },
+    "459": {
+      "text": "0",
+      "math": []
+    },
+    "461": {
+      "text": "[FIGURA: This figure shows a logarithmic line passing through (1 over 3, 1), (1, 0), and (3, 1).]",
+      "math": []
+    },
+    "463": {
+      "text": "40 dB",
+      "math": []
+    },
+    "465": {
+      "text": "\\(2 + { log }_{5} a + { log }_{5} b\\)",
+      "math": [
+        "2 + \\log_{5} a + \\log_{5} b"
+      ]
+    },
+    "467": {
+      "text": "\\(\\frac{1}{4} ( { log }_{2} 5 + 3 { log }_{2} x - 4 - 2 { log }_{2} y\\) \\(- 7 { log }_{2} z )\\)",
+      "math": [
+        "\\frac{1}{4} ( \\log_{2} 5 + 3 \\log_{2} x - 4 - 2 \\log_{2} y",
+        "- 7 \\log_{2} z )"
+      ]
+    },
+    "469": {
+      "text": "\\(log \\frac{ x 6 }{ { ( x + 5 ) }^{3} }\\)",
+      "math": [
+        "\\log \\frac{ \\sqrt[6]{x} }{ { ( x + 5 ) }^{3} }"
+      ]
+    },
+    "471": {
+      "text": "\\(x = 6\\)",
+      "math": [
+        "x = 6"
+      ]
+    },
+    "473": {
+      "text": "\\(x = ln 8 + 4 ≈ 6.079\\)",
+      "math": [
+        "x = \\ln 8 + 4 ≈ 6.079"
+      ]
+    },
+    "475": {
+      "text": "1,921 bacteria",
+      "math": []
+    }
+  }
+}

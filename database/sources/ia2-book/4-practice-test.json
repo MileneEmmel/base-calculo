@@ -1,0 +1,238 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/4-practice-test",
+  "title": "Practice Test",
+  "sha256": "d48a58964dca2b07418710fa942f0de73a289d22fa5ca09f71b91fbb86e85cf7",
+  "questions": [
+    {
+      "number": 407,
+      "anchor": "fs-id1167829906589",
+      "page": "4-practice-test",
+      "context": [
+        "In the following exercises, solve the following systems by graphing."
+      ],
+      "text": "\\({ x - y = 5 x + 2 y = -4\\)",
+      "math": [
+        "{ \\begin{matrix} x - y = 5 \\\\ x + 2 y = -4 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>5</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>−4</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>5</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>−4</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 408,
+      "anchor": "fs-id1167829877873",
+      "page": "4-practice-test",
+      "context": [
+        "In the following exercises, solve the following systems by graphing."
+      ],
+      "text": "\\({ x - y > -2 y ≤ 3 x + 1\\)",
+      "math": [
+        "{ \\begin{matrix} x - y > -2 \\\\ y \\le 3 x + 1 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>−2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≤</mo>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>−2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≤</mo>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 409,
+      "anchor": "fs-id1167829908677",
+      "page": "4-practice-test",
+      "context": [
+        "In the following exercises, solve the following systems by graphing.",
+        "In the following exercises, solve each system of equations. Use either substitution or elimination."
+      ],
+      "text": "\\({ x + 4 y = 6 -2 x + y = -3\\)",
+      "math": [
+        "{ \\begin{matrix} x + 4 y = 6 \\\\ -2 x + y = -3 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>6</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>−2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>−3</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>6</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>−2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>−3</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 410,
+      "anchor": "fs-id1167829624883",
+      "page": "4-practice-test",
+      "context": [
+        "In the following exercises, solve the following systems by graphing.",
+        "In the following exercises, solve each system of equations. Use either substitution or elimination."
+      ],
+      "text": "\\({ -3 x + 4 y = 25 x - 5 y = -23\\)",
+      "math": [
+        "{ \\begin{matrix} -3 x + 4 y = 25 \\\\ x - 5 y = -23 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>−3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>25</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>−23</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>−3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>25</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>−23</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 411,
+      "anchor": "fs-id1167833058733",
+      "page": "4-practice-test",
+      "context": [
+        "In the following exercises, solve the following systems by graphing.",
+        "In the following exercises, solve each system of equations. Use either substitution or elimination."
+      ],
+      "text": "\\({ x + y - z = -1 2 x - y + 2 z = 8 -3 x + 2 y + z = -9\\)",
+      "math": [
+        "{ \\begin{matrix} x + y - z = -1 \\\\ 2 x - y + 2 z = 8 \\\\ -3 x + 2 y + z = -9 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>8</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>−3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−9</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>8</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>−3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−9</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 412,
+      "anchor": "fs-id1167836525066",
+      "page": "4-practice-test",
+      "context": [
+        "In the following exercises, solve each system of equations. Use either substitution or elimination.",
+        "Solve the system of equations using a matrix."
+      ],
+      "text": "\\({ 2 x + y = 7 x - 2 y = 6\\)",
+      "math": [
+        "{ \\begin{matrix} 2 x + y = 7 \\\\ x - 2 y = 6 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>7</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>6</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>7</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>6</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 413,
+      "anchor": "fs-id1167836485678",
+      "page": "4-practice-test",
+      "context": [
+        "In the following exercises, solve each system of equations. Use either substitution or elimination.",
+        "Solve the system of equations using a matrix."
+      ],
+      "text": "\\({ -3 x + y + z = -4 - x + 2 y - 2 z = 1 2 x - y - z = -1\\)",
+      "math": [
+        "{ \\begin{matrix} -3 x + y + z = -4 \\\\ - x + 2 y - 2 z = 1 \\\\ 2 x - y - z = -1 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>−3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mtext>−</mtext>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>−3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mtext>−</mtext>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mi>z</mi>\n                  <mo>=</mo>\n                  <mn>−1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 414,
+      "anchor": "fs-id1167836738055",
+      "page": "4-practice-test",
+      "context": [
+        "Solve the system of equations using a matrix.",
+        "Solve using Cramer’s rule."
+      ],
+      "text": "\\({ 3 x + y = -3 2 x + 3 y = 6\\)",
+      "math": [
+        "{ \\begin{matrix} 3 x + y = -3 \\\\ 2 x + 3 y = 6 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>−3</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>6</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>−3</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>6</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 415,
+      "anchor": "fs-id1167836619203",
+      "page": "4-practice-test",
+      "context": [
+        "Solve the system of equations using a matrix.",
+        "Solve using Cramer’s rule."
+      ],
+      "text": "Evaluate the determinant by expanding by minors:\\(|3-2-22-14-10-3|.\\)",
+      "math": [
+        "|\\begin{matrix}3 & & & -2 & & & -2\\\\2 & & & -1 & & & 4\\\\-1 & & & 0 & & & -3\\end{matrix}|."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mtable><mtr><mtd columnalign=\"right\"><mn>3</mn></mtd><mtd></mtd><mtd></mtd><mtd columnalign=\"right\"><mn>−2</mn></mtd><mtd></mtd><mtd></mtd><mtd columnalign=\"right\"><mn>−2</mn></mtd></mtr><mtr><mtd columnalign=\"right\"><mn>2</mn></mtd><mtd></mtd><mtd></mtd><mtd columnalign=\"right\"><mn>−1</mn></mtd><mtd></mtd><mtd></mtd><mtd columnalign=\"right\"><mn>4</mn></mtd></mtr><mtr><mtd columnalign=\"right\"><mn>−1</mn></mtd><mtd></mtd><mtd></mtd><mtd columnalign=\"right\"><mn>0</mn></mtd><mtd></mtd><mtd></mtd><mtd columnalign=\"right\"><mn>−3</mn></mtd></mtr></mtable><mo>|</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mtable><mtr><mtd columnalign=\"right\"><mn>3</mn></mtd><mtd></mtd><mtd></mtd><mtd columnalign=\"right\"><mn>−2</mn></mtd><mtd></mtd><mtd></mtd><mtd columnalign=\"right\"><mn>−2</mn></mtd></mtr><mtr><mtd columnalign=\"right\"><mn>2</mn></mtd><mtd></mtd><mtd></mtd><mtd columnalign=\"right\"><mn>−1</mn></mtd><mtd></mtd><mtd></mtd><mtd columnalign=\"right\"><mn>4</mn></mtd></mtr><mtr><mtd columnalign=\"right\"><mn>−1</mn></mtd><mtd></mtd><mtd></mtd><mtd columnalign=\"right\"><mn>0</mn></mtd><mtd></mtd><mtd></mtd><mtd columnalign=\"right\"><mn>−3</mn></mtd></mtr></mtable><mo>|</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 416,
+      "anchor": "fs-id1167829746258",
+      "page": "4-practice-test",
+      "context": [
+        "Solve using Cramer’s rule.",
+        "In the following exercises, translate to a system of equations and solve."
+      ],
+      "text": "Greg is paddling his canoe upstream, against the current, to a fishing spot 10 miles away. If he paddles upstream for 2.5 hours and his return trip takes 1.25 hours, find the speed of the current and his paddling speed in still water.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 417,
+      "anchor": "fs-id1167826204892",
+      "page": "4-practice-test",
+      "context": [
+        "Solve using Cramer’s rule.",
+        "In the following exercises, translate to a system of equations and solve."
+      ],
+      "text": "A pharmacist needs 20 liters of a 2% saline solution. He has a 1% and a 5% solution available. How many liters of the 1% and how many liters of the 5% solutions should she mix to make the 2% solution?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 418,
+      "anchor": "fs-id1167833339844",
+      "page": "4-practice-test",
+      "context": [
+        "Solve using Cramer’s rule.",
+        "In the following exercises, translate to a system of equations and solve."
+      ],
+      "text": "Arnold invested $64,000, some at 5.5% interest and the rest at 9%. How much did he invest at each rate if he received $4,500 in interest in one year?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 419,
+      "anchor": "fs-id1167829696408",
+      "page": "4-practice-test",
+      "context": [
+        "Solve using Cramer’s rule.",
+        "In the following exercises, translate to a system of equations and solve."
+      ],
+      "text": "The church youth group is selling snacks to raise money to attend their convention. Amy sold 2 pounds of candy, 3 boxes of cookies and 1 can of popcorn for a total sales of $65. Brian sold 4 pounds of candy, 6 boxes of cookies and 3 cans of popcorn for a total sales of $140. Paulina sold 8 pounds of candy, 8 boxes of cookies and 5 can of popcorn for a total sales of $250. What is the cost of each item?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 420,
+      "anchor": "fs-id1167829696415",
+      "page": "4-practice-test",
+      "context": [
+        "Solve using Cramer’s rule.",
+        "In the following exercises, translate to a system of equations and solve."
+      ],
+      "text": "The manufacturer of a granola bar spends $1.20 to make each bar and sells them for $2. The manufacturer also has fixed costs each month of $8,000. ⓐ Find the cost function C when x granola bars are manufactured ⓑ Find the revenue function R when x granola bars are sold. ⓒ Show the break-even point by graphing both the Revenue and Cost functions on the same grid. ⓓ Find the break-even point. Interpret what the break-even point means.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 421,
+      "anchor": "fs-id1167829720516",
+      "page": "4-practice-test",
+      "context": [
+        "Solve using Cramer’s rule.",
+        "In the following exercises, translate to a system of equations and solve."
+      ],
+      "text": "Translate to a system of inequalities and solve. Andi wants to spend no more than $50 on Halloween treats. She wants to buy candy bars that cost $1 each and lollipops that cost $0.50 each, and she wants the number of lollipops to be at least three times the number of candy bars. ⓐ Write a system of inequalities to model this situation. ⓑ Graph the system. ⓒ Can she buy 20 candy bars and 40 lollipops?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    }
+  ],
+  "practice": [],
+  "answers": {}
+}

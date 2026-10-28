@@ -1,0 +1,1170 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/12-4-binomial-theorem",
+  "title": "12.4 Binomial Theorem",
+  "sha256": "746e13de9d454fe5f72f45b61d4162f55d483da1db76d23578e34fa1b1b5c6fd",
+  "questions": [
+    {
+      "number": 192,
+      "anchor": "fs-id1167834188628",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Use Pascal’s Triangle to Expand a Binomial",
+        "In the following exercises, expand each binomial using Pascal’s Triangle."
+      ],
+      "text": "\\({ ( x + y ) }^{4}\\)",
+      "math": [
+        "{ ( x + y ) }^{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>4</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>4</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 193,
+      "anchor": "fs-id1167826799328",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Use Pascal’s Triangle to Expand a Binomial",
+        "In the following exercises, expand each binomial using Pascal’s Triangle."
+      ],
+      "text": "\\({ ( a + b ) }^{8}\\)",
+      "math": [
+        "{ ( a + b ) }^{8}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>a</mi>\n                  <mo>+</mo>\n                  <mi>b</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>8</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>a</mi>\n                  <mo>+</mo>\n                  <mi>b</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>8</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 194,
+      "anchor": "fs-id1167835357815",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Use Pascal’s Triangle to Expand a Binomial",
+        "In the following exercises, expand each binomial using Pascal’s Triangle."
+      ],
+      "text": "\\({ ( m + n ) }^{ 10 }\\)",
+      "math": [
+        "{ ( m + n ) }^{ 10 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>m</mi>\n                  <mo>+</mo>\n                  <mi>n</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mrow>\n              <mn>10</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>m</mi>\n                  <mo>+</mo>\n                  <mi>n</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mrow>\n              <mn>10</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 195,
+      "anchor": "fs-id1167835281826",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Use Pascal’s Triangle to Expand a Binomial",
+        "In the following exercises, expand each binomial using Pascal’s Triangle."
+      ],
+      "text": "\\({ ( p + q ) }^{9}\\)",
+      "math": [
+        "{ ( p + q ) }^{9}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>p</mi>\n                  <mo>+</mo>\n                  <mi>q</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>9</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>p</mi>\n                  <mo>+</mo>\n                  <mi>q</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>9</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 196,
+      "anchor": "fs-id1167834423683",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Use Pascal’s Triangle to Expand a Binomial",
+        "In the following exercises, expand each binomial using Pascal’s Triangle."
+      ],
+      "text": "\\({ ( x - y ) }^{5}\\)",
+      "math": [
+        "{ ( x - y ) }^{5}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>5</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>5</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 197,
+      "anchor": "fs-id1167826994041",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Use Pascal’s Triangle to Expand a Binomial",
+        "In the following exercises, expand each binomial using Pascal’s Triangle."
+      ],
+      "text": "\\({ ( a - b ) }^{6}\\)",
+      "math": [
+        "{ ( a - b ) }^{6}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>a</mi>\n                  <mo>−</mo>\n                  <mi>b</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>6</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>a</mi>\n                  <mo>−</mo>\n                  <mi>b</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>6</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 198,
+      "anchor": "fs-id1167834066081",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Use Pascal’s Triangle to Expand a Binomial",
+        "In the following exercises, expand each binomial using Pascal’s Triangle."
+      ],
+      "text": "\\({ ( x + 4 ) }^{4}\\)",
+      "math": [
+        "{ ( x + 4 ) }^{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>4</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>4</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 199,
+      "anchor": "fs-id1167832144279",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Use Pascal’s Triangle to Expand a Binomial",
+        "In the following exercises, expand each binomial using Pascal’s Triangle."
+      ],
+      "text": "\\({ ( x + 5 ) }^{3}\\)",
+      "math": [
+        "{ ( x + 5 ) }^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 200,
+      "anchor": "fs-id1167832144340",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Use Pascal’s Triangle to Expand a Binomial",
+        "In the following exercises, expand each binomial using Pascal’s Triangle."
+      ],
+      "text": "\\({ ( y + 2 ) }^{5}\\)",
+      "math": [
+        "{ ( y + 2 ) }^{5}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>5</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>5</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 201,
+      "anchor": "fs-id1167834195532",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Use Pascal’s Triangle to Expand a Binomial",
+        "In the following exercises, expand each binomial using Pascal’s Triangle."
+      ],
+      "text": "\\({ ( y + 1 ) }^{7}\\)",
+      "math": [
+        "{ ( y + 1 ) }^{7}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>7</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>7</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 202,
+      "anchor": "fs-id1167834195631",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Use Pascal’s Triangle to Expand a Binomial",
+        "In the following exercises, expand each binomial using Pascal’s Triangle."
+      ],
+      "text": "\\({ ( z - 3 ) }^{5}\\)",
+      "math": [
+        "{ ( z - 3 ) }^{5}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>z</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>5</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>z</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>5</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 203,
+      "anchor": "fs-id1167835379880",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Use Pascal’s Triangle to Expand a Binomial",
+        "In the following exercises, expand each binomial using Pascal’s Triangle."
+      ],
+      "text": "\\({ ( z - 2 ) }^{6}\\)",
+      "math": [
+        "{ ( z - 2 ) }^{6}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>z</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>6</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>z</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>6</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 204,
+      "anchor": "fs-id1167831922804",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Use Pascal’s Triangle to Expand a Binomial",
+        "In the following exercises, expand each binomial using Pascal’s Triangle."
+      ],
+      "text": "\\({ ( 4 x - 1 ) }^{3}\\)",
+      "math": [
+        "{ ( 4 x - 1 ) }^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>4</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>4</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 205,
+      "anchor": "fs-id1167831922869",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Use Pascal’s Triangle to Expand a Binomial",
+        "In the following exercises, expand each binomial using Pascal’s Triangle."
+      ],
+      "text": "\\({ ( 3 x - 1 ) }^{5}\\)",
+      "math": [
+        "{ ( 3 x - 1 ) }^{5}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>5</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>5</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 206,
+      "anchor": "fs-id1167826987731",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Use Pascal’s Triangle to Expand a Binomial",
+        "In the following exercises, expand each binomial using Pascal’s Triangle."
+      ],
+      "text": "\\({ ( 3 x - 4 ) }^{4}\\)",
+      "math": [
+        "{ ( 3 x - 4 ) }^{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>4</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>4</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 207,
+      "anchor": "fs-id1167826987806",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Use Pascal’s Triangle to Expand a Binomial",
+        "In the following exercises, expand each binomial using Pascal’s Triangle."
+      ],
+      "text": "\\({ ( 3 x - 5 ) }^{3}\\)",
+      "math": [
+        "{ ( 3 x - 5 ) }^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 208,
+      "anchor": "fs-id1167835244769",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Use Pascal’s Triangle to Expand a Binomial",
+        "In the following exercises, expand each binomial using Pascal’s Triangle."
+      ],
+      "text": "\\({ ( 2 x + 3 y ) }^{3}\\)",
+      "math": [
+        "{ ( 2 x + 3 y ) }^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 209,
+      "anchor": "fs-id1167835244849",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Use Pascal’s Triangle to Expand a Binomial",
+        "In the following exercises, expand each binomial using Pascal’s Triangle."
+      ],
+      "text": "\\({ ( 3 x + 5 y ) }^{3}\\)",
+      "math": [
+        "{ ( 3 x + 5 y ) }^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                  <mi>y</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                  <mi>y</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 210,
+      "anchor": "fs-id1167830705858",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Evaluate a Binomial Coefficient",
+        "In the following exercises, evaluate."
+      ],
+      "text": "ⓐ \\((81)\\) ⓑ \\((1010)\\) ⓒ \\((60)\\) ⓓ \\((93)\\)",
+      "math": [
+        "(\\begin{matrix}8\\\\1\\end{matrix})",
+        "(\\begin{matrix}10\\\\10\\end{matrix})",
+        "(\\begin{matrix}6\\\\0\\end{matrix})",
+        "(\\begin{matrix}9\\\\3\\end{matrix})"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>8</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>1</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>8</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>1</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>10</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>10</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>10</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>10</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>6</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>0</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>6</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>0</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>9</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>3</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>9</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>3</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 211,
+      "anchor": "fs-id1167826977707",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Evaluate a Binomial Coefficient",
+        "In the following exercises, evaluate."
+      ],
+      "text": "ⓐ \\((71)\\) ⓑ \\((44)\\) ⓒ \\((30)\\) ⓓ \\((108)\\)",
+      "math": [
+        "(\\begin{matrix}7\\\\1\\end{matrix})",
+        "(\\begin{matrix}4\\\\4\\end{matrix})",
+        "(\\begin{matrix}3\\\\0\\end{matrix})",
+        "(\\begin{matrix}10\\\\8\\end{matrix})"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>7</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>1</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>7</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>1</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>4</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>4</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>4</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>4</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>3</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>0</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>3</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>0</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>10</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>8</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>10</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>8</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 212,
+      "anchor": "fs-id1167831881659",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Evaluate a Binomial Coefficient",
+        "In the following exercises, evaluate."
+      ],
+      "text": "ⓐ \\((31)\\) ⓑ \\((99)\\) ⓒ \\((70)\\) ⓓ \\((53)\\)",
+      "math": [
+        "(\\begin{matrix}3\\\\1\\end{matrix})",
+        "(\\begin{matrix}9\\\\9\\end{matrix})",
+        "(\\begin{matrix}7\\\\0\\end{matrix})",
+        "(\\begin{matrix}5\\\\3\\end{matrix})"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>3</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>1</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>3</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>1</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>9</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>9</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>9</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>9</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>7</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>0</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>7</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>0</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>5</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>3</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>5</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>3</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 213,
+      "anchor": "fs-id1167835352517",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Evaluate a Binomial Coefficient",
+        "In the following exercises, evaluate."
+      ],
+      "text": "ⓐ \\((41)\\) ⓑ \\((55)\\) ⓒ \\((80)\\) ⓓ \\((119)\\)",
+      "math": [
+        "(\\begin{matrix}4\\\\1\\end{matrix})",
+        "(\\begin{matrix}5\\\\5\\end{matrix})",
+        "(\\begin{matrix}8\\\\0\\end{matrix})",
+        "(\\begin{matrix}11\\\\9\\end{matrix})"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>4</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>1</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>4</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>1</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>5</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>5</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>5</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>5</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>8</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>0</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>8</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>0</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>11</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>9</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>11</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>9</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 214,
+      "anchor": "fs-id1167831920570",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Use the Binomial Theorem to Expand a Binomial",
+        "In the following exercises, expand each binomial."
+      ],
+      "text": "\\({ ( x + y ) }^{3}\\)",
+      "math": [
+        "{ ( x + y ) }^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 215,
+      "anchor": "fs-id1167831920641",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Use the Binomial Theorem to Expand a Binomial",
+        "In the following exercises, expand each binomial."
+      ],
+      "text": "\\({ ( m + n ) }^{5}\\)",
+      "math": [
+        "{ ( m + n ) }^{5}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>m</mi>\n                  <mo>+</mo>\n                  <mi>n</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>5</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>m</mi>\n                  <mo>+</mo>\n                  <mi>n</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>5</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 216,
+      "anchor": "fs-id1167834535174",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Use the Binomial Theorem to Expand a Binomial",
+        "In the following exercises, expand each binomial."
+      ],
+      "text": "\\({ ( a + b ) }^{6}\\)",
+      "math": [
+        "{ ( a + b ) }^{6}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>a</mi>\n                  <mo>+</mo>\n                  <mi>b</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>6</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>a</mi>\n                  <mo>+</mo>\n                  <mi>b</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>6</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 217,
+      "anchor": "fs-id1167834535291",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Use the Binomial Theorem to Expand a Binomial",
+        "In the following exercises, expand each binomial."
+      ],
+      "text": "\\({ ( s + t ) }^{7}\\)",
+      "math": [
+        "{ ( s + t ) }^{7}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>s</mi>\n                  <mo>+</mo>\n                  <mi>t</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>7</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>s</mi>\n                  <mo>+</mo>\n                  <mi>t</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>7</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 218,
+      "anchor": "fs-id1167835622326",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Use the Binomial Theorem to Expand a Binomial",
+        "In the following exercises, expand each binomial."
+      ],
+      "text": "\\({ ( x - 2 ) }^{4}\\)",
+      "math": [
+        "{ ( x - 2 ) }^{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>4</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>4</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 219,
+      "anchor": "fs-id1167830704384",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Use the Binomial Theorem to Expand a Binomial",
+        "In the following exercises, expand each binomial."
+      ],
+      "text": "\\({ ( y - 3 ) }^{4}\\)",
+      "math": [
+        "{ ( y - 3 ) }^{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>4</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>4</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 220,
+      "anchor": "fs-id1167830704455",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Use the Binomial Theorem to Expand a Binomial",
+        "In the following exercises, expand each binomial."
+      ],
+      "text": "\\({ ( p - 1 ) }^{5}\\)",
+      "math": [
+        "{ ( p - 1 ) }^{5}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>p</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>5</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>p</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>5</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 221,
+      "anchor": "fs-id1167831884551",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Use the Binomial Theorem to Expand a Binomial",
+        "In the following exercises, expand each binomial."
+      ],
+      "text": "\\({ ( q - 4 ) }^{3}\\)",
+      "math": [
+        "{ ( q - 4 ) }^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>q</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>q</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 222,
+      "anchor": "fs-id1167831884612",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Use the Binomial Theorem to Expand a Binomial",
+        "In the following exercises, expand each binomial."
+      ],
+      "text": "\\({ ( 3 x - y ) }^{5}\\)",
+      "math": [
+        "{ ( 3 x - y ) }^{5}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>5</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>5</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 223,
+      "anchor": "fs-id1167834537970",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Use the Binomial Theorem to Expand a Binomial",
+        "In the following exercises, expand each binomial."
+      ],
+      "text": "\\({ ( 5 x - 2 y ) }^{4}\\)",
+      "math": [
+        "{ ( 5 x - 2 y ) }^{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>5</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>4</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>5</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>4</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 224,
+      "anchor": "fs-id1167834538065",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Use the Binomial Theorem to Expand a Binomial",
+        "In the following exercises, expand each binomial."
+      ],
+      "text": "\\({ ( 2 x + 5 y ) }^{4}\\)",
+      "math": [
+        "{ ( 2 x + 5 y ) }^{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                  <mi>y</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>4</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                  <mi>y</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>4</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 225,
+      "anchor": "fs-id1167831823905",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Use the Binomial Theorem to Expand a Binomial",
+        "In the following exercises, expand each binomial."
+      ],
+      "text": "\\({ ( 3 x + 4 y ) }^{5}\\)",
+      "math": [
+        "{ ( 3 x + 4 y ) }^{5}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                  <mi>y</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>5</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                  <mi>y</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>5</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 226,
+      "anchor": "fs-id1167834430386",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "In the following exercises, expand each binomial.",
+        "In the following exercises, find the indicated term in the expansion of the binomial."
+      ],
+      "text": "Sixth term of \\({(x+y)}^{10}\\)",
+      "math": [
+        "{(x+y)}^{10}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mi>y</mi></mrow><mo>)</mo></mrow></mrow><mrow><mn>10</mn></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mi>y</mi></mrow><mo>)</mo></mrow></mrow><mrow><mn>10</mn></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 227,
+      "anchor": "fs-id1167834430438",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "In the following exercises, expand each binomial.",
+        "In the following exercises, find the indicated term in the expansion of the binomial."
+      ],
+      "text": "Fifth term of \\({(a+b)}^{9}\\)",
+      "math": [
+        "{(a+b)}^{9}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>a</mi><mo>+</mo><mi>b</mi></mrow><mo>)</mo></mrow></mrow><mn>9</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>a</mi><mo>+</mo><mi>b</mi></mrow><mo>)</mo></mrow></mrow><mn>9</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 228,
+      "anchor": "fs-id1167834430489",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "In the following exercises, expand each binomial.",
+        "In the following exercises, find the indicated term in the expansion of the binomial."
+      ],
+      "text": "Fourth term of \\({(x-y)}^{8}\\)",
+      "math": [
+        "{(x-y)}^{8}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mi>y</mi></mrow><mo>)</mo></mrow></mrow><mn>8</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mi>y</mi></mrow><mo>)</mo></mrow></mrow><mn>8</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 229,
+      "anchor": "fs-id1167831887443",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "In the following exercises, expand each binomial.",
+        "In the following exercises, find the indicated term in the expansion of the binomial."
+      ],
+      "text": "Seventh term of \\({(x-y)}^{11}\\)",
+      "math": [
+        "{(x-y)}^{11}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mi>y</mi></mrow><mo>)</mo></mrow></mrow><mrow><mn>11</mn></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mi>y</mi></mrow><mo>)</mo></mrow></mrow><mrow><mn>11</mn></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 230,
+      "anchor": "fs-id1167831887500",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "In the following exercises, find the indicated term in the expansion of the binomial.",
+        "In the following exercises, find the coefficient of the indicated term in the expansion of the binomial."
+      ],
+      "text": "\\({y}^{3}\\) term of \\({(y+5)}^{4}\\)",
+      "math": [
+        "{y}^{3}",
+        "{(y+5)}^{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>y</mi><mn>3</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>y</mi><mn>3</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>+</mo><mn>5</mn></mrow><mo>)</mo></mrow></mrow><mn>4</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>+</mo><mn>5</mn></mrow><mo>)</mo></mrow></mrow><mn>4</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 231,
+      "anchor": "fs-id1167831887545",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "In the following exercises, find the indicated term in the expansion of the binomial.",
+        "In the following exercises, find the coefficient of the indicated term in the expansion of the binomial."
+      ],
+      "text": "\\({x}^{6}\\) term of \\({(x+2)}^{8}\\)",
+      "math": [
+        "{x}^{6}",
+        "{(x+2)}^{8}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>6</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>6</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow><mn>8</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow><mn>8</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 232,
+      "anchor": "fs-id1167831887589",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "In the following exercises, find the indicated term in the expansion of the binomial.",
+        "In the following exercises, find the coefficient of the indicated term in the expansion of the binomial."
+      ],
+      "text": "\\({x}^{5}\\) term of \\({(x-4)}^{6}\\)",
+      "math": [
+        "{x}^{5}",
+        "{(x-4)}^{6}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>5</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>5</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow><mn>6</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow><mn>6</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 233,
+      "anchor": "fs-id1167831833765",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "In the following exercises, find the indicated term in the expansion of the binomial.",
+        "In the following exercises, find the coefficient of the indicated term in the expansion of the binomial."
+      ],
+      "text": "\\({x}^{7}\\) term of \\({(x-3)}^{9}\\)",
+      "math": [
+        "{x}^{7}",
+        "{(x-3)}^{9}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>7</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>7</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>9</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>9</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 234,
+      "anchor": "fs-id1167831833810",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "In the following exercises, find the indicated term in the expansion of the binomial.",
+        "In the following exercises, find the coefficient of the indicated term in the expansion of the binomial."
+      ],
+      "text": "\\({a}^{4}{b}^{2}\\) term of \\({(2a+b)}^{6}\\)",
+      "math": [
+        "{a}^{4}{b}^{2}",
+        "{(2a+b)}^{6}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>a</mi><mn>4</mn></msup><msup><mi>b</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>a</mi><mn>4</mn></msup><msup><mi>b</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mi>a</mi><mo>+</mo><mi>b</mi></mrow><mo>)</mo></mrow></mrow><mn>6</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mi>a</mi><mo>+</mo><mi>b</mi></mrow><mo>)</mo></mrow></mrow><mn>6</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 235,
+      "anchor": "fs-id1167831833862",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "In the following exercises, find the indicated term in the expansion of the binomial.",
+        "In the following exercises, find the coefficient of the indicated term in the expansion of the binomial."
+      ],
+      "text": "\\({p}^{5}{q}^{4}\\) term of \\({(3p+q)}^{9}\\)",
+      "math": [
+        "{p}^{5}{q}^{4}",
+        "{(3p+q)}^{9}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>p</mi><mn>5</mn></msup><msup><mi>q</mi><mn>4</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>p</mi><mn>5</mn></msup><msup><mi>q</mi><mn>4</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mi>p</mi><mo>+</mo><mi>q</mi></mrow><mo>)</mo></mrow></mrow><mn>9</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mi>p</mi><mo>+</mo><mi>q</mi></mrow><mo>)</mo></mrow></mrow><mn>9</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 236,
+      "anchor": "fs-id1167834555269",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "In your own words explain how to find the rows of the Pascal’s Triangle. Write the first five rows of Pascal’s Triangle.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 237,
+      "anchor": "fs-id1167834555286",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "In your own words, explain the pattern of exponents for each variable in the expansion of.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 238,
+      "anchor": "fs-id1167834555303",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "In your own words, explain the difference between \\({(a+b)}^{n}\\) and \\({(a-b)}^{n}.\\)",
+      "math": [
+        "{(a+b)}^{n}",
+        "{(a-b)}^{n}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>a</mi><mo>+</mo><mi>b</mi></mrow><mo>)</mo></mrow></mrow><mi>n</mi></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>a</mi><mo>+</mo><mi>b</mi></mrow><mo>)</mo></mrow></mrow><mi>n</mi></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>a</mi><mo>−</mo><mi>b</mi></mrow><mo>)</mo></mrow></mrow><mi>n</mi></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>a</mi><mo>−</mo><mi>b</mi></mrow><mo>)</mo></mrow></mrow><mi>n</mi></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 239,
+      "anchor": "fs-id1167834555360",
+      "page": "12-4-binomial-theorem",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "In your own words, explain how to find a specific term in the expansion of a binomial without expanding the whole thing. Use an example to help explain.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "12.61",
+      "page": "12-4-binomial-theorem",
+      "is_try_it": true,
+      "anchor": "fs-id1167835310471",
+      "context": [
+        "Use Pascal’s Triangle to Expand a Binomial"
+      ],
+      "text": "Use Pascal’s Triangle to expand \\({(x+y)}^{5}.\\)",
+      "math": [
+        "{(x+y)}^{5}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mi>y</mi></mrow><mo>)</mo></mrow></mrow><mn>5</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mi>y</mi></mrow><mo>)</mo></mrow></mrow><mn>5</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.62",
+      "page": "12-4-binomial-theorem",
+      "is_try_it": true,
+      "anchor": "fs-id1167834587856",
+      "context": [
+        "Use Pascal’s Triangle to Expand a Binomial"
+      ],
+      "text": "Use Pascal’s Triangle to expand \\({(p+q)}^{7}.\\)",
+      "math": [
+        "{(p+q)}^{7}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>p</mi><mo>+</mo><mi>q</mi></mrow><mo>)</mo></mrow></mrow><mn>7</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>p</mi><mo>+</mo><mi>q</mi></mrow><mo>)</mo></mrow></mrow><mn>7</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.63",
+      "page": "12-4-binomial-theorem",
+      "is_try_it": true,
+      "anchor": "fs-id1167834064235",
+      "context": [
+        "Use Pascal’s Triangle to Expand a Binomial"
+      ],
+      "text": "Use Pascal’s Triangle to expand \\({(x+2)}^{4}.\\)",
+      "math": [
+        "{(x+2)}^{4}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow><mn>4</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow><mn>4</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.64",
+      "page": "12-4-binomial-theorem",
+      "is_try_it": true,
+      "anchor": "fs-id1167835353654",
+      "context": [
+        "Use Pascal’s Triangle to Expand a Binomial"
+      ],
+      "text": "Use Pascal’s Triangle to expand \\({(x+1)}^{6}.\\)",
+      "math": [
+        "{(x+1)}^{6}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow><mn>6</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow><mn>6</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.65",
+      "page": "12-4-binomial-theorem",
+      "is_try_it": true,
+      "anchor": "fs-id1167831922206",
+      "context": [
+        "Use Pascal’s Triangle to Expand a Binomial"
+      ],
+      "text": "Use Pascal’s Triangle to expand \\({(2x-3)}^{4}.\\)",
+      "math": [
+        "{(2x-3)}^{4}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>4</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>4</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.66",
+      "page": "12-4-binomial-theorem",
+      "is_try_it": true,
+      "anchor": "fs-id1167835336537",
+      "context": [
+        "Use Pascal’s Triangle to Expand a Binomial"
+      ],
+      "text": "Use Pascal’s Triangle to expand \\({(2x-1)}^{6}.\\)",
+      "math": [
+        "{(2x-1)}^{6}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow><mn>6</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow><mn>6</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.67",
+      "page": "12-4-binomial-theorem",
+      "is_try_it": true,
+      "anchor": "fs-id1167835354049",
+      "context": [
+        "Evaluate a Binomial Coefficient"
+      ],
+      "text": "Evaluate each binomial coefficient: ⓐ \\((61)\\) ⓑ \\((88)\\) ⓒ \\((50)\\) ⓓ \\((73).\\)",
+      "math": [
+        "(\\begin{matrix}6\\\\1\\end{matrix})",
+        "(\\begin{matrix}8\\\\8\\end{matrix})",
+        "(\\begin{matrix}5\\\\0\\end{matrix})",
+        "(\\begin{matrix}7\\\\3\\end{matrix})."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>6</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>1</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>6</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>1</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>8</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>8</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>8</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>8</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>5</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>0</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>5</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>0</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>7</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>3</mn></mtd></mtr></mtable><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>7</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>3</mn></mtd></mtr></mtable><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.68",
+      "page": "12-4-binomial-theorem",
+      "is_try_it": true,
+      "anchor": "fs-id1167832075981",
+      "context": [
+        "Evaluate a Binomial Coefficient"
+      ],
+      "text": "Evaluate each binomial coefficient: ⓐ \\((21)\\) ⓑ \\((1111)\\) ⓒ \\((90)\\) ⓓ \\((65).\\)",
+      "math": [
+        "(\\begin{matrix}2\\\\1\\end{matrix})",
+        "(\\begin{matrix}11\\\\11\\end{matrix})",
+        "(\\begin{matrix}9\\\\0\\end{matrix})",
+        "(\\begin{matrix}6\\\\5\\end{matrix})."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>2</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>1</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>2</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>1</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>11</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>11</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>11</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>11</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>9</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>0</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>9</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>0</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>6</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>5</mn></mtd></mtr></mtable><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>6</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>5</mn></mtd></mtr></mtable><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.69",
+      "page": "12-4-binomial-theorem",
+      "is_try_it": true,
+      "anchor": "fs-id1167835258733",
+      "context": [
+        "Use the Binomial Theorem to Expand a Binomial"
+      ],
+      "text": "Use the Binomial Theorem to expand \\({(x+y)}^{5}.\\)",
+      "math": [
+        "{(x+y)}^{5}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mi>y</mi></mrow><mo>)</mo></mrow></mrow><mn>5</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mi>y</mi></mrow><mo>)</mo></mrow></mrow><mn>5</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.70",
+      "page": "12-4-binomial-theorem",
+      "is_try_it": true,
+      "anchor": "fs-id1167835234586",
+      "context": [
+        "Use the Binomial Theorem to Expand a Binomial"
+      ],
+      "text": "Use the Binomial Theorem to expand \\({(m+n)}^{6}.\\)",
+      "math": [
+        "{(m+n)}^{6}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>m</mi><mo>+</mo><mi>n</mi></mrow><mo>)</mo></mrow></mrow><mn>6</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>m</mi><mo>+</mo><mi>n</mi></mrow><mo>)</mo></mrow></mrow><mn>6</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.71",
+      "page": "12-4-binomial-theorem",
+      "is_try_it": true,
+      "anchor": "fs-id1167835479490",
+      "context": [
+        "Use the Binomial Theorem to Expand a Binomial"
+      ],
+      "text": "Use the Binomial Theorem to expand \\({(x-3)}^{5}.\\)",
+      "math": [
+        "{(x-3)}^{5}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>5</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>5</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.72",
+      "page": "12-4-binomial-theorem",
+      "is_try_it": true,
+      "anchor": "fs-id1167826803926",
+      "context": [
+        "Use the Binomial Theorem to Expand a Binomial"
+      ],
+      "text": "Use the Binomial Theorem to expand \\({(y-1)}^{6}.\\)",
+      "math": [
+        "{(y-1)}^{6}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow><mn>6</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow><mn>6</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.73",
+      "page": "12-4-binomial-theorem",
+      "is_try_it": true,
+      "anchor": "fs-id1167832036228",
+      "context": [
+        "Use the Binomial Theorem to Expand a Binomial"
+      ],
+      "text": "Use the Binomial Theorem to expand \\({(3x-2y)}^{5}.\\)",
+      "math": [
+        "{(3x-2y)}^{5}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>2</mn><mi>y</mi></mrow><mo>)</mo></mrow></mrow><mn>5</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>2</mn><mi>y</mi></mrow><mo>)</mo></mrow></mrow><mn>5</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.74",
+      "page": "12-4-binomial-theorem",
+      "is_try_it": true,
+      "anchor": "fs-id1167831920179",
+      "context": [
+        "Use the Binomial Theorem to Expand a Binomial"
+      ],
+      "text": "Use the Binomial Theorem to expand \\({(4x-3y)}^{4}.\\)",
+      "math": [
+        "{(4x-3y)}^{4}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mi>x</mi><mo>−</mo><mn>3</mn><mi>y</mi></mrow><mo>)</mo></mrow></mrow><mn>4</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mi>x</mi><mo>−</mo><mn>3</mn><mi>y</mi></mrow><mo>)</mo></mrow></mrow><mn>4</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.75",
+      "page": "12-4-binomial-theorem",
+      "is_try_it": true,
+      "anchor": "fs-id1167834539409",
+      "context": [
+        "Use the Binomial Theorem to Expand a Binomial"
+      ],
+      "text": "Find the third term of \\({(x+y)}^{6}.\\)",
+      "math": [
+        "{(x+y)}^{6}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mi>y</mi></mrow><mo>)</mo></mrow></mrow><mn>6</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mi>y</mi></mrow><mo>)</mo></mrow></mrow><mn>6</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.76",
+      "page": "12-4-binomial-theorem",
+      "is_try_it": true,
+      "anchor": "fs-id1167830705542",
+      "context": [
+        "Use the Binomial Theorem to Expand a Binomial"
+      ],
+      "text": "Find the fifth term of \\({(a+b)}^{8}.\\)",
+      "math": [
+        "{(a+b)}^{8}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>a</mi><mo>+</mo><mi>b</mi></mrow><mo>)</mo></mrow></mrow><mn>8</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>a</mi><mo>+</mo><mi>b</mi></mrow><mo>)</mo></mrow></mrow><mn>8</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.77",
+      "page": "12-4-binomial-theorem",
+      "is_try_it": true,
+      "anchor": "fs-id1167835595836",
+      "context": [
+        "Use the Binomial Theorem to Expand a Binomial"
+      ],
+      "text": "Find the coefficient of the \\({x}^{5}\\) term of \\({(x+4)}^{8}.\\)",
+      "math": [
+        "{x}^{5}",
+        "{(x+4)}^{8}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>5</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>5</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow><mn>8</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow><mn>8</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.78",
+      "page": "12-4-binomial-theorem",
+      "is_try_it": true,
+      "anchor": "fs-id1167835595887",
+      "context": [
+        "Use the Binomial Theorem to Expand a Binomial"
+      ],
+      "text": "Find the coefficient of the \\({x}^{4}\\) term of \\({(x+2)}^{7}.\\)",
+      "math": [
+        "{x}^{4}",
+        "{(x+2)}^{7}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>4</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>4</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow><mn>7</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow><mn>7</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

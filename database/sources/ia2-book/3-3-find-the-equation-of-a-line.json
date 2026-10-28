@@ -1,0 +1,1884 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/3-3-find-the-equation-of-a-line",
+  "title": "3.3 Find the Equation of a Line",
+  "sha256": "1a286bd231761a0197661fc0ba4416a7bf35ba32874753afebca5e86370e9d25",
+  "questions": [
+    {
+      "number": 155,
+      "anchor": "fs-id1167829753548",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of the Line Given the Slope and y-Intercept",
+        "In the following exercises, find the equation of a line with given slope and y-intercept. Write the equation in slope-intercept form."
+      ],
+      "text": "slope 3 and\\(y\\)-intercept \\((0,5)\\)",
+      "math": [
+        "y",
+        "(0,5)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>5</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>5</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 156,
+      "anchor": "fs-id1167826097524",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of the Line Given the Slope and y-Intercept",
+        "In the following exercises, find the equation of a line with given slope and y-intercept. Write the equation in slope-intercept form."
+      ],
+      "text": "slope 8 andy-intercept \\((0,-6)\\)",
+      "math": [
+        "(0,-6)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>−6</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>−6</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 157,
+      "anchor": "fs-id1167829579132",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of the Line Given the Slope and y-Intercept",
+        "In the following exercises, find the equation of a line with given slope and y-intercept. Write the equation in slope-intercept form."
+      ],
+      "text": "slope \\(-3\\) and\\(y\\)-intercept \\((0,-1)\\)",
+      "math": [
+        "-3",
+        "y",
+        "(0,-1)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 158,
+      "anchor": "fs-id1167829810647",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of the Line Given the Slope and y-Intercept",
+        "In the following exercises, find the equation of a line with given slope and y-intercept. Write the equation in slope-intercept form."
+      ],
+      "text": "slope \\(-1\\) and\\(y\\)-intercept \\((0,3)\\)",
+      "math": [
+        "-1",
+        "y",
+        "(0,3)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 159,
+      "anchor": "fs-id1167836387436",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of the Line Given the Slope and y-Intercept",
+        "In the following exercises, find the equation of a line with given slope and y-intercept. Write the equation in slope-intercept form."
+      ],
+      "text": "slope \\(\\frac{1}{5}\\) and\\(y\\)-intercept \\((0,-5)\\)",
+      "math": [
+        "\\frac{1}{5}",
+        "y",
+        "(0,-5)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 160,
+      "anchor": "fs-id1167824767097",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of the Line Given the Slope and y-Intercept",
+        "In the following exercises, find the equation of a line with given slope and y-intercept. Write the equation in slope-intercept form."
+      ],
+      "text": "slope \\(-\\frac{3}{4}\\) and\\(y\\)-intercept \\((0,-2)\\)",
+      "math": [
+        "-\\frac{3}{4}",
+        "y",
+        "(0,-2)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mo>−</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mo>−</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 161,
+      "anchor": "fs-id1167829712261",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of the Line Given the Slope and y-Intercept",
+        "In the following exercises, find the equation of a line with given slope and y-intercept. Write the equation in slope-intercept form."
+      ],
+      "text": "slope 0 and\\(y\\)-intercept \\((0,-1)\\)",
+      "math": [
+        "y",
+        "(0,-1)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 162,
+      "anchor": "fs-id1167829711770",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of the Line Given the Slope and y-Intercept",
+        "In the following exercises, find the equation of a line with given slope and y-intercept. Write the equation in slope-intercept form."
+      ],
+      "text": "slope \\(-4\\) and\\(y\\)-intercept \\((0,0)\\)",
+      "math": [
+        "-4",
+        "y",
+        "(0,0)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 163,
+      "anchor": "fs-id1167836544522",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "In the following exercises, find the equation of a line with given slope and y-intercept. Write the equation in slope-intercept form.",
+        "In the following exercises, find the equation of the line shown in each graph. Write the equation in slope-intercept form."
+      ],
+      "text": "[FIGURA: This figure has a graph of a straight line on the x y-coordinate plane. The x and y-axes run from negative 10 to 10. The line goes through the points (0, negative 5), (1, negative 2), and (2, 1).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure has a graph of a straight line on the x y-coordinate plane. The x and y-axes run from negative 10 to 10. The line goes through the points (0, negative 5), (1, negative 2), and (2, 1)."
+      ]
+    },
+    {
+      "number": 164,
+      "anchor": "fs-id1167833349591",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "In the following exercises, find the equation of a line with given slope and y-intercept. Write the equation in slope-intercept form.",
+        "In the following exercises, find the equation of the line shown in each graph. Write the equation in slope-intercept form."
+      ],
+      "text": "[FIGURA: This figure has a graph of a straight line on the x y-coordinate plane. The x and y-axes run from negative 10 to 10. The line goes through the points (0, 4), (1, 2), and (2, 0).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure has a graph of a straight line on the x y-coordinate plane. The x and y-axes run from negative 10 to 10. The line goes through the points (0, 4), (1, 2), and (2, 0)."
+      ]
+    },
+    {
+      "number": 165,
+      "anchor": "fs-id1167836440491",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "In the following exercises, find the equation of a line with given slope and y-intercept. Write the equation in slope-intercept form.",
+        "In the following exercises, find the equation of the line shown in each graph. Write the equation in slope-intercept form."
+      ],
+      "text": "[FIGURA: This figure has a graph of a straight line on the x y-coordinate plane. The x and y-axes run from negative 10 to 10. The line goes through the points (0, negative 3), (2, negative 2), and (6, 0).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure has a graph of a straight line on the x y-coordinate plane. The x and y-axes run from negative 10 to 10. The line goes through the points (0, negative 3), (2, negative 2), and (6, 0)."
+      ]
+    },
+    {
+      "number": 166,
+      "anchor": "fs-id1167833361650",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "In the following exercises, find the equation of a line with given slope and y-intercept. Write the equation in slope-intercept form.",
+        "In the following exercises, find the equation of the line shown in each graph. Write the equation in slope-intercept form."
+      ],
+      "text": "[FIGURA: This figure has a graph of a straight line on the x y-coordinate plane. The x and y-axes run from negative 10 to 10. The line goes through the points (0, 2), (4, 5), and (8, 8).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure has a graph of a straight line on the x y-coordinate plane. The x and y-axes run from negative 10 to 10. The line goes through the points (0, 2), (4, 5), and (8, 8)."
+      ]
+    },
+    {
+      "number": 167,
+      "anchor": "fs-id1167836417359",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "In the following exercises, find the equation of a line with given slope and y-intercept. Write the equation in slope-intercept form.",
+        "In the following exercises, find the equation of the line shown in each graph. Write the equation in slope-intercept form."
+      ],
+      "text": "[FIGURA: This figure has a graph of a straight line on the x y-coordinate plane. The x and y-axes run from negative 10 to 10. The line goes through the points (0, 3), (3, negative 1), and (6, negative 5).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure has a graph of a straight line on the x y-coordinate plane. The x and y-axes run from negative 10 to 10. The line goes through the points (0, 3), (3, negative 1), and (6, negative 5)."
+      ]
+    },
+    {
+      "number": 168,
+      "anchor": "fs-id1167836485683",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "In the following exercises, find the equation of a line with given slope and y-intercept. Write the equation in slope-intercept form.",
+        "In the following exercises, find the equation of the line shown in each graph. Write the equation in slope-intercept form."
+      ],
+      "text": "[FIGURA: This figure has a graph of a straight line on the x y-coordinate plane. The x and y-axes run from negative 10 to 10. The line goes through the points (0, negative 1), (2, negative 4), and (4, negative 7).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure has a graph of a straight line on the x y-coordinate plane. The x and y-axes run from negative 10 to 10. The line goes through the points (0, negative 1), (2, negative 4), and (4, negative 7)."
+      ]
+    },
+    {
+      "number": 169,
+      "anchor": "fs-id1167833274590",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "In the following exercises, find the equation of a line with given slope and y-intercept. Write the equation in slope-intercept form.",
+        "In the following exercises, find the equation of the line shown in each graph. Write the equation in slope-intercept form."
+      ],
+      "text": "[FIGURA: This figure has a graph of a horizontal straight line on the x y-coordinate plane. The x and y-axes run from negative 10 to 10. The line goes through the points (0, negative 2), (1, negative 2), and (2, negative 2).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure has a graph of a horizontal straight line on the x y-coordinate plane. The x and y-axes run from negative 10 to 10. The line goes through the points (0, negative 2), (1, negative 2), and (2, negative 2)."
+      ]
+    },
+    {
+      "number": 170,
+      "anchor": "fs-id1167836609306",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "In the following exercises, find the equation of a line with given slope and y-intercept. Write the equation in slope-intercept form.",
+        "In the following exercises, find the equation of the line shown in each graph. Write the equation in slope-intercept form."
+      ],
+      "text": "[FIGURA: This figure has a graph of a horizontal straight line on the x y-coordinate plane. The x and y-axes run from negative 10 to 10. The line goes through the points (0, 6), (1, 6), and (2, 6).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure has a graph of a horizontal straight line on the x y-coordinate plane. The x and y-axes run from negative 10 to 10. The line goes through the points (0, 6), (1, 6), and (2, 6)."
+      ]
+    },
+    {
+      "number": 171,
+      "anchor": "fs-id1167833407507",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of the Line Given the Slope and a Point",
+        "In the following exercises, find the equation of a line with given slope and containing the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "\\(m=\\frac{5}{8},\\) point \\((8,3)\\)",
+      "math": [
+        "m=\\frac{5}{8},",
+        "(8,3)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>m</mi><mo>=</mo><mfrac><mn>5</mn><mn>8</mn></mfrac><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>m</mi><mo>=</mo><mfrac><mn>5</mn><mn>8</mn></mfrac><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>8</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>8</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 172,
+      "anchor": "fs-id1167833047536",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of the Line Given the Slope and a Point",
+        "In the following exercises, find the equation of a line with given slope and containing the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "\\(m=\\frac{5}{6},\\) point \\((6,7)\\)",
+      "math": [
+        "m=\\frac{5}{6},",
+        "(6,7)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>m</mi><mo>=</mo><mfrac><mn>5</mn><mn>6</mn></mfrac><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>m</mi><mo>=</mo><mfrac><mn>5</mn><mn>6</mn></mfrac><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>6</mn><mo>,</mo><mn>7</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>6</mn><mo>,</mo><mn>7</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 173,
+      "anchor": "fs-id1167836509627",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of the Line Given the Slope and a Point",
+        "In the following exercises, find the equation of a line with given slope and containing the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "\\(m=-\\frac{3}{5},\\) point \\((10,-5)\\)",
+      "math": [
+        "m=-\\frac{3}{5},",
+        "(10,-5)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>m</mi><mo>=</mo><mo>−</mo><mfrac><mn>3</mn><mn>5</mn></mfrac><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>m</mi><mo>=</mo><mo>−</mo><mfrac><mn>3</mn><mn>5</mn></mfrac><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>10</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>10</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 174,
+      "anchor": "fs-id1167829811645",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of the Line Given the Slope and a Point",
+        "In the following exercises, find the equation of a line with given slope and containing the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "\\(m=-\\frac{3}{4},\\) point \\((8,-5)\\)",
+      "math": [
+        "m=-\\frac{3}{4},",
+        "(8,-5)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>m</mi><mo>=</mo><mo>−</mo><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>m</mi><mo>=</mo><mo>−</mo><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>8</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>8</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 175,
+      "anchor": "fs-id1167826077523",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of the Line Given the Slope and a Point",
+        "In the following exercises, find the equation of a line with given slope and containing the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "\\(m=-\\frac{3}{2},\\) point \\((-4,-3)\\)",
+      "math": [
+        "m=-\\frac{3}{2},",
+        "(-4,-3)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>m</mi><mo>=</mo><mo>−</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>m</mi><mo>=</mo><mo>−</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 176,
+      "anchor": "fs-id1167836699450",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of the Line Given the Slope and a Point",
+        "In the following exercises, find the equation of a line with given slope and containing the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "\\(m=-\\frac{5}{2},\\) point \\((-8,-2)\\)",
+      "math": [
+        "m=-\\frac{5}{2},",
+        "(-8,-2)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>m</mi><mo>=</mo><mo>−</mo><mfrac><mn>5</mn><mn>2</mn></mfrac><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>m</mi><mo>=</mo><mo>−</mo><mfrac><mn>5</mn><mn>2</mn></mfrac><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−8</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−8</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 177,
+      "anchor": "fs-id1167833269887",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of the Line Given the Slope and a Point",
+        "In the following exercises, find the equation of a line with given slope and containing the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "\\(m=-7,\\) point \\((-1,-3)\\)",
+      "math": [
+        "m=-7,",
+        "(-1,-3)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>m</mi><mo>=</mo><mn>−7</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>m</mi><mo>=</mo><mn>−7</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 178,
+      "anchor": "fs-id1167833056175",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of the Line Given the Slope and a Point",
+        "In the following exercises, find the equation of a line with given slope and containing the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "\\(m=-4,\\) point \\((-2,-3)\\)",
+      "math": [
+        "m=-4,",
+        "(-2,-3)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>m</mi><mo>=</mo><mn>−4</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>m</mi><mo>=</mo><mn>−4</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 179,
+      "anchor": "fs-id1167829597969",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of the Line Given the Slope and a Point",
+        "In the following exercises, find the equation of a line with given slope and containing the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "Horizontal line containing \\((-2,5)\\)",
+      "math": [
+        "(-2,5)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>5</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>5</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 180,
+      "anchor": "fs-id1167836495293",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of the Line Given the Slope and a Point",
+        "In the following exercises, find the equation of a line with given slope and containing the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "Horizontal line containing \\((-2,-3)\\)",
+      "math": [
+        "(-2,-3)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 181,
+      "anchor": "fs-id1167826083425",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of the Line Given the Slope and a Point",
+        "In the following exercises, find the equation of a line with given slope and containing the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "Horizontal line containing \\((-1,-7)\\)",
+      "math": [
+        "(-1,-7)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>−7</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>−7</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 182,
+      "anchor": "fs-id1167829620802",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of the Line Given the Slope and a Point",
+        "In the following exercises, find the equation of a line with given slope and containing the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "Horizontal line containing \\((4,-8)\\)",
+      "math": [
+        "(4,-8)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>−8</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>−8</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 183,
+      "anchor": "fs-id1167829880329",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of the Line Given Two Points",
+        "In the following exercises, find the equation of a line containing the given points. Write the equation in slope-intercept form."
+      ],
+      "text": "\\((2,6)\\) and \\((5,3)\\)",
+      "math": [
+        "(2,6)",
+        "(5,3)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>6</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>6</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 184,
+      "anchor": "fs-id1167832940554",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of the Line Given Two Points",
+        "In the following exercises, find the equation of a line containing the given points. Write the equation in slope-intercept form."
+      ],
+      "text": "\\((4,3)\\) and \\((8,1)\\)",
+      "math": [
+        "(4,3)",
+        "(8,1)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>8</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>8</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 185,
+      "anchor": "fs-id1167836526101",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of the Line Given Two Points",
+        "In the following exercises, find the equation of a line containing the given points. Write the equation in slope-intercept form."
+      ],
+      "text": "\\((-3,-4)\\) and \\((5,-2)\\)",
+      "math": [
+        "(-3,-4)",
+        "(5,-2)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>,</mo><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>,</mo><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 186,
+      "anchor": "fs-id1167829597670",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of the Line Given Two Points",
+        "In the following exercises, find the equation of a line containing the given points. Write the equation in slope-intercept form."
+      ],
+      "text": "\\((-5,-3)\\) and \\((4,-6)\\)",
+      "math": [
+        "(-5,-3)",
+        "(4,-6)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−5</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−5</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>−6</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>−6</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 187,
+      "anchor": "fs-id1167833311141",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of the Line Given Two Points",
+        "In the following exercises, find the equation of a line containing the given points. Write the equation in slope-intercept form."
+      ],
+      "text": "\\((-1,3)\\) and \\((-6,-7)\\)",
+      "math": [
+        "(-1,3)",
+        "(-6,-7)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−6</mn><mo>,</mo><mn>−7</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−6</mn><mo>,</mo><mn>−7</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 188,
+      "anchor": "fs-id1167829726391",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of the Line Given Two Points",
+        "In the following exercises, find the equation of a line containing the given points. Write the equation in slope-intercept form."
+      ],
+      "text": "\\((-2,8)\\) and \\((-4,-6)\\)",
+      "math": [
+        "(-2,8)",
+        "(-4,-6)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>8</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>8</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>−6</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>−6</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 189,
+      "anchor": "fs-id1167833009732",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of the Line Given Two Points",
+        "In the following exercises, find the equation of a line containing the given points. Write the equation in slope-intercept form."
+      ],
+      "text": "\\((0,4)\\) and \\((2,-3)\\)",
+      "math": [
+        "(0,4)",
+        "(2,-3)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 190,
+      "anchor": "fs-id1167824737272",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of the Line Given Two Points",
+        "In the following exercises, find the equation of a line containing the given points. Write the equation in slope-intercept form."
+      ],
+      "text": "\\((0,-2)\\) and \\((-5,-3)\\)",
+      "math": [
+        "(0,-2)",
+        "(-5,-3)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−5</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−5</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 191,
+      "anchor": "fs-id1167836524732",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of the Line Given Two Points",
+        "In the following exercises, find the equation of a line containing the given points. Write the equation in slope-intercept form."
+      ],
+      "text": "\\((7,2)\\) and \\((7,-2)\\)",
+      "math": [
+        "(7,2)",
+        "(7,-2)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>7</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>7</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>7</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>7</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 192,
+      "anchor": "fs-id1167836322984",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of the Line Given Two Points",
+        "In the following exercises, find the equation of a line containing the given points. Write the equation in slope-intercept form."
+      ],
+      "text": "\\((-2,1)\\) and \\((-2,-4)\\)",
+      "math": [
+        "(-2,1)",
+        "(-2,-4)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 193,
+      "anchor": "fs-id1167829894553",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of the Line Given Two Points",
+        "In the following exercises, find the equation of a line containing the given points. Write the equation in slope-intercept form."
+      ],
+      "text": "\\((3,-4)\\) and \\((5,-4)\\)",
+      "math": [
+        "(3,-4)",
+        "(5,-4)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 194,
+      "anchor": "fs-id1167824590416",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of the Line Given Two Points",
+        "In the following exercises, find the equation of a line containing the given points. Write the equation in slope-intercept form."
+      ],
+      "text": "\\((-6,-3)\\) and \\((-1,-3)\\)",
+      "math": [
+        "(-6,-3)",
+        "(-1,-3)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−6</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−6</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 195,
+      "anchor": "fs-id1167836567374",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of a Line Parallel to a Given Line",
+        "In the following exercises, find an equation of a line parallel to the given line and contains the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "line \\(y=4x+2,\\)point \\((1,2)\\)",
+      "math": [
+        "y=4x+2,",
+        "(1,2)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>2</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>2</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 196,
+      "anchor": "fs-id1167836598894",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of a Line Parallel to a Given Line",
+        "In the following exercises, find an equation of a line parallel to the given line and contains the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "line \\(y=-3x-1,\\)point \\((2,-3).\\)",
+      "math": [
+        "y=-3x-1,",
+        "(2,-3)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>−3</mn><mi>x</mi><mo>−</mo><mn>1</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>−3</mn><mi>x</mi><mo>−</mo><mn>1</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 197,
+      "anchor": "fs-id1167836787998",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of a Line Parallel to a Given Line",
+        "In the following exercises, find an equation of a line parallel to the given line and contains the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "line \\(2x-y=6,\\)point \\((3,0).\\)",
+      "math": [
+        "2x-y=6,",
+        "(3,0)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mi>y</mi><mo>=</mo><mn>6</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mi>y</mi><mo>=</mo><mn>6</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 198,
+      "anchor": "fs-id1167829749845",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of a Line Parallel to a Given Line",
+        "In the following exercises, find an equation of a line parallel to the given line and contains the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "line \\(2x+3y=6,\\)point \\((0,5).\\)",
+      "math": [
+        "2x+3y=6,",
+        "(0,5)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>6</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>6</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>5</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>5</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 199,
+      "anchor": "fs-id1167833019832",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of a Line Parallel to a Given Line",
+        "In the following exercises, find an equation of a line parallel to the given line and contains the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "line \\(x=-4,\\)point \\((-3,-5).\\)",
+      "math": [
+        "x=-4,",
+        "(-3,-5)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>−4</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>−4</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 200,
+      "anchor": "fs-id1167836486058",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of a Line Parallel to a Given Line",
+        "In the following exercises, find an equation of a line parallel to the given line and contains the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "line \\(x-2=0,\\)point \\((1,-2)\\)",
+      "math": [
+        "x-2=0,",
+        "(1,-2)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>−</mo><mn>2</mn><mo>=</mo><mn>0</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>−</mo><mn>2</mn><mo>=</mo><mn>0</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 201,
+      "anchor": "fs-id1167836391229",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of a Line Parallel to a Given Line",
+        "In the following exercises, find an equation of a line parallel to the given line and contains the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "line \\(y=5,\\)point \\((2,-2)\\)",
+      "math": [
+        "y=5,",
+        "(2,-2)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>5</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>5</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 202,
+      "anchor": "fs-id1167829811153",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of a Line Parallel to a Given Line",
+        "In the following exercises, find an equation of a line parallel to the given line and contains the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "line \\(y+2=0,\\)point \\((3,-3)\\)",
+      "math": [
+        "y+2=0,",
+        "(3,-3)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>+</mo><mn>2</mn><mo>=</mo><mn>0</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>+</mo><mn>2</mn><mo>=</mo><mn>0</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 203,
+      "anchor": "fs-id1167829752070",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of a Line Perpendicular to a Given Line",
+        "In the following exercises, find an equation of a line perpendicular to the given line and contains the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "line \\(y=-2x+3,\\)point \\((2,2)\\)",
+      "math": [
+        "y=-2x+3,",
+        "(2,2)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>−2</mn><mi>x</mi><mo>+</mo><mn>3</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>−2</mn><mi>x</mi><mo>+</mo><mn>3</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 204,
+      "anchor": "fs-id1167836608786",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of a Line Perpendicular to a Given Line",
+        "In the following exercises, find an equation of a line perpendicular to the given line and contains the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "line \\(y=-x+5,\\)point \\((3,3)\\)",
+      "math": [
+        "y=-x+5,",
+        "(3,3)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mtext>−</mtext><mi>x</mi><mo>+</mo><mn>5</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mtext>−</mtext><mi>x</mi><mo>+</mo><mn>5</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 205,
+      "anchor": "fs-id1167836701461",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of a Line Perpendicular to a Given Line",
+        "In the following exercises, find an equation of a line perpendicular to the given line and contains the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "line \\(y=\\frac{3}{4}x-2,\\)point \\((-3,4)\\)",
+      "math": [
+        "y=\\frac{3}{4}x-2,",
+        "(-3,4)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mfrac><mn>3</mn><mn>4</mn></mfrac><mi>x</mi><mo>−</mo><mn>2</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mfrac><mn>3</mn><mn>4</mn></mfrac><mi>x</mi><mo>−</mo><mn>2</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 206,
+      "anchor": "fs-id1167836613635",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of a Line Perpendicular to a Given Line",
+        "In the following exercises, find an equation of a line perpendicular to the given line and contains the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "line \\(y=\\frac{2}{3}x-4,\\)point \\((2,-4)\\)",
+      "math": [
+        "y=\\frac{2}{3}x-4,",
+        "(2,-4)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>x</mi><mo>−</mo><mn>4</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>x</mi><mo>−</mo><mn>4</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 207,
+      "anchor": "fs-id1167836612285",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of a Line Perpendicular to a Given Line",
+        "In the following exercises, find an equation of a line perpendicular to the given line and contains the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "line \\(2x-3y=8,\\)point \\((4,-1)\\)",
+      "math": [
+        "2x-3y=8,",
+        "(4,-1)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>8</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>8</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 208,
+      "anchor": "fs-id1167832977098",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of a Line Perpendicular to a Given Line",
+        "In the following exercises, find an equation of a line perpendicular to the given line and contains the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "line \\(4x-3y=5,\\)point \\((-3,2)\\)",
+      "math": [
+        "4x-3y=5,",
+        "(-3,2)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mi>x</mi><mo>−</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>5</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mi>x</mi><mo>−</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>5</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 209,
+      "anchor": "fs-id1167836518806",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of a Line Perpendicular to a Given Line",
+        "In the following exercises, find an equation of a line perpendicular to the given line and contains the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "line \\(2x+5y=6,\\)point \\((0,0)\\)",
+      "math": [
+        "2x+5y=6,",
+        "(0,0)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>5</mn><mi>y</mi><mo>=</mo><mn>6</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>5</mn><mi>y</mi><mo>=</mo><mn>6</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 210,
+      "anchor": "fs-id1167829908672",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of a Line Perpendicular to a Given Line",
+        "In the following exercises, find an equation of a line perpendicular to the given line and contains the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "line \\(4x+5y=-3,\\)point \\((0,0)\\)",
+      "math": [
+        "4x+5y=-3,",
+        "(0,0)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mn>5</mn><mi>y</mi><mo>=</mo><mn>−3</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mn>5</mn><mi>y</mi><mo>=</mo><mn>−3</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 211,
+      "anchor": "fs-id1167830059063",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of a Line Perpendicular to a Given Line",
+        "In the following exercises, find an equation of a line perpendicular to the given line and contains the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "line \\(x=3,\\)point \\((3,4)\\)",
+      "math": [
+        "x=3,",
+        "(3,4)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>3</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>3</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 212,
+      "anchor": "fs-id1167836496973",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of a Line Perpendicular to a Given Line",
+        "In the following exercises, find an equation of a line perpendicular to the given line and contains the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "line \\(x=-5,\\)point \\((1,-2)\\)",
+      "math": [
+        "x=-5,",
+        "(1,-2)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>−5</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>−5</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 213,
+      "anchor": "fs-id1167836729396",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of a Line Perpendicular to a Given Line",
+        "In the following exercises, find an equation of a line perpendicular to the given line and contains the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "line \\(x=7,\\)point \\((-3,-4)\\)",
+      "math": [
+        "x=7,",
+        "(-3,-4)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>7</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>7</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 214,
+      "anchor": "fs-id1167836327353",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of a Line Perpendicular to a Given Line",
+        "In the following exercises, find an equation of a line perpendicular to the given line and contains the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "line \\(x=-1,\\)point \\((-4,0)\\)",
+      "math": [
+        "x=-1,",
+        "(-4,0)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>−1</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>−1</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 215,
+      "anchor": "fs-id1167836538674",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of a Line Perpendicular to a Given Line",
+        "In the following exercises, find an equation of a line perpendicular to the given line and contains the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "line \\(y-3=0,\\)point \\((-2,-4)\\)",
+      "math": [
+        "y-3=0,",
+        "(-2,-4)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>−</mo><mn>3</mn><mo>=</mo><mn>0</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>−</mo><mn>3</mn><mo>=</mo><mn>0</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 216,
+      "anchor": "fs-id1167826130658",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of a Line Perpendicular to a Given Line",
+        "In the following exercises, find an equation of a line perpendicular to the given line and contains the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "line \\(y-6=0,\\)point \\((-5,-3)\\)",
+      "math": [
+        "y-6=0,",
+        "(-5,-3)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>−</mo><mn>6</mn><mo>=</mo><mn>0</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>−</mo><mn>6</mn><mo>=</mo><mn>0</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−5</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−5</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 217,
+      "anchor": "fs-id1167829807550",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of a Line Perpendicular to a Given Line",
+        "In the following exercises, find an equation of a line perpendicular to the given line and contains the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "line y-axis,point \\((3,4)\\)",
+      "math": [
+        "(3,4)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 218,
+      "anchor": "fs-id1167836389046",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Find an Equation of a Line Perpendicular to a Given Line",
+        "In the following exercises, find an equation of a line perpendicular to the given line and contains the given point. Write the equation in slope-intercept form."
+      ],
+      "text": "line y-axis,point \\((2,1)\\)",
+      "math": [
+        "(2,1)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 219,
+      "anchor": "fs-id1167829879476",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, find the equation of each line. Write the equation in slope-intercept form."
+      ],
+      "text": "Containing the points \\((4,3)\\) and \\((8,1)\\)",
+      "math": [
+        "(4,3)",
+        "(8,1)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>8</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>8</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 220,
+      "anchor": "fs-id1167830123660",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, find the equation of each line. Write the equation in slope-intercept form."
+      ],
+      "text": "Containing the points \\((-2,0)\\) and \\((-3,-2)\\)",
+      "math": [
+        "(-2,0)",
+        "(-3,-2)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 221,
+      "anchor": "fs-id1167829624584",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, find the equation of each line. Write the equation in slope-intercept form."
+      ],
+      "text": "\\(m=\\frac{1}{6},\\) containing point \\((6,1)\\)",
+      "math": [
+        "m=\\frac{1}{6},",
+        "(6,1)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>m</mi><mo>=</mo><mfrac><mn>1</mn><mn>6</mn></mfrac><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>m</mi><mo>=</mo><mfrac><mn>1</mn><mn>6</mn></mfrac><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>6</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>6</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 222,
+      "anchor": "fs-id1167833049256",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, find the equation of each line. Write the equation in slope-intercept form."
+      ],
+      "text": "\\(m=\\frac{5}{6},\\) containing point \\((6,7)\\)",
+      "math": [
+        "m=\\frac{5}{6},",
+        "(6,7)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>m</mi><mo>=</mo><mfrac><mn>5</mn><mn>6</mn></mfrac><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>m</mi><mo>=</mo><mfrac><mn>5</mn><mn>6</mn></mfrac><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>6</mn><mo>,</mo><mn>7</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>6</mn><mo>,</mo><mn>7</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 223,
+      "anchor": "fs-id1167836533232",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, find the equation of each line. Write the equation in slope-intercept form."
+      ],
+      "text": "Parallel to the line \\(4x+3y=6,\\) containing point \\((0,-3)\\)",
+      "math": [
+        "4x+3y=6,",
+        "(0,-3)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>6</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>6</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 224,
+      "anchor": "fs-id1167836664674",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, find the equation of each line. Write the equation in slope-intercept form."
+      ],
+      "text": "Parallel to the line \\(2x+3y=6,\\) containing point \\((0,5)\\)",
+      "math": [
+        "2x+3y=6,",
+        "(0,5)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>6</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>6</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>5</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>5</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 225,
+      "anchor": "fs-id1167836714016",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, find the equation of each line. Write the equation in slope-intercept form."
+      ],
+      "text": "\\(m=-\\frac{3}{4},\\) containing point \\((8,-5)\\)",
+      "math": [
+        "m=-\\frac{3}{4},",
+        "(8,-5)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>m</mi><mo>=</mo><mo>−</mo><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>m</mi><mo>=</mo><mo>−</mo><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>8</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>8</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 226,
+      "anchor": "fs-id1167829720221",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, find the equation of each line. Write the equation in slope-intercept form."
+      ],
+      "text": "\\(m=-\\frac{3}{5},\\) containing point \\((10,-5)\\)",
+      "math": [
+        "m=-\\frac{3}{5},",
+        "(10,-5)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>m</mi><mo>=</mo><mo>−</mo><mfrac><mn>3</mn><mn>5</mn></mfrac><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>m</mi><mo>=</mo><mo>−</mo><mfrac><mn>3</mn><mn>5</mn></mfrac><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>10</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>10</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 227,
+      "anchor": "fs-id1167833128553",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, find the equation of each line. Write the equation in slope-intercept form."
+      ],
+      "text": "Perpendicular to the line \\(y-1=0,\\) point \\((-2,6)\\)",
+      "math": [
+        "y-1=0,",
+        "(-2,6)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>−</mo><mn>1</mn><mo>=</mo><mn>0</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>−</mo><mn>1</mn><mo>=</mo><mn>0</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>6</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>6</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 228,
+      "anchor": "fs-id1167833339135",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, find the equation of each line. Write the equation in slope-intercept form."
+      ],
+      "text": "Perpendicular to the line y-axis, point \\((-6,2)\\)",
+      "math": [
+        "(-6,2)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−6</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−6</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 229,
+      "anchor": "fs-id1167836756601",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, find the equation of each line. Write the equation in slope-intercept form."
+      ],
+      "text": "Parallel to the line \\(x=-3,\\) containing point \\((-2,-1)\\)",
+      "math": [
+        "x=-3,",
+        "(-2,-1)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>−3</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>−3</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 230,
+      "anchor": "fs-id1167825986925",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, find the equation of each line. Write the equation in slope-intercept form."
+      ],
+      "text": "Parallel to the line \\(x=-4,\\) containing point \\((-3,-5)\\)",
+      "math": [
+        "x=-4,",
+        "(-3,-5)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>−4</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>−4</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 231,
+      "anchor": "fs-id1167829931362",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, find the equation of each line. Write the equation in slope-intercept form."
+      ],
+      "text": "Containing the points \\((-3,-4)\\) and \\((2,-5)\\)",
+      "math": [
+        "(-3,-4)",
+        "(2,-5)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 232,
+      "anchor": "fs-id1167836309284",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, find the equation of each line. Write the equation in slope-intercept form."
+      ],
+      "text": "Containing the points \\((-5,-3)\\) and \\((4,-6)\\)",
+      "math": [
+        "(-5,-3)",
+        "(4,-6)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−5</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−5</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>−6</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>−6</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 233,
+      "anchor": "fs-id1167833407736",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, find the equation of each line. Write the equation in slope-intercept form."
+      ],
+      "text": "Perpendicular to the line \\(x-2y=5,\\) point \\((-2,2)\\)",
+      "math": [
+        "x-2y=5,",
+        "(-2,2)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>−</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>5</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>−</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>5</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 234,
+      "anchor": "fs-id1167836623550",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, find the equation of each line. Write the equation in slope-intercept form."
+      ],
+      "text": "Perpendicular to the line \\(4x+3y=1,\\) point \\((0,0)\\)",
+      "math": [
+        "4x+3y=1,",
+        "(0,0)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>1</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>1</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 235,
+      "anchor": "fs-id1167824976247",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Why are all horizontal lines parallel?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 236,
+      "anchor": "fs-id1167836484625",
+      "page": "3-3-find-the-equation-of-a-line",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain in your own words why the slopes of two perpendicular lines must have opposite signs.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "3.47",
+      "page": "3-3-find-the-equation-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167836730567",
+      "context": [
+        "Find an Equation of the Line Given the Slope and y-Intercept"
+      ],
+      "text": "Find the equation of a line with slope \\(\\frac{2}{5}\\) and y-intercept \\((0,4).\\)",
+      "math": [
+        "\\frac{2}{5}",
+        "(0,4)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>2</mn><mn>5</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>2</mn><mn>5</mn></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.48",
+      "page": "3-3-find-the-equation-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167833257642",
+      "context": [
+        "Find an Equation of the Line Given the Slope and y-Intercept"
+      ],
+      "text": "Find the equation of a line with slope \\(-1\\) and y-intercept \\((0,-3).\\)",
+      "math": [
+        "-1",
+        "(0,-3)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.49",
+      "page": "3-3-find-the-equation-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167836318591",
+      "context": [
+        "Find an Equation of the Line Given the Slope and y-Intercept"
+      ],
+      "text": "Find the equation of the line shown in the graph. [FIGURA: This figure has a graph of a straight line on the x y-coordinate plane. The x and y-axes run from negative 8 to 8. The line goes through the points (negative 5, negative 2), (0, 1), and (5, 4).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure has a graph of a straight line on the x y-coordinate plane. The x and y-axes run from negative 8 to 8. The line goes through the points (negative 5, negative 2), (0, 1), and (5, 4)."
+      ]
+    },
+    {
+      "number": "3.50",
+      "page": "3-3-find-the-equation-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167836624567",
+      "context": [
+        "Find an Equation of the Line Given the Slope and y-Intercept"
+      ],
+      "text": "Find the equation of the line shown in the graph. [FIGURA: This figure has a graph of a straight line on the x y-coordinate plane. The x and y-axes run from negative 8 to 8. The line goes through the points (0, negative 5), (3, negative 1), and (6, 3).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure has a graph of a straight line on the x y-coordinate plane. The x and y-axes run from negative 8 to 8. The line goes through the points (0, negative 5), (3, negative 1), and (6, 3)."
+      ]
+    },
+    {
+      "number": "3.51",
+      "page": "3-3-find-the-equation-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167836789252",
+      "context": [
+        "Find an Equation of the Line Given the Slope and a Point"
+      ],
+      "text": "Find the equation of a line with slope \\(m=-\\frac{2}{5}\\) and containing the point \\((10,-5).\\)",
+      "math": [
+        "m=-\\frac{2}{5}",
+        "(10,-5)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>m</mi><mo>=</mo><mo>−</mo><mfrac><mn>2</mn><mn>5</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>m</mi><mo>=</mo><mo>−</mo><mfrac><mn>2</mn><mn>5</mn></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>10</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>10</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.52",
+      "page": "3-3-find-the-equation-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167832956627",
+      "context": [
+        "Find an Equation of the Line Given the Slope and a Point"
+      ],
+      "text": "Find the equation of a line with slope \\(m=-\\frac{3}{4},\\) and containing the point \\((4,-7).\\)",
+      "math": [
+        "m=-\\frac{3}{4},",
+        "(4,-7)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>m</mi><mo>=</mo><mo>−</mo><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>m</mi><mo>=</mo><mo>−</mo><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>−7</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>−7</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.53",
+      "page": "3-3-find-the-equation-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167836509248",
+      "context": [
+        "Find an Equation of the Line Given the Slope and a Point"
+      ],
+      "text": "Find the equation of a horizontal line containing the point \\((-3,8).\\)",
+      "math": [
+        "(-3,8)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>8</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>8</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.54",
+      "page": "3-3-find-the-equation-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167833158283",
+      "context": [
+        "Find an Equation of the Line Given the Slope and a Point"
+      ],
+      "text": "Find the equation of a horizontal line containing the point \\((-1,4).\\)",
+      "math": [
+        "(-1,4)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.55",
+      "page": "3-3-find-the-equation-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167836433959",
+      "context": [
+        "Find an Equation of the Line Given Two Points"
+      ],
+      "text": "Find the equation of a line containing the points \\((-2,-4)\\) and \\((1,-3).\\)",
+      "math": [
+        "(-2,-4)",
+        "(1,-3)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.56",
+      "page": "3-3-find-the-equation-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167829893622",
+      "context": [
+        "Find an Equation of the Line Given Two Points"
+      ],
+      "text": "Find the equation of a line containing the points \\((-4,-3)\\) and \\((1,-5).\\)",
+      "math": [
+        "(-4,-3)",
+        "(1,-5)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.57",
+      "page": "3-3-find-the-equation-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167836313537",
+      "context": [
+        "Find an Equation of the Line Given Two Points"
+      ],
+      "text": "Find the equation of a line containing the points \\((5,1)\\) and \\((5,-4).\\)",
+      "math": [
+        "(5,1)",
+        "(5,-4)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.58",
+      "page": "3-3-find-the-equation-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167836619179",
+      "context": [
+        "Find an Equation of the Line Given Two Points"
+      ],
+      "text": "Find the equation of a line containing the points \\((-4,4)\\) and \\((-4,3).\\)",
+      "math": [
+        "(-4,4)",
+        "(-4,3)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.59",
+      "page": "3-3-find-the-equation-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167836611133",
+      "context": [
+        "Find an Equation of a Line Parallel to a Given Line"
+      ],
+      "text": "Find an equation of a line parallel to the line \\(y=3x+1\\) that contains the point \\((4,2).\\) Write the equation in slope-intercept form.",
+      "math": [
+        "y=3x+1",
+        "(4,2)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.60",
+      "page": "3-3-find-the-equation-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167836628180",
+      "context": [
+        "Find an Equation of a Line Parallel to a Given Line"
+      ],
+      "text": "Find an equation of a line parallel to the line \\(y=\\frac{1}{2}x-3\\) that contains the point \\((6,4).\\) Write the equation in slope-intercept form.",
+      "math": [
+        "y=\\frac{1}{2}x-3",
+        "(6,4)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi><mo>−</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi><mo>−</mo><mn>3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>6</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>6</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.61",
+      "page": "3-3-find-the-equation-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167833364838",
+      "context": [
+        "Find an Equation of a Line Perpendicular to a Given Line"
+      ],
+      "text": "Find an equation of a line perpendicular to the line \\(y=3x+1\\) that contains the point \\((4,2).\\) Write the equation in slope-intercept form.",
+      "math": [
+        "y=3x+1",
+        "(4,2)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.62",
+      "page": "3-3-find-the-equation-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167832930300",
+      "context": [
+        "Find an Equation of a Line Perpendicular to a Given Line"
+      ],
+      "text": "Find an equation of a line perpendicular to the line \\(y=\\frac{1}{2}x-3\\) that contains the point \\((6,4).\\) Write the equation in slope-intercept form.",
+      "math": [
+        "y=\\frac{1}{2}x-3",
+        "(6,4)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi><mo>−</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi><mo>−</mo><mn>3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>6</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>6</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.63",
+      "page": "3-3-find-the-equation-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167829750618",
+      "context": [
+        "Find an Equation of a Line Perpendicular to a Given Line"
+      ],
+      "text": "Find an equation of a line that is perpendicular to the line \\(x=4\\) that contains the point \\((4,-5).\\). Write the equation in slope-intercept form.",
+      "math": [
+        "x=4",
+        "(4,-5)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.64",
+      "page": "3-3-find-the-equation-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167836319645",
+      "context": [
+        "Find an Equation of a Line Perpendicular to a Given Line"
+      ],
+      "text": "Find an equation of a line that is perpendicular to the line \\(x=2\\) that contains the point \\((2,-1).\\) Write the equation in slope-intercept form.",
+      "math": [
+        "x=2",
+        "(2,-1)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>2</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.65",
+      "page": "3-3-find-the-equation-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167836310492",
+      "context": [
+        "Find an Equation of a Line Perpendicular to a Given Line"
+      ],
+      "text": "Find an equation of a line that is perpendicular to the line \\(y=1\\) that contains the point \\((-5,1).\\) Write the equation in slope-intercept form.",
+      "math": [
+        "y=1",
+        "(-5,1)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−5</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−5</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.66",
+      "page": "3-3-find-the-equation-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167836594788",
+      "context": [
+        "Find an Equation of a Line Perpendicular to a Given Line"
+      ],
+      "text": "Find an equation of a line that is perpendicular to the line \\(y=-5\\) that contains the point \\((-4,-5).\\) Write the equation in slope-intercept form.",
+      "math": [
+        "y=-5",
+        "(-4,-5)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>−5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>−5</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

@@ -1,0 +1,1394 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/9-6-graph-quadratic-functions-using-properties",
+  "title": "9.6 Graph Quadratic Functions Using Properties",
+  "sha256": "922f188d9197d1ce894db476be3fbd19a5e4e2854ca0be003b560d8e7c4f8041",
+  "questions": [
+    {
+      "number": 229,
+      "anchor": "fs-id1169148054129",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Recognize the Graph of a Quadratic Function",
+        "In the following exercises, graph the functions by plotting points."
+      ],
+      "text": "\\(f ( x ) = {x}^{2} + 3\\)",
+      "math": [
+        "f ( x ) = {x}^{2} + 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 230,
+      "anchor": "fs-id1169148235063",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Recognize the Graph of a Quadratic Function",
+        "In the following exercises, graph the functions by plotting points."
+      ],
+      "text": "\\(f ( x ) = {x}^{2} - 3\\)",
+      "math": [
+        "f ( x ) = {x}^{2} - 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 231,
+      "anchor": "fs-id1169147982855",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Recognize the Graph of a Quadratic Function",
+        "In the following exercises, graph the functions by plotting points."
+      ],
+      "text": "\\(y = - {x}^{2} + 1\\)",
+      "math": [
+        "y = - {x}^{2} + 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 232,
+      "anchor": "fs-id1169145664887",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Recognize the Graph of a Quadratic Function",
+        "In the following exercises, graph the functions by plotting points."
+      ],
+      "text": "\\(f ( x ) = - {x}^{2} - 1\\)",
+      "math": [
+        "f ( x ) = - {x}^{2} - 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 233,
+      "anchor": "fs-id1169147982245",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "In the following exercises, graph the functions by plotting points.",
+        "For each of the following exercises, determine if the parabola opens up or down."
+      ],
+      "text": "ⓐ \\(f(x)=-2{x}^{2}-6x-7\\) ⓑ \\(f(x)=6{x}^{2}+2x+3\\)",
+      "math": [
+        "f(x)=-2{x}^{2}-6x-7",
+        "f(x)=6{x}^{2}+2x+3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>−2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>6</mn><mi>x</mi><mo>−</mo><mn>7</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>−2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>6</mn><mi>x</mi><mo>−</mo><mn>7</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>6</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>6</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 234,
+      "anchor": "fs-id1169147949020",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "In the following exercises, graph the functions by plotting points.",
+        "For each of the following exercises, determine if the parabola opens up or down."
+      ],
+      "text": "ⓐ \\(f(x)=4{x}^{2}+x-4\\) ⓑ \\(f(x)=-9{x}^{2}-24x-16\\)",
+      "math": [
+        "f(x)=4{x}^{2}+x-4",
+        "f(x)=-9{x}^{2}-24x-16"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>x</mi><mo>−</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>x</mi><mo>−</mo><mn>4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>−9</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>24</mn><mi>x</mi><mo>−</mo><mn>16</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>−9</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>24</mn><mi>x</mi><mo>−</mo><mn>16</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 235,
+      "anchor": "fs-id1169147816892",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "In the following exercises, graph the functions by plotting points.",
+        "For each of the following exercises, determine if the parabola opens up or down."
+      ],
+      "text": "ⓐ \\(f(x)=-3{x}^{2}+5x-1\\) ⓑ \\(f(x)=2{x}^{2}-4x+5\\)",
+      "math": [
+        "f(x)=-3{x}^{2}+5x-1",
+        "f(x)=2{x}^{2}-4x+5"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>−3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>−3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>5</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 236,
+      "anchor": "fs-id1169147987594",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "In the following exercises, graph the functions by plotting points.",
+        "For each of the following exercises, determine if the parabola opens up or down."
+      ],
+      "text": "ⓐ \\(f(x)={x}^{2}+3x-4\\) ⓑ \\(f(x)=-4{x}^{2}-12x-9\\)",
+      "math": [
+        "f(x)={x}^{2}+3x-4",
+        "f(x)=-4{x}^{2}-12x-9"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>−4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>12</mn><mi>x</mi><mo>−</mo><mn>9</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>−4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>12</mn><mi>x</mi><mo>−</mo><mn>9</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 237,
+      "anchor": "fs-id1169145730691",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Find the Axis of Symmetry and Vertex of a Parabola",
+        "In the following functions, find ⓐ the equation of the axis of symmetry and ⓑ the vertex of its graph."
+      ],
+      "text": "\\(f ( x ) = {x}^{2} + 8 x - 1\\)",
+      "math": [
+        "f ( x ) = {x}^{2} + 8 x - 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 238,
+      "anchor": "fs-id1169147980905",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Find the Axis of Symmetry and Vertex of a Parabola",
+        "In the following functions, find ⓐ the equation of the axis of symmetry and ⓑ the vertex of its graph."
+      ],
+      "text": "\\(f ( x ) = {x}^{2} + 10 x + 25\\)",
+      "math": [
+        "f ( x ) = {x}^{2} + 10 x + 25"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>10</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>25</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>10</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>25</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 239,
+      "anchor": "fs-id1169145732722",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Find the Axis of Symmetry and Vertex of a Parabola",
+        "In the following functions, find ⓐ the equation of the axis of symmetry and ⓑ the vertex of its graph."
+      ],
+      "text": "\\(f ( x ) = - {x}^{2} + 2 x + 5\\)",
+      "math": [
+        "f ( x ) = - {x}^{2} + 2 x + 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 240,
+      "anchor": "fs-id1169147949126",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Find the Axis of Symmetry and Vertex of a Parabola",
+        "In the following functions, find ⓐ the equation of the axis of symmetry and ⓑ the vertex of its graph."
+      ],
+      "text": "\\(f ( x ) = -2 {x}^{2} - 8 x - 3\\)",
+      "math": [
+        "f ( x ) = -2 {x}^{2} - 8 x - 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>−2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>−2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 241,
+      "anchor": "fs-id1169148234963",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Find the Intercepts of a Parabola",
+        "In the following exercises, find the intercepts of the parabola whose function is given."
+      ],
+      "text": "\\(f ( x ) = {x}^{2} + 7 x + 6\\)",
+      "math": [
+        "f ( x ) = {x}^{2} + 7 x + 6"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>6</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>6</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 242,
+      "anchor": "fs-id1169148197891",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Find the Intercepts of a Parabola",
+        "In the following exercises, find the intercepts of the parabola whose function is given."
+      ],
+      "text": "\\(f ( x ) = {x}^{2} + 10 x - 11\\)",
+      "math": [
+        "f ( x ) = {x}^{2} + 10 x - 11"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>10</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>11</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>10</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>11</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 243,
+      "anchor": "fs-id1169147845711",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Find the Intercepts of a Parabola",
+        "In the following exercises, find the intercepts of the parabola whose function is given."
+      ],
+      "text": "\\(f ( x ) = {x}^{2} + 8 x + 12\\)",
+      "math": [
+        "f ( x ) = {x}^{2} + 8 x + 12"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>12</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>12</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 244,
+      "anchor": "fs-id1169148231489",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Find the Intercepts of a Parabola",
+        "In the following exercises, find the intercepts of the parabola whose function is given."
+      ],
+      "text": "\\(f ( x ) = {x}^{2} + 5 x + 6\\)",
+      "math": [
+        "f ( x ) = {x}^{2} + 5 x + 6"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>6</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>6</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 245,
+      "anchor": "fs-id1169145730909",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Find the Intercepts of a Parabola",
+        "In the following exercises, find the intercepts of the parabola whose function is given."
+      ],
+      "text": "\\(f ( x ) = - {x}^{2} + 8 x - 19\\)",
+      "math": [
+        "f ( x ) = - {x}^{2} + 8 x - 19"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>19</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>19</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 246,
+      "anchor": "fs-id1169147988342",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Find the Intercepts of a Parabola",
+        "In the following exercises, find the intercepts of the parabola whose function is given."
+      ],
+      "text": "\\(f ( x ) = -3 {x}^{2} + x - 1\\)",
+      "math": [
+        "f ( x ) = -3 {x}^{2} + x - 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>−3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>−3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 247,
+      "anchor": "fs-id1169145665816",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Find the Intercepts of a Parabola",
+        "In the following exercises, find the intercepts of the parabola whose function is given."
+      ],
+      "text": "\\(f ( x ) = {x}^{2} + 6 x + 13\\)",
+      "math": [
+        "f ( x ) = {x}^{2} + 6 x + 13"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>13</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>13</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 248,
+      "anchor": "fs-id1169145670773",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Find the Intercepts of a Parabola",
+        "In the following exercises, find the intercepts of the parabola whose function is given."
+      ],
+      "text": "\\(f ( x ) = {x}^{2} + 8 x + 12\\)",
+      "math": [
+        "f ( x ) = {x}^{2} + 8 x + 12"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>12</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>12</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 249,
+      "anchor": "fs-id1169147799883",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Find the Intercepts of a Parabola",
+        "In the following exercises, find the intercepts of the parabola whose function is given."
+      ],
+      "text": "\\(f ( x ) = 4 {x}^{2} - 20 x + 25\\)",
+      "math": [
+        "f ( x ) = 4 {x}^{2} - 20 x + 25"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>20</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>25</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>20</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>25</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 250,
+      "anchor": "fs-id1169147851717",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Find the Intercepts of a Parabola",
+        "In the following exercises, find the intercepts of the parabola whose function is given."
+      ],
+      "text": "\\(f ( x ) = - {x}^{2} - 14 x - 49\\)",
+      "math": [
+        "f ( x ) = - {x}^{2} - 14 x - 49"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>14</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>49</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>14</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>49</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 251,
+      "anchor": "fs-id1169147834444",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Find the Intercepts of a Parabola",
+        "In the following exercises, find the intercepts of the parabola whose function is given."
+      ],
+      "text": "\\(f ( x ) = - {x}^{2} - 6 x - 9\\)",
+      "math": [
+        "f ( x ) = - {x}^{2} - 6 x - 9"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>9</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>9</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 252,
+      "anchor": "fs-id1169145640476",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Find the Intercepts of a Parabola",
+        "In the following exercises, find the intercepts of the parabola whose function is given."
+      ],
+      "text": "\\(f ( x ) = 4 {x}^{2} + 4 x + 1\\)",
+      "math": [
+        "f ( x ) = 4 {x}^{2} + 4 x + 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 253,
+      "anchor": "fs-id1169147865994",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Graph Quadratic Functions Using Properties",
+        "In the following exercises, graph the function by using its properties."
+      ],
+      "text": "\\(f ( x ) = {x}^{2} + 6 x + 5\\)",
+      "math": [
+        "f ( x ) = {x}^{2} + 6 x + 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 254,
+      "anchor": "fs-id1169147848716",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Graph Quadratic Functions Using Properties",
+        "In the following exercises, graph the function by using its properties."
+      ],
+      "text": "\\(f ( x ) = {x}^{2} + 4 x - 12\\)",
+      "math": [
+        "f ( x ) = {x}^{2} + 4 x - 12"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>12</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>12</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 255,
+      "anchor": "fs-id1169147848778",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Graph Quadratic Functions Using Properties",
+        "In the following exercises, graph the function by using its properties."
+      ],
+      "text": "\\(f ( x ) = {x}^{2} + 4 x + 3\\)",
+      "math": [
+        "f ( x ) = {x}^{2} + 4 x + 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 256,
+      "anchor": "fs-id1169147848840",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Graph Quadratic Functions Using Properties",
+        "In the following exercises, graph the function by using its properties."
+      ],
+      "text": "\\(f ( x ) = {x}^{2} - 6 x + 8\\)",
+      "math": [
+        "f ( x ) = {x}^{2} - 6 x + 8"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>8</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>8</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 257,
+      "anchor": "fs-id1169148080663",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Graph Quadratic Functions Using Properties",
+        "In the following exercises, graph the function by using its properties."
+      ],
+      "text": "\\(f ( x ) = 9 {x}^{2} + 12 x + 4\\)",
+      "math": [
+        "f ( x ) = 9 {x}^{2} + 12 x + 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>9</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>9</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 258,
+      "anchor": "fs-id1169148080728",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Graph Quadratic Functions Using Properties",
+        "In the following exercises, graph the function by using its properties."
+      ],
+      "text": "\\(f ( x ) = - {x}^{2} + 8 x - 16\\)",
+      "math": [
+        "f ( x ) = - {x}^{2} + 8 x - 16"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>16</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>16</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 259,
+      "anchor": "fs-id1169148197394",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Graph Quadratic Functions Using Properties",
+        "In the following exercises, graph the function by using its properties."
+      ],
+      "text": "\\(f ( x ) = - {x}^{2} + 2 x - 7\\)",
+      "math": [
+        "f ( x ) = - {x}^{2} + 2 x - 7"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>7</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>7</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 260,
+      "anchor": "fs-id1169148197459",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Graph Quadratic Functions Using Properties",
+        "In the following exercises, graph the function by using its properties."
+      ],
+      "text": "\\(f ( x ) = 5 {x}^{2} + 2\\)",
+      "math": [
+        "f ( x ) = 5 {x}^{2} + 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>5</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>5</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 261,
+      "anchor": "fs-id1169148197517",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Graph Quadratic Functions Using Properties",
+        "In the following exercises, graph the function by using its properties."
+      ],
+      "text": "\\(f ( x ) = 2 {x}^{2} - 4 x + 1\\)",
+      "math": [
+        "f ( x ) = 2 {x}^{2} - 4 x + 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 262,
+      "anchor": "fs-id1169148197582",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Graph Quadratic Functions Using Properties",
+        "In the following exercises, graph the function by using its properties."
+      ],
+      "text": "\\(f ( x ) = 3 {x}^{2} - 6 x - 1\\)",
+      "math": [
+        "f ( x ) = 3 {x}^{2} - 6 x - 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 263,
+      "anchor": "fs-id1169148197647",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Graph Quadratic Functions Using Properties",
+        "In the following exercises, graph the function by using its properties."
+      ],
+      "text": "\\(f ( x ) = 2 {x}^{2} - 4 x + 2\\)",
+      "math": [
+        "f ( x ) = 2 {x}^{2} - 4 x + 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 264,
+      "anchor": "fs-id1169148197712",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Graph Quadratic Functions Using Properties",
+        "In the following exercises, graph the function by using its properties."
+      ],
+      "text": "\\(f ( x ) = -4 {x}^{2} - 6 x - 2\\)",
+      "math": [
+        "f ( x ) = -4 {x}^{2} - 6 x - 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>−4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>−4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 265,
+      "anchor": "fs-id1169148197778",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Graph Quadratic Functions Using Properties",
+        "In the following exercises, graph the function by using its properties."
+      ],
+      "text": "\\(f ( x ) = - {x}^{2} - 4 x + 2\\)",
+      "math": [
+        "f ( x ) = - {x}^{2} - 4 x + 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 266,
+      "anchor": "fs-id1169145667802",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Graph Quadratic Functions Using Properties",
+        "In the following exercises, graph the function by using its properties."
+      ],
+      "text": "\\(f ( x ) = {x}^{2} + 6 x + 8\\)",
+      "math": [
+        "f ( x ) = {x}^{2} + 6 x + 8"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>8</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>8</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 267,
+      "anchor": "fs-id1169145667865",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Graph Quadratic Functions Using Properties",
+        "In the following exercises, graph the function by using its properties."
+      ],
+      "text": "\\(f ( x ) = 5 {x}^{2} - 10 x + 8\\)",
+      "math": [
+        "f ( x ) = 5 {x}^{2} - 10 x + 8"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>5</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>10</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>8</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>5</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>10</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>8</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 268,
+      "anchor": "fs-id1169145667930",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Graph Quadratic Functions Using Properties",
+        "In the following exercises, graph the function by using its properties."
+      ],
+      "text": "\\(f ( x ) = -16 {x}^{2} + 24 x - 9\\)",
+      "math": [
+        "f ( x ) = -16 {x}^{2} + 24 x - 9"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>−16</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>24</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>9</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>−16</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>24</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>9</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 269,
+      "anchor": "fs-id1169145667995",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Graph Quadratic Functions Using Properties",
+        "In the following exercises, graph the function by using its properties."
+      ],
+      "text": "\\(f ( x ) = 3 {x}^{2} + 18 x + 20\\)",
+      "math": [
+        "f ( x ) = 3 {x}^{2} + 18 x + 20"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>18</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>20</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>18</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>20</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 270,
+      "anchor": "fs-id1169145668060",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Graph Quadratic Functions Using Properties",
+        "In the following exercises, graph the function by using its properties."
+      ],
+      "text": "\\(f ( x ) = -2 {x}^{2} + 8 x - 10\\)",
+      "math": [
+        "f ( x ) = -2 {x}^{2} + 8 x - 10"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>−2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>10</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>−2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>10</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 271,
+      "anchor": "fs-id1169145668135",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Solve Maximum and Minimum Applications",
+        "In the following exercises, find the maximum or minimum value of each function."
+      ],
+      "text": "\\(f ( x ) = 2 {x}^{2} + x - 1\\)",
+      "math": [
+        "f ( x ) = 2 {x}^{2} + x - 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mrow>\n            <mo>(</mo>\n            <mi>x</mi>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 272,
+      "anchor": "fs-id1169145668206",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Solve Maximum and Minimum Applications",
+        "In the following exercises, find the maximum or minimum value of each function."
+      ],
+      "text": "\\(y = -4 {x}^{2} + 12 x - 5\\)",
+      "math": [
+        "y = -4 {x}^{2} + 12 x - 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 273,
+      "anchor": "fs-id1169145668260",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Solve Maximum and Minimum Applications",
+        "In the following exercises, find the maximum or minimum value of each function."
+      ],
+      "text": "\\(y = {x}^{2} - 6 x + 15\\)",
+      "math": [
+        "y = {x}^{2} - 6 x + 15"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>15</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>15</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 274,
+      "anchor": "fs-id1169145668303",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Solve Maximum and Minimum Applications",
+        "In the following exercises, find the maximum or minimum value of each function."
+      ],
+      "text": "\\(y = - {x}^{2} + 4 x - 5\\)",
+      "math": [
+        "y = - {x}^{2} + 4 x - 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 275,
+      "anchor": "fs-id1169145668348",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Solve Maximum and Minimum Applications",
+        "In the following exercises, find the maximum or minimum value of each function."
+      ],
+      "text": "\\(y = -9 {x}^{2} + 16\\)",
+      "math": [
+        "y = -9 {x}^{2} + 16"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−9</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>16</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−9</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>16</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 276,
+      "anchor": "fs-id1169145668386",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Solve Maximum and Minimum Applications",
+        "In the following exercises, find the maximum or minimum value of each function."
+      ],
+      "text": "\\(y = 4 {x}^{2} - 49\\)",
+      "math": [
+        "y = 4 {x}^{2} - 49"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>49</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>49</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 277,
+      "anchor": "fs-id1169145668428",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "In the following exercises, find the maximum or minimum value of each function.",
+        "In the following exercises, solve. Round answers to the nearest tenth."
+      ],
+      "text": "An arrow is shot vertically upward from a platform 45 feet high at a rate of 168 ft/sec. Use the quadratic function h(t) = −16t2 + 168t + 45 find how long it will take the arrow to reach its maximum height, and then find the maximum height.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 278,
+      "anchor": "fs-id1169145668469",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "In the following exercises, find the maximum or minimum value of each function.",
+        "In the following exercises, solve. Round answers to the nearest tenth."
+      ],
+      "text": "A stone is thrown vertically upward from a platform that is 20 feet height at a rate of 160 ft/sec. Use the quadratic function h(t) = −16t2 + 160t + 20 to find how long it will take the stone to reach its maximum height, and then find the maximum height.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 279,
+      "anchor": "fs-id1169145668511",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "In the following exercises, find the maximum or minimum value of each function.",
+        "In the following exercises, solve. Round answers to the nearest tenth."
+      ],
+      "text": "A ball is thrown vertically upward from the ground with an initial velocity of 109 ft/sec. Use the quadratic function h(t) = −16t2 + 109t + 0 to find how long it will take for the ball to reach its maximum height, and then find the maximum height.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 280,
+      "anchor": "fs-id1169145668552",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "In the following exercises, find the maximum or minimum value of each function.",
+        "In the following exercises, solve. Round answers to the nearest tenth."
+      ],
+      "text": "A ball is thrown vertically upward from the ground with an initial velocity of 122 ft/sec. Use the quadratic function h(t) = −16t2 + 122t + 0 to find how long it will take for the ball to reach its maximum height, and then find the maximum height.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 281,
+      "anchor": "fs-id1169145668593",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "In the following exercises, find the maximum or minimum value of each function.",
+        "In the following exercises, solve. Round answers to the nearest tenth."
+      ],
+      "text": "A computer store owner estimates that by charging x dollars each for a certain computer, he can sell 40 − x computers each week. The quadratic function R(x) = −x2 +40x is used to find the revenue, R, received when the selling price of a computer is x, Find the selling price that will give him the maximum revenue, and then find the amount of the maximum revenue.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 282,
+      "anchor": "fs-id1169145668658",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "In the following exercises, find the maximum or minimum value of each function.",
+        "In the following exercises, solve. Round answers to the nearest tenth."
+      ],
+      "text": "A retailer who sells backpacks estimates that by selling them for x dollars each, he will be able to sell 100 − x backpacks a month. The quadratic function R(x) = −x2 +100x is used to find the R, received when the selling price of a backpack is x. Find the selling price that will give him the maximum revenue, and then find the amount of the maximum revenue.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 283,
+      "anchor": "fs-id1169145668721",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "In the following exercises, find the maximum or minimum value of each function.",
+        "In the following exercises, solve. Round answers to the nearest tenth."
+      ],
+      "text": "A retailer who sells fashion boots estimates that by selling them for x dollars each, he will be able to sell 70 − x boots a week. Use the quadratic function R(x) = −x2 +70x to find the revenue received when the average selling price of a pair of fashion boots is x. Find the selling price that will give him the maximum revenue, and then find the amount of the maximum revenue per day.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 284,
+      "anchor": "fs-id1169147946281",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "In the following exercises, find the maximum or minimum value of each function.",
+        "In the following exercises, solve. Round answers to the nearest tenth."
+      ],
+      "text": "A cell phone company estimates that by charging x dollars each for a certain cell phone, they can sell 8 − x cell phones per day. Use the quadratic function R(x) = −x2 +8x to find the revenue received per day when the selling price of a cell phone is x. Find the selling price that will give them the maximum revenue per day, and then find the amount of the maximum revenue.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 285,
+      "anchor": "fs-id1169147946338",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "In the following exercises, find the maximum or minimum value of each function.",
+        "In the following exercises, solve. Round answers to the nearest tenth."
+      ],
+      "text": "A rancher is going to fence three sides of a corral next to a river. He needs to maximize the corral area using 240 feet of fencing. The quadratic equation \\(A(x)=x120-\\frac{x}{2}\\) gives the area of the corral, A, for the length, x, of the corral along the river. Find the length of the corral along the river that will give the maximum area, and then find the maximum area of the corral.",
+      "math": [
+        "A(x)=x120-\\frac{x}{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>A</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mi>x</mi><mfenced><mrow><mn>120</mn><mo>−</mo><mfrac><mi>x</mi><mn>2</mn></mfrac></mrow></mfenced></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>A</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mi>x</mi><mfenced><mrow><mn>120</mn><mo>−</mo><mfrac><mi>x</mi><mn>2</mn></mfrac></mrow></mfenced></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 286,
+      "anchor": "fs-id1169147946390",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "In the following exercises, find the maximum or minimum value of each function.",
+        "In the following exercises, solve. Round answers to the nearest tenth."
+      ],
+      "text": "A veterinarian is enclosing a rectangular outdoor running area against his building for the dogs he cares for. He needs to maximize the area using 100 feet of fencing. The quadratic function \\(A(x)=x50-\\frac{x}{2}\\) gives the area, A, of the dog run for the length, x, of the building that will border the dog run. Find the length of the building that should border the dog run to give the maximum area, and then find the maximum area of the dog run.",
+      "math": [
+        "A(x)=x50-\\frac{x}{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>A</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mi>x</mi><mfenced><mrow><mn>50</mn><mo>−</mo><mfrac><mi>x</mi><mn>2</mn></mfrac></mrow></mfenced></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>A</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mi>x</mi><mfenced><mrow><mn>50</mn><mo>−</mo><mfrac><mi>x</mi><mn>2</mn></mfrac></mrow></mfenced></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 287,
+      "anchor": "fs-id1169147946442",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "In the following exercises, find the maximum or minimum value of each function.",
+        "In the following exercises, solve. Round answers to the nearest tenth."
+      ],
+      "text": "A land owner is planning to build a fenced in rectangular patio behind his garage, using his garage as one of the “walls.” He wants to maximize the area using 80 feet of fencing. The quadratic function A(x) = x(80 − 2x) gives the area of the patio, where x is the width of one side. Find the maximum area of the patio.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 288,
+      "anchor": "fs-id1169147946488",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "In the following exercises, find the maximum or minimum value of each function.",
+        "In the following exercises, solve. Round answers to the nearest tenth."
+      ],
+      "text": "A family of three young children just moved into a house with a yard that is not fenced in. The previous owner gave them 300 feet of fencing to use to enclose part of their backyard. Use the quadratic function \\(A(x)=x150-\\frac{x}{2}\\) determine the maximum area of the fenced in yard.",
+      "math": [
+        "A(x)=x150-\\frac{x}{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>A</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mi>x</mi><mfenced><mrow><mn>150</mn><mo>−</mo><mfrac><mi>x</mi><mn>2</mn></mfrac></mrow></mfenced></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>A</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mi>x</mi><mfenced><mrow><mn>150</mn><mo>−</mo><mfrac><mi>x</mi><mn>2</mn></mfrac></mrow></mfenced></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 289,
+      "anchor": "fs-id1169147946536",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Writing Exercise"
+      ],
+      "text": "How do the graphs of the functions \\(f(x)={x}^{2}\\) and \\(f(x)={x}^{2}-1\\) differ? We graphed them at the start of this section. What is the difference between their graphs? How are their graphs the same?",
+      "math": [
+        "f(x)={x}^{2}",
+        "f(x)={x}^{2}-1"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>1</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 290,
+      "anchor": "fs-id1169147946599",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Writing Exercise"
+      ],
+      "text": "Explain the process of finding the vertex of a parabola.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 291,
+      "anchor": "fs-id1169147946615",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Writing Exercise"
+      ],
+      "text": "Explain how to find the intercepts of a parabola.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 292,
+      "anchor": "fs-id1169147946632",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "context": [
+        "Writing Exercise"
+      ],
+      "text": "How can you use the discriminant when you are graphing a quadratic function?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "9.83",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "is_try_it": true,
+      "anchor": "fs-id1169147940171",
+      "context": [
+        "Recognize the Graph of a Quadratic Function"
+      ],
+      "text": "Graph \\(f(x)=-{x}^{2}.\\).",
+      "math": [
+        "f(x)=-{x}^{2}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mtext>−</mtext><msup><mi>x</mi><mn>2</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mtext>−</mtext><msup><mi>x</mi><mn>2</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.84",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "is_try_it": true,
+      "anchor": "fs-id1169147817063",
+      "context": [
+        "Recognize the Graph of a Quadratic Function"
+      ],
+      "text": "Graph \\(f(x)={x}^{2}+1.\\)",
+      "math": [
+        "f(x)={x}^{2}+1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.85",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "is_try_it": true,
+      "anchor": "fs-id1169147837975",
+      "context": [
+        "Recognize the Graph of a Quadratic Function"
+      ],
+      "text": "Determine whether the graph of each function is a parabola that opens upward or downward: ⓐ \\(f(x)=2{x}^{2}+5x-2\\) ⓑ \\(f(x)=-3{x}^{2}-4x+7.\\)",
+      "math": [
+        "f(x)=2{x}^{2}+5x-2",
+        "f(x)=-3{x}^{2}-4x+7."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mi>x</mi><mo>−</mo><mn>2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mi>x</mi><mo>−</mo><mn>2</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>−3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>7</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>−3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>7</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.86",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "is_try_it": true,
+      "anchor": "fs-id1169147836676",
+      "context": [
+        "Recognize the Graph of a Quadratic Function"
+      ],
+      "text": "Determine whether the graph of each function is a parabola that opens upward or downward: ⓐ \\(f(x)=-2{x}^{2}-2x-3\\) ⓑ \\(f(x)=5{x}^{2}-2x-1.\\)",
+      "math": [
+        "f(x)=-2{x}^{2}-2x-3",
+        "f(x)=5{x}^{2}-2x-1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>−2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>−2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>5</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>5</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.87",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "is_try_it": true,
+      "anchor": "fs-id1169147880099",
+      "context": [
+        "Find the Axis of Symmetry and Vertex of a Parabola"
+      ],
+      "text": "For the graph of \\(f(x)=2{x}^{2}-8x+1\\) find: ⓐ the axis of symmetry ⓑ the vertex.",
+      "math": [
+        "f(x)=2{x}^{2}-8x+1"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>8</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>8</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.88",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "is_try_it": true,
+      "anchor": "fs-id1169147846046",
+      "context": [
+        "Find the Axis of Symmetry and Vertex of a Parabola"
+      ],
+      "text": "For the graph of \\(f(x)=2{x}^{2}-4x-3\\) find: ⓐ the axis of symmetry ⓑ the vertex.",
+      "math": [
+        "f(x)=2{x}^{2}-4x-3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.89",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "is_try_it": true,
+      "anchor": "fs-id1169147959250",
+      "context": [
+        "Find the Intercepts of a Parabola"
+      ],
+      "text": "Find the intercepts of the parabola whose function is \\(f(x)={x}^{2}+2x-8.\\)",
+      "math": [
+        "f(x)={x}^{2}+2x-8."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>8</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>8</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.90",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "is_try_it": true,
+      "anchor": "fs-id1169145663268",
+      "context": [
+        "Find the Intercepts of a Parabola"
+      ],
+      "text": "Find the intercepts of the parabola whose function is \\(f(x)={x}^{2}-4x-12.\\)",
+      "math": [
+        "f(x)={x}^{2}-4x-12."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>x</mi><mo>−</mo><mn>12</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>x</mi><mo>−</mo><mn>12</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.91",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "is_try_it": true,
+      "anchor": "fs-id1169147875188",
+      "context": [
+        "Find the Intercepts of a Parabola"
+      ],
+      "text": "Find the intercepts of the parabola whose function is \\(f(x)=3{x}^{2}+4x+4.\\)",
+      "math": [
+        "f(x)=3{x}^{2}+4x+4."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>4</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>4</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.92",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "is_try_it": true,
+      "anchor": "fs-id1169145661192",
+      "context": [
+        "Find the Intercepts of a Parabola"
+      ],
+      "text": "Find the intercepts of the parabola whose function is \\(f(x)={x}^{2}-4x-5.\\)",
+      "math": [
+        "f(x)={x}^{2}-4x-5."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>x</mi><mo>−</mo><mn>5</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>x</mi><mo>−</mo><mn>5</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.93",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "is_try_it": true,
+      "anchor": "fs-id1169145665620",
+      "context": [
+        "Graph Quadratic Functions Using Properties"
+      ],
+      "text": "Graph f (x) = x2 + 2x − 8 by using its properties.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "9.94",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "is_try_it": true,
+      "anchor": "fs-id1169148233030",
+      "context": [
+        "Graph Quadratic Functions Using Properties"
+      ],
+      "text": "Graph f (x) = x2 − 8x + 12 by using its properties.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "9.95",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "is_try_it": true,
+      "anchor": "fs-id1169145731498",
+      "context": [
+        "Graph Quadratic Functions Using Properties"
+      ],
+      "text": "Graph f (x) = −3x2 + 12x − 12 by using its properties.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "9.96",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "is_try_it": true,
+      "anchor": "fs-id1169147987700",
+      "context": [
+        "Graph Quadratic Functions Using Properties"
+      ],
+      "text": "Graph f (x) = 4x2 + 24x + 36 by using its properties.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "9.97",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "is_try_it": true,
+      "anchor": "fs-id1169145664588",
+      "context": [
+        "Graph Quadratic Functions Using Properties"
+      ],
+      "text": "Graph f (x) = x2 − 2x + 3 by using its properties.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "9.98",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "is_try_it": true,
+      "anchor": "fs-id1169147960419",
+      "context": [
+        "Graph Quadratic Functions Using Properties"
+      ],
+      "text": "Graph f (x) = −3x2 − 6x − 4 by using its properties.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "9.99",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "is_try_it": true,
+      "anchor": "fs-id1169148234553",
+      "context": [
+        "Graph Quadratic Functions Using Properties"
+      ],
+      "text": "Graph f (x) = 5x2 + 10x + 3 by using its properties.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "9.100",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "is_try_it": true,
+      "anchor": "fs-id1169147950678",
+      "context": [
+        "Graph Quadratic Functions Using Properties"
+      ],
+      "text": "Graph f (x) = −3x2 − 6x + 5 by using its properties.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "9.101",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "is_try_it": true,
+      "anchor": "fs-id1169145729057",
+      "context": [
+        "Solve Maximum and Minimum Applications"
+      ],
+      "text": "Find the maximum or minimum value of the quadratic function \\(f(x)={x}^{2}-8x+12.\\)",
+      "math": [
+        "f(x)={x}^{2}-8x+12."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>8</mn><mi>x</mi><mo>+</mo><mn>12</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>8</mn><mi>x</mi><mo>+</mo><mn>12</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.102",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "is_try_it": true,
+      "anchor": "fs-id1169147979783",
+      "context": [
+        "Solve Maximum and Minimum Applications"
+      ],
+      "text": "Find the maximum or minimum value of the quadratic function \\(f(x)=-4{x}^{2}+16x-11.\\)",
+      "math": [
+        "f(x)=-4{x}^{2}+16x-11."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>−4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>16</mn><mi>x</mi><mo>−</mo><mn>11</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>−4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>16</mn><mi>x</mi><mo>−</mo><mn>11</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.103",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "is_try_it": true,
+      "anchor": "fs-id1169145733222",
+      "context": [
+        "Solve Maximum and Minimum Applications"
+      ],
+      "text": "Solve, rounding answers to the nearest tenth. The quadratic function h(t) = −16t2 + 128t + 32 is used to find the height of a stone thrown upward from a height of 32 feet at a rate of 128 ft/sec. How long will it take for the stone to reach its maximum height? What is the maximum height?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "9.104",
+      "page": "9-6-graph-quadratic-functions-using-properties",
+      "is_try_it": true,
+      "anchor": "fs-id1169147980713",
+      "context": [
+        "Solve Maximum and Minimum Applications"
+      ],
+      "text": "A path of a toy rocket thrown upward from the ground at a rate of 208 ft/sec is modeled by the quadratic function of h(t) = −16t2 + 208t. When will the rocket reach its maximum height? What will be the maximum height?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

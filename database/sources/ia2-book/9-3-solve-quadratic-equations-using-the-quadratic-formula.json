@@ -1,0 +1,1076 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/9-3-solve-quadratic-equations-using-the-quadratic-formula",
+  "title": "9.3 Solve Quadratic Equations Using the Quadratic Formula",
+  "sha256": "1b7eac3352ca631f9dc43fda5d90828b0c4f9eac1e7142ddf429a17b3d588219",
+  "questions": [
+    {
+      "number": 113,
+      "anchor": "fs-id1167836287708",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula",
+        "In the following exercises, solve by using the Quadratic Formula."
+      ],
+      "text": "\\(4 {m}^{2} + m - 3 = 0\\)",
+      "math": [
+        "4 {m}^{2} + m - 3 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>m</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mi>m</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>m</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mi>m</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 114,
+      "anchor": "fs-id1167829756068",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula",
+        "In the following exercises, solve by using the Quadratic Formula."
+      ],
+      "text": "\\(4 {n}^{2} - 9 n + 5 = 0\\)",
+      "math": [
+        "4 {n}^{2} - 9 n + 5 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>n</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>9</mn>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>n</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>9</mn>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 115,
+      "anchor": "fs-id1167836613568",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula",
+        "In the following exercises, solve by using the Quadratic Formula."
+      ],
+      "text": "\\(2 {p}^{2} - 7 p + 3 = 0\\)",
+      "math": [
+        "2 {p}^{2} - 7 p + 3 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>7</mn>\n          <mi>p</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>7</mn>\n          <mi>p</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 116,
+      "anchor": "fs-id1167836363363",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula",
+        "In the following exercises, solve by using the Quadratic Formula."
+      ],
+      "text": "\\(3 {q}^{2} + 8 q - 3 = 0\\)",
+      "math": [
+        "3 {q}^{2} + 8 q - 3 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>q</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>q</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 117,
+      "anchor": "fs-id1167829785536",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula",
+        "In the following exercises, solve by using the Quadratic Formula."
+      ],
+      "text": "\\({p}^{2} + 7 p + 12 = 0\\)",
+      "math": [
+        "{p}^{2} + 7 p + 12 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mi>p</mi>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mi>p</mi>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 118,
+      "anchor": "fs-id1167829580115",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula",
+        "In the following exercises, solve by using the Quadratic Formula."
+      ],
+      "text": "\\({q}^{2} + 3 q - 18 = 0\\)",
+      "math": [
+        "{q}^{2} + 3 q - 18 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mi>q</mi>\n          <mo>−</mo>\n          <mn>18</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mi>q</mi>\n          <mo>−</mo>\n          <mn>18</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 119,
+      "anchor": "fs-id1167836704308",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula",
+        "In the following exercises, solve by using the Quadratic Formula."
+      ],
+      "text": "\\({r}^{2} - 8 r = 33\\)",
+      "math": [
+        "{r}^{2} - 8 r = 33"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>r</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>8</mn>\n          <mi>r</mi>\n          <mo>=</mo>\n          <mn>33</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>r</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>8</mn>\n          <mi>r</mi>\n          <mo>=</mo>\n          <mn>33</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 120,
+      "anchor": "fs-id1167829831326",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula",
+        "In the following exercises, solve by using the Quadratic Formula."
+      ],
+      "text": "\\({t}^{2} + 13 t = -40\\)",
+      "math": [
+        "{t}^{2} + 13 t = -40"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>t</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>13</mn>\n          <mi>t</mi>\n          <mo>=</mo>\n          <mn>−40</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>t</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>13</mn>\n          <mi>t</mi>\n          <mo>=</mo>\n          <mn>−40</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 121,
+      "anchor": "fs-id1167836574258",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula",
+        "In the following exercises, solve by using the Quadratic Formula."
+      ],
+      "text": "\\(3 {u}^{2} + 7 u - 2 = 0\\)",
+      "math": [
+        "3 {u}^{2} + 7 u - 2 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <msup>\n            <mi>u</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mi>u</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <msup>\n            <mi>u</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mi>u</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 122,
+      "anchor": "fs-id1167836433826",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula",
+        "In the following exercises, solve by using the Quadratic Formula."
+      ],
+      "text": "\\(2 {p}^{2} + 8 p + 5 = 0\\)",
+      "math": [
+        "2 {p}^{2} + 8 p + 5 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>p</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>p</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 123,
+      "anchor": "fs-id1167836534727",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula",
+        "In the following exercises, solve by using the Quadratic Formula."
+      ],
+      "text": "\\(2 {a}^{2} - 6 a + 3 = 0\\)",
+      "math": [
+        "2 {a}^{2} - 6 a + 3 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>a</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>a</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 124,
+      "anchor": "fs-id1167836550976",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula",
+        "In the following exercises, solve by using the Quadratic Formula."
+      ],
+      "text": "\\(5 {b}^{2} + 2 b - 4 = 0\\)",
+      "math": [
+        "5 {b}^{2} + 2 b - 4 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>5</mn>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>b</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>5</mn>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>b</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 125,
+      "anchor": "fs-id1167829747947",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula",
+        "In the following exercises, solve by using the Quadratic Formula."
+      ],
+      "text": "\\({x}^{2} + 8 x - 4 = 0\\)",
+      "math": [
+        "{x}^{2} + 8 x - 4 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 126,
+      "anchor": "fs-id1167836450575",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula",
+        "In the following exercises, solve by using the Quadratic Formula."
+      ],
+      "text": "\\({y}^{2} + 4 y - 4 = 0\\)",
+      "math": [
+        "{y}^{2} + 4 y - 4 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 127,
+      "anchor": "fs-id1167836548619",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula",
+        "In the following exercises, solve by using the Quadratic Formula."
+      ],
+      "text": "\\(3 {y}^{2} + 5 y - 2 = 0\\)",
+      "math": [
+        "3 {y}^{2} + 5 y - 2 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 128,
+      "anchor": "fs-id1167836352286",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula",
+        "In the following exercises, solve by using the Quadratic Formula."
+      ],
+      "text": "\\(6 {x}^{2} + 2 x - 20 = 0\\)",
+      "math": [
+        "6 {x}^{2} + 2 x - 20 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>6</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>20</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>6</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>20</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 129,
+      "anchor": "fs-id1167826077135",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula",
+        "In the following exercises, solve by using the Quadratic Formula."
+      ],
+      "text": "\\(2 {x}^{2} + 3 x + 3 = 0\\)",
+      "math": [
+        "2 {x}^{2} + 3 x + 3 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 130,
+      "anchor": "fs-id1167836704609",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula",
+        "In the following exercises, solve by using the Quadratic Formula."
+      ],
+      "text": "\\(2 {x}^{2} - x + 1 = 0\\)",
+      "math": [
+        "2 {x}^{2} - x + 1 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 131,
+      "anchor": "fs-id1167824738968",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula",
+        "In the following exercises, solve by using the Quadratic Formula."
+      ],
+      "text": "\\(8 {x}^{2} - 6 x + 2 = 0\\)",
+      "math": [
+        "8 {x}^{2} - 6 x + 2 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>8</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>8</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 132,
+      "anchor": "fs-id1167836753598",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula",
+        "In the following exercises, solve by using the Quadratic Formula."
+      ],
+      "text": "\\(8 {x}^{2} - 4 x + 1 = 0\\)",
+      "math": [
+        "8 {x}^{2} - 4 x + 1 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>8</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>8</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 133,
+      "anchor": "fs-id1167833385657",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula",
+        "In the following exercises, solve by using the Quadratic Formula."
+      ],
+      "text": "\\(( v + 1 ) ( v - 5 ) - 4 = 0\\)",
+      "math": [
+        "( v + 1 ) ( v - 5 ) - 4 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>v</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>v</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>v</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>v</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 134,
+      "anchor": "fs-id1167836622221",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula",
+        "In the following exercises, solve by using the Quadratic Formula."
+      ],
+      "text": "\\(( x + 1 ) ( x - 3 ) = 2\\)",
+      "math": [
+        "( x + 1 ) ( x - 3 ) = 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 135,
+      "anchor": "fs-id1167836546600",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula",
+        "In the following exercises, solve by using the Quadratic Formula."
+      ],
+      "text": "\\(( y + 4 ) ( y - 7 ) = 18\\)",
+      "math": [
+        "( y + 4 ) ( y - 7 ) = 18"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>18</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>18</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 136,
+      "anchor": "fs-id1167829597601",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula",
+        "In the following exercises, solve by using the Quadratic Formula."
+      ],
+      "text": "\\(( x + 2 ) ( x + 6 ) = 21\\)",
+      "math": [
+        "( x + 2 ) ( x + 6 ) = 21"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>21</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>21</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 137,
+      "anchor": "fs-id1167836409913",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula",
+        "In the following exercises, solve by using the Quadratic Formula."
+      ],
+      "text": "\\(\\frac{1}{3} {m}^{2} + \\frac{1}{ 12 } m = \\frac{1}{4}\\)",
+      "math": [
+        "\\frac{1}{3} {m}^{2} + \\frac{1}{ 12 } m = \\frac{1}{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <msup>\n            <mi>m</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n          <mi>m</mi>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <msup>\n            <mi>m</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n          <mi>m</mi>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 138,
+      "anchor": "fs-id1167833338350",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula",
+        "In the following exercises, solve by using the Quadratic Formula."
+      ],
+      "text": "\\(\\frac{1}{3} {n}^{2} + n = - \\frac{1}{2}\\)",
+      "math": [
+        "\\frac{1}{3} {n}^{2} + n = - \\frac{1}{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <msup>\n            <mi>n</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mi>n</mi>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <msup>\n            <mi>n</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mi>n</mi>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 139,
+      "anchor": "fs-id1167824781360",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula",
+        "In the following exercises, solve by using the Quadratic Formula."
+      ],
+      "text": "\\(\\frac{3}{4} {b}^{2} + \\frac{1}{2} b = \\frac{3}{8}\\)",
+      "math": [
+        "\\frac{3}{4} {b}^{2} + \\frac{1}{2} b = \\frac{3}{8}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>3</mn>\n            <mn>4</mn>\n          </mfrac>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mi>b</mi>\n          <mo>=</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>8</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>3</mn>\n            <mn>4</mn>\n          </mfrac>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mi>b</mi>\n          <mo>=</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>8</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 140,
+      "anchor": "fs-id1167829784975",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula",
+        "In the following exercises, solve by using the Quadratic Formula."
+      ],
+      "text": "\\(\\frac{1}{9} {c}^{2} + \\frac{2}{3} c = 3\\)",
+      "math": [
+        "\\frac{1}{9} {c}^{2} + \\frac{2}{3} c = 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>9</mn>\n          </mfrac>\n          <msup>\n            <mi>c</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mi>c</mi>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>9</mn>\n          </mfrac>\n          <msup>\n            <mi>c</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mi>c</mi>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 141,
+      "anchor": "fs-id1167824748849",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula",
+        "In the following exercises, solve by using the Quadratic Formula."
+      ],
+      "text": "\\(16 {c}^{2} + 24 c + 9 = 0\\)",
+      "math": [
+        "16 {c}^{2} + 24 c + 9 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>16</mn>\n          <msup>\n            <mi>c</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>24</mn>\n          <mi>c</mi>\n          <mo>+</mo>\n          <mn>9</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>16</mn>\n          <msup>\n            <mi>c</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>24</mn>\n          <mi>c</mi>\n          <mo>+</mo>\n          <mn>9</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 142,
+      "anchor": "fs-id1167829952779",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula",
+        "In the following exercises, solve by using the Quadratic Formula."
+      ],
+      "text": "\\(25 {d}^{2} - 60 d + 36 = 0\\)",
+      "math": [
+        "25 {d}^{2} - 60 d + 36 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>25</mn>\n          <msup>\n            <mi>d</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>60</mn>\n          <mi>d</mi>\n          <mo>+</mo>\n          <mn>36</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>25</mn>\n          <msup>\n            <mi>d</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>60</mn>\n          <mi>d</mi>\n          <mo>+</mo>\n          <mn>36</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 143,
+      "anchor": "fs-id1167836511004",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula",
+        "In the following exercises, solve by using the Quadratic Formula."
+      ],
+      "text": "\\(25 {q}^{2} + 30 q + 9 = 0\\)",
+      "math": [
+        "25 {q}^{2} + 30 q + 9 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>25</mn>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>30</mn>\n          <mi>q</mi>\n          <mo>+</mo>\n          <mn>9</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>25</mn>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>30</mn>\n          <mi>q</mi>\n          <mo>+</mo>\n          <mn>9</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 144,
+      "anchor": "fs-id1167836376530",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula",
+        "In the following exercises, solve by using the Quadratic Formula."
+      ],
+      "text": "\\(16 {y}^{2} + 8 y + 1 = 0\\)",
+      "math": [
+        "16 {y}^{2} + 8 y + 1 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>16</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>16</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 145,
+      "anchor": "fs-id1167822916231",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Use the Discriminant to Predict the Number of Real Solutions of a Quadratic Equation",
+        "In the following exercises, determine the number of real solutions for each quadratic equation."
+      ],
+      "text": "ⓐ \\(4{x}^{2}-5x+16=0\\) ⓑ \\(36{y}^{2}+36y+9=0\\) ⓒ \\(6{m}^{2}+3m-5=0\\)",
+      "math": [
+        "4{x}^{2}-5x+16=0",
+        "36{y}^{2}+36y+9=0",
+        "6{m}^{2}+3m-5=0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>x</mi><mo>+</mo><mn>16</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>x</mi><mo>+</mo><mn>16</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>36</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>36</mn><mi>y</mi><mo>+</mo><mn>9</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>36</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>36</mn><mi>y</mi><mo>+</mo><mn>9</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>6</mn><msup><mi>m</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>m</mi><mo>−</mo><mn>5</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>6</mn><msup><mi>m</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>m</mi><mo>−</mo><mn>5</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 146,
+      "anchor": "fs-id1167836572983",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Use the Discriminant to Predict the Number of Real Solutions of a Quadratic Equation",
+        "In the following exercises, determine the number of real solutions for each quadratic equation."
+      ],
+      "text": "ⓐ \\(9{v}^{2}-15v+25=0\\) ⓑ \\(100{w}^{2}+60w+9=0\\) ⓒ \\(5{c}^{2}+7c-10=0\\)",
+      "math": [
+        "9{v}^{2}-15v+25=0",
+        "100{w}^{2}+60w+9=0",
+        "5{c}^{2}+7c-10=0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>9</mn><msup><mi>v</mi><mn>2</mn></msup><mo>−</mo><mn>15</mn><mi>v</mi><mo>+</mo><mn>25</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>9</mn><msup><mi>v</mi><mn>2</mn></msup><mo>−</mo><mn>15</mn><mi>v</mi><mo>+</mo><mn>25</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>100</mn><msup><mi>w</mi><mn>2</mn></msup><mo>+</mo><mn>60</mn><mi>w</mi><mo>+</mo><mn>9</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>100</mn><msup><mi>w</mi><mn>2</mn></msup><mo>+</mo><mn>60</mn><mi>w</mi><mo>+</mo><mn>9</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><msup><mi>c</mi><mn>2</mn></msup><mo>+</mo><mn>7</mn><mi>c</mi><mo>−</mo><mn>10</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><msup><mi>c</mi><mn>2</mn></msup><mo>+</mo><mn>7</mn><mi>c</mi><mo>−</mo><mn>10</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 147,
+      "anchor": "fs-id1167836328607",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Use the Discriminant to Predict the Number of Real Solutions of a Quadratic Equation",
+        "In the following exercises, determine the number of real solutions for each quadratic equation."
+      ],
+      "text": "ⓐ \\({r}^{2}+12r+36=0\\) ⓑ \\(8{t}^{2}-11t+5=0\\) ⓒ \\(3{v}^{2}-5v-1=0\\)",
+      "math": [
+        "{r}^{2}+12r+36=0",
+        "8{t}^{2}-11t+5=0",
+        "3{v}^{2}-5v-1=0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>r</mi><mn>2</mn></msup><mo>+</mo><mn>12</mn><mi>r</mi><mo>+</mo><mn>36</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>r</mi><mn>2</mn></msup><mo>+</mo><mn>12</mn><mi>r</mi><mo>+</mo><mn>36</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>8</mn><msup><mi>t</mi><mn>2</mn></msup><mo>−</mo><mn>11</mn><mi>t</mi><mo>+</mo><mn>5</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>8</mn><msup><mi>t</mi><mn>2</mn></msup><mo>−</mo><mn>11</mn><mi>t</mi><mo>+</mo><mn>5</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><msup><mi>v</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>v</mi><mo>−</mo><mn>1</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><msup><mi>v</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>v</mi><mo>−</mo><mn>1</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 148,
+      "anchor": "fs-id1167829709403",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Use the Discriminant to Predict the Number of Real Solutions of a Quadratic Equation",
+        "In the following exercises, determine the number of real solutions for each quadratic equation."
+      ],
+      "text": "ⓐ \\(25{p}^{2}+10p+1=0\\) ⓑ \\(7{q}^{2}-3q-6=0\\) ⓒ \\(7{y}^{2}+2y+8=0\\)",
+      "math": [
+        "25{p}^{2}+10p+1=0",
+        "7{q}^{2}-3q-6=0",
+        "7{y}^{2}+2y+8=0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>25</mn><msup><mi>p</mi><mn>2</mn></msup><mo>+</mo><mn>10</mn><mi>p</mi><mo>+</mo><mn>1</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>25</mn><msup><mi>p</mi><mn>2</mn></msup><mo>+</mo><mn>10</mn><mi>p</mi><mo>+</mo><mn>1</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>7</mn><msup><mi>q</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>q</mi><mo>−</mo><mn>6</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>7</mn><msup><mi>q</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>q</mi><mo>−</mo><mn>6</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>7</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>y</mi><mo>+</mo><mn>8</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>7</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>y</mi><mo>+</mo><mn>8</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 149,
+      "anchor": "fs-id1167836493661",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Identify the Most Appropriate Method to Use to Solve a Quadratic Equation",
+        "In the following exercises, identify the most appropriate method (Factoring, Square Root, or Quadratic Formula) to use to solve each quadratic equation. Do not solve."
+      ],
+      "text": "ⓐ \\({x}^{2}-5x-24=0\\)ⓑ \\({(y+5)}^{2}=12\\)ⓒ \\(14{m}^{2}+3m=11\\)",
+      "math": [
+        "{x}^{2}-5x-24=0",
+        "{(y+5)}^{2}=12",
+        "14{m}^{2}+3m=11"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>x</mi><mo>−</mo><mn>24</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>x</mi><mo>−</mo><mn>24</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>+</mo><mn>5</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>=</mo><mn>12</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>+</mo><mn>5</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>=</mo><mn>12</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>14</mn><msup><mi>m</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>m</mi><mo>=</mo><mn>11</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>14</mn><msup><mi>m</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>m</mi><mo>=</mo><mn>11</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 150,
+      "anchor": "fs-id1167825946794",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Identify the Most Appropriate Method to Use to Solve a Quadratic Equation",
+        "In the following exercises, identify the most appropriate method (Factoring, Square Root, or Quadratic Formula) to use to solve each quadratic equation. Do not solve."
+      ],
+      "text": "ⓐ \\({(8v+3)}^{2}=81\\)ⓑ \\({w}^{2}-9w-22=0\\)ⓒ \\(4{n}^{2}-10n=6\\)",
+      "math": [
+        "{(8v+3)}^{2}=81",
+        "{w}^{2}-9w-22=0",
+        "4{n}^{2}-10n=6"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>8</mn><mi>v</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>=</mo><mn>81</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>8</mn><mi>v</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>=</mo><mn>81</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>w</mi><mn>2</mn></msup><mo>−</mo><mn>9</mn><mi>w</mi><mo>−</mo><mn>22</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>w</mi><mn>2</mn></msup><mo>−</mo><mn>9</mn><mi>w</mi><mo>−</mo><mn>22</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><msup><mi>n</mi><mn>2</mn></msup><mo>−</mo><mn>10</mn><mi>n</mi><mo>=</mo><mn>6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><msup><mi>n</mi><mn>2</mn></msup><mo>−</mo><mn>10</mn><mi>n</mi><mo>=</mo><mn>6</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 151,
+      "anchor": "fs-id1167825949223",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Identify the Most Appropriate Method to Use to Solve a Quadratic Equation",
+        "In the following exercises, identify the most appropriate method (Factoring, Square Root, or Quadratic Formula) to use to solve each quadratic equation. Do not solve."
+      ],
+      "text": "ⓐ \\(6{a}^{2}+14a=20\\)ⓑ \\({(x-\\frac{1}{4})}^{2}=\\frac{5}{16}\\)ⓒ \\({y}^{2}-2y=8\\)",
+      "math": [
+        "6{a}^{2}+14a=20",
+        "{(x-\\frac{1}{4})}^{2}=\\frac{5}{16}",
+        "{y}^{2}-2y=8"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>6</mn><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><mn>14</mn><mi>a</mi><mo>=</mo><mn>20</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>6</mn><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><mn>14</mn><mi>a</mi><mo>=</mo><mn>20</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>=</mo><mfrac><mn>5</mn><mrow><mn>16</mn></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>=</mo><mfrac><mn>5</mn><mrow><mn>16</mn></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>8</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>8</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 152,
+      "anchor": "fs-id1167833239671",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Identify the Most Appropriate Method to Use to Solve a Quadratic Equation",
+        "In the following exercises, identify the most appropriate method (Factoring, Square Root, or Quadratic Formula) to use to solve each quadratic equation. Do not solve."
+      ],
+      "text": "ⓐ \\(8{b}^{2}+15b=4\\)ⓑ \\(\\frac{5}{9}{v}^{2}-\\frac{2}{3}v=1\\)ⓒ \\({(w+\\frac{4}{3})}^{2}=\\frac{2}{9}\\)",
+      "math": [
+        "8{b}^{2}+15b=4",
+        "\\frac{5}{9}{v}^{2}-\\frac{2}{3}v=1",
+        "{(w+\\frac{4}{3})}^{2}=\\frac{2}{9}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>8</mn><msup><mi>b</mi><mn>2</mn></msup><mo>+</mo><mn>15</mn><mi>b</mi><mo>=</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>8</mn><msup><mi>b</mi><mn>2</mn></msup><mo>+</mo><mn>15</mn><mi>b</mi><mo>=</mo><mn>4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>5</mn><mn>9</mn></mfrac><msup><mi>v</mi><mn>2</mn></msup><mo>−</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>v</mi><mo>=</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>5</mn><mn>9</mn></mfrac><msup><mi>v</mi><mn>2</mn></msup><mo>−</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>v</mi><mo>=</mo><mn>1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>w</mi><mo>+</mo><mfrac><mn>4</mn><mn>3</mn></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>=</mo><mfrac><mn>2</mn><mn>9</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>w</mi><mo>+</mo><mfrac><mn>4</mn><mn>3</mn></mfrac></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>=</mo><mfrac><mn>2</mn><mn>9</mn></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 153,
+      "anchor": "fs-id1167829790134",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Solve the equation \\({x}^{2}+10x=120\\) ⓐ by completing the square ⓑ using the Quadratic Formula ⓒ Which method do you prefer? Why?",
+      "math": [
+        "{x}^{2}+10x=120"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>10</mn><mi>x</mi><mo>=</mo><mn>120</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>10</mn><mi>x</mi><mo>=</mo><mn>120</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 154,
+      "anchor": "fs-id1167836601151",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Solve the equation \\(12{y}^{2}+23y=24\\) ⓐ by completing the square ⓑ using the Quadratic Formula ⓒ Which method do you prefer? Why?",
+      "math": [
+        "12{y}^{2}+23y=24"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>12</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>23</mn><mi>y</mi><mo>=</mo><mn>24</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>12</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>23</mn><mi>y</mi><mo>=</mo><mn>24</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "9.41",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "is_try_it": true,
+      "anchor": "fs-id1167833052817",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula"
+      ],
+      "text": "Solve by using the Quadratic Formula: \\(3{y}^{2}-5y+2=0\\).",
+      "math": [
+        "3{y}^{2}-5y+2=0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>y</mi><mo>+</mo><mn>2</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>y</mi><mo>+</mo><mn>2</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.42",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "is_try_it": true,
+      "anchor": "fs-id1167836530282",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula"
+      ],
+      "text": "Solve by using the Quadratic Formula: \\(4{z}^{2}+2z-6=0\\).",
+      "math": [
+        "4{z}^{2}+2z-6=0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><msup><mi>z</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>z</mi><mo>−</mo><mn>6</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><msup><mi>z</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>z</mi><mo>−</mo><mn>6</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.43",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "is_try_it": true,
+      "anchor": "fs-id1167833186666",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula"
+      ],
+      "text": "Solve by using the Quadratic Formula: \\({a}^{2}-2a=15\\).",
+      "math": [
+        "{a}^{2}-2a=15"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn><mi>a</mi><mo>=</mo><mn>15</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn><mi>a</mi><mo>=</mo><mn>15</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.44",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "is_try_it": true,
+      "anchor": "fs-id1167836314565",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula"
+      ],
+      "text": "Solve by using the Quadratic Formula: \\({b}^{2}+24=-10b\\).",
+      "math": [
+        "{b}^{2}+24=-10b"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>b</mi><mn>2</mn></msup><mo>+</mo><mn>24</mn><mo>=</mo><mn>−10</mn><mi>b</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>b</mi><mn>2</mn></msup><mo>+</mo><mn>24</mn><mo>=</mo><mn>−10</mn><mi>b</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.45",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "is_try_it": true,
+      "anchor": "fs-id1167836554515",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula"
+      ],
+      "text": "Solve by using the Quadratic Formula: \\(3{m}^{2}+12m+7=0\\).",
+      "math": [
+        "3{m}^{2}+12m+7=0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><msup><mi>m</mi><mn>2</mn></msup><mo>+</mo><mn>12</mn><mi>m</mi><mo>+</mo><mn>7</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><msup><mi>m</mi><mn>2</mn></msup><mo>+</mo><mn>12</mn><mi>m</mi><mo>+</mo><mn>7</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.46",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "is_try_it": true,
+      "anchor": "fs-id1167829853072",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula"
+      ],
+      "text": "Solve by using the Quadratic Formula: \\(5{n}^{2}+4n-4=0\\).",
+      "math": [
+        "5{n}^{2}+4n-4=0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><msup><mi>n</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn><mi>n</mi><mo>−</mo><mn>4</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><msup><mi>n</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn><mi>n</mi><mo>−</mo><mn>4</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.47",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "is_try_it": true,
+      "anchor": "fs-id1167830123951",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula"
+      ],
+      "text": "Solve by using the Quadratic Formula: \\(4{a}^{2}-2a+8=0\\).",
+      "math": [
+        "4{a}^{2}-2a+8=0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><msup><mi>a</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn><mi>a</mi><mo>+</mo><mn>8</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><msup><mi>a</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn><mi>a</mi><mo>+</mo><mn>8</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.48",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "is_try_it": true,
+      "anchor": "fs-id1167836731793",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula"
+      ],
+      "text": "Solve by using the Quadratic Formula: \\(5{b}^{2}+2b+4=0\\).",
+      "math": [
+        "5{b}^{2}+2b+4=0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><msup><mi>b</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>b</mi><mo>+</mo><mn>4</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><msup><mi>b</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>b</mi><mo>+</mo><mn>4</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.49",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "is_try_it": true,
+      "anchor": "fs-id1167836287145",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula"
+      ],
+      "text": "Solve by using the Quadratic Formula: \\(x(x+2)-5=0.\\)",
+      "math": [
+        "x(x+2)-5=0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>−</mo><mn>5</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>−</mo><mn>5</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.50",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "is_try_it": true,
+      "anchor": "fs-id1167836507963",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula"
+      ],
+      "text": "Solve by using the Quadratic Formula: \\(3y(y-2)-3=0.\\)",
+      "math": [
+        "3y(y-2)-3=0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mi>y</mi><mrow><mo>(</mo><mrow><mi>y</mi><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>−</mo><mn>3</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mi>y</mi><mrow><mo>(</mo><mrow><mi>y</mi><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>−</mo><mn>3</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.51",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "is_try_it": true,
+      "anchor": "fs-id1167836516031",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula"
+      ],
+      "text": "Solve by using the Quadratic Formula: \\(\\frac{1}{4}{c}^{2}-\\frac{1}{3}c=\\frac{1}{12}\\).",
+      "math": [
+        "\\frac{1}{4}{c}^{2}-\\frac{1}{3}c=\\frac{1}{12}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac><msup><mi>c</mi><mn>2</mn></msup><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>c</mi><mo>=</mo><mfrac><mn>1</mn><mrow><mn>12</mn></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac><msup><mi>c</mi><mn>2</mn></msup><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>c</mi><mo>=</mo><mfrac><mn>1</mn><mrow><mn>12</mn></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.52",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "is_try_it": true,
+      "anchor": "fs-id1167836519955",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula"
+      ],
+      "text": "Solve by using the Quadratic Formula: \\(\\frac{1}{9}{d}^{2}-\\frac{1}{2}d=-\\frac{1}{3}\\).",
+      "math": [
+        "\\frac{1}{9}{d}^{2}-\\frac{1}{2}d=-\\frac{1}{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mn>9</mn></mfrac><msup><mi>d</mi><mn>2</mn></msup><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>d</mi><mo>=</mo><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mn>9</mn></mfrac><msup><mi>d</mi><mn>2</mn></msup><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>d</mi><mo>=</mo><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.53",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "is_try_it": true,
+      "anchor": "fs-id1167829719841",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula"
+      ],
+      "text": "Solve by using the Quadratic Formula: \\({r}^{2}+10r+25=0.\\)",
+      "math": [
+        "{r}^{2}+10r+25=0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>r</mi><mn>2</mn></msup><mo>+</mo><mn>10</mn><mi>r</mi><mo>+</mo><mn>25</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>r</mi><mn>2</mn></msup><mo>+</mo><mn>10</mn><mi>r</mi><mo>+</mo><mn>25</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.54",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "is_try_it": true,
+      "anchor": "fs-id1167833081911",
+      "context": [
+        "Solve Quadratic Equations Using the Quadratic Formula"
+      ],
+      "text": "Solve by using the Quadratic Formula: \\(25{t}^{2}-40t=-16.\\)",
+      "math": [
+        "25{t}^{2}-40t=-16."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>25</mn><msup><mi>t</mi><mn>2</mn></msup><mo>−</mo><mn>40</mn><mi>t</mi><mo>=</mo><mn>−16</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>25</mn><msup><mi>t</mi><mn>2</mn></msup><mo>−</mo><mn>40</mn><mi>t</mi><mo>=</mo><mn>−16</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.55",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "is_try_it": true,
+      "anchor": "fs-id1167833142364",
+      "context": [
+        "Use the Discriminant to Predict the Number and Type of Solutions of a Quadratic Equation"
+      ],
+      "text": "Determine the numberand type of solutions to each quadratic equation. ⓐ \\(8{m}^{2}-3m+6=0\\) ⓑ \\(5{z}^{2}+6z-2=0\\) ⓒ \\(9{w}^{2}+24w+16=0.\\)",
+      "math": [
+        "8{m}^{2}-3m+6=0",
+        "5{z}^{2}+6z-2=0",
+        "9{w}^{2}+24w+16=0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>8</mn><msup><mi>m</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>m</mi><mo>+</mo><mn>6</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>8</mn><msup><mi>m</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>m</mi><mo>+</mo><mn>6</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><msup><mi>z</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn><mi>z</mi><mo>−</mo><mn>2</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><msup><mi>z</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn><mi>z</mi><mo>−</mo><mn>2</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>9</mn><msup><mi>w</mi><mn>2</mn></msup><mo>+</mo><mn>24</mn><mi>w</mi><mo>+</mo><mn>16</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>9</mn><msup><mi>w</mi><mn>2</mn></msup><mo>+</mo><mn>24</mn><mi>w</mi><mo>+</mo><mn>16</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.56",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "is_try_it": true,
+      "anchor": "fs-id1167836375545",
+      "context": [
+        "Use the Discriminant to Predict the Number and Type of Solutions of a Quadratic Equation"
+      ],
+      "text": "Determine the number and type of solutions to each quadratic equation. ⓐ \\({b}^{2}+7b-13=0\\) ⓑ \\(5{a}^{2}-6a+10=0\\) ⓒ \\(4{r}^{2}-20r+25=0.\\)",
+      "math": [
+        "{b}^{2}+7b-13=0",
+        "5{a}^{2}-6a+10=0",
+        "4{r}^{2}-20r+25=0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>b</mi><mn>2</mn></msup><mo>+</mo><mn>7</mn><mi>b</mi><mo>−</mo><mn>13</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>b</mi><mn>2</mn></msup><mo>+</mo><mn>7</mn><mi>b</mi><mo>−</mo><mn>13</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><msup><mi>a</mi><mn>2</mn></msup><mo>−</mo><mn>6</mn><mi>a</mi><mo>+</mo><mn>10</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><msup><mi>a</mi><mn>2</mn></msup><mo>−</mo><mn>6</mn><mi>a</mi><mo>+</mo><mn>10</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><msup><mi>r</mi><mn>2</mn></msup><mo>−</mo><mn>20</mn><mi>r</mi><mo>+</mo><mn>25</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><msup><mi>r</mi><mn>2</mn></msup><mo>−</mo><mn>20</mn><mi>r</mi><mo>+</mo><mn>25</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.57",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "is_try_it": true,
+      "anchor": "fs-id1167829791723",
+      "context": [
+        "Identify the Most Appropriate Method to Use to Solve a Quadratic Equation"
+      ],
+      "text": "Identify the most appropriate method to use to solve each quadratic equation. ⓐ \\({x}^{2}+6x+8=0\\) ⓑ \\({(n-3)}^{2}=16\\) ⓒ \\(5{p}^{2}-6p=9.\\)",
+      "math": [
+        "{x}^{2}+6x+8=0",
+        "{(n-3)}^{2}=16",
+        "5{p}^{2}-6p=9."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn><mi>x</mi><mo>+</mo><mn>8</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn><mi>x</mi><mo>+</mo><mn>8</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>n</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>=</mo><mn>16</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>n</mi><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>=</mo><mn>16</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><msup><mi>p</mi><mn>2</mn></msup><mo>−</mo><mn>6</mn><mi>p</mi><mo>=</mo><mn>9</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><msup><mi>p</mi><mn>2</mn></msup><mo>−</mo><mn>6</mn><mi>p</mi><mo>=</mo><mn>9</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "9.58",
+      "page": "9-3-solve-quadratic-equations-using-the-quadratic-formula",
+      "is_try_it": true,
+      "anchor": "fs-id1167836728825",
+      "context": [
+        "Identify the Most Appropriate Method to Use to Solve a Quadratic Equation"
+      ],
+      "text": "Identify the most appropriate method to use to solve each quadratic equation. ⓐ \\(8{a}^{2}+3a-9=0\\) ⓑ \\(4{b}^{2}+4b+1=0\\) ⓒ \\(5{c}^{2}=125.\\)",
+      "math": [
+        "8{a}^{2}+3a-9=0",
+        "4{b}^{2}+4b+1=0",
+        "5{c}^{2}=125."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>8</mn><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>a</mi><mo>−</mo><mn>9</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>8</mn><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>a</mi><mo>−</mo><mn>9</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><msup><mi>b</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn><mi>b</mi><mo>+</mo><mn>1</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><msup><mi>b</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn><mi>b</mi><mo>+</mo><mn>1</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><msup><mi>c</mi><mn>2</mn></msup><mo>=</mo><mn>125</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><msup><mi>c</mi><mn>2</mn></msup><mo>=</mo><mn>125</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

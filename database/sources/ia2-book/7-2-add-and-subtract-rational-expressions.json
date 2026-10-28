@@ -1,0 +1,1700 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/7-2-add-and-subtract-rational-expressions",
+  "title": "7.2 Add and Subtract Rational Expressions",
+  "sha256": "279dbff23b15d48be1a2e176fdf7658a1297f7c12628667745c3e9a282937d26",
+  "questions": [
+    {
+      "number": 75,
+      "anchor": "fs-id1167836609422",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with a Common Denominator",
+        "In the following exercises, add."
+      ],
+      "text": "\\(\\frac{2}{ 15 } + \\frac{7}{ 15 }\\)",
+      "math": [
+        "\\frac{2}{ 15 } + \\frac{7}{ 15 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>2</mn>\n            <mrow>\n              <mn>15</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>7</mn>\n            <mrow>\n              <mn>15</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>2</mn>\n            <mrow>\n              <mn>15</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>7</mn>\n            <mrow>\n              <mn>15</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 76,
+      "anchor": "fs-id1167833339785",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with a Common Denominator",
+        "In the following exercises, add."
+      ],
+      "text": "\\(\\frac{7}{ 24 } + \\frac{ 11 }{ 24 }\\)",
+      "math": [
+        "\\frac{7}{ 24 } + \\frac{ 11 }{ 24 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>7</mn>\n            <mrow>\n              <mn>24</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>11</mn>\n            </mrow>\n            <mrow>\n              <mn>24</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>7</mn>\n            <mrow>\n              <mn>24</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>11</mn>\n            </mrow>\n            <mrow>\n              <mn>24</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 77,
+      "anchor": "fs-id1167836508792",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with a Common Denominator",
+        "In the following exercises, add."
+      ],
+      "text": "\\(\\frac{ 3 c }{ 4 c - 5 } + \\frac{5}{ 4 c - 5 }\\)",
+      "math": [
+        "\\frac{ 3 c }{ 4 c - 5 } + \\frac{5}{ 4 c - 5 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>c</mi>\n            </mrow>\n            <mrow>\n              <mn>4</mn>\n              <mi>c</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mn>4</mn>\n              <mi>c</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>c</mi>\n            </mrow>\n            <mrow>\n              <mn>4</mn>\n              <mi>c</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mn>4</mn>\n              <mi>c</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 78,
+      "anchor": "fs-id1167836300389",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with a Common Denominator",
+        "In the following exercises, add."
+      ],
+      "text": "\\(\\frac{ 7 m }{ 2 m + n } + \\frac{4}{ 2 m + n }\\)",
+      "math": [
+        "\\frac{ 7 m }{ 2 m + n } + \\frac{4}{ 2 m + n }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>7</mn>\n              <mi>m</mi>\n            </mrow>\n            <mrow>\n              <mn>2</mn>\n              <mi>m</mi>\n              <mo>+</mo>\n              <mi>n</mi>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <mn>2</mn>\n              <mi>m</mi>\n              <mo>+</mo>\n              <mi>n</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>7</mn>\n              <mi>m</mi>\n            </mrow>\n            <mrow>\n              <mn>2</mn>\n              <mi>m</mi>\n              <mo>+</mo>\n              <mi>n</mi>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <mn>2</mn>\n              <mi>m</mi>\n              <mo>+</mo>\n              <mi>n</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 79,
+      "anchor": "fs-id1167836521454",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with a Common Denominator",
+        "In the following exercises, add."
+      ],
+      "text": "\\(\\frac{ 2 {r}^{2} }{ 2 r - 1 } + \\frac{ 15 r - 8 }{ 2 r - 1 }\\)",
+      "math": [
+        "\\frac{ 2 {r}^{2} }{ 2 r - 1 } + \\frac{ 15 r - 8 }{ 2 r - 1 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>r</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>2</mn>\n              <mi>r</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>15</mn>\n              <mi>r</mi>\n              <mo>−</mo>\n              <mn>8</mn>\n            </mrow>\n            <mrow>\n              <mn>2</mn>\n              <mi>r</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>r</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>2</mn>\n              <mi>r</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>15</mn>\n              <mi>r</mi>\n              <mo>−</mo>\n              <mn>8</mn>\n            </mrow>\n            <mrow>\n              <mn>2</mn>\n              <mi>r</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 80,
+      "anchor": "fs-id1167836440414",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with a Common Denominator",
+        "In the following exercises, add."
+      ],
+      "text": "\\(\\frac{ 3 {s}^{2} }{ 3 s - 2 } + \\frac{ 13 s - 10 }{ 3 s - 2 }\\)",
+      "math": [
+        "\\frac{ 3 {s}^{2} }{ 3 s - 2 } + \\frac{ 13 s - 10 }{ 3 s - 2 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>s</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <mi>s</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>13</mn>\n              <mi>s</mi>\n              <mo>−</mo>\n              <mn>10</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <mi>s</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>s</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <mi>s</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>13</mn>\n              <mi>s</mi>\n              <mo>−</mo>\n              <mn>10</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <mi>s</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 81,
+      "anchor": "fs-id1167829720099",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with a Common Denominator",
+        "In the following exercises, add."
+      ],
+      "text": "\\(\\frac{ 2 {w}^{2} }{ {w}^{2} - 16 } + \\frac{ 8 w }{ {w}^{2} - 16 }\\)",
+      "math": [
+        "\\frac{ 2 {w}^{2} }{ {w}^{2} - 16 } + \\frac{ 8 w }{ {w}^{2} - 16 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>w</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>w</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>8</mn>\n              <mi>w</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>w</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>w</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>w</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>8</mn>\n              <mi>w</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>w</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 82,
+      "anchor": "fs-id1167832936278",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with a Common Denominator",
+        "In the following exercises, add."
+      ],
+      "text": "\\(\\frac{ 7 {x}^{2} }{ {x}^{2} - 9 } + \\frac{ 21 x }{ {x}^{2} - 9 }\\)",
+      "math": [
+        "\\frac{ 7 {x}^{2} }{ {x}^{2} - 9 } + \\frac{ 21 x }{ {x}^{2} - 9 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>7</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>9</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>21</mn>\n              <mi>x</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>9</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>7</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>9</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>21</mn>\n              <mi>x</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>9</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 83,
+      "anchor": "fs-id1167829590371",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "In the following exercises, add.",
+        "In the following exercises, subtract."
+      ],
+      "text": "\\(\\frac{ 9 {a}^{2} }{ 3 a - 7 } - \\frac{ 49 }{ 3 a - 7 }\\)",
+      "math": [
+        "\\frac{ 9 {a}^{2} }{ 3 a - 7 } - \\frac{ 49 }{ 3 a - 7 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>9</mn>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>49</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>9</mn>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>49</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 84,
+      "anchor": "fs-id1167829634217",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "In the following exercises, add.",
+        "In the following exercises, subtract."
+      ],
+      "text": "\\(\\frac{ 25 {b}^{2} }{ 5 b - 6 } - \\frac{ 36 }{ 5 b - 6 }\\)",
+      "math": [
+        "\\frac{ 25 {b}^{2} }{ 5 b - 6 } - \\frac{ 36 }{ 5 b - 6 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>25</mn>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>5</mn>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>36</mn>\n            </mrow>\n            <mrow>\n              <mn>5</mn>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>25</mn>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>5</mn>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>36</mn>\n            </mrow>\n            <mrow>\n              <mn>5</mn>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 85,
+      "anchor": "fs-id1167833135505",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "In the following exercises, add.",
+        "In the following exercises, subtract."
+      ],
+      "text": "\\(\\frac{ 3 {m}^{2} }{ 6 m - 30 } - \\frac{ 21 m - 30 }{ 6 m - 30 }\\)",
+      "math": [
+        "\\frac{ 3 {m}^{2} }{ 6 m - 30 } - \\frac{ 21 m - 30 }{ 6 m - 30 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>m</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>6</mn>\n              <mi>m</mi>\n              <mo>−</mo>\n              <mn>30</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>21</mn>\n              <mi>m</mi>\n              <mo>−</mo>\n              <mn>30</mn>\n            </mrow>\n            <mrow>\n              <mn>6</mn>\n              <mi>m</mi>\n              <mo>−</mo>\n              <mn>30</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>m</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>6</mn>\n              <mi>m</mi>\n              <mo>−</mo>\n              <mn>30</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>21</mn>\n              <mi>m</mi>\n              <mo>−</mo>\n              <mn>30</mn>\n            </mrow>\n            <mrow>\n              <mn>6</mn>\n              <mi>m</mi>\n              <mo>−</mo>\n              <mn>30</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 86,
+      "anchor": "fs-id1167836535828",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "In the following exercises, add.",
+        "In the following exercises, subtract."
+      ],
+      "text": "\\(\\frac{ 2 {n}^{2} }{ 4 n - 32 } - \\frac{ 18 n - 16 }{ 4 n - 32 }\\)",
+      "math": [
+        "\\frac{ 2 {n}^{2} }{ 4 n - 32 } - \\frac{ 18 n - 16 }{ 4 n - 32 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>n</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>4</mn>\n              <mi>n</mi>\n              <mo>−</mo>\n              <mn>32</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>18</mn>\n              <mi>n</mi>\n              <mo>−</mo>\n              <mn>16</mn>\n            </mrow>\n            <mrow>\n              <mn>4</mn>\n              <mi>n</mi>\n              <mo>−</mo>\n              <mn>32</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>n</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>4</mn>\n              <mi>n</mi>\n              <mo>−</mo>\n              <mn>32</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>18</mn>\n              <mi>n</mi>\n              <mo>−</mo>\n              <mn>16</mn>\n            </mrow>\n            <mrow>\n              <mn>4</mn>\n              <mi>n</mi>\n              <mo>−</mo>\n              <mn>32</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 87,
+      "anchor": "fs-id1167836697382",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "In the following exercises, add.",
+        "In the following exercises, subtract."
+      ],
+      "text": "\\(\\frac{ 6 {p}^{2} + 3 p + 4 }{ {p}^{2} + 4 p - 5 } - \\frac{ 5 {p}^{2} + p + 7 }{ {p}^{2} + 4 p - 5 }\\)",
+      "math": [
+        "\\frac{ 6 {p}^{2} + 3 p + 4 }{ {p}^{2} + 4 p - 5 } - \\frac{ 5 {p}^{2} + p + 7 }{ {p}^{2} + 4 p - 5 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>6</mn>\n              <msup>\n                <mi>p</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>p</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>p</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>4</mn>\n              <mi>p</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <msup>\n                <mi>p</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mi>p</mi>\n              <mo>+</mo>\n              <mn>7</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>p</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>4</mn>\n              <mi>p</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>6</mn>\n              <msup>\n                <mi>p</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>p</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>p</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>4</mn>\n              <mi>p</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <msup>\n                <mi>p</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mi>p</mi>\n              <mo>+</mo>\n              <mn>7</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>p</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>4</mn>\n              <mi>p</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 88,
+      "anchor": "fs-id1167829743945",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "In the following exercises, add.",
+        "In the following exercises, subtract."
+      ],
+      "text": "\\(\\frac{ 5 {q}^{2} + 3 q - 9 }{ {q}^{2} + 6 q + 8 } - \\frac{ 4 {q}^{2} + 9 q + 7 }{ {q}^{2} + 6 q + 8 }\\)",
+      "math": [
+        "\\frac{ 5 {q}^{2} + 3 q - 9 }{ {q}^{2} + 6 q + 8 } - \\frac{ 4 {q}^{2} + 9 q + 7 }{ {q}^{2} + 6 q + 8 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <msup>\n                <mi>q</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>q</mi>\n              <mo>−</mo>\n              <mn>9</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>q</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>6</mn>\n              <mi>q</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <msup>\n                <mi>q</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>9</mn>\n              <mi>q</mi>\n              <mo>+</mo>\n              <mn>7</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>q</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>6</mn>\n              <mi>q</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <msup>\n                <mi>q</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>q</mi>\n              <mo>−</mo>\n              <mn>9</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>q</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>6</mn>\n              <mi>q</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <msup>\n                <mi>q</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>9</mn>\n              <mi>q</mi>\n              <mo>+</mo>\n              <mn>7</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>q</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>6</mn>\n              <mi>q</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 89,
+      "anchor": "fs-id1167836664177",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "In the following exercises, add.",
+        "In the following exercises, subtract."
+      ],
+      "text": "\\(\\frac{ 5 {r}^{2} + 7 r - 33 }{ {r}^{2} - 49 } - \\frac{ 4 {r}^{2} + 5 r + 30 }{ {r}^{2} - 49 }\\)",
+      "math": [
+        "\\frac{ 5 {r}^{2} + 7 r - 33 }{ {r}^{2} - 49 } - \\frac{ 4 {r}^{2} + 5 r + 30 }{ {r}^{2} - 49 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <msup>\n                <mi>r</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>7</mn>\n              <mi>r</mi>\n              <mo>−</mo>\n              <mn>33</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>r</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>49</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <msup>\n                <mi>r</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>5</mn>\n              <mi>r</mi>\n              <mo>+</mo>\n              <mn>30</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>r</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>49</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <msup>\n                <mi>r</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>7</mn>\n              <mi>r</mi>\n              <mo>−</mo>\n              <mn>33</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>r</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>49</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <msup>\n                <mi>r</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>5</mn>\n              <mi>r</mi>\n              <mo>+</mo>\n              <mn>30</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>r</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>49</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 90,
+      "anchor": "fs-id1167829732204",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "In the following exercises, add.",
+        "In the following exercises, subtract."
+      ],
+      "text": "\\(\\frac{ 7 {t}^{2} - t - 4 }{ {t}^{2} - 25 } - \\frac{ 6 {t}^{2} + 12 t - 44 }{ {t}^{2} - 25 }\\)",
+      "math": [
+        "\\frac{ 7 {t}^{2} - t - 4 }{ {t}^{2} - 25 } - \\frac{ 6 {t}^{2} + 12 t - 44 }{ {t}^{2} - 25 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>7</mn>\n              <msup>\n                <mi>t</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mi>t</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>t</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>6</mn>\n              <msup>\n                <mi>t</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>12</mn>\n              <mi>t</mi>\n              <mo>−</mo>\n              <mn>44</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>t</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>7</mn>\n              <msup>\n                <mi>t</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mi>t</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>t</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>6</mn>\n              <msup>\n                <mi>t</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>12</mn>\n              <mi>t</mi>\n              <mo>−</mo>\n              <mn>44</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>t</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 91,
+      "anchor": "fs-id1167833381691",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions whose Denominators are Opposites",
+        "In the following exercises, add or subtract."
+      ],
+      "text": "\\(\\frac{ 10 v }{ 2 v - 1 } + \\frac{ 2 v + 4 }{ 1 - 2 v }\\)",
+      "math": [
+        "\\frac{ 10 v }{ 2 v - 1 } + \\frac{ 2 v + 4 }{ 1 - 2 v }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>10</mn>\n              <mi>v</mi>\n            </mrow>\n            <mrow>\n              <mn>2</mn>\n              <mi>v</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mi>v</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n            <mrow>\n              <mn>1</mn>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>v</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>10</mn>\n              <mi>v</mi>\n            </mrow>\n            <mrow>\n              <mn>2</mn>\n              <mi>v</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mi>v</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n            <mrow>\n              <mn>1</mn>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>v</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 92,
+      "anchor": "fs-id1167836557054",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions whose Denominators are Opposites",
+        "In the following exercises, add or subtract."
+      ],
+      "text": "\\(\\frac{ 20 w }{ 5 w - 2 } + \\frac{ 5 w + 6 }{ 2 - 5 w }\\)",
+      "math": [
+        "\\frac{ 20 w }{ 5 w - 2 } + \\frac{ 5 w + 6 }{ 2 - 5 w }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>20</mn>\n              <mi>w</mi>\n            </mrow>\n            <mrow>\n              <mn>5</mn>\n              <mi>w</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <mi>w</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n            <mrow>\n              <mn>2</mn>\n              <mo>−</mo>\n              <mn>5</mn>\n              <mi>w</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>20</mn>\n              <mi>w</mi>\n            </mrow>\n            <mrow>\n              <mn>5</mn>\n              <mi>w</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <mi>w</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n            <mrow>\n              <mn>2</mn>\n              <mo>−</mo>\n              <mn>5</mn>\n              <mi>w</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 93,
+      "anchor": "fs-id1167833339004",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions whose Denominators are Opposites",
+        "In the following exercises, add or subtract."
+      ],
+      "text": "\\(\\frac{ 10 {x}^{2} + 16 x - 7 }{ 8 x - 3 } + \\frac{ 2 {x}^{2} + 3 x - 1 }{ 3 - 8 x }\\)",
+      "math": [
+        "\\frac{ 10 {x}^{2} + 16 x - 7 }{ 8 x - 3 } + \\frac{ 2 {x}^{2} + 3 x - 1 }{ 3 - 8 x }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>10</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>16</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n            <mrow>\n              <mn>8</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <mo>−</mo>\n              <mn>8</mn>\n              <mi>x</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>10</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>16</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n            <mrow>\n              <mn>8</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <mo>−</mo>\n              <mn>8</mn>\n              <mi>x</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 94,
+      "anchor": "fs-id1167832926886",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions whose Denominators are Opposites",
+        "In the following exercises, add or subtract."
+      ],
+      "text": "\\(\\frac{ 6 {y}^{2} + 2 y - 11 }{ 3 y - 7 } + \\frac{ 3 {y}^{2} - 3 y + 17 }{ 7 - 3 y }\\)",
+      "math": [
+        "\\frac{ 6 {y}^{2} + 2 y - 11 }{ 3 y - 7 } + \\frac{ 3 {y}^{2} - 3 y + 17 }{ 7 - 3 y }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>6</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>11</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>3</mn>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>17</mn>\n            </mrow>\n            <mrow>\n              <mn>7</mn>\n              <mo>−</mo>\n              <mn>3</mn>\n              <mi>y</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>6</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>11</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>3</mn>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>17</mn>\n            </mrow>\n            <mrow>\n              <mn>7</mn>\n              <mo>−</mo>\n              <mn>3</mn>\n              <mi>y</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 95,
+      "anchor": "fs-id1167833097182",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions whose Denominators are Opposites",
+        "In the following exercises, add or subtract."
+      ],
+      "text": "\\(\\frac{ {z}^{2} + 6 z }{ {z}^{2} - 25 } - \\frac{ 3 z + 20 }{ 25 - {z}^{2} }\\)",
+      "math": [
+        "\\frac{ {z}^{2} + 6 z }{ {z}^{2} - 25 } - \\frac{ 3 z + 20 }{ 25 - {z}^{2} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>z</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>6</mn>\n              <mi>z</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>z</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>z</mi>\n              <mo>+</mo>\n              <mn>20</mn>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n              <mo>−</mo>\n              <msup>\n                <mi>z</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>z</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>6</mn>\n              <mi>z</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>z</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>z</mi>\n              <mo>+</mo>\n              <mn>20</mn>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n              <mo>−</mo>\n              <msup>\n                <mi>z</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 96,
+      "anchor": "fs-id1167833047549",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions whose Denominators are Opposites",
+        "In the following exercises, add or subtract."
+      ],
+      "text": "\\(\\frac{ {a}^{2} + 3 a }{ {a}^{2} - 9 } - \\frac{ 3 a - 27 }{ 9 - {a}^{2} }\\)",
+      "math": [
+        "\\frac{ {a}^{2} + 3 a }{ {a}^{2} - 9 } - \\frac{ 3 a - 27 }{ 9 - {a}^{2} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>a</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>9</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>27</mn>\n            </mrow>\n            <mrow>\n              <mn>9</mn>\n              <mo>−</mo>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>a</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>9</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>27</mn>\n            </mrow>\n            <mrow>\n              <mn>9</mn>\n              <mo>−</mo>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 97,
+      "anchor": "fs-id1167829783563",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions whose Denominators are Opposites",
+        "In the following exercises, add or subtract."
+      ],
+      "text": "\\(\\frac{ 2 {b}^{2} + 30 b - 13 }{ {b}^{2} - 49 } - \\frac{ 2 {b}^{2} - 5 b - 8 }{ 49 - {b}^{2} }\\)",
+      "math": [
+        "\\frac{ 2 {b}^{2} + 30 b - 13 }{ {b}^{2} - 49 } - \\frac{ 2 {b}^{2} - 5 b - 8 }{ 49 - {b}^{2} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>30</mn>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>13</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>49</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>5</mn>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>8</mn>\n            </mrow>\n            <mrow>\n              <mn>49</mn>\n              <mo>−</mo>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>30</mn>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>13</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>49</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>5</mn>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>8</mn>\n            </mrow>\n            <mrow>\n              <mn>49</mn>\n              <mo>−</mo>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 98,
+      "anchor": "fs-id1167824732175",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions whose Denominators are Opposites",
+        "In the following exercises, add or subtract."
+      ],
+      "text": "\\(\\frac{ {c}^{2} + 5 c - 10 }{ {c}^{2} - 16 } - \\frac{ {c}^{2} - 8 c - 10 }{ 16 - {c}^{2} }\\)",
+      "math": [
+        "\\frac{ {c}^{2} + 5 c - 10 }{ {c}^{2} - 16 } - \\frac{ {c}^{2} - 8 c - 10 }{ 16 - {c}^{2} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>c</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>5</mn>\n              <mi>c</mi>\n              <mo>−</mo>\n              <mn>10</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>c</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>c</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>8</mn>\n              <mi>c</mi>\n              <mo>−</mo>\n              <mn>10</mn>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n              <mo>−</mo>\n              <msup>\n                <mi>c</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>c</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>5</mn>\n              <mi>c</mi>\n              <mo>−</mo>\n              <mn>10</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>c</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>c</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>8</mn>\n              <mi>c</mi>\n              <mo>−</mo>\n              <mn>10</mn>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n              <mo>−</mo>\n              <msup>\n                <mi>c</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 99,
+      "anchor": "fs-id1167836576082",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Find the Least Common Denominator of Rational Expressions",
+        "In the following exercises, ⓐ find the LCD for the given rational expressions ⓑ rewrite them as equivalent rational expressions with the lowest common denominator."
+      ],
+      "text": "\\(\\frac{5}{ {x}^{2} - 2 x - 8 } , \\frac{ 2 x }{ {x}^{2} - x - 12 }\\)",
+      "math": [
+        "\\frac{5}{ {x}^{2} - 2 x - 8 } , \\frac{ 2 x }{ {x}^{2} - x - 12 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>8</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>8</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 100,
+      "anchor": "fs-id1167829579658",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Find the Least Common Denominator of Rational Expressions",
+        "In the following exercises, ⓐ find the LCD for the given rational expressions ⓑ rewrite them as equivalent rational expressions with the lowest common denominator."
+      ],
+      "text": "\\(\\frac{8}{ {y}^{2} + 12 y + 35 } , \\frac{ 3 y }{ {y}^{2} + y - 42 }\\)",
+      "math": [
+        "\\frac{8}{ {y}^{2} + 12 y + 35 } , \\frac{ 3 y }{ {y}^{2} + y - 42 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>8</mn>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>12</mn>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>35</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>y</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>42</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>8</mn>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>12</mn>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>35</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>y</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>42</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 101,
+      "anchor": "fs-id1167829740447",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Find the Least Common Denominator of Rational Expressions",
+        "In the following exercises, ⓐ find the LCD for the given rational expressions ⓑ rewrite them as equivalent rational expressions with the lowest common denominator."
+      ],
+      "text": "\\(\\frac{9}{ {z}^{2} + 2 z - 8 } , \\frac{ 4 z }{ {z}^{2} - 4 }\\)",
+      "math": [
+        "\\frac{9}{ {z}^{2} + 2 z - 8 } , \\frac{ 4 z }{ {z}^{2} - 4 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>9</mn>\n            <mrow>\n              <msup>\n                <mi>z</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>z</mi>\n              <mo>−</mo>\n              <mn>8</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <mi>z</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>z</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>9</mn>\n            <mrow>\n              <msup>\n                <mi>z</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>z</mi>\n              <mo>−</mo>\n              <mn>8</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <mi>z</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>z</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 102,
+      "anchor": "fs-id1167829714698",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Find the Least Common Denominator of Rational Expressions",
+        "In the following exercises, ⓐ find the LCD for the given rational expressions ⓑ rewrite them as equivalent rational expressions with the lowest common denominator."
+      ],
+      "text": "\\(\\frac{6}{ {a}^{2} + 14 a + 45 } , \\frac{ 5 a }{ {a}^{2} - 81 }\\)",
+      "math": [
+        "\\frac{6}{ {a}^{2} + 14 a + 45 } , \\frac{ 5 a }{ {a}^{2} - 81 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>6</mn>\n            <mrow>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>14</mn>\n              <mi>a</mi>\n              <mo>+</mo>\n              <mn>45</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <mi>a</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>81</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>6</mn>\n            <mrow>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>14</mn>\n              <mi>a</mi>\n              <mo>+</mo>\n              <mn>45</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <mi>a</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>81</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 103,
+      "anchor": "fs-id1167829894030",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Find the Least Common Denominator of Rational Expressions",
+        "In the following exercises, ⓐ find the LCD for the given rational expressions ⓑ rewrite them as equivalent rational expressions with the lowest common denominator."
+      ],
+      "text": "\\(\\frac{4}{ {b}^{2} + 6 b + 9 } , \\frac{ 2 b }{ {b}^{2} - 2 b - 15 }\\)",
+      "math": [
+        "\\frac{4}{ {b}^{2} + 6 b + 9 } , \\frac{ 2 b }{ {b}^{2} - 2 b - 15 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>6</mn>\n              <mi>b</mi>\n              <mo>+</mo>\n              <mn>9</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mi>b</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>15</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>6</mn>\n              <mi>b</mi>\n              <mo>+</mo>\n              <mn>9</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mi>b</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>15</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 104,
+      "anchor": "fs-id1167829624352",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Find the Least Common Denominator of Rational Expressions",
+        "In the following exercises, ⓐ find the LCD for the given rational expressions ⓑ rewrite them as equivalent rational expressions with the lowest common denominator."
+      ],
+      "text": "\\(\\frac{5}{ {c}^{2} - 4 c + 4 } , \\frac{ 3 c }{ {c}^{2} - 7 c + 10 }\\)",
+      "math": [
+        "\\frac{5}{ {c}^{2} - 4 c + 4 } , \\frac{ 3 c }{ {c}^{2} - 7 c + 10 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <msup>\n                <mi>c</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mi>c</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>c</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>c</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>7</mn>\n              <mi>c</mi>\n              <mo>+</mo>\n              <mn>10</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <msup>\n                <mi>c</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mi>c</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>c</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>c</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>7</mn>\n              <mi>c</mi>\n              <mo>+</mo>\n              <mn>10</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 105,
+      "anchor": "fs-id1167833021546",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Find the Least Common Denominator of Rational Expressions",
+        "In the following exercises, ⓐ find the LCD for the given rational expressions ⓑ rewrite them as equivalent rational expressions with the lowest common denominator."
+      ],
+      "text": "\\(\\frac{2}{ 3 {d}^{2} + 14 d - 5 } , \\frac{ 5 d }{ 3 {d}^{2} - 19 d + 6 }\\)",
+      "math": [
+        "\\frac{2}{ 3 {d}^{2} + 14 d - 5 } , \\frac{ 5 d }{ 3 {d}^{2} - 19 d + 6 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>2</mn>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>d</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>14</mn>\n              <mi>d</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <mi>d</mi>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>d</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>19</mn>\n              <mi>d</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>2</mn>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>d</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>14</mn>\n              <mi>d</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <mi>d</mi>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>d</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>19</mn>\n              <mi>d</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 106,
+      "anchor": "fs-id1167829828600",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Find the Least Common Denominator of Rational Expressions",
+        "In the following exercises, ⓐ find the LCD for the given rational expressions ⓑ rewrite them as equivalent rational expressions with the lowest common denominator."
+      ],
+      "text": "\\(\\frac{3}{ 5 {m}^{2} - 3 m - 2 } , \\frac{ 6 m }{ 5 {m}^{2} + 17 m + 6 }\\)",
+      "math": [
+        "\\frac{3}{ 5 {m}^{2} - 3 m - 2 } , \\frac{ 6 m }{ 5 {m}^{2} + 17 m + 6 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <mn>5</mn>\n              <msup>\n                <mi>m</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>3</mn>\n              <mi>m</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mrow>\n              <mn>6</mn>\n              <mi>m</mi>\n            </mrow>\n            <mrow>\n              <mn>5</mn>\n              <msup>\n                <mi>m</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>17</mn>\n              <mi>m</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <mn>5</mn>\n              <msup>\n                <mi>m</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>3</mn>\n              <mi>m</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mrow>\n              <mn>6</mn>\n              <mi>m</mi>\n            </mrow>\n            <mrow>\n              <mn>5</mn>\n              <msup>\n                <mi>m</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>17</mn>\n              <mi>m</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 107,
+      "anchor": "fs-id1167833224742",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{7}{ 10 {x}^{2} y } + \\frac{4}{ 15 x {y}^{2} }\\)",
+      "math": [
+        "\\frac{7}{ 10 {x}^{2} y } + \\frac{4}{ 15 x {y}^{2} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>7</mn>\n            <mrow>\n              <mn>10</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mi>y</mi>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <mn>15</mn>\n              <mi>x</mi>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>7</mn>\n            <mrow>\n              <mn>10</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mi>y</mi>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <mn>15</mn>\n              <mi>x</mi>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 108,
+      "anchor": "fs-id1167829833103",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{1}{ 12 {a}^{3} {b}^{2} } + \\frac{5}{ 9 {a}^{2} {b}^{3} }\\)",
+      "math": [
+        "\\frac{1}{ 12 {a}^{3} {b}^{2} } + \\frac{5}{ 9 {a}^{2} {b}^{3} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>12</mn>\n              <msup>\n                <mi>a</mi>\n                <mn>3</mn>\n              </msup>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mn>9</mn>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <msup>\n                <mi>b</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>12</mn>\n              <msup>\n                <mi>a</mi>\n                <mn>3</mn>\n              </msup>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mn>9</mn>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <msup>\n                <mi>b</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 109,
+      "anchor": "fs-id1167829853067",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{3}{ r + 4 } + \\frac{2}{ r - 5 }\\)",
+      "math": [
+        "\\frac{3}{ r + 4 } + \\frac{2}{ r - 5 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <mi>r</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mrow>\n              <mi>r</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <mi>r</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mrow>\n              <mi>r</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 110,
+      "anchor": "fs-id1167829651378",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{4}{ s - 7 } + \\frac{5}{ s + 3 }\\)",
+      "math": [
+        "\\frac{4}{ s - 7 } + \\frac{5}{ s + 3 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <mi>s</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mi>s</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <mi>s</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mi>s</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 111,
+      "anchor": "fs-id1167833369992",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{5}{ 3 w - 2 } + \\frac{2}{ w + 1 }\\)",
+      "math": [
+        "\\frac{5}{ 3 w - 2 } + \\frac{2}{ w + 1 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mn>3</mn>\n              <mi>w</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mrow>\n              <mi>w</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mn>3</mn>\n              <mi>w</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mrow>\n              <mi>w</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 112,
+      "anchor": "fs-id1167829745143",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{4}{ 2 x + 5 } + \\frac{2}{ x - 1 }\\)",
+      "math": [
+        "\\frac{4}{ 2 x + 5 } + \\frac{2}{ x - 1 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 113,
+      "anchor": "fs-id1167829585698",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{ 2 y }{ y + 3 } + \\frac{3}{ y - 1 }\\)",
+      "math": [
+        "\\frac{ 2 y }{ y + 3 } + \\frac{3}{ y - 1 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mi>y</mi>\n            </mrow>\n            <mrow>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mi>y</mi>\n            </mrow>\n            <mrow>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 114,
+      "anchor": "fs-id1167829859736",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{ 3 z }{ z - 2 } + \\frac{1}{ z + 5 }\\)",
+      "math": [
+        "\\frac{ 3 z }{ z - 2 } + \\frac{1}{ z + 5 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>z</mi>\n            </mrow>\n            <mrow>\n              <mi>z</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mi>z</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>z</mi>\n            </mrow>\n            <mrow>\n              <mi>z</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mi>z</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 115,
+      "anchor": "fs-id1167833022388",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{ 5 b }{ {a}^{2} b - 2 {a}^{2} } + \\frac{ 2 b }{ {b}^{2} - 4 }\\)",
+      "math": [
+        "\\frac{ 5 b }{ {a}^{2} b - 2 {a}^{2} } + \\frac{ 2 b }{ {b}^{2} - 4 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <mi>b</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mi>b</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <mi>b</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mi>b</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 116,
+      "anchor": "fs-id1167829742750",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{4}{ c d + 3 c } + \\frac{1}{ {d}^{2} - 9 }\\)",
+      "math": [
+        "\\frac{4}{ c d + 3 c } + \\frac{1}{ {d}^{2} - 9 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <mi>c</mi>\n              <mi>d</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>c</mi>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <msup>\n                <mi>d</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>9</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <mi>c</mi>\n              <mi>d</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>c</mi>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <msup>\n                <mi>d</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>9</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 117,
+      "anchor": "fs-id1167829696169",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{ -3 m }{ 3 m - 3 } + \\frac{ 5 m }{ {m}^{2} + 3 m - 4 }\\)",
+      "math": [
+        "\\frac{ -3 m }{ 3 m - 3 } + \\frac{ 5 m }{ {m}^{2} + 3 m - 4 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>−3</mn>\n              <mi>m</mi>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <mi>m</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <mi>m</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>m</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>m</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>−3</mn>\n              <mi>m</mi>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <mi>m</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <mi>m</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>m</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>m</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 118,
+      "anchor": "fs-id1167829786229",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{8}{ 4 n + 4 } + \\frac{6}{ {n}^{2} - n - 2 }\\)",
+      "math": [
+        "\\frac{8}{ 4 n + 4 } + \\frac{6}{ {n}^{2} - n - 2 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>8</mn>\n            <mrow>\n              <mn>4</mn>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>6</mn>\n            <mrow>\n              <msup>\n                <mi>n</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mi>n</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>8</mn>\n            <mrow>\n              <mn>4</mn>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>6</mn>\n            <mrow>\n              <msup>\n                <mi>n</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mi>n</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 119,
+      "anchor": "fs-id1167836585278",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{ 3 r }{ {r}^{2} + 7 r + 6 } + \\frac{9}{ {r}^{2} + 4 r + 3 }\\)",
+      "math": [
+        "\\frac{ 3 r }{ {r}^{2} + 7 r + 6 } + \\frac{9}{ {r}^{2} + 4 r + 3 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>r</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>r</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>7</mn>\n              <mi>r</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>9</mn>\n            <mrow>\n              <msup>\n                <mi>r</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>4</mn>\n              <mi>r</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>r</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>r</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>7</mn>\n              <mi>r</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>9</mn>\n            <mrow>\n              <msup>\n                <mi>r</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>4</mn>\n              <mi>r</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 120,
+      "anchor": "fs-id1167833239647",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{ 2 s }{ {s}^{2} + 2 s - 8 } + \\frac{4}{ {s}^{2} + 3 s - 10 }\\)",
+      "math": [
+        "\\frac{ 2 s }{ {s}^{2} + 2 s - 8 } + \\frac{4}{ {s}^{2} + 3 s - 10 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mi>s</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>s</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>s</mi>\n              <mo>−</mo>\n              <mn>8</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <msup>\n                <mi>s</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>s</mi>\n              <mo>−</mo>\n              <mn>10</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mi>s</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>s</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>s</mi>\n              <mo>−</mo>\n              <mn>8</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <msup>\n                <mi>s</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>s</mi>\n              <mo>−</mo>\n              <mn>10</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 121,
+      "anchor": "fs-id1167836606012",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{t}{ t - 6 } - \\frac{ t - 2 }{ t + 6 }\\)",
+      "math": [
+        "\\frac{t}{ t - 6 } - \\frac{ t - 2 }{ t + 6 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mi>t</mi>\n            <mrow>\n              <mi>t</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mi>t</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mrow>\n              <mi>t</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mi>t</mi>\n            <mrow>\n              <mi>t</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mi>t</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mrow>\n              <mi>t</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 122,
+      "anchor": "fs-id1167829782601",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{ x - 3 }{ x + 6 } - \\frac{x}{ x + 3 }\\)",
+      "math": [
+        "\\frac{ x - 3 }{ x + 6 } - \\frac{x}{ x + 3 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mi>x</mi>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mi>x</mi>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 123,
+      "anchor": "fs-id1167836574205",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{ 5 a }{ a + 3 } - \\frac{ a + 2 }{ a + 6 }\\)",
+      "math": [
+        "\\frac{ 5 a }{ a + 3 } - \\frac{ a + 2 }{ a + 6 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <mi>a</mi>\n            </mrow>\n            <mrow>\n              <mi>a</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mi>a</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mrow>\n              <mi>a</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <mi>a</mi>\n            </mrow>\n            <mrow>\n              <mi>a</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mi>a</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mrow>\n              <mi>a</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 124,
+      "anchor": "fs-id1167833129050",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{ 3 b }{ b - 2 } - \\frac{ b - 6 }{ b - 8 }\\)",
+      "math": [
+        "\\frac{ 3 b }{ b - 2 } - \\frac{ b - 6 }{ b - 8 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>b</mi>\n            </mrow>\n            <mrow>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n            <mrow>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>8</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>b</mi>\n            </mrow>\n            <mrow>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n            <mrow>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>8</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 125,
+      "anchor": "fs-id1167829689013",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{6}{ m + 6 } - \\frac{ 12 m }{ {m}^{2} - 36 }\\)",
+      "math": [
+        "\\frac{6}{ m + 6 } - \\frac{ 12 m }{ {m}^{2} - 36 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>6</mn>\n            <mrow>\n              <mi>m</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>12</mn>\n              <mi>m</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>m</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>36</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>6</mn>\n            <mrow>\n              <mi>m</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>12</mn>\n              <mi>m</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>m</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>36</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 126,
+      "anchor": "fs-id1167826129923",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{4}{ n + 4 } - \\frac{ 8 n }{ {n}^{2} - 16 }\\)",
+      "math": [
+        "\\frac{4}{ n + 4 } - \\frac{ 8 n }{ {n}^{2} - 16 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>8</mn>\n              <mi>n</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>n</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>8</mn>\n              <mi>n</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>n</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 127,
+      "anchor": "fs-id1167836768930",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{ -9 p - 17 }{ {p}^{2} - 4 p - 21 } - \\frac{ p + 1 }{ 7 - p }\\)",
+      "math": [
+        "\\frac{ -9 p - 17 }{ {p}^{2} - 4 p - 21 } - \\frac{ p + 1 }{ 7 - p }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>−9</mn>\n              <mi>p</mi>\n              <mo>−</mo>\n              <mn>17</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>p</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mi>p</mi>\n              <mo>−</mo>\n              <mn>21</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mi>p</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mrow>\n              <mn>7</mn>\n              <mo>−</mo>\n              <mi>p</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>−9</mn>\n              <mi>p</mi>\n              <mo>−</mo>\n              <mn>17</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>p</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mi>p</mi>\n              <mo>−</mo>\n              <mn>21</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mi>p</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mrow>\n              <mn>7</mn>\n              <mo>−</mo>\n              <mi>p</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 128,
+      "anchor": "fs-id1167836485791",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{ - 13 q - 8 }{ {q}^{2} + 2 q - 24 } - \\frac{ q + 2 }{ 4 - q }\\)",
+      "math": [
+        "\\frac{ - 13 q - 8 }{ {q}^{2} + 2 q - 24 } - \\frac{ q + 2 }{ 4 - q }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mo>−</mo>\n              <mn>13</mn>\n              <mi>q</mi>\n              <mo>−</mo>\n              <mn>8</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>q</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>q</mi>\n              <mo>−</mo>\n              <mn>24</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mi>q</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mrow>\n              <mn>4</mn>\n              <mo>−</mo>\n              <mi>q</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mo>−</mo>\n              <mn>13</mn>\n              <mi>q</mi>\n              <mo>−</mo>\n              <mn>8</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>q</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>q</mi>\n              <mo>−</mo>\n              <mn>24</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mi>q</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mrow>\n              <mn>4</mn>\n              <mo>−</mo>\n              <mi>q</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 129,
+      "anchor": "fs-id1167825703893",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{ -2 r - 16 }{ {r}^{2} + 6 r - 16 } - \\frac{5}{ 2 - r }\\)",
+      "math": [
+        "\\frac{ -2 r - 16 }{ {r}^{2} + 6 r - 16 } - \\frac{5}{ 2 - r }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>−2</mn>\n              <mi>r</mi>\n              <mo>−</mo>\n              <mn>16</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>r</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>6</mn>\n              <mi>r</mi>\n              <mo>−</mo>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mn>2</mn>\n              <mo>−</mo>\n              <mi>r</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>−2</mn>\n              <mi>r</mi>\n              <mo>−</mo>\n              <mn>16</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>r</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>6</mn>\n              <mi>r</mi>\n              <mo>−</mo>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mn>2</mn>\n              <mo>−</mo>\n              <mi>r</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 130,
+      "anchor": "fs-id1167833364241",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{ 2 t - 30 }{ {t}^{2} + 6 t - 27 } - \\frac{2}{ 3 - t }\\)",
+      "math": [
+        "\\frac{ 2 t - 30 }{ {t}^{2} + 6 t - 27 } - \\frac{2}{ 3 - t }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mi>t</mi>\n              <mo>−</mo>\n              <mn>30</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>t</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>6</mn>\n              <mi>t</mi>\n              <mo>−</mo>\n              <mn>27</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mrow>\n              <mn>3</mn>\n              <mo>−</mo>\n              <mi>t</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mi>t</mi>\n              <mo>−</mo>\n              <mn>30</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>t</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>6</mn>\n              <mi>t</mi>\n              <mo>−</mo>\n              <mn>27</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mrow>\n              <mn>3</mn>\n              <mo>−</mo>\n              <mi>t</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 131,
+      "anchor": "fs-id1167829783655",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{ 2 x + 7 }{ 10 x - 1 } + 3\\)",
+      "math": [
+        "\\frac{ 2 x + 7 }{ 10 x - 1 } + 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>7</mn>\n            </mrow>\n            <mrow>\n              <mn>10</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>7</mn>\n            </mrow>\n            <mrow>\n              <mn>10</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 132,
+      "anchor": "fs-id1167833364483",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{ 8 y - 4 }{ 5 y + 2 } - 6\\)",
+      "math": [
+        "\\frac{ 8 y - 4 }{ 5 y + 2 } - 6"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>8</mn>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mrow>\n              <mn>5</mn>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mn>6</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>8</mn>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mrow>\n              <mn>5</mn>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mn>6</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 133,
+      "anchor": "fs-id1167829808222",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{3}{ {x}^{2} - 3 x - 4 } - \\frac{2}{ {x}^{2} - 5 x + 4 }\\)",
+      "math": [
+        "\\frac{3}{ {x}^{2} - 3 x - 4 } - \\frac{2}{ {x}^{2} - 5 x + 4 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 134,
+      "anchor": "fs-id1167836664672",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{4}{ {x}^{2} - 6 x + 5 } - \\frac{3}{ {x}^{2} - 7 x + 10 }\\)",
+      "math": [
+        "\\frac{4}{ {x}^{2} - 6 x + 5 } - \\frac{3}{ {x}^{2} - 7 x + 10 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>6</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>7</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>10</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>6</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>7</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>10</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 135,
+      "anchor": "fs-id1167829831823",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{5}{ {x}^{2} + 8 x - 9 } - \\frac{4}{ {x}^{2} + 10 x + 9 }\\)",
+      "math": [
+        "\\frac{5}{ {x}^{2} + 8 x - 9 } - \\frac{4}{ {x}^{2} + 10 x + 9 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>8</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>9</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>10</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>9</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>8</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>9</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>10</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>9</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 136,
+      "anchor": "fs-id1167836440815",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{3}{ 2 {x}^{2} + 5 x + 2 } - \\frac{1}{ 2 {x}^{2} + 3 x + 1 }\\)",
+      "math": [
+        "\\frac{3}{ 2 {x}^{2} + 5 x + 2 } - \\frac{1}{ 2 {x}^{2} + 3 x + 1 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 137,
+      "anchor": "fs-id1167833085118",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{ 5 a }{ a - 2 } + \\frac{9}{a} - \\frac{ 2 a + 18 }{ {a}^{2} - 2 a }\\)",
+      "math": [
+        "\\frac{ 5 a }{ a - 2 } + \\frac{9}{a} - \\frac{ 2 a + 18 }{ {a}^{2} - 2 a }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <mi>a</mi>\n            </mrow>\n            <mrow>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>9</mn>\n            <mi>a</mi>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mi>a</mi>\n              <mo>+</mo>\n              <mn>18</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>a</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <mi>a</mi>\n            </mrow>\n            <mrow>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>9</mn>\n            <mi>a</mi>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mi>a</mi>\n              <mo>+</mo>\n              <mn>18</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>a</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 138,
+      "anchor": "fs-id1167825703558",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{ 2 b }{ b - 5 } + \\frac{3}{ 2 b } - \\frac{ 2 b - 15 }{ 2 {b}^{2} - 10 b }\\)",
+      "math": [
+        "\\frac{ 2 b }{ b - 5 } + \\frac{3}{ 2 b } - \\frac{ 2 b - 15 }{ 2 {b}^{2} - 10 b }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mi>b</mi>\n            </mrow>\n            <mrow>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <mn>2</mn>\n              <mi>b</mi>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>15</mn>\n            </mrow>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>10</mn>\n              <mi>b</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mi>b</mi>\n            </mrow>\n            <mrow>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <mn>2</mn>\n              <mi>b</mi>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>15</mn>\n            </mrow>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>10</mn>\n              <mi>b</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 139,
+      "anchor": "fs-id1167826130332",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{c}{ c + 2 } + \\frac{5}{ c - 2 } - \\frac{ 10 c }{ {c}^{2} - 4 }\\)",
+      "math": [
+        "\\frac{c}{ c + 2 } + \\frac{5}{ c - 2 } - \\frac{ 10 c }{ {c}^{2} - 4 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mi>c</mi>\n            <mrow>\n              <mi>c</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mi>c</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>10</mn>\n              <mi>c</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>c</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mi>c</mi>\n            <mrow>\n              <mi>c</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mi>c</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>10</mn>\n              <mi>c</mi>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>c</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 140,
+      "anchor": "fs-id1167830095289",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{ 6 d }{ d - 5 } + \\frac{1}{ d + 4 } - \\frac{ 7 d - 5 }{ {d}^{2} - d - 20 }\\)",
+      "math": [
+        "\\frac{ 6 d }{ d - 5 } + \\frac{1}{ d + 4 } - \\frac{ 7 d - 5 }{ {d}^{2} - d - 20 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>6</mn>\n              <mi>d</mi>\n            </mrow>\n            <mrow>\n              <mi>d</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mi>d</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>7</mn>\n              <mi>d</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>d</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mi>d</mi>\n              <mo>−</mo>\n              <mn>20</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>6</mn>\n              <mi>d</mi>\n            </mrow>\n            <mrow>\n              <mi>d</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mi>d</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>7</mn>\n              <mi>d</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>d</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mi>d</mi>\n              <mo>−</mo>\n              <mn>20</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 141,
+      "anchor": "fs-id1167829829429",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{ 3 d }{ d + 2 } + \\frac{4}{d} - \\frac{ d + 8 }{ {d}^{2} + 2 d }\\)",
+      "math": [
+        "\\frac{ 3 d }{ d + 2 } + \\frac{4}{d} - \\frac{ d + 8 }{ {d}^{2} + 2 d }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>d</mi>\n            </mrow>\n            <mrow>\n              <mi>d</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mi>d</mi>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mi>d</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>d</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>d</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>d</mi>\n            </mrow>\n            <mrow>\n              <mi>d</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mi>d</mi>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mi>d</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>d</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>d</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 142,
+      "anchor": "fs-id1167829782365",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators",
+        "In the following exercises, perform the indicated operations."
+      ],
+      "text": "\\(\\frac{ 2 q }{ q + 5 } + \\frac{3}{ q - 3 } - \\frac{ 13 q + 15 }{ {q}^{2} + 2 q - 15 }\\)",
+      "math": [
+        "\\frac{ 2 q }{ q + 5 } + \\frac{3}{ q - 3 } - \\frac{ 13 q + 15 }{ {q}^{2} + 2 q - 15 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mi>q</mi>\n            </mrow>\n            <mrow>\n              <mi>q</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <mi>q</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>13</mn>\n              <mi>q</mi>\n              <mo>+</mo>\n              <mn>15</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>q</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>q</mi>\n              <mo>−</mo>\n              <mn>15</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mi>q</mi>\n            </mrow>\n            <mrow>\n              <mi>q</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <mi>q</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>13</mn>\n              <mi>q</mi>\n              <mo>+</mo>\n              <mn>15</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>q</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>q</mi>\n              <mo>−</mo>\n              <mn>15</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 143,
+      "anchor": "fs-id1167826129980",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Functions",
+        "In the following exercises, find ⓐ \\(R(x)=f(x)+g(x)\\) ⓑ \\(R(x)=f(x)-g(x).\\)"
+      ],
+      "text": "\\(f(x)=\\frac{-5x-5}{{x}^{2}+x-6}\\) and\\(g(x)=\\frac{x+1}{2-x}\\)",
+      "math": [
+        "f(x)=\\frac{-5x-5}{{x}^{2}+x-6}",
+        "g(x)=\\frac{x+1}{2-x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mn>−5</mn><mi>x</mi><mo>−</mo><mn>5</mn></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>x</mi><mo>−</mo><mn>6</mn></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mn>−5</mn><mi>x</mi><mo>−</mo><mn>5</mn></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>x</mi><mo>−</mo><mn>6</mn></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mspace width=\"1.8em\"></mspace><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mrow><mn>2</mn><mo>−</mo><mi>x</mi></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mspace width=\"1.8em\"></mspace><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mrow><mn>2</mn><mo>−</mo><mi>x</mi></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 144,
+      "anchor": "fs-id1167833256034",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Functions",
+        "In the following exercises, find ⓐ \\(R(x)=f(x)+g(x)\\) ⓑ \\(R(x)=f(x)-g(x).\\)"
+      ],
+      "text": "\\(f(x)=\\frac{-4x-24}{{x}^{2}+x-30}\\) and\\(g(x)=\\frac{x+7}{5-x}\\)",
+      "math": [
+        "f(x)=\\frac{-4x-24}{{x}^{2}+x-30}",
+        "g(x)=\\frac{x+7}{5-x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mn>−4</mn><mi>x</mi><mo>−</mo><mn>24</mn></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>x</mi><mo>−</mo><mn>30</mn></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mn>−4</mn><mi>x</mi><mo>−</mo><mn>24</mn></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>x</mi><mo>−</mo><mn>30</mn></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mspace width=\"1.8em\"></mspace><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mi>x</mi><mo>+</mo><mn>7</mn></mrow><mrow><mn>5</mn><mo>−</mo><mi>x</mi></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mspace width=\"1.8em\"></mspace><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mi>x</mi><mo>+</mo><mn>7</mn></mrow><mrow><mn>5</mn><mo>−</mo><mi>x</mi></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 145,
+      "anchor": "fs-id1167833369660",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Functions",
+        "In the following exercises, find ⓐ \\(R(x)=f(x)+g(x)\\) ⓑ \\(R(x)=f(x)-g(x).\\)"
+      ],
+      "text": "\\(f(x)=\\frac{6x}{{x}^{2}-64}\\) and\\(g(x)=\\frac{3}{x-8}\\)",
+      "math": [
+        "f(x)=\\frac{6x}{{x}^{2}-64}",
+        "g(x)=\\frac{3}{x-8}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mn>6</mn><mi>x</mi></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>64</mn></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mn>6</mn><mi>x</mi></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>64</mn></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mspace width=\"1.8em\"></mspace><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mn>3</mn><mrow><mi>x</mi><mo>−</mo><mn>8</mn></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mspace width=\"1.8em\"></mspace><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mn>3</mn><mrow><mi>x</mi><mo>−</mo><mn>8</mn></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 146,
+      "anchor": "fs-id1167829651530",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Add and Subtract Rational Functions",
+        "In the following exercises, find ⓐ \\(R(x)=f(x)+g(x)\\) ⓑ \\(R(x)=f(x)-g(x).\\)"
+      ],
+      "text": "\\(f(x)=\\frac{5}{x+7}\\) and\\(g(x)=\\frac{10x}{{x}^{2}-49}\\)",
+      "math": [
+        "f(x)=\\frac{5}{x+7}",
+        "g(x)=\\frac{10x}{{x}^{2}-49}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mn>5</mn><mrow><mi>x</mi><mo>+</mo><mn>7</mn></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mn>5</mn><mrow><mi>x</mi><mo>+</mo><mn>7</mn></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mspace width=\"1.8em\"></mspace><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mn>10</mn><mi>x</mi></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>49</mn></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mspace width=\"1.8em\"></mspace><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mn>10</mn><mi>x</mi></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>49</mn></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 147,
+      "anchor": "fs-id1167836570229",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Donald thinks that \\(\\frac{3}{x}+\\frac{4}{x}\\) is \\(\\frac{7}{2x}.\\) Is Donald correct? Explain.",
+      "math": [
+        "\\frac{3}{x}+\\frac{4}{x}",
+        "\\frac{7}{2x}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>3</mn><mi>x</mi></mfrac><mo>+</mo><mfrac><mn>4</mn><mi>x</mi></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>3</mn><mi>x</mi></mfrac><mo>+</mo><mfrac><mn>4</mn><mi>x</mi></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>7</mn><mrow><mn>2</mn><mi>x</mi></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>7</mn><mrow><mn>2</mn><mi>x</mi></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 148,
+      "anchor": "fs-id1167836570275",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain how you find the Least Common Denominator of \\({x}^{2}+5x+4\\) and \\({x}^{2}-16.\\)",
+      "math": [
+        "{x}^{2}+5x+4",
+        "{x}^{2}-16."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mi>x</mi><mo>+</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mi>x</mi><mo>+</mo><mn>4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>16</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>16</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 149,
+      "anchor": "fs-id1167833086811",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Felipe thinks \\(\\frac{1}{x}+\\frac{1}{y}\\) is \\(\\frac{2}{x+y}.\\) ⓐ Choose numerical values for x and y and evaluate \\(\\frac{1}{x}+\\frac{1}{y}.\\) ⓑ Evaluate \\(\\frac{2}{x+y}\\) for the same values of x and y you used in part ⓐ. ⓒ Explain why Felipe is wrong. ⓓ Find the correct expression for \\(\\frac{1}{x}+\\frac{1}{y}.\\)",
+      "math": [
+        "\\frac{1}{x}+\\frac{1}{y}",
+        "\\frac{2}{x+y}.",
+        "\\frac{1}{x}+\\frac{1}{y}.",
+        "\\frac{2}{x+y}",
+        "\\frac{1}{x}+\\frac{1}{y}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mi>x</mi></mfrac><mo>+</mo><mfrac><mn>1</mn><mi>y</mi></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mi>x</mi></mfrac><mo>+</mo><mfrac><mn>1</mn><mi>y</mi></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>2</mn><mrow><mi>x</mi><mo>+</mo><mi>y</mi></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>2</mn><mrow><mi>x</mi><mo>+</mo><mi>y</mi></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mi>x</mi></mfrac><mo>+</mo><mfrac><mn>1</mn><mi>y</mi></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mi>x</mi></mfrac><mo>+</mo><mfrac><mn>1</mn><mi>y</mi></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>2</mn><mrow><mi>x</mi><mo>+</mo><mi>y</mi></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>2</mn><mrow><mi>x</mi><mo>+</mo><mi>y</mi></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mi>x</mi></mfrac><mo>+</mo><mfrac><mn>1</mn><mi>y</mi></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mi>x</mi></mfrac><mo>+</mo><mfrac><mn>1</mn><mi>y</mi></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 150,
+      "anchor": "fs-id1167836510855",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Simplify the expression \\(\\frac{4}{{n}^{2}+6n+9}-\\frac{1}{{n}^{2}-9}\\) and explain all your steps.",
+      "math": [
+        "\\frac{4}{{n}^{2}+6n+9}-\\frac{1}{{n}^{2}-9}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>4</mn><mrow><msup><mi>n</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn><mi>n</mi><mo>+</mo><mn>9</mn></mrow></mfrac><mo>−</mo><mfrac><mn>1</mn><mrow><msup><mi>n</mi><mn>2</mn></msup><mo>−</mo><mn>9</mn></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>4</mn><mrow><msup><mi>n</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn><mi>n</mi><mo>+</mo><mn>9</mn></mrow></mfrac><mo>−</mo><mfrac><mn>1</mn><mrow><msup><mi>n</mi><mn>2</mn></msup><mo>−</mo><mn>9</mn></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "7.25",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167836519066",
+      "context": [
+        "Add and Subtract Rational Expressions with a Common Denominator"
+      ],
+      "text": "Simplify: \\(\\frac{9x+14}{x+7}+\\frac{{x}^{2}}{x+7}.\\)",
+      "math": [
+        "\\frac{9x+14}{x+7}+\\frac{{x}^{2}}{x+7}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mn>9</mn><mi>x</mi><mo>+</mo><mn>14</mn></mrow><mrow><mi>x</mi><mo>+</mo><mn>7</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup></mrow><mrow><mi>x</mi><mo>+</mo><mn>7</mn></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mn>9</mn><mi>x</mi><mo>+</mo><mn>14</mn></mrow><mrow><mi>x</mi><mo>+</mo><mn>7</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup></mrow><mrow><mi>x</mi><mo>+</mo><mn>7</mn></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.26",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167833212949",
+      "context": [
+        "Add and Subtract Rational Expressions with a Common Denominator"
+      ],
+      "text": "Simplify: \\(\\frac{{x}^{2}+8x}{x+5}+\\frac{15}{x+5}.\\)",
+      "math": [
+        "\\frac{{x}^{2}+8x}{x+5}+\\frac{15}{x+5}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><mi>x</mi></mrow><mrow><mi>x</mi><mo>+</mo><mn>5</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>15</mn></mrow><mrow><mi>x</mi><mo>+</mo><mn>5</mn></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><mi>x</mi></mrow><mrow><mi>x</mi><mo>+</mo><mn>5</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>15</mn></mrow><mrow><mi>x</mi><mo>+</mo><mn>5</mn></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.27",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167836293673",
+      "context": [
+        "Add and Subtract Rational Expressions with a Common Denominator"
+      ],
+      "text": "Subtract: \\(\\frac{4{x}^{2}-11x+8}{{x}^{2}-3x+2}-\\frac{3{x}^{2}+x-3}{{x}^{2}-3x+2}.\\)",
+      "math": [
+        "\\frac{4{x}^{2}-11x+8}{{x}^{2}-3x+2}-\\frac{3{x}^{2}+x-3}{{x}^{2}-3x+2}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>11</mn><mi>x</mi><mo>+</mo><mn>8</mn></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfrac><mo>−</mo><mfrac><mrow><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>x</mi><mo>−</mo><mn>3</mn></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>11</mn><mi>x</mi><mo>+</mo><mn>8</mn></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfrac><mo>−</mo><mfrac><mrow><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>x</mi><mo>−</mo><mn>3</mn></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.28",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167836516618",
+      "context": [
+        "Add and Subtract Rational Expressions with a Common Denominator"
+      ],
+      "text": "Subtract: \\(\\frac{6{x}^{2}-x+20}{{x}^{2}-81}-\\frac{5{x}^{2}+11x-7}{{x}^{2}-81}.\\)",
+      "math": [
+        "\\frac{6{x}^{2}-x+20}{{x}^{2}-81}-\\frac{5{x}^{2}+11x-7}{{x}^{2}-81}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mn>6</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mi>x</mi><mo>+</mo><mn>20</mn></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>81</mn></mrow></mfrac><mo>−</mo><mfrac><mrow><mn>5</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>11</mn><mi>x</mi><mo>−</mo><mn>7</mn></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>81</mn></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mn>6</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mi>x</mi><mo>+</mo><mn>20</mn></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>81</mn></mrow></mfrac><mo>−</mo><mfrac><mrow><mn>5</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>11</mn><mi>x</mi><mo>−</mo><mn>7</mn></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>81</mn></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.29",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167836362962",
+      "context": [
+        "Add and Subtract Rational Expressions Whose Denominators are Opposites"
+      ],
+      "text": "Subtract: \\(\\frac{{y}^{2}-5y}{{y}^{2}-4}-\\frac{6y-6}{4-{y}^{2}}.\\)",
+      "math": [
+        "\\frac{{y}^{2}-5y}{{y}^{2}-4}-\\frac{6y-6}{4-{y}^{2}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>y</mi></mrow><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn></mrow></mfrac><mo>−</mo><mfrac><mrow><mn>6</mn><mi>y</mi><mo>−</mo><mn>6</mn></mrow><mrow><mn>4</mn><mo>−</mo><msup><mi>y</mi><mn>2</mn></msup></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>y</mi></mrow><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn></mrow></mfrac><mo>−</mo><mfrac><mrow><mn>6</mn><mi>y</mi><mo>−</mo><mn>6</mn></mrow><mrow><mn>4</mn><mo>−</mo><msup><mi>y</mi><mn>2</mn></msup></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.30",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167836728750",
+      "context": [
+        "Add and Subtract Rational Expressions Whose Denominators are Opposites"
+      ],
+      "text": "Subtract: \\(\\frac{2{n}^{2}+8n-1}{{n}^{2}-1}-\\frac{{n}^{2}-7n-1}{1-{n}^{2}}.\\)",
+      "math": [
+        "\\frac{2{n}^{2}+8n-1}{{n}^{2}-1}-\\frac{{n}^{2}-7n-1}{1-{n}^{2}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mn>2</mn><msup><mi>n</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><mi>n</mi><mo>−</mo><mn>1</mn></mrow><mrow><msup><mi>n</mi><mn>2</mn></msup><mo>−</mo><mn>1</mn></mrow></mfrac><mo>−</mo><mfrac><mrow><msup><mi>n</mi><mn>2</mn></msup><mo>−</mo><mn>7</mn><mi>n</mi><mo>−</mo><mn>1</mn></mrow><mrow><mn>1</mn><mo>−</mo><msup><mi>n</mi><mn>2</mn></msup></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mn>2</mn><msup><mi>n</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><mi>n</mi><mo>−</mo><mn>1</mn></mrow><mrow><msup><mi>n</mi><mn>2</mn></msup><mo>−</mo><mn>1</mn></mrow></mfrac><mo>−</mo><mfrac><mrow><msup><mi>n</mi><mn>2</mn></msup><mo>−</mo><mn>7</mn><mi>n</mi><mo>−</mo><mn>1</mn></mrow><mrow><mn>1</mn><mo>−</mo><msup><mi>n</mi><mn>2</mn></msup></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.31",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167836524675",
+      "context": [
+        "Find the Least Common Denominator of Rational Expressions"
+      ],
+      "text": "ⓐ Find the LCD for the expressions \\(\\frac{2}{{x}^{2}-x-12},\\frac{1}{{x}^{2}-16}\\) ⓑ rewrite them as equivalent rational expressions with the lowest common denominator.",
+      "math": [
+        "\\frac{2}{{x}^{2}-x-12},\\frac{1}{{x}^{2}-16}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>2</mn><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mi>x</mi><mo>−</mo><mn>12</mn></mrow></mfrac><mo>,</mo><mfrac><mn>1</mn><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>16</mn></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>2</mn><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mi>x</mi><mo>−</mo><mn>12</mn></mrow></mfrac><mo>,</mo><mfrac><mn>1</mn><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>16</mn></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.32",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167836362198",
+      "context": [
+        "Find the Least Common Denominator of Rational Expressions"
+      ],
+      "text": "ⓐ Find the LCD for the expressions \\(\\frac{3x}{{x}^{2}-3x–10},\\frac{5}{{x}^{2}+3x+2}\\) ⓑ rewrite them as equivalent rational expressions with the lowest common denominator.",
+      "math": [
+        "\\frac{3x}{{x}^{2}-3x–10},\\frac{5}{{x}^{2}+3x+2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mn>3</mn><mi>x</mi></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>x</mi><mo>–</mo><mn>10</mn></mrow></mfrac><mo>,</mo><mfrac><mn>5</mn><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mn>3</mn><mi>x</mi></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>x</mi><mo>–</mo><mn>10</mn></mrow></mfrac><mo>,</mo><mfrac><mn>5</mn><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.33",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167836520469",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators"
+      ],
+      "text": "Add: \\(\\frac{2}{x-2}+\\frac{5}{x+3}.\\)",
+      "math": [
+        "\\frac{2}{x-2}+\\frac{5}{x+3}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>2</mn><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow></mfrac><mo>+</mo><mfrac><mn>5</mn><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>2</mn><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow></mfrac><mo>+</mo><mfrac><mn>5</mn><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.34",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167829931412",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators"
+      ],
+      "text": "Add:\\(\\frac{4}{m+3}+\\frac{3}{m+4}.\\)",
+      "math": [
+        "\\frac{4}{m+3}+\\frac{3}{m+4}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>4</mn><mrow><mi>m</mi><mo>+</mo><mn>3</mn></mrow></mfrac><mo>+</mo><mfrac><mn>3</mn><mrow><mi>m</mi><mo>+</mo><mn>4</mn></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>4</mn><mrow><mi>m</mi><mo>+</mo><mn>3</mn></mrow></mfrac><mo>+</mo><mfrac><mn>3</mn><mrow><mi>m</mi><mo>+</mo><mn>4</mn></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.35",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167829719758",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators"
+      ],
+      "text": "Add: \\(\\frac{1}{{m}^{2}-m-2}+\\frac{5m}{{m}^{2}+3m+2}.\\)",
+      "math": [
+        "\\frac{1}{{m}^{2}-m-2}+\\frac{5m}{{m}^{2}+3m+2}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mrow><msup><mi>m</mi><mn>2</mn></msup><mo>−</mo><mi>m</mi><mo>−</mo><mn>2</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>5</mn><mi>m</mi></mrow><mrow><msup><mi>m</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>m</mi><mo>+</mo><mn>2</mn></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mrow><msup><mi>m</mi><mn>2</mn></msup><mo>−</mo><mi>m</mi><mo>−</mo><mn>2</mn></mrow></mfrac><mo>+</mo><mfrac><mrow><mn>5</mn><mi>m</mi></mrow><mrow><msup><mi>m</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>m</mi><mo>+</mo><mn>2</mn></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.36",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167824732931",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators"
+      ],
+      "text": "Add:\\(\\frac{2n}{{n}^{2}-3n-10}+\\frac{6}{{n}^{2}+5n+6}.\\)",
+      "math": [
+        "\\frac{2n}{{n}^{2}-3n-10}+\\frac{6}{{n}^{2}+5n+6}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mn>2</mn><mi>n</mi></mrow><mrow><msup><mi>n</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>n</mi><mo>−</mo><mn>10</mn></mrow></mfrac><mo>+</mo><mfrac><mn>6</mn><mrow><msup><mi>n</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mi>n</mi><mo>+</mo><mn>6</mn></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mn>2</mn><mi>n</mi></mrow><mrow><msup><mi>n</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>n</mi><mo>−</mo><mn>10</mn></mrow></mfrac><mo>+</mo><mfrac><mn>6</mn><mrow><msup><mi>n</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mi>n</mi><mo>+</mo><mn>6</mn></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.37",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167836732358",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators"
+      ],
+      "text": "Subtract: \\(\\frac{2x}{{x}^{2}-4}-\\frac{1}{x+2}.\\)",
+      "math": [
+        "\\frac{2x}{{x}^{2}-4}-\\frac{1}{x+2}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mn>2</mn><mi>x</mi></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn></mrow></mfrac><mo>−</mo><mfrac><mn>1</mn><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mn>2</mn><mi>x</mi></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn></mrow></mfrac><mo>−</mo><mfrac><mn>1</mn><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.38",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167829717026",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators"
+      ],
+      "text": "Subtract: \\(\\frac{3}{z+3}-\\frac{6z}{{z}^{2}-9}.\\)",
+      "math": [
+        "\\frac{3}{z+3}-\\frac{6z}{{z}^{2}-9}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>3</mn><mrow><mi>z</mi><mo>+</mo><mn>3</mn></mrow></mfrac><mo>−</mo><mfrac><mrow><mn>6</mn><mi>z</mi></mrow><mrow><msup><mi>z</mi><mn>2</mn></msup><mo>−</mo><mn>9</mn></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>3</mn><mrow><mi>z</mi><mo>+</mo><mn>3</mn></mrow></mfrac><mo>−</mo><mfrac><mrow><mn>6</mn><mi>z</mi></mrow><mrow><msup><mi>z</mi><mn>2</mn></msup><mo>−</mo><mn>9</mn></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.39",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167836611148",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators"
+      ],
+      "text": "Subtract :\\(\\frac{3x-1}{{x}^{2}-5x-6}-\\frac{2}{6-x}.\\)",
+      "math": [
+        "\\frac{3x-1}{{x}^{2}-5x-6}-\\frac{2}{6-x}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>x</mi><mo>−</mo><mn>6</mn></mrow></mfrac><mo>−</mo><mfrac><mn>2</mn><mrow><mn>6</mn><mo>−</mo><mi>x</mi></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>x</mi><mo>−</mo><mn>6</mn></mrow></mfrac><mo>−</mo><mfrac><mn>2</mn><mrow><mn>6</mn><mo>−</mo><mi>x</mi></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.40",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167833412704",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators"
+      ],
+      "text": "Subtract: \\(\\frac{-2y-2}{{y}^{2}+2y-8}-\\frac{y-1}{2-y}.\\)",
+      "math": [
+        "\\frac{-2y-2}{{y}^{2}+2y-8}-\\frac{y-1}{2-y}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mn>−2</mn><mi>y</mi><mo>−</mo><mn>2</mn></mrow><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>y</mi><mo>−</mo><mn>8</mn></mrow></mfrac><mo>−</mo><mfrac><mrow><mi>y</mi><mo>−</mo><mn>1</mn></mrow><mrow><mn>2</mn><mo>−</mo><mi>y</mi></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mn>−2</mn><mi>y</mi><mo>−</mo><mn>2</mn></mrow><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>y</mi><mo>−</mo><mn>8</mn></mrow></mfrac><mo>−</mo><mfrac><mrow><mi>y</mi><mo>−</mo><mn>1</mn></mrow><mrow><mn>2</mn><mo>−</mo><mi>y</mi></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.41",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167836612453",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators"
+      ],
+      "text": "Subtract: \\(\\frac{3}{{b}^{2}-4b-5}-\\frac{2}{{b}^{2}-6b+5}.\\)",
+      "math": [
+        "\\frac{3}{{b}^{2}-4b-5}-\\frac{2}{{b}^{2}-6b+5}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>3</mn><mrow><msup><mi>b</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>b</mi><mo>−</mo><mn>5</mn></mrow></mfrac><mo>−</mo><mfrac><mn>2</mn><mrow><msup><mi>b</mi><mn>2</mn></msup><mo>−</mo><mn>6</mn><mi>b</mi><mo>+</mo><mn>5</mn></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>3</mn><mrow><msup><mi>b</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>b</mi><mo>−</mo><mn>5</mn></mrow></mfrac><mo>−</mo><mfrac><mn>2</mn><mrow><msup><mi>b</mi><mn>2</mn></msup><mo>−</mo><mn>6</mn><mi>b</mi><mo>+</mo><mn>5</mn></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.42",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167836356000",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators"
+      ],
+      "text": "Subtract: \\(\\frac{4}{{x}^{2}-4}-\\frac{3}{{x}^{2}-x-2}.\\)",
+      "math": [
+        "\\frac{4}{{x}^{2}-4}-\\frac{3}{{x}^{2}-x-2}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>4</mn><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn></mrow></mfrac><mo>−</mo><mfrac><mn>3</mn><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mi>x</mi><mo>−</mo><mn>2</mn></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>4</mn><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn></mrow></mfrac><mo>−</mo><mfrac><mn>3</mn><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mi>x</mi><mo>−</mo><mn>2</mn></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.43",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167832945632",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators"
+      ],
+      "text": "Simplify: \\(\\frac{v}{v+1}+\\frac{3}{v-1}-\\frac{6}{{v}^{2}-1}.\\)",
+      "math": [
+        "\\frac{v}{v+1}+\\frac{3}{v-1}-\\frac{6}{{v}^{2}-1}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mi>v</mi><mrow><mi>v</mi><mo>+</mo><mn>1</mn></mrow></mfrac><mo>+</mo><mfrac><mn>3</mn><mrow><mi>v</mi><mo>−</mo><mn>1</mn></mrow></mfrac><mo>−</mo><mfrac><mn>6</mn><mrow><msup><mi>v</mi><mn>2</mn></msup><mo>−</mo><mn>1</mn></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mi>v</mi><mrow><mi>v</mi><mo>+</mo><mn>1</mn></mrow></mfrac><mo>+</mo><mfrac><mn>3</mn><mrow><mi>v</mi><mo>−</mo><mn>1</mn></mrow></mfrac><mo>−</mo><mfrac><mn>6</mn><mrow><msup><mi>v</mi><mn>2</mn></msup><mo>−</mo><mn>1</mn></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.44",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167836486350",
+      "context": [
+        "Add and Subtract Rational Expressions with Unlike Denominators"
+      ],
+      "text": "Simplify: \\(\\frac{3w}{w+2}+\\frac{2}{w+7}-\\frac{17w+4}{{w}^{2}+9w+14}.\\)",
+      "math": [
+        "\\frac{3w}{w+2}+\\frac{2}{w+7}-\\frac{17w+4}{{w}^{2}+9w+14}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mn>3</mn><mi>w</mi></mrow><mrow><mi>w</mi><mo>+</mo><mn>2</mn></mrow></mfrac><mo>+</mo><mfrac><mn>2</mn><mrow><mi>w</mi><mo>+</mo><mn>7</mn></mrow></mfrac><mo>−</mo><mfrac><mrow><mn>17</mn><mi>w</mi><mo>+</mo><mn>4</mn></mrow><mrow><msup><mi>w</mi><mn>2</mn></msup><mo>+</mo><mn>9</mn><mi>w</mi><mo>+</mo><mn>14</mn></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mn>3</mn><mi>w</mi></mrow><mrow><mi>w</mi><mo>+</mo><mn>2</mn></mrow></mfrac><mo>+</mo><mfrac><mn>2</mn><mrow><mi>w</mi><mo>+</mo><mn>7</mn></mrow></mfrac><mo>−</mo><mfrac><mrow><mn>17</mn><mi>w</mi><mo>+</mo><mn>4</mn></mrow><mrow><msup><mi>w</mi><mn>2</mn></msup><mo>+</mo><mn>9</mn><mi>w</mi><mo>+</mo><mn>14</mn></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.45",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167836295471",
+      "context": [
+        "Add and subtract rational functions"
+      ],
+      "text": "Find \\(R(x)=f(x)-g(x)\\) where \\(f(x)=\\frac{x+1}{x+3}\\) and \\(g(x)=\\frac{x+17}{{x}^{2}-x-12}.\\)",
+      "math": [
+        "R(x)=f(x)-g(x)",
+        "f(x)=\\frac{x+1}{x+3}",
+        "g(x)=\\frac{x+17}{{x}^{2}-x-12}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>R</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>−</mo><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>R</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>−</mo><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mi>x</mi><mo>+</mo><mn>17</mn></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mi>x</mi><mo>−</mo><mn>12</mn></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mi>x</mi><mo>+</mo><mn>17</mn></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mi>x</mi><mo>−</mo><mn>12</mn></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.46",
+      "page": "7-2-add-and-subtract-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167836534523",
+      "context": [
+        "Add and subtract rational functions"
+      ],
+      "text": "Find \\(R(x)=f(x)+g(x)\\) where \\(f(x)=\\frac{x-4}{x+3}\\) and \\(g(x)=\\frac{4x+6}{{x}^{2}-9}.\\)",
+      "math": [
+        "R(x)=f(x)+g(x)",
+        "f(x)=\\frac{x-4}{x+3}",
+        "g(x)=\\frac{4x+6}{{x}^{2}-9}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>R</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>+</mo><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>R</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>+</mo><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mi>x</mi><mo>−</mo><mn>4</mn></mrow><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mi>x</mi><mo>−</mo><mn>4</mn></mrow><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mn>6</mn></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>9</mn></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mn>6</mn></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>9</mn></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

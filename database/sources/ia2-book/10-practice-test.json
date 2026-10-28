@@ -1,0 +1,467 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/10-practice-test",
+  "title": "Practice Test",
+  "sha256": "d2fe840fea2afded7971c2b0d8e4abd578ae41a5c1f5a7c9d95c128c49e7b4de",
+  "questions": [
+    {
+      "number": 447,
+      "anchor": "fs-id1167833071683",
+      "page": "10-practice-test",
+      "context": [],
+      "text": "For the functions, \\(f(x)=6x+1\\) and \\(g(x)=8x-3,\\) find ⓐ \\((f∘g)(x),\\) ⓑ \\((g∘f)(x),\\) and ⓒ \\((f\\cdot g)(x).\\)",
+      "math": [
+        "f(x)=6x+1",
+        "g(x)=8x-3,",
+        "(f∘g)(x),",
+        "(g∘f)(x),",
+        "(f\\cdot g)(x)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>6</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>6</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>8</mn><mi>x</mi><mo>−</mo><mn>3</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>8</mn><mi>x</mi><mo>−</mo><mn>3</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mi>f</mi><mo>∘</mo><mi>g</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mi>f</mi><mo>∘</mo><mi>g</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mi>g</mi><mo>∘</mo><mi>f</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mi>g</mi><mo>∘</mo><mi>f</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mi>f</mi><mo>·</mo><mi>g</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mi>f</mi><mo>·</mo><mi>g</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 448,
+      "anchor": "fs-id1167829620952",
+      "page": "10-practice-test",
+      "context": [],
+      "text": "Determine if the following set of ordered pairs represents a function and if so, is the function one-to-one. \\({(-2,2),(-1,-3),(0,1),(1,-2),(2,-3)}\\)",
+      "math": [
+        "{(-2,2),(-1,-3),(0,1),(1,-2),(2,-3)}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow><mo>}</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow><mo>}</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 449,
+      "anchor": "fs-id1167836532824",
+      "page": "10-practice-test",
+      "context": [],
+      "text": "Determine whether each graph is the graph of a function and if so, is it one-to-one. ⓐ [FIGURA: This figure shows a parabola opening to the right with vertex (negative 3, 0).] ⓑ [FIGURA: This figure shows an exponential line passing through the points (negative 1, 1 over 2), (0, 1), and (1, 2).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure shows a parabola opening to the right with vertex (negative 3, 0).",
+        "This figure shows an exponential line passing through the points (negative 1, 1 over 2), (0, 1), and (1, 2)."
+      ]
+    },
+    {
+      "number": 450,
+      "anchor": "fs-id1167836554313",
+      "page": "10-practice-test",
+      "context": [],
+      "text": "Graph, on the same coordinate system, the inverse of the one-to-one function shown. [FIGURA: This figure shows a line segment passing from the point (negative 3, 3) to (negative 1, 2) to (0, negative 2) to (2, negative 4).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure shows a line segment passing from the point (negative 3, 3) to (negative 1, 2) to (0, negative 2) to (2, negative 4)."
+      ]
+    },
+    {
+      "number": 451,
+      "anchor": "fs-id1167829690415",
+      "page": "10-practice-test",
+      "context": [],
+      "text": "Find the inverse of the function \\(f(x)={x}^{5}-9.\\)",
+      "math": [
+        "f(x)={x}^{5}-9."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>5</mn></msup><mo>−</mo><mn>9</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>5</mn></msup><mo>−</mo><mn>9</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 452,
+      "anchor": "fs-id1167832940223",
+      "page": "10-practice-test",
+      "context": [],
+      "text": "Graph the function \\(g(x)={2}^{x-3}.\\)",
+      "math": [
+        "g(x)={2}^{x-3}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mn>2</mn><mrow><mi>x</mi><mo>−</mo><mn>3</mn></mrow></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mn>2</mn><mrow><mi>x</mi><mo>−</mo><mn>3</mn></mrow></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 453,
+      "anchor": "fs-id1167833135460",
+      "page": "10-practice-test",
+      "context": [],
+      "text": "Solve the equation \\({2}^{2x-4}=64.\\)",
+      "math": [
+        "{2}^{2x-4}=64."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mn>2</mn><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>4</mn></mrow></msup><mo>=</mo><mn>64</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mn>2</mn><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>4</mn></mrow></msup><mo>=</mo><mn>64</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 454,
+      "anchor": "fs-id1167833138613",
+      "page": "10-practice-test",
+      "context": [],
+      "text": "Solve the equation \\(\\frac{{e}^{{x}^{2}}}{{e}^{4}}={e}^{3x}.\\)",
+      "math": [
+        "\\frac{{e}^{{x}^{2}}}{{e}^{4}}={e}^{3x}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><msup><mi>e</mi><mrow><msup><mi>x</mi><mn>2</mn></msup></mrow></msup></mrow><mrow><msup><mi>e</mi><mn>4</mn></msup></mrow></mfrac><mo>=</mo><msup><mi>e</mi><mrow><mn>3</mn><mi>x</mi></mrow></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><msup><mi>e</mi><mrow><msup><mi>x</mi><mn>2</mn></msup></mrow></msup></mrow><mrow><msup><mi>e</mi><mn>4</mn></msup></mrow></mfrac><mo>=</mo><msup><mi>e</mi><mrow><mn>3</mn><mi>x</mi></mrow></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 455,
+      "anchor": "fs-id1167833381670",
+      "page": "10-practice-test",
+      "context": [],
+      "text": "Megan invested \\(\\$21,000\\) in a savings account. If the interest rate is \\(5%,\\) how much will be in the account in 8 years by each method of compounding?ⓐ compound quarterlyⓑ compound monthlyⓒ compound continuously.",
+      "math": [
+        "$21,000",
+        "5%,"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>$</mtext><mn>21,000</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>$</mtext><mn>21,000</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mtext>%</mtext><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mtext>%</mtext><mo>,</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 456,
+      "anchor": "fs-id1167836524806",
+      "page": "10-practice-test",
+      "context": [],
+      "text": "Convert the equation from exponential to logarithmic form: \\({10}^{-2}=\\frac{1}{100}.\\)",
+      "math": [
+        "{10}^{-2}=\\frac{1}{100}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>10</mn></mrow><mrow><mn>−2</mn></mrow></msup><mo>=</mo><mfrac><mn>1</mn><mrow><mn>100</mn></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>10</mn></mrow><mrow><mn>−2</mn></mrow></msup><mo>=</mo><mfrac><mn>1</mn><mrow><mn>100</mn></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 457,
+      "anchor": "fs-id1167825791231",
+      "page": "10-practice-test",
+      "context": [],
+      "text": "Convert the equation from logarithmic equation to exponential form: \\(3={log}_{7}343\\)",
+      "math": [
+        "3=\\log_{7}343"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mo>=</mo><msub><mrow><mtext>log</mtext></mrow><mn>7</mn></msub><mn>343</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mo>=</mo><msub><mrow><mtext>log</mtext></mrow><mn>7</mn></msub><mn>343</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 458,
+      "anchor": "fs-id1167836685014",
+      "page": "10-practice-test",
+      "context": [],
+      "text": "Solve for x: \\({log}_{5}x=-3\\)",
+      "math": [
+        "\\log_{5}x=-3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>5</mn></msub><mi>x</mi><mo>=</mo><mn>−3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>5</mn></msub><mi>x</mi><mo>=</mo><mn>−3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 459,
+      "anchor": "fs-id1167829715448",
+      "page": "10-practice-test",
+      "context": [],
+      "text": "Evaluate \\({log}_{11}1.\\)",
+      "math": [
+        "\\log_{11}1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mrow><mn>11</mn></mrow></msub><mn>1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mrow><mn>11</mn></mrow></msub><mn>1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 460,
+      "anchor": "fs-id1167832999594",
+      "page": "10-practice-test",
+      "context": [],
+      "text": "Evaluate \\({log}_{4}\\frac{1}{64}.\\)",
+      "math": [
+        "\\log_{4}\\frac{1}{64}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>4</mn></msub><mfrac><mn>1</mn><mrow><mn>64</mn></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>4</mn></msub><mfrac><mn>1</mn><mrow><mn>64</mn></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 461,
+      "anchor": "fs-id1167829696087",
+      "page": "10-practice-test",
+      "context": [],
+      "text": "Graph the function\\(y={log}_{3}x.\\)",
+      "math": [
+        "y=\\log_{3}x."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mi>x</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mi>x</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 462,
+      "anchor": "fs-id1167833202342",
+      "page": "10-practice-test",
+      "context": [],
+      "text": "Solve for x:\\(log({x}^{2}-39)=1\\)",
+      "math": [
+        "\\log({x}^{2}-39)=1"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>log</mtext><mo stretchy=\"false\">(</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>39</mn><mo stretchy=\"false\">)</mo><mo>=</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>log</mtext><mo stretchy=\"false\">(</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>39</mn><mo stretchy=\"false\">)</mo><mo>=</mo><mn>1</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 463,
+      "anchor": "fs-id1167833257748",
+      "page": "10-practice-test",
+      "context": [],
+      "text": "What is the decibel level of a small fan with intensity \\({10}^{-8}\\) watts per square inch?",
+      "math": [
+        "{10}^{-8}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>10</mn></mrow><mrow><mn>−8</mn></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>10</mn></mrow><mrow><mn>−8</mn></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 464,
+      "anchor": "fs-id1167829718224",
+      "page": "10-practice-test",
+      "context": [],
+      "text": "Evaluate each. ⓐ \\({6}^{{log}_{6}17}\\)ⓑ \\({log}_{9}{9}^{-3}\\)",
+      "math": [
+        "{6}^{\\log_{6}17}",
+        "\\log_{9}{9}^{-3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mn>6</mn><mrow><msub><mrow><mtext>log</mtext></mrow><mn>6</mn></msub><mn>17</mn></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mn>6</mn><mrow><msub><mrow><mtext>log</mtext></mrow><mn>6</mn></msub><mn>17</mn></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>9</mn></msub><msup><mn>9</mn><mrow><mn>−3</mn></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>9</mn></msub><msup><mn>9</mn><mrow><mn>−3</mn></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 465,
+      "anchor": "fs-id1167833020794",
+      "page": "10-practice-test",
+      "context": [
+        "In the following exercises, use properties of logarithms to write each expression as a sum of logarithms, simplifying if possible."
+      ],
+      "text": "\\({ log }_{5} 25 a b\\)",
+      "math": [
+        "\\log_{5} 25 a b"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mn>25</mn>\n          <mi>a</mi>\n          <mi>b</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mn>25</mn>\n          <mi>a</mi>\n          <mi>b</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 466,
+      "anchor": "fs-id1167826129204",
+      "page": "10-practice-test",
+      "context": [
+        "In the following exercises, use properties of logarithms to write each expression as a sum of logarithms, simplifying if possible."
+      ],
+      "text": "\\(ln \\frac{ {e}^{ 12 } }{8}\\)",
+      "math": [
+        "\\ln \\frac{ {e}^{ 12 } }{8}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>ln</mtext>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>e</mi>\n                <mrow>\n                  <mn>12</mn>\n                </mrow>\n              </msup>\n            </mrow>\n            <mn>8</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>ln</mtext>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>e</mi>\n                <mrow>\n                  <mn>12</mn>\n                </mrow>\n              </msup>\n            </mrow>\n            <mn>8</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 467,
+      "anchor": "fs-id1167829609082",
+      "page": "10-practice-test",
+      "context": [
+        "In the following exercises, use properties of logarithms to write each expression as a sum of logarithms, simplifying if possible."
+      ],
+      "text": "\\({ log }_{2} \\frac{ 5 {x}^{3} }{ 16 {y}^{2} {z}^{7} } 4\\)",
+      "math": [
+        "\\log_{2} \\sqrt[4]{ \\frac{ 5 {x}^{3} }{ 16 {y}^{2} {z}^{7} } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mroot>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <mn>5</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>3</mn>\n                  </msup>\n                </mrow>\n                <mrow>\n                  <mn>16</mn>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <msup>\n                    <mi>z</mi>\n                    <mn>7</mn>\n                  </msup>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mn>4</mn>\n          </mroot>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mroot>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <mn>5</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>3</mn>\n                  </msup>\n                </mrow>\n                <mrow>\n                  <mn>16</mn>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <msup>\n                    <mi>z</mi>\n                    <mn>7</mn>\n                  </msup>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mn>4</mn>\n          </mroot>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 468,
+      "anchor": "fs-id1167836495432",
+      "page": "10-practice-test",
+      "context": [
+        "In the following exercises, use properties of logarithms to write each expression as a sum of logarithms, simplifying if possible.",
+        "In the following exercises, use the Properties of Logarithms to condense the logarithm, simplifying if possible."
+      ],
+      "text": "\\(5 { log }_{4} x + 3 { log }_{4} y\\)",
+      "math": [
+        "5 \\log_{4} x + 3 \\log_{4} y"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>5</mn>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>4</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>4</mn>\n          </msub>\n          <mi>y</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>5</mn>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>4</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>4</mn>\n          </msub>\n          <mi>y</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 469,
+      "anchor": "fs-id1167829830396",
+      "page": "10-practice-test",
+      "context": [
+        "In the following exercises, use properties of logarithms to write each expression as a sum of logarithms, simplifying if possible.",
+        "In the following exercises, use the Properties of Logarithms to condense the logarithm, simplifying if possible."
+      ],
+      "text": "\\(\\frac{1}{6} log x - 3 log ( x + 5 )\\)",
+      "math": [
+        "\\frac{1}{6} \\log x - 3 \\log ( x + 5 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>6</mn>\n          </mfrac>\n          <mtext>log</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mtext>log</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>6</mn>\n          </mfrac>\n          <mtext>log</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mtext>log</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 470,
+      "anchor": "fs-id1167829909638",
+      "page": "10-practice-test",
+      "context": [
+        "In the following exercises, use properties of logarithms to write each expression as a sum of logarithms, simplifying if possible.",
+        "In the following exercises, use the Properties of Logarithms to condense the logarithm, simplifying if possible."
+      ],
+      "text": "Rounding to three decimal places, approximate \\({log}_{4}73.\\)",
+      "math": [
+        "\\log_{4}73."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>4</mn></msub><mn>73</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>4</mn></msub><mn>73</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 471,
+      "anchor": "fs-id1167829738760",
+      "page": "10-practice-test",
+      "context": [
+        "In the following exercises, use properties of logarithms to write each expression as a sum of logarithms, simplifying if possible.",
+        "In the following exercises, use the Properties of Logarithms to condense the logarithm, simplifying if possible."
+      ],
+      "text": "Solve for x:\\({log}_{7}(x+2)+{log}_{7}(x-3)={log}_{7}24\\)",
+      "math": [
+        "\\log_{7}(x+2)+\\log_{7}(x-3)=\\log_{7}24"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>7</mn></msub><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>+</mo><msub><mrow><mtext>log</mtext></mrow><mn>7</mn></msub><mo stretchy=\"false\">(</mo><mi>x</mi><mo>−</mo><mn>3</mn><mo stretchy=\"false\">)</mo><mo>=</mo><msub><mrow><mtext>log</mtext></mrow><mn>7</mn></msub><mn>24</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>7</mn></msub><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>+</mo><msub><mrow><mtext>log</mtext></mrow><mn>7</mn></msub><mo stretchy=\"false\">(</mo><mi>x</mi><mo>−</mo><mn>3</mn><mo stretchy=\"false\">)</mo><mo>=</mo><msub><mrow><mtext>log</mtext></mrow><mn>7</mn></msub><mn>24</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 472,
+      "anchor": "fs-id1167829650650",
+      "page": "10-practice-test",
+      "context": [
+        "In the following exercises, use the Properties of Logarithms to condense the logarithm, simplifying if possible.",
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places."
+      ],
+      "text": "\\({ ( \\frac{1}{5} ) }^{x} = 9\\)",
+      "math": [
+        "{ ( \\frac{1}{5} ) }^{x} = 9"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>5</mn>\n                  </mfrac>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mi>x</mi>\n          </msup>\n          <mo>=</mo>\n          <mn>9</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>5</mn>\n                  </mfrac>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mi>x</mi>\n          </msup>\n          <mo>=</mo>\n          <mn>9</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 473,
+      "anchor": "fs-id1167833239458",
+      "page": "10-practice-test",
+      "context": [
+        "In the following exercises, use the Properties of Logarithms to condense the logarithm, simplifying if possible.",
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places."
+      ],
+      "text": "\\(5 {e}^{ x - 4 } = 40\\)",
+      "math": [
+        "5 {e}^{ x - 4 } = 40"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>5</mn>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>40</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>5</mn>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>40</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 474,
+      "anchor": "fs-id1167826172057",
+      "page": "10-practice-test",
+      "context": [
+        "In the following exercises, use the Properties of Logarithms to condense the logarithm, simplifying if possible.",
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places."
+      ],
+      "text": "Jacob invests $14,000 in an account that compounds interest quarterly and earns \\(4%.\\) How long will it take for his money to double?",
+      "math": [
+        "4%."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mtext>%</mtext><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mtext>%</mtext><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 475,
+      "anchor": "fs-id1167833239517",
+      "page": "10-practice-test",
+      "context": [
+        "In the following exercises, use the Properties of Logarithms to condense the logarithm, simplifying if possible.",
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places."
+      ],
+      "text": "Researchers recorded that a certain bacteria population grew from 500 to 700 in 5 hours. At this rate of growth, how many bacteria will there be in 20 hours?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 476,
+      "anchor": "fs-id1167829893326",
+      "page": "10-practice-test",
+      "context": [
+        "In the following exercises, use the Properties of Logarithms to condense the logarithm, simplifying if possible.",
+        "In the following exercises, solve each exponential equation. Find the exact answer and then approximate it to three decimal places."
+      ],
+      "text": "A certain beetle population can double in 3 months \\((A=2{A}_{0}).\\) How long will it take for that beetle population to triple?",
+      "math": [
+        "(A=2{A}_{0})."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mi>A</mi><mo>=</mo><mn>2</mn><msub><mi>A</mi><mn>0</mn></msub></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mi>A</mi><mo>=</mo><mn>2</mn><msub><mi>A</mi><mn>0</mn></msub></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "practice": [],
+  "answers": {}
+}

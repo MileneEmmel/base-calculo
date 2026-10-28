@@ -1,0 +1,1942 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/10-3-evaluate-and-graph-logarithmic-functions",
+  "title": "10.3 Evaluate and Graph Logarithmic Functions",
+  "sha256": "ee3a31fee7a924b232062b7ebfe7512779a6716970384d56808ccc5be3db1ccf",
+  "questions": [
+    {
+      "number": 126,
+      "anchor": "fs-id1167835610117",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Convert Between Exponential and Logarithmic Form",
+        "In the following exercises, convert from exponential to logarithmic form."
+      ],
+      "text": "\\({4}^{2} = 16\\)",
+      "math": [
+        "{4}^{2} = 16"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mn>4</mn>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>16</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mn>4</mn>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>16</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 127,
+      "anchor": "fs-id1167835511476",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Convert Between Exponential and Logarithmic Form",
+        "In the following exercises, convert from exponential to logarithmic form."
+      ],
+      "text": "\\({2}^{5} = 32\\)",
+      "math": [
+        "{2}^{5} = 32"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mn>2</mn>\n            <mn>5</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>32</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mn>2</mn>\n            <mn>5</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>32</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 128,
+      "anchor": "fs-id1167835378536",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Convert Between Exponential and Logarithmic Form",
+        "In the following exercises, convert from exponential to logarithmic form."
+      ],
+      "text": "\\({3}^{3} = 27\\)",
+      "math": [
+        "{3}^{3} = 27"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mn>3</mn>\n            <mn>3</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>27</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mn>3</mn>\n            <mn>3</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>27</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 129,
+      "anchor": "fs-id1167826828342",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Convert Between Exponential and Logarithmic Form",
+        "In the following exercises, convert from exponential to logarithmic form."
+      ],
+      "text": "\\({5}^{3} = 125\\)",
+      "math": [
+        "{5}^{3} = 125"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mn>5</mn>\n            <mn>3</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>125</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mn>5</mn>\n            <mn>3</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>125</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 130,
+      "anchor": "fs-id1167830698573",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Convert Between Exponential and Logarithmic Form",
+        "In the following exercises, convert from exponential to logarithmic form."
+      ],
+      "text": "\\({ 10 }^{3} = 1000\\)",
+      "math": [
+        "{ 10 }^{3} = 1000"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mn>10</mn>\n            </mrow>\n            <mn>3</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>1000</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mn>10</mn>\n            </mrow>\n            <mn>3</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>1000</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 131,
+      "anchor": "fs-id1167826781041",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Convert Between Exponential and Logarithmic Form",
+        "In the following exercises, convert from exponential to logarithmic form."
+      ],
+      "text": "\\({ 10 }^{ -2 } = \\frac{1}{ 100 }\\)",
+      "math": [
+        "{ 10 }^{ -2 } = \\frac{1}{ 100 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mn>10</mn>\n            </mrow>\n            <mrow>\n              <mn>−2</mn>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>100</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mn>10</mn>\n            </mrow>\n            <mrow>\n              <mn>−2</mn>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>100</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 132,
+      "anchor": "fs-id1167831970028",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Convert Between Exponential and Logarithmic Form",
+        "In the following exercises, convert from exponential to logarithmic form."
+      ],
+      "text": "\\({x}^{ \\frac{1}{2} } = \\sqrt{3}\\)",
+      "math": [
+        "{x}^{ \\frac{1}{2} } = \\sqrt{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>2</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <msqrt>\n            <mn>3</mn>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>2</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <msqrt>\n            <mn>3</mn>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 133,
+      "anchor": "fs-id1167831872216",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Convert Between Exponential and Logarithmic Form",
+        "In the following exercises, convert from exponential to logarithmic form."
+      ],
+      "text": "\\({x}^{ \\frac{1}{3} } = 6 3\\)",
+      "math": [
+        "{x}^{ \\frac{1}{3} } = \\sqrt[3]{6}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mroot>\n            <mn>6</mn>\n            <mn>3</mn>\n          </mroot>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mroot>\n            <mn>6</mn>\n            <mn>3</mn>\n          </mroot>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 134,
+      "anchor": "fs-id1167832043157",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Convert Between Exponential and Logarithmic Form",
+        "In the following exercises, convert from exponential to logarithmic form."
+      ],
+      "text": "\\({ 32 }^{x} = 32 4\\)",
+      "math": [
+        "{ 32 }^{x} = \\sqrt[4]{ 32 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mn>32</mn>\n            </mrow>\n            <mi>x</mi>\n          </msup>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <mn>32</mn>\n            </mrow>\n            <mn>4</mn>\n          </mroot>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mn>32</mn>\n            </mrow>\n            <mi>x</mi>\n          </msup>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <mn>32</mn>\n            </mrow>\n            <mn>4</mn>\n          </mroot>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 135,
+      "anchor": "fs-id1167831081691",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Convert Between Exponential and Logarithmic Form",
+        "In the following exercises, convert from exponential to logarithmic form."
+      ],
+      "text": "\\({ 17 }^{x} = 17 5\\)",
+      "math": [
+        "{ 17 }^{x} = \\sqrt[5]{ 17 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mn>17</mn>\n            </mrow>\n            <mi>x</mi>\n          </msup>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <mn>17</mn>\n            </mrow>\n            <mn>5</mn>\n          </mroot>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mn>17</mn>\n            </mrow>\n            <mi>x</mi>\n          </msup>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <mn>17</mn>\n            </mrow>\n            <mn>5</mn>\n          </mroot>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 136,
+      "anchor": "fs-id1167835240982",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Convert Between Exponential and Logarithmic Form",
+        "In the following exercises, convert from exponential to logarithmic form."
+      ],
+      "text": "\\({ ( \\frac{1}{4} ) }^{2} = \\frac{1}{ 16 }\\)",
+      "math": [
+        "{ ( \\frac{1}{4} ) }^{2} = \\frac{1}{ 16 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>4</mn>\n                  </mfrac>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>4</mn>\n                  </mfrac>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 137,
+      "anchor": "fs-id1167835340501",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Convert Between Exponential and Logarithmic Form",
+        "In the following exercises, convert from exponential to logarithmic form."
+      ],
+      "text": "\\({ ( \\frac{1}{3} ) }^{4} = \\frac{1}{ 81 }\\)",
+      "math": [
+        "{ ( \\frac{1}{3} ) }^{4} = \\frac{1}{ 81 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>3</mn>\n                  </mfrac>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>4</mn>\n          </msup>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>81</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>3</mn>\n                  </mfrac>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>4</mn>\n          </msup>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>81</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 138,
+      "anchor": "fs-id1167828411027",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Convert Between Exponential and Logarithmic Form",
+        "In the following exercises, convert from exponential to logarithmic form."
+      ],
+      "text": "\\({3}^{ -2 } = \\frac{1}{9}\\)",
+      "math": [
+        "{3}^{ -2 } = \\frac{1}{9}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mn>3</mn>\n            <mrow>\n              <mn>−2</mn>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>9</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mn>3</mn>\n            <mrow>\n              <mn>−2</mn>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>9</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 139,
+      "anchor": "fs-id1167830865339",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Convert Between Exponential and Logarithmic Form",
+        "In the following exercises, convert from exponential to logarithmic form."
+      ],
+      "text": "\\({4}^{ -3 } = \\frac{1}{ 64 }\\)",
+      "math": [
+        "{4}^{ -3 } = \\frac{1}{ 64 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mn>4</mn>\n            <mrow>\n              <mn>−3</mn>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>64</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mn>4</mn>\n            <mrow>\n              <mn>−3</mn>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>64</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 140,
+      "anchor": "fs-id1167826799078",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Convert Between Exponential and Logarithmic Form",
+        "In the following exercises, convert from exponential to logarithmic form."
+      ],
+      "text": "\\({e}^{x} = 6\\)",
+      "math": [
+        "{e}^{x} = 6"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>e</mi>\n            <mi>x</mi>\n          </msup>\n          <mo>=</mo>\n          <mn>6</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>e</mi>\n            <mi>x</mi>\n          </msup>\n          <mo>=</mo>\n          <mn>6</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 141,
+      "anchor": "fs-id1167826997372",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Convert Between Exponential and Logarithmic Form",
+        "In the following exercises, convert from exponential to logarithmic form."
+      ],
+      "text": "\\({e}^{3} = x\\)",
+      "math": [
+        "{e}^{3} = x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>e</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>=</mo>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>e</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>=</mo>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 142,
+      "anchor": "fs-id1167831031381",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "In the following exercises, convert from exponential to logarithmic form.",
+        "In the following exercises, convert each logarithmic equation to exponential form."
+      ],
+      "text": "\\(3 = { log }_{4} 64\\)",
+      "math": [
+        "3 = \\log_{4} 64"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>4</mn>\n          </msub>\n          <mn>64</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>4</mn>\n          </msub>\n          <mn>64</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 143,
+      "anchor": "fs-id1167832152944",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "In the following exercises, convert from exponential to logarithmic form.",
+        "In the following exercises, convert each logarithmic equation to exponential form."
+      ],
+      "text": "\\(6 = { log }_{2} 64\\)",
+      "math": [
+        "6 = \\log_{2} 64"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>6</mn>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mn>64</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>6</mn>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mn>64</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 144,
+      "anchor": "fs-id1167834556107",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "In the following exercises, convert from exponential to logarithmic form.",
+        "In the following exercises, convert each logarithmic equation to exponential form."
+      ],
+      "text": "\\(4 = { log }_{x} 81\\)",
+      "math": [
+        "4 = \\log_{x} 81"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mi>x</mi>\n          </msub>\n          <mn>81</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mi>x</mi>\n          </msub>\n          <mn>81</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 145,
+      "anchor": "fs-id1167835351507",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "In the following exercises, convert from exponential to logarithmic form.",
+        "In the following exercises, convert each logarithmic equation to exponential form."
+      ],
+      "text": "\\(5 = { log }_{x} 32\\)",
+      "math": [
+        "5 = \\log_{x} 32"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>5</mn>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mi>x</mi>\n          </msub>\n          <mn>32</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>5</mn>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mi>x</mi>\n          </msub>\n          <mn>32</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 146,
+      "anchor": "fs-id1167835226504",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "In the following exercises, convert from exponential to logarithmic form.",
+        "In the following exercises, convert each logarithmic equation to exponential form."
+      ],
+      "text": "\\(0 = { log }_{ 12 } 1\\)",
+      "math": [
+        "0 = \\log_{ 12 } 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>0</mn>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mn>12</mn>\n            </mrow>\n          </msub>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>0</mn>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mn>12</mn>\n            </mrow>\n          </msub>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 147,
+      "anchor": "fs-id1167835510915",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "In the following exercises, convert from exponential to logarithmic form.",
+        "In the following exercises, convert each logarithmic equation to exponential form."
+      ],
+      "text": "\\(0 = { log }_{7} 1\\)",
+      "math": [
+        "0 = \\log_{7} 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>0</mn>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>7</mn>\n          </msub>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>0</mn>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>7</mn>\n          </msub>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 148,
+      "anchor": "fs-id1167835267509",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "In the following exercises, convert from exponential to logarithmic form.",
+        "In the following exercises, convert each logarithmic equation to exponential form."
+      ],
+      "text": "\\(1 = { log }_{3} 3\\)",
+      "math": [
+        "1 = \\log_{3} 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>1</mn>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>1</mn>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 149,
+      "anchor": "fs-id1167835336419",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "In the following exercises, convert from exponential to logarithmic form.",
+        "In the following exercises, convert each logarithmic equation to exponential form."
+      ],
+      "text": "\\(1 = { log }_{9} 9\\)",
+      "math": [
+        "1 = \\log_{9} 9"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>1</mn>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>9</mn>\n          </msub>\n          <mn>9</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>1</mn>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>9</mn>\n          </msub>\n          <mn>9</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 150,
+      "anchor": "fs-id1167828447059",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "In the following exercises, convert from exponential to logarithmic form.",
+        "In the following exercises, convert each logarithmic equation to exponential form."
+      ],
+      "text": "\\(-4 = { log }_{ 10 } \\frac{1}{ 10,000 }\\)",
+      "math": [
+        "-4 = \\log_{ 10 } \\frac{1}{ 10,000 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−4</mn>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mn>10</mn>\n            </mrow>\n          </msub>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>10,000</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−4</mn>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mn>10</mn>\n            </mrow>\n          </msub>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>10,000</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 151,
+      "anchor": "fs-id1167832212044",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "In the following exercises, convert from exponential to logarithmic form.",
+        "In the following exercises, convert each logarithmic equation to exponential form."
+      ],
+      "text": "\\(3 = { log }_{ 10 } 1,000\\)",
+      "math": [
+        "3 = \\log_{ 10 } 1,000"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mn>10</mn>\n            </mrow>\n          </msub>\n          <mn>1,000</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mn>10</mn>\n            </mrow>\n          </msub>\n          <mn>1,000</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 152,
+      "anchor": "fs-id1167834300253",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "In the following exercises, convert from exponential to logarithmic form.",
+        "In the following exercises, convert each logarithmic equation to exponential form."
+      ],
+      "text": "\\(5 = { log }_{e} x\\)",
+      "math": [
+        "5 = \\log_{e} x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>5</mn>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mi>e</mi>\n          </msub>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>5</mn>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mi>e</mi>\n          </msub>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 153,
+      "anchor": "fs-id1167832058780",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "In the following exercises, convert from exponential to logarithmic form.",
+        "In the following exercises, convert each logarithmic equation to exponential form."
+      ],
+      "text": "\\(x = { log }_{e} 43\\)",
+      "math": [
+        "x = \\log_{e} 43"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mi>e</mi>\n          </msub>\n          <mn>43</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mi>e</mi>\n          </msub>\n          <mn>43</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 154,
+      "anchor": "fs-id1167832123885",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Evaluate Logarithmic Functions",
+        "In the following exercises, find the value of \\(x\\) in each logarithmic equation."
+      ],
+      "text": "\\({ log }_{x} 49 = 2\\)",
+      "math": [
+        "\\log_{x} 49 = 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mi>x</mi>\n          </msub>\n          <mn>49</mn>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mi>x</mi>\n          </msub>\n          <mn>49</mn>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 155,
+      "anchor": "fs-id1167834063090",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Evaluate Logarithmic Functions",
+        "In the following exercises, find the value of \\(x\\) in each logarithmic equation."
+      ],
+      "text": "\\({ log }_{x} 121 = 2\\)",
+      "math": [
+        "\\log_{x} 121 = 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mi>x</mi>\n          </msub>\n          <mn>121</mn>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mi>x</mi>\n          </msub>\n          <mn>121</mn>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 156,
+      "anchor": "fs-id1167832058679",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Evaluate Logarithmic Functions",
+        "In the following exercises, find the value of \\(x\\) in each logarithmic equation."
+      ],
+      "text": "\\({ log }_{x} 27 = 3\\)",
+      "math": [
+        "\\log_{x} 27 = 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mi>x</mi>\n          </msub>\n          <mn>27</mn>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mi>x</mi>\n          </msub>\n          <mn>27</mn>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 157,
+      "anchor": "fs-id1167826799348",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Evaluate Logarithmic Functions",
+        "In the following exercises, find the value of \\(x\\) in each logarithmic equation."
+      ],
+      "text": "\\({ log }_{x} 64 = 3\\)",
+      "math": [
+        "\\log_{x} 64 = 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mi>x</mi>\n          </msub>\n          <mn>64</mn>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mi>x</mi>\n          </msub>\n          <mn>64</mn>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 158,
+      "anchor": "fs-id1167835350317",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Evaluate Logarithmic Functions",
+        "In the following exercises, find the value of \\(x\\) in each logarithmic equation."
+      ],
+      "text": "\\({ log }_{3} x = 4\\)",
+      "math": [
+        "\\log_{3} x = 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 159,
+      "anchor": "fs-id1167835375306",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Evaluate Logarithmic Functions",
+        "In the following exercises, find the value of \\(x\\) in each logarithmic equation."
+      ],
+      "text": "\\({ log }_{5} x = 3\\)",
+      "math": [
+        "\\log_{5} x = 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 160,
+      "anchor": "fs-id1167835236219",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Evaluate Logarithmic Functions",
+        "In the following exercises, find the value of \\(x\\) in each logarithmic equation."
+      ],
+      "text": "\\({ log }_{2} x = -6\\)",
+      "math": [
+        "\\log_{2} x = -6"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>−6</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>−6</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 161,
+      "anchor": "fs-id1167830914861",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Evaluate Logarithmic Functions",
+        "In the following exercises, find the value of \\(x\\) in each logarithmic equation."
+      ],
+      "text": "\\({ log }_{3} x = -5\\)",
+      "math": [
+        "\\log_{3} x = -5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>−5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>−5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 162,
+      "anchor": "fs-id1167835258321",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Evaluate Logarithmic Functions",
+        "In the following exercises, find the value of \\(x\\) in each logarithmic equation."
+      ],
+      "text": "\\({ log }_{ \\frac{1}{4} } \\frac{1}{ 16 } = x\\)",
+      "math": [
+        "\\log_{ \\frac{1}{4} } \\frac{1}{ 16 } = x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>4</mn>\n              </mfrac>\n            </mrow>\n          </msub>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>4</mn>\n              </mfrac>\n            </mrow>\n          </msub>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>=</mo>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 163,
+      "anchor": "fs-id1167835420083",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Evaluate Logarithmic Functions",
+        "In the following exercises, find the value of \\(x\\) in each logarithmic equation."
+      ],
+      "text": "\\({ log }_{ \\frac{1}{3} } \\frac{1}{9} = x\\)",
+      "math": [
+        "\\log_{ \\frac{1}{3} } \\frac{1}{9} = x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msub>\n          <mfrac>\n            <mn>1</mn>\n            <mn>9</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msub>\n          <mfrac>\n            <mn>1</mn>\n            <mn>9</mn>\n          </mfrac>\n          <mo>=</mo>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 164,
+      "anchor": "fs-id1167831882568",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Evaluate Logarithmic Functions",
+        "In the following exercises, find the value of \\(x\\) in each logarithmic equation."
+      ],
+      "text": "\\({ log }_{ \\frac{1}{4} } 64 = x\\)",
+      "math": [
+        "\\log_{ \\frac{1}{4} } 64 = x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>4</mn>\n              </mfrac>\n            </mrow>\n          </msub>\n          <mn>64</mn>\n          <mo>=</mo>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>4</mn>\n              </mfrac>\n            </mrow>\n          </msub>\n          <mn>64</mn>\n          <mo>=</mo>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 165,
+      "anchor": "fs-id1167831115372",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Evaluate Logarithmic Functions",
+        "In the following exercises, find the value of \\(x\\) in each logarithmic equation."
+      ],
+      "text": "\\({ log }_{ \\frac{1}{9} } 81 = x\\)",
+      "math": [
+        "\\log_{ \\frac{1}{9} } 81 = x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>9</mn>\n              </mfrac>\n            </mrow>\n          </msub>\n          <mn>81</mn>\n          <mo>=</mo>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>9</mn>\n              </mfrac>\n            </mrow>\n          </msub>\n          <mn>81</mn>\n          <mo>=</mo>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 166,
+      "anchor": "fs-id1167831881072",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "In the following exercises, find the value of \\(x\\) in each logarithmic equation.",
+        "In the following exercises, find the exact value of each logarithm without using a calculator."
+      ],
+      "text": "\\({ log }_{7} 49\\)",
+      "math": [
+        "\\log_{7} 49"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>7</mn>\n          </msub>\n          <mn>49</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>7</mn>\n          </msub>\n          <mn>49</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 167,
+      "anchor": "fs-id1167834184863",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "In the following exercises, find the value of \\(x\\) in each logarithmic equation.",
+        "In the following exercises, find the exact value of each logarithm without using a calculator."
+      ],
+      "text": "\\({ log }_{6} 36\\)",
+      "math": [
+        "\\log_{6} 36"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>6</mn>\n          </msub>\n          <mn>36</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>6</mn>\n          </msub>\n          <mn>36</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 168,
+      "anchor": "fs-id1167835356037",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "In the following exercises, find the value of \\(x\\) in each logarithmic equation.",
+        "In the following exercises, find the exact value of each logarithm without using a calculator."
+      ],
+      "text": "\\({ log }_{4} 1\\)",
+      "math": [
+        "\\log_{4} 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>4</mn>\n          </msub>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>4</mn>\n          </msub>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 169,
+      "anchor": "fs-id1167835339780",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "In the following exercises, find the value of \\(x\\) in each logarithmic equation.",
+        "In the following exercises, find the exact value of each logarithm without using a calculator."
+      ],
+      "text": "\\({ log }_{5} 1\\)",
+      "math": [
+        "\\log_{5} 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>5</mn>\n          </msub>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 170,
+      "anchor": "fs-id1167835200134",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "In the following exercises, find the value of \\(x\\) in each logarithmic equation.",
+        "In the following exercises, find the exact value of each logarithm without using a calculator."
+      ],
+      "text": "\\({ log }_{ 16 } 4\\)",
+      "math": [
+        "\\log_{ 16 } 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </msub>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </msub>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 171,
+      "anchor": "fs-id1167834556258",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "In the following exercises, find the value of \\(x\\) in each logarithmic equation.",
+        "In the following exercises, find the exact value of each logarithm without using a calculator."
+      ],
+      "text": "\\({ log }_{ 27 } 3\\)",
+      "math": [
+        "\\log_{ 27 } 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mn>27</mn>\n            </mrow>\n          </msub>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mn>27</mn>\n            </mrow>\n          </msub>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 172,
+      "anchor": "fs-id1167826779062",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "In the following exercises, find the value of \\(x\\) in each logarithmic equation.",
+        "In the following exercises, find the exact value of each logarithm without using a calculator."
+      ],
+      "text": "\\({ log }_{ \\frac{1}{2} } 2\\)",
+      "math": [
+        "\\log_{ \\frac{1}{2} } 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>2</mn>\n              </mfrac>\n            </mrow>\n          </msub>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>2</mn>\n              </mfrac>\n            </mrow>\n          </msub>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 173,
+      "anchor": "fs-id1167834536087",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "In the following exercises, find the value of \\(x\\) in each logarithmic equation.",
+        "In the following exercises, find the exact value of each logarithm without using a calculator."
+      ],
+      "text": "\\({ log }_{ \\frac{1}{2} } 4\\)",
+      "math": [
+        "\\log_{ \\frac{1}{2} } 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>2</mn>\n              </mfrac>\n            </mrow>\n          </msub>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>2</mn>\n              </mfrac>\n            </mrow>\n          </msub>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 174,
+      "anchor": "fs-id1167835513008",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "In the following exercises, find the value of \\(x\\) in each logarithmic equation.",
+        "In the following exercises, find the exact value of each logarithm without using a calculator."
+      ],
+      "text": "\\({ log }_{2} \\frac{1}{ 16 }\\)",
+      "math": [
+        "\\log_{2} \\frac{1}{ 16 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 175,
+      "anchor": "fs-id1167832041687",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "In the following exercises, find the value of \\(x\\) in each logarithmic equation.",
+        "In the following exercises, find the exact value of each logarithm without using a calculator."
+      ],
+      "text": "\\({ log }_{3} \\frac{1}{ 27 }\\)",
+      "math": [
+        "\\log_{3} \\frac{1}{ 27 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>27</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>27</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 176,
+      "anchor": "fs-id1167831969720",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "In the following exercises, find the value of \\(x\\) in each logarithmic equation.",
+        "In the following exercises, find the exact value of each logarithm without using a calculator."
+      ],
+      "text": "\\({ log }_{4} \\frac{1}{ 16 }\\)",
+      "math": [
+        "\\log_{4} \\frac{1}{ 16 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>4</mn>\n          </msub>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>4</mn>\n          </msub>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 177,
+      "anchor": "fs-id1167834195940",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "In the following exercises, find the value of \\(x\\) in each logarithmic equation.",
+        "In the following exercises, find the exact value of each logarithm without using a calculator."
+      ],
+      "text": "\\({ log }_{9} \\frac{1}{ 81 }\\)",
+      "math": [
+        "\\log_{9} \\frac{1}{ 81 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>9</mn>\n          </msub>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>81</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>9</mn>\n          </msub>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>81</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 178,
+      "anchor": "fs-id1167835529370",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Graph Logarithmic Functions",
+        "In the following exercises, graph each logarithmic function."
+      ],
+      "text": "\\(y = { log }_{2} x\\)",
+      "math": [
+        "y = \\log_{2} x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 179,
+      "anchor": "fs-id1167835377701",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Graph Logarithmic Functions",
+        "In the following exercises, graph each logarithmic function."
+      ],
+      "text": "\\(y = { log }_{4} x\\)",
+      "math": [
+        "y = \\log_{4} x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>4</mn>\n          </msub>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>4</mn>\n          </msub>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 180,
+      "anchor": "fs-id1167826802368",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Graph Logarithmic Functions",
+        "In the following exercises, graph each logarithmic function."
+      ],
+      "text": "\\(y = { log }_{6} x\\)",
+      "math": [
+        "y = \\log_{6} x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>6</mn>\n          </msub>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>6</mn>\n          </msub>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 181,
+      "anchor": "fs-id1167826997598",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Graph Logarithmic Functions",
+        "In the following exercises, graph each logarithmic function."
+      ],
+      "text": "\\(y = { log }_{7} x\\)",
+      "math": [
+        "y = \\log_{7} x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>7</mn>\n          </msub>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>7</mn>\n          </msub>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 182,
+      "anchor": "fs-id1167831920466",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Graph Logarithmic Functions",
+        "In the following exercises, graph each logarithmic function."
+      ],
+      "text": "\\(y = { log }_{ 1.5 } x\\)",
+      "math": [
+        "y = \\log_{ 1.5 } x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mn>1.5</mn>\n            </mrow>\n          </msub>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mn>1.5</mn>\n            </mrow>\n          </msub>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 183,
+      "anchor": "fs-id1167826864301",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Graph Logarithmic Functions",
+        "In the following exercises, graph each logarithmic function."
+      ],
+      "text": "\\(y = { log }_{ 2.5 } x\\)",
+      "math": [
+        "y = \\log_{ 2.5 } x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mn>2.5</mn>\n            </mrow>\n          </msub>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mn>2.5</mn>\n            </mrow>\n          </msub>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 184,
+      "anchor": "fs-id1167834120868",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Graph Logarithmic Functions",
+        "In the following exercises, graph each logarithmic function."
+      ],
+      "text": "\\(y = { log }_{ \\frac{1}{3} } x\\)",
+      "math": [
+        "y = \\log_{ \\frac{1}{3} } x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msub>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msub>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 185,
+      "anchor": "fs-id1167835229537",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Graph Logarithmic Functions",
+        "In the following exercises, graph each logarithmic function."
+      ],
+      "text": "\\(y = { log }_{ \\frac{1}{5} } x\\)",
+      "math": [
+        "y = \\log_{ \\frac{1}{5} } x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>5</mn>\n              </mfrac>\n            </mrow>\n          </msub>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>5</mn>\n              </mfrac>\n            </mrow>\n          </msub>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 186,
+      "anchor": "fs-id1167835287628",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Graph Logarithmic Functions",
+        "In the following exercises, graph each logarithmic function."
+      ],
+      "text": "\\(y = { log }_{ 0.4 } x\\)",
+      "math": [
+        "y = \\log_{ 0.4 } x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mn>0.4</mn>\n            </mrow>\n          </msub>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mn>0.4</mn>\n            </mrow>\n          </msub>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 187,
+      "anchor": "fs-id1167834395367",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Graph Logarithmic Functions",
+        "In the following exercises, graph each logarithmic function."
+      ],
+      "text": "\\(y = { log }_{ 0.6 } x\\)",
+      "math": [
+        "y = \\log_{ 0.6 } x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mn>0.6</mn>\n            </mrow>\n          </msub>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mrow>\n              <mn>0.6</mn>\n            </mrow>\n          </msub>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 188,
+      "anchor": "fs-id1167826998246",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Solve Logarithmic Equations",
+        "In the following exercises, solve each logarithmic equation."
+      ],
+      "text": "\\({ log }_{a} 16 = 2\\)",
+      "math": [
+        "\\log_{a} 16 = 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mi>a</mi>\n          </msub>\n          <mn>16</mn>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mi>a</mi>\n          </msub>\n          <mn>16</mn>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 189,
+      "anchor": "fs-id1167835337605",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Solve Logarithmic Equations",
+        "In the following exercises, solve each logarithmic equation."
+      ],
+      "text": "\\({ log }_{a} 81 = 2\\)",
+      "math": [
+        "\\log_{a} 81 = 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mi>a</mi>\n          </msub>\n          <mn>81</mn>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mi>a</mi>\n          </msub>\n          <mn>81</mn>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 190,
+      "anchor": "fs-id1167835354040",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Solve Logarithmic Equations",
+        "In the following exercises, solve each logarithmic equation."
+      ],
+      "text": "\\({ log }_{a} 8 = 3\\)",
+      "math": [
+        "\\log_{a} 8 = 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mi>a</mi>\n          </msub>\n          <mn>8</mn>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mi>a</mi>\n          </msub>\n          <mn>8</mn>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 191,
+      "anchor": "fs-id1167835518006",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Solve Logarithmic Equations",
+        "In the following exercises, solve each logarithmic equation."
+      ],
+      "text": "\\({ log }_{a} 27 = 3\\)",
+      "math": [
+        "\\log_{a} 27 = 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mi>a</mi>\n          </msub>\n          <mn>27</mn>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mi>a</mi>\n          </msub>\n          <mn>27</mn>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 192,
+      "anchor": "fs-id1167826864437",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Solve Logarithmic Equations",
+        "In the following exercises, solve each logarithmic equation."
+      ],
+      "text": "\\({ log }_{a} 32 = 2\\)",
+      "math": [
+        "\\log_{a} 32 = 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mi>a</mi>\n          </msub>\n          <mn>32</mn>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mi>a</mi>\n          </msub>\n          <mn>32</mn>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 193,
+      "anchor": "fs-id1167827164772",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Solve Logarithmic Equations",
+        "In the following exercises, solve each logarithmic equation."
+      ],
+      "text": "\\({ log }_{a} 24 = 3\\)",
+      "math": [
+        "\\log_{a} 24 = 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mi>a</mi>\n          </msub>\n          <mn>24</mn>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mi>a</mi>\n          </msub>\n          <mn>24</mn>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 194,
+      "anchor": "fs-id1167832067469",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Solve Logarithmic Equations",
+        "In the following exercises, solve each logarithmic equation."
+      ],
+      "text": "\\(ln x = 5\\)",
+      "math": [
+        "\\ln x = 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>ln</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>ln</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 195,
+      "anchor": "fs-id1167827966785",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Solve Logarithmic Equations",
+        "In the following exercises, solve each logarithmic equation."
+      ],
+      "text": "\\(ln x = 4\\)",
+      "math": [
+        "\\ln x = 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>ln</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>ln</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 196,
+      "anchor": "fs-id1167826938241",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Solve Logarithmic Equations",
+        "In the following exercises, solve each logarithmic equation."
+      ],
+      "text": "\\({ log }_{2} ( 5 x + 1 ) = 4\\)",
+      "math": [
+        "\\log_{2} ( 5 x + 1 ) = 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 197,
+      "anchor": "fs-id1167831887569",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Solve Logarithmic Equations",
+        "In the following exercises, solve each logarithmic equation."
+      ],
+      "text": "\\({ log }_{2} ( 6 x + 2 ) = 5\\)",
+      "math": [
+        "\\log_{2} ( 6 x + 2 ) = 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>6</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>6</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 198,
+      "anchor": "fs-id1167834300196",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Solve Logarithmic Equations",
+        "In the following exercises, solve each logarithmic equation."
+      ],
+      "text": "\\({ log }_{3} ( 4 x - 3 ) = 2\\)",
+      "math": [
+        "\\log_{3} ( 4 x - 3 ) = 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 199,
+      "anchor": "fs-id1167834448631",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Solve Logarithmic Equations",
+        "In the following exercises, solve each logarithmic equation."
+      ],
+      "text": "\\({ log }_{3} ( 5 x - 4 ) = 4\\)",
+      "math": [
+        "\\log_{3} ( 5 x - 4 ) = 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 200,
+      "anchor": "fs-id1167831882391",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Solve Logarithmic Equations",
+        "In the following exercises, solve each logarithmic equation."
+      ],
+      "text": "\\({ log }_{4} ( 5 x + 6 ) = 3\\)",
+      "math": [
+        "\\log_{4} ( 5 x + 6 ) = 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>4</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>4</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 201,
+      "anchor": "fs-id1167826967436",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Solve Logarithmic Equations",
+        "In the following exercises, solve each logarithmic equation."
+      ],
+      "text": "\\({ log }_{4} ( 3 x - 2 ) = 2\\)",
+      "math": [
+        "\\log_{4} ( 3 x - 2 ) = 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>4</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>4</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 202,
+      "anchor": "fs-id1167835303330",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Solve Logarithmic Equations",
+        "In the following exercises, solve each logarithmic equation."
+      ],
+      "text": "\\(ln {e}^{ 4 x } = 8\\)",
+      "math": [
+        "\\ln {e}^{ 4 x } = 8"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>ln</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>8</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>ln</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>8</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 203,
+      "anchor": "fs-id1167834438873",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Solve Logarithmic Equations",
+        "In the following exercises, solve each logarithmic equation."
+      ],
+      "text": "\\(ln {e}^{ 2 x } = 6\\)",
+      "math": [
+        "\\ln {e}^{ 2 x } = 6"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>ln</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>6</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>ln</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <msup>\n            <mi>e</mi>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n            </mrow>\n          </msup>\n          <mo>=</mo>\n          <mn>6</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 204,
+      "anchor": "fs-id1167834429288",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Solve Logarithmic Equations",
+        "In the following exercises, solve each logarithmic equation."
+      ],
+      "text": "\\(log {x}^{2} = 2\\)",
+      "math": [
+        "\\log {x}^{2} = 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>log</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>log</mtext>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 205,
+      "anchor": "fs-id1167834539458",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Solve Logarithmic Equations",
+        "In the following exercises, solve each logarithmic equation."
+      ],
+      "text": "\\(log ( {x}^{2} - 25 ) = 2\\)",
+      "math": [
+        "\\log ( {x}^{2} - 25 ) = 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>log</mtext>\n          <mo stretchy=\"false\">(</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>25</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>log</mtext>\n          <mo stretchy=\"false\">(</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>25</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 206,
+      "anchor": "fs-id1167830837484",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Solve Logarithmic Equations",
+        "In the following exercises, solve each logarithmic equation."
+      ],
+      "text": "\\({ log }_{2} ( {x}^{2} - 4 ) = 5\\)",
+      "math": [
+        "\\log_{2} ( {x}^{2} - 4 ) = 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>2</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 207,
+      "anchor": "fs-id1167828411060",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Solve Logarithmic Equations",
+        "In the following exercises, solve each logarithmic equation."
+      ],
+      "text": "\\({ log }_{3} ( {x}^{2} + 2 ) = 3\\)",
+      "math": [
+        "\\log_{3} ( {x}^{2} + 2 ) = 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mrow>\n              <mtext>log</mtext>\n            </mrow>\n            <mn>3</mn>\n          </msub>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 208,
+      "anchor": "fs-id1167832058628",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Use Logarithmic Models in Applications",
+        "In the following exercises, use a logarithmic model to solve."
+      ],
+      "text": "What is the decibel level of normal conversation with intensity \\({10}^{-6}\\) watts per square inch?",
+      "math": [
+        "{10}^{-6}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>10</mn></mrow><mrow><mn>−6</mn></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>10</mn></mrow><mrow><mn>−6</mn></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 209,
+      "anchor": "fs-id1167826874702",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Use Logarithmic Models in Applications",
+        "In the following exercises, use a logarithmic model to solve."
+      ],
+      "text": "What is the decibel level of a whisper with intensity \\({10}^{-10}\\) watts per square inch?",
+      "math": [
+        "{10}^{-10}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>10</mn></mrow><mrow><mn>−10</mn></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>10</mn></mrow><mrow><mn>−10</mn></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 210,
+      "anchor": "fs-id1167835390201",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Use Logarithmic Models in Applications",
+        "In the following exercises, use a logarithmic model to solve."
+      ],
+      "text": "What is the decibel level of the noise from a motorcycle with intensity \\({10}^{-2}\\) watts per square inch?",
+      "math": [
+        "{10}^{-2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>10</mn></mrow><mrow><mn>−2</mn></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>10</mn></mrow><mrow><mn>−2</mn></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 211,
+      "anchor": "fs-id1167830866003",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Use Logarithmic Models in Applications",
+        "In the following exercises, use a logarithmic model to solve."
+      ],
+      "text": "What is the decibel level of the sound of a garbage disposal with intensity \\({10}^{-2}\\) watts per square inch?",
+      "math": [
+        "{10}^{-2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>10</mn></mrow><mrow><mn>−2</mn></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>10</mn></mrow><mrow><mn>−2</mn></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 212,
+      "anchor": "fs-id1167835377638",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Use Logarithmic Models in Applications",
+        "In the following exercises, use a logarithmic model to solve."
+      ],
+      "text": "In 2014, Chile experienced an intense earthquake with a magnitude of \\(8.2\\) on the Richter scale. In 2010, Haiti also experienced an intense earthquake which measured \\(7.0\\) on the Richter scale. Compare the intensities of the two earthquakes.",
+      "math": [
+        "8.2",
+        "7.0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>8.2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>8.2</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>7.0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>7.0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 213,
+      "anchor": "fs-id1167834188881",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Use Logarithmic Models in Applications",
+        "In the following exercises, use a logarithmic model to solve."
+      ],
+      "text": "The Los Angeles area experiences many earthquakes. In 1994, the Northridge earthquake measured magnitude of \\(6.7\\) on the Richter scale. In 2014, Los Angeles also experienced an earthquake which measured \\(5.1\\) on the Richter scale. Compare the intensities of the two earthquakes.",
+      "math": [
+        "6.7",
+        "5.1"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>6.7</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>6.7</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5.1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5.1</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 214,
+      "anchor": "fs-id1167831881048",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain how to change an equation from logarithmic form to exponential form.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 215,
+      "anchor": "fs-id1167835324862",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain the difference between common logarithms and natural logarithms.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 216,
+      "anchor": "fs-id1167835524540",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain why \\({log}_{a}{a}^{x}=x.\\)",
+      "math": [
+        "\\log_{a}{a}^{x}=x."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mi>a</mi></msub><msup><mi>a</mi><mi>x</mi></msup><mo>=</mo><mi>x</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mi>a</mi></msub><msup><mi>a</mi><mi>x</mi></msup><mo>=</mo><mi>x</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 217,
+      "anchor": "fs-id1167831895106",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain how to find the \\({log}_{7}32\\) on your calculator.",
+      "math": [
+        "\\log_{7}32"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>7</mn></msub><mn>32</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>7</mn></msub><mn>32</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "10.35",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167830703207",
+      "context": [
+        "Convert Between Exponential and Logarithmic Form"
+      ],
+      "text": "Convert to logarithmic form: ⓐ \\({3}^{2}=9\\) ⓑ \\({7}^{\\frac{1}{2}}=\\sqrt{7}\\) ⓒ \\({(\\frac{1}{3})}^{x}=\\frac{1}{27}\\)",
+      "math": [
+        "{3}^{2}=9",
+        "{7}^{\\frac{1}{2}}=\\sqrt{7}",
+        "{(\\frac{1}{3})}^{x}=\\frac{1}{27}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mn>3</mn><mn>2</mn></msup><mo>=</mo><mn>9</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mn>3</mn><mn>2</mn></msup><mo>=</mo><mn>9</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mn>7</mn><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup><mo>=</mo><msqrt><mn>7</mn></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mn>7</mn><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup><mo>=</mo><msqrt><mn>7</mn></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow><mo>)</mo></mrow></mrow><mi>x</mi></msup><mo>=</mo><mfrac><mn>1</mn><mrow><mn>27</mn></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow><mo>)</mo></mrow></mrow><mi>x</mi></msup><mo>=</mo><mfrac><mn>1</mn><mrow><mn>27</mn></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.36",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167835347825",
+      "context": [
+        "Convert Between Exponential and Logarithmic Form"
+      ],
+      "text": "Convert to logarithmic form: ⓐ \\({4}^{3}=64\\) ⓑ \\({4}^{\\frac{1}{3}}=43\\) ⓒ \\({(\\frac{1}{2})}^{x}=\\frac{1}{32}\\)",
+      "math": [
+        "{4}^{3}=64",
+        "{4}^{\\frac{1}{3}}=\\sqrt[3]{4}",
+        "{(\\frac{1}{2})}^{x}=\\frac{1}{32}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mn>4</mn><mn>3</mn></msup><mo>=</mo><mn>64</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mn>4</mn><mn>3</mn></msup><mo>=</mo><mn>64</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mn>4</mn><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup><mo>=</mo><mroot><mn>4</mn><mn>3</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mn>4</mn><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msup><mo>=</mo><mroot><mn>4</mn><mn>3</mn></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow><mo>)</mo></mrow></mrow><mi>x</mi></msup><mo>=</mo><mfrac><mn>1</mn><mrow><mn>32</mn></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow><mo>)</mo></mrow></mrow><mi>x</mi></msup><mo>=</mo><mfrac><mn>1</mn><mrow><mn>32</mn></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.37",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167835530849",
+      "context": [
+        "Convert Between Exponential and Logarithmic Form"
+      ],
+      "text": "Convert to exponential form: ⓐ \\(3={log}_{4}64\\) ⓑ \\(0={log}_{x}1\\) ⓒ \\(-2={log}_{10}\\frac{1}{100}\\)",
+      "math": [
+        "3=\\log_{4}64",
+        "0=\\log_{x}1",
+        "-2=\\log_{10}\\frac{1}{100}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mo>=</mo><msub><mrow><mtext>log</mtext></mrow><mn>4</mn></msub><mn>64</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mo>=</mo><msub><mrow><mtext>log</mtext></mrow><mn>4</mn></msub><mn>64</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>0</mn><mo>=</mo><msub><mrow><mtext>log</mtext></mrow><mi>x</mi></msub><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>0</mn><mo>=</mo><msub><mrow><mtext>log</mtext></mrow><mi>x</mi></msub><mn>1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−2</mn><mo>=</mo><msub><mrow><mtext>log</mtext></mrow><mrow><mn>10</mn></mrow></msub><mfrac><mn>1</mn><mrow><mn>100</mn></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−2</mn><mo>=</mo><msub><mrow><mtext>log</mtext></mrow><mrow><mn>10</mn></mrow></msub><mfrac><mn>1</mn><mrow><mn>100</mn></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.38",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167834188763",
+      "context": [
+        "Convert Between Exponential and Logarithmic Form"
+      ],
+      "text": "Convert to exponential form: ⓐ \\(3={log}_{3}27\\) ⓑ \\(0={log}_{3}1\\) ⓒ \\(-1={log}_{10}\\frac{1}{10}\\)",
+      "math": [
+        "3=\\log_{3}27",
+        "0=\\log_{3}1",
+        "-1=\\log_{10}\\frac{1}{10}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mo>=</mo><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mn>27</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mo>=</mo><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mn>27</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>0</mn><mo>=</mo><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>0</mn><mo>=</mo><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mn>1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−1</mn><mo>=</mo><msub><mrow><mtext>log</mtext></mrow><mrow><mn>10</mn></mrow></msub><mfrac><mn>1</mn><mrow><mn>10</mn></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−1</mn><mo>=</mo><msub><mrow><mtext>log</mtext></mrow><mrow><mn>10</mn></mrow></msub><mfrac><mn>1</mn><mrow><mn>10</mn></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.39",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167832044030",
+      "context": [
+        "Evaluate Logarithmic Functions"
+      ],
+      "text": "Find the value of \\(x:\\) ⓐ \\({log}_{x}64=2\\) ⓑ \\({log}_{5}x=3\\) ⓒ \\({log}_{\\frac{1}{2}}\\frac{1}{4}=x\\)",
+      "math": [
+        "x:",
+        "\\log_{x}64=2",
+        "\\log_{5}x=3",
+        "\\log_{\\frac{1}{2}}\\frac{1}{4}=x"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>:</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>:</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mi>x</mi></msub><mn>64</mn><mo>=</mo><mn>2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mi>x</mi></msub><mn>64</mn><mo>=</mo><mn>2</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>5</mn></msub><mi>x</mi><mo>=</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>5</mn></msub><mi>x</mi><mo>=</mo><mn>3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msub><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>=</mo><mi>x</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msub><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>=</mo><mi>x</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.40",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167835337372",
+      "context": [
+        "Evaluate Logarithmic Functions"
+      ],
+      "text": "Find the value of \\(x:\\) ⓐ \\({log}_{x}81=2\\) ⓑ \\({log}_{3}x=5\\) ⓒ \\({log}_{\\frac{1}{3}}\\frac{1}{27}=x\\)",
+      "math": [
+        "x:",
+        "\\log_{x}81=2",
+        "\\log_{3}x=5",
+        "\\log_{\\frac{1}{3}}\\frac{1}{27}=x"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>:</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>:</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mi>x</mi></msub><mn>81</mn><mo>=</mo><mn>2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mi>x</mi></msub><mn>81</mn><mo>=</mo><mn>2</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mi>x</mi><mo>=</mo><mn>5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mi>x</mi><mo>=</mo><mn>5</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msub><mfrac><mn>1</mn><mrow><mn>27</mn></mrow></mfrac><mo>=</mo><mi>x</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></msub><mfrac><mn>1</mn><mrow><mn>27</mn></mrow></mfrac><mo>=</mo><mi>x</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.41",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167835420752",
+      "context": [
+        "Evaluate Logarithmic Functions"
+      ],
+      "text": "Find the exact value of each logarithm without using a calculator: ⓐ \\({log}_{12}144\\) ⓑ \\({log}_{4}2\\) ⓒ \\({log}_{2}\\frac{1}{32}\\)",
+      "math": [
+        "\\log_{12}144",
+        "\\log_{4}2",
+        "\\log_{2}\\frac{1}{32}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mrow><mn>12</mn></mrow></msub><mn>144</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mrow><mn>12</mn></mrow></msub><mn>144</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>4</mn></msub><mn>2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>4</mn></msub><mn>2</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><mfrac><mn>1</mn><mrow><mn>32</mn></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><mfrac><mn>1</mn><mrow><mn>32</mn></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.42",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167834464088",
+      "context": [
+        "Evaluate Logarithmic Functions"
+      ],
+      "text": "Find the exact value of each logarithm without using a calculator: ⓐ \\({log}_{9}81\\) ⓑ \\({log}_{8}2\\) ⓒ \\({log}_{3}\\frac{1}{9}\\)",
+      "math": [
+        "\\log_{9}81",
+        "\\log_{8}2",
+        "\\log_{3}\\frac{1}{9}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>9</mn></msub><mn>81</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>9</mn></msub><mn>81</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>8</mn></msub><mn>2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>8</mn></msub><mn>2</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mfrac><mn>1</mn><mn>9</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mfrac><mn>1</mn><mn>9</mn></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.43",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167834134765",
+      "context": [
+        "Graph Logarithmic Functions"
+      ],
+      "text": "Graph: \\(y={log}_{3}x.\\)",
+      "math": [
+        "y=\\log_{3}x."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mi>x</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mi>x</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.44",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167827940626",
+      "context": [
+        "Graph Logarithmic Functions"
+      ],
+      "text": "Graph: \\(y={log}_{5}x.\\)",
+      "math": [
+        "y=\\log_{5}x."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><msub><mrow><mtext>log</mtext></mrow><mn>5</mn></msub><mi>x</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><msub><mrow><mtext>log</mtext></mrow><mn>5</mn></msub><mi>x</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.45",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167834534505",
+      "context": [
+        "Graph Logarithmic Functions"
+      ],
+      "text": "Graph: \\(y={log}_{\\frac{1}{2}}x.\\)",
+      "math": [
+        "y=\\log_{\\frac{1}{2}}x."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><msub><mrow><mtext>log</mtext></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msub><mi>x</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><msub><mrow><mtext>log</mtext></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msub><mi>x</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.46",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167834429351",
+      "context": [
+        "Graph Logarithmic Functions"
+      ],
+      "text": "Graph: \\(y={log}_{\\frac{1}{4}}x.\\)",
+      "math": [
+        "y=\\log_{\\frac{1}{4}}x."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><msub><mrow><mtext>log</mtext></mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msub><mi>x</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><msub><mrow><mtext>log</mtext></mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msub><mi>x</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.47",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167835253878",
+      "context": [
+        "Solve Logarithmic Equations"
+      ],
+      "text": "Solve: ⓐ \\({log}_{a}121=2\\) ⓑ \\(lnx=7\\)",
+      "math": [
+        "\\log_{a}121=2",
+        "\\lnx=7"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mi>a</mi></msub><mn>121</mn><mo>=</mo><mn>2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mi>a</mi></msub><mn>121</mn><mo>=</mo><mn>2</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>ln</mtext><mspace width=\"0.2em\"></mspace><mi>x</mi><mo>=</mo><mn>7</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>ln</mtext><mspace width=\"0.2em\"></mspace><mi>x</mi><mo>=</mo><mn>7</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.48",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167835236467",
+      "context": [
+        "Solve Logarithmic Equations"
+      ],
+      "text": "Solve: ⓐ \\({log}_{a}64=3\\) ⓑ \\(lnx=9\\)",
+      "math": [
+        "\\log_{a}64=3",
+        "\\lnx=9"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mi>a</mi></msub><mn>64</mn><mo>=</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mi>a</mi></msub><mn>64</mn><mo>=</mo><mn>3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>ln</mtext><mspace width=\"0.2em\"></mspace><mi>x</mi><mo>=</mo><mn>9</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>ln</mtext><mspace width=\"0.2em\"></mspace><mi>x</mi><mo>=</mo><mn>9</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.49",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167834423072",
+      "context": [
+        "Solve Logarithmic Equations"
+      ],
+      "text": "Solve: ⓐ \\({log}_{2}(5x-1)=6\\) ⓑ \\(ln{e}^{3x}=6\\)",
+      "math": [
+        "\\log_{2}(5x-1)=6",
+        "\\ln{e}^{3x}=6"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><mrow><mo>(</mo><mrow><mn>5</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>=</mo><mn>6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>2</mn></msub><mrow><mo>(</mo><mrow><mn>5</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>=</mo><mn>6</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>ln</mtext><mspace width=\"0.2em\"></mspace><msup><mi>e</mi><mrow><mn>3</mn><mi>x</mi></mrow></msup><mo>=</mo><mn>6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>ln</mtext><mspace width=\"0.2em\"></mspace><msup><mi>e</mi><mrow><mn>3</mn><mi>x</mi></mrow></msup><mo>=</mo><mn>6</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.50",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167835421048",
+      "context": [
+        "Solve Logarithmic Equations"
+      ],
+      "text": "Solve: ⓐ \\({log}_{3}(4x+3)=3\\) ⓑ \\(ln{e}^{4x}=4\\)",
+      "math": [
+        "\\log_{3}(4x+3)=3",
+        "\\ln{e}^{4x}=4"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mrow><mo>(</mo><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>=</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mrow><mtext>log</mtext></mrow><mn>3</mn></msub><mrow><mo>(</mo><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>=</mo><mn>3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>ln</mtext><mspace width=\"0.2em\"></mspace><msup><mi>e</mi><mrow><mn>4</mn><mi>x</mi></mrow></msup><mo>=</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>ln</mtext><mspace width=\"0.2em\"></mspace><msup><mi>e</mi><mrow><mn>4</mn><mi>x</mi></mrow></msup><mo>=</mo><mn>4</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.51",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167835596122",
+      "context": [
+        "Use Logarithmic Models in Applications"
+      ],
+      "text": "What is the decibel level of one of the new quiet dishwashers with intensity \\({10}^{-7}\\) watts per square inch?",
+      "math": [
+        "{10}^{-7}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>10</mn></mrow><mrow><mn>−7</mn></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>10</mn></mrow><mrow><mn>−7</mn></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.52",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167832067744",
+      "context": [
+        "Use Logarithmic Models in Applications"
+      ],
+      "text": "What is the decibel level heavy city traffic with intensity \\({10}^{-3}\\) watts per square inch?",
+      "math": [
+        "{10}^{-3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mn>10</mn></mrow><mrow><mn>−3</mn></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mn>10</mn></mrow><mrow><mn>−3</mn></mrow></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "10.53",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167827943041",
+      "context": [
+        "Use Logarithmic Models in Applications"
+      ],
+      "text": "In 1906, San Francisco experienced an intense earthquake with a magnitude of 7.8 on the Richter scale. In 1989, the Loma Prieta earthquake also affected the San Francisco area, and measured 6.9 on the Richter scale. Compare the intensities of the two earthquakes.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "10.54",
+      "page": "10-3-evaluate-and-graph-logarithmic-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167835345399",
+      "context": [
+        "Use Logarithmic Models in Applications"
+      ],
+      "text": "In 2014, Chile experienced an intense earthquake with a magnitude of 8.2 on the Richter scale. In 2014, Los Angeles also experienced an earthquake which measured 5.1 on the Richter scale. Compare the intensities of the two earthquakes.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

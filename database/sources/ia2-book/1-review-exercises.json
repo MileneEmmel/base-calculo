@@ -1,0 +1,1438 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/1-review-exercises",
+  "title": "Review Exercises",
+  "sha256": "1846029e2ece43ef5297487b078d3443685d6194140c9ff01bf565f21c782eb5",
+  "questions": [
+    {
+      "number": 385,
+      "anchor": "fs-id1167829755971",
+      "page": "1-review-exercises",
+      "context": [
+        "Use the Language of Algebra",
+        "Identify Multiples and Factors"
+      ],
+      "text": "Use the divisibility tests to determine whether 180 is divisible by 2, by 3, by 5, by 6, and by 10.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 386,
+      "anchor": "fs-id1167829756005",
+      "page": "1-review-exercises",
+      "context": [
+        "Use the Language of Algebra",
+        "Identify Multiples and Factors"
+      ],
+      "text": "Find the prime factorization of 252.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 387,
+      "anchor": "fs-id1167829756042",
+      "page": "1-review-exercises",
+      "context": [
+        "Use the Language of Algebra",
+        "Identify Multiples and Factors"
+      ],
+      "text": "Find the least common multiple of 24 and 40.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 388,
+      "anchor": "fs-id1167829756061",
+      "page": "1-review-exercises",
+      "context": [
+        "Identify Multiples and Factors",
+        "In the following exercises, simplify each expression."
+      ],
+      "text": "\\(24 \\div 3 + 4 ( 5 - 2 )\\)",
+      "math": [
+        "24 \\div 3 + 4 ( 5 - 2 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>24</mn>\n          <mo>÷</mo>\n          <mn>3</mn>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>24</mn>\n          <mo>÷</mo>\n          <mn>3</mn>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 389,
+      "anchor": "fs-id1167829756104",
+      "page": "1-review-exercises",
+      "context": [
+        "Identify Multiples and Factors",
+        "In the following exercises, simplify each expression."
+      ],
+      "text": "\\(7 + 3 [ 6 - 4 ( 5 - 4 ) ] - {3}^{2}\\)",
+      "math": [
+        "7 + 3 [ 6 - 4 ( 5 - 4 ) ] - {3}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>7</mn>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mrow>\n            <mo>[</mo>\n            <mrow>\n              <mn>6</mn>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>5</mn>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mo>]</mo>\n          </mrow>\n          <mo>−</mo>\n          <msup>\n            <mn>3</mn>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>7</mn>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mrow>\n            <mo>[</mo>\n            <mrow>\n              <mn>6</mn>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>5</mn>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mo>]</mo>\n          </mrow>\n          <mo>−</mo>\n          <msup>\n            <mn>3</mn>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 390,
+      "anchor": "fs-id1167829756171",
+      "page": "1-review-exercises",
+      "context": [
+        "Evaluate an Expression",
+        "In the following exercises, evaluate the following expressions."
+      ],
+      "text": "When \\(x=4,\\) ⓐ \\({x}^{3}\\) ⓑ \\({5}^{x}\\) ⓒ \\(2{x}^{2}-5x+3\\)",
+      "math": [
+        "x=4,",
+        "{x}^{3}",
+        "{5}^{x}",
+        "2{x}^{2}-5x+3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>4</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>4</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>3</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>3</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mn>5</mn><mi>x</mi></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mn>5</mn><mi>x</mi></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>x</mi><mo>+</mo><mn>3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 391,
+      "anchor": "fs-id1167829756266",
+      "page": "1-review-exercises",
+      "context": [
+        "Evaluate an Expression",
+        "In the following exercises, evaluate the following expressions."
+      ],
+      "text": "\\(2{x}^{2}-4xy-3{y}^{2}\\) when \\(x=3,\\) \\(y=1\\)",
+      "math": [
+        "2{x}^{2}-4xy-3{y}^{2}",
+        "x=3,",
+        "y=1"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>x</mi><mi>y</mi><mo>−</mo><mn>3</mn><msup><mi>y</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>x</mi><mi>y</mi><mo>−</mo><mn>3</mn><msup><mi>y</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>3</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>3</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>1</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 392,
+      "anchor": "fs-id1167833018087",
+      "page": "1-review-exercises",
+      "context": [
+        "Simplify Expressions by Combining Like Terms",
+        "In the following exercises, simplify the following expressions by combining like terms."
+      ],
+      "text": "\\(12 y + 7 + 2 y - 5\\)",
+      "math": [
+        "12 y + 7 + 2 y - 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>12</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>12</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 393,
+      "anchor": "fs-id1167833018133",
+      "page": "1-review-exercises",
+      "context": [
+        "Simplify Expressions by Combining Like Terms",
+        "In the following exercises, simplify the following expressions by combining like terms."
+      ],
+      "text": "\\(14 {x}^{2} - 9 x + 11 - 8 {x}^{2} + 8 x - 6\\)",
+      "math": [
+        "14 {x}^{2} - 9 x + 11 - 8 {x}^{2} + 8 x - 6"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>14</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>9</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>11</mn>\n          <mo>−</mo>\n          <mn>8</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>6</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>14</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>9</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>11</mn>\n          <mo>−</mo>\n          <mn>8</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>6</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 394,
+      "anchor": "fs-id1167833018215",
+      "page": "1-review-exercises",
+      "context": [
+        "Translate an English Phrase to an Algebraic Expression",
+        "In the following exercises, translate the phrases into algebraic expressions."
+      ],
+      "text": "ⓐ the sum of \\(4a{b}^{2}\\) and \\(7{a}^{3}{b}^{2}\\)ⓑ the product of \\(6{y}^{2}\\) and \\(3y\\)ⓒ twelve more than \\(5x\\)ⓓ \\(5y\\) less than \\(8{y}^{2}\\)",
+      "math": [
+        "4a{b}^{2}",
+        "7{a}^{3}{b}^{2}",
+        "6{y}^{2}",
+        "3y",
+        "5x",
+        "5y",
+        "8{y}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mi>a</mi><msup><mi>b</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mi>a</mi><msup><mi>b</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>7</mn><msup><mi>a</mi><mn>3</mn></msup><msup><mi>b</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>7</mn><msup><mi>a</mi><mn>3</mn></msup><msup><mi>b</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>6</mn><msup><mi>y</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>6</mn><msup><mi>y</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mi>y</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mi>y</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mi>x</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mi>x</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mi>y</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mi>y</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>8</mn><msup><mi>y</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>8</mn><msup><mi>y</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 395,
+      "anchor": "fs-id1167833018408",
+      "page": "1-review-exercises",
+      "context": [
+        "Translate an English Phrase to an Algebraic Expression",
+        "In the following exercises, translate the phrases into algebraic expressions."
+      ],
+      "text": "ⓐ eleven times the difference of \\(y\\) and twoⓑ the difference of eleven times \\(y\\) and two",
+      "math": [
+        "y",
+        "y"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mi>y</mi></mrow><annotation-xml encoding=\"MathML-Content\"><mi>y</mi></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mi>y</mi></mrow><annotation-xml encoding=\"MathML-Content\"><mi>y</mi></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 396,
+      "anchor": "fs-id1167829750090",
+      "page": "1-review-exercises",
+      "context": [
+        "Translate an English Phrase to an Algebraic Expression",
+        "In the following exercises, translate the phrases into algebraic expressions."
+      ],
+      "text": "Dushko has nickels and pennies in his pocket. The number of pennies is four less than five times the number of nickels. Let \\(n\\) represent the number of nickels. Write an expression for the number of pennies.",
+      "math": [
+        "n"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mi>n</mi></mrow><annotation-xml encoding=\"MathML-Content\"><mi>n</mi></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 397,
+      "anchor": "fs-id1167829750158",
+      "page": "1-review-exercises",
+      "context": [
+        "Simplify Expressions with Absolute Value",
+        "In the following exercise, fill in \\(<,>,\\) or \\(=\\) for each of the following pairs of numbers."
+      ],
+      "text": "ⓐ \\(-|7|___-|-7|\\)ⓑ \\(-8___-|-8|\\)ⓒ \\(|-13|___-13\\)ⓓ \\(|-12|___-(-12)\\)",
+      "math": [
+        "-|7|___-|-7|",
+        "-8___-|-8|",
+        "|-13|___-13",
+        "|-12|___-(-12)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>−</mtext><mrow><mo>|</mo><mn>7</mn><mo>|</mo></mrow><mo>___</mo><mo>−</mo><mrow><mo>|</mo><mrow><mn>−7</mn></mrow><mo>|</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>−</mtext><mrow><mo>|</mo><mn>7</mn><mo>|</mo></mrow><mo>___</mo><mo>−</mo><mrow><mo>|</mo><mrow><mn>−7</mn></mrow><mo>|</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−8</mn><mo>___</mo><mo>−</mo><mrow><mo>|</mo><mrow><mn>−8</mn></mrow><mo>|</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−8</mn><mo>___</mo><mo>−</mo><mrow><mo>|</mo><mrow><mn>−8</mn></mrow><mo>|</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mrow><mn>−13</mn></mrow><mo>|</mo></mrow><mo>___</mo><mo>−</mo><mn>13</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mrow><mn>−13</mn></mrow><mo>|</mo></mrow><mo>___</mo><mo>−</mo><mn>13</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mrow><mn>−12</mn></mrow><mo>|</mo></mrow><mo>___</mo><mo>−</mo><mrow><mo>(</mo><mrow><mn>−12</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mrow><mn>−12</mn></mrow><mo>|</mo></mrow><mo>___</mo><mo>−</mo><mrow><mo>(</mo><mrow><mn>−12</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 398,
+      "anchor": "fs-id1167829750337",
+      "page": "1-review-exercises",
+      "context": [
+        "In the following exercise, fill in \\(<,>,\\) or \\(=\\) for each of the following pairs of numbers.",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(9 - | 3 ( 4 - 8 ) |\\)",
+      "math": [
+        "9 - | 3 ( 4 - 8 ) |"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>9</mn>\n          <mo>−</mo>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>3</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>4</mn>\n                  <mo>−</mo>\n                  <mn>8</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>9</mn>\n          <mo>−</mo>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>3</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>4</mn>\n                  <mo>−</mo>\n                  <mn>8</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 399,
+      "anchor": "fs-id1167829750383",
+      "page": "1-review-exercises",
+      "context": [
+        "In the following exercise, fill in \\(<,>,\\) or \\(=\\) for each of the following pairs of numbers.",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(12 - 3 | 1 - 4 ( 4 - 2 ) |\\)",
+      "math": [
+        "12 - 3 | 1 - 4 ( 4 - 2 ) |"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>12</mn>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>1</mn>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>4</mn>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>12</mn>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>1</mn>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>4</mn>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 400,
+      "anchor": "fs-id1167829750445",
+      "page": "1-review-exercises",
+      "context": [
+        "Add and Subtract Integers",
+        "In the following exercises, simplify each expression."
+      ],
+      "text": "\\(-12 + ( -8 ) + 7\\)",
+      "math": [
+        "-12 + ( -8 ) + 7"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−12</mn>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−8</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>7</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−12</mn>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−8</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>7</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 401,
+      "anchor": "fs-id1167829740894",
+      "page": "1-review-exercises",
+      "context": [
+        "Add and Subtract Integers",
+        "In the following exercises, simplify each expression."
+      ],
+      "text": "ⓐ \\(15-7\\)ⓑ \\(-15-(-7)\\)ⓒ \\(-15-7\\)ⓓ \\(15-(-7)\\)",
+      "math": [
+        "15-7",
+        "-15-(-7)",
+        "-15-7",
+        "15-(-7)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>15</mn><mo>−</mo><mn>7</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>15</mn><mo>−</mo><mn>7</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−15</mn><mo>−</mo><mo stretchy=\"false\">(</mo><mn>−7</mn><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−15</mn><mo>−</mo><mo stretchy=\"false\">(</mo><mn>−7</mn><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−15</mn><mo>−</mo><mn>7</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−15</mn><mo>−</mo><mn>7</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>15</mn><mo>−</mo><mrow><mo>(</mo><mrow><mn>−7</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>15</mn><mo>−</mo><mrow><mo>(</mo><mrow><mn>−7</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 402,
+      "anchor": "fs-id1167829741014",
+      "page": "1-review-exercises",
+      "context": [
+        "Add and Subtract Integers",
+        "In the following exercises, simplify each expression."
+      ],
+      "text": "\\(-11 - ( -12 ) + 5\\)",
+      "math": [
+        "-11 - ( -12 ) + 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−11</mn>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−12</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−11</mn>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−12</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 403,
+      "anchor": "fs-id1167829741049",
+      "page": "1-review-exercises",
+      "context": [
+        "Add and Subtract Integers",
+        "In the following exercises, simplify each expression."
+      ],
+      "text": "ⓐ \\(23-(-17)\\) ⓑ \\(23+17\\)",
+      "math": [
+        "23-(-17)",
+        "23+17"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>23</mn><mo>−</mo><mrow><mo>(</mo><mrow><mn>−17</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>23</mn><mo>−</mo><mrow><mo>(</mo><mrow><mn>−17</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>23</mn><mo>+</mo><mn>17</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>23</mn><mo>+</mo><mn>17</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 404,
+      "anchor": "fs-id1167829741108",
+      "page": "1-review-exercises",
+      "context": [
+        "Add and Subtract Integers",
+        "In the following exercises, simplify each expression."
+      ],
+      "text": "\\(- ( 7 - 11 ) - ( 3 - 5 )\\)",
+      "math": [
+        "- ( 7 - 11 ) - ( 3 - 5 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>−</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>7</mn>\n              <mo>−</mo>\n              <mn>11</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>−</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>7</mn>\n              <mo>−</mo>\n              <mn>11</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 405,
+      "anchor": "fs-id1167829741165",
+      "page": "1-review-exercises",
+      "context": [
+        "Multiply and Divide Integers",
+        "In the following exercise, multiply or divide."
+      ],
+      "text": "ⓐ \\(-27\\div 9\\) ⓑ \\(120\\div (-8)\\) ⓒ \\(4(-14)\\) ⓓ \\(-1(-17)\\)",
+      "math": [
+        "-27\\div 9",
+        "120\\div (-8)",
+        "4(-14)",
+        "-1(-17)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−27</mn><mo>÷</mo><mn>9</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−27</mn><mo>÷</mo><mn>9</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>120</mn><mo>÷</mo><mrow><mo>(</mo><mrow><mn>−8</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>120</mn><mo>÷</mo><mrow><mo>(</mo><mrow><mn>−8</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mrow><mo>(</mo><mrow><mn>−14</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mrow><mo>(</mo><mrow><mn>−14</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−1</mn><mrow><mo>(</mo><mrow><mn>−17</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−1</mn><mrow><mo>(</mo><mrow><mn>−17</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 406,
+      "anchor": "fs-id1167829598897",
+      "page": "1-review-exercises",
+      "context": [
+        "Simplify and Evaluate Expressions with Integers",
+        "In the following exercises, simplify each expression."
+      ],
+      "text": "ⓐ \\({(-7)}^{3}\\) ⓑ \\(-{7}^{3}\\)",
+      "math": [
+        "{(-7)}^{3}",
+        "-{7}^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>−7</mn></mrow><mo>)</mo></mrow></mrow><mn>3</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>−7</mn></mrow><mo>)</mo></mrow></mrow><mn>3</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>−</mtext><msup><mn>7</mn><mn>3</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>−</mtext><msup><mn>7</mn><mn>3</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 407,
+      "anchor": "fs-id1167829598968",
+      "page": "1-review-exercises",
+      "context": [
+        "Simplify and Evaluate Expressions with Integers",
+        "In the following exercises, simplify each expression."
+      ],
+      "text": "\\(( 7 - 11 ) ( 6 - 13 )\\)",
+      "math": [
+        "( 7 - 11 ) ( 6 - 13 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>7</mn>\n              <mo>−</mo>\n              <mn>11</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>6</mn>\n              <mo>−</mo>\n              <mn>13</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>7</mn>\n              <mo>−</mo>\n              <mn>11</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>6</mn>\n              <mo>−</mo>\n              <mn>13</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 408,
+      "anchor": "fs-id1167829599011",
+      "page": "1-review-exercises",
+      "context": [
+        "Simplify and Evaluate Expressions with Integers",
+        "In the following exercises, simplify each expression."
+      ],
+      "text": "\\(63 \\div ( -9 ) + ( -36 ) \\div ( -4 )\\)",
+      "math": [
+        "63 \\div ( -9 ) + ( -36 ) \\div ( -4 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>63</mn>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−9</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−36</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>63</mn>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−9</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−36</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 409,
+      "anchor": "fs-id1167829599065",
+      "page": "1-review-exercises",
+      "context": [
+        "Simplify and Evaluate Expressions with Integers",
+        "In the following exercises, simplify each expression."
+      ],
+      "text": "\\(6 - 3 | 4 ( 1 - 2 ) - ( 7 - 5 ) |\\)",
+      "math": [
+        "6 - 3 | 4 ( 1 - 2 ) - ( 7 - 5 ) |"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>6</mn>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>4</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>1</mn>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>−</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>7</mn>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>6</mn>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>4</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>1</mn>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>−</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>7</mn>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 410,
+      "anchor": "fs-id1167829599128",
+      "page": "1-review-exercises",
+      "context": [
+        "Simplify and Evaluate Expressions with Integers",
+        "In the following exercises, simplify each expression."
+      ],
+      "text": "\\({ ( -2 ) }^{4} - 24 \\div ( 13 - 5 )\\)",
+      "math": [
+        "{ ( -2 ) }^{4} - 24 \\div ( 13 - 5 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>4</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>24</mn>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>13</mn>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>4</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>24</mn>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>13</mn>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 411,
+      "anchor": "fs-id1167829599180",
+      "page": "1-review-exercises",
+      "context": [
+        "In the following exercises, simplify each expression.",
+        "For the following exercises, evaluate each expression."
+      ],
+      "text": "\\({(y+z)}^{2}\\) when\\(y=-4,z=7\\)",
+      "math": [
+        "{(y+z)}^{2}",
+        "y=-4,z=7"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>+</mo><mi>z</mi></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>+</mo><mi>z</mi></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>−4</mn><mo>,</mo><mi>z</mi><mo>=</mo><mn>7</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>−4</mn><mo>,</mo><mi>z</mi><mo>=</mo><mn>7</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 412,
+      "anchor": "fs-id1167829599233",
+      "page": "1-review-exercises",
+      "context": [
+        "In the following exercises, simplify each expression.",
+        "For the following exercises, evaluate each expression."
+      ],
+      "text": "\\(3{x}^{2}-2xy+4{y}^{2}\\) when\\(x=-2,y=-3\\)",
+      "math": [
+        "3{x}^{2}-2xy+4{y}^{2}",
+        "x=-2,y=-3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn><mi>x</mi><mi>y</mi><mo>+</mo><mn>4</mn><msup><mi>y</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn><mi>x</mi><mi>y</mi><mo>+</mo><mn>4</mn><msup><mi>y</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>−2</mn><mo>,</mo><mi>y</mi><mo>=</mo><mn>−3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>−2</mn><mo>,</mo><mi>y</mi><mo>=</mo><mn>−3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 413,
+      "anchor": "fs-id1167829599305",
+      "page": "1-review-exercises",
+      "context": [
+        "Translate English Phrases to Algebraic Expressions",
+        "In the following exercises, translate to an algebraic expression and simplify if possible."
+      ],
+      "text": "the sum of \\(-4\\) and \\(-9,\\) increased by 23",
+      "math": [
+        "-4",
+        "-9,"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−9</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−9</mn><mo>,</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 414,
+      "anchor": "fs-id1167829787421",
+      "page": "1-review-exercises",
+      "context": [
+        "Translate English Phrases to Algebraic Expressions",
+        "In the following exercises, translate to an algebraic expression and simplify if possible."
+      ],
+      "text": "ⓐ the difference of 17 and \\(-8\\) ⓑ subtract 17 from \\(-25\\)",
+      "math": [
+        "-8",
+        "-25"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−8</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−8</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−25</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−25</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 415,
+      "anchor": "fs-id1167829787510",
+      "page": "1-review-exercises",
+      "context": [
+        "Use Integers in Applications",
+        "In the following exercise, solve."
+      ],
+      "text": "Temperature On July 10, the high temperature in Phoenix, Arizona, was 109°, and the high temperature in Juneau, Alaska, was 63°. What was the difference between the temperature in Phoenix and the temperature in Juneau?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 416,
+      "anchor": "fs-id1167829787564",
+      "page": "1-review-exercises",
+      "context": [
+        "Simplify Fractions",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{ 204 }{ 228 }\\)",
+      "math": [
+        "\\frac{ 204 }{ 228 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>204</mn>\n            </mrow>\n            <mrow>\n              <mn>228</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>204</mn>\n            </mrow>\n            <mrow>\n              <mn>228</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 417,
+      "anchor": "fs-id1167829787597",
+      "page": "1-review-exercises",
+      "context": [
+        "Simplify Fractions",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(- \\frac{ 270 {x}^{3} }{ 198 {y}^{2} }\\)",
+      "math": [
+        "- \\frac{ 270 {x}^{3} }{ 198 {y}^{2} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>270</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>198</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>270</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>198</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 418,
+      "anchor": "fs-id1167829787665",
+      "page": "1-review-exercises",
+      "context": [
+        "Multiply and Divide Fractions",
+        "In the following exercises, perform the indicated operation."
+      ],
+      "text": "\\(( - \\frac{ 14 }{ 15 } ) ( \\frac{ 10 }{ 21 } )\\)",
+      "math": [
+        "( - \\frac{ 14 }{ 15 } ) ( \\frac{ 10 }{ 21 } )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mo>−</mo>\n              <mfrac>\n                <mrow>\n                  <mn>14</mn>\n                </mrow>\n                <mrow>\n                  <mn>15</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <mn>10</mn>\n                </mrow>\n                <mrow>\n                  <mn>21</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mo>−</mo>\n              <mfrac>\n                <mrow>\n                  <mn>14</mn>\n                </mrow>\n                <mrow>\n                  <mn>15</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <mn>10</mn>\n                </mrow>\n                <mrow>\n                  <mn>21</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 419,
+      "anchor": "fs-id1167829787720",
+      "page": "1-review-exercises",
+      "context": [
+        "Multiply and Divide Fractions",
+        "In the following exercises, perform the indicated operation."
+      ],
+      "text": "\\(\\frac{ 6 x }{ 25 } \\div \\frac{ 9 y }{ 20 }\\)",
+      "math": [
+        "\\frac{ 6 x }{ 25 } \\div \\frac{ 9 y }{ 20 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>6</mn>\n              <mi>x</mi>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>÷</mo>\n          <mfrac>\n            <mrow>\n              <mn>9</mn>\n              <mi>y</mi>\n            </mrow>\n            <mrow>\n              <mn>20</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>6</mn>\n              <mi>x</mi>\n            </mrow>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>÷</mo>\n          <mfrac>\n            <mrow>\n              <mn>9</mn>\n              <mi>y</mi>\n            </mrow>\n            <mrow>\n              <mn>20</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 420,
+      "anchor": "fs-id1167829787771",
+      "page": "1-review-exercises",
+      "context": [
+        "Multiply and Divide Fractions",
+        "In the following exercises, perform the indicated operation."
+      ],
+      "text": "\\(\\frac{ - \\frac{4}{9} }{ \\frac{8}{ 21 } }\\)",
+      "math": [
+        "\\frac{ - \\frac{4}{9} }{ \\frac{8}{ 21 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mo>−</mo>\n              <mfrac>\n                <mn>4</mn>\n                <mn>9</mn>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>8</mn>\n                <mrow>\n                  <mn>21</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mo>−</mo>\n              <mfrac>\n                <mn>4</mn>\n                <mn>9</mn>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>8</mn>\n                <mrow>\n                  <mn>21</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 421,
+      "anchor": "fs-id1167829787824",
+      "page": "1-review-exercises",
+      "context": [
+        "Add and Subtract Fractions",
+        "In the following exercises, perform the indicated operation."
+      ],
+      "text": "\\(\\frac{5}{ 18 } + \\frac{7}{ 12 }\\)",
+      "math": [
+        "\\frac{5}{ 18 } + \\frac{7}{ 12 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mn>18</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>7</mn>\n            <mrow>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mn>18</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>7</mn>\n            <mrow>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 422,
+      "anchor": "fs-id1167829787864",
+      "page": "1-review-exercises",
+      "context": [
+        "Add and Subtract Fractions",
+        "In the following exercises, perform the indicated operation."
+      ],
+      "text": "\\(\\frac{ 11 }{ 36 } - \\frac{ 15 }{ 48 }\\)",
+      "math": [
+        "\\frac{ 11 }{ 36 } - \\frac{ 15 }{ 48 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>11</mn>\n            </mrow>\n            <mrow>\n              <mn>36</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>15</mn>\n            </mrow>\n            <mrow>\n              <mn>48</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>11</mn>\n            </mrow>\n            <mrow>\n              <mn>36</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>15</mn>\n            </mrow>\n            <mrow>\n              <mn>48</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 423,
+      "anchor": "fs-id1167829787908",
+      "page": "1-review-exercises",
+      "context": [
+        "Add and Subtract Fractions",
+        "In the following exercises, perform the indicated operation."
+      ],
+      "text": "ⓐ \\(\\frac{5}{8}+\\frac{3}{4}\\) ⓑ \\(\\frac{5}{8}\\div \\frac{3}{4}\\)",
+      "math": [
+        "\\frac{5}{8}+\\frac{3}{4}",
+        "\\frac{5}{8}\\div \\frac{3}{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>5</mn><mn>8</mn></mfrac><mo>+</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>5</mn><mn>8</mn></mfrac><mo>+</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>5</mn><mn>8</mn></mfrac><mo>÷</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>5</mn><mn>8</mn></mfrac><mo>÷</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 424,
+      "anchor": "fs-id1167829728268",
+      "page": "1-review-exercises",
+      "context": [
+        "Add and Subtract Fractions",
+        "In the following exercises, perform the indicated operation."
+      ],
+      "text": "ⓐ \\(-\\frac{3y}{10}-\\frac{5}{6}\\) ⓑ \\(-\\frac{3y}{10}\\cdot \\frac{5}{6}\\)",
+      "math": [
+        "-\\frac{3y}{10}-\\frac{5}{6}",
+        "-\\frac{3y}{10}\\cdot \\frac{5}{6}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mo>−</mo><mfrac><mrow><mn>3</mn><mi>y</mi></mrow><mrow><mn>10</mn></mrow></mfrac><mo>−</mo><mfrac><mn>5</mn><mn>6</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mo>−</mo><mfrac><mrow><mn>3</mn><mi>y</mi></mrow><mrow><mn>10</mn></mrow></mfrac><mo>−</mo><mfrac><mn>5</mn><mn>6</mn></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mo>−</mo><mfrac><mrow><mn>3</mn><mi>y</mi></mrow><mrow><mn>10</mn></mrow></mfrac><mo>·</mo><mfrac><mn>5</mn><mn>6</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mo>−</mo><mfrac><mrow><mn>3</mn><mi>y</mi></mrow><mrow><mn>10</mn></mrow></mfrac><mo>·</mo><mfrac><mn>5</mn><mn>6</mn></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 425,
+      "anchor": "fs-id1167829728382",
+      "page": "1-review-exercises",
+      "context": [
+        "Use the Order of Operations to Simplify Fractions",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{ 4 \\cdot 3 - 2 \\cdot 5 }{ -6 \\cdot 3 + 2 \\cdot 3 }\\)",
+      "math": [
+        "\\frac{ 4 \\cdot 3 - 2 \\cdot 5 }{ -6 \\cdot 3 + 2 \\cdot 3 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <mo>·</mo>\n              <mn>3</mn>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mo>·</mo>\n              <mn>5</mn>\n            </mrow>\n            <mrow>\n              <mn>−6</mn>\n              <mo>·</mo>\n              <mn>3</mn>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mo>·</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <mo>·</mo>\n              <mn>3</mn>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mo>·</mo>\n              <mn>5</mn>\n            </mrow>\n            <mrow>\n              <mn>−6</mn>\n              <mo>·</mo>\n              <mn>3</mn>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mo>·</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 426,
+      "anchor": "fs-id1167829728441",
+      "page": "1-review-exercises",
+      "context": [
+        "Use the Order of Operations to Simplify Fractions",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{ 4 ( 7 - 3 ) - 2 ( 4 - 9 ) }{ -3 ( 4 + 2 ) + 7 ( 3 - 6 ) }\\)",
+      "math": [
+        "\\frac{ 4 ( 7 - 3 ) - 2 ( 4 - 9 ) }{ -3 ( 4 + 2 ) + 7 ( 3 - 6 ) }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>7</mn>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>4</mn>\n                  <mo>−</mo>\n                  <mn>9</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mrow>\n              <mn>−3</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>4</mn>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>+</mo>\n              <mn>7</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>3</mn>\n                  <mo>−</mo>\n                  <mn>6</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>7</mn>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>4</mn>\n                  <mo>−</mo>\n                  <mn>9</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mrow>\n              <mn>−3</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>4</mn>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>+</mo>\n              <mn>7</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>3</mn>\n                  <mo>−</mo>\n                  <mn>6</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 427,
+      "anchor": "fs-id1167829728534",
+      "page": "1-review-exercises",
+      "context": [
+        "Use the Order of Operations to Simplify Fractions",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{ {4}^{3} - {4}^{2} }{ { ( \\frac{4}{5} ) }^{2} }\\)",
+      "math": [
+        "\\frac{ {4}^{3} - {4}^{2} }{ { ( \\frac{4}{5} ) }^{2} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mn>4</mn>\n                <mn>3</mn>\n              </msup>\n              <mo>−</mo>\n              <msup>\n                <mn>4</mn>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mfrac>\n                        <mn>4</mn>\n                        <mn>5</mn>\n                      </mfrac>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mn>4</mn>\n                <mn>3</mn>\n              </msup>\n              <mo>−</mo>\n              <msup>\n                <mn>4</mn>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mfrac>\n                        <mn>4</mn>\n                        <mn>5</mn>\n                      </mfrac>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 428,
+      "anchor": "fs-id1167829728593",
+      "page": "1-review-exercises",
+      "context": [
+        "Evaluate Variable Expressions with Fractions",
+        "In the following exercises, evaluate."
+      ],
+      "text": "\\(4{x}^{2}{y}^{2}\\) when\\(x=\\frac{2}{3}\\) and \\(y=-\\frac{3}{4}\\)",
+      "math": [
+        "4{x}^{2}{y}^{2}",
+        "x=\\frac{2}{3}",
+        "y=-\\frac{3}{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><msup><mi>y</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><msup><mi>y</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mo>−</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mo>−</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 429,
+      "anchor": "fs-id1167829728654",
+      "page": "1-review-exercises",
+      "context": [
+        "Evaluate Variable Expressions with Fractions",
+        "In the following exercises, evaluate."
+      ],
+      "text": "\\(\\frac{a+b}{a-b}\\) when\\(a=-4,\\) \\(b=6\\)",
+      "math": [
+        "\\frac{a+b}{a-b}",
+        "a=-4,",
+        "b=6"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mi>a</mi><mo>+</mo><mi>b</mi></mrow><mrow><mi>a</mi><mo>−</mo><mi>b</mi></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mi>a</mi><mo>+</mo><mi>b</mi></mrow><mrow><mi>a</mi><mo>−</mo><mi>b</mi></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>a</mi><mo>=</mo><mn>−4</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>a</mi><mo>=</mo><mn>−4</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>b</mi><mo>=</mo><mn>6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>b</mi><mo>=</mo><mn>6</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 430,
+      "anchor": "fs-id1167829743371",
+      "page": "1-review-exercises",
+      "context": [
+        "Decimals",
+        "Round Decimals"
+      ],
+      "text": "Round \\(6.738\\) to the nearest ⓐ hundredth ⓑ tenth ⓒ whole number.",
+      "math": [
+        "6.738"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>6.738</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>6.738</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 431,
+      "anchor": "fs-id1167829743446",
+      "page": "1-review-exercises",
+      "context": [
+        "Add and Subtract Decimals",
+        "In the following exercises, perform the indicated operation."
+      ],
+      "text": "\\(-23.67 + 29.84\\)",
+      "math": [
+        "-23.67 + 29.84"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−23.67</mn>\n          <mo>+</mo>\n          <mn>29.84</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−23.67</mn>\n          <mo>+</mo>\n          <mn>29.84</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 432,
+      "anchor": "fs-id1167829743473",
+      "page": "1-review-exercises",
+      "context": [
+        "Add and Subtract Decimals",
+        "In the following exercises, perform the indicated operation."
+      ],
+      "text": "\\(54.3 - 100\\)",
+      "math": [
+        "54.3 - 100"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>54.3</mn>\n          <mo>−</mo>\n          <mn>100</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>54.3</mn>\n          <mo>−</mo>\n          <mn>100</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 433,
+      "anchor": "fs-id1167829743500",
+      "page": "1-review-exercises",
+      "context": [
+        "Add and Subtract Decimals",
+        "In the following exercises, perform the indicated operation."
+      ],
+      "text": "\\(79.38 - ( -17.598 )\\)",
+      "math": [
+        "79.38 - ( -17.598 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>79.38</mn>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−17.598</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>79.38</mn>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−17.598</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 434,
+      "anchor": "fs-id1167829743543",
+      "page": "1-review-exercises",
+      "context": [
+        "Multiply and Divide Decimals",
+        "In the following exercises, perform the indicated operation."
+      ],
+      "text": "\\(( -2.8 ) ( 3.97 )\\)",
+      "math": [
+        "( -2.8 ) ( 3.97 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−2.8</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3.97</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−2.8</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3.97</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 435,
+      "anchor": "fs-id1167829743581",
+      "page": "1-review-exercises",
+      "context": [
+        "Multiply and Divide Decimals",
+        "In the following exercises, perform the indicated operation."
+      ],
+      "text": "\\(( -8.43 ) ( -57.91 )\\)",
+      "math": [
+        "( -8.43 ) ( -57.91 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−8.43</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−57.91</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−8.43</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−57.91</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 436,
+      "anchor": "fs-id1167829743616",
+      "page": "1-review-exercises",
+      "context": [
+        "Multiply and Divide Decimals",
+        "In the following exercises, perform the indicated operation."
+      ],
+      "text": "\\(( 53.48 ) ( 10 )\\)",
+      "math": [
+        "( 53.48 ) ( 10 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>53.48</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>10</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>53.48</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>10</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 437,
+      "anchor": "fs-id1167829743653",
+      "page": "1-review-exercises",
+      "context": [
+        "Multiply and Divide Decimals",
+        "In the following exercises, perform the indicated operation."
+      ],
+      "text": "\\(( 0.563 ) ( 100 )\\)",
+      "math": [
+        "( 0.563 ) ( 100 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>0.563</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>100</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>0.563</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>100</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 438,
+      "anchor": "fs-id1167829743690",
+      "page": "1-review-exercises",
+      "context": [
+        "Multiply and Divide Decimals",
+        "In the following exercises, perform the indicated operation."
+      ],
+      "text": "\\(\\$ 118.35 \\div 2.6\\)",
+      "math": [
+        "$ 118.35 \\div 2.6"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>$</mtext>\n          <mn>118.35</mn>\n          <mo>÷</mo>\n          <mn>2.6</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>$</mtext>\n          <mn>118.35</mn>\n          <mo>÷</mo>\n          <mn>2.6</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 439,
+      "anchor": "fs-id1167829743722",
+      "page": "1-review-exercises",
+      "context": [
+        "Multiply and Divide Decimals",
+        "In the following exercises, perform the indicated operation."
+      ],
+      "text": "\\(1.84 \\div ( -0.8 )\\)",
+      "math": [
+        "1.84 \\div ( -0.8 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>1.84</mn>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−0.8</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>1.84</mn>\n          <mo>÷</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−0.8</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 440,
+      "anchor": "fs-id1167829743765",
+      "page": "1-review-exercises",
+      "context": [
+        "Convert Decimals, Fractions and Percents",
+        "In the following exercises, convert each decimal to a fraction."
+      ],
+      "text": "\\(0.65\\)",
+      "math": [
+        "0.65"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>0.65</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>0.65</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 441,
+      "anchor": "fs-id1167829743790",
+      "page": "1-review-exercises",
+      "context": [
+        "Convert Decimals, Fractions and Percents",
+        "In the following exercises, convert each decimal to a fraction."
+      ],
+      "text": "\\(-9.6\\)",
+      "math": [
+        "-9.6"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−9.6</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−9.6</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 442,
+      "anchor": "fs-id1167829743823",
+      "page": "1-review-exercises",
+      "context": [
+        "In the following exercises, convert each decimal to a fraction.",
+        "In the following exercises, convert each fraction to a decimal."
+      ],
+      "text": "\\(- \\frac{5}{8}\\)",
+      "math": [
+        "- \\frac{5}{8}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mo>−</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mn>8</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mo>−</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mn>8</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 443,
+      "anchor": "fs-id1167829743851",
+      "page": "1-review-exercises",
+      "context": [
+        "In the following exercises, convert each decimal to a fraction.",
+        "In the following exercises, convert each fraction to a decimal."
+      ],
+      "text": "\\(\\frac{ 14 }{ 11 }\\)",
+      "math": [
+        "\\frac{ 14 }{ 11 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>14</mn>\n            </mrow>\n            <mrow>\n              <mn>11</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>14</mn>\n            </mrow>\n            <mrow>\n              <mn>11</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 444,
+      "anchor": "fs-id1167829750835",
+      "page": "1-review-exercises",
+      "context": [
+        "In the following exercises, convert each fraction to a decimal.",
+        "In the following exercises, convert each decimal to a percent."
+      ],
+      "text": "\\(2.43\\)",
+      "math": [
+        "2.43"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2.43</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2.43</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 445,
+      "anchor": "fs-id1167829750860",
+      "page": "1-review-exercises",
+      "context": [
+        "In the following exercises, convert each fraction to a decimal.",
+        "In the following exercises, convert each decimal to a percent."
+      ],
+      "text": "\\(0.0475\\)",
+      "math": [
+        "0.0475"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>0.0475</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>0.0475</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 446,
+      "anchor": "fs-id1167829750894",
+      "page": "1-review-exercises",
+      "context": [
+        "Simplify Expressions with Square Roots",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\sqrt{ 289 }\\)",
+      "math": [
+        "\\sqrt{ 289 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>289</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>289</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 447,
+      "anchor": "fs-id1167829750915",
+      "page": "1-review-exercises",
+      "context": [
+        "Simplify Expressions with Square Roots",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\sqrt{ -121 }\\)",
+      "math": [
+        "\\sqrt{ -121 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>−121</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>−121</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 448,
+      "anchor": "fs-id1167829750973",
+      "page": "1-review-exercises",
+      "context": [
+        "Identify Integers, Rational Numbers, Irrational Numbers, and Real Numbers",
+        "In the following exercise, list the ⓐ whole numbers ⓑ integers ⓒ rational numbers ⓓ irrational numbers ⓔ real numbers for each set of numbers"
+      ],
+      "text": "\\(-8 , 0 , 1.95286... , \\frac{ 12 }{5} , \\sqrt{ 36 } , 9\\)",
+      "math": [
+        "-8 , 0 , 1.95286... , \\frac{ 12 }{5} , \\sqrt{ 36 } , 9"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−8</mn>\n          <mo>,</mo>\n          <mn>0</mn>\n          <mo>,</mo>\n          <mn>1.95286...</mn>\n          <mo>,</mo>\n          <mfrac>\n            <mrow>\n              <mn>12</mn>\n            </mrow>\n            <mn>5</mn>\n          </mfrac>\n          <mo>,</mo>\n          <msqrt>\n            <mrow>\n              <mn>36</mn>\n            </mrow>\n          </msqrt>\n          <mo>,</mo>\n          <mn>9</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−8</mn>\n          <mo>,</mo>\n          <mn>0</mn>\n          <mo>,</mo>\n          <mn>1.95286...</mn>\n          <mo>,</mo>\n          <mfrac>\n            <mrow>\n              <mn>12</mn>\n            </mrow>\n            <mn>5</mn>\n          </mfrac>\n          <mo>,</mo>\n          <msqrt>\n            <mrow>\n              <mn>36</mn>\n            </mrow>\n          </msqrt>\n          <mo>,</mo>\n          <mn>9</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 449,
+      "anchor": "fs-id1167829751160",
+      "page": "1-review-exercises",
+      "context": [
+        "Locate Fractions and Decimals on the Number Line",
+        "In the following exercises, locate the numbers on a number line."
+      ],
+      "text": "\\(\\frac{3}{4} , - \\frac{3}{4} , 1 \\frac{1}{3} , -1 \\frac{2}{3} , \\frac{7}{2} , - \\frac{5}{2}\\)",
+      "math": [
+        "\\frac{3}{4} , - \\frac{3}{4} , 1 \\frac{1}{3} , -1 \\frac{2}{3} , \\frac{7}{2} , - \\frac{5}{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>3</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mn>1</mn>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mn>−1</mn>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>7</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mn>2</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>3</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mn>1</mn>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mn>−1</mn>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>7</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mn>2</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 450,
+      "anchor": "fs-id1167829751240",
+      "page": "1-review-exercises",
+      "context": [
+        "Locate Fractions and Decimals on the Number Line",
+        "In the following exercises, locate the numbers on a number line."
+      ],
+      "text": "ⓐ \\(3.2\\) ⓑ \\(-1.35\\)",
+      "math": [
+        "3.2",
+        "-1.35"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3.2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3.2</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−1.35</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−1.35</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 451,
+      "anchor": "fs-id1167829751309",
+      "page": "1-review-exercises",
+      "context": [
+        "Use the Commutative and Associative Properties",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{5}{8} x + \\frac{5}{ 12 } y + \\frac{1}{8} x + \\frac{7}{ 12 } y\\)",
+      "math": [
+        "\\frac{5}{8} x + \\frac{5}{ 12 } y + \\frac{1}{8} x + \\frac{7}{ 12 } y"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>5</mn>\n            <mn>8</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>8</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>7</mn>\n            <mrow>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n          <mi>y</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>5</mn>\n            <mn>8</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>8</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>7</mn>\n            <mrow>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n          <mi>y</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 452,
+      "anchor": "fs-id1167829751377",
+      "page": "1-review-exercises",
+      "context": [
+        "Use the Commutative and Associative Properties",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(-32 \\cdot 9 \\cdot \\frac{5}{8}\\)",
+      "math": [
+        "-32 \\cdot 9 \\cdot \\frac{5}{8}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−32</mn>\n          <mo>·</mo>\n          <mn>9</mn>\n          <mo>·</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mn>8</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−32</mn>\n          <mo>·</mo>\n          <mn>9</mn>\n          <mo>·</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mn>8</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 453,
+      "anchor": "fs-id1167829754950",
+      "page": "1-review-exercises",
+      "context": [
+        "Use the Commutative and Associative Properties",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(( \\frac{ 11 }{ 15 } + \\frac{3}{8} ) + \\frac{5}{8}\\)",
+      "math": [
+        "( \\frac{ 11 }{ 15 } + \\frac{3}{8} ) + \\frac{5}{8}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <mn>11</mn>\n                </mrow>\n                <mrow>\n                  <mn>15</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>3</mn>\n                <mn>8</mn>\n              </mfrac>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mn>8</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <mn>11</mn>\n                </mrow>\n                <mrow>\n                  <mn>15</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>3</mn>\n                <mn>8</mn>\n              </mfrac>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mn>8</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 454,
+      "anchor": "fs-id1167829755016",
+      "page": "1-review-exercises",
+      "context": [
+        "Use the Properties of Identity, Inverse and Zero",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{4}{7} + \\frac{8}{ 15 } + ( - \\frac{4}{7} )\\)",
+      "math": [
+        "\\frac{4}{7} + \\frac{8}{ 15 } + ( - \\frac{4}{7} )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>4</mn>\n            <mn>7</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>8</mn>\n            <mrow>\n              <mn>15</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mo>−</mo>\n              <mfrac>\n                <mn>4</mn>\n                <mn>7</mn>\n              </mfrac>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>4</mn>\n            <mn>7</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>8</mn>\n            <mrow>\n              <mn>15</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mo>−</mo>\n              <mfrac>\n                <mn>4</mn>\n                <mn>7</mn>\n              </mfrac>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 455,
+      "anchor": "fs-id1167829755070",
+      "page": "1-review-exercises",
+      "context": [
+        "Use the Properties of Identity, Inverse and Zero",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{ 13 }{ 15 } \\cdot \\frac{9}{ 17 } \\cdot \\frac{ 15 }{ 13 }\\)",
+      "math": [
+        "\\frac{ 13 }{ 15 } \\cdot \\frac{9}{ 17 } \\cdot \\frac{ 15 }{ 13 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>13</mn>\n            </mrow>\n            <mrow>\n              <mn>15</mn>\n            </mrow>\n          </mfrac>\n          <mo>·</mo>\n          <mfrac>\n            <mn>9</mn>\n            <mrow>\n              <mn>17</mn>\n            </mrow>\n          </mfrac>\n          <mo>·</mo>\n          <mfrac>\n            <mrow>\n              <mn>15</mn>\n            </mrow>\n            <mrow>\n              <mn>13</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>13</mn>\n            </mrow>\n            <mrow>\n              <mn>15</mn>\n            </mrow>\n          </mfrac>\n          <mo>·</mo>\n          <mfrac>\n            <mn>9</mn>\n            <mrow>\n              <mn>17</mn>\n            </mrow>\n          </mfrac>\n          <mo>·</mo>\n          <mfrac>\n            <mrow>\n              <mn>15</mn>\n            </mrow>\n            <mrow>\n              <mn>13</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 456,
+      "anchor": "fs-id1167829755121",
+      "page": "1-review-exercises",
+      "context": [
+        "Use the Properties of Identity, Inverse and Zero",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{0}{ x - 3 } , x \\ne 3\\)",
+      "math": [
+        "\\frac{0}{ x - 3 } , x \\ne 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>0</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mi>x</mi>\n          <mo>≠</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>0</mn>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mi>x</mi>\n          <mo>≠</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 457,
+      "anchor": "fs-id1167829755157",
+      "page": "1-review-exercises",
+      "context": [
+        "Use the Properties of Identity, Inverse and Zero",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{ 5 x - 7 }{0} , 5 x - 7 \\ne 0\\)",
+      "math": [
+        "\\frac{ 5 x - 7 }{0} , 5 x - 7 \\ne 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n            <mn>0</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>7</mn>\n          <mo>≠</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n            <mn>0</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>7</mn>\n          <mo>≠</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 458,
+      "anchor": "fs-id1167829755211",
+      "page": "1-review-exercises",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(8 ( a - 4 )\\)",
+      "math": [
+        "8 ( a - 4 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>8</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>8</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>a</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 459,
+      "anchor": "fs-id1167829755253",
+      "page": "1-review-exercises",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(12 ( \\frac{2}{3} b + \\frac{5}{6} )\\)",
+      "math": [
+        "12 ( \\frac{2}{3} b + \\frac{5}{6} )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>12</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mn>3</mn>\n              </mfrac>\n              <mi>b</mi>\n              <mo>+</mo>\n              <mfrac>\n                <mn>5</mn>\n                <mn>6</mn>\n              </mfrac>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>12</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mn>3</mn>\n              </mfrac>\n              <mi>b</mi>\n              <mo>+</mo>\n              <mfrac>\n                <mn>5</mn>\n                <mn>6</mn>\n              </mfrac>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 460,
+      "anchor": "fs-id1167829755303",
+      "page": "1-review-exercises",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(18 \\cdot \\frac{ 5 }{6} ( 2 x - 5 )\\)",
+      "math": [
+        "18 \\cdot \\frac{ 5 }{6} ( 2 x - 5 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>18</mn>\n          <mo>·</mo>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n            </mrow>\n            <mn>6</mn>\n          </mfrac>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>18</mn>\n          <mo>·</mo>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n            </mrow>\n            <mn>6</mn>\n          </mfrac>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 461,
+      "anchor": "fs-id1167829755355",
+      "page": "1-review-exercises",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(( x - 5 ) p\\)",
+      "math": [
+        "( x - 5 ) p"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mi>p</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mi>p</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 462,
+      "anchor": "fs-id1167829755399",
+      "page": "1-review-exercises",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(-4 ( y - 3 )\\)",
+      "math": [
+        "-4 ( y - 3 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−4</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−4</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 463,
+      "anchor": "fs-id1167829755441",
+      "page": "1-review-exercises",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(12 - 6 ( x + 3 )\\)",
+      "math": [
+        "12 - 6 ( x + 3 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>12</mn>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>12</mn>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 464,
+      "anchor": "fs-id1167829755487",
+      "page": "1-review-exercises",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(6 ( 3 x - 4 ) - ( -5 )\\)",
+      "math": [
+        "6 ( 3 x - 4 ) - ( -5 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>6</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>6</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 465,
+      "anchor": "fs-id1167829930646",
+      "page": "1-review-exercises",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(5 ( 2 y + 3 ) - ( 4 y - 1 )\\)",
+      "math": [
+        "5 ( 2 y + 3 ) - ( 4 y - 1 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>5</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>5</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    }
+  ],
+  "practice": [],
+  "answers": {}
+}

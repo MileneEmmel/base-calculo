@@ -4,6 +4,7 @@ import json
 import os
 import re
 import sqlite3
+from collections import Counter
 from pathlib import Path
 
 
@@ -56,21 +57,41 @@ def validate_seed(seed: dict) -> None:
 
     for topic in topics:
         require(topic["module_id"] in module_ids, f"Módulo inexistente: {topic['module_id']}")
+        parent_id = topic.get("parent_id")
+        if parent_id:
+            require(parent_id in topic_ids and parent_id != topic["id"], f"Tópico pai inválido: {topic['id']}")
+            parent = next(item for item in topics if item["id"] == parent_id)
+            require(parent["module_id"] == topic["module_id"], f"Tópicos de módulos diferentes: {topic['id']}")
+            ancestors = {topic["id"]}
+            while parent_id:
+                require(parent_id not in ancestors, f"Ciclo nos tópicos: {topic['id']}")
+                ancestors.add(parent_id)
+                parent_id = next(item for item in topics if item["id"] == parent_id).get("parent_id")
 
-    normalized_statements: set[str] = set()
+    normalized_statements: dict[str, str] = {}
+    source_locations: set[tuple[str, str]] = set()
     for question in questions:
         require(question["topic_id"] in topic_ids, f"Tópico inexistente: {question['topic_id']}")
         require(question["source_id"] in source_ids, f"Fonte inexistente: {question['source_id']}")
-        require(1 <= question["difficulty"] <= 5, f"Dificuldade inválida: {question['id']}")
+        require(1 <= question["difficulty"] <= 4, f"Dificuldade inválida: {question['id']}")
         require(question["statement_md"].strip(), f"Enunciado vazio: {question['id']}")
         require(question["solution_md"].strip(), f"Solução vazia: {question['id']}")
         require(question["source_locator"].strip(), f"Localização da fonte vazia: {question['id']}")
+        location = (question["source_id"], re.sub(r"\s+", " ", question["source_locator"].strip().casefold()))
+        require(location not in source_locations, f"Exercício da fonte duplicado: {question['id']}")
+        source_locations.add(location)
         require(question["adaptation_note"].strip(), f"Nota de adaptação vazia: {question['id']}")
         require(isinstance(question["answer"], dict), f"Resposta inválida: {question['id']}")
 
         normalized = re.sub(r"\s+", " ", question["statement_md"].strip().lower())
-        require(normalized not in normalized_statements, f"Enunciado duplicado: {question['id']}")
-        normalized_statements.add(normalized)
+        # A obra pode repetir legitimamente um exercício no teste e na lista.
+        # Exige ligação explícita ao primeiro registro; origem repetida segue proibida.
+        if normalized in normalized_statements:
+            require(question.get("intentional_repeat_of") == normalized_statements[normalized],
+                    f"Enunciado duplicado sem referência explícita: {question['id']}")
+        else:
+            require(not question.get("intentional_repeat_of"), f"Repetição sem original: {question['id']}")
+            normalized_statements[normalized] = question["id"]
 
         choices = question.get("choices", [])
         if question["question_type"] == "multiple_choice":
@@ -93,11 +114,11 @@ def insert_seed(connection: sqlite3.Connection, seed: dict) -> None:
     )
     connection.executemany(
         """
-        INSERT INTO topics (id, module_id, slug, title, description, position)
-        VALUES (?, ?, ?, ?, ?, ?)
+        INSERT INTO topics (id, module_id, parent_id, slug, title, description, position)
+        VALUES (?, ?, ?, ?, ?, ?, ?)
         """,
         [
-            (t["id"], t["module_id"], t["slug"], t["title"], t["description"], t["position"])
+            (t["id"], t["module_id"], t.get("parent_id"), t["slug"], t["title"], t["description"], t["position"])
             for t in seed["topics"]
         ],
     )
@@ -195,15 +216,36 @@ def export_public_data(connection: sqlite3.Connection) -> None:
         exported.append(item)
 
     EXPORT_PATH.parent.mkdir(parents=True, exist_ok=True)
+    topics = [dict(row) for row in connection.execute(
+        """
+        SELECT t.id, t.slug, t.title, t.description, t.position,
+               m.slug AS module_slug, m.title AS module_title,
+               parent.slug AS parent_slug,
+               COUNT(q.id) AS question_count
+        FROM topics t
+        JOIN modules m ON m.id = t.module_id
+        LEFT JOIN topics parent ON parent.id = t.parent_id
+        LEFT JOIN questions q ON q.topic_id = t.id AND q.status = 'published'
+        GROUP BY t.id
+        ORDER BY m.position, t.position
+        """
+    ).fetchall()]
     EXPORT_PATH.write_text(
-        json.dumps({"version": 1, "questions": exported}, ensure_ascii=False, indent=2) + "\n",
+        json.dumps({"version": 1, "topics": topics, "questions": exported}, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
+
+
+def validate_publication_limits(seed: dict) -> None:
+    counts = Counter((q["topic_id"], q["difficulty"]) for q in seed["questions"] if q["status"] == "published")
+    require(all(count <= 15 for count in counts.values()),
+            "Limite de publicação excedido: até 15 questões por tópico e dificuldade. Execute scripts/question_catalog.py para arquivar excedentes.")
 
 
 def main() -> None:
     seed = json.loads(SEED_PATH.read_text(encoding="utf-8"))
     validate_seed(seed)
+    validate_publication_limits(seed)
 
     DATABASE_PATH.parent.mkdir(parents=True, exist_ok=True)
     if TEMP_DATABASE_PATH.exists():

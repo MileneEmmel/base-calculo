@@ -1,0 +1,1170 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/11-5-solve-systems-of-nonlinear-equations",
+  "title": "11.5 Solve Systems of Nonlinear Equations",
+  "sha256": "e4798178d25c52f05a05e12b861b2abf06f9e5a1b70be5891faa6baa138199ea",
+  "questions": [
+    {
+      "number": 188,
+      "anchor": "fs-id1163870551733",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Graphing",
+        "In the following exercises, solve the system of equations by using graphing."
+      ],
+      "text": "\\({ y = 2 x + 2 y = - {x}^{2} + 2\\)",
+      "math": [
+        "{ \\begin{matrix} y = 2 x + 2 \\\\ y = - {x}^{2} + 2 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mtext>−</mtext>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mtext>−</mtext>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 189,
+      "anchor": "fs-id1163873792143",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Graphing",
+        "In the following exercises, solve the system of equations by using graphing."
+      ],
+      "text": "\\({ y = 6 x - 4 y = 2 {x}^{2}\\)",
+      "math": [
+        "{ \\begin{matrix} y = 6 x - 4 \\\\ y = 2 {x}^{2} \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>6</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>2</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>6</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>2</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 190,
+      "anchor": "fs-id1163869399259",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Graphing",
+        "In the following exercises, solve the system of equations by using graphing."
+      ],
+      "text": "\\({ x + y = 2 x = {y}^{2}\\)",
+      "math": [
+        "{ \\begin{matrix} x + y = 2 \\\\ x = {y}^{2} \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>=</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>=</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 191,
+      "anchor": "fs-id1163873798566",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Graphing",
+        "In the following exercises, solve the system of equations by using graphing."
+      ],
+      "text": "\\({ x - y = -2 x = {y}^{2}\\)",
+      "math": [
+        "{ \\begin{matrix} x - y = -2 \\\\ x = {y}^{2} \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>−2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>=</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>−2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>=</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 192,
+      "anchor": "fs-id1163874018820",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Graphing",
+        "In the following exercises, solve the system of equations by using graphing."
+      ],
+      "text": "\\({ y = \\frac{3}{2} x + 3 y = - {x}^{2} + 2\\)",
+      "math": [
+        "{ \\begin{matrix} y = \\frac{3}{2} x + 3 \\\\ y = - {x}^{2} + 2 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mfrac>\n                    <mn>3</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mtext>−</mtext>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mfrac>\n                    <mn>3</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mtext>−</mtext>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 193,
+      "anchor": "fs-id1163870407302",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Graphing",
+        "In the following exercises, solve the system of equations by using graphing."
+      ],
+      "text": "\\({ y = x - 1 y = {x}^{2} + 1\\)",
+      "math": [
+        "{ \\begin{matrix} y = x - 1 \\\\ y = {x}^{2} + 1 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 194,
+      "anchor": "fs-id1163870516038",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Graphing",
+        "In the following exercises, solve the system of equations by using graphing."
+      ],
+      "text": "\\({ x = -2 {x}^{2} + {y}^{2} = 4\\)",
+      "math": [
+        "{ \\begin{matrix} x = -2 \\\\ {x}^{2} + {y}^{2} = 4 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>=</mo>\n                  <mn>−2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>=</mo>\n                  <mn>−2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 195,
+      "anchor": "fs-id1163873660218",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Graphing",
+        "In the following exercises, solve the system of equations by using graphing."
+      ],
+      "text": "\\({ y = -4 {x}^{2} + {y}^{2} = 16\\)",
+      "math": [
+        "{ \\begin{matrix} y = -4 \\\\ {x}^{2} + {y}^{2} = 16 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>−4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>16</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>−4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>16</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 196,
+      "anchor": "fs-id1163873912376",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Graphing",
+        "In the following exercises, solve the system of equations by using graphing."
+      ],
+      "text": "\\({ x = 2 { ( x + 2 ) }^{2} + { ( y + 3 ) }^{2} = 16\\)",
+      "math": [
+        "{ \\begin{matrix} x = 2 \\\\ { ( x + 2 ) }^{2} + { ( y + 3 ) }^{2} = 16 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>=</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mrow>\n                      <mo>(</mo>\n                      <mrow>\n                        <mi>x</mi>\n                        <mo>+</mo>\n                        <mn>2</mn>\n                      </mrow>\n                      <mo>)</mo>\n                    </mrow>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mrow>\n                      <mo>(</mo>\n                      <mrow>\n                        <mi>y</mi>\n                        <mo>+</mo>\n                        <mn>3</mn>\n                      </mrow>\n                      <mo>)</mo>\n                    </mrow>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>16</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>=</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mrow>\n                      <mo>(</mo>\n                      <mrow>\n                        <mi>x</mi>\n                        <mo>+</mo>\n                        <mn>2</mn>\n                      </mrow>\n                      <mo>)</mo>\n                    </mrow>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mrow>\n                      <mo>(</mo>\n                      <mrow>\n                        <mi>y</mi>\n                        <mo>+</mo>\n                        <mn>3</mn>\n                      </mrow>\n                      <mo>)</mo>\n                    </mrow>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>16</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 197,
+      "anchor": "fs-id1163873791403",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Graphing",
+        "In the following exercises, solve the system of equations by using graphing."
+      ],
+      "text": "\\({ y = -1 { ( x - 2 ) }^{2} + { ( y - 4 ) }^{2} = 25\\)",
+      "math": [
+        "{ \\begin{matrix} y = -1 \\\\ { ( x - 2 ) }^{2} + { ( y - 4 ) }^{2} = 25 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>−1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mrow>\n                      <mo>(</mo>\n                      <mrow>\n                        <mi>x</mi>\n                        <mo>−</mo>\n                        <mn>2</mn>\n                      </mrow>\n                      <mo>)</mo>\n                    </mrow>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mrow>\n                      <mo>(</mo>\n                      <mrow>\n                        <mi>y</mi>\n                        <mo>−</mo>\n                        <mn>4</mn>\n                      </mrow>\n                      <mo>)</mo>\n                    </mrow>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>25</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>−1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mrow>\n                      <mo>(</mo>\n                      <mrow>\n                        <mi>x</mi>\n                        <mo>−</mo>\n                        <mn>2</mn>\n                      </mrow>\n                      <mo>)</mo>\n                    </mrow>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mrow>\n                      <mo>(</mo>\n                      <mrow>\n                        <mi>y</mi>\n                        <mo>−</mo>\n                        <mn>4</mn>\n                      </mrow>\n                      <mo>)</mo>\n                    </mrow>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>25</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 198,
+      "anchor": "fs-id1163873638220",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Graphing",
+        "In the following exercises, solve the system of equations by using graphing."
+      ],
+      "text": "\\({ y = -2 x + 4 y = x + 1\\)",
+      "math": [
+        "{ \\begin{matrix} y = -2 x + 4 \\\\ y = \\sqrt{x} + 1 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>−2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mroot>\n                    <mi>x</mi>\n                    <mrow></mrow>\n                  </mroot>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>−2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mroot>\n                    <mi>x</mi>\n                    <mrow></mrow>\n                  </mroot>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 199,
+      "anchor": "fs-id1163873863087",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Graphing",
+        "In the following exercises, solve the system of equations by using graphing."
+      ],
+      "text": "\\({ y = - \\frac{1}{2} x + 2 y = x - 2\\)",
+      "math": [
+        "{ \\begin{matrix} y = - \\frac{1}{2} x + 2 \\\\ y = \\sqrt{x} - 2 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mo>−</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mroot>\n                    <mi>x</mi>\n                    <mrow></mrow>\n                  </mroot>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mo>−</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mroot>\n                    <mi>x</mi>\n                    <mrow></mrow>\n                  </mroot>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 200,
+      "anchor": "fs-id1163873628568",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Substitution",
+        "In the following exercises, solve the system of equations by using substitution."
+      ],
+      "text": "\\({ {x}^{2} + 4 {y}^{2} = 4 y = \\frac{1}{2} x - 1\\)",
+      "math": [
+        "{ \\begin{matrix} {x}^{2} + 4 {y}^{2} = 4 \\\\ y = \\frac{1}{2} x - 1 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 201,
+      "anchor": "fs-id1163873817958",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Substitution",
+        "In the following exercises, solve the system of equations by using substitution."
+      ],
+      "text": "\\({ 9 {x}^{2} + {y}^{2} = 9 y = 3 x + 3\\)",
+      "math": [
+        "{ \\begin{matrix} 9 {x}^{2} + {y}^{2} = 9 \\\\ y = 3 x + 3 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>9</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>9</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>9</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>9</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 202,
+      "anchor": "fs-id1163873730327",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Substitution",
+        "In the following exercises, solve the system of equations by using substitution."
+      ],
+      "text": "\\({ 9 {x}^{2} + {y}^{2} = 9 y = x + 3\\)",
+      "math": [
+        "{ \\begin{matrix} 9 {x}^{2} + {y}^{2} = 9 \\\\ y = x + 3 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>9</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>9</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>9</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>9</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 203,
+      "anchor": "fs-id1163873796662",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Substitution",
+        "In the following exercises, solve the system of equations by using substitution."
+      ],
+      "text": "\\({ 9 {x}^{2} + 4 {y}^{2} = 36 x = 2\\)",
+      "math": [
+        "{ \\begin{matrix} 9 {x}^{2} + 4 {y}^{2} = 36 \\\\ x = 2 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>9</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>36</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>=</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>9</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>36</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>=</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 204,
+      "anchor": "fs-id1163873897281",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Substitution",
+        "In the following exercises, solve the system of equations by using substitution."
+      ],
+      "text": "\\({ 4 {x}^{2} + {y}^{2} = 4 y = 4\\)",
+      "math": [
+        "{ \\begin{matrix} 4 {x}^{2} + {y}^{2} = 4 \\\\ y = 4 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>4</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>4</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 205,
+      "anchor": "fs-id1163873627432",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Substitution",
+        "In the following exercises, solve the system of equations by using substitution."
+      ],
+      "text": "\\({ {x}^{2} + {y}^{2} = 169 x = 12\\)",
+      "math": [
+        "{ \\begin{matrix} {x}^{2} + {y}^{2} = 169 \\\\ x = 12 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>169</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>=</mo>\n                  <mn>12</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>169</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>=</mo>\n                  <mn>12</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 206,
+      "anchor": "fs-id1163873521592",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Substitution",
+        "In the following exercises, solve the system of equations by using substitution."
+      ],
+      "text": "\\({ 3 {x}^{2} - y = 0 y = 2 x - 1\\)",
+      "math": [
+        "{ \\begin{matrix} 3 {x}^{2} - y = 0 \\\\ y = 2 x - 1 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>0</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>0</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 207,
+      "anchor": "fs-id1163873874004",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Substitution",
+        "In the following exercises, solve the system of equations by using substitution."
+      ],
+      "text": "\\({ 2 {y}^{2} - x = 0 y = x + 1\\)",
+      "math": [
+        "{ \\begin{matrix} 2 {y}^{2} - x = 0 \\\\ y = x + 1 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mi>x</mi>\n                  <mo>=</mo>\n                  <mn>0</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mi>x</mi>\n                  <mo>=</mo>\n                  <mn>0</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 208,
+      "anchor": "fs-id1163873525451",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Substitution",
+        "In the following exercises, solve the system of equations by using substitution."
+      ],
+      "text": "\\({ y = {x}^{2} + 3 y = x + 3\\)",
+      "math": [
+        "{ \\begin{matrix} y = {x}^{2} + 3 \\\\ y = x + 3 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 209,
+      "anchor": "fs-id1163870459435",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Substitution",
+        "In the following exercises, solve the system of equations by using substitution."
+      ],
+      "text": "\\({ y = {x}^{2} - 4 y = x - 4\\)",
+      "math": [
+        "{ \\begin{matrix} y = {x}^{2} - 4 \\\\ y = x - 4 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 210,
+      "anchor": "fs-id1163873539125",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Substitution",
+        "In the following exercises, solve the system of equations by using substitution."
+      ],
+      "text": "\\({ {x}^{2} + {y}^{2} = 25 x - y = 1\\)",
+      "math": [
+        "{ \\begin{matrix} {x}^{2} + {y}^{2} = 25 \\\\ x - y = 1 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>25</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>25</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 211,
+      "anchor": "fs-id1163873636025",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Substitution",
+        "In the following exercises, solve the system of equations by using substitution."
+      ],
+      "text": "\\({ {x}^{2} + {y}^{2} = 25 2 x + y = 10\\)",
+      "math": [
+        "{ \\begin{matrix} {x}^{2} + {y}^{2} = 25 \\\\ 2 x + y = 10 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>25</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>10</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>25</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>10</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 212,
+      "anchor": "fs-id1163873652213",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Elimination",
+        "In the following exercises, solve the system of equations by using elimination."
+      ],
+      "text": "\\({ {x}^{2} + {y}^{2} = 16 {x}^{2} - 2 y = 8\\)",
+      "math": [
+        "{ \\begin{matrix} {x}^{2} + {y}^{2} = 16 \\\\ {x}^{2} - 2 y = 8 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>16</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>8</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>16</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>8</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 213,
+      "anchor": "fs-id1163873821209",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Elimination",
+        "In the following exercises, solve the system of equations by using elimination."
+      ],
+      "text": "\\({ {x}^{2} + {y}^{2} = 16 {x}^{2} - y = 4\\)",
+      "math": [
+        "{ \\begin{matrix} {x}^{2} + {y}^{2} = 16 \\\\ {x}^{2} - y = 4 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>16</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>16</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 214,
+      "anchor": "fs-id1163873871033",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Elimination",
+        "In the following exercises, solve the system of equations by using elimination."
+      ],
+      "text": "\\({ {x}^{2} + {y}^{2} = 4 {x}^{2} + 2 y = 1\\)",
+      "math": [
+        "{ \\begin{matrix} {x}^{2} + {y}^{2} = 4 \\\\ {x}^{2} + 2 y = 1 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 215,
+      "anchor": "fs-id1163873814916",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Elimination",
+        "In the following exercises, solve the system of equations by using elimination."
+      ],
+      "text": "\\({ {x}^{2} + {y}^{2} = 4 {x}^{2} - y = 2\\)",
+      "math": [
+        "{ \\begin{matrix} {x}^{2} + {y}^{2} = 4 \\\\ {x}^{2} - y = 2 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 216,
+      "anchor": "fs-id1163873800365",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Elimination",
+        "In the following exercises, solve the system of equations by using elimination."
+      ],
+      "text": "\\({ {x}^{2} + {y}^{2} = 9 {x}^{2} - y = 3\\)",
+      "math": [
+        "{ \\begin{matrix} {x}^{2} + {y}^{2} = 9 \\\\ {x}^{2} - y = 3 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>9</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>9</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 217,
+      "anchor": "fs-id1163873757961",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Elimination",
+        "In the following exercises, solve the system of equations by using elimination."
+      ],
+      "text": "\\({ {x}^{2} + {y}^{2} = 4 {y}^{2} - x = 2\\)",
+      "math": [
+        "{ \\begin{matrix} {x}^{2} + {y}^{2} = 4 \\\\ {y}^{2} - x = 2 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mi>x</mi>\n                  <mo>=</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mi>x</mi>\n                  <mo>=</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 218,
+      "anchor": "fs-id1163873558582",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Elimination",
+        "In the following exercises, solve the system of equations by using elimination."
+      ],
+      "text": "\\({ {x}^{2} + {y}^{2} = 25 2 {x}^{2} - 3 {y}^{2} = 5\\)",
+      "math": [
+        "{ \\begin{matrix} {x}^{2} + {y}^{2} = 25 \\\\ 2 {x}^{2} - 3 {y}^{2} = 5 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>25</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>5</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>25</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>5</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 219,
+      "anchor": "fs-id1163873914313",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Elimination",
+        "In the following exercises, solve the system of equations by using elimination."
+      ],
+      "text": "\\({ {x}^{2} + {y}^{2} = 20 {x}^{2} - {y}^{2} = -12\\)",
+      "math": [
+        "{ \\begin{matrix} {x}^{2} + {y}^{2} = 20 \\\\ {x}^{2} - {y}^{2} = -12 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>20</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>−12</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>20</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>−12</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 220,
+      "anchor": "fs-id1163873806539",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Elimination",
+        "In the following exercises, solve the system of equations by using elimination."
+      ],
+      "text": "\\({ {x}^{2} + {y}^{2} = 13 {x}^{2} - {y}^{2} = 5\\)",
+      "math": [
+        "{ \\begin{matrix} {x}^{2} + {y}^{2} = 13 \\\\ {x}^{2} - {y}^{2} = 5 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>13</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>5</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>13</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>5</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 221,
+      "anchor": "fs-id1163870413759",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Elimination",
+        "In the following exercises, solve the system of equations by using elimination."
+      ],
+      "text": "\\({ {x}^{2} + {y}^{2} = 16 {x}^{2} - {y}^{2} = 16\\)",
+      "math": [
+        "{ \\begin{matrix} {x}^{2} + {y}^{2} = 16 \\\\ {x}^{2} - {y}^{2} = 16 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>16</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>16</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>16</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>16</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 222,
+      "anchor": "fs-id1163870264792",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Elimination",
+        "In the following exercises, solve the system of equations by using elimination."
+      ],
+      "text": "\\({ 4 {x}^{2} + 9 {y}^{2} = 36 2 {x}^{2} - 9 {y}^{2} = 18\\)",
+      "math": [
+        "{ \\begin{matrix} 4 {x}^{2} + 9 {y}^{2} = 36 \\\\ 2 {x}^{2} - 9 {y}^{2} = 18 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>4</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <mn>9</mn>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>36</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>9</mn>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>18</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>4</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <mn>9</mn>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>36</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>9</mn>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>18</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 223,
+      "anchor": "fs-id1163873853215",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Elimination",
+        "In the following exercises, solve the system of equations by using elimination."
+      ],
+      "text": "\\({ {x}^{2} - {y}^{2} = 3 2 {x}^{2} + {y}^{2} = 6\\)",
+      "math": [
+        "{ \\begin{matrix} {x}^{2} - {y}^{2} = 3 \\\\ 2 {x}^{2} + {y}^{2} = 6 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>6</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>6</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 224,
+      "anchor": "fs-id1163873805546",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Elimination",
+        "In the following exercises, solve the system of equations by using elimination."
+      ],
+      "text": "\\({ 4 {x}^{2} - {y}^{2} = 4 4 {x}^{2} + {y}^{2} = 4\\)",
+      "math": [
+        "{ \\begin{matrix} 4 {x}^{2} - {y}^{2} = 4 \\\\ 4 {x}^{2} + {y}^{2} = 4 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>4</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>4</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>4</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>4</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 225,
+      "anchor": "fs-id1163873686685",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Elimination",
+        "In the following exercises, solve the system of equations by using elimination."
+      ],
+      "text": "\\({ {x}^{2} - {y}^{2} = -5 3 {x}^{2} + 2 {y}^{2} = 30\\)",
+      "math": [
+        "{ \\begin{matrix} {x}^{2} - {y}^{2} = -5 \\\\ 3 {x}^{2} + 2 {y}^{2} = 30 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>−5</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>30</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>−5</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>30</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 226,
+      "anchor": "fs-id1163869408844",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Elimination",
+        "In the following exercises, solve the system of equations by using elimination."
+      ],
+      "text": "\\({ {x}^{2} - {y}^{2} = 1 {x}^{2} - 2 y = 4\\)",
+      "math": [
+        "{ \\begin{matrix} {x}^{2} - {y}^{2} = 1 \\\\ {x}^{2} - 2 y = 4 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>=</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 227,
+      "anchor": "fs-id1163873643106",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Elimination",
+        "In the following exercises, solve the system of equations by using elimination."
+      ],
+      "text": "\\({ 2 {x}^{2} + {y}^{2} = 11 {x}^{2} + 3 {y}^{2} = 28\\)",
+      "math": [
+        "{ \\begin{matrix} 2 {x}^{2} + {y}^{2} = 11 \\\\ {x}^{2} + 3 {y}^{2} = 28 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>11</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>28</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>11</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>=</mo>\n                  <mn>28</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 228,
+      "anchor": "fs-id1163873853531",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Use a System of Nonlinear Equations to Solve Applications",
+        "In the following exercises, solve the problem using a system of equations."
+      ],
+      "text": "The sum of two numbers is \\(-6\\) and the product is 8. Find the numbers.",
+      "math": [
+        "-6"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−6</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 229,
+      "anchor": "fs-id1163873801053",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Use a System of Nonlinear Equations to Solve Applications",
+        "In the following exercises, solve the problem using a system of equations."
+      ],
+      "text": "The sum of two numbers is 11 and the product is \\(-42.\\) Find the numbers.",
+      "math": [
+        "-42."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−42</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−42</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 230,
+      "anchor": "fs-id1163873520191",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Use a System of Nonlinear Equations to Solve Applications",
+        "In the following exercises, solve the problem using a system of equations."
+      ],
+      "text": "The sum of the squares of two numbers is 65. The difference of the numbers is 3. Find the numbers.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 231,
+      "anchor": "fs-id1163869164255",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Use a System of Nonlinear Equations to Solve Applications",
+        "In the following exercises, solve the problem using a system of equations."
+      ],
+      "text": "The sum of the squares of two numbers is 113. The difference of the numbers is 1. Find the numbers.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 232,
+      "anchor": "fs-id1163873632453",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Use a System of Nonlinear Equations to Solve Applications",
+        "In the following exercises, solve the problem using a system of equations."
+      ],
+      "text": "The difference of the squares of two numbers is 15. The difference of twice the square of the first number and the square of the second number is 30. Find the numbers.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 233,
+      "anchor": "fs-id1163874017665",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Use a System of Nonlinear Equations to Solve Applications",
+        "In the following exercises, solve the problem using a system of equations."
+      ],
+      "text": "The difference of the squares of two numbers is 20. The difference of the square of the first number and twice the square of the second number is 4. Find the numbers.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 234,
+      "anchor": "fs-id1163873858060",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Use a System of Nonlinear Equations to Solve Applications",
+        "In the following exercises, solve the problem using a system of equations."
+      ],
+      "text": "The perimeter of a rectangle is 32 inches and its area is 63 square inches. Find the length and width of the rectangle.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 235,
+      "anchor": "fs-id1163873863908",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Use a System of Nonlinear Equations to Solve Applications",
+        "In the following exercises, solve the problem using a system of equations."
+      ],
+      "text": "The perimeter of a rectangle is 52 cm and its area is 165 \\({cm}^{2}.\\) Find the length and width of the rectangle.",
+      "math": [
+        "{cm}^{2}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mtext>cm</mtext></mrow><mn>2</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mtext>cm</mtext></mrow><mn>2</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 236,
+      "anchor": "fs-id1163873951883",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Use a System of Nonlinear Equations to Solve Applications",
+        "In the following exercises, solve the problem using a system of equations."
+      ],
+      "text": "Dion purchased a new microwave. The diagonal of the door measures 17 inches. The door also has an area of 120 square inches. What are the length and width of the microwave door?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 237,
+      "anchor": "fs-id1163873787464",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Use a System of Nonlinear Equations to Solve Applications",
+        "In the following exercises, solve the problem using a system of equations."
+      ],
+      "text": "Jules purchased a microwave for his kitchen. The diagonal of the front of the microwave measures 26 inches. The front also has an area of 240 square inches. What are the length and width of the microwave?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 238,
+      "anchor": "fs-id1163870335196",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Use a System of Nonlinear Equations to Solve Applications",
+        "In the following exercises, solve the problem using a system of equations."
+      ],
+      "text": "Roman found a widescreen TV on sale, but isn’t sure if it will fit his entertainment center. The TV is 60”. The size of a TV is measured on the diagonal of the screen and a widescreen has a length that is larger than the width. The screen also has an area of 1728 square inches. His entertainment center has an insert for the TV with a length of 50 inches and width of 40 inches. What are the length and width of the TV screen and will it fit Roman’s entertainment center?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 239,
+      "anchor": "fs-id1163873557299",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Use a System of Nonlinear Equations to Solve Applications",
+        "In the following exercises, solve the problem using a system of equations."
+      ],
+      "text": "Donnette found a widescreen TV at a garage sale, but isn’t sure if it will fit her entertainment center. The TV is 50”. The size of a TV is measured on the diagonal of the screen and a widescreen has a length that is larger than the width. The screen also has an area of 1200 square inches. Her entertainment center has an insert for the TV with a length of 38 inches and width of 27 inches. What are the length and width of the TV screen and will it fit Donnette’s entertainment center?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 240,
+      "anchor": "fs-id1163873758518",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "In your own words, explain the advantages and disadvantages of solving a system of equations by graphing.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 241,
+      "anchor": "fs-id1163873644838",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain in your own words how to solve a system of equations using substitution.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 242,
+      "anchor": "fs-id1163873786868",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain in your own words how to solve a system of equations using elimination.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 243,
+      "anchor": "fs-id1163870292670",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "A circle and a parabola can intersect in ways that would result in 0, 1, 2, 3, or 4 solutions. Draw a sketch of each of the possibilities.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "11.65",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1163873812945",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Graphing"
+      ],
+      "text": "Solve the system by graphing: \\({x+y=4y={x}^{2}+2.\\)",
+      "math": [
+        "{\\begin{matrix}x+y=4\\\\y={x}^{2}+2\\end{matrix}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>4</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>4</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.66",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1163873860966",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Graphing"
+      ],
+      "text": "Solve the system by graphing: \\({x-y=-1y=-{x}^{2}+3.\\)",
+      "math": [
+        "{\\begin{matrix}x-y=-1\\\\y=-{x}^{2}+3\\end{matrix}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>x</mi><mo>−</mo><mi>y</mi><mo>=</mo><mn>−1</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>=</mo><mtext>−</mtext><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>x</mi><mo>−</mo><mi>y</mi><mo>=</mo><mn>−1</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>=</mo><mtext>−</mtext><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.67",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1163873549503",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Graphing"
+      ],
+      "text": "Solve the system by graphing: \\({x=-6{(x+3)}^{2}+{(y-1)}^{2}=9.\\)",
+      "math": [
+        "{\\begin{matrix}x=-6\\\\{(x+3)}^{2}+{(y-1)}^{2}=9\\end{matrix}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>x</mi><mo>=</mo><mn>−6</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><msup><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mn>2</mn></msup><mo>+</mo><msup><mrow><mo>(</mo><mrow><mi>y</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mn>2</mn></msup><mo>=</mo><mn>9</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>x</mi><mo>=</mo><mn>−6</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><msup><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mn>2</mn></msup><mo>+</mo><msup><mrow><mo>(</mo><mrow><mi>y</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mn>2</mn></msup><mo>=</mo><mn>9</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.68",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1163873770551",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Graphing"
+      ],
+      "text": "Solve the system by graphing: \\({y=4{(x-2)}^{2}+{(y+3)}^{2}=4.\\)",
+      "math": [
+        "{\\begin{matrix}y=4\\\\{(x-2)}^{2}+{(y+3)}^{2}=4\\end{matrix}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>=</mo><mn>4</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><msup><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow><mn>2</mn></msup><mo>+</mo><msup><mrow><mo>(</mo><mrow><mi>y</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mn>2</mn></msup><mo>=</mo><mn>4</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>=</mo><mn>4</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><msup><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow><mn>2</mn></msup><mo>+</mo><msup><mrow><mo>(</mo><mrow><mi>y</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mn>2</mn></msup><mo>=</mo><mn>4</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.69",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1163873599263",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Substitution"
+      ],
+      "text": "Solve the system by using substitution: \\({{x}^{2}+9{y}^{2}=9y=\\frac{1}{3}x-3.\\)",
+      "math": [
+        "{\\begin{matrix}{x}^{2}+9{y}^{2}=9\\\\y=\\frac{1}{3}x-3\\end{matrix}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>9</mn><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>9</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>x</mi><mo>−</mo><mn>3</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>9</mn><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>9</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>x</mi><mo>−</mo><mn>3</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.70",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1163873526545",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Substitution"
+      ],
+      "text": "Solve the system by using substitution: \\({4{x}^{2}+{y}^{2}=4y=x+2.\\)",
+      "math": [
+        "{\\begin{matrix}4{x}^{2}+{y}^{2}=4\\\\y=x+2\\end{matrix}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>4</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>=</mo><mi>x</mi><mo>+</mo><mn>2</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>4</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>=</mo><mi>x</mi><mo>+</mo><mn>2</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.71",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1163873676484",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Substitution"
+      ],
+      "text": "Solve the system by using substitution: \\({{x}^{2}-y=0y=2x-3.\\)",
+      "math": [
+        "{\\begin{matrix}{x}^{2}-y=0\\\\y=2x-3\\end{matrix}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mi>y</mi><mo>=</mo><mn>0</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>=</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mi>y</mi><mo>=</mo><mn>0</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>=</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.72",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1163870491247",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Substitution"
+      ],
+      "text": "Solve the system by using substitution: \\({{y}^{2}-x=0y=3x-2.\\)",
+      "math": [
+        "{\\begin{matrix}{y}^{2}-x=0\\\\y=3x-2\\end{matrix}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mi>x</mi><mo>=</mo><mn>0</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>=</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>2</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mi>x</mi><mo>=</mo><mn>0</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>=</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>2</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.73",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1163873809154",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Elimination"
+      ],
+      "text": "Solve the system by elimination: \\({{x}^{2}+{y}^{2}=9{x}^{2}-y=9.\\)",
+      "math": [
+        "{\\begin{matrix}{x}^{2}+{y}^{2}=9\\\\{x}^{2}-y=9\\end{matrix}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>9</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mi>y</mi><mo>=</mo><mn>9</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>9</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mi>y</mi><mo>=</mo><mn>9</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.74",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1163873998114",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Elimination"
+      ],
+      "text": "Solve the system by elimination: \\({{x}^{2}+{y}^{2}=1-x+{y}^{2}=1.\\)",
+      "math": [
+        "{\\begin{matrix}{x}^{2}+{y}^{2}=1\\\\-x+{y}^{2}=1\\end{matrix}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>1</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mo>−</mo><mi>x</mi><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>1</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>1</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mo>−</mo><mi>x</mi><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>1</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.75",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1163873670070",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Elimination"
+      ],
+      "text": "Solve the system by elimination: \\({{x}^{2}+{y}^{2}=25{y}^{2}-{x}^{2}=7.\\)",
+      "math": [
+        "{\\begin{matrix}{x}^{2}+{y}^{2}=25\\\\{y}^{2}-{x}^{2}=7\\end{matrix}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>25</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><msup><mi>x</mi><mn>2</mn></msup><mo>=</mo><mn>7</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>25</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><msup><mi>x</mi><mn>2</mn></msup><mo>=</mo><mn>7</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.76",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1163873633655",
+      "context": [
+        "Solve a System of Nonlinear Equations Using Elimination"
+      ],
+      "text": "Solve the system by elimination: \\({{x}^{2}+{y}^{2}=4{x}^{2}-{y}^{2}=4.\\)",
+      "math": [
+        "{\\begin{matrix}{x}^{2}+{y}^{2}=4\\\\{x}^{2}-{y}^{2}=4\\end{matrix}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>4</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>4</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>4</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>4</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.77",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1163873605130",
+      "context": [
+        "Use a System of Nonlinear Equations to Solve Applications"
+      ],
+      "text": "The difference of the squares of two numbers is \\(-20.\\) The sum of the numbers is 10. Find the numbers.",
+      "math": [
+        "-20."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−20</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−20</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.78",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1163873817518",
+      "context": [
+        "Use a System of Nonlinear Equations to Solve Applications"
+      ],
+      "text": "The difference of the squares of two numbers is 35. The sum of the numbers is \\(-1.\\) Find the numbers.",
+      "math": [
+        "-1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "11.79",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1163873662015",
+      "context": [
+        "Use a System of Nonlinear Equations to Solve Applications"
+      ],
+      "text": "Edgar purchased a small 20” TV for his garage. The size of a TV is measured on the diagonal of the screen. The screen also has an area of 192 square inches. What are the length and width of the TV screen?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "11.80",
+      "page": "11-5-solve-systems-of-nonlinear-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1163874018118",
+      "context": [
+        "Use a System of Nonlinear Equations to Solve Applications"
+      ],
+      "text": "The Harper family purchased a small microwave for their family room. The diagonal of the door measures 15 inches. The door also has an area of 108 square inches. What are the length and width of the microwave door?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

@@ -1,0 +1,1481 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/12-3-geometric-sequences-and-series",
+  "title": "12.3 Geometric Sequences and Series",
+  "sha256": "1980b8150afa302879a7aabc9cf8b3d2fb12387620cb799d0eb28f6c77fbfea1",
+  "questions": [
+    {
+      "number": 127,
+      "anchor": "fs-id1167826781196",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "Determine if a Sequence is Geometric",
+        "In the following exercises, determine if the sequence is geometric, and if so, indicate the common ratio."
+      ],
+      "text": "\\(3 , 12 , 48 , 192 , 768 , 3072 , …\\)",
+      "math": [
+        "3 , 12 , 48 , 192 , 768 , 3072 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <mo>,</mo>\n          <mn>12</mn>\n          <mo>,</mo>\n          <mn>48</mn>\n          <mo>,</mo>\n          <mn>192</mn>\n          <mo>,</mo>\n          <mn>768</mn>\n          <mo>,</mo>\n          <mn>3072</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <mo>,</mo>\n          <mn>12</mn>\n          <mo>,</mo>\n          <mn>48</mn>\n          <mo>,</mo>\n          <mn>192</mn>\n          <mo>,</mo>\n          <mn>768</mn>\n          <mo>,</mo>\n          <mn>3072</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 128,
+      "anchor": "fs-id1167834131052",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "Determine if a Sequence is Geometric",
+        "In the following exercises, determine if the sequence is geometric, and if so, indicate the common ratio."
+      ],
+      "text": "\\(2 , 10 , 50 , 250 , 1250 , 6250 , …\\)",
+      "math": [
+        "2 , 10 , 50 , 250 , 1250 , 6250 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <mo>,</mo>\n          <mn>10</mn>\n          <mo>,</mo>\n          <mn>50</mn>\n          <mo>,</mo>\n          <mn>250</mn>\n          <mo>,</mo>\n          <mn>1250</mn>\n          <mo>,</mo>\n          <mn>6250</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <mo>,</mo>\n          <mn>10</mn>\n          <mo>,</mo>\n          <mn>50</mn>\n          <mo>,</mo>\n          <mn>250</mn>\n          <mo>,</mo>\n          <mn>1250</mn>\n          <mo>,</mo>\n          <mn>6250</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 129,
+      "anchor": "fs-id1167834129937",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "Determine if a Sequence is Geometric",
+        "In the following exercises, determine if the sequence is geometric, and if so, indicate the common ratio."
+      ],
+      "text": "\\(72 , 36 , 18 , 9 , \\frac{9}{2} , \\frac{9}{4} , …\\)",
+      "math": [
+        "72 , 36 , 18 , 9 , \\frac{9}{2} , \\frac{9}{4} , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>72</mn>\n          <mo>,</mo>\n          <mn>36</mn>\n          <mo>,</mo>\n          <mn>18</mn>\n          <mo>,</mo>\n          <mn>9</mn>\n          <mo>,</mo>\n          <mfrac>\n            <mn>9</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mtext>,</mtext>\n          <mfrac>\n            <mn>9</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>72</mn>\n          <mo>,</mo>\n          <mn>36</mn>\n          <mo>,</mo>\n          <mn>18</mn>\n          <mo>,</mo>\n          <mn>9</mn>\n          <mo>,</mo>\n          <mfrac>\n            <mn>9</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mtext>,</mtext>\n          <mfrac>\n            <mn>9</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 130,
+      "anchor": "fs-id1167826779330",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "Determine if a Sequence is Geometric",
+        "In the following exercises, determine if the sequence is geometric, and if so, indicate the common ratio."
+      ],
+      "text": "\\(54 , 18 , 6 , 2 , \\frac{2}{3} , \\frac{2}{9} , …\\)",
+      "math": [
+        "54 , 18 , 6 , 2 , \\frac{2}{3} , \\frac{2}{9} , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>54</mn>\n          <mo>,</mo>\n          <mn>18</mn>\n          <mo>,</mo>\n          <mn>6</mn>\n          <mo>,</mo>\n          <mn>2</mn>\n          <mo>,</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>9</mn>\n          </mfrac>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>54</mn>\n          <mo>,</mo>\n          <mn>18</mn>\n          <mo>,</mo>\n          <mn>6</mn>\n          <mo>,</mo>\n          <mn>2</mn>\n          <mo>,</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>9</mn>\n          </mfrac>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 131,
+      "anchor": "fs-id1167834134986",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "Determine if a Sequence is Geometric",
+        "In the following exercises, determine if the sequence is geometric, and if so, indicate the common ratio."
+      ],
+      "text": "\\(-3 , 6 , -12 , 24 , -48 , 96 , …\\)",
+      "math": [
+        "-3 , 6 , -12 , 24 , -48 , 96 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−3</mn>\n          <mo>,</mo>\n          <mn>6</mn>\n          <mo>,</mo>\n          <mn>−12</mn>\n          <mo>,</mo>\n          <mn>24</mn>\n          <mo>,</mo>\n          <mn>−48</mn>\n          <mo>,</mo>\n          <mn>96</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−3</mn>\n          <mo>,</mo>\n          <mn>6</mn>\n          <mo>,</mo>\n          <mn>−12</mn>\n          <mo>,</mo>\n          <mn>24</mn>\n          <mo>,</mo>\n          <mn>−48</mn>\n          <mo>,</mo>\n          <mn>96</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 132,
+      "anchor": "fs-id1167826781227",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "Determine if a Sequence is Geometric",
+        "In the following exercises, determine if the sequence is geometric, and if so, indicate the common ratio."
+      ],
+      "text": "\\(2 , -6 , 18 , -54 , 162 , -486 , …\\)",
+      "math": [
+        "2 , -6 , 18 , -54 , 162 , -486 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <mo>,</mo>\n          <mn>−6</mn>\n          <mo>,</mo>\n          <mn>18</mn>\n          <mo>,</mo>\n          <mn>−54</mn>\n          <mo>,</mo>\n          <mn>162</mn>\n          <mo>,</mo>\n          <mn>−486</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <mo>,</mo>\n          <mn>−6</mn>\n          <mo>,</mo>\n          <mn>18</mn>\n          <mo>,</mo>\n          <mn>−54</mn>\n          <mo>,</mo>\n          <mn>162</mn>\n          <mo>,</mo>\n          <mn>−486</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 133,
+      "anchor": "fs-id1167826804654",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "In the following exercises, determine if the sequence is geometric, and if so, indicate the common ratio.",
+        "In the following exercises, determine if each sequence is arithmetic, geometric or neither. If arithmetic, indicate the common difference. If geometric, indicate the common ratio."
+      ],
+      "text": "\\(48 , 24 , 12 , 6 , 3 , \\frac{3}{2} , …\\)",
+      "math": [
+        "48 , 24 , 12 , 6 , 3 , \\frac{3}{2} , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>48</mn>\n          <mo>,</mo>\n          <mn>24</mn>\n          <mo>,</mo>\n          <mn>12</mn>\n          <mo>,</mo>\n          <mn>6</mn>\n          <mo>,</mo>\n          <mn>3</mn>\n          <mo>,</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>48</mn>\n          <mo>,</mo>\n          <mn>24</mn>\n          <mo>,</mo>\n          <mn>12</mn>\n          <mo>,</mo>\n          <mn>6</mn>\n          <mo>,</mo>\n          <mn>3</mn>\n          <mo>,</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 134,
+      "anchor": "fs-id1167831920189",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "In the following exercises, determine if the sequence is geometric, and if so, indicate the common ratio.",
+        "In the following exercises, determine if each sequence is arithmetic, geometric or neither. If arithmetic, indicate the common difference. If geometric, indicate the common ratio."
+      ],
+      "text": "\\(12 , 6 , 0 , -6 , -12 , -18 , …\\)",
+      "math": [
+        "12 , 6 , 0 , -6 , -12 , -18 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>12</mn>\n          <mo>,</mo>\n          <mn>6</mn>\n          <mo>,</mo>\n          <mn>0</mn>\n          <mo>,</mo>\n          <mn>−6</mn>\n          <mo>,</mo>\n          <mn>−12</mn>\n          <mo>,</mo>\n          <mn>−18</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>12</mn>\n          <mo>,</mo>\n          <mn>6</mn>\n          <mo>,</mo>\n          <mn>0</mn>\n          <mo>,</mo>\n          <mn>−6</mn>\n          <mo>,</mo>\n          <mn>−12</mn>\n          <mo>,</mo>\n          <mn>−18</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 135,
+      "anchor": "fs-id1167834130791",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "In the following exercises, determine if the sequence is geometric, and if so, indicate the common ratio.",
+        "In the following exercises, determine if each sequence is arithmetic, geometric or neither. If arithmetic, indicate the common difference. If geometric, indicate the common ratio."
+      ],
+      "text": "\\(-7 , -2 , 3 , 8 , 13 , 18 , …\\)",
+      "math": [
+        "-7 , -2 , 3 , 8 , 13 , 18 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−7</mn>\n          <mo>,</mo>\n          <mn>−2</mn>\n          <mo>,</mo>\n          <mn>3</mn>\n          <mo>,</mo>\n          <mn>8</mn>\n          <mo>,</mo>\n          <mn>13</mn>\n          <mo>,</mo>\n          <mn>18</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−7</mn>\n          <mo>,</mo>\n          <mn>−2</mn>\n          <mo>,</mo>\n          <mn>3</mn>\n          <mo>,</mo>\n          <mn>8</mn>\n          <mo>,</mo>\n          <mn>13</mn>\n          <mo>,</mo>\n          <mn>18</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 136,
+      "anchor": "fs-id1167826874256",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "In the following exercises, determine if the sequence is geometric, and if so, indicate the common ratio.",
+        "In the following exercises, determine if each sequence is arithmetic, geometric or neither. If arithmetic, indicate the common difference. If geometric, indicate the common ratio."
+      ],
+      "text": "\\(5 , 9 , 13 , 17 , 21 , 25 , …\\)",
+      "math": [
+        "5 , 9 , 13 , 17 , 21 , 25 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>5</mn>\n          <mo>,</mo>\n          <mn>9</mn>\n          <mo>,</mo>\n          <mn>13</mn>\n          <mo>,</mo>\n          <mn>17</mn>\n          <mo>,</mo>\n          <mn>21</mn>\n          <mtext>,</mtext>\n          <mn>25</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>5</mn>\n          <mo>,</mo>\n          <mn>9</mn>\n          <mo>,</mo>\n          <mn>13</mn>\n          <mo>,</mo>\n          <mn>17</mn>\n          <mo>,</mo>\n          <mn>21</mn>\n          <mtext>,</mtext>\n          <mn>25</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 137,
+      "anchor": "fs-id1167826874330",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "In the following exercises, determine if the sequence is geometric, and if so, indicate the common ratio.",
+        "In the following exercises, determine if each sequence is arithmetic, geometric or neither. If arithmetic, indicate the common difference. If geometric, indicate the common ratio."
+      ],
+      "text": "\\(\\frac{1}{2} , \\frac{1}{4} , \\frac{1}{8} , \\frac{1}{ 16 } , \\frac{1}{ 32 } , \\frac{1}{ 64 } , …\\)",
+      "math": [
+        "\\frac{1}{2} , \\frac{1}{4} , \\frac{1}{8} , \\frac{1}{ 16 } , \\frac{1}{ 32 } , \\frac{1}{ 64 } , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>8</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>32</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>64</mn>\n            </mrow>\n          </mfrac>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>8</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>32</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>64</mn>\n            </mrow>\n          </mfrac>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 138,
+      "anchor": "fs-id1167834131291",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "In the following exercises, determine if the sequence is geometric, and if so, indicate the common ratio.",
+        "In the following exercises, determine if each sequence is arithmetic, geometric or neither. If arithmetic, indicate the common difference. If geometric, indicate the common ratio."
+      ],
+      "text": "\\(4 , 8 , 12 , 24 , 48 , 96 , …\\)",
+      "math": [
+        "4 , 8 , 12 , 24 , 48 , 96 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <mo>,</mo>\n          <mn>8</mn>\n          <mo>,</mo>\n          <mn>12</mn>\n          <mo>,</mo>\n          <mn>24</mn>\n          <mo>,</mo>\n          <mn>48</mn>\n          <mo>,</mo>\n          <mn>96</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <mo>,</mo>\n          <mn>8</mn>\n          <mo>,</mo>\n          <mn>12</mn>\n          <mo>,</mo>\n          <mn>24</mn>\n          <mo>,</mo>\n          <mn>48</mn>\n          <mo>,</mo>\n          <mn>96</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 139,
+      "anchor": "fs-id1167834131340",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "In the following exercises, determine if each sequence is arithmetic, geometric or neither. If arithmetic, indicate the common difference. If geometric, indicate the common ratio.",
+        "In the following exercises, write the first five terms of each geometric sequence with the given first term and common ratio."
+      ],
+      "text": "\\({a}_{1}=4\\) and \\(r=3\\)",
+      "math": [
+        "{a}_{1}=4",
+        "r=3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>r</mi><mo>=</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>r</mi><mo>=</mo><mn>3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 140,
+      "anchor": "fs-id1167834426127",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "In the following exercises, determine if each sequence is arithmetic, geometric or neither. If arithmetic, indicate the common difference. If geometric, indicate the common ratio.",
+        "In the following exercises, write the first five terms of each geometric sequence with the given first term and common ratio."
+      ],
+      "text": "\\({a}_{1}=9\\) and \\(r=2\\)",
+      "math": [
+        "{a}_{1}=9",
+        "r=2"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>9</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>9</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>r</mi><mo>=</mo><mn>2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>r</mi><mo>=</mo><mn>2</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 141,
+      "anchor": "fs-id1167826873683",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "In the following exercises, determine if each sequence is arithmetic, geometric or neither. If arithmetic, indicate the common difference. If geometric, indicate the common ratio.",
+        "In the following exercises, write the first five terms of each geometric sequence with the given first term and common ratio."
+      ],
+      "text": "\\({a}_{1}=-4\\) and \\(r=-2\\)",
+      "math": [
+        "{a}_{1}=-4",
+        "r=-2"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>−4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>−4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>r</mi><mo>=</mo><mn>−2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>r</mi><mo>=</mo><mn>−2</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 142,
+      "anchor": "fs-id1167826873942",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "In the following exercises, determine if each sequence is arithmetic, geometric or neither. If arithmetic, indicate the common difference. If geometric, indicate the common ratio.",
+        "In the following exercises, write the first five terms of each geometric sequence with the given first term and common ratio."
+      ],
+      "text": "\\({a}_{1}=-5\\) and \\(r=-3\\)",
+      "math": [
+        "{a}_{1}=-5",
+        "r=-3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>−5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>−5</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>r</mi><mo>=</mo><mn>−3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>r</mi><mo>=</mo><mn>−3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 143,
+      "anchor": "fs-id1167831921233",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "In the following exercises, determine if each sequence is arithmetic, geometric or neither. If arithmetic, indicate the common difference. If geometric, indicate the common ratio.",
+        "In the following exercises, write the first five terms of each geometric sequence with the given first term and common ratio."
+      ],
+      "text": "\\({a}_{1}=27\\) and \\(r=\\frac{1}{3}\\)",
+      "math": [
+        "{a}_{1}=27",
+        "r=\\frac{1}{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>27</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>27</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>r</mi><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>r</mi><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 144,
+      "anchor": "fs-id1167834300929",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "In the following exercises, determine if each sequence is arithmetic, geometric or neither. If arithmetic, indicate the common difference. If geometric, indicate the common ratio.",
+        "In the following exercises, write the first five terms of each geometric sequence with the given first term and common ratio."
+      ],
+      "text": "\\({a}_{1}=64\\) and \\(r=\\frac{1}{4}\\)",
+      "math": [
+        "{a}_{1}=64",
+        "r=\\frac{1}{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>64</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>64</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>r</mi><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>r</mi><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 145,
+      "anchor": "fs-id1167835575792",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "Find the General Term (nth Term) of a Geometric Sequence",
+        "In the following exercises, find the indicated term of a sequence where the first term and the common ratio is given."
+      ],
+      "text": "Find \\({a}_{11}\\) given \\({a}_{1}=8\\) and \\(r=3.\\)",
+      "math": [
+        "{a}_{11}",
+        "{a}_{1}=8",
+        "r=3."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mrow><mn>11</mn></mrow></msub></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mrow><mn>11</mn></mrow></msub></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>8</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>8</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>r</mi><mo>=</mo><mn>3</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>r</mi><mo>=</mo><mn>3</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 146,
+      "anchor": "fs-id1167834130858",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "Find the General Term (nth Term) of a Geometric Sequence",
+        "In the following exercises, find the indicated term of a sequence where the first term and the common ratio is given."
+      ],
+      "text": "Find \\({a}_{13}\\) given \\({a}_{1}=7\\) and \\(r=2.\\)",
+      "math": [
+        "{a}_{13}",
+        "{a}_{1}=7",
+        "r=2."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mrow><mn>13</mn></mrow></msub></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mrow><mn>13</mn></mrow></msub></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>7</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>7</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>r</mi><mo>=</mo><mn>2</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>r</mi><mo>=</mo><mn>2</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 147,
+      "anchor": "fs-id1167834131420",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "Find the General Term (nth Term) of a Geometric Sequence",
+        "In the following exercises, find the indicated term of a sequence where the first term and the common ratio is given."
+      ],
+      "text": "Find \\({a}_{10}\\) given \\({a}_{1}=-6\\) and \\(r=-2.\\)",
+      "math": [
+        "{a}_{10}",
+        "{a}_{1}=-6",
+        "r=-2."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mrow><mn>10</mn></mrow></msub></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mrow><mn>10</mn></mrow></msub></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>−6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>−6</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>r</mi><mo>=</mo><mn>−2</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>r</mi><mo>=</mo><mn>−2</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 148,
+      "anchor": "fs-id1167834131469",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "Find the General Term (nth Term) of a Geometric Sequence",
+        "In the following exercises, find the indicated term of a sequence where the first term and the common ratio is given."
+      ],
+      "text": "Find \\({a}_{15}\\) given \\({a}_{1}=-4\\) and \\(r=-3.\\)",
+      "math": [
+        "{a}_{15}",
+        "{a}_{1}=-4",
+        "r=-3."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mrow><mn>15</mn></mrow></msub></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mrow><mn>15</mn></mrow></msub></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>−4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>−4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>r</mi><mo>=</mo><mn>−3</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>r</mi><mo>=</mo><mn>−3</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 149,
+      "anchor": "fs-id1167826803971",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "Find the General Term (nth Term) of a Geometric Sequence",
+        "In the following exercises, find the indicated term of a sequence where the first term and the common ratio is given."
+      ],
+      "text": "Find \\({a}_{10}\\) given \\({a}_{1}=100,000\\) and \\(r=0.1.\\)",
+      "math": [
+        "{a}_{10}",
+        "{a}_{1}=100,000",
+        "r=0.1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mrow><mn>10</mn></mrow></msub></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mrow><mn>10</mn></mrow></msub></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>100,000</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>100,000</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>r</mi><mo>=</mo><mn>0.1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>r</mi><mo>=</mo><mn>0.1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 150,
+      "anchor": "fs-id1167826803783",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "Find the General Term (nth Term) of a Geometric Sequence",
+        "In the following exercises, find the indicated term of a sequence where the first term and the common ratio is given."
+      ],
+      "text": "Find \\({a}_{8}\\) given \\({a}_{1}=1,000,000\\) and \\(r=0.01.\\)",
+      "math": [
+        "{a}_{8}",
+        "{a}_{1}=1,000,000",
+        "r=0.01."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mn>8</mn></msub></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mn>8</mn></msub></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>1,000,000</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>1,000,000</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>r</mi><mo>=</mo><mn>0.01</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>r</mi><mo>=</mo><mn>0.01</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 151,
+      "anchor": "fs-id1167831920935",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "In the following exercises, find the indicated term of a sequence where the first term and the common ratio is given.",
+        "In the following exercises, find the indicated term of the given sequence. Find the general term for the sequence."
+      ],
+      "text": "Find \\({a}_{9}\\) of the sequence, \\(9,18,36,72,144,288,…\\)",
+      "math": [
+        "{a}_{9}",
+        "9,18,36,72,144,288,…"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mn>9</mn></msub></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mn>9</mn></msub></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>9</mn><mo>,</mo><mn>18</mn><mo>,</mo><mn>36</mn><mo>,</mo><mn>72</mn><mo>,</mo><mn>144</mn><mo>,</mo><mn>288</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>9</mn><mo>,</mo><mn>18</mn><mo>,</mo><mn>36</mn><mo>,</mo><mn>72</mn><mo>,</mo><mn>144</mn><mo>,</mo><mn>288</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 152,
+      "anchor": "fs-id1167826780616",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "In the following exercises, find the indicated term of a sequence where the first term and the common ratio is given.",
+        "In the following exercises, find the indicated term of the given sequence. Find the general term for the sequence."
+      ],
+      "text": "Find \\({a}_{12}\\) of the sequence, \\(5,15,45,135,405,1215,…\\)",
+      "math": [
+        "{a}_{12}",
+        "5,15,45,135,405,1215,…"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mrow><mn>12</mn></mrow></msub></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mrow><mn>12</mn></mrow></msub></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mo>,</mo><mn>15</mn><mo>,</mo><mn>45</mn><mo>,</mo><mn>135</mn><mo>,</mo><mn>405</mn><mo>,</mo><mn>1215</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mo>,</mo><mn>15</mn><mo>,</mo><mn>45</mn><mo>,</mo><mn>135</mn><mo>,</mo><mn>405</mn><mo>,</mo><mn>1215</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 153,
+      "anchor": "fs-id1167826781153",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "In the following exercises, find the indicated term of a sequence where the first term and the common ratio is given.",
+        "In the following exercises, find the indicated term of the given sequence. Find the general term for the sequence."
+      ],
+      "text": "Find \\({a}_{15}\\) of the sequence, \\(-486,162,-54,18,-6,2,…\\)",
+      "math": [
+        "{a}_{15}",
+        "-486,162,-54,18,-6,2,…"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mrow><mn>15</mn></mrow></msub></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mrow><mn>15</mn></mrow></msub></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−486</mn><mo>,</mo><mn>162</mn><mo>,</mo><mn>−54</mn><mo>,</mo><mn>18</mn><mo>,</mo><mn>−6</mn><mo>,</mo><mn>2</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−486</mn><mo>,</mo><mn>162</mn><mo>,</mo><mn>−54</mn><mo>,</mo><mn>18</mn><mo>,</mo><mn>−6</mn><mo>,</mo><mn>2</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 154,
+      "anchor": "fs-id1167831832232",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "In the following exercises, find the indicated term of a sequence where the first term and the common ratio is given.",
+        "In the following exercises, find the indicated term of the given sequence. Find the general term for the sequence."
+      ],
+      "text": "Find \\({a}_{16}\\) of the sequence, \\(224,-112,56,-28,14,-7,…\\)",
+      "math": [
+        "{a}_{16}",
+        "224,-112,56,-28,14,-7,…"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mrow><mn>16</mn></mrow></msub></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mrow><mn>16</mn></mrow></msub></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>224</mn><mo>,</mo><mn>−112</mn><mo>,</mo><mn>56</mn><mo>,</mo><mn>−28</mn><mo>,</mo><mn>14</mn><mo>,</mo><mn>−7</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>224</mn><mo>,</mo><mn>−112</mn><mo>,</mo><mn>56</mn><mo>,</mo><mn>−28</mn><mo>,</mo><mn>14</mn><mo>,</mo><mn>−7</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 155,
+      "anchor": "fs-id1167834135062",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "In the following exercises, find the indicated term of a sequence where the first term and the common ratio is given.",
+        "In the following exercises, find the indicated term of the given sequence. Find the general term for the sequence."
+      ],
+      "text": "Find \\({a}_{10}\\) of the sequence, \\(1,0.1,0.01,0.001,0.0001,0.00001,…\\)",
+      "math": [
+        "{a}_{10}",
+        "1,0.1,0.01,0.001,0.0001,0.00001,…"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mrow><mn>10</mn></mrow></msub></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mrow><mn>10</mn></mrow></msub></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>1</mn><mo>,</mo><mn>0.1</mn><mo>,</mo><mn>0.01</mn><mo>,</mo><mn>0.001</mn><mo>,</mo><mn>0.0001</mn><mo>,</mo><mn>0.00001</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>1</mn><mo>,</mo><mn>0.1</mn><mo>,</mo><mn>0.01</mn><mo>,</mo><mn>0.001</mn><mo>,</mo><mn>0.0001</mn><mo>,</mo><mn>0.00001</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 156,
+      "anchor": "fs-id1167826873819",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "In the following exercises, find the indicated term of a sequence where the first term and the common ratio is given.",
+        "In the following exercises, find the indicated term of the given sequence. Find the general term for the sequence."
+      ],
+      "text": "Find \\({a}_{9}\\) of the sequence, \\(1000,100,10,1,0.1,0.01,…\\)",
+      "math": [
+        "{a}_{9}",
+        "1000,100,10,1,0.1,0.01,…"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mn>9</mn></msub></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mn>9</mn></msub></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>1000</mn><mo>,</mo><mn>100</mn><mo>,</mo><mn>10</mn><mo>,</mo><mn>1</mn><mo>,</mo><mn>0.1</mn><mo>,</mo><mn>0.01</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>1000</mn><mo>,</mo><mn>100</mn><mo>,</mo><mn>10</mn><mo>,</mo><mn>1</mn><mo>,</mo><mn>0.1</mn><mo>,</mo><mn>0.01</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 157,
+      "anchor": "fs-id1167834426138",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "Find the Sum of the First n terms of a Geometric Sequence",
+        "In the following exercises, find the sum of the first fifteen terms of each geometric sequence."
+      ],
+      "text": "\\(8 , 24 , 72 , 216 , 648 , 1944 , …\\)",
+      "math": [
+        "8 , 24 , 72 , 216 , 648 , 1944 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>8</mn>\n          <mo>,</mo>\n          <mn>24</mn>\n          <mo>,</mo>\n          <mn>72</mn>\n          <mo>,</mo>\n          <mn>216</mn>\n          <mo>,</mo>\n          <mn>648</mn>\n          <mo>,</mo>\n          <mn>1944</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>8</mn>\n          <mo>,</mo>\n          <mn>24</mn>\n          <mo>,</mo>\n          <mn>72</mn>\n          <mo>,</mo>\n          <mn>216</mn>\n          <mo>,</mo>\n          <mn>648</mn>\n          <mo>,</mo>\n          <mn>1944</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 158,
+      "anchor": "fs-id1167834426186",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "Find the Sum of the First n terms of a Geometric Sequence",
+        "In the following exercises, find the sum of the first fifteen terms of each geometric sequence."
+      ],
+      "text": "\\(7 , 14 , 28 , 56 , 112 , 224 , …\\)",
+      "math": [
+        "7 , 14 , 28 , 56 , 112 , 224 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>7</mn>\n          <mo>,</mo>\n          <mn>14</mn>\n          <mo>,</mo>\n          <mn>28</mn>\n          <mo>,</mo>\n          <mn>56</mn>\n          <mo>,</mo>\n          <mn>112</mn>\n          <mo>,</mo>\n          <mn>224</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>7</mn>\n          <mo>,</mo>\n          <mn>14</mn>\n          <mo>,</mo>\n          <mn>28</mn>\n          <mo>,</mo>\n          <mn>56</mn>\n          <mo>,</mo>\n          <mn>112</mn>\n          <mo>,</mo>\n          <mn>224</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 159,
+      "anchor": "fs-id1167834238707",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "Find the Sum of the First n terms of a Geometric Sequence",
+        "In the following exercises, find the sum of the first fifteen terms of each geometric sequence."
+      ],
+      "text": "\\(-6 , 12 , -24 , 48 , -96 , 192 , …\\)",
+      "math": [
+        "-6 , 12 , -24 , 48 , -96 , 192 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−6</mn>\n          <mo>,</mo>\n          <mn>12</mn>\n          <mo>,</mo>\n          <mn>−24</mn>\n          <mo>,</mo>\n          <mn>48</mn>\n          <mo>,</mo>\n          <mn>−96</mn>\n          <mo>,</mo>\n          <mn>192</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−6</mn>\n          <mo>,</mo>\n          <mn>12</mn>\n          <mo>,</mo>\n          <mn>−24</mn>\n          <mo>,</mo>\n          <mn>48</mn>\n          <mo>,</mo>\n          <mn>−96</mn>\n          <mo>,</mo>\n          <mn>192</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 160,
+      "anchor": "fs-id1167834238755",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "Find the Sum of the First n terms of a Geometric Sequence",
+        "In the following exercises, find the sum of the first fifteen terms of each geometric sequence."
+      ],
+      "text": "\\(-4 , 12 , -36 , 108 , -324 , 972 , …\\)",
+      "math": [
+        "-4 , 12 , -36 , 108 , -324 , 972 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−4</mn>\n          <mo>,</mo>\n          <mn>12</mn>\n          <mo>,</mo>\n          <mn>−36</mn>\n          <mo>,</mo>\n          <mn>108</mn>\n          <mo>,</mo>\n          <mn>−324</mn>\n          <mo>,</mo>\n          <mn>972</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−4</mn>\n          <mo>,</mo>\n          <mn>12</mn>\n          <mo>,</mo>\n          <mn>−36</mn>\n          <mo>,</mo>\n          <mn>108</mn>\n          <mo>,</mo>\n          <mn>−324</mn>\n          <mo>,</mo>\n          <mn>972</mn>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 161,
+      "anchor": "fs-id1167831922348",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "Find the Sum of the First n terms of a Geometric Sequence",
+        "In the following exercises, find the sum of the first fifteen terms of each geometric sequence."
+      ],
+      "text": "\\(81 , 27 , 9 , 3 , 1 , \\frac{1}{3} , …\\)",
+      "math": [
+        "81 , 27 , 9 , 3 , 1 , \\frac{1}{3} , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>81</mn>\n          <mo>,</mo>\n          <mn>27</mn>\n          <mo>,</mo>\n          <mn>9</mn>\n          <mo>,</mo>\n          <mn>3</mn>\n          <mo>,</mo>\n          <mn>1</mn>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>81</mn>\n          <mo>,</mo>\n          <mn>27</mn>\n          <mo>,</mo>\n          <mn>9</mn>\n          <mo>,</mo>\n          <mn>3</mn>\n          <mo>,</mo>\n          <mn>1</mn>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 162,
+      "anchor": "fs-id1167831922409",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "Find the Sum of the First n terms of a Geometric Sequence",
+        "In the following exercises, find the sum of the first fifteen terms of each geometric sequence."
+      ],
+      "text": "\\(256 , 64 , 16 , 4 , 1 , \\frac{1}{4} , \\frac{1}{ 16 } , …\\)",
+      "math": [
+        "256 , 64 , 16 , 4 , 1 , \\frac{1}{4} , \\frac{1}{ 16 } , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>256</mn>\n          <mo>,</mo>\n          <mn>64</mn>\n          <mo>,</mo>\n          <mn>16</mn>\n          <mo>,</mo>\n          <mn>4</mn>\n          <mo>,</mo>\n          <mn>1</mn>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>256</mn>\n          <mo>,</mo>\n          <mn>64</mn>\n          <mo>,</mo>\n          <mn>16</mn>\n          <mo>,</mo>\n          <mn>4</mn>\n          <mo>,</mo>\n          <mn>1</mn>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mtext>,</mtext>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 163,
+      "anchor": "fs-id1167834065713",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "In the following exercises, find the sum of the first fifteen terms of each geometric sequence.",
+        "In the following exercises, find the sum of the geometric sequence."
+      ],
+      "text": "\\(∑ i = 1 15 { ( 2 ) }^{i}\\)",
+      "math": [
+        "\\sum_{ i = 1 }^{ 15 } { ( 2 ) }^{i}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mrow>\n                <mn>15</mn>\n              </mrow>\n            </munderover>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mn>2</mn>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mi>i</mi>\n              </msup>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mrow>\n                <mn>15</mn>\n              </mrow>\n            </munderover>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mn>2</mn>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mi>i</mi>\n              </msup>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 164,
+      "anchor": "fs-id1167834065763",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "In the following exercises, find the sum of the first fifteen terms of each geometric sequence.",
+        "In the following exercises, find the sum of the geometric sequence."
+      ],
+      "text": "\\(∑ i = 1 10 { ( 3 ) }^{i}\\)",
+      "math": [
+        "\\sum_{ i = 1 }^{ 10 } { ( 3 ) }^{i}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mrow>\n                <mn>10</mn>\n              </mrow>\n            </munderover>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mn>3</mn>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mi>i</mi>\n              </msup>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mrow>\n                <mn>10</mn>\n              </mrow>\n            </munderover>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mn>3</mn>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mi>i</mi>\n              </msup>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 165,
+      "anchor": "fs-id1167834539380",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "In the following exercises, find the sum of the first fifteen terms of each geometric sequence.",
+        "In the following exercises, find the sum of the geometric sequence."
+      ],
+      "text": "\\(∑ i = 1 9 4 { ( 2 ) }^{i}\\)",
+      "math": [
+        "\\sum_{ i = 1 }^{9} 4 { ( 2 ) }^{i}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>9</mn>\n            </munderover>\n            <mrow>\n              <mn>4</mn>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mn>2</mn>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mi>i</mi>\n              </msup>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>9</mn>\n            </munderover>\n            <mrow>\n              <mn>4</mn>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mn>2</mn>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mi>i</mi>\n              </msup>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 166,
+      "anchor": "fs-id1167834539431",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "In the following exercises, find the sum of the first fifteen terms of each geometric sequence.",
+        "In the following exercises, find the sum of the geometric sequence."
+      ],
+      "text": "\\(∑ i = 1 8 5 { ( 3 ) }^{i}\\)",
+      "math": [
+        "\\sum_{ i = 1 }^{8} 5 { ( 3 ) }^{i}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>8</mn>\n            </munderover>\n            <mrow>\n              <mn>5</mn>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mn>3</mn>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mi>i</mi>\n              </msup>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>8</mn>\n            </munderover>\n            <mrow>\n              <mn>5</mn>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mn>3</mn>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mi>i</mi>\n              </msup>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 167,
+      "anchor": "fs-id1167834130656",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "In the following exercises, find the sum of the first fifteen terms of each geometric sequence.",
+        "In the following exercises, find the sum of the geometric sequence."
+      ],
+      "text": "\\(∑ i = 1 10 9 { ( \\frac{1}{3} ) }^{i}\\)",
+      "math": [
+        "\\sum_{ i = 1 }^{ 10 } 9 { ( \\frac{1}{3} ) }^{i}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mrow>\n                <mn>10</mn>\n              </mrow>\n            </munderover>\n            <mrow>\n              <mn>9</mn>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mfrac>\n                        <mn>1</mn>\n                        <mn>3</mn>\n                      </mfrac>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mi>i</mi>\n              </msup>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mrow>\n                <mn>10</mn>\n              </mrow>\n            </munderover>\n            <mrow>\n              <mn>9</mn>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mfrac>\n                        <mn>1</mn>\n                        <mn>3</mn>\n                      </mfrac>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mi>i</mi>\n              </msup>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 168,
+      "anchor": "fs-id1167826788454",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "In the following exercises, find the sum of the first fifteen terms of each geometric sequence.",
+        "In the following exercises, find the sum of the geometric sequence."
+      ],
+      "text": "\\(∑ i = 1 15 4 { ( \\frac{1}{2} ) }^{i}\\)",
+      "math": [
+        "\\sum_{ i = 1 }^{ 15 } 4 { ( \\frac{1}{2} ) }^{i}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mrow>\n                <mn>15</mn>\n              </mrow>\n            </munderover>\n            <mrow>\n              <mn>4</mn>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mfrac>\n                        <mn>1</mn>\n                        <mn>2</mn>\n                      </mfrac>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mi>i</mi>\n              </msup>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mrow>\n                <mn>15</mn>\n              </mrow>\n            </munderover>\n            <mrow>\n              <mn>4</mn>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mfrac>\n                        <mn>1</mn>\n                        <mn>2</mn>\n                      </mfrac>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mi>i</mi>\n              </msup>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 169,
+      "anchor": "fs-id1167826788529",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "Find the Sum of an Infinite Geometric Series",
+        "In the following exercises, find the sum of each infinite geometric series."
+      ],
+      "text": "\\(1 + \\frac{1}{3} + \\frac{1}{9} + \\frac{1}{ 27 } + \\frac{1}{ 81 } + \\frac{1}{ 243 } + \\frac{1}{ 729 } + …\\)",
+      "math": [
+        "1 + \\frac{1}{3} + \\frac{1}{9} + \\frac{1}{ 27 } + \\frac{1}{ 81 } + \\frac{1}{ 243 } + \\frac{1}{ 729 } + …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>1</mn>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>9</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>27</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>81</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>243</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>729</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mo>…</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>1</mn>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>9</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>27</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>81</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>243</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>729</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mo>…</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 170,
+      "anchor": "fs-id1167830705576",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "Find the Sum of an Infinite Geometric Series",
+        "In the following exercises, find the sum of each infinite geometric series."
+      ],
+      "text": "\\(1 + \\frac{1}{2} + \\frac{1}{4} + \\frac{1}{8} + \\frac{1}{ 16 } + \\frac{1}{ 32 } + \\frac{1}{ 64 } + …\\)",
+      "math": [
+        "1 + \\frac{1}{2} + \\frac{1}{4} + \\frac{1}{8} + \\frac{1}{ 16 } + \\frac{1}{ 32 } + \\frac{1}{ 64 } + …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>1</mn>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>8</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>32</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>64</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mo>…</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>1</mn>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>8</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>32</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>64</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mo>…</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 171,
+      "anchor": "fs-id1167835483697",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "Find the Sum of an Infinite Geometric Series",
+        "In the following exercises, find the sum of each infinite geometric series."
+      ],
+      "text": "\\(6 - 2 + \\frac{2}{3} - \\frac{2}{9} + \\frac{2}{ 27 } - \\frac{2}{ 81 } + …\\)",
+      "math": [
+        "6 - 2 + \\frac{2}{3} - \\frac{2}{9} + \\frac{2}{ 27 } - \\frac{2}{ 81 } + …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>6</mn>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mo>+</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>9</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mrow>\n              <mn>27</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mrow>\n              <mn>81</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mo>…</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>6</mn>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mo>+</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>9</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mrow>\n              <mn>27</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mrow>\n              <mn>81</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mo>…</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 172,
+      "anchor": "fs-id1167835483763",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "Find the Sum of an Infinite Geometric Series",
+        "In the following exercises, find the sum of each infinite geometric series."
+      ],
+      "text": "\\(-4 + 2 - 1 + \\frac{1}{2} - \\frac{1}{4} + \\frac{1}{8} - …\\)",
+      "math": [
+        "-4 + 2 - 1 + \\frac{1}{2} - \\frac{1}{4} + \\frac{1}{8} - …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−4</mn>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>−</mo>\n          <mn>1</mn>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>8</mn>\n          </mfrac>\n          <mo>−</mo>\n          <mo>…</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−4</mn>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>−</mo>\n          <mn>1</mn>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>8</mn>\n          </mfrac>\n          <mo>−</mo>\n          <mo>…</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 173,
+      "anchor": "fs-id1167835364604",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "Find the Sum of an Infinite Geometric Series",
+        "In the following exercises, find the sum of each infinite geometric series."
+      ],
+      "text": "\\(6 + 12 + 24 + 48 + 96 + 192 + …\\)",
+      "math": [
+        "6 + 12 + 24 + 48 + 96 + 192 + …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>6</mn>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mo>+</mo>\n          <mn>24</mn>\n          <mo>+</mo>\n          <mn>48</mn>\n          <mo>+</mo>\n          <mn>96</mn>\n          <mo>+</mo>\n          <mn>192</mn>\n          <mo>+</mo>\n          <mo>…</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>6</mn>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mo>+</mo>\n          <mn>24</mn>\n          <mo>+</mo>\n          <mn>48</mn>\n          <mo>+</mo>\n          <mn>96</mn>\n          <mo>+</mo>\n          <mn>192</mn>\n          <mo>+</mo>\n          <mo>…</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 174,
+      "anchor": "fs-id1167830703805",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "Find the Sum of an Infinite Geometric Series",
+        "In the following exercises, find the sum of each infinite geometric series."
+      ],
+      "text": "\\(5 + 15 + 45 + 135 + 405 + 1215 + …\\)",
+      "math": [
+        "5 + 15 + 45 + 135 + 405 + 1215 + …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>5</mn>\n          <mo>+</mo>\n          <mn>15</mn>\n          <mo>+</mo>\n          <mn>45</mn>\n          <mo>+</mo>\n          <mn>135</mn>\n          <mo>+</mo>\n          <mn>405</mn>\n          <mo>+</mo>\n          <mn>1215</mn>\n          <mo>+</mo>\n          <mo>…</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>5</mn>\n          <mo>+</mo>\n          <mn>15</mn>\n          <mo>+</mo>\n          <mn>45</mn>\n          <mo>+</mo>\n          <mn>135</mn>\n          <mo>+</mo>\n          <mn>405</mn>\n          <mo>+</mo>\n          <mn>1215</mn>\n          <mo>+</mo>\n          <mo>…</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 175,
+      "anchor": "fs-id1167830703858",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "Find the Sum of an Infinite Geometric Series",
+        "In the following exercises, find the sum of each infinite geometric series."
+      ],
+      "text": "\\(1,024 + 512 + 256 + 128 + 64 + 32 + …\\)",
+      "math": [
+        "1,024 + 512 + 256 + 128 + 64 + 32 + …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>1,024</mn>\n          <mo>+</mo>\n          <mn>512</mn>\n          <mo>+</mo>\n          <mn>256</mn>\n          <mo>+</mo>\n          <mn>128</mn>\n          <mo>+</mo>\n          <mn>64</mn>\n          <mo>+</mo>\n          <mn>32</mn>\n          <mo>+</mo>\n          <mo>…</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>1,024</mn>\n          <mo>+</mo>\n          <mn>512</mn>\n          <mo>+</mo>\n          <mn>256</mn>\n          <mo>+</mo>\n          <mn>128</mn>\n          <mo>+</mo>\n          <mn>64</mn>\n          <mo>+</mo>\n          <mn>32</mn>\n          <mo>+</mo>\n          <mo>…</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 176,
+      "anchor": "fs-id1167830703903",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "Find the Sum of an Infinite Geometric Series",
+        "In the following exercises, find the sum of each infinite geometric series."
+      ],
+      "text": "\\(6,561 + 2187 + 729 + 243 + 81 + 27 + …\\)",
+      "math": [
+        "6,561 + 2187 + 729 + 243 + 81 + 27 + …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>6,561</mn>\n          <mo>+</mo>\n          <mn>2187</mn>\n          <mo>+</mo>\n          <mn>729</mn>\n          <mo>+</mo>\n          <mn>243</mn>\n          <mo>+</mo>\n          <mn>81</mn>\n          <mo>+</mo>\n          <mn>27</mn>\n          <mo>+</mo>\n          <mo>…</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>6,561</mn>\n          <mo>+</mo>\n          <mn>2187</mn>\n          <mo>+</mo>\n          <mn>729</mn>\n          <mo>+</mo>\n          <mn>243</mn>\n          <mo>+</mo>\n          <mn>81</mn>\n          <mo>+</mo>\n          <mn>27</mn>\n          <mo>+</mo>\n          <mo>…</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 177,
+      "anchor": "fs-id1167826781512",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "In the following exercises, find the sum of each infinite geometric series.",
+        "In the following exercises, write each repeating decimal as a fraction."
+      ],
+      "text": "\\(0. \\overline{3}\\)",
+      "math": [
+        "0. \\overline{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>0.</mn>\n          <mover accent=\"true\">\n            <mn>3</mn>\n            <mo>–</mo>\n          </mover>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>0.</mn>\n          <mover accent=\"true\">\n            <mn>3</mn>\n            <mo>–</mo>\n          </mover>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 178,
+      "anchor": "fs-id1167826781546",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "In the following exercises, find the sum of each infinite geometric series.",
+        "In the following exercises, write each repeating decimal as a fraction."
+      ],
+      "text": "\\(0. \\overline{6}\\)",
+      "math": [
+        "0. \\overline{6}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>0.</mn>\n          <mover accent=\"true\">\n            <mn>6</mn>\n            <mo>–</mo>\n          </mover>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>0.</mn>\n          <mover accent=\"true\">\n            <mn>6</mn>\n            <mo>–</mo>\n          </mover>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 179,
+      "anchor": "fs-id1167835595830",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "In the following exercises, find the sum of each infinite geometric series.",
+        "In the following exercises, write each repeating decimal as a fraction."
+      ],
+      "text": "\\(0. \\overline{7}\\)",
+      "math": [
+        "0. \\overline{7}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>0.</mn>\n          <mover accent=\"true\">\n            <mn>7</mn>\n            <mo>–</mo>\n          </mover>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>0.</mn>\n          <mover accent=\"true\">\n            <mn>7</mn>\n            <mo>–</mo>\n          </mover>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 180,
+      "anchor": "fs-id1167835595865",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "In the following exercises, find the sum of each infinite geometric series.",
+        "In the following exercises, write each repeating decimal as a fraction."
+      ],
+      "text": "\\(0. \\overline{2}\\)",
+      "math": [
+        "0. \\overline{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>0.</mn>\n          <mover accent=\"true\">\n            <mn>2</mn>\n            <mo>–</mo>\n          </mover>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>0.</mn>\n          <mover accent=\"true\">\n            <mn>2</mn>\n            <mo>–</mo>\n          </mover>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 181,
+      "anchor": "fs-id1167835595900",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "In the following exercises, find the sum of each infinite geometric series.",
+        "In the following exercises, write each repeating decimal as a fraction."
+      ],
+      "text": "\\(0. \\overline{ 45 }\\)",
+      "math": [
+        "0. \\overline{ 45 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>0.</mn>\n          <mover accent=\"true\">\n            <mrow>\n              <mn>45</mn>\n            </mrow>\n            <mo>—</mo>\n          </mover>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>0.</mn>\n          <mover accent=\"true\">\n            <mrow>\n              <mn>45</mn>\n            </mrow>\n            <mo>—</mo>\n          </mover>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 182,
+      "anchor": "fs-id1167835595937",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "In the following exercises, find the sum of each infinite geometric series.",
+        "In the following exercises, write each repeating decimal as a fraction."
+      ],
+      "text": "\\(0. \\overline{ 27 }\\)",
+      "math": [
+        "0. \\overline{ 27 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>0.</mn>\n          <mover accent=\"true\">\n            <mrow>\n              <mn>27</mn>\n            </mrow>\n            <mo>—</mo>\n          </mover>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>0.</mn>\n          <mover accent=\"true\">\n            <mrow>\n              <mn>27</mn>\n            </mrow>\n            <mo>—</mo>\n          </mover>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 183,
+      "anchor": "fs-id1167834130942",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "Apply Geometric Sequences and Series in the Real World",
+        "In the following exercises, solve the problem."
+      ],
+      "text": "Find the total effect on the economy of each government tax rebate to each household in order to stimulate the economy if each household will spend the indicated percent of the rebate in goods and services. Tax rebate to each household Percent spent on goods and services Total Effect on the economy ⓐ \\(\\$1,000\\) \\(85%\\) ⓑ \\(\\$1,000\\) \\(75%\\) ⓒ \\(\\$1,500\\) \\(90%\\) ⓓ \\(\\$1,500\\) \\(80%\\)",
+      "math": [
+        "$1,000",
+        "85%",
+        "$1,000",
+        "75%",
+        "$1,500",
+        "90%",
+        "$1,500",
+        "80%"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>$</mtext><mn>1,000</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>$</mtext><mn>1,000</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>85</mn><mtext>%</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>85</mn><mtext>%</mtext></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>$</mtext><mn>1,000</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>$</mtext><mn>1,000</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>75</mn><mtext>%</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>75</mn><mtext>%</mtext></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>$</mtext><mn>1,500</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>$</mtext><mn>1,500</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>90</mn><mtext>%</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>90</mn><mtext>%</mtext></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>$</mtext><mn>1,500</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>$</mtext><mn>1,500</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>80</mn><mtext>%</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>80</mn><mtext>%</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 184,
+      "anchor": "fs-id1167831896637",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "Apply Geometric Sequences and Series in the Real World",
+        "In the following exercises, solve the problem."
+      ],
+      "text": "New grandparents decide to invest \\(\\$100\\) per month in an annuity for their grandchild. The account will pay \\(6%\\) interest per year which is compounded monthly (12 times a year). How much will be in the child’s account at their twenty-first birthday?",
+      "math": [
+        "$100",
+        "6%"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>$</mtext><mn>100</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>$</mtext><mn>100</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>6</mn><mtext>%</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>6</mn><mtext>%</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 185,
+      "anchor": "fs-id1167834062587",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "Apply Geometric Sequences and Series in the Real World",
+        "In the following exercises, solve the problem."
+      ],
+      "text": "Berenice just got her first full-time job after graduating from college at age 30. She decided to invest \\(\\$500\\) per quarter in an IRA (an annuity). The interest on the annuity is \\(7%\\) which is compounded quarterly (4 times a year). How much will be in the Berenice’s account when she retires at age 65?",
+      "math": [
+        "$500",
+        "7%"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>$</mtext><mn>500</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>$</mtext><mn>500</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>7</mn><mtext>%</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>7</mn><mtext>%</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 186,
+      "anchor": "fs-id1167834062626",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "Apply Geometric Sequences and Series in the Real World",
+        "In the following exercises, solve the problem."
+      ],
+      "text": "Alice wants to purchase a home in about five years. She is depositing \\(\\$500\\) a month into an annuity that earns \\(5%\\) per year that is compounded monthly (12 times a year). How much will Alice have for her down payment in five years?",
+      "math": [
+        "$500",
+        "5%"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>$</mtext><mn>500</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>$</mtext><mn>500</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mtext>%</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mtext>%</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 187,
+      "anchor": "fs-id1167834062663",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "Apply Geometric Sequences and Series in the Real World",
+        "In the following exercises, solve the problem."
+      ],
+      "text": "Myra just got her first full-time job after graduating from college. She plans to get a master’s degree, and so is depositing \\(\\$2,500\\) a year from her year-end bonus into an annuity. The annuity pays \\(6.5%\\) per year and is compounded yearly. How much will she have saved in five years to pursue her master’s degree?",
+      "math": [
+        "$2,500",
+        "6.5%"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>$</mtext><mn>2,500</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>$</mtext><mn>2,500</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>6.5</mn><mtext>%</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>6.5</mn><mtext>%</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 188,
+      "anchor": "fs-id1167835321473",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "In your own words, explain how to determine whether a sequence is geometric.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 189,
+      "anchor": "fs-id1167835321489",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "In your own words, explain how to find the general term of a geometric sequence.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 190,
+      "anchor": "fs-id1167835321505",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "In your own words, explain the difference between a geometric sequence and a geometric series.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 191,
+      "anchor": "fs-id1167835321522",
+      "page": "12-3-geometric-sequences-and-series",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "In your own words, explain how to determine if an infinite geometric series has a sum and how to find it.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "12.41",
+      "page": "12-3-geometric-sequences-and-series",
+      "is_try_it": true,
+      "anchor": "fs-id1167831117502",
+      "context": [
+        "Determine if a Sequence is Geometric"
+      ],
+      "text": "Determine if each sequence is geometric. If so indicate the common ratio. ⓐ \\(7,21,63,189,567,1,701,…\\) ⓑ \\(64,16,4,1,\\frac{1}{4},\\frac{1}{16},…\\) ⓒ \\(2,4,12,48,240,1,440,…\\)",
+      "math": [
+        "7,21,63,189,567,1,701,…",
+        "64,16,4,1,\\frac{1}{4},\\frac{1}{16},…",
+        "2,4,12,48,240,1,440,…"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>7</mn><mo>,</mo><mn>21</mn><mo>,</mo><mn>63</mn><mo>,</mo><mn>189</mn><mo>,</mo><mn>567</mn><mo>,</mo><mn>1,701</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>7</mn><mo>,</mo><mn>21</mn><mo>,</mo><mn>63</mn><mo>,</mo><mn>189</mn><mo>,</mo><mn>567</mn><mo>,</mo><mn>1,701</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>64</mn><mo>,</mo><mn>16</mn><mo>,</mo><mn>4</mn><mo>,</mo><mn>1</mn><mo>,</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>,</mo><mfrac><mn>1</mn><mrow><mn>16</mn></mrow></mfrac><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>64</mn><mo>,</mo><mn>16</mn><mo>,</mo><mn>4</mn><mo>,</mo><mn>1</mn><mo>,</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>,</mo><mfrac><mn>1</mn><mrow><mn>16</mn></mrow></mfrac><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mo>,</mo><mn>4</mn><mo>,</mo><mn>12</mn><mo>,</mo><mn>48</mn><mo>,</mo><mn>240</mn><mo>,</mo><mn>1,440</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mo>,</mo><mn>4</mn><mo>,</mo><mn>12</mn><mo>,</mo><mn>48</mn><mo>,</mo><mn>240</mn><mo>,</mo><mn>1,440</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.42",
+      "page": "12-3-geometric-sequences-and-series",
+      "is_try_it": true,
+      "anchor": "fs-id1167831883059",
+      "context": [
+        "Determine if a Sequence is Geometric"
+      ],
+      "text": "Determine if each sequence is geometric. If so indicate the common ratio. ⓐ \\(-150,-30,-15,-5,-\\frac{5}{2},0,…\\) ⓑ \\(5,10,20,40,80,160,…\\) ⓒ \\(8,4,2,1,\\frac{1}{2},\\frac{1}{4},…\\)",
+      "math": [
+        "-150,-30,-15,-5,-\\frac{5}{2},0,…",
+        "5,10,20,40,80,160,…",
+        "8,4,2,1,\\frac{1}{2},\\frac{1}{4},…"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−150</mn><mo>,</mo><mn>−30</mn><mo>,</mo><mn>−15</mn><mo>,</mo><mn>−5</mn><mo>,</mo><mo>−</mo><mfrac><mn>5</mn><mn>2</mn></mfrac><mo>,</mo><mn>0</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−150</mn><mo>,</mo><mn>−30</mn><mo>,</mo><mn>−15</mn><mo>,</mo><mn>−5</mn><mo>,</mo><mo>−</mo><mfrac><mn>5</mn><mn>2</mn></mfrac><mo>,</mo><mn>0</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mo>,</mo><mn>10</mn><mo>,</mo><mn>20</mn><mo>,</mo><mn>40</mn><mo>,</mo><mn>80</mn><mo>,</mo><mn>160</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mo>,</mo><mn>10</mn><mo>,</mo><mn>20</mn><mo>,</mo><mn>40</mn><mo>,</mo><mn>80</mn><mo>,</mo><mn>160</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>8</mn><mo>,</mo><mn>4</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>1</mn><mo>,</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>,</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>8</mn><mo>,</mo><mn>4</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>1</mn><mo>,</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>,</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.43",
+      "page": "12-3-geometric-sequences-and-series",
+      "is_try_it": true,
+      "anchor": "fs-id1167835336301",
+      "context": [
+        "Determine if a Sequence is Geometric"
+      ],
+      "text": "Write the first five terms of the sequence where the first term is 7 and the common ratio is \\(r=-3.\\)",
+      "math": [
+        "r=-3."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>r</mi><mo>=</mo><mn>−3</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>r</mi><mo>=</mo><mn>−3</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.44",
+      "page": "12-3-geometric-sequences-and-series",
+      "is_try_it": true,
+      "anchor": "fs-id1167831871527",
+      "context": [
+        "Determine if a Sequence is Geometric"
+      ],
+      "text": "Write the first five terms of the sequence where the first term is 6 and the common ratio is \\(r=-4.\\)",
+      "math": [
+        "r=-4."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>r</mi><mo>=</mo><mn>−4</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>r</mi><mo>=</mo><mn>−4</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.45",
+      "page": "12-3-geometric-sequences-and-series",
+      "is_try_it": true,
+      "anchor": "fs-id1167835419129",
+      "context": [
+        "Find the General Term (nth Term) of a Geometric Sequence"
+      ],
+      "text": "Find the thirteenth term of a sequence where the first term is 81 and the common ratio is \\(r=\\frac{1}{3}.\\)",
+      "math": [
+        "r=\\frac{1}{3}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>r</mi><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>r</mi><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.46",
+      "page": "12-3-geometric-sequences-and-series",
+      "is_try_it": true,
+      "anchor": "fs-id1167834190053",
+      "context": [
+        "Find the General Term (nth Term) of a Geometric Sequence"
+      ],
+      "text": "Find the twelfth term of a sequence where the first term is 256 and the common ratio is \\(r=\\frac{1}{4}.\\)",
+      "math": [
+        "r=\\frac{1}{4}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>r</mi><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>r</mi><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.47",
+      "page": "12-3-geometric-sequences-and-series",
+      "is_try_it": true,
+      "anchor": "fs-id1167831882438",
+      "context": [
+        "Find the General Term (nth Term) of a Geometric Sequence"
+      ],
+      "text": "Find the ninth term of the sequence 6, 18, 54, 162, 486, 1,458, … Then find the general term for the sequence.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "12.48",
+      "page": "12-3-geometric-sequences-and-series",
+      "is_try_it": true,
+      "anchor": "fs-id1167835332959",
+      "context": [
+        "Find the General Term (nth Term) of a Geometric Sequence"
+      ],
+      "text": "Find the eleventh term of the sequence 7, 14, 28, 56, 112, 224, … Then find the general term for the sequence.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "12.49",
+      "page": "12-3-geometric-sequences-and-series",
+      "is_try_it": true,
+      "anchor": "fs-id1167835320143",
+      "context": [
+        "Find the Sum of the First n Terms of a Geometric Sequence"
+      ],
+      "text": "Find the sum of the first 20 terms of the geometric sequence 3, 6, 12, 24, 48, 96, …",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "12.50",
+      "page": "12-3-geometric-sequences-and-series",
+      "is_try_it": true,
+      "anchor": "fs-id1167835420593",
+      "context": [
+        "Find the Sum of the First n Terms of a Geometric Sequence"
+      ],
+      "text": "Find the sum of the first 20 terms of the geometric sequence 6, 18, 54, 162, 486, 1,458, …",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "12.51",
+      "page": "12-3-geometric-sequences-and-series",
+      "is_try_it": true,
+      "anchor": "fs-id1167831887724",
+      "context": [
+        "Find the Sum of the First n Terms of a Geometric Sequence"
+      ],
+      "text": "Find the sum: \\(∑i=1156{(2)}^{i}.\\)",
+      "math": [
+        "\\sum_{i=1}^{15}6{(2)}^{i}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mstyle displaystyle=\"true\"><munderover><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mrow><mn>15</mn></mrow></munderover><mrow><mn>6</mn><msup><mrow><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow></mrow><mi>i</mi></msup></mrow></mstyle><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mstyle displaystyle=\"true\"><munderover><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mrow><mn>15</mn></mrow></munderover><mrow><mn>6</mn><msup><mrow><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow></mrow><mi>i</mi></msup></mrow></mstyle><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.52",
+      "page": "12-3-geometric-sequences-and-series",
+      "is_try_it": true,
+      "anchor": "fs-id1167835234456",
+      "context": [
+        "Find the Sum of the First n Terms of a Geometric Sequence"
+      ],
+      "text": "Find the sum: \\(∑i=1105{(2)}^{i}.\\)",
+      "math": [
+        "\\sum_{i=1}^{10}5{(2)}^{i}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mstyle displaystyle=\"true\"><munderover><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mrow><mn>10</mn></mrow></munderover><mrow><mn>5</mn><msup><mrow><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow></mrow><mi>i</mi></msup></mrow></mstyle><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mstyle displaystyle=\"true\"><munderover><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mrow><mn>10</mn></mrow></munderover><mrow><mn>5</mn><msup><mrow><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow></mrow><mi>i</mi></msup></mrow></mstyle><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.53",
+      "page": "12-3-geometric-sequences-and-series",
+      "is_try_it": true,
+      "anchor": "fs-id1167835358232",
+      "context": [
+        "Find the Sum of an Infinite Geometric Series"
+      ],
+      "text": "Find the sum of the infinite geometric series \\(48+24+12+6+3+\\frac{3}{2}+…\\)",
+      "math": [
+        "48+24+12+6+3+\\frac{3}{2}+…"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>48</mn><mo>+</mo><mn>24</mn><mo>+</mo><mn>12</mn><mo>+</mo><mn>6</mn><mo>+</mo><mn>3</mn><mo>+</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><mo>+</mo><mo>…</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>48</mn><mo>+</mo><mn>24</mn><mo>+</mo><mn>12</mn><mo>+</mo><mn>6</mn><mo>+</mo><mn>3</mn><mo>+</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><mo>+</mo><mo>…</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.54",
+      "page": "12-3-geometric-sequences-and-series",
+      "is_try_it": true,
+      "anchor": "fs-id1167830703306",
+      "context": [
+        "Find the Sum of an Infinite Geometric Series"
+      ],
+      "text": "Find the sum of the infinite geometric series \\(64+16+4+1+\\frac{1}{4}+\\frac{1}{16}+…\\)",
+      "math": [
+        "64+16+4+1+\\frac{1}{4}+\\frac{1}{16}+…"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>64</mn><mo>+</mo><mn>16</mn><mo>+</mo><mn>4</mn><mo>+</mo><mn>1</mn><mo>+</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><mn>16</mn></mrow></mfrac><mo>+</mo><mo>…</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>64</mn><mo>+</mo><mn>16</mn><mo>+</mo><mn>4</mn><mo>+</mo><mn>1</mn><mo>+</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><mn>16</mn></mrow></mfrac><mo>+</mo><mo>…</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.55",
+      "page": "12-3-geometric-sequences-and-series",
+      "is_try_it": true,
+      "anchor": "fs-id1167826804630",
+      "context": [
+        "Find the Sum of an Infinite Geometric Series"
+      ],
+      "text": "Write the repeating decimal \\(0.\\overline{4}\\) as a fraction.",
+      "math": [
+        "0.\\overline{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>0.</mn><mover><mn>4</mn><mo>–</mo></mover></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>0.</mn><mover><mn>4</mn><mo>–</mo></mover></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.56",
+      "page": "12-3-geometric-sequences-and-series",
+      "is_try_it": true,
+      "anchor": "fs-id1167835254045",
+      "context": [
+        "Find the Sum of an Infinite Geometric Series"
+      ],
+      "text": "Write the repeating decimal \\(0.\\overline{8}\\) as a fraction.",
+      "math": [
+        "0.\\overline{8}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>0.</mn><mover><mn>8</mn><mo>–</mo></mover></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>0.</mn><mover><mn>8</mn><mo>–</mo></mover></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.57",
+      "page": "12-3-geometric-sequences-and-series",
+      "is_try_it": true,
+      "anchor": "fs-id1167834214083",
+      "context": [
+        "Apply Geometric Sequences and Series in the Real World"
+      ],
+      "text": "What is the total effect on the economy of a government tax rebate of $1,000 to each household in order to stimulate the economy if each household will spend 90% of the rebate in goods and services?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "12.58",
+      "page": "12-3-geometric-sequences-and-series",
+      "is_try_it": true,
+      "anchor": "fs-id1167832053317",
+      "context": [
+        "Apply Geometric Sequences and Series in the Real World"
+      ],
+      "text": "What is the total effect on the economy of a government tax rebate of $500 to each household in order to stimulate the economy if each household will spend 85% of the rebate in goods and services?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "12.59",
+      "page": "12-3-geometric-sequences-and-series",
+      "is_try_it": true,
+      "anchor": "fs-id1167834535646",
+      "context": [
+        "Apply Geometric Sequences and Series in the Real World"
+      ],
+      "text": "New grandparents decide to invest $200 per month in an annuity for their grandson. The account will pay 5% interest per year which is compounded monthly. How much will be in the child’s account at his twenty-first birthday?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "12.60",
+      "page": "12-3-geometric-sequences-and-series",
+      "is_try_it": true,
+      "anchor": "fs-id1167826874175",
+      "context": [
+        "Apply Geometric Sequences and Series in the Real World"
+      ],
+      "text": "Arturo just got his first full-time job after graduating from college at age 27. He decided to invest $200 per month in an IRA (an annuity). The interest on the annuity is 8%, which is compounded monthly. How much will be in the Arturo’s account when he retires at his sixty-seventh birthday?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

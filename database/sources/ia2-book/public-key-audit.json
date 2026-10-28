@@ -1,0 +1,34 @@
+{
+  "checked": {
+    "equation": 58,
+    "affine": 18,
+    "function_values": 11,
+    "system": 24,
+    "identity": 129,
+    "polynomial_functions": 9,
+    "composition": 5,
+    "composition_values": 4
+  },
+  "comparisons": 258,
+  "mismatches": [],
+  "not_comparable": {
+    "numeric_model": 16,
+    "inequality_parts": 7,
+    "inequality": 30,
+    "function": 63,
+    "affine": 4,
+    "relation": 8,
+    "system": 1,
+    "polynomial_division": 9,
+    "equation": 9,
+    "inverse": 12,
+    "composition_values": 1,
+    "identity": 15,
+    "points": 11,
+    "conic": 21,
+    "sequence": 18,
+    "sequence_general": 4,
+    "sequence_sum": 2,
+    "annuity": 3
+  }
+}

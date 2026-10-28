@@ -1,0 +1,1732 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/3-2-slope-of-a-line",
+  "title": "3.2 Slope of a Line",
+  "sha256": "0b48dc9f18ba3ba2788ffa3137af6198c5b87e0e104b231c48349c76d333e11b",
+  "questions": [
+    {
+      "number": 81,
+      "anchor": "fs-id1167834527652",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "In the following exercises, find the slope of each line shown.",
+        "In the following exercises, find the slope of each line."
+      ],
+      "text": "\\(y = 3\\)",
+      "math": [
+        "y = 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 82,
+      "anchor": "fs-id1167835348379",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "In the following exercises, find the slope of each line shown.",
+        "In the following exercises, find the slope of each line."
+      ],
+      "text": "\\(y = -2\\)",
+      "math": [
+        "y = -2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 83,
+      "anchor": "fs-id1167834161487",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "In the following exercises, find the slope of each line shown.",
+        "In the following exercises, find the slope of each line."
+      ],
+      "text": "\\(x = -5\\)",
+      "math": [
+        "x = -5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>−5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>−5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 84,
+      "anchor": "fs-id1167835355658",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "In the following exercises, find the slope of each line shown.",
+        "In the following exercises, find the slope of each line."
+      ],
+      "text": "\\(x = 4\\)",
+      "math": [
+        "x = 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 85,
+      "anchor": "fs-id1167835374586",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "In the following exercises, find the slope of each line.",
+        "In the following exercises, use the slope formula to find the slope of the line between each pair of points."
+      ],
+      "text": "\\(( 2 , 5 ) , ( 4 , 0 )\\)",
+      "math": [
+        "( 2 , 5 ) , ( 4 , 0 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mo>,</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>,</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mo>,</mo>\n              <mn>0</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mo>,</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>,</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mo>,</mo>\n              <mn>0</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 86,
+      "anchor": "fs-id1167835317887",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "In the following exercises, find the slope of each line.",
+        "In the following exercises, use the slope formula to find the slope of the line between each pair of points."
+      ],
+      "text": "\\(( 3 , 6 ) , ( 8 , 0 )\\)",
+      "math": [
+        "( 3 , 6 ) , ( 8 , 0 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mo>,</mo>\n              <mn>6</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>,</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>8</mn>\n              <mo>,</mo>\n              <mn>0</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mo>,</mo>\n              <mn>6</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>,</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>8</mn>\n              <mo>,</mo>\n              <mn>0</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 87,
+      "anchor": "fs-id1167834124268",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "In the following exercises, find the slope of each line.",
+        "In the following exercises, use the slope formula to find the slope of the line between each pair of points."
+      ],
+      "text": "\\(( -3 , 3 ) , ( 4 , -5 )\\)",
+      "math": [
+        "( -3 , 3 ) , ( 4 , -5 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−3</mn>\n              <mo>,</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>,</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mo>,</mo>\n              <mn>−5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−3</mn>\n              <mo>,</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>,</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mo>,</mo>\n              <mn>−5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 88,
+      "anchor": "fs-id1167834234002",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "In the following exercises, find the slope of each line.",
+        "In the following exercises, use the slope formula to find the slope of the line between each pair of points."
+      ],
+      "text": "\\(( -2 , 4 ) , ( 3 , -1 )\\)",
+      "math": [
+        "( -2 , 4 ) , ( 3 , -1 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−2</mn>\n              <mo>,</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>,</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mo>,</mo>\n              <mn>−1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−2</mn>\n              <mo>,</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>,</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mo>,</mo>\n              <mn>−1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 89,
+      "anchor": "fs-id1167835231559",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "In the following exercises, find the slope of each line.",
+        "In the following exercises, use the slope formula to find the slope of the line between each pair of points."
+      ],
+      "text": "\\(( -1 , -2 ) , ( 2 , 5 )\\)",
+      "math": [
+        "( -1 , -2 ) , ( 2 , 5 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−1</mn>\n              <mo>,</mo>\n              <mn>−2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>,</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mo>,</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−1</mn>\n              <mo>,</mo>\n              <mn>−2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>,</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mo>,</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 90,
+      "anchor": "fs-id1167830924174",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "In the following exercises, find the slope of each line.",
+        "In the following exercises, use the slope formula to find the slope of the line between each pair of points."
+      ],
+      "text": "\\(( -2 , -1 ) , ( 6 , 5 )\\)",
+      "math": [
+        "( -2 , -1 ) , ( 6 , 5 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−2</mn>\n              <mo>,</mo>\n              <mn>−1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>,</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>6</mn>\n              <mo>,</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−2</mn>\n              <mo>,</mo>\n              <mn>−1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>,</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>6</mn>\n              <mo>,</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 91,
+      "anchor": "fs-id1167835336855",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "In the following exercises, find the slope of each line.",
+        "In the following exercises, use the slope formula to find the slope of the line between each pair of points."
+      ],
+      "text": "\\(( 4 , -5 ) , ( 1 , -2 )\\)",
+      "math": [
+        "( 4 , -5 ) , ( 1 , -2 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mo>,</mo>\n              <mn>−5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>,</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>1</mn>\n              <mo>,</mo>\n              <mn>−2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mo>,</mo>\n              <mn>−5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>,</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>1</mn>\n              <mo>,</mo>\n              <mn>−2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 92,
+      "anchor": "fs-id1167835302061",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "In the following exercises, find the slope of each line.",
+        "In the following exercises, use the slope formula to find the slope of the line between each pair of points."
+      ],
+      "text": "\\(( 3 , -6 ) , ( 2 , -2 )\\)",
+      "math": [
+        "( 3 , -6 ) , ( 2 , -2 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mo>,</mo>\n              <mn>−6</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>,</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mo>,</mo>\n              <mn>−2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mo>,</mo>\n              <mn>−6</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>,</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mo>,</mo>\n              <mn>−2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 93,
+      "anchor": "fs-id1167831065889",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Graph a Line Given a Point and the Slope",
+        "In the following exercises, graph each line with the given point and slope."
+      ],
+      "text": "\\(( 2 , 5 ) ;\\) \\(m = - \\frac{1}{3}\\)",
+      "math": [
+        "( 2 , 5 ) ;",
+        "m = - \\frac{1}{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mo>,</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>;</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mo>,</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>;</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>",
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>m</mi>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>m</mi>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 94,
+      "anchor": "fs-id1167826994273",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Graph a Line Given a Point and the Slope",
+        "In the following exercises, graph each line with the given point and slope."
+      ],
+      "text": "\\((1,4)\\); \\(m=-\\frac{1}{2}\\)",
+      "math": [
+        "(1,4)",
+        "m=-\\frac{1}{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>m</mi><mo>=</mo><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>m</mi><mo>=</mo><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 95,
+      "anchor": "fs-id1167831811648",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Graph a Line Given a Point and the Slope",
+        "In the following exercises, graph each line with the given point and slope."
+      ],
+      "text": "\\((-1,-4)\\); \\(m=\\frac{4}{3}\\)",
+      "math": [
+        "(-1,-4)",
+        "m=\\frac{4}{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>m</mi><mo>=</mo><mfrac><mn>4</mn><mn>3</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>m</mi><mo>=</mo><mfrac><mn>4</mn><mn>3</mn></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 96,
+      "anchor": "fs-id1167834523793",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Graph a Line Given a Point and the Slope",
+        "In the following exercises, graph each line with the given point and slope."
+      ],
+      "text": "\\((-3,-5)\\); \\(m=\\frac{3}{2}\\)",
+      "math": [
+        "(-3,-5)",
+        "m=\\frac{3}{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>m</mi><mo>=</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>m</mi><mo>=</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 97,
+      "anchor": "fs-id1167834547154",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Graph a Line Given a Point and the Slope",
+        "In the following exercises, graph each line with the given point and slope."
+      ],
+      "text": "y-intercept 3; \\(m=-\\frac{2}{5}\\)",
+      "math": [
+        "m=-\\frac{2}{5}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>m</mi><mo>=</mo><mo>−</mo><mfrac><mn>2</mn><mn>5</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>m</mi><mo>=</mo><mo>−</mo><mfrac><mn>2</mn><mn>5</mn></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 98,
+      "anchor": "fs-id1167835513619",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Graph a Line Given a Point and the Slope",
+        "In the following exercises, graph each line with the given point and slope."
+      ],
+      "text": "x-intercept \\(-2\\); \\(m=\\frac{3}{4}\\)",
+      "math": [
+        "-2",
+        "m=\\frac{3}{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−2</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>m</mi><mo>=</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>m</mi><mo>=</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 99,
+      "anchor": "fs-id1167835352435",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Graph a Line Given a Point and the Slope",
+        "In the following exercises, graph each line with the given point and slope."
+      ],
+      "text": "\\((-4,2)\\); \\(m=4\\)",
+      "math": [
+        "(-4,2)",
+        "m=4"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>m</mi><mo>=</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>m</mi><mo>=</mo><mn>4</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 100,
+      "anchor": "fs-id1167835199653",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Graph a Line Given a Point and the Slope",
+        "In the following exercises, graph each line with the given point and slope."
+      ],
+      "text": "\\((1,5)\\); \\(m=-3\\)",
+      "math": [
+        "(1,5)",
+        "m=-3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>5</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>5</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>m</mi><mo>=</mo><mn>−3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>m</mi><mo>=</mo><mn>−3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 101,
+      "anchor": "fs-id1167830757702",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Graph a Line Using Its Slope and Intercept",
+        "In the following exercises, identify the slope and y-intercept of each line."
+      ],
+      "text": "\\(y = -7 x + 3\\)",
+      "math": [
+        "y = -7 x + 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−7</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−7</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 102,
+      "anchor": "fs-id1167835254437",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Graph a Line Using Its Slope and Intercept",
+        "In the following exercises, identify the slope and y-intercept of each line."
+      ],
+      "text": "\\(y = 4 x - 10\\)",
+      "math": [
+        "y = 4 x - 10"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>10</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>10</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 103,
+      "anchor": "fs-id1167832053856",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Graph a Line Using Its Slope and Intercept",
+        "In the following exercises, identify the slope and y-intercept of each line."
+      ],
+      "text": "\\(3 x + y = 5\\)",
+      "math": [
+        "3 x + y = 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 104,
+      "anchor": "fs-id1167834156960",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Graph a Line Using Its Slope and Intercept",
+        "In the following exercises, identify the slope and y-intercept of each line."
+      ],
+      "text": "\\(4 x + y = 8\\)",
+      "math": [
+        "4 x + y = 8"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>8</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>8</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 105,
+      "anchor": "fs-id1167832041800",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Graph a Line Using Its Slope and Intercept",
+        "In the following exercises, identify the slope and y-intercept of each line."
+      ],
+      "text": "\\(6 x + 4 y = 12\\)",
+      "math": [
+        "6 x + 4 y = 12"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>12</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>12</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 106,
+      "anchor": "fs-id1167835357961",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Graph a Line Using Its Slope and Intercept",
+        "In the following exercises, identify the slope and y-intercept of each line."
+      ],
+      "text": "\\(8 x + 3 y = 12\\)",
+      "math": [
+        "8 x + 3 y = 12"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>12</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>12</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 107,
+      "anchor": "fs-id1167835634620",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Graph a Line Using Its Slope and Intercept",
+        "In the following exercises, identify the slope and y-intercept of each line."
+      ],
+      "text": "\\(5 x - 2 y = 6\\)",
+      "math": [
+        "5 x - 2 y = 6"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>6</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>6</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 108,
+      "anchor": "fs-id1167831970422",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Graph a Line Using Its Slope and Intercept",
+        "In the following exercises, identify the slope and y-intercept of each line."
+      ],
+      "text": "\\(7 x - 3 y = 9\\)",
+      "math": [
+        "7 x - 3 y = 9"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>7</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>9</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>7</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>9</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 109,
+      "anchor": "fs-id1167834196296",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "In the following exercises, identify the slope and y-intercept of each line.",
+        "In the following exercises, graph the line of each equation using its slope and y-intercept."
+      ],
+      "text": "\\(y = 3 x - 1\\)",
+      "math": [
+        "y = 3 x - 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 110,
+      "anchor": "fs-id1167835377417",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "In the following exercises, identify the slope and y-intercept of each line.",
+        "In the following exercises, graph the line of each equation using its slope and y-intercept."
+      ],
+      "text": "\\(y = 2 x - 3\\)",
+      "math": [
+        "y = 2 x - 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 111,
+      "anchor": "fs-id1167835309704",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "In the following exercises, identify the slope and y-intercept of each line.",
+        "In the following exercises, graph the line of each equation using its slope and y-intercept."
+      ],
+      "text": "\\(y = - x + 3\\)",
+      "math": [
+        "y = - x + 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 112,
+      "anchor": "fs-id1167835324939",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "In the following exercises, identify the slope and y-intercept of each line.",
+        "In the following exercises, graph the line of each equation using its slope and y-intercept."
+      ],
+      "text": "\\(y = - x - 4\\)",
+      "math": [
+        "y = - x - 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mtext>−</mtext>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 113,
+      "anchor": "fs-id1167831970035",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "In the following exercises, identify the slope and y-intercept of each line.",
+        "In the following exercises, graph the line of each equation using its slope and y-intercept."
+      ],
+      "text": "\\(y = - \\frac{2}{5} x - 3\\)",
+      "math": [
+        "y = - \\frac{2}{5} x - 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 114,
+      "anchor": "fs-id1167826803455",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "In the following exercises, identify the slope and y-intercept of each line.",
+        "In the following exercises, graph the line of each equation using its slope and y-intercept."
+      ],
+      "text": "\\(y = - \\frac{3}{5} x + 2\\)",
+      "math": [
+        "y = - \\frac{3}{5} x + 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 115,
+      "anchor": "fs-id1167834079569",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "In the following exercises, identify the slope and y-intercept of each line.",
+        "In the following exercises, graph the line of each equation using its slope and y-intercept."
+      ],
+      "text": "\\(3 x - 2 y = 4\\)",
+      "math": [
+        "3 x - 2 y = 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 116,
+      "anchor": "fs-id1167830960527",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "In the following exercises, identify the slope and y-intercept of each line.",
+        "In the following exercises, graph the line of each equation using its slope and y-intercept."
+      ],
+      "text": "\\(3 x - 4 y = 8\\)",
+      "math": [
+        "3 x - 4 y = 8"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>8</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>8</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 117,
+      "anchor": "fs-id1167835333038",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Choose the Most Convenient Method to Graph a Line",
+        "In the following exercises, determine the most convenient method to graph each line."
+      ],
+      "text": "\\(x = 2\\)",
+      "math": [
+        "x = 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 118,
+      "anchor": "fs-id1167834279539",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Choose the Most Convenient Method to Graph a Line",
+        "In the following exercises, determine the most convenient method to graph each line."
+      ],
+      "text": "\\(y = 5\\)",
+      "math": [
+        "y = 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 119,
+      "anchor": "fs-id1167827967188",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Choose the Most Convenient Method to Graph a Line",
+        "In the following exercises, determine the most convenient method to graph each line."
+      ],
+      "text": "\\(y = -3 x + 4\\)",
+      "math": [
+        "y = -3 x + 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−3</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−3</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 120,
+      "anchor": "fs-id1167835515190",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Choose the Most Convenient Method to Graph a Line",
+        "In the following exercises, determine the most convenient method to graph each line."
+      ],
+      "text": "\\(x - y = 5\\)",
+      "math": [
+        "x - y = 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 121,
+      "anchor": "fs-id1167830703054",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Choose the Most Convenient Method to Graph a Line",
+        "In the following exercises, determine the most convenient method to graph each line."
+      ],
+      "text": "\\(x - y = 1\\)",
+      "math": [
+        "x - y = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 122,
+      "anchor": "fs-id1167834182444",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Choose the Most Convenient Method to Graph a Line",
+        "In the following exercises, determine the most convenient method to graph each line."
+      ],
+      "text": "\\(y = \\frac{2}{3} x - 1\\)",
+      "math": [
+        "y = \\frac{2}{3} x - 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 123,
+      "anchor": "fs-id1167834049062",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Choose the Most Convenient Method to Graph a Line",
+        "In the following exercises, determine the most convenient method to graph each line."
+      ],
+      "text": "\\(3 x - 2 y = -12\\)",
+      "math": [
+        "3 x - 2 y = -12"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−12</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−12</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 124,
+      "anchor": "fs-id1167827940626",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Choose the Most Convenient Method to Graph a Line",
+        "In the following exercises, determine the most convenient method to graph each line."
+      ],
+      "text": "\\(2 x - 5 y = -10\\)",
+      "math": [
+        "2 x - 5 y = -10"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−10</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−10</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 125,
+      "anchor": "fs-id1167831883323",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "In the following exercises, determine the most convenient method to graph each line.",
+        "Graph and Interpret Applications of Slope–Intercept"
+      ],
+      "text": "The equation \\(P=31+1.75w\\) models the relation between the amount of Tuyet’s monthly water bill payment, P, in dollars, and the number of units of water, w, used. ⓐ Find Tuyet’s payment for a month when 0 units of water are used. ⓑ Find Tuyet’s payment for a month when 12 units of water are used. ⓒ Interpret the slope and P-intercept of the equation. ⓓ Graph the equation.",
+      "math": [
+        "P=31+1.75w"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>P</mi><mo>=</mo><mn>31</mn><mo>+</mo><mn>1.75</mn><mi>w</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>P</mi><mo>=</mo><mn>31</mn><mo>+</mo><mn>1.75</mn><mi>w</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 126,
+      "anchor": "fs-id1167831117509",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "In the following exercises, determine the most convenient method to graph each line.",
+        "Graph and Interpret Applications of Slope–Intercept"
+      ],
+      "text": "The equation \\(P=28+2.54w\\) models the relation between the amount of R and y’s monthly water bill payment, P, in dollars, and the number of units of water, w, used. ⓐ Find the payment for a month when R and y used 0 units of water. ⓑ Find the payment for a month when R and y used 15 units of water. ⓒ Interpret the slope and P-intercept of the equation. ⓓ Graph the equation.",
+      "math": [
+        "P=28+2.54w"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>P</mi><mo>=</mo><mn>28</mn><mo>+</mo><mn>2.54</mn><mi>w</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>P</mi><mo>=</mo><mn>28</mn><mo>+</mo><mn>2.54</mn><mi>w</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 127,
+      "anchor": "fs-id1167830704611",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "In the following exercises, determine the most convenient method to graph each line.",
+        "Graph and Interpret Applications of Slope–Intercept"
+      ],
+      "text": "Bruce drives his car for his job. The equation \\(R=0.575m+42\\) models the relation between the amount in dollars, R, that he is reimbursed and the number of miles, m, he drives in one day. ⓐ Find the amount Bruce is reimbursed on a day when he drives 0 miles. ⓑ Find the amount Bruce is reimbursed on a day when he drives 220 miles. ⓒ Interpret the slope and R-intercept of the equation. ⓓ Graph the equation.",
+      "math": [
+        "R=0.575m+42"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>R</mi><mo>=</mo><mn>0.575</mn><mi>m</mi><mo>+</mo><mn>42</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>R</mi><mo>=</mo><mn>0.575</mn><mi>m</mi><mo>+</mo><mn>42</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 128,
+      "anchor": "fs-id1167834194754",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "In the following exercises, determine the most convenient method to graph each line.",
+        "Graph and Interpret Applications of Slope–Intercept"
+      ],
+      "text": "Janelle is planning to rent a car while on vacation. The equation \\(C=0.32m+15\\) models the relation between the cost in dollars, C, per day and the number of miles, m, she drives in one day. ⓐ Find the cost if Janelle drives the car 0 miles one day. ⓑ Find the cost on a day when Janelle drives the car 400 miles. ⓒ Interpret the slope and C-intercept of the equation. ⓓ Graph the equation.",
+      "math": [
+        "C=0.32m+15"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>C</mi><mo>=</mo><mn>0.32</mn><mi>m</mi><mo>+</mo><mn>15</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>C</mi><mo>=</mo><mn>0.32</mn><mi>m</mi><mo>+</mo><mn>15</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 129,
+      "anchor": "fs-id1167835514508",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "In the following exercises, determine the most convenient method to graph each line.",
+        "Graph and Interpret Applications of Slope–Intercept"
+      ],
+      "text": "Cherie works in retail and her weekly salary includes commission for the amount she sells. The equation \\(S=400+0.15c\\) models the relation between her weekly salary, S, in dollars and the amount of her sales, c, in dollars. ⓐ Find Cherie’s salary for a week when her sales were $0. ⓑ Find Cherie’s salary for a week when her sales were $3,600. ⓒ Interpret the slope and S-intercept of the equation. ⓓ Graph the equation.",
+      "math": [
+        "S=400+0.15c"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>S</mi><mo>=</mo><mn>400</mn><mo>+</mo><mn>0.15</mn><mi>c</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>S</mi><mo>=</mo><mn>400</mn><mo>+</mo><mn>0.15</mn><mi>c</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 130,
+      "anchor": "fs-id1167834377193",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "In the following exercises, determine the most convenient method to graph each line.",
+        "Graph and Interpret Applications of Slope–Intercept"
+      ],
+      "text": "Patel’s weekly salary includes a base pay plus commission on his sales. The equation \\(S=750+0.09c\\) models the relation between his weekly salary, S, in dollars and the amount of his sales, c, in dollars. ⓐ Find Patel’s salary for a week when his sales were 0. ⓑ Find Patel’s salary for a week when his sales were 18,540. ⓒ Interpret the slope and S-intercept of the equation. ⓓ Graph the equation.",
+      "math": [
+        "S=750+0.09c"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>S</mi><mo>=</mo><mn>750</mn><mo>+</mo><mn>0.09</mn><mi>c</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>S</mi><mo>=</mo><mn>750</mn><mo>+</mo><mn>0.09</mn><mi>c</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 131,
+      "anchor": "fs-id1167827943784",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "In the following exercises, determine the most convenient method to graph each line.",
+        "Graph and Interpret Applications of Slope–Intercept"
+      ],
+      "text": "Costa is planning a lunch banquet. The equation \\(C=450+28g\\) models the relation between the cost in dollars, C, of the banquet and the number of guests, g. ⓐ Find the cost if the number of guests is 40. ⓑ Find the cost if the number of guests is 80. ⓒ Interpret the slope and C-intercept of the equation. ⓓ Graph the equation.",
+      "math": [
+        "C=450+28g"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>C</mi><mo>=</mo><mn>450</mn><mo>+</mo><mn>28</mn><mi>g</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>C</mi><mo>=</mo><mn>450</mn><mo>+</mo><mn>28</mn><mi>g</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 132,
+      "anchor": "fs-id1167835433669",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "In the following exercises, determine the most convenient method to graph each line.",
+        "Graph and Interpret Applications of Slope–Intercept"
+      ],
+      "text": "Margie is planning a dinner banquet. The equation \\(C=750+42g\\) models the relation between the cost in dollars, C of the banquet and the number of guests, g. ⓐ Find the cost if the number of guests is 50. ⓑ Find the cost if the number of guests is 100. ⓒ Interpret the slope and C-intercept of the equation. ⓓ Graph the equation.",
+      "math": [
+        "C=750+42g"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>C</mi><mo>=</mo><mn>750</mn><mo>+</mo><mn>42</mn><mi>g</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>C</mi><mo>=</mo><mn>750</mn><mo>+</mo><mn>42</mn><mi>g</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 133,
+      "anchor": "fs-id1167834252179",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Use Slopes to Identify Parallel and Perpendicular Lines",
+        "In the following exercises, use slopes and y-intercepts to determine if the lines are parallel, perpendicular, or neither."
+      ],
+      "text": "\\(y = \\frac{3}{4} x - 3 ; 3 x - 4 y = -2\\)",
+      "math": [
+        "y = \\frac{3}{4} x - 3 ; 3 x - 4 y = -2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>−2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 134,
+      "anchor": "fs-id1167834462506",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Use Slopes to Identify Parallel and Perpendicular Lines",
+        "In the following exercises, use slopes and y-intercepts to determine if the lines are parallel, perpendicular, or neither."
+      ],
+      "text": "\\(3 x + 4 y = - 2 ; y = \\frac{3}{4} x - 3\\)",
+      "math": [
+        "3 x + 4 y = - 2 ; y = \\frac{3}{4} x - 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 135,
+      "anchor": "fs-id1167828420770",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Use Slopes to Identify Parallel and Perpendicular Lines",
+        "In the following exercises, use slopes and y-intercepts to determine if the lines are parallel, perpendicular, or neither."
+      ],
+      "text": "\\(2 x - 4 y = 6 ; x - 2 y = 3\\)",
+      "math": [
+        "2 x - 4 y = 6 ; x - 2 y = 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>6</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>6</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 136,
+      "anchor": "fs-id1167831238933",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Use Slopes to Identify Parallel and Perpendicular Lines",
+        "In the following exercises, use slopes and y-intercepts to determine if the lines are parallel, perpendicular, or neither."
+      ],
+      "text": "\\(8 x + 6 y = 6 ; 12 x + 9 y = 12\\)",
+      "math": [
+        "8 x + 6 y = 6 ; 12 x + 9 y = 12"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>6</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mn>12</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>9</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>12</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>6</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mn>12</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>9</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>12</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 137,
+      "anchor": "fs-id1167831186074",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Use Slopes to Identify Parallel and Perpendicular Lines",
+        "In the following exercises, use slopes and y-intercepts to determine if the lines are parallel, perpendicular, or neither."
+      ],
+      "text": "\\(x = 5 ; x = -6\\)",
+      "math": [
+        "x = 5 ; x = -6"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>5</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>−6</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>5</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mn>−6</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 138,
+      "anchor": "fs-id1167835330281",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Use Slopes to Identify Parallel and Perpendicular Lines",
+        "In the following exercises, use slopes and y-intercepts to determine if the lines are parallel, perpendicular, or neither."
+      ],
+      "text": "\\(x = - 3 ; x = - 2\\)",
+      "math": [
+        "x = - 3 ; x = - 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mi>x</mi>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 139,
+      "anchor": "fs-id1167834429874",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Use Slopes to Identify Parallel and Perpendicular Lines",
+        "In the following exercises, use slopes and y-intercepts to determine if the lines are parallel, perpendicular, or neither."
+      ],
+      "text": "\\(4 x - 2 y = 5 ; 3 x + 6 y = 8\\)",
+      "math": [
+        "4 x - 2 y = 5 ; 3 x + 6 y = 8"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>5</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>8</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>5</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>8</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 140,
+      "anchor": "fs-id1167832151339",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Use Slopes to Identify Parallel and Perpendicular Lines",
+        "In the following exercises, use slopes and y-intercepts to determine if the lines are parallel, perpendicular, or neither."
+      ],
+      "text": "\\(8 x - 2 y = 7 ; 3 x + 12 y = 9\\)",
+      "math": [
+        "8 x - 2 y = 7 ; 3 x + 12 y = 9"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>7</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>9</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>8</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>7</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>9</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 141,
+      "anchor": "fs-id1167832153516",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Use Slopes to Identify Parallel and Perpendicular Lines",
+        "In the following exercises, use slopes and y-intercepts to determine if the lines are parallel, perpendicular, or neither."
+      ],
+      "text": "\\(3 x - 6 y = 12 ; 6 x - 3 y = 3\\)",
+      "math": [
+        "3 x - 6 y = 12 ; 6 x - 3 y = 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>12</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>12</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 142,
+      "anchor": "fs-id1167830704589",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Use Slopes to Identify Parallel and Perpendicular Lines",
+        "In the following exercises, use slopes and y-intercepts to determine if the lines are parallel, perpendicular, or neither."
+      ],
+      "text": "\\(9 x - 5 y = 4 ; 5 x + 9 y = - 1\\)",
+      "math": [
+        "9 x - 5 y = 4 ; 5 x + 9 y = - 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>9</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>4</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>9</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>9</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>4</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>9</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 143,
+      "anchor": "fs-id1167831151221",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Use Slopes to Identify Parallel and Perpendicular Lines",
+        "In the following exercises, use slopes and y-intercepts to determine if the lines are parallel, perpendicular, or neither."
+      ],
+      "text": "\\(7 x - 4 y = 8 ; 4 x + 7 y = 14\\)",
+      "math": [
+        "7 x - 4 y = 8 ; 4 x + 7 y = 14"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>7</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>8</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>14</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>7</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>8</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>14</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 144,
+      "anchor": "fs-id1167834094717",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Use Slopes to Identify Parallel and Perpendicular Lines",
+        "In the following exercises, use slopes and y-intercepts to determine if the lines are parallel, perpendicular, or neither."
+      ],
+      "text": "\\(5 x - 2 y = 11 ; 5 x - y = 7\\)",
+      "math": [
+        "5 x - 2 y = 11 ; 5 x - y = 7"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>11</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>7</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>11</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>7</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 145,
+      "anchor": "fs-id1167832056371",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Use Slopes to Identify Parallel and Perpendicular Lines",
+        "In the following exercises, use slopes and y-intercepts to determine if the lines are parallel, perpendicular, or neither."
+      ],
+      "text": "\\(3 x - 2 y = 8 ; 2 x + 3 y = 6\\)",
+      "math": [
+        "3 x - 2 y = 8 ; 2 x + 3 y = 6"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>8</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>6</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>8</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>6</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 146,
+      "anchor": "fs-id1167834062045",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Use Slopes to Identify Parallel and Perpendicular Lines",
+        "In the following exercises, use slopes and y-intercepts to determine if the lines are parallel, perpendicular, or neither."
+      ],
+      "text": "\\(2 x + 3 y = 5 ; 3 x - 2 y = 7\\)",
+      "math": [
+        "2 x + 3 y = 5 ; 3 x - 2 y = 7"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>5</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>7</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>5</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>7</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 147,
+      "anchor": "fs-id1167835353279",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Use Slopes to Identify Parallel and Perpendicular Lines",
+        "In the following exercises, use slopes and y-intercepts to determine if the lines are parallel, perpendicular, or neither."
+      ],
+      "text": "\\(3 x - 2 y = 1 ; 2 x - 3 y = 2\\)",
+      "math": [
+        "3 x - 2 y = 1 ; 2 x - 3 y = 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>1</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>1</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 148,
+      "anchor": "fs-id1167830693835",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Use Slopes to Identify Parallel and Perpendicular Lines",
+        "In the following exercises, use slopes and y-intercepts to determine if the lines are parallel, perpendicular, or neither."
+      ],
+      "text": "\\(2 x + 4 y = 3 ; 6 x + 3 y = 2\\)",
+      "math": [
+        "2 x + 4 y = 3 ; 6 x + 3 y = 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>3</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>3</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 149,
+      "anchor": "fs-id1167830964572",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Use Slopes to Identify Parallel and Perpendicular Lines",
+        "In the following exercises, use slopes and y-intercepts to determine if the lines are parallel, perpendicular, or neither."
+      ],
+      "text": "\\(y = 2 ; y = 6\\)",
+      "math": [
+        "y = 2 ; y = 6"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>2</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>6</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>2</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>6</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 150,
+      "anchor": "fs-id1167835351832",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Use Slopes to Identify Parallel and Perpendicular Lines",
+        "In the following exercises, use slopes and y-intercepts to determine if the lines are parallel, perpendicular, or neither."
+      ],
+      "text": "\\(y = - 1 ; y = 2\\)",
+      "math": [
+        "y = - 1 ; y = 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mn>1</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mo>−</mo>\n          <mn>1</mn>\n          <mo>;</mo>\n          <mspace width=\"1em\"></mspace>\n          <mi>y</mi>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 151,
+      "anchor": "fs-id1167835433757",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "How does the graph of a line with slope \\(m=-\\frac{1}{2}\\) differ from the graph of a line with slope \\(m=2?\\)",
+      "math": [
+        "m=-\\frac{1}{2}",
+        "m=2?"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>m</mi><mo>=</mo><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>m</mi><mo>=</mo><mo>-</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>m</mi><mo>=</mo><mn>2</mn><mo>?</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>m</mi><mo>=</mo><mn>2</mn><mo>?</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 152,
+      "anchor": "fs-id1167834538592",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Why is the slope of a vertical line “undefined”?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 153,
+      "anchor": "fs-id1167834377179",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain how you can graph a line given a point and its slope.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 154,
+      "anchor": "fs-id1167826827760",
+      "page": "3-2-slope-of-a-line",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain in your own words how to decide which method to use to graph a line.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "3.23",
+      "page": "3-2-slope-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167834279233",
+      "context": [
+        "Find the Slope of a Line"
+      ],
+      "text": "Find the slope of the line shown. [FIGURA: This figure shows the graph of a straight line on the x y-coordinate plane. The x-axis runs from negative 1 to 5. The y-axis runs from negative 6 to 1. The line goes through the points (0, negative 2) and (3, negative 6).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure shows the graph of a straight line on the x y-coordinate plane. The x-axis runs from negative 1 to 5. The y-axis runs from negative 6 to 1. The line goes through the points (0, negative 2) and (3, negative 6)."
+      ]
+    },
+    {
+      "number": "3.24",
+      "page": "3-2-slope-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167834432446",
+      "context": [
+        "Find the Slope of a Line"
+      ],
+      "text": "Find the slope of the line shown. [FIGURA: This figure shows the graph of a straight line on the x y-coordinate plane. The x-axis runs from negative 3 to 6. The y-axis runs from negative 3 to 2. The line goes through the points (0, 1) and (5, negative 2).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure shows the graph of a straight line on the x y-coordinate plane. The x-axis runs from negative 3 to 6. The y-axis runs from negative 3 to 2. The line goes through the points (0, 1) and (5, negative 2)."
+      ]
+    },
+    {
+      "number": "3.25",
+      "page": "3-2-slope-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167834252253",
+      "context": [
+        "Find the Slope of a Line"
+      ],
+      "text": "Find the slope of the line: \\(x=-4.\\)",
+      "math": [
+        "x=-4."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>−4</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>−4</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.26",
+      "page": "3-2-slope-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167835370415",
+      "context": [
+        "Find the Slope of a Line"
+      ],
+      "text": "Find the slope of the line: \\(y=7.\\)",
+      "math": [
+        "y=7."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>7</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>7</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.27",
+      "page": "3-2-slope-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167835303389",
+      "context": [
+        "Find the Slope of a Line"
+      ],
+      "text": "Use the slope formula to find the slope of the line through the pair of points: \\((-3,4)\\) and \\((2,-1).\\)",
+      "math": [
+        "(-3,4)",
+        "(2,-1)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.28",
+      "page": "3-2-slope-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167835237425",
+      "context": [
+        "Find the Slope of a Line"
+      ],
+      "text": "Use the slope formula to find the slope of the line through the pair of points: \\((-2,6)\\) and \\((-3,-4).\\)",
+      "math": [
+        "(-2,6)",
+        "(-3,-4)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>6</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>6</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.29",
+      "page": "3-2-slope-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167835336160",
+      "context": [
+        "Graph a Line Given a Point and the Slope"
+      ],
+      "text": "Graph the line passing through the point \\((2,-2)\\) with the slope\\(m=\\frac{4}{3}.\\)",
+      "math": [
+        "(2,-2)",
+        "m=\\frac{4}{3}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>m</mi><mo>=</mo><mfrac><mn>4</mn><mn>3</mn></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>m</mi><mo>=</mo><mfrac><mn>4</mn><mn>3</mn></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.30",
+      "page": "3-2-slope-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167835190400",
+      "context": [
+        "Graph a Line Given a Point and the Slope"
+      ],
+      "text": "Graph the line passing through the point \\((-2,3)\\) with the slope \\(m=\\frac{1}{4}.\\)",
+      "math": [
+        "(-2,3)",
+        "m=\\frac{1}{4}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>m</mi><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>m</mi><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.31",
+      "page": "3-2-slope-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167826827849",
+      "context": [
+        "Graph a Line Using its Slope and Intercept"
+      ],
+      "text": "Identify the slope and y-intercept from the equation of the line. ⓐ \\(y=\\frac{2}{5}x-1\\) ⓑ \\(x+4y=8\\)",
+      "math": [
+        "y=\\frac{2}{5}x-1",
+        "x+4y=8"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mfrac><mn>2</mn><mn>5</mn></mfrac><mi>x</mi><mo>−</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mfrac><mn>2</mn><mn>5</mn></mfrac><mi>x</mi><mo>−</mo><mn>1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>+</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>8</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>+</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>8</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.32",
+      "page": "3-2-slope-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167835337502",
+      "context": [
+        "Graph a Line Using its Slope and Intercept"
+      ],
+      "text": "Identify the slope and y-intercept from the equation of the line. ⓐ \\(y=-\\frac{4}{3}x+1\\) ⓑ \\(3x+2y=12\\)",
+      "math": [
+        "y=-\\frac{4}{3}x+1",
+        "3x+2y=12"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mo>−</mo><mfrac><mn>4</mn><mn>3</mn></mfrac><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mo>−</mo><mfrac><mn>4</mn><mn>3</mn></mfrac><mi>x</mi><mo>+</mo><mn>1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>12</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>12</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.33",
+      "page": "3-2-slope-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167835236062",
+      "context": [
+        "Graph a Line Using its Slope and Intercept"
+      ],
+      "text": "Graph the line of the equation \\(y=-x-3\\) using its slope and y-intercept.",
+      "math": [
+        "y=-x-3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mtext>−</mtext><mi>x</mi><mo>−</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mtext>−</mtext><mi>x</mi><mo>−</mo><mn>3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.34",
+      "page": "3-2-slope-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167835267221",
+      "context": [
+        "Graph a Line Using its Slope and Intercept"
+      ],
+      "text": "Graph the line of the equation\\(y=-x-1\\) using its slope and y-intercept.",
+      "math": [
+        "y=-x-1"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mtext>−</mtext><mi>x</mi><mo>−</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mtext>−</mtext><mi>x</mi><mo>−</mo><mn>1</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.35",
+      "page": "3-2-slope-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167834195987",
+      "context": [
+        "Choose the Most Convenient Method to Graph a Line"
+      ],
+      "text": "Determine the most convenient method to graph each line: ⓐ \\(3x+2y=12\\) ⓑ \\(y=4\\) ⓒ \\(y=\\frac{1}{5}x-4\\) ⓓ \\(x=-7.\\)",
+      "math": [
+        "3x+2y=12",
+        "y=4",
+        "y=\\frac{1}{5}x-4",
+        "x=-7."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>12</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>12</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mfrac><mn>1</mn><mn>5</mn></mfrac><mi>x</mi><mo>−</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mfrac><mn>1</mn><mn>5</mn></mfrac><mi>x</mi><mo>−</mo><mn>4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>−7</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>−7</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.36",
+      "page": "3-2-slope-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167834377470",
+      "context": [
+        "Choose the Most Convenient Method to Graph a Line"
+      ],
+      "text": "Determine the most convenient method to graph each line: ⓐ \\(x=6\\) ⓑ \\(y=-\\frac{3}{4}x+1\\) ⓒ \\(y=-8\\) ⓓ \\(4x-3y=-1.\\)",
+      "math": [
+        "x=6",
+        "y=-\\frac{3}{4}x+1",
+        "y=-8",
+        "4x-3y=-1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>6</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mo>−</mo><mfrac><mn>3</mn><mn>4</mn></mfrac><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mo>−</mo><mfrac><mn>3</mn><mn>4</mn></mfrac><mi>x</mi><mo>+</mo><mn>1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>−8</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>−8</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mi>x</mi><mo>−</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>−1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mi>x</mi><mo>−</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>−1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.37",
+      "page": "3-2-slope-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167835337642",
+      "context": [
+        "Graph and Interpret Applications of Slope–Intercept"
+      ],
+      "text": "The equation \\(h=2s+50\\) is used to estimate a woman’s height in inches, h, based on her shoe size, s. ⓐ Estimate the height of a child who wears women’s shoe size 0. ⓑ Estimate the height of a woman with shoe size 8. ⓒ Interpret the slope and h-intercept of the equation. ⓓ Graph the equation.",
+      "math": [
+        "h=2s+50"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mo>=</mo><mn>2</mn><mi>s</mi><mo>+</mo><mn>50</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mo>=</mo><mn>2</mn><mi>s</mi><mo>+</mo><mn>50</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.38",
+      "page": "3-2-slope-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167834196826",
+      "context": [
+        "Graph and Interpret Applications of Slope–Intercept"
+      ],
+      "text": "The equation \\(T=\\frac{1}{4}n+40\\) is used to estimate the temperature in degrees Fahrenheit, T, based on the number of cricket chirps, n, in one minute. ⓐ Estimate the temperature when there are no chirps. ⓑ Estimate the temperature when the number of chirps in one minute is 100. ⓒ Interpret the slope and T-intercept of the equation. ⓓ Graph the equation.",
+      "math": [
+        "T=\\frac{1}{4}n+40"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>T</mi><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mi>n</mi><mo>+</mo><mn>40</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>T</mi><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mi>n</mi><mo>+</mo><mn>40</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.39",
+      "page": "3-2-slope-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167835326944",
+      "context": [
+        "Graph and Interpret Applications of Slope–Intercept"
+      ],
+      "text": "Stella has a home business selling gourmet pizzas. The equation \\(C=4p+25\\) models the relation between her weekly cost, C, in dollars and the number of pizzas, p, that she sells. ⓐ Find Stella’s cost for a week when she sells no pizzas. ⓑ Find the cost for a week when she sells 15 pizzas. ⓒ Interpret the slope and C-intercept of the equation. ⓓ Graph the equation.",
+      "math": [
+        "C=4p+25"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>C</mi><mo>=</mo><mn>4</mn><mi>p</mi><mo>+</mo><mn>25</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>C</mi><mo>=</mo><mn>4</mn><mi>p</mi><mo>+</mo><mn>25</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.40",
+      "page": "3-2-slope-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167834547149",
+      "context": [
+        "Graph and Interpret Applications of Slope–Intercept"
+      ],
+      "text": "Loreen has a calligraphy business. The equation \\(C=1.8n+35\\) models the relation between her weekly cost, C, in dollars and the number of wedding invitations, n, that she writes. ⓐ Find Loreen’s cost for a week when she writes no invitations. ⓑ Find the cost for a week when she writes 75 invitations. ⓒ Interpret the slope and C-intercept of the equation. ⓓ Graph the equation.",
+      "math": [
+        "C=1.8n+35"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>C</mi><mo>=</mo><mn>1.8</mn><mi>n</mi><mo>+</mo><mn>35</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>C</mi><mo>=</mo><mn>1.8</mn><mi>n</mi><mo>+</mo><mn>35</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.41",
+      "page": "3-2-slope-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167835356391",
+      "context": [
+        "Use Slopes to Identify Parallel and Perpendicular Lines"
+      ],
+      "text": "Use slopes and y-intercepts to determine if the lines are parallel: ⓐ \\(2x+5y=5\\) and \\(y=-\\frac{2}{5}x-4\\) ⓑ \\(y=-\\frac{1}{2}x-1\\) and \\(x+2y=-2.\\)",
+      "math": [
+        "2x+5y=5",
+        "y=-\\frac{2}{5}x-4",
+        "y=-\\frac{1}{2}x-1",
+        "x+2y=-2."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>5</mn><mi>y</mi><mo>=</mo><mn>5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>5</mn><mi>y</mi><mo>=</mo><mn>5</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mo>−</mo><mfrac><mn>2</mn><mn>5</mn></mfrac><mi>x</mi><mo>−</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mo>−</mo><mfrac><mn>2</mn><mn>5</mn></mfrac><mi>x</mi><mo>−</mo><mn>4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi><mo>−</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi><mo>−</mo><mn>1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>−2</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>−2</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.42",
+      "page": "3-2-slope-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167835336952",
+      "context": [
+        "Use Slopes to Identify Parallel and Perpendicular Lines"
+      ],
+      "text": "Use slopes and y-intercepts to determine if the lines are parallel: ⓐ \\(4x-3y=6\\) and \\(y=\\frac{4}{3}x-1\\) ⓑ \\(y=\\frac{3}{4}x-3\\) and \\(3x-4y=12.\\)",
+      "math": [
+        "4x-3y=6",
+        "y=\\frac{4}{3}x-1",
+        "y=\\frac{3}{4}x-3",
+        "3x-4y=12."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mi>x</mi><mo>−</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mi>x</mi><mo>−</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>6</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mfrac><mn>4</mn><mn>3</mn></mfrac><mi>x</mi><mo>−</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mfrac><mn>4</mn><mn>3</mn></mfrac><mi>x</mi><mo>−</mo><mn>1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mfrac><mn>3</mn><mn>4</mn></mfrac><mi>x</mi><mo>−</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mfrac><mn>3</mn><mn>4</mn></mfrac><mi>x</mi><mo>−</mo><mn>3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>12</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>12</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.43",
+      "page": "3-2-slope-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167828431870",
+      "context": [
+        "Use Slopes to Identify Parallel and Perpendicular Lines"
+      ],
+      "text": "Use slopes and y-intercepts to determine if the lines are parallel: ⓐ \\(y=8\\) and \\(y=-6\\) ⓑ \\(x=1\\) and \\(x=-5.\\)",
+      "math": [
+        "y=8",
+        "y=-6",
+        "x=1",
+        "x=-5."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>8</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>8</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>−6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>−6</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>−5</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>−5</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.44",
+      "page": "3-2-slope-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167832057622",
+      "context": [
+        "Use Slopes to Identify Parallel and Perpendicular Lines"
+      ],
+      "text": "Use slopes and y-intercepts to determine if the lines are parallel: ⓐ \\(y=1\\) and \\(y=-5\\) ⓑ \\(x=8\\) and \\(x=-6.\\)",
+      "math": [
+        "y=1",
+        "y=-5",
+        "x=8",
+        "x=-6."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>−5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>−5</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>8</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>8</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>−6</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>−6</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.45",
+      "page": "3-2-slope-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167832138828",
+      "context": [
+        "Use Slopes to Identify Parallel and Perpendicular Lines"
+      ],
+      "text": "Use slopes to determine if the lines are perpendicular: ⓐ \\(y=-3x+2\\) and \\(x-3y=4\\) ⓑ \\(5x+4y=1\\) and \\(4x+5y=3.\\)",
+      "math": [
+        "y=-3x+2",
+        "x-3y=4",
+        "5x+4y=1",
+        "4x+5y=3."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>−3</mn><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>−3</mn><mi>x</mi><mo>+</mo><mn>2</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>−</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>−</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mi>x</mi><mo>+</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mi>x</mi><mo>+</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mn>5</mn><mi>y</mi><mo>=</mo><mn>3</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mn>5</mn><mi>y</mi><mo>=</mo><mn>3</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.46",
+      "page": "3-2-slope-of-a-line",
+      "is_try_it": true,
+      "anchor": "fs-id1167834449199",
+      "context": [
+        "Use Slopes to Identify Parallel and Perpendicular Lines"
+      ],
+      "text": "Use slopes to determine if the lines are perpendicular: ⓐ \\(y=2x-5\\) and \\(x+2y=-6\\) ⓑ \\(2x-9y=3\\) and \\(9x-2y=1.\\)",
+      "math": [
+        "y=2x-5",
+        "x+2y=-6",
+        "2x-9y=3",
+        "9x-2y=1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>5</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>−6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>−6</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>9</mn><mi>y</mi><mo>=</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>9</mn><mi>y</mi><mo>=</mo><mn>3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>9</mn><mi>x</mi><mo>−</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>9</mn><mi>x</mi><mo>−</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

@@ -1,0 +1,1728 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/8-8-use-the-complex-number-system",
+  "title": "8.8 Use the Complex Number System",
+  "sha256": "a7923f817e6d50358009b3e94f2ca9c416c07aab8b089f6b9efbae1be49f3c8a",
+  "questions": [
+    {
+      "number": 409,
+      "anchor": "fs-id1169145667504",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Evaluate the Square Root of a Negative Number",
+        "In the following exercises, write each expression in terms of i and simplify if possible."
+      ],
+      "text": "ⓐ \\(\\sqrt{-16}\\) ⓑ \\(\\sqrt{-11}\\)ⓒ \\(\\sqrt{-8}\\)",
+      "math": [
+        "\\sqrt{-16}",
+        "\\sqrt{-11}",
+        "\\sqrt{-8}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>−16</mn></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>−16</mn></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>−11</mn></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>−11</mn></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>−8</mn></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>−8</mn></mrow></msqrt></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 410,
+      "anchor": "fs-id1169147797185",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Evaluate the Square Root of a Negative Number",
+        "In the following exercises, write each expression in terms of i and simplify if possible."
+      ],
+      "text": "ⓐ \\(\\sqrt{-121}\\) ⓑ \\(\\sqrt{-1}\\) ⓒ \\(\\sqrt{-20}\\)",
+      "math": [
+        "\\sqrt{-121}",
+        "\\sqrt{-1}",
+        "\\sqrt{-20}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>−121</mn></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>−121</mn></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>−1</mn></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>−1</mn></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>−20</mn></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>−20</mn></mrow></msqrt></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 411,
+      "anchor": "fs-id1169143614499",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Evaluate the Square Root of a Negative Number",
+        "In the following exercises, write each expression in terms of i and simplify if possible."
+      ],
+      "text": "ⓐ \\(\\sqrt{-100}\\) ⓑ \\(\\sqrt{-13}\\) ⓒ \\(\\sqrt{-45}\\)",
+      "math": [
+        "\\sqrt{-100}",
+        "\\sqrt{-13}",
+        "\\sqrt{-45}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>−100</mn></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>−100</mn></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>−13</mn></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>−13</mn></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>−45</mn></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>−45</mn></mrow></msqrt></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 412,
+      "anchor": "fs-id1169145664846",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Evaluate the Square Root of a Negative Number",
+        "In the following exercises, write each expression in terms of i and simplify if possible."
+      ],
+      "text": "ⓐ \\(\\sqrt{-49}\\) ⓑ \\(\\sqrt{-15}\\) ⓒ \\(\\sqrt{-75}\\)",
+      "math": [
+        "\\sqrt{-49}",
+        "\\sqrt{-15}",
+        "\\sqrt{-75}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>−49</mn></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>−49</mn></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>−15</mn></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>−15</mn></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>−75</mn></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>−75</mn></mrow></msqrt></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 413,
+      "anchor": "fs-id1169147961706",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, write each expression in terms of i and simplify if possible.",
+        "Add or Subtract Complex Numbers In the following exercises, add or subtract."
+      ],
+      "text": "\\(\\sqrt{ -75 } + \\sqrt{ -48 }\\)",
+      "math": [
+        "\\sqrt{ -75 } + \\sqrt{ -48 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>−75</mn>\n            </mrow>\n          </msqrt>\n          <mo>+</mo>\n          <msqrt>\n            <mrow>\n              <mn>−48</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>−75</mn>\n            </mrow>\n          </msqrt>\n          <mo>+</mo>\n          <msqrt>\n            <mrow>\n              <mn>−48</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 414,
+      "anchor": "fs-id1169145844083",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, write each expression in terms of i and simplify if possible.",
+        "Add or Subtract Complex Numbers In the following exercises, add or subtract."
+      ],
+      "text": "\\(\\sqrt{ -12 } + \\sqrt{ -75 }\\)",
+      "math": [
+        "\\sqrt{ -12 } + \\sqrt{ -75 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>−12</mn>\n            </mrow>\n          </msqrt>\n          <mo>+</mo>\n          <msqrt>\n            <mrow>\n              <mn>−75</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>−12</mn>\n            </mrow>\n          </msqrt>\n          <mo>+</mo>\n          <msqrt>\n            <mrow>\n              <mn>−75</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 415,
+      "anchor": "fs-id1169147751002",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, write each expression in terms of i and simplify if possible.",
+        "Add or Subtract Complex Numbers In the following exercises, add or subtract."
+      ],
+      "text": "\\(\\sqrt{ -50 } + \\sqrt{ -18 }\\)",
+      "math": [
+        "\\sqrt{ -50 } + \\sqrt{ -18 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>−50</mn>\n            </mrow>\n          </msqrt>\n          <mo>+</mo>\n          <msqrt>\n            <mrow>\n              <mn>−18</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>−50</mn>\n            </mrow>\n          </msqrt>\n          <mo>+</mo>\n          <msqrt>\n            <mrow>\n              <mn>−18</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 416,
+      "anchor": "fs-id1169143580475",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, write each expression in terms of i and simplify if possible.",
+        "Add or Subtract Complex Numbers In the following exercises, add or subtract."
+      ],
+      "text": "\\(\\sqrt{ -72 } + \\sqrt{ -8 }\\)",
+      "math": [
+        "\\sqrt{ -72 } + \\sqrt{ -8 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>−72</mn>\n            </mrow>\n          </msqrt>\n          <mo>+</mo>\n          <msqrt>\n            <mrow>\n              <mn>−8</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>−72</mn>\n            </mrow>\n          </msqrt>\n          <mo>+</mo>\n          <msqrt>\n            <mrow>\n              <mn>−8</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 417,
+      "anchor": "fs-id1169145505198",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, write each expression in terms of i and simplify if possible.",
+        "Add or Subtract Complex Numbers In the following exercises, add or subtract."
+      ],
+      "text": "\\(( 1 + 3 i ) + ( 7 + 4 i )\\)",
+      "math": [
+        "( 1 + 3 i ) + ( 7 + 4 i )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>1</mn>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>7</mn>\n              <mo>+</mo>\n              <mn>4</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>1</mn>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>7</mn>\n              <mo>+</mo>\n              <mn>4</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 418,
+      "anchor": "fs-id1169147978369",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, write each expression in terms of i and simplify if possible.",
+        "Add or Subtract Complex Numbers In the following exercises, add or subtract."
+      ],
+      "text": "\\(( 6 + 2 i ) + ( 3 - 4 i )\\)",
+      "math": [
+        "( 6 + 2 i ) + ( 3 - 4 i )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>6</mn>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>6</mn>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 419,
+      "anchor": "fs-id1169148211974",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, write each expression in terms of i and simplify if possible.",
+        "Add or Subtract Complex Numbers In the following exercises, add or subtract."
+      ],
+      "text": "\\(( 8 - i ) + ( 6 + 3 i )\\)",
+      "math": [
+        "( 8 - i ) + ( 6 + 3 i )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>8</mn>\n              <mo>−</mo>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>6</mn>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>8</mn>\n              <mo>−</mo>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>6</mn>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 420,
+      "anchor": "fs-id1169148071796",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, write each expression in terms of i and simplify if possible.",
+        "Add or Subtract Complex Numbers In the following exercises, add or subtract."
+      ],
+      "text": "\\(( 7 - 4 i ) + ( -2 - 6 i )\\)",
+      "math": [
+        "( 7 - 4 i ) + ( -2 - 6 i )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>7</mn>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−2</mn>\n              <mo>−</mo>\n              <mn>6</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>7</mn>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−2</mn>\n              <mo>−</mo>\n              <mn>6</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 421,
+      "anchor": "fs-id1169143728397",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, write each expression in terms of i and simplify if possible.",
+        "Add or Subtract Complex Numbers In the following exercises, add or subtract."
+      ],
+      "text": "\\(( 1 - 4 i ) - ( 3 - 6 i )\\)",
+      "math": [
+        "( 1 - 4 i ) - ( 3 - 6 i )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>1</mn>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mo>−</mo>\n              <mn>6</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>1</mn>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mo>−</mo>\n              <mn>6</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 422,
+      "anchor": "fs-id1169145661457",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, write each expression in terms of i and simplify if possible.",
+        "Add or Subtract Complex Numbers In the following exercises, add or subtract."
+      ],
+      "text": "\\(( 8 - 4 i ) - ( 3 + 7 i )\\)",
+      "math": [
+        "( 8 - 4 i ) - ( 3 + 7 i )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>8</mn>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mo>+</mo>\n              <mn>7</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>8</mn>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mo>+</mo>\n              <mn>7</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 423,
+      "anchor": "fs-id1169145663778",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, write each expression in terms of i and simplify if possible.",
+        "Add or Subtract Complex Numbers In the following exercises, add or subtract."
+      ],
+      "text": "\\(( 6 + i ) - ( -2 - 4 i )\\)",
+      "math": [
+        "( 6 + i ) - ( -2 - 4 i )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>6</mn>\n              <mo>+</mo>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−2</mn>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>6</mn>\n              <mo>+</mo>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−2</mn>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 424,
+      "anchor": "fs-id1169148233529",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, write each expression in terms of i and simplify if possible.",
+        "Add or Subtract Complex Numbers In the following exercises, add or subtract."
+      ],
+      "text": "\\(( -2 + 5 i ) - ( -5 + 6 i )\\)",
+      "math": [
+        "( -2 + 5 i ) - ( -5 + 6 i )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−2</mn>\n              <mo>+</mo>\n              <mn>5</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−5</mn>\n              <mo>+</mo>\n              <mn>6</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−2</mn>\n              <mo>+</mo>\n              <mn>5</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−5</mn>\n              <mo>+</mo>\n              <mn>6</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 425,
+      "anchor": "fs-id1169143643797",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, write each expression in terms of i and simplify if possible.",
+        "Add or Subtract Complex Numbers In the following exercises, add or subtract."
+      ],
+      "text": "\\(( 5 - \\sqrt{ -36 } ) + ( 2 - \\sqrt{ -49 } )\\)",
+      "math": [
+        "( 5 - \\sqrt{ -36 } ) + ( 2 - \\sqrt{ -49 } )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mrow>\n                  <mn>−36</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mrow>\n                  <mn>−49</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mrow>\n                  <mn>−36</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mrow>\n                  <mn>−49</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 426,
+      "anchor": "fs-id1169147878950",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, write each expression in terms of i and simplify if possible.",
+        "Add or Subtract Complex Numbers In the following exercises, add or subtract."
+      ],
+      "text": "\\(( -3 + \\sqrt{ -64 } ) + ( 5 - \\sqrt{ -16 } )\\)",
+      "math": [
+        "( -3 + \\sqrt{ -64 } ) + ( 5 - \\sqrt{ -16 } )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−3</mn>\n              <mo>+</mo>\n              <msqrt>\n                <mrow>\n                  <mn>−64</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mrow>\n                  <mn>−16</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−3</mn>\n              <mo>+</mo>\n              <msqrt>\n                <mrow>\n                  <mn>−64</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mrow>\n                  <mn>−16</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 427,
+      "anchor": "fs-id1169147982815",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, write each expression in terms of i and simplify if possible.",
+        "Add or Subtract Complex Numbers In the following exercises, add or subtract."
+      ],
+      "text": "\\(( -7 - \\sqrt{ -50 } ) - ( -32 - \\sqrt{ -18 } )\\)",
+      "math": [
+        "( -7 - \\sqrt{ -50 } ) - ( -32 - \\sqrt{ -18 } )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−7</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mrow>\n                  <mn>−50</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−32</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mrow>\n                  <mn>−18</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−7</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mrow>\n                  <mn>−50</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−32</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mrow>\n                  <mn>−18</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 428,
+      "anchor": "fs-id1169141298513",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, write each expression in terms of i and simplify if possible.",
+        "Add or Subtract Complex Numbers In the following exercises, add or subtract."
+      ],
+      "text": "\\(( -5 + \\sqrt{ -27 } ) - ( -4 - \\sqrt{ -48 } )\\)",
+      "math": [
+        "( -5 + \\sqrt{ -27 } ) - ( -4 - \\sqrt{ -48 } )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−5</mn>\n              <mo>+</mo>\n              <msqrt>\n                <mrow>\n                  <mn>−27</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−4</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mrow>\n                  <mn>−48</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−5</mn>\n              <mo>+</mo>\n              <msqrt>\n                <mrow>\n                  <mn>−27</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−4</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mrow>\n                  <mn>−48</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 429,
+      "anchor": "fs-id1169147775330",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Multiply Complex Numbers",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(4 i ( 5 - 3 i )\\)",
+      "math": [
+        "4 i ( 5 - 3 i )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <mi>i</mi>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mo>−</mo>\n              <mn>3</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <mi>i</mi>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mo>−</mo>\n              <mn>3</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 430,
+      "anchor": "fs-id1169147982473",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Multiply Complex Numbers",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(2 i ( -3 + 4 i )\\)",
+      "math": [
+        "2 i ( -3 + 4 i )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <mi>i</mi>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−3</mn>\n              <mo>+</mo>\n              <mn>4</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <mi>i</mi>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−3</mn>\n              <mo>+</mo>\n              <mn>4</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 431,
+      "anchor": "fs-id1169147746296",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Multiply Complex Numbers",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(-6 i ( -3 - 2 i )\\)",
+      "math": [
+        "-6 i ( -3 - 2 i )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−6</mn>\n          <mi>i</mi>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−3</mn>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−6</mn>\n          <mi>i</mi>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−3</mn>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 432,
+      "anchor": "fs-id1169147841097",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Multiply Complex Numbers",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(- i ( 6 + 5 i )\\)",
+      "math": [
+        "- i ( 6 + 5 i )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>−</mtext>\n          <mi>i</mi>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>6</mn>\n              <mo>+</mo>\n              <mn>5</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>−</mtext>\n          <mi>i</mi>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>6</mn>\n              <mo>+</mo>\n              <mn>5</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 433,
+      "anchor": "fs-id1169145639745",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Multiply Complex Numbers",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(( 4 + 3 i ) ( -5 + 6 i )\\)",
+      "math": [
+        "( 4 + 3 i ) ( -5 + 6 i )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−5</mn>\n              <mo>+</mo>\n              <mn>6</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−5</mn>\n              <mo>+</mo>\n              <mn>6</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 434,
+      "anchor": "fs-id1169147739873",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Multiply Complex Numbers",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(( -2 - 5 i ) ( -4 + 3 i )\\)",
+      "math": [
+        "( -2 - 5 i ) ( -4 + 3 i )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−2</mn>\n              <mo>−</mo>\n              <mn>5</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−4</mn>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−2</mn>\n              <mo>−</mo>\n              <mn>5</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−4</mn>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 435,
+      "anchor": "fs-id1169147783892",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Multiply Complex Numbers",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(( -3 + 3 i ) ( -2 - 7 i )\\)",
+      "math": [
+        "( -3 + 3 i ) ( -2 - 7 i )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−3</mn>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−2</mn>\n              <mo>−</mo>\n              <mn>7</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−3</mn>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−2</mn>\n              <mo>−</mo>\n              <mn>7</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 436,
+      "anchor": "fs-id1169147878970",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Multiply Complex Numbers",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(( -6 - 2 i ) ( -3 - 5 i )\\)",
+      "math": [
+        "( -6 - 2 i ) ( -3 - 5 i )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−6</mn>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−3</mn>\n              <mo>−</mo>\n              <mn>5</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−6</mn>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−3</mn>\n              <mo>−</mo>\n              <mn>5</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 437,
+      "anchor": "fs-id1169148077956",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, multiply.",
+        "In the following exercises, multiply using the Product of Binomial Squares Pattern."
+      ],
+      "text": "\\({ ( 3 + 4 i ) }^{2}\\)",
+      "math": [
+        "{ ( 3 + 4 i ) }^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>3</mn>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                  <mi>i</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>3</mn>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                  <mi>i</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 438,
+      "anchor": "fs-id1169147852519",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, multiply.",
+        "In the following exercises, multiply using the Product of Binomial Squares Pattern."
+      ],
+      "text": "\\({ ( -1 + 5 i ) }^{2}\\)",
+      "math": [
+        "{ ( -1 + 5 i ) }^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−1</mn>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                  <mi>i</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−1</mn>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                  <mi>i</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 439,
+      "anchor": "fs-id1169147803530",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, multiply.",
+        "In the following exercises, multiply using the Product of Binomial Squares Pattern."
+      ],
+      "text": "\\({ ( -2 - 3 i ) }^{2}\\)",
+      "math": [
+        "{ ( -2 - 3 i ) }^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−2</mn>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>i</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−2</mn>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>i</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 440,
+      "anchor": "fs-id1169143573850",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, multiply.",
+        "In the following exercises, multiply using the Product of Binomial Squares Pattern."
+      ],
+      "text": "\\({ ( -6 - 5 i ) }^{2}\\)",
+      "math": [
+        "{ ( -6 - 5 i ) }^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−6</mn>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                  <mi>i</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−6</mn>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                  <mi>i</mi>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 441,
+      "anchor": "fs-id1169148123177",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, multiply using the Product of Binomial Squares Pattern.",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(\\sqrt{ -25 } \\cdot \\sqrt{ -36 }\\)",
+      "math": [
+        "\\sqrt{ -25 } \\cdot \\sqrt{ -36 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>−25</mn>\n            </mrow>\n          </msqrt>\n          <mo>·</mo>\n          <msqrt>\n            <mrow>\n              <mn>−36</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>−25</mn>\n            </mrow>\n          </msqrt>\n          <mo>·</mo>\n          <msqrt>\n            <mrow>\n              <mn>−36</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 442,
+      "anchor": "fs-id1169147741809",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, multiply using the Product of Binomial Squares Pattern.",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(\\sqrt{ -4 } \\cdot \\sqrt{ -16 }\\)",
+      "math": [
+        "\\sqrt{ -4 } \\cdot \\sqrt{ -16 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>−4</mn>\n            </mrow>\n          </msqrt>\n          <mo>·</mo>\n          <msqrt>\n            <mrow>\n              <mn>−16</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>−4</mn>\n            </mrow>\n          </msqrt>\n          <mo>·</mo>\n          <msqrt>\n            <mrow>\n              <mn>−16</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 443,
+      "anchor": "fs-id1169147840679",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, multiply using the Product of Binomial Squares Pattern.",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(\\sqrt{ -9 } \\cdot \\sqrt{ -100 }\\)",
+      "math": [
+        "\\sqrt{ -9 } \\cdot \\sqrt{ -100 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>−9</mn>\n            </mrow>\n          </msqrt>\n          <mo>·</mo>\n          <msqrt>\n            <mrow>\n              <mn>−100</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>−9</mn>\n            </mrow>\n          </msqrt>\n          <mo>·</mo>\n          <msqrt>\n            <mrow>\n              <mn>−100</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 444,
+      "anchor": "fs-id1169147875254",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, multiply using the Product of Binomial Squares Pattern.",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(\\sqrt{ -64 } \\cdot \\sqrt{ -9 }\\)",
+      "math": [
+        "\\sqrt{ -64 } \\cdot \\sqrt{ -9 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>−64</mn>\n            </mrow>\n          </msqrt>\n          <mo>·</mo>\n          <msqrt>\n            <mrow>\n              <mn>−9</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>−64</mn>\n            </mrow>\n          </msqrt>\n          <mo>·</mo>\n          <msqrt>\n            <mrow>\n              <mn>−9</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 445,
+      "anchor": "fs-id1169143728425",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, multiply using the Product of Binomial Squares Pattern.",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(( -2 - \\sqrt{ -27 } ) ( 4 - \\sqrt{ -48 } )\\)",
+      "math": [
+        "( -2 - \\sqrt{ -27 } ) ( 4 - \\sqrt{ -48 } )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−2</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mrow>\n                  <mn>−27</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mrow>\n                  <mn>−48</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−2</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mrow>\n                  <mn>−27</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mrow>\n                  <mn>−48</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 446,
+      "anchor": "fs-id1169147764582",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, multiply using the Product of Binomial Squares Pattern.",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(( 5 - \\sqrt{ -12 } ) ( -3 + \\sqrt{ -75 } )\\)",
+      "math": [
+        "( 5 - \\sqrt{ -12 } ) ( -3 + \\sqrt{ -75 } )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mrow>\n                  <mn>−12</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−3</mn>\n              <mo>+</mo>\n              <msqrt>\n                <mrow>\n                  <mn>−75</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mrow>\n                  <mn>−12</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−3</mn>\n              <mo>+</mo>\n              <msqrt>\n                <mrow>\n                  <mn>−75</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 447,
+      "anchor": "fs-id1169145662602",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, multiply using the Product of Binomial Squares Pattern.",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(( 2 + \\sqrt{ -8 } ) ( -4 + \\sqrt{ -18 } )\\)",
+      "math": [
+        "( 2 + \\sqrt{ -8 } ) ( -4 + \\sqrt{ -18 } )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mo>+</mo>\n              <msqrt>\n                <mrow>\n                  <mn>−8</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−4</mn>\n              <mo>+</mo>\n              <msqrt>\n                <mrow>\n                  <mn>−18</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mo>+</mo>\n              <msqrt>\n                <mrow>\n                  <mn>−8</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−4</mn>\n              <mo>+</mo>\n              <msqrt>\n                <mrow>\n                  <mn>−18</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 448,
+      "anchor": "fs-id1169145601711",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, multiply using the Product of Binomial Squares Pattern.",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(( 5 + \\sqrt{ -18 } ) ( -2 - \\sqrt{ -50 } )\\)",
+      "math": [
+        "( 5 + \\sqrt{ -18 } ) ( -2 - \\sqrt{ -50 } )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mo>+</mo>\n              <msqrt>\n                <mrow>\n                  <mn>−18</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−2</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mrow>\n                  <mn>−50</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mo>+</mo>\n              <msqrt>\n                <mrow>\n                  <mn>−18</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−2</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mrow>\n                  <mn>−50</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 449,
+      "anchor": "fs-id1169147768224",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, multiply using the Product of Binomial Squares Pattern.",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(( 2 - i ) ( 2 + i )\\)",
+      "math": [
+        "( 2 - i ) ( 2 + i )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mo>−</mo>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mo>+</mo>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mo>−</mo>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mo>+</mo>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 450,
+      "anchor": "fs-id1169145606354",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, multiply using the Product of Binomial Squares Pattern.",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(( 4 - 5 i ) ( 4 + 5 i )\\)",
+      "math": [
+        "( 4 - 5 i ) ( 4 + 5 i )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mo>−</mo>\n              <mn>5</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mo>+</mo>\n              <mn>5</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mo>−</mo>\n              <mn>5</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mo>+</mo>\n              <mn>5</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 451,
+      "anchor": "fs-id1169148229958",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, multiply using the Product of Binomial Squares Pattern.",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(( 7 - 2 i ) ( 7 + 2 i )\\)",
+      "math": [
+        "( 7 - 2 i ) ( 7 + 2 i )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>7</mn>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>7</mn>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>7</mn>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>7</mn>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 452,
+      "anchor": "fs-id1169148225589",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, multiply using the Product of Binomial Squares Pattern.",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(( -3 - 8 i ) ( -3 + 8 i )\\)",
+      "math": [
+        "( -3 - 8 i ) ( -3 + 8 i )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−3</mn>\n              <mo>−</mo>\n              <mn>8</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−3</mn>\n              <mo>+</mo>\n              <mn>8</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−3</mn>\n              <mo>−</mo>\n              <mn>8</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−3</mn>\n              <mo>+</mo>\n              <mn>8</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 453,
+      "anchor": "fs-id1169145785940",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, multiply.",
+        "In the following exercises, multiply using the Product of Complex Conjugates Pattern."
+      ],
+      "text": "\\(( 7 - i ) ( 7 + i )\\)",
+      "math": [
+        "( 7 - i ) ( 7 + i )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>7</mn>\n              <mo>−</mo>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>7</mn>\n              <mo>+</mo>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>7</mn>\n              <mo>−</mo>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>7</mn>\n              <mo>+</mo>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 454,
+      "anchor": "fs-id1169147771371",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, multiply.",
+        "In the following exercises, multiply using the Product of Complex Conjugates Pattern."
+      ],
+      "text": "\\(( 6 - 5 i ) ( 6 + 5 i )\\)",
+      "math": [
+        "( 6 - 5 i ) ( 6 + 5 i )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>6</mn>\n              <mo>−</mo>\n              <mn>5</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>6</mn>\n              <mo>+</mo>\n              <mn>5</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>6</mn>\n              <mo>−</mo>\n              <mn>5</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>6</mn>\n              <mo>+</mo>\n              <mn>5</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 455,
+      "anchor": "fs-id1169145670789",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, multiply.",
+        "In the following exercises, multiply using the Product of Complex Conjugates Pattern."
+      ],
+      "text": "\\(( 9 - 2 i ) ( 9 + 2 i )\\)",
+      "math": [
+        "( 9 - 2 i ) ( 9 + 2 i )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>9</mn>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>9</mn>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>9</mn>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>9</mn>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 456,
+      "anchor": "fs-id1169148227215",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "In the following exercises, multiply.",
+        "In the following exercises, multiply using the Product of Complex Conjugates Pattern."
+      ],
+      "text": "\\(( -3 - 4 i ) ( -3 + 4 i )\\)",
+      "math": [
+        "( -3 - 4 i ) ( -3 + 4 i )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−3</mn>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−3</mn>\n              <mo>+</mo>\n              <mn>4</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−3</mn>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−3</mn>\n              <mo>+</mo>\n              <mn>4</mn>\n              <mi>i</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 457,
+      "anchor": "fs-id1169148125820",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Divide Complex Numbers",
+        "In the following exercises, divide."
+      ],
+      "text": "\\(\\frac{ 3 + 4 i }{ 4 - 3 i }\\)",
+      "math": [
+        "\\frac{ 3 + 4 i }{ 4 - 3 i }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mo>+</mo>\n              <mn>4</mn>\n              <mi>i</mi>\n            </mrow>\n            <mrow>\n              <mn>4</mn>\n              <mo>−</mo>\n              <mn>3</mn>\n              <mi>i</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mo>+</mo>\n              <mn>4</mn>\n              <mi>i</mi>\n            </mrow>\n            <mrow>\n              <mn>4</mn>\n              <mo>−</mo>\n              <mn>3</mn>\n              <mi>i</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 458,
+      "anchor": "fs-id1169143579887",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Divide Complex Numbers",
+        "In the following exercises, divide."
+      ],
+      "text": "\\(\\frac{ 5 - 2 i }{ 2 + 5 i }\\)",
+      "math": [
+        "\\frac{ 5 - 2 i }{ 2 + 5 i }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>i</mi>\n            </mrow>\n            <mrow>\n              <mn>2</mn>\n              <mo>+</mo>\n              <mn>5</mn>\n              <mi>i</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>i</mi>\n            </mrow>\n            <mrow>\n              <mn>2</mn>\n              <mo>+</mo>\n              <mn>5</mn>\n              <mi>i</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 459,
+      "anchor": "fs-id1169145598404",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Divide Complex Numbers",
+        "In the following exercises, divide."
+      ],
+      "text": "\\(\\frac{ 2 + i }{ 3 - 4 i }\\)",
+      "math": [
+        "\\frac{ 2 + i }{ 3 - 4 i }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mo>+</mo>\n              <mi>i</mi>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mi>i</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mo>+</mo>\n              <mi>i</mi>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mi>i</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 460,
+      "anchor": "fs-id1169148248849",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Divide Complex Numbers",
+        "In the following exercises, divide."
+      ],
+      "text": "\\(\\frac{ 3 - 2 i }{ 6 + i }\\)",
+      "math": [
+        "\\frac{ 3 - 2 i }{ 6 + i }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>i</mi>\n            </mrow>\n            <mrow>\n              <mn>6</mn>\n              <mo>+</mo>\n              <mi>i</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>i</mi>\n            </mrow>\n            <mrow>\n              <mn>6</mn>\n              <mo>+</mo>\n              <mi>i</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 461,
+      "anchor": "fs-id1169145670320",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Divide Complex Numbers",
+        "In the following exercises, divide."
+      ],
+      "text": "\\(\\frac{3}{ 2 - 3 i }\\)",
+      "math": [
+        "\\frac{3}{ 2 - 3 i }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <mn>2</mn>\n              <mo>−</mo>\n              <mn>3</mn>\n              <mi>i</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <mn>2</mn>\n              <mo>−</mo>\n              <mn>3</mn>\n              <mi>i</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 462,
+      "anchor": "fs-id1169148079849",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Divide Complex Numbers",
+        "In the following exercises, divide."
+      ],
+      "text": "\\(\\frac{2}{ 4 - 5 i }\\)",
+      "math": [
+        "\\frac{2}{ 4 - 5 i }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>2</mn>\n            <mrow>\n              <mn>4</mn>\n              <mo>−</mo>\n              <mn>5</mn>\n              <mi>i</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>2</mn>\n            <mrow>\n              <mn>4</mn>\n              <mo>−</mo>\n              <mn>5</mn>\n              <mi>i</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 463,
+      "anchor": "fs-id1169145716408",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Divide Complex Numbers",
+        "In the following exercises, divide."
+      ],
+      "text": "\\(\\frac{ -4 }{ 3 - 2 i }\\)",
+      "math": [
+        "\\frac{ -4 }{ 3 - 2 i }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>−4</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>i</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>−4</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>i</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 464,
+      "anchor": "fs-id1169145608611",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Divide Complex Numbers",
+        "In the following exercises, divide."
+      ],
+      "text": "\\(\\frac{ -1 }{ 3 + 2 i }\\)",
+      "math": [
+        "\\frac{ -1 }{ 3 + 2 i }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>−1</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>i</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>−1</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>i</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 465,
+      "anchor": "fs-id1169143520334",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Divide Complex Numbers",
+        "In the following exercises, divide."
+      ],
+      "text": "\\(\\frac{ 1 + 4 i }{ 3 i }\\)",
+      "math": [
+        "\\frac{ 1 + 4 i }{ 3 i }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>1</mn>\n              <mo>+</mo>\n              <mn>4</mn>\n              <mi>i</mi>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <mi>i</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>1</mn>\n              <mo>+</mo>\n              <mn>4</mn>\n              <mi>i</mi>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <mi>i</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 466,
+      "anchor": "fs-id1169143614237",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Divide Complex Numbers",
+        "In the following exercises, divide."
+      ],
+      "text": "\\(\\frac{ 4 + 3 i }{ 7 i }\\)",
+      "math": [
+        "\\frac{ 4 + 3 i }{ 7 i }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>i</mi>\n            </mrow>\n            <mrow>\n              <mn>7</mn>\n              <mi>i</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>i</mi>\n            </mrow>\n            <mrow>\n              <mn>7</mn>\n              <mi>i</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 467,
+      "anchor": "fs-id1169148248922",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Divide Complex Numbers",
+        "In the following exercises, divide."
+      ],
+      "text": "\\(\\frac{ -2 - 3 i }{ 4 i }\\)",
+      "math": [
+        "\\frac{ -2 - 3 i }{ 4 i }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>−2</mn>\n              <mo>−</mo>\n              <mn>3</mn>\n              <mi>i</mi>\n            </mrow>\n            <mrow>\n              <mn>4</mn>\n              <mi>i</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>−2</mn>\n              <mo>−</mo>\n              <mn>3</mn>\n              <mi>i</mi>\n            </mrow>\n            <mrow>\n              <mn>4</mn>\n              <mi>i</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 468,
+      "anchor": "fs-id1169143385633",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Divide Complex Numbers",
+        "In the following exercises, divide."
+      ],
+      "text": "\\(\\frac{ -3 - 5 i }{ 2 i }\\)",
+      "math": [
+        "\\frac{ -3 - 5 i }{ 2 i }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>−3</mn>\n              <mo>−</mo>\n              <mn>5</mn>\n              <mi>i</mi>\n            </mrow>\n            <mrow>\n              <mn>2</mn>\n              <mi>i</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>−3</mn>\n              <mo>−</mo>\n              <mn>5</mn>\n              <mi>i</mi>\n            </mrow>\n            <mrow>\n              <mn>2</mn>\n              <mi>i</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 469,
+      "anchor": "fs-id1169145575833",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Simplify Powers of i",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\({i}^{ 41 }\\)",
+      "math": [
+        "{i}^{ 41 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>i</mi>\n            <mrow>\n              <mn>41</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>i</mi>\n            <mrow>\n              <mn>41</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 470,
+      "anchor": "fs-id1169141036435",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Simplify Powers of i",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\({i}^{ 39 }\\)",
+      "math": [
+        "{i}^{ 39 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>i</mi>\n            <mrow>\n              <mn>39</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>i</mi>\n            <mrow>\n              <mn>39</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 471,
+      "anchor": "fs-id1169145666672",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Simplify Powers of i",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\({i}^{ 66 }\\)",
+      "math": [
+        "{i}^{ 66 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>i</mi>\n            <mrow>\n              <mn>66</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>i</mi>\n            <mrow>\n              <mn>66</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 472,
+      "anchor": "fs-id1169145716645",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Simplify Powers of i",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\({i}^{ 48 }\\)",
+      "math": [
+        "{i}^{ 48 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>i</mi>\n            <mrow>\n              <mn>48</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>i</mi>\n            <mrow>\n              <mn>48</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 473,
+      "anchor": "fs-id1169147849782",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Simplify Powers of i",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\({i}^{ 128 }\\)",
+      "math": [
+        "{i}^{ 128 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>i</mi>\n            <mrow>\n              <mn>128</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>i</mi>\n            <mrow>\n              <mn>128</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 474,
+      "anchor": "fs-id1169148077997",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Simplify Powers of i",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\({i}^{ 162 }\\)",
+      "math": [
+        "{i}^{ 162 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>i</mi>\n            <mrow>\n              <mn>162</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>i</mi>\n            <mrow>\n              <mn>162</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 475,
+      "anchor": "fs-id1169145494672",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Simplify Powers of i",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\({i}^{ 137 }\\)",
+      "math": [
+        "{i}^{ 137 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>i</mi>\n            <mrow>\n              <mn>137</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>i</mi>\n            <mrow>\n              <mn>137</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 476,
+      "anchor": "fs-id1169143280983",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Simplify Powers of i",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\({i}^{ 255 }\\)",
+      "math": [
+        "{i}^{ 255 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>i</mi>\n            <mrow>\n              <mn>255</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>i</mi>\n            <mrow>\n              <mn>255</mn>\n            </mrow>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 477,
+      "anchor": "fs-id1169141472919",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain the relationship between real numbers and complex numbers.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 478,
+      "anchor": "fs-id1169143637748",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Aniket multiplied as follows and he got the wrong answer. What is wrong with his reasoning? \\(\\sqrt{ -7 } \\cdot \\sqrt{ -7 } \\sqrt{ 49 } 7\\)",
+      "math": [
+        "\\begin{matrix} \\sqrt{ -7 } \\cdot \\sqrt{ -7 } \\\\ \\sqrt{ 49 } \\\\ 7 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mtable>\n          <mtr>\n            <mtd columnalign=\"center\">\n              <msqrt>\n                <mrow>\n                  <mn>−7</mn>\n                </mrow>\n              </msqrt>\n              <mo>·</mo>\n              <msqrt>\n                <mrow>\n                  <mn>−7</mn>\n                </mrow>\n              </msqrt>\n            </mtd>\n          </mtr>\n          <mtr>\n            <mtd columnalign=\"center\">\n              <msqrt>\n                <mrow>\n                  <mn>49</mn>\n                </mrow>\n              </msqrt>\n            </mtd>\n          </mtr>\n          <mtr>\n            <mtd columnalign=\"center\">\n              <mn>7</mn>\n            </mtd>\n          </mtr>\n        </mtable>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mtable>\n          <mtr>\n            <mtd columnalign=\"center\">\n              <msqrt>\n                <mrow>\n                  <mn>−7</mn>\n                </mrow>\n              </msqrt>\n              <mo>·</mo>\n              <msqrt>\n                <mrow>\n                  <mn>−7</mn>\n                </mrow>\n              </msqrt>\n            </mtd>\n          </mtr>\n          <mtr>\n            <mtd columnalign=\"center\">\n              <msqrt>\n                <mrow>\n                  <mn>49</mn>\n                </mrow>\n              </msqrt>\n            </mtd>\n          </mtr>\n          <mtr>\n            <mtd columnalign=\"center\">\n              <mn>7</mn>\n            </mtd>\n          </mtr>\n        </mtable>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 479,
+      "anchor": "fs-id1169147878746",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Why is \\(\\sqrt{-64}=8i\\) but \\(-643=-4.\\)",
+      "math": [
+        "\\sqrt{-64}=8i",
+        "\\sqrt[3]{-64}=-4."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>−64</mn></mrow></msqrt><mo>=</mo><mn>8</mn><mi>i</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>−64</mn></mrow></msqrt><mo>=</mo><mn>8</mn><mi>i</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><mn>−64</mn></mrow><mn>3</mn></mroot><mo>=</mo><mn>−4</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><mn>−64</mn></mrow><mn>3</mn></mroot><mo>=</mo><mn>−4</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 480,
+      "anchor": "fs-id1169141298444",
+      "page": "8-8-use-the-complex-number-system",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain how dividing complex numbers is similar to rationalizing a denominator.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "8.151",
+      "page": "8-8-use-the-complex-number-system",
+      "is_try_it": true,
+      "anchor": "fs-id1169145526150",
+      "context": [
+        "Evaluate the Square Root of a Negative Number"
+      ],
+      "text": "Write each expression in terms of i and simplify if possible: ⓐ \\(\\sqrt{-81}\\) ⓑ \\(\\sqrt{-5}\\) ⓒ \\(\\sqrt{-18}.\\)",
+      "math": [
+        "\\sqrt{-81}",
+        "\\sqrt{-5}",
+        "\\sqrt{-18}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>−81</mn></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>−81</mn></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>−5</mn></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>−5</mn></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>−18</mn></mrow></msqrt><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>−18</mn></mrow></msqrt><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.152",
+      "page": "8-8-use-the-complex-number-system",
+      "is_try_it": true,
+      "anchor": "fs-id1169147826095",
+      "context": [
+        "Evaluate the Square Root of a Negative Number"
+      ],
+      "text": "Write each expression in terms of i and simplify if possible: ⓐ \\(\\sqrt{-36}\\) ⓑ \\(\\sqrt{-3}\\) ⓒ \\(\\sqrt{-27}.\\)",
+      "math": [
+        "\\sqrt{-36}",
+        "\\sqrt{-3}",
+        "\\sqrt{-27}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>−36</mn></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>−36</mn></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>−3</mn></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>−3</mn></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>−27</mn></mrow></msqrt><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>−27</mn></mrow></msqrt><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.153",
+      "page": "8-8-use-the-complex-number-system",
+      "is_try_it": true,
+      "anchor": "fs-id1169145495053",
+      "context": [
+        "Add or Subtract Complex Numbers"
+      ],
+      "text": "Add: \\(\\sqrt{-8}+\\sqrt{-32}.\\)",
+      "math": [
+        "\\sqrt{-8}+\\sqrt{-32}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>−8</mn></mrow></msqrt><mo>+</mo><msqrt><mrow><mn>−32</mn></mrow></msqrt><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>−8</mn></mrow></msqrt><mo>+</mo><msqrt><mrow><mn>−32</mn></mrow></msqrt><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.154",
+      "page": "8-8-use-the-complex-number-system",
+      "is_try_it": true,
+      "anchor": "fs-id1169145696301",
+      "context": [
+        "Add or Subtract Complex Numbers"
+      ],
+      "text": "Add: \\(\\sqrt{-27}+\\sqrt{-48}.\\)",
+      "math": [
+        "\\sqrt{-27}+\\sqrt{-48}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>−27</mn></mrow></msqrt><mo>+</mo><msqrt><mrow><mn>−48</mn></mrow></msqrt><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>−27</mn></mrow></msqrt><mo>+</mo><msqrt><mrow><mn>−48</mn></mrow></msqrt><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.155",
+      "page": "8-8-use-the-complex-number-system",
+      "is_try_it": true,
+      "anchor": "fs-id1169145779297",
+      "context": [
+        "Add or Subtract Complex Numbers"
+      ],
+      "text": "Simplify: ⓐ \\((2+7i)+(4-2i)\\) ⓑ \\((8-4i)-(2-i).\\)",
+      "math": [
+        "(2+7i)+(4-2i)",
+        "(8-4i)-(2-i)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>+</mo><mn>7</mn><mi>i</mi></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>4</mn><mo>−</mo><mn>2</mn><mi>i</mi></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>+</mo><mn>7</mn><mi>i</mi></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>4</mn><mo>−</mo><mn>2</mn><mi>i</mi></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>8</mn><mo>−</mo><mn>4</mn><mi>i</mi></mrow><mo>)</mo></mrow><mo>−</mo><mrow><mo>(</mo><mrow><mn>2</mn><mo>−</mo><mi>i</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>8</mn><mo>−</mo><mn>4</mn><mi>i</mi></mrow><mo>)</mo></mrow><mo>−</mo><mrow><mo>(</mo><mrow><mn>2</mn><mo>−</mo><mi>i</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.156",
+      "page": "8-8-use-the-complex-number-system",
+      "is_try_it": true,
+      "anchor": "fs-id1169147710394",
+      "context": [
+        "Add or Subtract Complex Numbers"
+      ],
+      "text": "Simplify: ⓐ \\((3-2i)+(-5-4i)\\) ⓑ \\((4+3i)-(2-6i).\\)",
+      "math": [
+        "(3-2i)+(-5-4i)",
+        "(4+3i)-(2-6i)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>−</mo><mn>2</mn><mi>i</mi></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>−5</mn><mo>−</mo><mn>4</mn><mi>i</mi></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>−</mo><mn>2</mn><mi>i</mi></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>−5</mn><mo>−</mo><mn>4</mn><mi>i</mi></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>+</mo><mn>3</mn><mi>i</mi></mrow><mo>)</mo></mrow><mo>−</mo><mrow><mo>(</mo><mrow><mn>2</mn><mo>−</mo><mn>6</mn><mi>i</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>+</mo><mn>3</mn><mi>i</mi></mrow><mo>)</mo></mrow><mo>−</mo><mrow><mo>(</mo><mrow><mn>2</mn><mo>−</mo><mn>6</mn><mi>i</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.157",
+      "page": "8-8-use-the-complex-number-system",
+      "is_try_it": true,
+      "anchor": "fs-id1169147746940",
+      "context": [
+        "Multiply Complex Numbers"
+      ],
+      "text": "Multiply: \\(4i(5-3i).\\)",
+      "math": [
+        "4i(5-3i)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mi>i</mi><mrow><mo>(</mo><mrow><mn>5</mn><mo>−</mo><mn>3</mn><mi>i</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mi>i</mi><mrow><mo>(</mo><mrow><mn>5</mn><mo>−</mo><mn>3</mn><mi>i</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.158",
+      "page": "8-8-use-the-complex-number-system",
+      "is_try_it": true,
+      "anchor": "fs-id1169147751305",
+      "context": [
+        "Multiply Complex Numbers"
+      ],
+      "text": "Multiply: \\(-3i(2+4i).\\)",
+      "math": [
+        "-3i(2+4i)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−3</mn><mi>i</mi><mrow><mo>(</mo><mrow><mn>2</mn><mo>+</mo><mn>4</mn><mi>i</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−3</mn><mi>i</mi><mrow><mo>(</mo><mrow><mn>2</mn><mo>+</mo><mn>4</mn><mi>i</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.159",
+      "page": "8-8-use-the-complex-number-system",
+      "is_try_it": true,
+      "anchor": "fs-id1169148099754",
+      "context": [
+        "Multiply Complex Numbers"
+      ],
+      "text": "Multiply: \\((5-3i)(-1-2i).\\)",
+      "math": [
+        "(5-3i)(-1-2i)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>−</mo><mn>3</mn><mi>i</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>−</mo><mn>2</mn><mi>i</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>−</mo><mn>3</mn><mi>i</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>−1</mn><mo>−</mo><mn>2</mn><mi>i</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.160",
+      "page": "8-8-use-the-complex-number-system",
+      "is_try_it": true,
+      "anchor": "fs-id1169147742026",
+      "context": [
+        "Multiply Complex Numbers"
+      ],
+      "text": "Multiply: \\((-4-3i)(2+i).\\)",
+      "math": [
+        "(-4-3i)(2+i)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>−</mo><mn>3</mn><mi>i</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>+</mo><mi>i</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mo>−</mo><mn>3</mn><mi>i</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>+</mo><mi>i</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.161",
+      "page": "8-8-use-the-complex-number-system",
+      "is_try_it": true,
+      "anchor": "fs-id1169143492286",
+      "context": [
+        "Multiply Complex Numbers"
+      ],
+      "text": "Multiply using the Binomial Squares pattern: \\({(-2-5i)}^{2}.\\)",
+      "math": [
+        "{(-2-5i)}^{2}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mo stretchy=\"false\">(</mo><mn>−2</mn><mo>−</mo><mn>5</mn><mi>i</mi><mo stretchy=\"false\">)</mo></mrow><mn>2</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mo stretchy=\"false\">(</mo><mn>−2</mn><mo>−</mo><mn>5</mn><mi>i</mi><mo stretchy=\"false\">)</mo></mrow><mn>2</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.162",
+      "page": "8-8-use-the-complex-number-system",
+      "is_try_it": true,
+      "anchor": "fs-id1169145657632",
+      "context": [
+        "Multiply Complex Numbers"
+      ],
+      "text": "Multiply using the Binomial Squares pattern: \\({(-5+4i)}^{2}.\\)",
+      "math": [
+        "{(-5+4i)}^{2}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mo stretchy=\"false\">(</mo><mn>−5</mn><mo>+</mo><mn>4</mn><mi>i</mi><mo stretchy=\"false\">)</mo></mrow><mn>2</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mo stretchy=\"false\">(</mo><mn>−5</mn><mo>+</mo><mn>4</mn><mi>i</mi><mo stretchy=\"false\">)</mo></mrow><mn>2</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.163",
+      "page": "8-8-use-the-complex-number-system",
+      "is_try_it": true,
+      "anchor": "fs-id1169147870800",
+      "context": [
+        "Multiply Complex Numbers"
+      ],
+      "text": "Multiply: \\(\\sqrt{-49}\\cdot \\sqrt{-4}.\\)",
+      "math": [
+        "\\sqrt{-49}\\cdot \\sqrt{-4}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>−49</mn></mrow></msqrt><mo>·</mo><msqrt><mrow><mn>−4</mn></mrow></msqrt><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>−49</mn></mrow></msqrt><mo>·</mo><msqrt><mrow><mn>−4</mn></mrow></msqrt><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.164",
+      "page": "8-8-use-the-complex-number-system",
+      "is_try_it": true,
+      "anchor": "fs-id1169143661264",
+      "context": [
+        "Multiply Complex Numbers"
+      ],
+      "text": "Multiply: \\(\\sqrt{-36}\\cdot \\sqrt{-81}.\\)",
+      "math": [
+        "\\sqrt{-36}\\cdot \\sqrt{-81}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>−36</mn></mrow></msqrt><mo>·</mo><msqrt><mrow><mn>−81</mn></mrow></msqrt><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>−36</mn></mrow></msqrt><mo>·</mo><msqrt><mrow><mn>−81</mn></mrow></msqrt><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.165",
+      "page": "8-8-use-the-complex-number-system",
+      "is_try_it": true,
+      "anchor": "fs-id1169143280628",
+      "context": [
+        "Multiply Complex Numbers"
+      ],
+      "text": "Multiply: \\((4-\\sqrt{-12})(3-\\sqrt{-48}).\\)",
+      "math": [
+        "(4-\\sqrt{-12})(3-\\sqrt{-48})."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>−</mo><msqrt><mrow><mn>−12</mn></mrow></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>−</mo><msqrt><mrow><mn>−48</mn></mrow></msqrt></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>−</mo><msqrt><mrow><mn>−12</mn></mrow></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>−</mo><msqrt><mrow><mn>−48</mn></mrow></msqrt></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.166",
+      "page": "8-8-use-the-complex-number-system",
+      "is_try_it": true,
+      "anchor": "fs-id1169145658407",
+      "context": [
+        "Multiply Complex Numbers"
+      ],
+      "text": "Multiply: \\((-2+\\sqrt{-8})(3-\\sqrt{-18}).\\)",
+      "math": [
+        "(-2+\\sqrt{-8})(3-\\sqrt{-18})."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>+</mo><msqrt><mrow><mn>−8</mn></mrow></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>−</mo><msqrt><mrow><mn>−18</mn></mrow></msqrt></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>+</mo><msqrt><mrow><mn>−8</mn></mrow></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>−</mo><msqrt><mrow><mn>−18</mn></mrow></msqrt></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.167",
+      "page": "8-8-use-the-complex-number-system",
+      "is_try_it": true,
+      "anchor": "fs-id1169141322580",
+      "context": [
+        "Multiply Complex Numbers"
+      ],
+      "text": "Multiply: \\((4-3i)\\cdot (4+3i).\\)",
+      "math": [
+        "(4-3i)\\cdot (4+3i)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>−</mo><mn>3</mn><mi>i</mi></mrow><mo>)</mo></mrow><mo>·</mo><mrow><mo>(</mo><mrow><mn>4</mn><mo>+</mo><mn>3</mn><mi>i</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>−</mo><mn>3</mn><mi>i</mi></mrow><mo>)</mo></mrow><mo>·</mo><mrow><mo>(</mo><mrow><mn>4</mn><mo>+</mo><mn>3</mn><mi>i</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.168",
+      "page": "8-8-use-the-complex-number-system",
+      "is_try_it": true,
+      "anchor": "fs-id1169147868111",
+      "context": [
+        "Multiply Complex Numbers"
+      ],
+      "text": "Multiply: \\((-2+5i)\\cdot (-2-5i).\\)",
+      "math": [
+        "(-2+5i)\\cdot (-2-5i)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>+</mo><mn>5</mn><mi>i</mi></mrow><mo>)</mo></mrow><mo>·</mo><mrow><mo>(</mo><mrow><mn>−2</mn><mo>−</mo><mn>5</mn><mi>i</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>+</mo><mn>5</mn><mi>i</mi></mrow><mo>)</mo></mrow><mo>·</mo><mrow><mo>(</mo><mrow><mn>−2</mn><mo>−</mo><mn>5</mn><mi>i</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.169",
+      "page": "8-8-use-the-complex-number-system",
+      "is_try_it": true,
+      "anchor": "fs-id1169145526008",
+      "context": [
+        "Multiply Complex Numbers"
+      ],
+      "text": "Multiply using the Product of Complex Conjugates Pattern: \\((3-10i)(3+10i).\\)",
+      "math": [
+        "(3-10i)(3+10i)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mo stretchy=\"false\">(</mo><mn>3</mn><mo>−</mo><mn>10</mn><mi>i</mi><mo stretchy=\"false\">)</mo><mo stretchy=\"false\">(</mo><mn>3</mn><mo>+</mo><mn>10</mn><mi>i</mi><mo stretchy=\"false\">)</mo><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mo stretchy=\"false\">(</mo><mn>3</mn><mo>−</mo><mn>10</mn><mi>i</mi><mo stretchy=\"false\">)</mo><mo stretchy=\"false\">(</mo><mn>3</mn><mo>+</mo><mn>10</mn><mi>i</mi><mo stretchy=\"false\">)</mo><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.170",
+      "page": "8-8-use-the-complex-number-system",
+      "is_try_it": true,
+      "anchor": "fs-id1169148115972",
+      "context": [
+        "Multiply Complex Numbers"
+      ],
+      "text": "Multiply using the Product of Complex Conjugates Pattern: \\((-5+4i)(-5-4i).\\)",
+      "math": [
+        "(-5+4i)(-5-4i)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mo stretchy=\"false\">(</mo><mn>−5</mn><mo>+</mo><mn>4</mn><mi>i</mi><mo stretchy=\"false\">)</mo><mo stretchy=\"false\">(</mo><mn>−5</mn><mo>−</mo><mn>4</mn><mi>i</mi><mo stretchy=\"false\">)</mo><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mo stretchy=\"false\">(</mo><mn>−5</mn><mo>+</mo><mn>4</mn><mi>i</mi><mo stretchy=\"false\">)</mo><mo stretchy=\"false\">(</mo><mn>−5</mn><mo>−</mo><mn>4</mn><mi>i</mi><mo stretchy=\"false\">)</mo><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.171",
+      "page": "8-8-use-the-complex-number-system",
+      "is_try_it": true,
+      "anchor": "fs-id1169147880316",
+      "context": [
+        "Divide Complex Numbers"
+      ],
+      "text": "Divide: \\(\\frac{2+5i}{5-2i}.\\)",
+      "math": [
+        "\\frac{2+5i}{5-2i}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mn>2</mn><mo>+</mo><mn>5</mn><mi>i</mi></mrow><mrow><mn>5</mn><mo>−</mo><mn>2</mn><mi>i</mi></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mn>2</mn><mo>+</mo><mn>5</mn><mi>i</mi></mrow><mrow><mn>5</mn><mo>−</mo><mn>2</mn><mi>i</mi></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.172",
+      "page": "8-8-use-the-complex-number-system",
+      "is_try_it": true,
+      "anchor": "fs-id1169147737214",
+      "context": [
+        "Divide Complex Numbers"
+      ],
+      "text": "Divide: \\(\\frac{1+6i}{6-i}.\\)",
+      "math": [
+        "\\frac{1+6i}{6-i}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mn>1</mn><mo>+</mo><mn>6</mn><mi>i</mi></mrow><mrow><mn>6</mn><mo>−</mo><mi>i</mi></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mn>1</mn><mo>+</mo><mn>6</mn><mi>i</mi></mrow><mrow><mn>6</mn><mo>−</mo><mi>i</mi></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.173",
+      "page": "8-8-use-the-complex-number-system",
+      "is_try_it": true,
+      "anchor": "fs-id1169145971630",
+      "context": [
+        "Divide Complex Numbers"
+      ],
+      "text": "Divide, writing the answer in standard form: \\(\\frac{4}{1-4i}.\\)",
+      "math": [
+        "\\frac{4}{1-4i}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>4</mn><mrow><mn>1</mn><mo>−</mo><mn>4</mn><mi>i</mi></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>4</mn><mrow><mn>1</mn><mo>−</mo><mn>4</mn><mi>i</mi></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.174",
+      "page": "8-8-use-the-complex-number-system",
+      "is_try_it": true,
+      "anchor": "fs-id1169147727903",
+      "context": [
+        "Divide Complex Numbers"
+      ],
+      "text": "Divide, writing the answer in standard form: \\(\\frac{-2}{-1+2i}.\\)",
+      "math": [
+        "\\frac{-2}{-1+2i}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mn>−2</mn></mrow><mrow><mn>−1</mn><mo>+</mo><mn>2</mn><mi>i</mi></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mn>−2</mn></mrow><mrow><mn>−1</mn><mo>+</mo><mn>2</mn><mi>i</mi></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.175",
+      "page": "8-8-use-the-complex-number-system",
+      "is_try_it": true,
+      "anchor": "fs-id1169148070414",
+      "context": [
+        "Divide Complex Numbers"
+      ],
+      "text": "Divide: \\(\\frac{3+3i}{2i}.\\)",
+      "math": [
+        "\\frac{3+3i}{2i}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mn>3</mn><mo>+</mo><mn>3</mn><mi>i</mi></mrow><mrow><mn>2</mn><mi>i</mi></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mn>3</mn><mo>+</mo><mn>3</mn><mi>i</mi></mrow><mrow><mn>2</mn><mi>i</mi></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.176",
+      "page": "8-8-use-the-complex-number-system",
+      "is_try_it": true,
+      "anchor": "fs-id1169147784202",
+      "context": [
+        "Divide Complex Numbers"
+      ],
+      "text": "Divide: \\(\\frac{2+4i}{5i}.\\)",
+      "math": [
+        "\\frac{2+4i}{5i}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mn>2</mn><mo>+</mo><mn>4</mn><mi>i</mi></mrow><mrow><mn>5</mn><mi>i</mi></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mn>2</mn><mo>+</mo><mn>4</mn><mi>i</mi></mrow><mrow><mn>5</mn><mi>i</mi></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.177",
+      "page": "8-8-use-the-complex-number-system",
+      "is_try_it": true,
+      "anchor": "fs-id1169145748075",
+      "context": [
+        "Simplify Powers of i"
+      ],
+      "text": "Simplify: \\({i}^{75}.\\)",
+      "math": [
+        "{i}^{75}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>i</mi><mrow><mn>75</mn></mrow></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>i</mi><mrow><mn>75</mn></mrow></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.178",
+      "page": "8-8-use-the-complex-number-system",
+      "is_try_it": true,
+      "anchor": "fs-id1169145716787",
+      "context": [
+        "Simplify Powers of i"
+      ],
+      "text": "Simplify: \\({i}^{92}.\\)",
+      "math": [
+        "{i}^{92}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>i</mi><mrow><mn>92</mn></mrow></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>i</mi><mrow><mn>92</mn></mrow></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

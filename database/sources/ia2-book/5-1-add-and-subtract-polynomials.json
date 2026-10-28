@@ -1,0 +1,1932 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/5-1-add-and-subtract-polynomials",
+  "title": "5.1 Add and Subtract Polynomials",
+  "sha256": "5c237676129ab6bb94e4d4715f0e696692dd9e0a3b327a38320b1f5f919122b0",
+  "questions": [
+    {
+      "number": 1,
+      "anchor": "fs-id1167836408269",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Determine the Type of Polynomials",
+        "In the following exercises, determine if the polynomial is a monomial, binomial, trinomial, or other polynomial. Then, indicate the degree of the polynomial."
+      ],
+      "text": "ⓐ \\(47{x}^{5}-17{x}^{2}{y}^{3}+{y}^{2}\\)ⓑ \\(5{c}^{3}+11{c}^{2}-c-8\\)ⓒ \\(\\frac{5}{9}ab+\\frac{1}{3}b\\)ⓓ 4ⓔ \\(4pq+17\\)",
+      "math": [
+        "47{x}^{5}-17{x}^{2}{y}^{3}+{y}^{2}",
+        "5{c}^{3}+11{c}^{2}-c-8",
+        "\\frac{5}{9}ab+\\frac{1}{3}b",
+        "4pq+17"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>47</mn><msup><mi>x</mi><mn>5</mn></msup><mo>−</mo><mn>17</mn><msup><mi>x</mi><mn>2</mn></msup><msup><mi>y</mi><mn>3</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>47</mn><msup><mi>x</mi><mn>5</mn></msup><mo>−</mo><mn>17</mn><msup><mi>x</mi><mn>2</mn></msup><msup><mi>y</mi><mn>3</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><msup><mi>c</mi><mn>3</mn></msup><mo>+</mo><mn>11</mn><msup><mi>c</mi><mn>2</mn></msup><mo>−</mo><mi>c</mi><mo>−</mo><mn>8</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><msup><mi>c</mi><mn>3</mn></msup><mo>+</mo><mn>11</mn><msup><mi>c</mi><mn>2</mn></msup><mo>−</mo><mi>c</mi><mo>−</mo><mn>8</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>5</mn><mn>9</mn></mfrac><mi>a</mi><mi>b</mi><mo>+</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>b</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>5</mn><mn>9</mn></mfrac><mi>a</mi><mi>b</mi><mo>+</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>b</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mi>p</mi><mi>q</mi><mo>+</mo><mn>17</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mi>p</mi><mi>q</mi><mo>+</mo><mn>17</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 2,
+      "anchor": "fs-id1167836512992",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Determine the Type of Polynomials",
+        "In the following exercises, determine if the polynomial is a monomial, binomial, trinomial, or other polynomial. Then, indicate the degree of the polynomial."
+      ],
+      "text": "ⓐ \\({x}^{2}-{y}^{2}\\)ⓑ \\(-13{c}^{4}\\)ⓒ \\({a}^{2}+2ab-7{b}^{2}\\)ⓓ \\(4{x}^{2}{y}^{2}-3xy+8\\)ⓔ 19",
+      "math": [
+        "{x}^{2}-{y}^{2}",
+        "-13{c}^{4}",
+        "{a}^{2}+2ab-7{b}^{2}",
+        "4{x}^{2}{y}^{2}-3xy+8"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><msup><mi>y</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><msup><mi>y</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−13</mn><msup><mi>c</mi><mn>4</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−13</mn><msup><mi>c</mi><mn>4</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>a</mi><mi>b</mi><mo>−</mo><mn>7</mn><msup><mi>b</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>a</mi><mi>b</mi><mo>−</mo><mn>7</mn><msup><mi>b</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>x</mi><mi>y</mi><mo>+</mo><mn>8</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>x</mi><mi>y</mi><mo>+</mo><mn>8</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 3,
+      "anchor": "fs-id1167832937207",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Determine the Type of Polynomials",
+        "In the following exercises, determine if the polynomial is a monomial, binomial, trinomial, or other polynomial. Then, indicate the degree of the polynomial."
+      ],
+      "text": "ⓐ \\(8y-5x\\)ⓑ \\({y}^{2}-5yz-6{z}^{2}\\)ⓒ \\({y}^{3}-8{y}^{2}+2y-16\\)ⓓ \\(81a{b}^{4}-24{a}^{2}{b}^{2}+3b\\)ⓔ \\(-18\\)",
+      "math": [
+        "8y-5x",
+        "{y}^{2}-5yz-6{z}^{2}",
+        "{y}^{3}-8{y}^{2}+2y-16",
+        "81a{b}^{4}-24{a}^{2}{b}^{2}+3b",
+        "-18"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>8</mn><mi>y</mi><mo>−</mo><mn>5</mn><mi>x</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>8</mn><mi>y</mi><mo>−</mo><mn>5</mn><mi>x</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>y</mi><mi>z</mi><mo>−</mo><mn>6</mn><msup><mi>z</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>y</mi><mi>z</mi><mo>−</mo><mn>6</mn><msup><mi>z</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>y</mi><mn>3</mn></msup><mo>−</mo><mn>8</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>y</mi><mo>−</mo><mn>16</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>y</mi><mn>3</mn></msup><mo>−</mo><mn>8</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>y</mi><mo>−</mo><mn>16</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>81</mn><mi>a</mi><msup><mi>b</mi><mn>4</mn></msup><mo>−</mo><mn>24</mn><msup><mi>a</mi><mn>2</mn></msup><msup><mi>b</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>b</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>81</mn><mi>a</mi><msup><mi>b</mi><mn>4</mn></msup><mo>−</mo><mn>24</mn><msup><mi>a</mi><mn>2</mn></msup><msup><mi>b</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>b</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−18</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−18</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 4,
+      "anchor": "fs-id1167833009337",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Determine the Type of Polynomials",
+        "In the following exercises, determine if the polynomial is a monomial, binomial, trinomial, or other polynomial. Then, indicate the degree of the polynomial."
+      ],
+      "text": "ⓐ \\(11{y}^{2}\\)ⓑ \\(-73\\)ⓒ \\(6{x}^{2}-3xy+4x-2y+{y}^{2}\\)ⓓ \\(4{y}^{2}+17{z}^{2}\\)ⓔ \\(5{c}^{3}+11{c}^{2}-c-8\\)",
+      "math": [
+        "11{y}^{2}",
+        "-73",
+        "6{x}^{2}-3xy+4x-2y+{y}^{2}",
+        "4{y}^{2}+17{z}^{2}",
+        "5{c}^{3}+11{c}^{2}-c-8"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>11</mn><msup><mi>y</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>11</mn><msup><mi>y</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−73</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−73</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>6</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>x</mi><mi>y</mi><mo>+</mo><mn>4</mn><mi>x</mi><mo>−</mo><mn>2</mn><mi>y</mi><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>6</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>x</mi><mi>y</mi><mo>+</mo><mn>4</mn><mi>x</mi><mo>−</mo><mn>2</mn><mi>y</mi><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>17</mn><msup><mi>z</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>17</mn><msup><mi>z</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><msup><mi>c</mi><mn>3</mn></msup><mo>+</mo><mn>11</mn><msup><mi>c</mi><mn>2</mn></msup><mo>−</mo><mi>c</mi><mo>−</mo><mn>8</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><msup><mi>c</mi><mn>3</mn></msup><mo>+</mo><mn>11</mn><msup><mi>c</mi><mn>2</mn></msup><mo>−</mo><mi>c</mi><mo>−</mo><mn>8</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 5,
+      "anchor": "fs-id1167836321250",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Determine the Type of Polynomials",
+        "In the following exercises, determine if the polynomial is a monomial, binomial, trinomial, or other polynomial. Then, indicate the degree of the polynomial."
+      ],
+      "text": "ⓐ \\(5{a}^{2}+12ab-7{b}^{2}\\)ⓑ \\(18x{y}^{2}z\\)ⓒ \\(5x+2\\)ⓓ \\({y}^{3}-8{y}^{2}+2y-16\\)ⓔ \\(-24\\)",
+      "math": [
+        "5{a}^{2}+12ab-7{b}^{2}",
+        "18x{y}^{2}z",
+        "5x+2",
+        "{y}^{3}-8{y}^{2}+2y-16",
+        "-24"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><mn>12</mn><mi>a</mi><mi>b</mi><mo>−</mo><mn>7</mn><msup><mi>b</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><mn>12</mn><mi>a</mi><mi>b</mi><mo>−</mo><mn>7</mn><msup><mi>b</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>18</mn><mi>x</mi><msup><mi>y</mi><mn>2</mn></msup><mi>z</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>18</mn><mi>x</mi><msup><mi>y</mi><mn>2</mn></msup><mi>z</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mi>x</mi><mo>+</mo><mn>2</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>y</mi><mn>3</mn></msup><mo>−</mo><mn>8</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>y</mi><mo>−</mo><mn>16</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>y</mi><mn>3</mn></msup><mo>−</mo><mn>8</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>y</mi><mo>−</mo><mn>16</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−24</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−24</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 6,
+      "anchor": "fs-id1167829741538",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Determine the Type of Polynomials",
+        "In the following exercises, determine if the polynomial is a monomial, binomial, trinomial, or other polynomial. Then, indicate the degree of the polynomial."
+      ],
+      "text": "ⓐ \\(9{y}^{3}-10{y}^{2}+2y-6\\)ⓑ \\(-12{p}^{3}q\\)ⓒ \\({a}^{2}+9ab+18{b}^{2}\\)ⓓ \\(20{x}^{2}{y}^{2}-10{a}^{2}{b}^{2}+30\\)ⓔ 17",
+      "math": [
+        "9{y}^{3}-10{y}^{2}+2y-6",
+        "-12{p}^{3}q",
+        "{a}^{2}+9ab+18{b}^{2}",
+        "20{x}^{2}{y}^{2}-10{a}^{2}{b}^{2}+30"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>9</mn><msup><mi>y</mi><mn>3</mn></msup><mo>−</mo><mn>10</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>y</mi><mo>−</mo><mn>6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>9</mn><msup><mi>y</mi><mn>3</mn></msup><mo>−</mo><mn>10</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>y</mi><mo>−</mo><mn>6</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−12</mn><msup><mi>p</mi><mn>3</mn></msup><mi>q</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−12</mn><msup><mi>p</mi><mn>3</mn></msup><mi>q</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><mn>9</mn><mi>a</mi><mi>b</mi><mo>+</mo><mn>18</mn><msup><mi>b</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><mn>9</mn><mi>a</mi><mi>b</mi><mo>+</mo><mn>18</mn><msup><mi>b</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>20</mn><msup><mi>x</mi><mn>2</mn></msup><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>10</mn><msup><mi>a</mi><mn>2</mn></msup><msup><mi>b</mi><mn>2</mn></msup><mo>+</mo><mn>30</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>20</mn><msup><mi>x</mi><mn>2</mn></msup><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>10</mn><msup><mi>a</mi><mn>2</mn></msup><msup><mi>b</mi><mn>2</mn></msup><mo>+</mo><mn>30</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 7,
+      "anchor": "fs-id1167826131747",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Determine the Type of Polynomials",
+        "In the following exercises, determine if the polynomial is a monomial, binomial, trinomial, or other polynomial. Then, indicate the degree of the polynomial."
+      ],
+      "text": "ⓐ \\(14s-29t\\)ⓑ \\({z}^{2}-5z-6\\)ⓒ \\({y}^{3}-8{y}^{2}z+2y{z}^{2}-16{z}^{3}\\)ⓓ \\(23a{b}^{2}-14\\)ⓔ \\(-3\\)",
+      "math": [
+        "14s-29t",
+        "{z}^{2}-5z-6",
+        "{y}^{3}-8{y}^{2}z+2y{z}^{2}-16{z}^{3}",
+        "23a{b}^{2}-14",
+        "-3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>14</mn><mi>s</mi><mo>−</mo><mn>29</mn><mi>t</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>14</mn><mi>s</mi><mo>−</mo><mn>29</mn><mi>t</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>z</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>z</mi><mo>−</mo><mn>6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>z</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>z</mi><mo>−</mo><mn>6</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>y</mi><mn>3</mn></msup><mo>−</mo><mn>8</mn><msup><mi>y</mi><mn>2</mn></msup><mi>z</mi><mo>+</mo><mn>2</mn><mi>y</mi><msup><mi>z</mi><mn>2</mn></msup><mo>−</mo><mn>16</mn><msup><mi>z</mi><mn>3</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>y</mi><mn>3</mn></msup><mo>−</mo><mn>8</mn><msup><mi>y</mi><mn>2</mn></msup><mi>z</mi><mo>+</mo><mn>2</mn><mi>y</mi><msup><mi>z</mi><mn>2</mn></msup><mo>−</mo><mn>16</mn><msup><mi>z</mi><mn>3</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>23</mn><mi>a</mi><msup><mi>b</mi><mn>2</mn></msup><mo>−</mo><mn>14</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>23</mn><mi>a</mi><msup><mi>b</mi><mn>2</mn></msup><mo>−</mo><mn>14</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 8,
+      "anchor": "fs-id1167836598350",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Determine the Type of Polynomials",
+        "In the following exercises, determine if the polynomial is a monomial, binomial, trinomial, or other polynomial. Then, indicate the degree of the polynomial."
+      ],
+      "text": "ⓐ \\(15x{y}^{}\\)ⓑ 15ⓒ \\(6{x}^{2}-3xy+4x-2y+{y}^{2}\\)ⓓ \\(10p-9q\\)ⓔ \\({m}^{4}+4{m}^{3}+6{m}^{2}+4m+1\\)",
+      "math": [
+        "15x{y}^{}",
+        "6{x}^{2}-3xy+4x-2y+{y}^{2}",
+        "10p-9q",
+        "{m}^{4}+4{m}^{3}+6{m}^{2}+4m+1"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>15</mn><mi>x</mi><msup><mi>y</mi><mrow></mrow></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>15</mn><mi>x</mi><msup><mi>y</mi><mrow></mrow></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>6</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>x</mi><mi>y</mi><mo>+</mo><mn>4</mn><mi>x</mi><mo>−</mo><mn>2</mn><mi>y</mi><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>6</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>x</mi><mi>y</mi><mo>+</mo><mn>4</mn><mi>x</mi><mo>−</mo><mn>2</mn><mi>y</mi><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>10</mn><mi>p</mi><mo>−</mo><mn>9</mn><mi>q</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>10</mn><mi>p</mi><mo>−</mo><mn>9</mn><mi>q</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>m</mi><mn>4</mn></msup><mo>+</mo><mn>4</mn><msup><mi>m</mi><mn>3</mn></msup><mo>+</mo><mn>6</mn><msup><mi>m</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn><mi>m</mi><mo>+</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>m</mi><mn>4</mn></msup><mo>+</mo><mn>4</mn><msup><mi>m</mi><mn>3</mn></msup><mo>+</mo><mn>6</mn><msup><mi>m</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn><mi>m</mi><mo>+</mo><mn>1</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 9,
+      "anchor": "fs-id1167829808015",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Add and Subtract Polynomials",
+        "In the following exercises, add or subtract the monomials."
+      ],
+      "text": "ⓐ \\({7x}^{2}+5{x}^{2}\\)ⓑ \\(4a-9a\\)",
+      "math": [
+        "{7x}^{2}+5{x}^{2}",
+        "4a-9a"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mspace width=\"0.2em\"></mspace><mtext>7x</mtext></mrow><mtext>2</mtext></msup><mo>+</mo><mn>5</mn><msup><mi>x</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mspace width=\"0.2em\"></mspace><mtext>7x</mtext></mrow><mtext>2</mtext></msup><mo>+</mo><mn>5</mn><msup><mi>x</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mspace width=\"0.2em\"></mspace><mtext>4a</mtext><mo>−</mo><mn>9</mn><mi>a</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mspace width=\"0.2em\"></mspace><mtext>4a</mtext><mo>−</mo><mn>9</mn><mi>a</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 10,
+      "anchor": "fs-id1167829627667",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Add and Subtract Polynomials",
+        "In the following exercises, add or subtract the monomials."
+      ],
+      "text": "ⓐ \\({4y}^{3}+6{y}^{3}\\)ⓑ \\(-y-5y\\)",
+      "math": [
+        "{4y}^{3}+6{y}^{3}",
+        "-y-5y"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mspace width=\"0.2em\"></mspace><mtext>4y</mtext></mrow><mtext>3</mtext></msup><mo>+</mo><mn>6</mn><msup><mi>y</mi><mn>3</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mspace width=\"0.2em\"></mspace><mtext>4y</mtext></mrow><mtext>3</mtext></msup><mo>+</mo><mn>6</mn><msup><mi>y</mi><mn>3</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>−</mtext><mi>y</mi><mo>−</mo><mn>5</mn><mi>y</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>−</mtext><mi>y</mi><mo>−</mo><mn>5</mn><mi>y</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 11,
+      "anchor": "fs-id1167826205230",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Add and Subtract Polynomials",
+        "In the following exercises, add or subtract the monomials."
+      ],
+      "text": "ⓐ \\(-12w+18w\\)ⓑ \\(7{x}^{2}y-(-12{x}^{2}y)\\)",
+      "math": [
+        "-12w+18w",
+        "7{x}^{2}y-(-12{x}^{2}y)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−12</mn><mi>w</mi><mo>+</mo><mn>18</mn><mi>w</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−12</mn><mi>w</mi><mo>+</mo><mn>18</mn><mi>w</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>7</mn><msup><mi>x</mi><mn>2</mn></msup><mi>y</mi><mo>−</mo><mo stretchy=\"false\">(</mo><mn>−12</mn><msup><mi>x</mi><mn>2</mn></msup><mi>y</mi><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>7</mn><msup><mi>x</mi><mn>2</mn></msup><mi>y</mi><mo>−</mo><mo stretchy=\"false\">(</mo><mn>−12</mn><msup><mi>x</mi><mn>2</mn></msup><mi>y</mi><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 12,
+      "anchor": "fs-id1167836449588",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Add and Subtract Polynomials",
+        "In the following exercises, add or subtract the monomials."
+      ],
+      "text": "ⓐ \\(-3m+9m\\)ⓑ \\(15y{z}^{2}-(-8y{z}^{2})\\)",
+      "math": [
+        "-3m+9m",
+        "15y{z}^{2}-(-8y{z}^{2})"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−3</mn><mi>m</mi><mo>+</mo><mn>9</mn><mi>m</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−3</mn><mi>m</mi><mo>+</mo><mn>9</mn><mi>m</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>15</mn><mi>y</mi><msup><mi>z</mi><mn>2</mn></msup><mo>−</mo><mo stretchy=\"false\">(</mo><mn>−8</mn><mi>y</mi><msup><mi>z</mi><mn>2</mn></msup><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>15</mn><mi>y</mi><msup><mi>z</mi><mn>2</mn></msup><mo>−</mo><mo stretchy=\"false\">(</mo><mn>−8</mn><mi>y</mi><msup><mi>z</mi><mn>2</mn></msup><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 13,
+      "anchor": "fs-id1167836621812",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Add and Subtract Polynomials",
+        "In the following exercises, add or subtract the monomials."
+      ],
+      "text": "\\({ 7x }^{2} + 5 {x}^{2} + 4a - 9 a\\)",
+      "math": [
+        "{ 7x }^{2} + 5 {x}^{2} + 4a - 9 a"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mspace width=\"0.2em\"></mspace>\n              <mtext>7x</mtext>\n            </mrow>\n            <mtext>2</mtext>\n          </msup>\n          <mo>+</mo>\n          <mn>5</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>4a</mtext>\n          <mo>−</mo>\n          <mn>9</mn>\n          <mi>a</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mspace width=\"0.2em\"></mspace>\n              <mtext>7x</mtext>\n            </mrow>\n            <mtext>2</mtext>\n          </msup>\n          <mo>+</mo>\n          <mn>5</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>4a</mtext>\n          <mo>−</mo>\n          <mn>9</mn>\n          <mi>a</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 14,
+      "anchor": "fs-id1167833274103",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Add and Subtract Polynomials",
+        "In the following exercises, add or subtract the monomials."
+      ],
+      "text": "\\({ 4y }^{3} + 6 {y}^{3} - y - 5 y\\)",
+      "math": [
+        "{ 4y }^{3} + 6 {y}^{3} - y - 5 y"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mspace width=\"0.2em\"></mspace>\n              <mtext>4y</mtext>\n            </mrow>\n            <mtext>3</mtext>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mi>y</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mspace width=\"0.2em\"></mspace>\n              <mtext>4y</mtext>\n            </mrow>\n            <mtext>3</mtext>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mi>y</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 15,
+      "anchor": "fs-id1167833023422",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Add and Subtract Polynomials",
+        "In the following exercises, add or subtract the monomials."
+      ],
+      "text": "\\(-12 w + 18 w + 7 {x}^{2} y - ( -12 {x}^{2} y )\\)",
+      "math": [
+        "-12 w + 18 w + 7 {x}^{2} y - ( -12 {x}^{2} y )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−12</mn>\n          <mi>w</mi>\n          <mo>+</mo>\n          <mn>18</mn>\n          <mi>w</mi>\n          <mo>+</mo>\n          <mn>7</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mo stretchy=\"false\">(</mo>\n          <mn>−12</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mi>y</mi>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−12</mn>\n          <mi>w</mi>\n          <mo>+</mo>\n          <mn>18</mn>\n          <mi>w</mi>\n          <mo>+</mo>\n          <mn>7</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mo stretchy=\"false\">(</mo>\n          <mn>−12</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mi>y</mi>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 16,
+      "anchor": "fs-id1167833021002",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Add and Subtract Polynomials",
+        "In the following exercises, add or subtract the monomials."
+      ],
+      "text": "\\(-3 m + 9 m + 15 y {z}^{2} - ( -8 y {z}^{2} )\\)",
+      "math": [
+        "-3 m + 9 m + 15 y {z}^{2} - ( -8 y {z}^{2} )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−3</mn>\n          <mi>m</mi>\n          <mo>+</mo>\n          <mn>9</mn>\n          <mi>m</mi>\n          <mo>+</mo>\n          <mn>15</mn>\n          <mi>y</mi>\n          <msup>\n            <mi>z</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mo stretchy=\"false\">(</mo>\n          <mn>−8</mn>\n          <mi>y</mi>\n          <msup>\n            <mi>z</mi>\n            <mn>2</mn>\n          </msup>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−3</mn>\n          <mi>m</mi>\n          <mo>+</mo>\n          <mn>9</mn>\n          <mi>m</mi>\n          <mo>+</mo>\n          <mn>15</mn>\n          <mi>y</mi>\n          <msup>\n            <mi>z</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mo stretchy=\"false\">(</mo>\n          <mn>−8</mn>\n          <mi>y</mi>\n          <msup>\n            <mi>z</mi>\n            <mn>2</mn>\n          </msup>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 17,
+      "anchor": "fs-id1167833021640",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Add and Subtract Polynomials",
+        "In the following exercises, add or subtract the monomials."
+      ],
+      "text": "ⓐ \\(-5b-17b\\)ⓑ \\(3xy-(-8xy)+5xy\\)",
+      "math": [
+        "-5b-17b",
+        "3xy-(-8xy)+5xy"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−5</mn><mi>b</mi><mo>−</mo><mn>17</mn><mi>b</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−5</mn><mi>b</mi><mo>−</mo><mn>17</mn><mi>b</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mi>x</mi><mi>y</mi><mo>−</mo><mo stretchy=\"false\">(</mo><mn>−8</mn><mi>x</mi><mi>y</mi><mo stretchy=\"false\">)</mo><mo>+</mo><mn>5</mn><mi>x</mi><mi>y</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mi>x</mi><mi>y</mi><mo>−</mo><mo stretchy=\"false\">(</mo><mn>−8</mn><mi>x</mi><mi>y</mi><mo stretchy=\"false\">)</mo><mo>+</mo><mn>5</mn><mi>x</mi><mi>y</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 18,
+      "anchor": "fs-id1167836615678",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Add and Subtract Polynomials",
+        "In the following exercises, add or subtract the monomials."
+      ],
+      "text": "ⓐ \\(-10x-35x\\)ⓑ \\(17m{n}^{2}-(-9m{n}^{2})+3m{n}^{2}\\)",
+      "math": [
+        "-10x-35x",
+        "17m{n}^{2}-(-9m{n}^{2})+3m{n}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−10</mn><mi>x</mi><mo>−</mo><mn>35</mn><mi>x</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−10</mn><mi>x</mi><mo>−</mo><mn>35</mn><mi>x</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>17</mn><mi>m</mi><msup><mi>n</mi><mn>2</mn></msup><mo>−</mo><mo stretchy=\"false\">(</mo><mn>−9</mn><mi>m</mi><msup><mi>n</mi><mn>2</mn></msup><mo stretchy=\"false\">)</mo><mo>+</mo><mn>3</mn><mi>m</mi><msup><mi>n</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>17</mn><mi>m</mi><msup><mi>n</mi><mn>2</mn></msup><mo>−</mo><mo stretchy=\"false\">(</mo><mn>−9</mn><mi>m</mi><msup><mi>n</mi><mn>2</mn></msup><mo stretchy=\"false\">)</mo><mo>+</mo><mn>3</mn><mi>m</mi><msup><mi>n</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 19,
+      "anchor": "fs-id1167836756594",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Add and Subtract Polynomials",
+        "In the following exercises, add or subtract the monomials."
+      ],
+      "text": "ⓐ \\(12a+5b-22a\\)ⓑ \\(p{q}^{2}-4p-3{q}^{2}\\)",
+      "math": [
+        "12a+5b-22a",
+        "p{q}^{2}-4p-3{q}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mspace width=\"0.2em\"></mspace><mtext>12</mtext><mi>a</mi><mo>+</mo><mn>5</mn><mi>b</mi><mo>−</mo><mn>22</mn><mi>a</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mspace width=\"0.2em\"></mspace><mtext>12</mtext><mi>a</mi><mo>+</mo><mn>5</mn><mi>b</mi><mo>−</mo><mn>22</mn><mi>a</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>p</mi><msup><mi>q</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>p</mi><mo>−</mo><mn>3</mn><msup><mi>q</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>p</mi><msup><mi>q</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>p</mi><mo>−</mo><mn>3</mn><msup><mi>q</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 20,
+      "anchor": "fs-id1167836492076",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Add and Subtract Polynomials",
+        "In the following exercises, add or subtract the monomials."
+      ],
+      "text": "ⓐ \\(14x-3y-13x\\)ⓑ \\({a}^{2}b-4a-5a{b}^{2}\\)",
+      "math": [
+        "14x-3y-13x",
+        "{a}^{2}b-4a-5a{b}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mspace width=\"0.2em\"></mspace><mtext>14x</mtext><mo>−</mo><mn>3</mn><mi>y</mi><mo>−</mo><mn>13</mn><mi>x</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mspace width=\"0.2em\"></mspace><mtext>14x</mtext><mo>−</mo><mn>3</mn><mi>y</mi><mo>−</mo><mn>13</mn><mi>x</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>a</mi><mn>2</mn></msup><mi>b</mi><mo>−</mo><mn>4</mn><mi>a</mi><mo>−</mo><mn>5</mn><mi>a</mi><msup><mi>b</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>a</mi><mn>2</mn></msup><mi>b</mi><mo>−</mo><mn>4</mn><mi>a</mi><mo>−</mo><mn>5</mn><mi>a</mi><msup><mi>b</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 21,
+      "anchor": "fs-id1167832936422",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Add and Subtract Polynomials",
+        "In the following exercises, add or subtract the monomials."
+      ],
+      "text": "ⓐ \\(2{a}^{2}+{b}^{2}-6{a}^{2}\\)ⓑ \\({x}^{2}y-3x+7x{y}^{2}\\)",
+      "math": [
+        "2{a}^{2}+{b}^{2}-6{a}^{2}",
+        "{x}^{2}y-3x+7x{y}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup><mo>−</mo><mn>6</mn><msup><mi>a</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup><mo>−</mo><mn>6</mn><msup><mi>a</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mi>y</mi><mo>−</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>7</mn><mi>x</mi><msup><mi>y</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mi>y</mi><mo>−</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>7</mn><mi>x</mi><msup><mi>y</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 22,
+      "anchor": "fs-id1167836440002",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Add and Subtract Polynomials",
+        "In the following exercises, add or subtract the monomials."
+      ],
+      "text": "ⓐ \\(5{u}^{2}+4{v}^{2}-6{u}^{2}\\)ⓑ \\(12a+8b\\)",
+      "math": [
+        "5{u}^{2}+4{v}^{2}-6{u}^{2}",
+        "12a+8b"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><msup><mi>u</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn><msup><mi>v</mi><mn>2</mn></msup><mo>−</mo><mn>6</mn><msup><mi>u</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><msup><mi>u</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn><msup><mi>v</mi><mn>2</mn></msup><mo>−</mo><mn>6</mn><msup><mi>u</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mspace width=\"0.2em\"></mspace><mtext>12a</mtext><mo>+</mo><mn>8</mn><mi>b</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mspace width=\"0.2em\"></mspace><mtext>12a</mtext><mo>+</mo><mn>8</mn><mi>b</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 23,
+      "anchor": "fs-id1167836596888",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Add and Subtract Polynomials",
+        "In the following exercises, add or subtract the monomials."
+      ],
+      "text": "ⓐ \\(x{y}^{2}-5x-5{y}^{2}\\)ⓑ \\(19y+5z\\)",
+      "math": [
+        "x{y}^{2}-5x-5{y}^{2}",
+        "19y+5z"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>x</mi><mo>−</mo><mn>5</mn><msup><mi>y</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>x</mi><mo>−</mo><mn>5</mn><msup><mi>y</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mspace width=\"0.2em\"></mspace><mtext>19y</mtext><mo>+</mo><mn>5</mn><mi>z</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mspace width=\"0.2em\"></mspace><mtext>19y</mtext><mo>+</mo><mn>5</mn><mi>z</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 24,
+      "anchor": "fs-id1167836508704",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Add and Subtract Polynomials",
+        "In the following exercises, add or subtract the monomials."
+      ],
+      "text": "\\(12 a + 5 b - 22 a + p {q}^{2} - 4 p - 3 {q}^{2}\\)",
+      "math": [
+        "12 a + 5 b - 22 a + p {q}^{2} - 4 p - 3 {q}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>12</mtext>\n          <mi>a</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mi>b</mi>\n          <mo>−</mo>\n          <mn>22</mn>\n          <mi>a</mi>\n          <mo>+</mo>\n          <mi>p</mi>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>p</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>12</mtext>\n          <mi>a</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mi>b</mi>\n          <mo>−</mo>\n          <mn>22</mn>\n          <mi>a</mi>\n          <mo>+</mo>\n          <mi>p</mi>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>p</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 25,
+      "anchor": "fs-id1167836406955",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Add and Subtract Polynomials",
+        "In the following exercises, add or subtract the monomials."
+      ],
+      "text": "\\(14x - 3 y - 13 x + {a}^{2} b - 4 a - 5 a {b}^{2}\\)",
+      "math": [
+        "14x - 3 y - 13 x + {a}^{2} b - 4 a - 5 a {b}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>14x</mtext>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>13</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n          <mi>b</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>a</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mi>a</mi>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>14x</mtext>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>13</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n          <mi>b</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>a</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mi>a</mi>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 26,
+      "anchor": "fs-id1167836432063",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Add and Subtract Polynomials",
+        "In the following exercises, add or subtract the monomials."
+      ],
+      "text": "\\(2 {a}^{2} + {b}^{2} - 6 {a}^{2} + {x}^{2} y - 3 x + 7 x {y}^{2}\\)",
+      "math": [
+        "2 {a}^{2} + {b}^{2} - 6 {a}^{2} + {x}^{2} y - 3 x + 7 x {y}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mi>x</mi>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mi>x</mi>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 27,
+      "anchor": "fs-id1167829747886",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Add and Subtract Polynomials",
+        "In the following exercises, add or subtract the monomials."
+      ],
+      "text": "\\(5 {u}^{2} + 4 {v}^{2} - 6 {u}^{2} + 12a + 8 b\\)",
+      "math": [
+        "5 {u}^{2} + 4 {v}^{2} - 6 {u}^{2} + 12a + 8 b"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>5</mn>\n          <msup>\n            <mi>u</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <msup>\n            <mi>v</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <msup>\n            <mi>u</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>12a</mtext>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>b</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>5</mn>\n          <msup>\n            <mi>u</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <msup>\n            <mi>v</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <msup>\n            <mi>u</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>12a</mtext>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>b</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 28,
+      "anchor": "fs-id1167836292513",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Add and Subtract Polynomials",
+        "In the following exercises, add or subtract the monomials."
+      ],
+      "text": "\\(x {y}^{2} - 5 x - 5 {y}^{2} + 19y + 5 z\\)",
+      "math": [
+        "x {y}^{2} - 5 x - 5 {y}^{2} + 19y + 5 z"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>x</mi>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>19y</mtext>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mi>z</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>x</mi>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mspace width=\"0.2em\"></mspace>\n          <mtext>19y</mtext>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mi>z</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 29,
+      "anchor": "fs-id1167833338729",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Add and Subtract Polynomials",
+        "In the following exercises, add or subtract the monomials."
+      ],
+      "text": "Add: \\(4a,-3b,-8a\\)",
+      "math": [
+        "4a,-3b,-8a"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mi>a</mi><mo>,</mo><mn>−3</mn><mi>b</mi><mo>,</mo><mn>−8</mn><mi>a</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mi>a</mi><mo>,</mo><mn>−3</mn><mi>b</mi><mo>,</mo><mn>−8</mn><mi>a</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 30,
+      "anchor": "fs-id1167829712496",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Add and Subtract Polynomials",
+        "In the following exercises, add or subtract the monomials."
+      ],
+      "text": "Add:\\(4x,3y,-3x\\)",
+      "math": [
+        "4x,3y,-3x"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mspace width=\"0.2em\"></mspace><mtext>4x</mtext><mo>,</mo><mn>3</mn><mi>y</mi><mo>,</mo><mn>−3</mn><mi>x</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mspace width=\"0.2em\"></mspace><mtext>4x</mtext><mo>,</mo><mn>3</mn><mi>y</mi><mo>,</mo><mn>−3</mn><mi>x</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 31,
+      "anchor": "fs-id1167833086506",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Add and Subtract Polynomials",
+        "In the following exercises, add or subtract the monomials."
+      ],
+      "text": "Subtract \\(5{x}^{6}\\) from \\(-12{x}^{6}\\)",
+      "math": [
+        "5{x}^{6}",
+        "-12{x}^{6}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><msup><mi>x</mi><mn>6</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><msup><mi>x</mi><mn>6</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−12</mn><msup><mi>x</mi><mn>6</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−12</mn><msup><mi>x</mi><mn>6</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 32,
+      "anchor": "fs-id1167826025500",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Add and Subtract Polynomials",
+        "In the following exercises, add or subtract the monomials."
+      ],
+      "text": "Subtract \\(2{p}^{4}\\) from \\(-7{p}^{4}\\)",
+      "math": [
+        "2{p}^{4}",
+        "-7{p}^{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><msup><mi>p</mi><mn>4</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><msup><mi>p</mi><mn>4</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−7</mn><msup><mi>p</mi><mn>4</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−7</mn><msup><mi>p</mi><mn>4</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 33,
+      "anchor": "fs-id1167824733271",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, add or subtract the monomials.",
+        "In the following exercises, add the polynomials."
+      ],
+      "text": "\\(( 5 {y}^{2} + 12 y + 4 ) + ( 6 {y}^{2} - 8 y + 7 )\\)",
+      "math": [
+        "( 5 {y}^{2} + 12 y + 4 ) + ( 6 {y}^{2} - 8 y + 7 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mo stretchy=\"false\">(</mo>\n          <mn>5</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>+</mo>\n          <mo stretchy=\"false\">(</mo>\n          <mn>6</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>8</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mo stretchy=\"false\">(</mo>\n          <mn>5</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>+</mo>\n          <mo stretchy=\"false\">(</mo>\n          <mn>6</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>8</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 34,
+      "anchor": "fs-id1167829690282",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, add or subtract the monomials.",
+        "In the following exercises, add the polynomials."
+      ],
+      "text": "\\(( 4 {y}^{2} + 10 y + 3 ) + ( 8 {y}^{2} - 6 y + 5 )\\)",
+      "math": [
+        "( 4 {y}^{2} + 10 y + 3 ) + ( 8 {y}^{2} - 6 y + 5 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mo stretchy=\"false\">(</mo>\n          <mn>4</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>10</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>+</mo>\n          <mo stretchy=\"false\">(</mo>\n          <mn>8</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mo stretchy=\"false\">(</mo>\n          <mn>4</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>10</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>+</mo>\n          <mo stretchy=\"false\">(</mo>\n          <mn>8</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 35,
+      "anchor": "fs-id1167833350072",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, add or subtract the monomials.",
+        "In the following exercises, add the polynomials."
+      ],
+      "text": "\\(( {x}^{2} + 6 x + 8 ) + ( -4 {x}^{2} + 11 x - 9 )\\)",
+      "math": [
+        "( {x}^{2} + 6 x + 8 ) + ( -4 {x}^{2} + 11 x - 9 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mo stretchy=\"false\">(</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>+</mo>\n          <mo stretchy=\"false\">(</mo>\n          <mn>−4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>11</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>9</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mo stretchy=\"false\">(</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>+</mo>\n          <mo stretchy=\"false\">(</mo>\n          <mn>−4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>11</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>9</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 36,
+      "anchor": "fs-id1167829597471",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, add or subtract the monomials.",
+        "In the following exercises, add the polynomials."
+      ],
+      "text": "\\(( {y}^{2} + 9 y + 4 ) + ( -2 {y}^{2} - 5 y - 1 )\\)",
+      "math": [
+        "( {y}^{2} + 9 y + 4 ) + ( -2 {y}^{2} - 5 y - 1 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mo stretchy=\"false\">(</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>9</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>+</mo>\n          <mo stretchy=\"false\">(</mo>\n          <mn>−2</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mo stretchy=\"false\">(</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>9</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>+</mo>\n          <mo stretchy=\"false\">(</mo>\n          <mn>−2</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 37,
+      "anchor": "fs-id1167836356307",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, add or subtract the monomials.",
+        "In the following exercises, add the polynomials."
+      ],
+      "text": "\\(( 8 {x}^{2} - 5 x + 2 ) + ( 3 {x}^{2} + 3 )\\)",
+      "math": [
+        "( 8 {x}^{2} - 5 x + 2 ) + ( 3 {x}^{2} + 3 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mo stretchy=\"false\">(</mo>\n          <mn>8</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>+</mo>\n          <mo stretchy=\"false\">(</mo>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mo stretchy=\"false\">(</mo>\n          <mn>8</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>+</mo>\n          <mo stretchy=\"false\">(</mo>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 38,
+      "anchor": "fs-id1167833128238",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, add or subtract the monomials.",
+        "In the following exercises, add the polynomials."
+      ],
+      "text": "\\(( 7 {x}^{2} - 9 x + 2 ) + ( 6 {x}^{2} - 4 )\\)",
+      "math": [
+        "( 7 {x}^{2} - 9 x + 2 ) + ( 6 {x}^{2} - 4 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mo stretchy=\"false\">(</mo>\n          <mn>7</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>9</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>+</mo>\n          <mo stretchy=\"false\">(</mo>\n          <mn>6</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mo stretchy=\"false\">(</mo>\n          <mn>7</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>9</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>+</mo>\n          <mo stretchy=\"false\">(</mo>\n          <mn>6</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 39,
+      "anchor": "fs-id1167836561092",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, add or subtract the monomials.",
+        "In the following exercises, add the polynomials."
+      ],
+      "text": "\\(( 5 {a}^{2} + 8 ) + ( {a}^{2} - 4 a - 9 )\\)",
+      "math": [
+        "( 5 {a}^{2} + 8 ) + ( {a}^{2} - 4 a - 9 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mo stretchy=\"false\">(</mo>\n          <mn>5</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>+</mo>\n          <mo stretchy=\"false\">(</mo>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>a</mi>\n          <mo>−</mo>\n          <mn>9</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mo stretchy=\"false\">(</mo>\n          <mn>5</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>+</mo>\n          <mo stretchy=\"false\">(</mo>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>a</mi>\n          <mo>−</mo>\n          <mn>9</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 40,
+      "anchor": "fs-id1167829844347",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, add or subtract the monomials.",
+        "In the following exercises, add the polynomials."
+      ],
+      "text": "\\(( {p}^{2} - 6 p - 18 ) + ( 2 {p}^{2} + 11 )\\)",
+      "math": [
+        "( {p}^{2} - 6 p - 18 ) + ( 2 {p}^{2} + 11 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mo stretchy=\"false\">(</mo>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>p</mi>\n          <mo>−</mo>\n          <mn>18</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>+</mo>\n          <mo stretchy=\"false\">(</mo>\n          <mn>2</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>11</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mo stretchy=\"false\">(</mo>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>p</mi>\n          <mo>−</mo>\n          <mn>18</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>+</mo>\n          <mo stretchy=\"false\">(</mo>\n          <mn>2</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>11</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 41,
+      "anchor": "fs-id1167833142621",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, add the polynomials.",
+        "In the following exercises, subtract the polynomials."
+      ],
+      "text": "\\(( 4 {m}^{2} - 6 m - 3 ) - ( 2 {m}^{2} + m - 7 )\\)",
+      "math": [
+        "( 4 {m}^{2} - 6 m - 3 ) - ( 2 {m}^{2} + m - 7 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mo stretchy=\"false\">(</mo>\n          <mn>4</mn>\n          <msup>\n            <mi>m</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>m</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>−</mo>\n          <mo stretchy=\"false\">(</mo>\n          <mn>2</mn>\n          <msup>\n            <mi>m</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mi>m</mi>\n          <mo>−</mo>\n          <mn>7</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mo stretchy=\"false\">(</mo>\n          <mn>4</mn>\n          <msup>\n            <mi>m</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>m</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>−</mo>\n          <mo stretchy=\"false\">(</mo>\n          <mn>2</mn>\n          <msup>\n            <mi>m</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mi>m</mi>\n          <mo>−</mo>\n          <mn>7</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 42,
+      "anchor": "fs-id1167836398826",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, add the polynomials.",
+        "In the following exercises, subtract the polynomials."
+      ],
+      "text": "\\(( 3 {b}^{2} - 4 b + 1 ) - ( 5 {b}^{2} - b - 2 )\\)",
+      "math": [
+        "( 3 {b}^{2} - 4 b + 1 ) - ( 5 {b}^{2} - b - 2 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mo stretchy=\"false\">(</mo>\n          <mn>3</mn>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>b</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>−</mo>\n          <mo stretchy=\"false\">(</mo>\n          <mn>5</mn>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mi>b</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mo stretchy=\"false\">(</mo>\n          <mn>3</mn>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>b</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>−</mo>\n          <mo stretchy=\"false\">(</mo>\n          <mn>5</mn>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mi>b</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 43,
+      "anchor": "fs-id1167829834036",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, add the polynomials.",
+        "In the following exercises, subtract the polynomials."
+      ],
+      "text": "\\(( {a}^{2} + 8 a + 5 ) - ( {a}^{2} - 3 a + 2 )\\)",
+      "math": [
+        "( {a}^{2} + 8 a + 5 ) - ( {a}^{2} - 3 a + 2 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mo stretchy=\"false\">(</mo>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>a</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>−</mo>\n          <mo stretchy=\"false\">(</mo>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mi>a</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mo stretchy=\"false\">(</mo>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>a</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>−</mo>\n          <mo stretchy=\"false\">(</mo>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mi>a</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 44,
+      "anchor": "fs-id1167829790417",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, add the polynomials.",
+        "In the following exercises, subtract the polynomials."
+      ],
+      "text": "\\(( {b}^{2} - 7 b + 5 ) - ( {b}^{2} - 2 b + 9 )\\)",
+      "math": [
+        "( {b}^{2} - 7 b + 5 ) - ( {b}^{2} - 2 b + 9 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mo stretchy=\"false\">(</mo>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>7</mn>\n          <mi>b</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>−</mo>\n          <mo stretchy=\"false\">(</mo>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>b</mi>\n          <mo>+</mo>\n          <mn>9</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mo stretchy=\"false\">(</mo>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>7</mn>\n          <mi>b</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mo stretchy=\"false\">)</mo>\n          <mo>−</mo>\n          <mo stretchy=\"false\">(</mo>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>b</mi>\n          <mo>+</mo>\n          <mn>9</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 45,
+      "anchor": "fs-id1167836386461",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, add the polynomials.",
+        "In the following exercises, subtract the polynomials."
+      ],
+      "text": "\\(( 12 {s}^{2} - 15 s ) - ( s - 9 )\\)",
+      "math": [
+        "( 12 {s}^{2} - 15 s ) - ( s - 9 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mo stretchy=\"false\">(</mo>\n          <mn>12</mn>\n          <msup>\n            <mi>s</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>15</mn>\n          <mi>s</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>−</mo>\n          <mo stretchy=\"false\">(</mo>\n          <mi>s</mi>\n          <mo>−</mo>\n          <mn>9</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mo stretchy=\"false\">(</mo>\n          <mn>12</mn>\n          <msup>\n            <mi>s</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>15</mn>\n          <mi>s</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>−</mo>\n          <mo stretchy=\"false\">(</mo>\n          <mi>s</mi>\n          <mo>−</mo>\n          <mn>9</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 46,
+      "anchor": "fs-id1167836423564",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, add the polynomials.",
+        "In the following exercises, subtract the polynomials."
+      ],
+      "text": "\\(( 10 {r}^{2} - 20 r ) - ( r - 8 )\\)",
+      "math": [
+        "( 10 {r}^{2} - 20 r ) - ( r - 8 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mo stretchy=\"false\">(</mo>\n          <mn>10</mn>\n          <msup>\n            <mi>r</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>20</mn>\n          <mi>r</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>−</mo>\n          <mo stretchy=\"false\">(</mo>\n          <mi>r</mi>\n          <mo>−</mo>\n          <mn>8</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mo stretchy=\"false\">(</mo>\n          <mn>10</mn>\n          <msup>\n            <mi>r</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>20</mn>\n          <mi>r</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>−</mo>\n          <mo stretchy=\"false\">(</mo>\n          <mi>r</mi>\n          <mo>−</mo>\n          <mn>8</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 47,
+      "anchor": "fs-id1167829696664",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, subtract the polynomials.",
+        "In the following exercises, subtract the polynomials."
+      ],
+      "text": "Subtract \\((9{x}^{2}+2)\\) from \\((12{x}^{2}-x+6)\\)",
+      "math": [
+        "(9{x}^{2}+2)",
+        "(12{x}^{2}-x+6)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>9</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>9</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>12</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mi>x</mi><mo>+</mo><mn>6</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>12</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mi>x</mi><mo>+</mo><mn>6</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 48,
+      "anchor": "fs-id1167829620966",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, subtract the polynomials.",
+        "In the following exercises, subtract the polynomials."
+      ],
+      "text": "Subtract \\((5{y}^{2}-y+12)\\) from \\((10{y}^{2}-8y-20)\\)",
+      "math": [
+        "(5{y}^{2}-y+12)",
+        "(10{y}^{2}-8y-20)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>5</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mi>y</mi><mo>+</mo><mn>12</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>5</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mi>y</mi><mo>+</mo><mn>12</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>10</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>8</mn><mi>y</mi><mo>−</mo><mn>20</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>10</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>8</mn><mi>y</mi><mo>−</mo><mn>20</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 49,
+      "anchor": "fs-id1167836613921",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, subtract the polynomials.",
+        "In the following exercises, subtract the polynomials."
+      ],
+      "text": "Subtract \\((7{w}^{2}-4w+2)\\) from \\((8{w}^{2}-w+6)\\)",
+      "math": [
+        "(7{w}^{2}-4w+2)",
+        "(8{w}^{2}-w+6)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>7</mn><msup><mi>w</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>w</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>7</mn><msup><mi>w</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>w</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>8</mn><msup><mi>w</mi><mn>2</mn></msup><mo>−</mo><mi>w</mi><mo>+</mo><mn>6</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>8</mn><msup><mi>w</mi><mn>2</mn></msup><mo>−</mo><mi>w</mi><mo>+</mo><mn>6</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 50,
+      "anchor": "fs-id1167836615484",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, subtract the polynomials.",
+        "In the following exercises, subtract the polynomials."
+      ],
+      "text": "Subtract \\((5{x}^{2}-x+12)\\) from \\((9{x}^{2}-6x-20)\\)",
+      "math": [
+        "(5{x}^{2}-x+12)",
+        "(9{x}^{2}-6x-20)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>5</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mi>x</mi><mo>+</mo><mn>12</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>5</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mi>x</mi><mo>+</mo><mn>12</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>9</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>6</mn><mi>x</mi><mo>−</mo><mn>20</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>9</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>6</mn><mi>x</mi><mo>−</mo><mn>20</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 51,
+      "anchor": "fs-id1167829717203",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, subtract the polynomials.",
+        "In the following exercises, find the difference of the polynomials."
+      ],
+      "text": "Find the difference of \\(({w}^{2}+w-42)\\) and \\(({w}^{2}-10w+24)\\)",
+      "math": [
+        "({w}^{2}+w-42)",
+        "({w}^{2}-10w+24)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><msup><mi>w</mi><mn>2</mn></msup><mo>+</mo><mi>w</mi><mo>−</mo><mn>42</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><msup><mi>w</mi><mn>2</mn></msup><mo>+</mo><mi>w</mi><mo>−</mo><mn>42</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><msup><mi>w</mi><mn>2</mn></msup><mo>−</mo><mn>10</mn><mi>w</mi><mo>+</mo><mn>24</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><msup><mi>w</mi><mn>2</mn></msup><mo>−</mo><mn>10</mn><mi>w</mi><mo>+</mo><mn>24</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 52,
+      "anchor": "fs-id1167836531012",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, subtract the polynomials.",
+        "In the following exercises, find the difference of the polynomials."
+      ],
+      "text": "Find the difference of \\(({z}^{2}-3z-18)\\) and \\(({z}^{2}+5z-20)\\)",
+      "math": [
+        "({z}^{2}-3z-18)",
+        "({z}^{2}+5z-20)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><msup><mi>z</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>z</mi><mo>−</mo><mn>18</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><msup><mi>z</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>z</mi><mo>−</mo><mn>18</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><msup><mi>z</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mi>z</mi><mo>−</mo><mn>20</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><msup><mi>z</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mi>z</mi><mo>−</mo><mn>20</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 53,
+      "anchor": "fs-id1167829931390",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, find the difference of the polynomials.",
+        "In the following exercises, add the polynomials."
+      ],
+      "text": "\\(( 7 {x}^{2} - 2 x y + 6 {y}^{2} ) + ( 3 {x}^{2} - 5 x y )\\)",
+      "math": [
+        "( 7 {x}^{2} - 2 x y + 6 {y}^{2} ) + ( 3 {x}^{2} - 5 x y )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>7</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mi>y</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>7</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mi>y</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 54,
+      "anchor": "fs-id1167836728250",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, find the difference of the polynomials.",
+        "In the following exercises, add the polynomials."
+      ],
+      "text": "\\(( -5 {x}^{2} - 4 x y - 3 {y}^{2} ) + ( 2 {x}^{2} - 7 x y )\\)",
+      "math": [
+        "( -5 {x}^{2} - 4 x y - 3 {y}^{2} ) + ( 2 {x}^{2} - 7 x y )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−5</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>7</mn>\n              <mi>x</mi>\n              <mi>y</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−5</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>7</mn>\n              <mi>x</mi>\n              <mi>y</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 55,
+      "anchor": "fs-id1167824740668",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, find the difference of the polynomials.",
+        "In the following exercises, add the polynomials."
+      ],
+      "text": "\\(( 7 {m}^{2} + m n - 8 {n}^{2} ) + ( 3 {m}^{2} + 2 m n )\\)",
+      "math": [
+        "( 7 {m}^{2} + m n - 8 {n}^{2} ) + ( 3 {m}^{2} + 2 m n )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>7</mn>\n              <msup>\n                <mi>m</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mi>m</mi>\n              <mi>n</mi>\n              <mo>−</mo>\n              <mn>8</mn>\n              <msup>\n                <mi>n</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>m</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>m</mi>\n              <mi>n</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>7</mn>\n              <msup>\n                <mi>m</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mi>m</mi>\n              <mi>n</mi>\n              <mo>−</mo>\n              <mn>8</mn>\n              <msup>\n                <mi>n</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>m</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>m</mi>\n              <mi>n</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 56,
+      "anchor": "fs-id1167836423638",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, find the difference of the polynomials.",
+        "In the following exercises, add the polynomials."
+      ],
+      "text": "\\(( 2 {r}^{2} - 3 r s - 2 {s}^{2} ) + ( 5 {r}^{2} - 3 r s )\\)",
+      "math": [
+        "( 2 {r}^{2} - 3 r s - 2 {s}^{2} ) + ( 5 {r}^{2} - 3 r s )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>r</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>3</mn>\n              <mi>r</mi>\n              <mi>s</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n              <msup>\n                <mi>s</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <msup>\n                <mi>r</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>3</mn>\n              <mi>r</mi>\n              <mi>s</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>r</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>3</mn>\n              <mi>r</mi>\n              <mi>s</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n              <msup>\n                <mi>s</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <msup>\n                <mi>r</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>3</mn>\n              <mi>r</mi>\n              <mi>s</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 57,
+      "anchor": "fs-id1167829742748",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, add the polynomials.",
+        "In the following exercises, add or subtract the polynomials."
+      ],
+      "text": "\\(( {a}^{2} - {b}^{2} ) - ( {a}^{2} + 3 a b - 4 {b}^{2} )\\)",
+      "math": [
+        "( {a}^{2} - {b}^{2} ) - ( {a}^{2} + 3 a b - 4 {b}^{2} )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>a</mi>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>a</mi>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 58,
+      "anchor": "fs-id1167829787218",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, add the polynomials.",
+        "In the following exercises, add or subtract the polynomials."
+      ],
+      "text": "\\(( {m}^{2} + 2 {n}^{2} ) - ( {m}^{2} - 8 m n - {n}^{2} )\\)",
+      "math": [
+        "( {m}^{2} + 2 {n}^{2} ) - ( {m}^{2} - 8 m n - {n}^{2} )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>m</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>2</mn>\n              <msup>\n                <mi>n</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>m</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>8</mn>\n              <mi>m</mi>\n              <mi>n</mi>\n              <mo>−</mo>\n              <msup>\n                <mi>n</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>m</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>2</mn>\n              <msup>\n                <mi>n</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>m</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>8</mn>\n              <mi>m</mi>\n              <mi>n</mi>\n              <mo>−</mo>\n              <msup>\n                <mi>n</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 59,
+      "anchor": "fs-id1167829594307",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, add the polynomials.",
+        "In the following exercises, add or subtract the polynomials."
+      ],
+      "text": "\\(( {p}^{3} - 3 {p}^{2} q ) + ( 2 p {q}^{2} + 4 {q}^{3} ) - ( 3 {p}^{2} q + p {q}^{2} )\\)",
+      "math": [
+        "( {p}^{3} - 3 {p}^{2} q ) + ( 2 p {q}^{2} + 4 {q}^{3} ) - ( 3 {p}^{2} q + p {q}^{2} )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>p</mi>\n                <mn>3</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>3</mn>\n              <msup>\n                <mi>p</mi>\n                <mn>2</mn>\n              </msup>\n              <mi>q</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>p</mi>\n              <msup>\n                <mi>q</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>4</mn>\n              <msup>\n                <mi>q</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>p</mi>\n                <mn>2</mn>\n              </msup>\n              <mi>q</mi>\n              <mo>+</mo>\n              <mi>p</mi>\n              <msup>\n                <mi>q</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>p</mi>\n                <mn>3</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>3</mn>\n              <msup>\n                <mi>p</mi>\n                <mn>2</mn>\n              </msup>\n              <mi>q</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>p</mi>\n              <msup>\n                <mi>q</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>4</mn>\n              <msup>\n                <mi>q</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>p</mi>\n                <mn>2</mn>\n              </msup>\n              <mi>q</mi>\n              <mo>+</mo>\n              <mi>p</mi>\n              <msup>\n                <mi>q</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 60,
+      "anchor": "fs-id1167829750509",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, add the polynomials.",
+        "In the following exercises, add or subtract the polynomials."
+      ],
+      "text": "\\(( {a}^{3} - 2 {a}^{2} b ) + ( a {b}^{2} + {b}^{3} ) - ( 3 {a}^{2} b + 4 a {b}^{2} )\\)",
+      "math": [
+        "( {a}^{3} - 2 {a}^{2} b ) + ( a {b}^{2} + {b}^{3} ) - ( 3 {a}^{2} b + 4 a {b}^{2} )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>a</mi>\n                <mn>3</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>2</mn>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mi>b</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>a</mi>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <msup>\n                <mi>b</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mi>b</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n              <mi>a</mi>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>a</mi>\n                <mn>3</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>2</mn>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mi>b</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>a</mi>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <msup>\n                <mi>b</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>a</mi>\n                <mn>2</mn>\n              </msup>\n              <mi>b</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n              <mi>a</mi>\n              <msup>\n                <mi>b</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 61,
+      "anchor": "fs-id1167829905295",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, add the polynomials.",
+        "In the following exercises, add or subtract the polynomials."
+      ],
+      "text": "\\(( {x}^{3} - {x}^{2} y ) - ( 4 x {y}^{2} - {y}^{3} ) + ( 3 {x}^{2} y - x {y}^{2} )\\)",
+      "math": [
+        "( {x}^{3} - {x}^{2} y ) - ( 4 x {y}^{2} - {y}^{3} ) + ( 3 {x}^{2} y - x {y}^{2} )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>3</mn>\n              </msup>\n              <mo>−</mo>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mi>y</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <msup>\n                <mi>y</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mi>x</mi>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>3</mn>\n              </msup>\n              <mo>−</mo>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mi>y</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <msup>\n                <mi>y</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mi>x</mi>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 62,
+      "anchor": "fs-id1167836629436",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, add the polynomials.",
+        "In the following exercises, add or subtract the polynomials."
+      ],
+      "text": "\\(( {x}^{3} - 2 {x}^{2} y ) - ( x {y}^{2} - 3 {y}^{3} ) - ( {x}^{2} y - 4 x {y}^{2} )\\)",
+      "math": [
+        "( {x}^{3} - 2 {x}^{2} y ) - ( x {y}^{2} - 3 {y}^{3} ) - ( {x}^{2} y - 4 x {y}^{2} )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>3</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>2</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mi>y</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>3</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mi>x</mi>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>3</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>2</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mi>y</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>3</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n              <mi>x</mi>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 63,
+      "anchor": "fs-id1167836432788",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Evaluate a Polynomial Function for a Given Value",
+        "In the following exercises, find the function values for each polynomial function."
+      ],
+      "text": "For the function \\(f(x)=8{x}^{2}-3x+2,\\) find:ⓐ \\(f(5)\\) ⓑ \\(f(-2)\\) ⓒ \\(f(0)\\)",
+      "math": [
+        "f(x)=8{x}^{2}-3x+2,",
+        "f(5)",
+        "f(-2)",
+        "f(0)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>8</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>2</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>8</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>2</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mn>5</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>5</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mrow><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mrow><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 64,
+      "anchor": "fs-id1167832982250",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Evaluate a Polynomial Function for a Given Value",
+        "In the following exercises, find the function values for each polynomial function."
+      ],
+      "text": "For the function \\(f(x)=5{x}^{2}-x-7,\\) find:ⓐ \\(f(-4)\\) ⓑ \\(f(1)\\) ⓒ \\(f(0)\\)",
+      "math": [
+        "f(x)=5{x}^{2}-x-7,",
+        "f(-4)",
+        "f(1)",
+        "f(0)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>5</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mi>x</mi><mo>−</mo><mn>7</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>5</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mi>x</mi><mo>−</mo><mn>7</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mrow><mn>−4</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mrow><mn>−4</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mn>1</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>1</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 65,
+      "anchor": "fs-id1167829738632",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Evaluate a Polynomial Function for a Given Value",
+        "In the following exercises, find the function values for each polynomial function."
+      ],
+      "text": "For the function \\(g(x)=4-36x,\\) find:ⓐ \\(g(3)\\) ⓑ \\(g(0)\\) ⓒ \\(g(-1)\\)",
+      "math": [
+        "g(x)=4-36x,",
+        "g(3)",
+        "g(0)",
+        "g(-1)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>4</mn><mo>−</mo><mn>36</mn><mi>x</mi><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>4</mn><mo>−</mo><mn>36</mn><mi>x</mi><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mrow><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mrow><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 66,
+      "anchor": "fs-id1167836558053",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Evaluate a Polynomial Function for a Given Value",
+        "In the following exercises, find the function values for each polynomial function."
+      ],
+      "text": "For the function \\(g(x)=16-36{x}^{2},\\) find:ⓐ \\(g(-1)\\) ⓑ \\(g(0)\\) ⓒ \\(g(2)\\)",
+      "math": [
+        "g(x)=16-36{x}^{2},",
+        "g(-1)",
+        "g(0)",
+        "g(2)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>16</mn><mo>−</mo><mn>36</mn><msup><mi>x</mi><mn>2</mn></msup><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>16</mn><mo>−</mo><mn>36</mn><msup><mi>x</mi><mn>2</mn></msup><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mrow><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mrow><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 67,
+      "anchor": "fs-id1167836609191",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, find the function values for each polynomial function.",
+        "In the following exercises, find the height for each polynomial function."
+      ],
+      "text": "A painter drops a brush from a platform 75 feet high. The polynomial function \\(h(t)=-16{t}^{2}+75\\) gives the height of the brush t seconds after it was dropped. Find the height after \\(t=2\\) seconds.",
+      "math": [
+        "h(t)=-16{t}^{2}+75",
+        "t=2"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mn>−16</mn><msup><mi>t</mi><mn>2</mn></msup><mo>+</mo><mn>75</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mn>−16</mn><msup><mi>t</mi><mn>2</mn></msup><mo>+</mo><mn>75</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>t</mi><mo>=</mo><mn>2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>t</mi><mo>=</mo><mn>2</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 68,
+      "anchor": "fs-id1167836333432",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, find the function values for each polynomial function.",
+        "In the following exercises, find the height for each polynomial function."
+      ],
+      "text": "A girl drops a ball off a 200-foot cliff into the ocean. The polynomial \\(h(t)=-16{t}^{2}+200\\) gives the height of the ball, in feet, t seconds after it is dropped. Find the height after \\(t=3\\) seconds.",
+      "math": [
+        "h(t)=-16{t}^{2}+200",
+        "t=3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mn>−16</mn><msup><mi>t</mi><mn>2</mn></msup><mo>+</mo><mn>200</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mn>−16</mn><msup><mi>t</mi><mn>2</mn></msup><mo>+</mo><mn>200</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>t</mi><mo>=</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>t</mi><mo>=</mo><mn>3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 69,
+      "anchor": "fs-id1167824755607",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, find the function values for each polynomial function.",
+        "In the following exercises, find the height for each polynomial function."
+      ],
+      "text": "A manufacturer of stereo sound speakers has found that the revenue received from selling the speakers at a cost of p dollars each is given by the polynomial function \\(R(p)=-4{p}^{2}+420p.\\) Find the revenue received when \\(p=60\\) dollars.",
+      "math": [
+        "R(p)=-4{p}^{2}+420p.",
+        "p=60"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>R</mi><mrow><mo>(</mo><mi>p</mi><mo>)</mo></mrow><mo>=</mo><mn>−4</mn><msup><mi>p</mi><mn>2</mn></msup><mo>+</mo><mn>420</mn><mi>p</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>R</mi><mrow><mo>(</mo><mi>p</mi><mo>)</mo></mrow><mo>=</mo><mn>−4</mn><msup><mi>p</mi><mn>2</mn></msup><mo>+</mo><mn>420</mn><mi>p</mi><mo>.</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>p</mi><mo>=</mo><mn>60</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>p</mi><mo>=</mo><mn>60</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 70,
+      "anchor": "fs-id1167836732122",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, find the function values for each polynomial function.",
+        "In the following exercises, find the height for each polynomial function."
+      ],
+      "text": "A manufacturer of the latest basketball shoes has found that the revenue received from selling the shoes at a cost of p dollars each is given by the polynomial \\(R(p)=-4{p}^{2}+420p.\\) Find the revenue received when \\(p=90\\) dollars.",
+      "math": [
+        "R(p)=-4{p}^{2}+420p.",
+        "p=90"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>R</mi><mrow><mo>(</mo><mi>p</mi><mo>)</mo></mrow><mo>=</mo><mn>−4</mn><msup><mi>p</mi><mn>2</mn></msup><mo>+</mo><mn>420</mn><mi>p</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>R</mi><mrow><mo>(</mo><mi>p</mi><mo>)</mo></mrow><mo>=</mo><mn>−4</mn><msup><mi>p</mi><mn>2</mn></msup><mo>+</mo><mn>420</mn><mi>p</mi><mo>.</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>p</mi><mo>=</mo><mn>90</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>p</mi><mo>=</mo><mn>90</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 71,
+      "anchor": "fs-id1167833022467",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, find the function values for each polynomial function.",
+        "In the following exercises, find the height for each polynomial function."
+      ],
+      "text": "The polynomial \\(C(x)=6{x}^{2}+90x\\) gives the cost, in dollars, of producing a rectangular container whose top and bottom are squares with side x feet and height 6 feet. Find the cost of producing a box with \\(x=4\\) feet.",
+      "math": [
+        "C(x)=6{x}^{2}+90x",
+        "x=4"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>C</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>6</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>90</mn><mi>x</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>C</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>6</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>90</mn><mi>x</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>4</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 72,
+      "anchor": "fs-id1167833050575",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "In the following exercises, find the function values for each polynomial function.",
+        "In the following exercises, find the height for each polynomial function."
+      ],
+      "text": "The polynomial \\(C(x)=6{x}^{2}+90x\\) gives the cost, in dollars, of producing a rectangular container whose top and bottom are squares with side x feet and height 4 feet. Find the cost of producing a box with \\(x=6\\) feet.",
+      "math": [
+        "C(x)=6{x}^{2}+90x",
+        "x=6"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>C</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>6</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>90</mn><mi>x</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>C</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>6</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>90</mn><mi>x</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>=</mo><mn>6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>=</mo><mn>6</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 73,
+      "anchor": "fs-id1167836418844",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Add and Subtract Polynomial Functions",
+        "In each example, find ⓐ (f + g)(x) ⓑ (f + g)(2) ⓒ (f − g)(x) ⓓ (f − g)(−3)."
+      ],
+      "text": "\\(f(x)=2{x}^{2}-4x+1\\) and \\(g(x)=5{x}^{2}+8x+3\\)",
+      "math": [
+        "f(x)=2{x}^{2}-4x+1",
+        "g(x)=5{x}^{2}+8x+3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>5</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>5</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><mi>x</mi><mo>+</mo><mn>3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 74,
+      "anchor": "fs-id1167833347303",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Add and Subtract Polynomial Functions",
+        "In each example, find ⓐ (f + g)(x) ⓑ (f + g)(2) ⓒ (f − g)(x) ⓓ (f − g)(−3)."
+      ],
+      "text": "\\(f(x)=4{x}^{2}-7x+3\\) and \\(g(x)=4{x}^{2}+2x-1\\)",
+      "math": [
+        "f(x)=4{x}^{2}-7x+3",
+        "g(x)=4{x}^{2}+2x-1"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>7</mn><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>7</mn><mi>x</mi><mo>+</mo><mn>3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 75,
+      "anchor": "fs-id1167836624045",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Add and Subtract Polynomial Functions",
+        "In each example, find ⓐ (f + g)(x) ⓑ (f + g)(2) ⓒ (f − g)(x) ⓓ (f − g)(−3)."
+      ],
+      "text": "\\(f(x)=3{x}^{3}-{x}^{2}-2x+3\\) and \\(g(x)=3{x}^{3}-7x\\)",
+      "math": [
+        "f(x)=3{x}^{3}-{x}^{2}-2x+3",
+        "g(x)=3{x}^{3}-7x"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>3</mn><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>3</mn><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>3</mn><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>7</mn><mi>x</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>3</mn><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>7</mn><mi>x</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 76,
+      "anchor": "fs-id1167824732288",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Add and Subtract Polynomial Functions",
+        "In each example, find ⓐ (f + g)(x) ⓑ (f + g)(2) ⓒ (f − g)(x) ⓓ (f − g)(−3)."
+      ],
+      "text": "\\(f(x)=5{x}^{3}-{x}^{2}+3x+4\\) and \\(g(x)=8{x}^{3}-1\\)",
+      "math": [
+        "f(x)=5{x}^{3}-{x}^{2}+3x+4",
+        "g(x)=8{x}^{3}-1"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>5</mn><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>5</mn><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>8</mn><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>8</mn><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>1</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 77,
+      "anchor": "fs-id1167836529238",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Using your own words, explain the difference between a monomial, a binomial, and a trinomial.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 78,
+      "anchor": "fs-id1167836529255",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Using your own words, explain the difference between a polynomial with five terms and a polynomial with a degree of 5.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 79,
+      "anchor": "fs-id1167836618915",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Ariana thinks the sum \\(6{y}^{2}+5{y}^{4}\\) is \\(11{y}^{6}.\\) What is wrong with her reasoning?",
+      "math": [
+        "6{y}^{2}+5{y}^{4}",
+        "11{y}^{6}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>6</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><msup><mi>y</mi><mn>4</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>6</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><msup><mi>y</mi><mn>4</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>11</mn><msup><mi>y</mi><mn>6</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>11</mn><msup><mi>y</mi><mn>6</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 80,
+      "anchor": "fs-id1167824755444",
+      "page": "5-1-add-and-subtract-polynomials",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Is every trinomial a second degree polynomial? If not, give an example.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "5.1",
+      "page": "5-1-add-and-subtract-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167836518702",
+      "context": [
+        "Determine the Degree of Polynomials"
+      ],
+      "text": "Determine whether each polynomial is a monomial, binomial, trinomial, or other polynomial. Then, find the degree of each polynomial. ⓐ \\(-5\\) ⓑ \\(8{y}^{3}-7{y}^{2}-y-3\\) ⓒ \\(-3{x}^{2}y-5xy+9x{y}^{3}\\) ⓓ \\(81{m}^{2}-4{n}^{2}\\) ⓔ \\(-3{x}^{6}{y}^{3}z\\)",
+      "math": [
+        "-5",
+        "8{y}^{3}-7{y}^{2}-y-3",
+        "-3{x}^{2}y-5xy+9x{y}^{3}",
+        "81{m}^{2}-4{n}^{2}",
+        "-3{x}^{6}{y}^{3}z"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−5</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>8</mn><msup><mi>y</mi><mn>3</mn></msup><mo>−</mo><mn>7</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mi>y</mi><mo>−</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>8</mn><msup><mi>y</mi><mn>3</mn></msup><mo>−</mo><mn>7</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mi>y</mi><mo>−</mo><mn>3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−3</mn><msup><mi>x</mi><mn>2</mn></msup><mi>y</mi><mo>−</mo><mn>5</mn><mi>x</mi><mi>y</mi><mo>+</mo><mn>9</mn><mi>x</mi><msup><mi>y</mi><mn>3</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−3</mn><msup><mi>x</mi><mn>2</mn></msup><mi>y</mi><mo>−</mo><mn>5</mn><mi>x</mi><mi>y</mi><mo>+</mo><mn>9</mn><mi>x</mi><msup><mi>y</mi><mn>3</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>81</mn><msup><mi>m</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><msup><mi>n</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>81</mn><msup><mi>m</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><msup><mi>n</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−3</mn><msup><mi>x</mi><mn>6</mn></msup><msup><mi>y</mi><mn>3</mn></msup><mi>z</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−3</mn><msup><mi>x</mi><mn>6</mn></msup><msup><mi>y</mi><mn>3</mn></msup><mi>z</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.2",
+      "page": "5-1-add-and-subtract-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167829751398",
+      "context": [
+        "Determine the Degree of Polynomials"
+      ],
+      "text": "Determine whether each polynomial is a monomial, binomial, trinomial, or other polynomial. Then, find the degree of each polynomial. ⓐ \\(64{k}^{3}-8\\) ⓑ \\(9{m}^{3}+4{m}^{2}-2\\) ⓒ \\(\\frac{5}{6}\\) ⓓ \\(8{a}^{4}-7{a}^{3}b-6{a}^{2}{b}^{2}-4a{b}^{3}+7{b}^{4}\\) ⓔ \\(-{p}^{4}{q}^{3}\\)",
+      "math": [
+        "64{k}^{3}-8",
+        "9{m}^{3}+4{m}^{2}-2",
+        "\\frac{5}{6}",
+        "8{a}^{4}-7{a}^{3}b-6{a}^{2}{b}^{2}-4a{b}^{3}+7{b}^{4}",
+        "-{p}^{4}{q}^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>64</mn><msup><mi>k</mi><mn>3</mn></msup><mo>−</mo><mn>8</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>64</mn><msup><mi>k</mi><mn>3</mn></msup><mo>−</mo><mn>8</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>9</mn><msup><mi>m</mi><mn>3</mn></msup><mo>+</mo><mn>4</mn><msup><mi>m</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>9</mn><msup><mi>m</mi><mn>3</mn></msup><mo>+</mo><mn>4</mn><msup><mi>m</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>5</mn><mn>6</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>5</mn><mn>6</mn></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>8</mn><msup><mi>a</mi><mn>4</mn></msup><mo>−</mo><mn>7</mn><msup><mi>a</mi><mn>3</mn></msup><mi>b</mi><mo>−</mo><mn>6</mn><msup><mi>a</mi><mn>2</mn></msup><msup><mi>b</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>a</mi><msup><mi>b</mi><mn>3</mn></msup><mo>+</mo><mn>7</mn><msup><mi>b</mi><mn>4</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>8</mn><msup><mi>a</mi><mn>4</mn></msup><mo>−</mo><mn>7</mn><msup><mi>a</mi><mn>3</mn></msup><mi>b</mi><mo>−</mo><mn>6</mn><msup><mi>a</mi><mn>2</mn></msup><msup><mi>b</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>a</mi><msup><mi>b</mi><mn>3</mn></msup><mo>+</mo><mn>7</mn><msup><mi>b</mi><mn>4</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>−</mtext><msup><mi>p</mi><mn>4</mn></msup><msup><mi>q</mi><mn>3</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>−</mtext><msup><mi>p</mi><mn>4</mn></msup><msup><mi>q</mi><mn>3</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.3",
+      "page": "5-1-add-and-subtract-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167836390664",
+      "context": [
+        "Add and Subtract Polynomials"
+      ],
+      "text": "Add or subtract: ⓐ \\(12{q}^{2}+9{q}^{2}\\) ⓑ \\(8m{n}^{3}-(-5m{n}^{3}).\\)",
+      "math": [
+        "12{q}^{2}+9{q}^{2}",
+        "8m{n}^{3}-(-5m{n}^{3})."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>12</mn><msup><mi>q</mi><mn>2</mn></msup><mo>+</mo><mn>9</mn><msup><mi>q</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>12</mn><msup><mi>q</mi><mn>2</mn></msup><mo>+</mo><mn>9</mn><msup><mi>q</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>8</mn><mi>m</mi><msup><mi>n</mi><mn>3</mn></msup><mo>−</mo><mrow><mo>(</mo><mrow><mn>−5</mn><mi>m</mi><msup><mi>n</mi><mn>3</mn></msup></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>8</mn><mi>m</mi><msup><mi>n</mi><mn>3</mn></msup><mo>−</mo><mrow><mo>(</mo><mrow><mn>−5</mn><mi>m</mi><msup><mi>n</mi><mn>3</mn></msup></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.4",
+      "page": "5-1-add-and-subtract-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167833310117",
+      "context": [
+        "Add and Subtract Polynomials"
+      ],
+      "text": "Add or subtract: ⓐ \\(-15{c}^{2}+8{c}^{2}\\) ⓑ \\(-15{y}^{2}{z}^{3}-(-5{y}^{2}{z}^{3}).\\)",
+      "math": [
+        "-15{c}^{2}+8{c}^{2}",
+        "-15{y}^{2}{z}^{3}-(-5{y}^{2}{z}^{3})."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−15</mn><msup><mi>c</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><msup><mi>c</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−15</mn><msup><mi>c</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><msup><mi>c</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−15</mn><msup><mi>y</mi><mn>2</mn></msup><msup><mi>z</mi><mn>3</mn></msup><mo>−</mo><mrow><mo>(</mo><mrow><mn>−5</mn><msup><mi>y</mi><mn>2</mn></msup><msup><mi>z</mi><mn>3</mn></msup></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−15</mn><msup><mi>y</mi><mn>2</mn></msup><msup><mi>z</mi><mn>3</mn></msup><mo>−</mo><mrow><mo>(</mo><mrow><mn>−5</mn><msup><mi>y</mi><mn>2</mn></msup><msup><mi>z</mi><mn>3</mn></msup></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.5",
+      "page": "5-1-add-and-subtract-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167836387371",
+      "context": [
+        "Add and Subtract Polynomials"
+      ],
+      "text": "Add: ⓐ \\(8{y}^{2}+3{z}^{2}-3{y}^{2}\\) ⓑ \\({m}^{2}{n}^{2}-8{m}^{2}+4{n}^{2}.\\)",
+      "math": [
+        "8{y}^{2}+3{z}^{2}-3{y}^{2}",
+        "{m}^{2}{n}^{2}-8{m}^{2}+4{n}^{2}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>8</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><msup><mi>z</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><msup><mi>y</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>8</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><msup><mi>z</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><msup><mi>y</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>m</mi><mn>2</mn></msup><msup><mi>n</mi><mn>2</mn></msup><mo>−</mo><mn>8</mn><msup><mi>m</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn><msup><mi>n</mi><mn>2</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>m</mi><mn>2</mn></msup><msup><mi>n</mi><mn>2</mn></msup><mo>−</mo><mn>8</mn><msup><mi>m</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn><msup><mi>n</mi><mn>2</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.6",
+      "page": "5-1-add-and-subtract-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167824584640",
+      "context": [
+        "Add and Subtract Polynomials"
+      ],
+      "text": "Add: ⓐ \\(3{m}^{2}+{n}^{2}-7{m}^{2}\\) ⓑ \\(p{q}^{2}-6p-5{q}^{2}.\\)",
+      "math": [
+        "3{m}^{2}+{n}^{2}-7{m}^{2}",
+        "p{q}^{2}-6p-5{q}^{2}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><msup><mi>m</mi><mn>2</mn></msup><mo>+</mo><msup><mi>n</mi><mn>2</mn></msup><mo>−</mo><mn>7</mn><msup><mi>m</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><msup><mi>m</mi><mn>2</mn></msup><mo>+</mo><msup><mi>n</mi><mn>2</mn></msup><mo>−</mo><mn>7</mn><msup><mi>m</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>p</mi><msup><mi>q</mi><mn>2</mn></msup><mo>−</mo><mn>6</mn><mi>p</mi><mo>−</mo><mn>5</mn><msup><mi>q</mi><mn>2</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>p</mi><msup><mi>q</mi><mn>2</mn></msup><mo>−</mo><mn>6</mn><mi>p</mi><mo>−</mo><mn>5</mn><msup><mi>q</mi><mn>2</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.7",
+      "page": "5-1-add-and-subtract-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167836447632",
+      "context": [
+        "Add and Subtract Polynomials"
+      ],
+      "text": "Find the sum: \\((7{x}^{2}-4x+5)+({x}^{2}-7x+3).\\)",
+      "math": [
+        "(7{x}^{2}-4x+5)+({x}^{2}-7x+3)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>7</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>5</mn></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>7</mn><mi>x</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>7</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>5</mn></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>7</mn><mi>x</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.8",
+      "page": "5-1-add-and-subtract-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167833385425",
+      "context": [
+        "Add and Subtract Polynomials"
+      ],
+      "text": "Find the sum: \\((14{y}^{2}+6y-4)+(3{y}^{2}+8y+5).\\)",
+      "math": [
+        "(14{y}^{2}+6y-4)+(3{y}^{2}+8y+5)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>14</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn><mi>y</mi><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>3</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><mi>y</mi><mo>+</mo><mn>5</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>14</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn><mi>y</mi><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>3</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><mi>y</mi><mo>+</mo><mn>5</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.9",
+      "page": "5-1-add-and-subtract-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167833339035",
+      "context": [
+        "Add and Subtract Polynomials"
+      ],
+      "text": "Find the difference: \\((8{x}^{2}+3x-19)-(7{x}^{2}-14).\\)",
+      "math": [
+        "(8{x}^{2}+3x-19)-(7{x}^{2}-14)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>8</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>19</mn></mrow><mo>)</mo></mrow><mo>−</mo><mrow><mo>(</mo><mrow><mn>7</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>14</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>8</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>19</mn></mrow><mo>)</mo></mrow><mo>−</mo><mrow><mo>(</mo><mrow><mn>7</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>14</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.10",
+      "page": "5-1-add-and-subtract-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167829585679",
+      "context": [
+        "Add and Subtract Polynomials"
+      ],
+      "text": "Find the difference: \\((9{b}^{2}-5b-4)-(3{b}^{2}-5b-7).\\)",
+      "math": [
+        "(9{b}^{2}-5b-4)-(3{b}^{2}-5b-7)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>9</mn><msup><mi>b</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>b</mi><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>−</mo><mrow><mo>(</mo><mrow><mn>3</mn><msup><mi>b</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>b</mi><mo>−</mo><mn>7</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>9</mn><msup><mi>b</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>b</mi><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>−</mo><mrow><mo>(</mo><mrow><mn>3</mn><msup><mi>b</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>b</mi><mo>−</mo><mn>7</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.11",
+      "page": "5-1-add-and-subtract-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167836416627",
+      "context": [
+        "Add and Subtract Polynomials"
+      ],
+      "text": "Subtract \\(({a}^{2}+5ab-6{b}^{2})\\) from \\(({a}^{2}+{b}^{2}).\\)",
+      "math": [
+        "({a}^{2}+5ab-6{b}^{2})",
+        "({a}^{2}+{b}^{2})."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mi>a</mi><mi>b</mi><mo>−</mo><mn>6</mn><msup><mi>b</mi><mn>2</mn></msup></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mi>a</mi><mi>b</mi><mo>−</mo><mn>6</mn><msup><mi>b</mi><mn>2</mn></msup></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.12",
+      "page": "5-1-add-and-subtract-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167829853711",
+      "context": [
+        "Add and Subtract Polynomials"
+      ],
+      "text": "Subtract \\(({m}^{2}-7mn-3{n}^{2})\\) from \\(({m}^{2}+{n}^{2}).\\)",
+      "math": [
+        "({m}^{2}-7mn-3{n}^{2})",
+        "({m}^{2}+{n}^{2})."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><msup><mi>m</mi><mn>2</mn></msup><mo>−</mo><mn>7</mn><mi>m</mi><mi>n</mi><mo>−</mo><mn>3</mn><msup><mi>n</mi><mn>2</mn></msup></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><msup><mi>m</mi><mn>2</mn></msup><mo>−</mo><mn>7</mn><mi>m</mi><mi>n</mi><mo>−</mo><mn>3</mn><msup><mi>n</mi><mn>2</mn></msup></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><msup><mi>m</mi><mn>2</mn></msup><mo>+</mo><msup><mi>n</mi><mn>2</mn></msup></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><msup><mi>m</mi><mn>2</mn></msup><mo>+</mo><msup><mi>n</mi><mn>2</mn></msup></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.13",
+      "page": "5-1-add-and-subtract-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167836552919",
+      "context": [
+        "Add and Subtract Polynomials"
+      ],
+      "text": "Find the sum: \\((3{x}^{2}-4xy+5{y}^{2})+(2{x}^{2}-xy).\\)",
+      "math": [
+        "(3{x}^{2}-4xy+5{y}^{2})+(2{x}^{2}-xy)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>x</mi><mi>y</mi><mo>+</mo><mn>5</mn><msup><mi>y</mi><mn>2</mn></msup></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mi>x</mi><mi>y</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>x</mi><mi>y</mi><mo>+</mo><mn>5</mn><msup><mi>y</mi><mn>2</mn></msup></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mi>x</mi><mi>y</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.14",
+      "page": "5-1-add-and-subtract-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167836689195",
+      "context": [
+        "Add and Subtract Polynomials"
+      ],
+      "text": "Find the sum: \\((2{x}^{2}-3xy-2{y}^{2})+(5{x}^{2}-3xy).\\)",
+      "math": [
+        "(2{x}^{2}-3xy-2{y}^{2})+(5{x}^{2}-3xy)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>x</mi><mi>y</mi><mo>−</mo><mn>2</mn><msup><mi>y</mi><mn>2</mn></msup></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>5</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>x</mi><mi>y</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>x</mi><mi>y</mi><mo>−</mo><mn>2</mn><msup><mi>y</mi><mn>2</mn></msup></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>5</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>x</mi><mi>y</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.15",
+      "page": "5-1-add-and-subtract-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167829594558",
+      "context": [
+        "Add and Subtract Polynomials"
+      ],
+      "text": "Simplify: \\(({x}^{3}-{x}^{2}y)-(x{y}^{2}+{y}^{3})+({x}^{2}y+x{y}^{2}).\\)",
+      "math": [
+        "({x}^{3}-{x}^{2}y)-(x{y}^{2}+{y}^{3})+({x}^{2}y+x{y}^{2})."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><msup><mi>x</mi><mn>2</mn></msup><mi>y</mi></mrow><mo>)</mo></mrow><mo>−</mo><mrow><mo>(</mo><mrow><mi>x</mi><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>3</mn></msup></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><msup><mi>x</mi><mn>2</mn></msup><mi>y</mi><mo>+</mo><mi>x</mi><msup><mi>y</mi><mn>2</mn></msup></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><msup><mi>x</mi><mn>2</mn></msup><mi>y</mi></mrow><mo>)</mo></mrow><mo>−</mo><mrow><mo>(</mo><mrow><mi>x</mi><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>3</mn></msup></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><msup><mi>x</mi><mn>2</mn></msup><mi>y</mi><mo>+</mo><mi>x</mi><msup><mi>y</mi><mn>2</mn></msup></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.16",
+      "page": "5-1-add-and-subtract-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167836293749",
+      "context": [
+        "Add and Subtract Polynomials"
+      ],
+      "text": "Simplify: \\(({p}^{3}-{p}^{2}q)+(p{q}^{2}+{q}^{3})-({p}^{2}q+p{q}^{2}).\\)",
+      "math": [
+        "({p}^{3}-{p}^{2}q)+(p{q}^{2}+{q}^{3})-({p}^{2}q+p{q}^{2})."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><msup><mi>p</mi><mn>3</mn></msup><mo>−</mo><msup><mi>p</mi><mn>2</mn></msup><mi>q</mi></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mi>p</mi><msup><mi>q</mi><mn>2</mn></msup><mo>+</mo><msup><mi>q</mi><mn>3</mn></msup></mrow><mo>)</mo></mrow><mo>−</mo><mrow><mo>(</mo><mrow><msup><mi>p</mi><mn>2</mn></msup><mi>q</mi><mo>+</mo><mi>p</mi><msup><mi>q</mi><mn>2</mn></msup></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><msup><mi>p</mi><mn>3</mn></msup><mo>−</mo><msup><mi>p</mi><mn>2</mn></msup><mi>q</mi></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mi>p</mi><msup><mi>q</mi><mn>2</mn></msup><mo>+</mo><msup><mi>q</mi><mn>3</mn></msup></mrow><mo>)</mo></mrow><mo>−</mo><mrow><mo>(</mo><mrow><msup><mi>p</mi><mn>2</mn></msup><mi>q</mi><mo>+</mo><mi>p</mi><msup><mi>q</mi><mn>2</mn></msup></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.17",
+      "page": "5-1-add-and-subtract-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167836532484",
+      "context": [
+        "Evaluate a Polynomial Function for a Given Value"
+      ],
+      "text": "For the function \\(f(x)=3{x}^{2}+2x-15,\\) find ⓐ \\(f(3)\\) ⓑ \\(f(-5)\\) ⓒ \\(f(0).\\)",
+      "math": [
+        "f(x)=3{x}^{2}+2x-15,",
+        "f(3)",
+        "f(-5)",
+        "f(0)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>15</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>15</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mrow><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mrow><mn>−5</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.18",
+      "page": "5-1-add-and-subtract-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167836377474",
+      "context": [
+        "Evaluate a Polynomial Function for a Given Value"
+      ],
+      "text": "For the function \\(g(x)=5{x}^{2}-x-4,\\) find ⓐ \\(g(-2)\\) ⓑ \\(g(-1)\\) ⓒ \\(g(0).\\)",
+      "math": [
+        "g(x)=5{x}^{2}-x-4,",
+        "g(-2)",
+        "g(-1)",
+        "g(0)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>5</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mi>x</mi><mo>−</mo><mn>4</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>5</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mi>x</mi><mo>−</mo><mn>4</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mrow><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mrow><mn>−2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mrow><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mrow><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.19",
+      "page": "5-1-add-and-subtract-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167836606842",
+      "context": [
+        "Evaluate a Polynomial Function for a Given Value"
+      ],
+      "text": "The polynomial function \\(h(t)=-16{t}^{2}+150\\) gives the height of a stone t seconds after it is dropped from a 150-foot tall cliff. Find the height after \\(t=0\\) seconds (the initial height of the object).",
+      "math": [
+        "h(t)=-16{t}^{2}+150",
+        "t=0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mn>−16</mn><msup><mi>t</mi><mn>2</mn></msup><mo>+</mo><mn>150</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mn>−16</mn><msup><mi>t</mi><mn>2</mn></msup><mo>+</mo><mn>150</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>t</mi><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>t</mi><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.20",
+      "page": "5-1-add-and-subtract-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167833082432",
+      "context": [
+        "Evaluate a Polynomial Function for a Given Value"
+      ],
+      "text": "The polynomial function \\(h(t)=-16{t}^{2}+175\\) gives the height of a ball t seconds after it is dropped from a 175-foot tall bridge. Find the height after \\(t=3\\) seconds.",
+      "math": [
+        "h(t)=-16{t}^{2}+175",
+        "t=3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mn>−16</mn><msup><mi>t</mi><mn>2</mn></msup><mo>+</mo><mn>175</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mn>−16</mn><msup><mi>t</mi><mn>2</mn></msup><mo>+</mo><mn>175</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>t</mi><mo>=</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>t</mi><mo>=</mo><mn>3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.21",
+      "page": "5-1-add-and-subtract-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167824734629",
+      "context": [
+        "Add and Subtract Polynomial Functions"
+      ],
+      "text": "For functions \\(f(x)=2{x}^{2}-4x+3\\) and \\(g(x)={x}^{2}-2x-6,\\) find: ⓐ \\((f+g)(x)\\) ⓑ \\((f+g)(3)\\) ⓒ \\((f-g)(x)\\) ⓓ \\((f-g)(-2).\\)",
+      "math": [
+        "f(x)=2{x}^{2}-4x+3",
+        "g(x)={x}^{2}-2x-6,",
+        "(f+g)(x)",
+        "(f+g)(3)",
+        "(f-g)(x)",
+        "(f-g)(-2)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>6</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>6</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mi>f</mi><mo>+</mo><mi>g</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mi>f</mi><mo>+</mo><mi>g</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mi>f</mi><mo>+</mo><mi>g</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mi>f</mi><mo>+</mo><mi>g</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mi>f</mi><mo>−</mo><mi>g</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mi>f</mi><mo>−</mo><mi>g</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mi>f</mi><mo>−</mo><mi>g</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>−2</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mi>f</mi><mo>−</mo><mi>g</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>−2</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "5.22",
+      "page": "5-1-add-and-subtract-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167830076287",
+      "context": [
+        "Add and Subtract Polynomial Functions"
+      ],
+      "text": "For functions \\(f(x)=5{x}^{2}-4x-1\\) and \\(g(x)={x}^{2}+3x+8,\\) find ⓐ \\((f+g)(x)\\) ⓑ \\((f+g)(3)\\) ⓒ \\((f-g)(x)\\) ⓓ \\((f-g)(-2).\\)",
+      "math": [
+        "f(x)=5{x}^{2}-4x-1",
+        "g(x)={x}^{2}+3x+8,",
+        "(f+g)(x)",
+        "(f+g)(3)",
+        "(f-g)(x)",
+        "(f-g)(-2)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>5</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>5</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>8</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>8</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mi>f</mi><mo>+</mo><mi>g</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mi>f</mi><mo>+</mo><mi>g</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mi>f</mi><mo>+</mo><mi>g</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mi>f</mi><mo>+</mo><mi>g</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mi>f</mi><mo>−</mo><mi>g</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mi>f</mi><mo>−</mo><mi>g</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mi>f</mi><mo>−</mo><mi>g</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>−2</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mi>f</mi><mo>−</mo><mi>g</mi></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>−2</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

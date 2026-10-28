@@ -1,0 +1,1504 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/8-6-solve-radical-equations",
+  "title": "8.6 Solve Radical Equations",
+  "sha256": "df34dd83fb8b5b83e6f78c34abe60d587140ea3092c993bc8200eed7c3208fe5",
+  "questions": [
+    {
+      "number": 287,
+      "anchor": "fs-id1169144767986",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\sqrt{ 5 x - 6 } = 8\\)",
+      "math": [
+        "\\sqrt{ 5 x - 6 } = 8"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n          </msqrt>\n          <mo>=</mo>\n          <mn>8</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n          </msqrt>\n          <mo>=</mo>\n          <mn>8</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 288,
+      "anchor": "fs-id1169149030412",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\sqrt{ 4 x - 3 } = 7\\)",
+      "math": [
+        "\\sqrt{ 4 x - 3 } = 7"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n          </msqrt>\n          <mo>=</mo>\n          <mn>7</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n          </msqrt>\n          <mo>=</mo>\n          <mn>7</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 289,
+      "anchor": "fs-id1169144544993",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\sqrt{5x+1}=-3\\)",
+      "math": [
+        "\\sqrt{5x+1}=-3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>5</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></msqrt><mo>=</mo><mn>−3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>5</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></msqrt><mo>=</mo><mn>−3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 290,
+      "anchor": "fs-id1169144421298",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\sqrt{ 3 y - 4 } = -2\\)",
+      "math": [
+        "\\sqrt{ 3 y - 4 } = -2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>3</mn>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n          </msqrt>\n          <mo>=</mo>\n          <mn>−2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>3</mn>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n          </msqrt>\n          <mo>=</mo>\n          <mn>−2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 291,
+      "anchor": "fs-id1169148884439",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(2 x 3 = -2\\)",
+      "math": [
+        "\\sqrt[3]{ 2 x } = -2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mroot>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n          <mo>=</mo>\n          <mn>−2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mroot>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n          <mo>=</mo>\n          <mn>−2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 292,
+      "anchor": "fs-id1169149086617",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(4 x - 1 3 = 3\\)",
+      "math": [
+        "\\sqrt[3]{ 4 x - 1 } = 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mroot>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mroot>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 293,
+      "anchor": "fs-id1169149220779",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\sqrt{ 2 m - 3 } - 5 = 0\\)",
+      "math": [
+        "\\sqrt{ 2 m - 3 } - 5 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>2</mn>\n              <mi>m</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>2</mn>\n              <mi>m</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 294,
+      "anchor": "fs-id1169144516801",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\sqrt{ 2 n - 1 } - 3 = 0\\)",
+      "math": [
+        "\\sqrt{ 2 n - 1 } - 3 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>2</mn>\n              <mi>n</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>2</mn>\n              <mi>n</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 295,
+      "anchor": "fs-id1169149039277",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\sqrt{ 6 v - 2 } - 10 = 0\\)",
+      "math": [
+        "\\sqrt{ 6 v - 2 } - 10 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>6</mn>\n              <mi>v</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <mn>10</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>6</mn>\n              <mi>v</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <mn>10</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 296,
+      "anchor": "fs-id1169149102979",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\sqrt{ 12 u + 1 } - 11 = 0\\)",
+      "math": [
+        "\\sqrt{ 12 u + 1 } - 11 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>12</mn>\n              <mi>u</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <mn>11</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>12</mn>\n              <mi>u</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <mn>11</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 297,
+      "anchor": "fs-id1169148995897",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\sqrt{ 4 m + 2 } + 2 = 6\\)",
+      "math": [
+        "\\sqrt{ 4 m + 2 } + 2 = 6"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>4</mn>\n              <mi>m</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n          </msqrt>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mn>6</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>4</mn>\n              <mi>m</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n          </msqrt>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mn>6</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 298,
+      "anchor": "fs-id1169149108832",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\sqrt{ 6 n + 1 } + 4 = 8\\)",
+      "math": [
+        "\\sqrt{ 6 n + 1 } + 4 = 8"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>6</mn>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mo>=</mo>\n          <mn>8</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>6</mn>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mo>=</mo>\n          <mn>8</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 299,
+      "anchor": "fs-id1169149037013",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\sqrt{ 2 u - 3 } + 2 = 0\\)",
+      "math": [
+        "\\sqrt{ 2 u - 3 } + 2 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>2</mn>\n              <mi>u</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n          </msqrt>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>2</mn>\n              <mi>u</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n          </msqrt>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 300,
+      "anchor": "fs-id1169149319612",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\sqrt{ 5 v - 2 } + 5 = 0\\)",
+      "math": [
+        "\\sqrt{ 5 v - 2 } + 5 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>5</mn>\n              <mi>v</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </msqrt>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>5</mn>\n              <mi>v</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </msqrt>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 301,
+      "anchor": "fs-id1169140166746",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\sqrt{ u - 3 } + 3 = u\\)",
+      "math": [
+        "\\sqrt{ u - 3 } + 3 = u"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mi>u</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n          </msqrt>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mi>u</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mi>u</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n          </msqrt>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mi>u</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 302,
+      "anchor": "fs-id1169148951939",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\sqrt{ v - 10 } + 10 = v\\)",
+      "math": [
+        "\\sqrt{ v - 10 } + 10 = v"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mi>v</mi>\n              <mo>−</mo>\n              <mn>10</mn>\n            </mrow>\n          </msqrt>\n          <mo>+</mo>\n          <mn>10</mn>\n          <mo>=</mo>\n          <mi>v</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mi>v</mi>\n              <mo>−</mo>\n              <mn>10</mn>\n            </mrow>\n          </msqrt>\n          <mo>+</mo>\n          <mn>10</mn>\n          <mo>=</mo>\n          <mi>v</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 303,
+      "anchor": "fs-id1169146609259",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\sqrt{ r - 1 } = r - 1\\)",
+      "math": [
+        "\\sqrt{ r - 1 } = r - 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mi>r</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n          <mo>=</mo>\n          <mi>r</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mi>r</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n          <mo>=</mo>\n          <mi>r</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 304,
+      "anchor": "fs-id1169140091631",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\sqrt{ s - 8 } = s - 8\\)",
+      "math": [
+        "\\sqrt{ s - 8 } = s - 8"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mi>s</mi>\n              <mo>−</mo>\n              <mn>8</mn>\n            </mrow>\n          </msqrt>\n          <mo>=</mo>\n          <mi>s</mi>\n          <mo>−</mo>\n          <mn>8</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mi>s</mi>\n              <mo>−</mo>\n              <mn>8</mn>\n            </mrow>\n          </msqrt>\n          <mo>=</mo>\n          <mi>s</mi>\n          <mo>−</mo>\n          <mn>8</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 305,
+      "anchor": "fs-id1169144744651",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(6 x + 4 3 = 4\\)",
+      "math": [
+        "\\sqrt[3]{ 6 x + 4 } = 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mroot>\n            <mrow>\n              <mn>6</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n          <mo>=</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mroot>\n            <mrow>\n              <mn>6</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n          <mo>=</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 306,
+      "anchor": "fs-id1169149351498",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(11 x + 4 3 = 5\\)",
+      "math": [
+        "\\sqrt[3]{ 11 x + 4 } = 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mroot>\n            <mrow>\n              <mn>11</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n          <mo>=</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mroot>\n            <mrow>\n              <mn>11</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n          <mo>=</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 307,
+      "anchor": "fs-id1169148871204",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(4 x + 5 3 - 2 = -5\\)",
+      "math": [
+        "\\sqrt[3]{ 4 x + 5 } - 2 = -5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mroot>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mn>−5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mroot>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mn>−5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 308,
+      "anchor": "fs-id1169144375789",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(9 x - 1 3 - 1 = -5\\)",
+      "math": [
+        "\\sqrt[3]{ 9 x - 1 } - 1 = -5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mroot>\n            <mrow>\n              <mn>9</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n          <mo>−</mo>\n          <mn>1</mn>\n          <mo>=</mo>\n          <mn>−5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mroot>\n            <mrow>\n              <mn>9</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n          <mo>−</mo>\n          <mn>1</mn>\n          <mo>=</mo>\n          <mn>−5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 309,
+      "anchor": "fs-id1169144453078",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\({ ( 6 x + 1 ) }^{ \\frac{1}{2} } - 3 = 4\\)",
+      "math": [
+        "{ ( 6 x + 1 ) }^{ \\frac{1}{2} } - 3 = 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>6</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>2</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>6</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>2</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 310,
+      "anchor": "fs-id1169144744499",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\({ ( 3 x - 2 ) }^{ \\frac{1}{2} } + 1 = 6\\)",
+      "math": [
+        "{ ( 3 x - 2 ) }^{ \\frac{1}{2} } + 1 = 6"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>2</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>+</mo>\n          <mn>1</mn>\n          <mo>=</mo>\n          <mn>6</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>2</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>+</mo>\n          <mn>1</mn>\n          <mo>=</mo>\n          <mn>6</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 311,
+      "anchor": "fs-id1169144452942",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\({ ( 8 x + 5 ) }^{ \\frac{1}{3} } + 2 = -1\\)",
+      "math": [
+        "{ ( 8 x + 5 ) }^{ \\frac{1}{3} } + 2 = -1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>8</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mn>−1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>8</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mn>−1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 312,
+      "anchor": "fs-id1169146732087",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\({ ( 12 x - 5 ) }^{ \\frac{1}{3} } + 8 = 3\\)",
+      "math": [
+        "{ ( 12 x - 5 ) }^{ \\frac{1}{3} } + 8 = 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>12</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>12</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 313,
+      "anchor": "fs-id1169149102331",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\({ ( 12 x - 3 ) }^{ \\frac{1}{4} } - 5 = -2\\)",
+      "math": [
+        "{ ( 12 x - 3 ) }^{ \\frac{1}{4} } - 5 = -2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>12</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>4</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mo>=</mo>\n          <mn>−2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>12</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>4</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mo>=</mo>\n          <mn>−2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 314,
+      "anchor": "fs-id1169147082537",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\({ ( 5 x - 4 ) }^{ \\frac{1}{4} } + 7 = 9\\)",
+      "math": [
+        "{ ( 5 x - 4 ) }^{ \\frac{1}{4} } + 7 = 9"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>5</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>4</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mo>=</mo>\n          <mn>9</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>5</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>4</mn>\n              </mfrac>\n            </mrow>\n          </msup>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mo>=</mo>\n          <mn>9</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 315,
+      "anchor": "fs-id1169147082594",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\sqrt{ x + 1 } - x + 1 = 0\\)",
+      "math": [
+        "\\sqrt{ x + 1 } - x + 1 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 316,
+      "anchor": "fs-id1169144604734",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\sqrt{ y + 4 } - y + 2 = 0\\)",
+      "math": [
+        "\\sqrt{ y + 4 } - y + 2 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 317,
+      "anchor": "fs-id1169144376883",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\sqrt{ z + 100 } - z = -10\\)",
+      "math": [
+        "\\sqrt{ z + 100 } - z = -10"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mi>z</mi>\n              <mo>+</mo>\n              <mn>100</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <mi>z</mi>\n          <mo>=</mo>\n          <mn>−10</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mi>z</mi>\n              <mo>+</mo>\n              <mn>100</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <mi>z</mi>\n          <mo>=</mo>\n          <mn>−10</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 318,
+      "anchor": "fs-id1169144376925",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\sqrt{ w + 25 } - w = -5\\)",
+      "math": [
+        "\\sqrt{ w + 25 } - w = -5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mi>w</mi>\n              <mo>+</mo>\n              <mn>25</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <mi>w</mi>\n          <mo>=</mo>\n          <mn>−5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mi>w</mi>\n              <mo>+</mo>\n              <mn>25</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <mi>w</mi>\n          <mo>=</mo>\n          <mn>−5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 319,
+      "anchor": "fs-id1169144376966",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(3 \\sqrt{ 2 x - 3 } - 20 = 7\\)",
+      "math": [
+        "3 \\sqrt{ 2 x - 3 } - 20 = 7"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <msqrt>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <mn>20</mn>\n          <mo>=</mo>\n          <mn>7</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <msqrt>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <mn>20</mn>\n          <mo>=</mo>\n          <mn>7</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 320,
+      "anchor": "fs-id1169149355586",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(2 \\sqrt{ 5 x + 1 } - 8 = 0\\)",
+      "math": [
+        "2 \\sqrt{ 5 x + 1 } - 8 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <msqrt>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <mn>8</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <msqrt>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <mn>8</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 321,
+      "anchor": "fs-id1169149355632",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(2 \\sqrt{ 8 r + 1 } - 8 = 2\\)",
+      "math": [
+        "2 \\sqrt{ 8 r + 1 } - 8 = 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <msqrt>\n            <mrow>\n              <mn>8</mn>\n              <mi>r</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <mn>8</mn>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <msqrt>\n            <mrow>\n              <mn>8</mn>\n              <mi>r</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <mn>8</mn>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 322,
+      "anchor": "fs-id1169149221193",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(3 \\sqrt{ 7 y + 1 } - 10 = 8\\)",
+      "math": [
+        "3 \\sqrt{ 7 y + 1 } - 10 = 8"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <msqrt>\n            <mrow>\n              <mn>7</mn>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <mn>10</mn>\n          <mo>=</mo>\n          <mn>8</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <msqrt>\n            <mrow>\n              <mn>7</mn>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <mn>10</mn>\n          <mo>=</mo>\n          <mn>8</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 323,
+      "anchor": "fs-id1169149221249",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations with Two Radicals",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\sqrt{ 3 u + 7 } = \\sqrt{ 5 u + 1 }\\)",
+      "math": [
+        "\\sqrt{ 3 u + 7 } = \\sqrt{ 5 u + 1 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>3</mn>\n              <mi>u</mi>\n              <mo>+</mo>\n              <mn>7</mn>\n            </mrow>\n          </msqrt>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mn>5</mn>\n              <mi>u</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>3</mn>\n              <mi>u</mi>\n              <mo>+</mo>\n              <mn>7</mn>\n            </mrow>\n          </msqrt>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mn>5</mn>\n              <mi>u</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 324,
+      "anchor": "fs-id1169139890430",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations with Two Radicals",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\sqrt{ 4 v + 1 } = \\sqrt{ 3 v + 3 }\\)",
+      "math": [
+        "\\sqrt{ 4 v + 1 } = \\sqrt{ 3 v + 3 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>4</mn>\n              <mi>v</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mn>3</mn>\n              <mi>v</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>4</mn>\n              <mi>v</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mn>3</mn>\n              <mi>v</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 325,
+      "anchor": "fs-id1169139890478",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations with Two Radicals",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\sqrt{ 8 + 2 r } = \\sqrt{ 3 r + 10 }\\)",
+      "math": [
+        "\\sqrt{ 8 + 2 r } = \\sqrt{ 3 r + 10 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>8</mn>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>r</mi>\n            </mrow>\n          </msqrt>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mn>3</mn>\n              <mi>r</mi>\n              <mo>+</mo>\n              <mn>10</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>8</mn>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>r</mi>\n            </mrow>\n          </msqrt>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mn>3</mn>\n              <mi>r</mi>\n              <mo>+</mo>\n              <mn>10</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 326,
+      "anchor": "fs-id1169146651576",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations with Two Radicals",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\sqrt{ 10 + 2 c } = \\sqrt{ 4 c + 16 }\\)",
+      "math": [
+        "\\sqrt{ 10 + 2 c } = \\sqrt{ 4 c + 16 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>10</mn>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>c</mi>\n            </mrow>\n          </msqrt>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mn>4</mn>\n              <mi>c</mi>\n              <mo>+</mo>\n              <mn>16</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>10</mn>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mi>c</mi>\n            </mrow>\n          </msqrt>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mn>4</mn>\n              <mi>c</mi>\n              <mo>+</mo>\n              <mn>16</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 327,
+      "anchor": "fs-id1169146651624",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations with Two Radicals",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(5 x - 1 3 = x + 3 3\\)",
+      "math": [
+        "\\sqrt[3]{ 5 x - 1 } = \\sqrt[3]{ x + 3 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mroot>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mn>3</mn>\n          </mroot>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mn>3</mn>\n          </mroot>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mroot>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mn>3</mn>\n          </mroot>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mn>3</mn>\n          </mroot>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 328,
+      "anchor": "fs-id1169144684269",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations with Two Radicals",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(8 x - 5 3 = 3 x + 5 3\\)",
+      "math": [
+        "\\sqrt[3]{ 8 x - 5 } = \\sqrt[3]{ 3 x + 5 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mroot>\n            <mrow>\n              <mn>8</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mn>3</mn>\n          </mroot>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n            <mn>3</mn>\n          </mroot>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mroot>\n            <mrow>\n              <mn>8</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mn>3</mn>\n          </mroot>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n            <mn>3</mn>\n          </mroot>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 329,
+      "anchor": "fs-id1169144684321",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations with Two Radicals",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(2 {x}^{2} + 9 x - 18 3 = {x}^{2} + 3 x - 2 3\\)",
+      "math": [
+        "\\sqrt[3]{ 2 {x}^{2} + 9 x - 18 } = \\sqrt[3]{ {x}^{2} + 3 x - 2 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mroot>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>9</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>18</mn>\n            </mrow>\n            <mn>3</mn>\n          </mroot>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mn>3</mn>\n          </mroot>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mroot>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>9</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>18</mn>\n            </mrow>\n            <mn>3</mn>\n          </mroot>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mn>3</mn>\n          </mroot>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 330,
+      "anchor": "fs-id1169149172984",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations with Two Radicals",
+        "In the following exercises, solve."
+      ],
+      "text": "\\({x}^{2} - x + 18 3 = 2 {x}^{2} - 3 x - 6 3\\)",
+      "math": [
+        "\\sqrt[3]{ {x}^{2} - x + 18 } = \\sqrt[3]{ 2 {x}^{2} - 3 x - 6 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mroot>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>18</mn>\n            </mrow>\n            <mn>3</mn>\n          </mroot>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n            <mn>3</mn>\n          </mroot>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mroot>\n            <mrow>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>18</mn>\n            </mrow>\n            <mn>3</mn>\n          </mroot>\n          <mo>=</mo>\n          <mroot>\n            <mrow>\n              <mn>2</mn>\n              <msup>\n                <mi>x</mi>\n                <mn>2</mn>\n              </msup>\n              <mo>−</mo>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n            <mn>3</mn>\n          </mroot>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 331,
+      "anchor": "fs-id1169149173059",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations with Two Radicals",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\sqrt{a} + 2 = \\sqrt{ a + 4 }\\)",
+      "math": [
+        "\\sqrt{a} + 2 = \\sqrt{ a + 4 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mi>a</mi>\n          </msqrt>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mi>a</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mi>a</mi>\n          </msqrt>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mi>a</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 332,
+      "anchor": "fs-id1169149359749",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations with Two Radicals",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\sqrt{r} + 6 = \\sqrt{ r + 8 }\\)",
+      "math": [
+        "\\sqrt{r} + 6 = \\sqrt{ r + 8 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mi>r</mi>\n          </msqrt>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mi>r</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mi>r</mi>\n          </msqrt>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mi>r</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 333,
+      "anchor": "fs-id1169149359784",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations with Two Radicals",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\sqrt{u} + 1 = \\sqrt{ u + 4 }\\)",
+      "math": [
+        "\\sqrt{u} + 1 = \\sqrt{ u + 4 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mi>u</mi>\n          </msqrt>\n          <mo>+</mo>\n          <mn>1</mn>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mi>u</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mi>u</mi>\n          </msqrt>\n          <mo>+</mo>\n          <mn>1</mn>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mi>u</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 334,
+      "anchor": "fs-id1169144557874",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations with Two Radicals",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\sqrt{x} + 1 = \\sqrt{ x + 2 }\\)",
+      "math": [
+        "\\sqrt{x} + 1 = \\sqrt{ x + 2 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mi>x</mi>\n          </msqrt>\n          <mo>+</mo>\n          <mn>1</mn>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mi>x</mi>\n          </msqrt>\n          <mo>+</mo>\n          <mn>1</mn>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 335,
+      "anchor": "fs-id1169144557920",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations with Two Radicals",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\sqrt{ a + 5 } - \\sqrt{a} = 1\\)",
+      "math": [
+        "\\sqrt{ a + 5 } - \\sqrt{a} = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mi>a</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <msqrt>\n            <mi>a</mi>\n          </msqrt>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mi>a</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <msqrt>\n            <mi>a</mi>\n          </msqrt>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 336,
+      "anchor": "fs-id1169144557963",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations with Two Radicals",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(-2 = \\sqrt{ d - 20 } - \\sqrt{d}\\)",
+      "math": [
+        "-2 = \\sqrt{ d - 20 } - \\sqrt{d}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−2</mn>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mi>d</mi>\n              <mo>−</mo>\n              <mn>20</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <msqrt>\n            <mi>d</mi>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−2</mn>\n          <mo>=</mo>\n          <msqrt>\n            <mrow>\n              <mi>d</mi>\n              <mo>−</mo>\n              <mn>20</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <msqrt>\n            <mi>d</mi>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 337,
+      "anchor": "fs-id1169144744956",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations with Two Radicals",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\sqrt{ 2 x + 1 } = 1 + \\sqrt{x}\\)",
+      "math": [
+        "\\sqrt{ 2 x + 1 } = 1 + \\sqrt{x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n          <mo>=</mo>\n          <mn>1</mn>\n          <mo>+</mo>\n          <msqrt>\n            <mi>x</mi>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n          <mo>=</mo>\n          <mn>1</mn>\n          <mo>+</mo>\n          <msqrt>\n            <mi>x</mi>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 338,
+      "anchor": "fs-id1169144745009",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations with Two Radicals",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\sqrt{ 3 x + 1 } = 1 + \\sqrt{ 2 x - 1 }\\)",
+      "math": [
+        "\\sqrt{ 3 x + 1 } = 1 + \\sqrt{ 2 x - 1 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n          <mo>=</mo>\n          <mn>1</mn>\n          <mo>+</mo>\n          <msqrt>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n          <mo>=</mo>\n          <mn>1</mn>\n          <mo>+</mo>\n          <msqrt>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 339,
+      "anchor": "fs-id1169149327613",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations with Two Radicals",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\sqrt{ 2 x - 1 } - \\sqrt{ x - 1 } = 1\\)",
+      "math": [
+        "\\sqrt{ 2 x - 1 } - \\sqrt{ x - 1 } = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <msqrt>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <msqrt>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 340,
+      "anchor": "fs-id1169149327671",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations with Two Radicals",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\sqrt{ x + 1 } - \\sqrt{ x - 2 } = 1\\)",
+      "math": [
+        "\\sqrt{ x + 1 } - \\sqrt{ x - 2 } = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <msqrt>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </msqrt>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <msqrt>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n          </msqrt>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 341,
+      "anchor": "fs-id1169149335518",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations with Two Radicals",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\sqrt{ x + 7 } - \\sqrt{ x - 5 } = 2\\)",
+      "math": [
+        "\\sqrt{ x + 7 } - \\sqrt{ x - 5 } = 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>7</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <msqrt>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n          </msqrt>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>7</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <msqrt>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n          </msqrt>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 342,
+      "anchor": "fs-id1169149335566",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Solve Radical Equations with Two Radicals",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(\\sqrt{ x + 5 } - \\sqrt{ x - 3 } = 2\\)",
+      "math": [
+        "\\sqrt{ x + 5 } - \\sqrt{ x - 3 } = 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <msqrt>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n          </msqrt>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <msqrt>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n          </msqrt>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 343,
+      "anchor": "fs-id1169140418478",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Use Radicals in Applications",
+        "In the following exercises, solve. Round approximations to one decimal place."
+      ],
+      "text": "Landscaping Reed wants to have a square garden plot in his backyard. He has enough compost to cover an area of 75 square feet. Use the formula \\(s=\\sqrt{A}\\) to find the length of each side of his garden. Round your answer to the nearest tenth of a foot.",
+      "math": [
+        "s=\\sqrt{A}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>s</mi><mo>=</mo><msqrt><mi>A</mi></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>s</mi><mo>=</mo><msqrt><mi>A</mi></msqrt></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 344,
+      "anchor": "fs-id1169140418514",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Use Radicals in Applications",
+        "In the following exercises, solve. Round approximations to one decimal place."
+      ],
+      "text": "Landscaping Vince wants to make a square patio in his yard. He has enough concrete to pave an area of 130 square feet. Use the formula \\(s=\\sqrt{A}\\) to find the length of each side of his patio. Round your answer to the nearest tenth of a foot.",
+      "math": [
+        "s=\\sqrt{A}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>s</mi><mo>=</mo><msqrt><mi>A</mi></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>s</mi><mo>=</mo><msqrt><mi>A</mi></msqrt></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 345,
+      "anchor": "fs-id1169140418549",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Use Radicals in Applications",
+        "In the following exercises, solve. Round approximations to one decimal place."
+      ],
+      "text": "Gravity A hang glider dropped his cell phone from a height of 350 feet. Use the formula \\(t=\\frac{\\sqrt{h}}{4}\\) to find how many seconds it took for the cell phone to reach the ground.",
+      "math": [
+        "t=\\frac{\\sqrt{h}}{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>t</mi><mo>=</mo><mfrac><mrow><msqrt><mi>h</mi></msqrt></mrow><mn>4</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>t</mi><mo>=</mo><mfrac><mrow><msqrt><mi>h</mi></msqrt></mrow><mn>4</mn></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 346,
+      "anchor": "fs-id1169149235366",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Use Radicals in Applications",
+        "In the following exercises, solve. Round approximations to one decimal place."
+      ],
+      "text": "Gravity A construction worker dropped a hammer while building the Grand Canyon skywalk, 4000 feet above the Colorado River. Use the formula \\(t=\\frac{\\sqrt{h}}{4}\\) to find how many seconds it took for the hammer to reach the river.",
+      "math": [
+        "t=\\frac{\\sqrt{h}}{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>t</mi><mo>=</mo><mfrac><mrow><msqrt><mi>h</mi></msqrt></mrow><mn>4</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>t</mi><mo>=</mo><mfrac><mrow><msqrt><mi>h</mi></msqrt></mrow><mn>4</mn></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 347,
+      "anchor": "fs-id1169149235406",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Use Radicals in Applications",
+        "In the following exercises, solve. Round approximations to one decimal place."
+      ],
+      "text": "Accident investigation The skid marks for a car involved in an accident measured 216 feet. Use the formula \\(s=\\sqrt{24d}\\) to find the speed of the car before the brakes were applied. Round your answer to the nearest tenth.",
+      "math": [
+        "s=\\sqrt{24d}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>s</mi><mo>=</mo><msqrt><mrow><mn>24</mn><mi>d</mi></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>s</mi><mo>=</mo><msqrt><mrow><mn>24</mn><mi>d</mi></mrow></msqrt></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 348,
+      "anchor": "fs-id1169149235439",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Use Radicals in Applications",
+        "In the following exercises, solve. Round approximations to one decimal place."
+      ],
+      "text": "Accident investigation An accident investigator measured the skid marks of one of the vehicles involved in an accident. The length of the skid marks was 175 feet. Use the formula \\(s=\\sqrt{24d}\\) to find the speed of the vehicle before the brakes were applied. Round your answer to the nearest tenth.",
+      "math": [
+        "s=\\sqrt{24d}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>s</mi><mo>=</mo><msqrt><mrow><mn>24</mn><mi>d</mi></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>s</mi><mo>=</mo><msqrt><mrow><mn>24</mn><mi>d</mi></mrow></msqrt></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 349,
+      "anchor": "fs-id1169149335196",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain why an equation of the form \\(\\sqrt{x}+1=0\\) has no solution.",
+      "math": [
+        "\\sqrt{x}+1=0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mi>x</mi></msqrt><mo>+</mo><mn>1</mn><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mi>x</mi></msqrt><mo>+</mo><mn>1</mn><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 350,
+      "anchor": "fs-id1169149335226",
+      "page": "8-6-solve-radical-equations",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "ⓐ Solve the equation \\(\\sqrt{r+4}-r+2=0.\\) ⓑ Explain why one of the “solutions” that was found was not actually a solution to the equation.",
+      "math": [
+        "\\sqrt{r+4}-r+2=0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mi>r</mi><mo>+</mo><mn>4</mn></mrow></msqrt><mo>−</mo><mi>r</mi><mo>+</mo><mn>2</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mi>r</mi><mo>+</mo><mn>4</mn></mrow></msqrt><mo>−</mo><mi>r</mi><mo>+</mo><mn>2</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "8.111",
+      "page": "8-6-solve-radical-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1169147133968",
+      "context": [
+        "Solve Radical Equations"
+      ],
+      "text": "Solve: \\(\\sqrt{3m+2}-5=0.\\)",
+      "math": [
+        "\\sqrt{3m+2}-5=0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>3</mn><mi>m</mi><mo>+</mo><mn>2</mn></mrow></msqrt><mo>−</mo><mn>5</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>3</mn><mi>m</mi><mo>+</mo><mn>2</mn></mrow></msqrt><mo>−</mo><mn>5</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.112",
+      "page": "8-6-solve-radical-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1169149144348",
+      "context": [
+        "Solve Radical Equations"
+      ],
+      "text": "Solve: \\(\\sqrt{10z+1}-2=0.\\)",
+      "math": [
+        "\\sqrt{10z+1}-2=0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>10</mn><mi>z</mi><mo>+</mo><mn>1</mn></mrow></msqrt><mo>−</mo><mn>2</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>10</mn><mi>z</mi><mo>+</mo><mn>1</mn></mrow></msqrt><mo>−</mo><mn>2</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.113",
+      "page": "8-6-solve-radical-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1169146799266",
+      "context": [
+        "Solve Radical Equations"
+      ],
+      "text": "Solve: \\(\\sqrt{2r-3}+5=0.\\)",
+      "math": [
+        "\\sqrt{2r-3}+5=0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>2</mn><mi>r</mi><mo>−</mo><mn>3</mn></mrow></msqrt><mo>+</mo><mn>5</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>2</mn><mi>r</mi><mo>−</mo><mn>3</mn></mrow></msqrt><mo>+</mo><mn>5</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.114",
+      "page": "8-6-solve-radical-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1169146666654",
+      "context": [
+        "Solve Radical Equations"
+      ],
+      "text": "Solve: \\(\\sqrt{7s-3}+2=0.\\)",
+      "math": [
+        "\\sqrt{7s-3}+2=0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>7</mn><mi>s</mi><mo>−</mo><mn>3</mn></mrow></msqrt><mo>+</mo><mn>2</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>7</mn><mi>s</mi><mo>−</mo><mn>3</mn></mrow></msqrt><mo>+</mo><mn>2</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.115",
+      "page": "8-6-solve-radical-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1169148863029",
+      "context": [
+        "Solve Radical Equations"
+      ],
+      "text": "Solve: \\(\\sqrt{x-2}+2=x.\\)",
+      "math": [
+        "\\sqrt{x-2}+2=x."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow></msqrt><mo>+</mo><mn>2</mn><mo>=</mo><mi>x</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow></msqrt><mo>+</mo><mn>2</mn><mo>=</mo><mi>x</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.116",
+      "page": "8-6-solve-radical-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1169148932918",
+      "context": [
+        "Solve Radical Equations"
+      ],
+      "text": "Solve: \\(\\sqrt{y-5}+5=y.\\)",
+      "math": [
+        "\\sqrt{y-5}+5=y."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mi>y</mi><mo>−</mo><mn>5</mn></mrow></msqrt><mo>+</mo><mn>5</mn><mo>=</mo><mi>y</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mi>y</mi><mo>−</mo><mn>5</mn></mrow></msqrt><mo>+</mo><mn>5</mn><mo>=</mo><mi>y</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.117",
+      "page": "8-6-solve-radical-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1169149215173",
+      "context": [
+        "Solve Radical Equations"
+      ],
+      "text": "Solve: \\(4x-33+8=5\\)",
+      "math": [
+        "\\sqrt[3]{4x-3}+8=5"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><mn>4</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow><mrow><mn>3</mn></mrow></mroot><mo>+</mo><mn>8</mn><mo>=</mo><mn>5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><mn>4</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow><mrow><mn>3</mn></mrow></mroot><mo>+</mo><mn>8</mn><mo>=</mo><mn>5</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.118",
+      "page": "8-6-solve-radical-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1169149212463",
+      "context": [
+        "Solve Radical Equations"
+      ],
+      "text": "Solve: \\(6x-103+1=-3\\)",
+      "math": [
+        "\\sqrt[3]{6x-10}+1=-3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><mn>6</mn><mi>x</mi><mo>−</mo><mn>10</mn></mrow><mrow><mn>3</mn></mrow></mroot><mo>+</mo><mn>1</mn><mo>=</mo><mn>−3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><mn>6</mn><mi>x</mi><mo>−</mo><mn>10</mn></mrow><mrow><mn>3</mn></mrow></mroot><mo>+</mo><mn>1</mn><mo>=</mo><mn>−3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.119",
+      "page": "8-6-solve-radical-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1169149030038",
+      "context": [
+        "Solve Radical Equations"
+      ],
+      "text": "Solve: \\({(9x+9)}^{\\frac{1}{4}}-2=1.\\)",
+      "math": [
+        "{(9x+9)}^{\\frac{1}{4}}-2=1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>9</mn><mi>x</mi><mo>+</mo><mn>9</mn></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup><mo>−</mo><mn>2</mn><mo>=</mo><mn>1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>9</mn><mi>x</mi><mo>+</mo><mn>9</mn></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup><mo>−</mo><mn>2</mn><mo>=</mo><mn>1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.120",
+      "page": "8-6-solve-radical-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1169138877440",
+      "context": [
+        "Solve Radical Equations"
+      ],
+      "text": "Solve: \\({(4x-8)}^{\\frac{1}{4}}+5=7.\\)",
+      "math": [
+        "{(4x-8)}^{\\frac{1}{4}}+5=7."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mi>x</mi><mo>−</mo><mn>8</mn></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup><mo>+</mo><mn>5</mn><mo>=</mo><mn>7</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mi>x</mi><mo>−</mo><mn>8</mn></mrow><mo>)</mo></mrow></mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow></msup><mo>+</mo><mn>5</mn><mo>=</mo><mn>7</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.121",
+      "page": "8-6-solve-radical-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1169148858909",
+      "context": [
+        "Solve Radical Equations"
+      ],
+      "text": "Solve: \\(\\sqrt{m+9}-m+3=0.\\)",
+      "math": [
+        "\\sqrt{m+9}-m+3=0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mi>m</mi><mo>+</mo><mn>9</mn></mrow></msqrt><mo>−</mo><mi>m</mi><mo>+</mo><mn>3</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mi>m</mi><mo>+</mo><mn>9</mn></mrow></msqrt><mo>−</mo><mi>m</mi><mo>+</mo><mn>3</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.122",
+      "page": "8-6-solve-radical-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1169148994616",
+      "context": [
+        "Solve Radical Equations"
+      ],
+      "text": "Solve: \\(\\sqrt{n+1}-n+1=0.\\)",
+      "math": [
+        "\\sqrt{n+1}-n+1=0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msqrt><mo>−</mo><mi>n</mi><mo>+</mo><mn>1</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msqrt><mo>−</mo><mi>n</mi><mo>+</mo><mn>1</mn><mo>=</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.123",
+      "page": "8-6-solve-radical-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1169144615527",
+      "context": [
+        "Solve Radical Equations"
+      ],
+      "text": "Solve: \\(2\\sqrt{4a+4}-16=16.\\)",
+      "math": [
+        "2\\sqrt{4a+4}-16=16."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><msqrt><mrow><mn>4</mn><mi>a</mi><mo>+</mo><mn>4</mn></mrow></msqrt><mo>−</mo><mn>16</mn><mo>=</mo><mn>16</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><msqrt><mrow><mn>4</mn><mi>a</mi><mo>+</mo><mn>4</mn></mrow></msqrt><mo>−</mo><mn>16</mn><mo>=</mo><mn>16</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.124",
+      "page": "8-6-solve-radical-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1169149117576",
+      "context": [
+        "Solve Radical Equations"
+      ],
+      "text": "Solve: \\(3\\sqrt{2b+3}-25=50.\\)",
+      "math": [
+        "3\\sqrt{2b+3}-25=50."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><msqrt><mrow><mn>2</mn><mi>b</mi><mo>+</mo><mn>3</mn></mrow></msqrt><mo>−</mo><mn>25</mn><mo>=</mo><mn>50</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><msqrt><mrow><mn>2</mn><mi>b</mi><mo>+</mo><mn>3</mn></mrow></msqrt><mo>−</mo><mn>25</mn><mo>=</mo><mn>50</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.125",
+      "page": "8-6-solve-radical-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1169149220632",
+      "context": [
+        "Solve Radical Equations with Two Radicals"
+      ],
+      "text": "Solve: \\(5x-43=2x+53.\\)",
+      "math": [
+        "\\sqrt[3]{5x-4}=\\sqrt[3]{2x+5}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><mn>5</mn><mi>x</mi><mo>−</mo><mn>4</mn></mrow><mn>3</mn></mroot><mo>=</mo><mroot><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>5</mn></mrow><mn>3</mn></mroot><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><mn>5</mn><mi>x</mi><mo>−</mo><mn>4</mn></mrow><mn>3</mn></mroot><mo>=</mo><mroot><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>5</mn></mrow><mn>3</mn></mroot><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.126",
+      "page": "8-6-solve-radical-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1169148974254",
+      "context": [
+        "Solve Radical Equations with Two Radicals"
+      ],
+      "text": "Solve: \\(7x+13=2x-53.\\)",
+      "math": [
+        "\\sqrt[3]{7x+1}=\\sqrt[3]{2x-5}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><mn>7</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mn>3</mn></mroot><mo>=</mo><mroot><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>5</mn></mrow><mn>3</mn></mroot><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><mn>7</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow><mn>3</mn></mroot><mo>=</mo><mroot><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>5</mn></mrow><mn>3</mn></mroot><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.127",
+      "page": "8-6-solve-radical-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1169144885903",
+      "context": [
+        "Solve Radical Equations with Two Radicals"
+      ],
+      "text": "Solve: \\(3-\\sqrt{x}=\\sqrt{x-3}.\\)",
+      "math": [
+        "3-\\sqrt{x}=\\sqrt{x-3}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mo>−</mo><msqrt><mi>x</mi></msqrt><mo>=</mo><msqrt><mrow><mi>x</mi><mo>−</mo><mn>3</mn></mrow></msqrt><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mo>−</mo><msqrt><mi>x</mi></msqrt><mo>=</mo><msqrt><mrow><mi>x</mi><mo>−</mo><mn>3</mn></mrow></msqrt><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.128",
+      "page": "8-6-solve-radical-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1169147027836",
+      "context": [
+        "Solve Radical Equations with Two Radicals"
+      ],
+      "text": "Solve: \\(\\sqrt{x}+2=\\sqrt{x+16}.\\)",
+      "math": [
+        "\\sqrt{x}+2=\\sqrt{x+16}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mi>x</mi></msqrt><mo>+</mo><mn>2</mn><mo>=</mo><msqrt><mrow><mi>x</mi><mo>+</mo><mn>16</mn></mrow></msqrt><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mi>x</mi></msqrt><mo>+</mo><mn>2</mn><mo>=</mo><msqrt><mrow><mi>x</mi><mo>+</mo><mn>16</mn></mrow></msqrt><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.129",
+      "page": "8-6-solve-radical-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1169148932877",
+      "context": [
+        "Solve Radical Equations with Two Radicals"
+      ],
+      "text": "Solve: \\(\\sqrt{x-1}+2=\\sqrt{2x+6}\\)",
+      "math": [
+        "\\sqrt{x-1}+2=\\sqrt{2x+6}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></msqrt><mo>+</mo><mn>2</mn><mo>=</mo><msqrt><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>6</mn></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></msqrt><mo>+</mo><mn>2</mn><mo>=</mo><msqrt><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>6</mn></mrow></msqrt></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.130",
+      "page": "8-6-solve-radical-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1169148929863",
+      "context": [
+        "Solve Radical Equations with Two Radicals"
+      ],
+      "text": "Solve: \\(\\sqrt{x}+2=\\sqrt{3x+4}\\)",
+      "math": [
+        "\\sqrt{x}+2=\\sqrt{3x+4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mi>x</mi></msqrt><mo>+</mo><mn>2</mn><mo>=</mo><msqrt><mrow><mn>3</mn><mi>x</mi><mo>+</mo><mn>4</mn></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mi>x</mi></msqrt><mo>+</mo><mn>2</mn><mo>=</mo><msqrt><mrow><mn>3</mn><mi>x</mi><mo>+</mo><mn>4</mn></mrow></msqrt></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.131",
+      "page": "8-6-solve-radical-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1169146645348",
+      "context": [
+        "Use Radicals in Applications"
+      ],
+      "text": "A helicopter dropped a rescue package from a height of 1,296 feet. Use the formula \\(t=\\frac{\\sqrt{h}}{4}\\) to find how many seconds it took for the package to reach the ground.",
+      "math": [
+        "t=\\frac{\\sqrt{h}}{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>t</mi><mo>=</mo><mfrac><mrow><msqrt><mi>h</mi></msqrt></mrow><mn>4</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>t</mi><mo>=</mo><mfrac><mrow><msqrt><mi>h</mi></msqrt></mrow><mn>4</mn></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.132",
+      "page": "8-6-solve-radical-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1169148933988",
+      "context": [
+        "Use Radicals in Applications"
+      ],
+      "text": "A window washer dropped a squeegee from a platform 196 feet above the sidewalk Use the formula \\(t=\\frac{\\sqrt{h}}{4}\\) to find how many seconds it took for the squeegee to reach the sidewalk.",
+      "math": [
+        "t=\\frac{\\sqrt{h}}{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>t</mi><mo>=</mo><mfrac><mrow><msqrt><mi>h</mi></msqrt></mrow><mn>4</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>t</mi><mo>=</mo><mfrac><mrow><msqrt><mi>h</mi></msqrt></mrow><mn>4</mn></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.133",
+      "page": "8-6-solve-radical-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1169144382958",
+      "context": [
+        "Use Radicals in Applications"
+      ],
+      "text": "An accident investigator measured the skid marks of the car. The length of the skid marks was 76 feet. Use the formula \\(s=\\sqrt{24d}\\) to find the speed of the car before the brakes were applied. Round your answer to the nearest tenth.",
+      "math": [
+        "s=\\sqrt{24d}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>s</mi><mo>=</mo><msqrt><mrow><mn>24</mn><mi>d</mi></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>s</mi><mo>=</mo><msqrt><mrow><mn>24</mn><mi>d</mi></mrow></msqrt></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.134",
+      "page": "8-6-solve-radical-equations",
+      "is_try_it": true,
+      "anchor": "fs-id1169149373592",
+      "context": [
+        "Use Radicals in Applications"
+      ],
+      "text": "The skid marks of a vehicle involved in an accident were 122 feet long. Use the formula \\(s=\\sqrt{24d}\\) to find the speed of the vehicle before the brakes were applied. Round your answer to the nearest tenth.",
+      "math": [
+        "s=\\sqrt{24d}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>s</mi><mo>=</mo><msqrt><mrow><mn>24</mn><mi>d</mi></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>s</mi><mo>=</mo><msqrt><mrow><mn>24</mn><mi>d</mi></mrow></msqrt></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

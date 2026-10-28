@@ -1,0 +1,1702 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/12-1-sequences",
+  "title": "12.1 Sequences",
+  "sha256": "27427c9cd4fb56aa01b6d95090b3401f759a926d6d2a2c4a80dbab4f316249a3",
+  "questions": [
+    {
+      "number": 1,
+      "anchor": "fs-id1167836542437",
+      "page": "12-1-sequences",
+      "context": [
+        "Write the First Few Terms of a Sequence",
+        "In the following exercises, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = 2 n - 7\\)",
+      "math": [
+        "{a}_{n} = 2 n - 7"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mn>2</mn>\n          <mi>n</mi>\n          <mo>−</mo>\n          <mn>7</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mn>2</mn>\n          <mi>n</mi>\n          <mo>−</mo>\n          <mn>7</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 2,
+      "anchor": "fs-id1167836697712",
+      "page": "12-1-sequences",
+      "context": [
+        "Write the First Few Terms of a Sequence",
+        "In the following exercises, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = 5 n - 1\\)",
+      "math": [
+        "{a}_{n} = 5 n - 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mn>5</mn>\n          <mi>n</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mn>5</mn>\n          <mi>n</mi>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 3,
+      "anchor": "fs-id1167833030960",
+      "page": "12-1-sequences",
+      "context": [
+        "Write the First Few Terms of a Sequence",
+        "In the following exercises, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = 3 n + 1\\)",
+      "math": [
+        "{a}_{n} = 3 n + 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mn>3</mn>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mn>3</mn>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 4,
+      "anchor": "fs-id1167836433028",
+      "page": "12-1-sequences",
+      "context": [
+        "Write the First Few Terms of a Sequence",
+        "In the following exercises, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = 4 n + 2\\)",
+      "math": [
+        "{a}_{n} = 4 n + 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mn>4</mn>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mn>4</mn>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 5,
+      "anchor": "fs-id1167836554862",
+      "page": "12-1-sequences",
+      "context": [
+        "Write the First Few Terms of a Sequence",
+        "In the following exercises, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = {2}^{n} + 3\\)",
+      "math": [
+        "{a}_{n} = {2}^{n} + 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <msup>\n            <mn>2</mn>\n            <mi>n</mi>\n          </msup>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <msup>\n            <mn>2</mn>\n            <mi>n</mi>\n          </msup>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 6,
+      "anchor": "fs-id1167829747310",
+      "page": "12-1-sequences",
+      "context": [
+        "Write the First Few Terms of a Sequence",
+        "In the following exercises, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = {3}^{n} - 1\\)",
+      "math": [
+        "{a}_{n} = {3}^{n} - 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <msup>\n            <mn>3</mn>\n            <mi>n</mi>\n          </msup>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <msup>\n            <mn>3</mn>\n            <mi>n</mi>\n          </msup>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 7,
+      "anchor": "fs-id1167829745911",
+      "page": "12-1-sequences",
+      "context": [
+        "Write the First Few Terms of a Sequence",
+        "In the following exercises, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = {3}^{n} - 2 n\\)",
+      "math": [
+        "{a}_{n} = {3}^{n} - 2 n"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <msup>\n            <mn>3</mn>\n            <mi>n</mi>\n          </msup>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>n</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <msup>\n            <mn>3</mn>\n            <mi>n</mi>\n          </msup>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mi>n</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 8,
+      "anchor": "fs-id1167833008151",
+      "page": "12-1-sequences",
+      "context": [
+        "Write the First Few Terms of a Sequence",
+        "In the following exercises, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = {2}^{n} - 3 n\\)",
+      "math": [
+        "{a}_{n} = {2}^{n} - 3 n"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <msup>\n            <mn>2</mn>\n            <mi>n</mi>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mi>n</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <msup>\n            <mn>2</mn>\n            <mi>n</mi>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mi>n</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 9,
+      "anchor": "fs-id1167836518570",
+      "page": "12-1-sequences",
+      "context": [
+        "Write the First Few Terms of a Sequence",
+        "In the following exercises, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = \\frac{ {2}^{n} }{ {n}^{2} }\\)",
+      "math": [
+        "{a}_{n} = \\frac{ {2}^{n} }{ {n}^{2} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mn>2</mn>\n                <mi>n</mi>\n              </msup>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>n</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mn>2</mn>\n                <mi>n</mi>\n              </msup>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>n</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 10,
+      "anchor": "fs-id1167836697736",
+      "page": "12-1-sequences",
+      "context": [
+        "Write the First Few Terms of a Sequence",
+        "In the following exercises, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = \\frac{ {3}^{n} }{ {n}^{3} }\\)",
+      "math": [
+        "{a}_{n} = \\frac{ {3}^{n} }{ {n}^{3} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mn>3</mn>\n                <mi>n</mi>\n              </msup>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>n</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mn>3</mn>\n                <mi>n</mi>\n              </msup>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>n</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 11,
+      "anchor": "fs-id1167836728891",
+      "page": "12-1-sequences",
+      "context": [
+        "Write the First Few Terms of a Sequence",
+        "In the following exercises, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = \\frac{ 4 n - 2 }{ {2}^{n} }\\)",
+      "math": [
+        "{a}_{n} = \\frac{ 4 n - 2 }{ {2}^{n} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <mi>n</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mn>2</mn>\n                <mi>n</mi>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <mi>n</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mn>2</mn>\n                <mi>n</mi>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 12,
+      "anchor": "fs-id1167836610291",
+      "page": "12-1-sequences",
+      "context": [
+        "Write the First Few Terms of a Sequence",
+        "In the following exercises, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = \\frac{ 3 n + 3 }{ {3}^{n} }\\)",
+      "math": [
+        "{a}_{n} = \\frac{ 3 n + 3 }{ {3}^{n} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mn>3</mn>\n                <mi>n</mi>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mn>3</mn>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mn>3</mn>\n                <mi>n</mi>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 13,
+      "anchor": "fs-id1167836731549",
+      "page": "12-1-sequences",
+      "context": [
+        "Write the First Few Terms of a Sequence",
+        "In the following exercises, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = { ( -1 ) }^{n} \\cdot 2 n\\)",
+      "math": [
+        "{a}_{n} = { ( -1 ) }^{n} \\cdot 2 n"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mi>n</mi>\n          </msup>\n          <mo>·</mo>\n          <mn>2</mn>\n          <mi>n</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mi>n</mi>\n          </msup>\n          <mo>·</mo>\n          <mn>2</mn>\n          <mi>n</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 14,
+      "anchor": "fs-id1167836409447",
+      "page": "12-1-sequences",
+      "context": [
+        "Write the First Few Terms of a Sequence",
+        "In the following exercises, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = { ( -1 ) }^{n} \\cdot 3 n\\)",
+      "math": [
+        "{a}_{n} = { ( -1 ) }^{n} \\cdot 3 n"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mi>n</mi>\n          </msup>\n          <mo>·</mo>\n          <mn>3</mn>\n          <mi>n</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mi>n</mi>\n          </msup>\n          <mo>·</mo>\n          <mn>3</mn>\n          <mi>n</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 15,
+      "anchor": "fs-id1167836444704",
+      "page": "12-1-sequences",
+      "context": [
+        "Write the First Few Terms of a Sequence",
+        "In the following exercises, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = { ( -1 ) }^{ n + 1 } {n}^{2}\\)",
+      "math": [
+        "{a}_{n} = { ( -1 ) }^{ n + 1 } {n}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mrow>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </msup>\n          <msup>\n            <mi>n</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mrow>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </msup>\n          <msup>\n            <mi>n</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 16,
+      "anchor": "fs-id1167833056685",
+      "page": "12-1-sequences",
+      "context": [
+        "Write the First Few Terms of a Sequence",
+        "In the following exercises, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = { ( -1 ) }^{ n + 1 } {n}^{4}\\)",
+      "math": [
+        "{a}_{n} = { ( -1 ) }^{ n + 1 } {n}^{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mrow>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </msup>\n          <msup>\n            <mi>n</mi>\n            <mn>4</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mrow>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n          </msup>\n          <msup>\n            <mi>n</mi>\n            <mn>4</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 17,
+      "anchor": "fs-id1167833071792",
+      "page": "12-1-sequences",
+      "context": [
+        "Write the First Few Terms of a Sequence",
+        "In the following exercises, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = \\frac{ { ( -1 ) }^{ n + 1 } }{ {n}^{2} }\\)",
+      "math": [
+        "{a}_{n} = \\frac{ { ( -1 ) }^{ n + 1 } }{ {n}^{2} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mn>−1</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mrow>\n                  <mi>n</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n              </msup>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>n</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mn>−1</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mrow>\n                  <mi>n</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n              </msup>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>n</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 18,
+      "anchor": "fs-id1167836688954",
+      "page": "12-1-sequences",
+      "context": [
+        "Write the First Few Terms of a Sequence",
+        "In the following exercises, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = \\frac{ { ( -1 ) }^{ n + 1 } }{ 2 n }\\)",
+      "math": [
+        "{a}_{n} = \\frac{ { ( -1 ) }^{ n + 1 } }{ 2 n }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mn>−1</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mrow>\n                  <mi>n</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>2</mn>\n              <mi>n</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mrow>\n                      <mn>−1</mn>\n                    </mrow>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mrow>\n                  <mi>n</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n              </msup>\n            </mrow>\n            <mrow>\n              <mn>2</mn>\n              <mi>n</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 19,
+      "anchor": "fs-id1167836560600",
+      "page": "12-1-sequences",
+      "context": [
+        "Find a Formula for the General Term (nth Term) of a Sequence",
+        "In the following exercises, find a general term for the sequence whose first five terms are shown."
+      ],
+      "text": "\\(8 , 16 , 24 , 32 , 40 , …\\)",
+      "math": [
+        "8 , 16 , 24 , 32 , 40 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>8</mn>\n          <mo>,</mo>\n          <mn>16</mn>\n          <mo>,</mo>\n          <mn>24</mn>\n          <mo>,</mo>\n          <mn>32</mn>\n          <mo>,</mo>\n          <mn>40</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>8</mn>\n          <mo>,</mo>\n          <mn>16</mn>\n          <mo>,</mo>\n          <mn>24</mn>\n          <mo>,</mo>\n          <mn>32</mn>\n          <mo>,</mo>\n          <mn>40</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 20,
+      "anchor": "fs-id1167836663456",
+      "page": "12-1-sequences",
+      "context": [
+        "Find a Formula for the General Term (nth Term) of a Sequence",
+        "In the following exercises, find a general term for the sequence whose first five terms are shown."
+      ],
+      "text": "\\(7 , 14 , 21 , 28 , 35 , …\\)",
+      "math": [
+        "7 , 14 , 21 , 28 , 35 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>7</mn>\n          <mo>,</mo>\n          <mn>14</mn>\n          <mo>,</mo>\n          <mn>21</mn>\n          <mo>,</mo>\n          <mn>28</mn>\n          <mo>,</mo>\n          <mn>35</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>7</mn>\n          <mo>,</mo>\n          <mn>14</mn>\n          <mo>,</mo>\n          <mn>21</mn>\n          <mo>,</mo>\n          <mn>28</mn>\n          <mo>,</mo>\n          <mn>35</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 21,
+      "anchor": "fs-id1167833369184",
+      "page": "12-1-sequences",
+      "context": [
+        "Find a Formula for the General Term (nth Term) of a Sequence",
+        "In the following exercises, find a general term for the sequence whose first five terms are shown."
+      ],
+      "text": "\\(6 , 7 , 8 , 9 , 10 , …\\)",
+      "math": [
+        "6 , 7 , 8 , 9 , 10 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>6</mn>\n          <mo>,</mo>\n          <mn>7</mn>\n          <mo>,</mo>\n          <mn>8</mn>\n          <mo>,</mo>\n          <mn>9</mn>\n          <mo>,</mo>\n          <mn>10</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>6</mn>\n          <mo>,</mo>\n          <mn>7</mn>\n          <mo>,</mo>\n          <mn>8</mn>\n          <mo>,</mo>\n          <mn>9</mn>\n          <mo>,</mo>\n          <mn>10</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 22,
+      "anchor": "fs-id1167836433330",
+      "page": "12-1-sequences",
+      "context": [
+        "Find a Formula for the General Term (nth Term) of a Sequence",
+        "In the following exercises, find a general term for the sequence whose first five terms are shown."
+      ],
+      "text": "\\(-3 , -2 , -1 , 0 , 1 , …\\)",
+      "math": [
+        "-3 , -2 , -1 , 0 , 1 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−3</mn>\n          <mo>,</mo>\n          <mn>−2</mn>\n          <mo>,</mo>\n          <mn>−1</mn>\n          <mo>,</mo>\n          <mn>0</mn>\n          <mo>,</mo>\n          <mn>1</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−3</mn>\n          <mo>,</mo>\n          <mn>−2</mn>\n          <mo>,</mo>\n          <mn>−1</mn>\n          <mo>,</mo>\n          <mn>0</mn>\n          <mo>,</mo>\n          <mn>1</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 23,
+      "anchor": "fs-id1167836612792",
+      "page": "12-1-sequences",
+      "context": [
+        "Find a Formula for the General Term (nth Term) of a Sequence",
+        "In the following exercises, find a general term for the sequence whose first five terms are shown."
+      ],
+      "text": "\\({e}^{3} , {e}^{4} , {e}^{5} , {e}^{6} , {e}^{7} , …\\)",
+      "math": [
+        "{e}^{3} , {e}^{4} , {e}^{5} , {e}^{6} , {e}^{7} , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>e</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>,</mo>\n          <msup>\n            <mi>e</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>,</mo>\n          <msup>\n            <mi>e</mi>\n            <mn>5</mn>\n          </msup>\n          <mo>,</mo>\n          <msup>\n            <mi>e</mi>\n            <mn>6</mn>\n          </msup>\n          <mo>,</mo>\n          <msup>\n            <mi>e</mi>\n            <mn>7</mn>\n          </msup>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>e</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>,</mo>\n          <msup>\n            <mi>e</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>,</mo>\n          <msup>\n            <mi>e</mi>\n            <mn>5</mn>\n          </msup>\n          <mo>,</mo>\n          <msup>\n            <mi>e</mi>\n            <mn>6</mn>\n          </msup>\n          <mo>,</mo>\n          <msup>\n            <mi>e</mi>\n            <mn>7</mn>\n          </msup>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 24,
+      "anchor": "fs-id1167829811395",
+      "page": "12-1-sequences",
+      "context": [
+        "Find a Formula for the General Term (nth Term) of a Sequence",
+        "In the following exercises, find a general term for the sequence whose first five terms are shown."
+      ],
+      "text": "\\(\\frac{1}{ {e}^{2} } , \\frac{1}{e} , 1 , e , {e}^{2} , …\\)",
+      "math": [
+        "\\frac{1}{ {e}^{2} } , \\frac{1}{e} , 1 , e , {e}^{2} , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <msup>\n                <mi>e</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mi>e</mi>\n          </mfrac>\n          <mo>,</mo>\n          <mn>1</mn>\n          <mo>,</mo>\n          <mi>e</mi>\n          <mo>,</mo>\n          <msup>\n            <mi>e</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <msup>\n                <mi>e</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mi>e</mi>\n          </mfrac>\n          <mo>,</mo>\n          <mn>1</mn>\n          <mo>,</mo>\n          <mi>e</mi>\n          <mo>,</mo>\n          <msup>\n            <mi>e</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 25,
+      "anchor": "fs-id1167829742040",
+      "page": "12-1-sequences",
+      "context": [
+        "Find a Formula for the General Term (nth Term) of a Sequence",
+        "In the following exercises, find a general term for the sequence whose first five terms are shown."
+      ],
+      "text": "\\(-5 , 10 , -15 , 20 , -25 , …\\)",
+      "math": [
+        "-5 , 10 , -15 , 20 , -25 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−5</mn>\n          <mo>,</mo>\n          <mn>10</mn>\n          <mo>,</mo>\n          <mn>−15</mn>\n          <mo>,</mo>\n          <mn>20</mn>\n          <mo>,</mo>\n          <mn>−25</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−5</mn>\n          <mo>,</mo>\n          <mn>10</mn>\n          <mo>,</mo>\n          <mn>−15</mn>\n          <mo>,</mo>\n          <mn>20</mn>\n          <mo>,</mo>\n          <mn>−25</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 26,
+      "anchor": "fs-id1167836560420",
+      "page": "12-1-sequences",
+      "context": [
+        "Find a Formula for the General Term (nth Term) of a Sequence",
+        "In the following exercises, find a general term for the sequence whose first five terms are shown."
+      ],
+      "text": "\\(-6 , 11 , -16 , 21 , -26 , …\\)",
+      "math": [
+        "-6 , 11 , -16 , 21 , -26 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−6</mn>\n          <mo>,</mo>\n          <mn>11</mn>\n          <mo>,</mo>\n          <mn>−16</mn>\n          <mo>,</mo>\n          <mn>21</mn>\n          <mo>,</mo>\n          <mn>−26</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−6</mn>\n          <mo>,</mo>\n          <mn>11</mn>\n          <mo>,</mo>\n          <mn>−16</mn>\n          <mo>,</mo>\n          <mn>21</mn>\n          <mo>,</mo>\n          <mn>−26</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 27,
+      "anchor": "fs-id1167836532531",
+      "page": "12-1-sequences",
+      "context": [
+        "Find a Formula for the General Term (nth Term) of a Sequence",
+        "In the following exercises, find a general term for the sequence whose first five terms are shown."
+      ],
+      "text": "\\(-1 , 8 , -27 , 64 , -125 , …\\)",
+      "math": [
+        "-1 , 8 , -27 , 64 , -125 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−1</mn>\n          <mo>,</mo>\n          <mn>8</mn>\n          <mo>,</mo>\n          <mn>−27</mn>\n          <mo>,</mo>\n          <mn>64</mn>\n          <mo>,</mo>\n          <mn>−125</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−1</mn>\n          <mo>,</mo>\n          <mn>8</mn>\n          <mo>,</mo>\n          <mn>−27</mn>\n          <mo>,</mo>\n          <mn>64</mn>\n          <mo>,</mo>\n          <mn>−125</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 28,
+      "anchor": "fs-id1167832945880",
+      "page": "12-1-sequences",
+      "context": [
+        "Find a Formula for the General Term (nth Term) of a Sequence",
+        "In the following exercises, find a general term for the sequence whose first five terms are shown."
+      ],
+      "text": "\\(2 , -5 , 10 , -17 , 26 , …\\)",
+      "math": [
+        "2 , -5 , 10 , -17 , 26 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <mo>,</mo>\n          <mn>−5</mn>\n          <mo>,</mo>\n          <mn>10</mn>\n          <mo>,</mo>\n          <mn>−17</mn>\n          <mo>,</mo>\n          <mn>26</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <mo>,</mo>\n          <mn>−5</mn>\n          <mo>,</mo>\n          <mn>10</mn>\n          <mo>,</mo>\n          <mn>−17</mn>\n          <mo>,</mo>\n          <mn>26</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 29,
+      "anchor": "fs-id1167836477546",
+      "page": "12-1-sequences",
+      "context": [
+        "Find a Formula for the General Term (nth Term) of a Sequence",
+        "In the following exercises, find a general term for the sequence whose first five terms are shown."
+      ],
+      "text": "\\(-2 , 4 , -6 , 8 , -10 , …\\)",
+      "math": [
+        "-2 , 4 , -6 , 8 , -10 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−2</mn>\n          <mo>,</mo>\n          <mn>4</mn>\n          <mo>,</mo>\n          <mn>−6</mn>\n          <mo>,</mo>\n          <mn>8</mn>\n          <mo>,</mo>\n          <mn>−10</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−2</mn>\n          <mo>,</mo>\n          <mn>4</mn>\n          <mo>,</mo>\n          <mn>−6</mn>\n          <mo>,</mo>\n          <mn>8</mn>\n          <mo>,</mo>\n          <mn>−10</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 30,
+      "anchor": "fs-id1167829906696",
+      "page": "12-1-sequences",
+      "context": [
+        "Find a Formula for the General Term (nth Term) of a Sequence",
+        "In the following exercises, find a general term for the sequence whose first five terms are shown."
+      ],
+      "text": "\\(1 , -3 , 5 , -7 , 9 , …\\)",
+      "math": [
+        "1 , -3 , 5 , -7 , 9 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>1</mn>\n          <mo>,</mo>\n          <mn>−3</mn>\n          <mo>,</mo>\n          <mn>5</mn>\n          <mo>,</mo>\n          <mn>−7</mn>\n          <mo>,</mo>\n          <mn>9</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>1</mn>\n          <mo>,</mo>\n          <mn>−3</mn>\n          <mo>,</mo>\n          <mn>5</mn>\n          <mo>,</mo>\n          <mn>−7</mn>\n          <mo>,</mo>\n          <mn>9</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 31,
+      "anchor": "fs-id1167833380689",
+      "page": "12-1-sequences",
+      "context": [
+        "Find a Formula for the General Term (nth Term) of a Sequence",
+        "In the following exercises, find a general term for the sequence whose first five terms are shown."
+      ],
+      "text": "\\(\\frac{1}{4} , \\frac{1}{ 16 } , \\frac{1}{ 64 } , \\frac{1}{ 256 } , \\frac{1}{ 1,024 } , …\\)",
+      "math": [
+        "\\frac{1}{4} , \\frac{1}{ 16 } , \\frac{1}{ 64 } , \\frac{1}{ 256 } , \\frac{1}{ 1,024 } , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>64</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>256</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>1,024</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>64</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>256</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>1,024</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 32,
+      "anchor": "fs-id1167836386988",
+      "page": "12-1-sequences",
+      "context": [
+        "Find a Formula for the General Term (nth Term) of a Sequence",
+        "In the following exercises, find a general term for the sequence whose first five terms are shown."
+      ],
+      "text": "\\(\\frac{1}{1} , \\frac{1}{8} , \\frac{1}{ 27 } , \\frac{1}{ 64 } , \\frac{1}{ 125 } , …\\)",
+      "math": [
+        "\\frac{1}{1} , \\frac{1}{8} , \\frac{1}{ 27 } , \\frac{1}{ 64 } , \\frac{1}{ 125 } , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>1</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>8</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>27</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>64</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>125</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>1</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>8</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>27</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>64</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>125</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 33,
+      "anchor": "fs-id1167829747828",
+      "page": "12-1-sequences",
+      "context": [
+        "Find a Formula for the General Term (nth Term) of a Sequence",
+        "In the following exercises, find a general term for the sequence whose first five terms are shown."
+      ],
+      "text": "\\(- \\frac{1}{2} , - \\frac{2}{3} , - \\frac{3}{4} , - \\frac{4}{5} , - \\frac{5}{6} , …\\)",
+      "math": [
+        "- \\frac{1}{2} , - \\frac{2}{3} , - \\frac{3}{4} , - \\frac{4}{5} , - \\frac{5}{6} , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mn>6</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mn>6</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 34,
+      "anchor": "fs-id1167829753358",
+      "page": "12-1-sequences",
+      "context": [
+        "Find a Formula for the General Term (nth Term) of a Sequence",
+        "In the following exercises, find a general term for the sequence whose first five terms are shown."
+      ],
+      "text": "\\(-2 , - \\frac{3}{2} , - \\frac{4}{3} , - \\frac{5}{4} , - \\frac{6}{5} , …\\)",
+      "math": [
+        "-2 , - \\frac{3}{2} , - \\frac{4}{3} , - \\frac{5}{4} , - \\frac{6}{5} , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−2</mn>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>6</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−2</mn>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>6</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 35,
+      "anchor": "fs-id1167836684137",
+      "page": "12-1-sequences",
+      "context": [
+        "Find a Formula for the General Term (nth Term) of a Sequence",
+        "In the following exercises, find a general term for the sequence whose first five terms are shown."
+      ],
+      "text": "\\(- \\frac{5}{2} , - \\frac{5}{4} , - \\frac{5}{8} , - \\frac{5}{ 16 } , - \\frac{5}{ 32 } , …\\)",
+      "math": [
+        "- \\frac{5}{2} , - \\frac{5}{4} , - \\frac{5}{8} , - \\frac{5}{ 16 } , - \\frac{5}{ 32 } , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mo>−</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mn>8</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mn>32</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mo>−</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mn>8</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mn>32</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 36,
+      "anchor": "fs-id1167829751436",
+      "page": "12-1-sequences",
+      "context": [
+        "Find a Formula for the General Term (nth Term) of a Sequence",
+        "In the following exercises, find a general term for the sequence whose first five terms are shown."
+      ],
+      "text": "\\(4 , \\frac{1}{2} , \\frac{4}{ 27 } , \\frac{4}{ 64 } , \\frac{4}{ 125 } , …\\)",
+      "math": [
+        "4 , \\frac{1}{2} , \\frac{4}{ 27 } , \\frac{4}{ 64 } , \\frac{4}{ 125 } , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <mn>27</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <mn>64</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <mn>125</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <mo>,</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <mn>27</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <mn>64</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <mn>125</mn>\n            </mrow>\n          </mfrac>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 37,
+      "anchor": "fs-id1167829720976",
+      "page": "12-1-sequences",
+      "context": [
+        "Use Factorial Notation",
+        "In the following exercises, using factorial notation, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = \\frac{4}{ n ! }\\)",
+      "math": [
+        "{a}_{n} = \\frac{4}{ n ! }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <mi>n</mi>\n              <mo>!</mo>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mrow>\n              <mi>n</mi>\n              <mo>!</mo>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 38,
+      "anchor": "fs-id1167836362732",
+      "page": "12-1-sequences",
+      "context": [
+        "Use Factorial Notation",
+        "In the following exercises, using factorial notation, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = \\frac{5}{ n ! }\\)",
+      "math": [
+        "{a}_{n} = \\frac{5}{ n ! }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mi>n</mi>\n              <mo>!</mo>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mi>n</mi>\n              <mo>!</mo>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 39,
+      "anchor": "fs-id1167829745763",
+      "page": "12-1-sequences",
+      "context": [
+        "Use Factorial Notation",
+        "In the following exercises, using factorial notation, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = 3 n !\\)",
+      "math": [
+        "{a}_{n} = 3 n !"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mn>3</mn>\n          <mi>n</mi>\n          <mo>!</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mn>3</mn>\n          <mi>n</mi>\n          <mo>!</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 40,
+      "anchor": "fs-id1167833018403",
+      "page": "12-1-sequences",
+      "context": [
+        "Use Factorial Notation",
+        "In the following exercises, using factorial notation, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = 2 n !\\)",
+      "math": [
+        "{a}_{n} = 2 n !"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mn>2</mn>\n          <mi>n</mi>\n          <mo>!</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mn>2</mn>\n          <mi>n</mi>\n          <mo>!</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 41,
+      "anchor": "fs-id1167833025452",
+      "page": "12-1-sequences",
+      "context": [
+        "Use Factorial Notation",
+        "In the following exercises, using factorial notation, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = ( 2 n ) !\\)",
+      "math": [
+        "{a}_{n} = ( 2 n ) !"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>n</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>!</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>n</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>!</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 42,
+      "anchor": "fs-id1167829742666",
+      "page": "12-1-sequences",
+      "context": [
+        "Use Factorial Notation",
+        "In the following exercises, using factorial notation, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = ( 3 n ) !\\)",
+      "math": [
+        "{a}_{n} = ( 3 n ) !"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>n</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>!</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>n</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>!</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 43,
+      "anchor": "fs-id1167836289638",
+      "page": "12-1-sequences",
+      "context": [
+        "Use Factorial Notation",
+        "In the following exercises, using factorial notation, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = \\frac{ ( n - 1 ) ! }{ ( n ) ! }\\)",
+      "math": [
+        "{a}_{n} = \\frac{ ( n - 1 ) ! }{ ( n ) ! }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>n</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>!</mo>\n            </mrow>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mi>n</mi>\n                <mo>)</mo>\n              </mrow>\n              <mo>!</mo>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>n</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>!</mo>\n            </mrow>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mi>n</mi>\n                <mo>)</mo>\n              </mrow>\n              <mo>!</mo>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 44,
+      "anchor": "fs-id1167836511165",
+      "page": "12-1-sequences",
+      "context": [
+        "Use Factorial Notation",
+        "In the following exercises, using factorial notation, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = \\frac{ n ! }{ ( n + 1 ) ! }\\)",
+      "math": [
+        "{a}_{n} = \\frac{ n ! }{ ( n + 1 ) ! }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mi>n</mi>\n              <mo>!</mo>\n            </mrow>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>n</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>!</mo>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mi>n</mi>\n              <mo>!</mo>\n            </mrow>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>n</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>!</mo>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 45,
+      "anchor": "fs-id1167829627454",
+      "page": "12-1-sequences",
+      "context": [
+        "Use Factorial Notation",
+        "In the following exercises, using factorial notation, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = \\frac{ n ! }{ {n}^{2} }\\)",
+      "math": [
+        "{a}_{n} = \\frac{ n ! }{ {n}^{2} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mi>n</mi>\n              <mo>!</mo>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>n</mi>\n                <mtext>2</mtext>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mi>n</mi>\n              <mo>!</mo>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>n</mi>\n                <mtext>2</mtext>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 46,
+      "anchor": "fs-id1167836398785",
+      "page": "12-1-sequences",
+      "context": [
+        "Use Factorial Notation",
+        "In the following exercises, using factorial notation, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = \\frac{ {n}^{2} }{ n ! }\\)",
+      "math": [
+        "{a}_{n} = \\frac{ {n}^{2} }{ n ! }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>n</mi>\n                <mtext>2</mtext>\n              </msup>\n            </mrow>\n            <mrow>\n              <mi>n</mi>\n              <mo>!</mo>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <msup>\n                <mi>n</mi>\n                <mtext>2</mtext>\n              </msup>\n            </mrow>\n            <mrow>\n              <mi>n</mi>\n              <mo>!</mo>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 47,
+      "anchor": "fs-id1167829681252",
+      "page": "12-1-sequences",
+      "context": [
+        "Use Factorial Notation",
+        "In the following exercises, using factorial notation, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = \\frac{ ( n + 1 ) ! }{ {n}^{2} }\\)",
+      "math": [
+        "{a}_{n} = \\frac{ ( n + 1 ) ! }{ {n}^{2} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>n</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>!</mo>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>n</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>n</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>!</mo>\n            </mrow>\n            <mrow>\n              <msup>\n                <mi>n</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 48,
+      "anchor": "fs-id1167836662794",
+      "page": "12-1-sequences",
+      "context": [
+        "Use Factorial Notation",
+        "In the following exercises, using factorial notation, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = \\frac{ ( n + 1 ) ! }{ 2 n }\\)",
+      "math": [
+        "{a}_{n} = \\frac{ ( n + 1 ) ! }{ 2 n }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>n</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>!</mo>\n            </mrow>\n            <mrow>\n              <mn>2</mn>\n              <mi>n</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>n</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>!</mo>\n            </mrow>\n            <mrow>\n              <mn>2</mn>\n              <mi>n</mi>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 49,
+      "anchor": "fs-id1167836433411",
+      "page": "12-1-sequences",
+      "context": [
+        "Find the Partial Sum",
+        "In the following exercises, expand the partial sum and find its value."
+      ],
+      "text": "\\(∑ i = 1 5 {i}^{2}\\)",
+      "math": [
+        "\\sum_{ i = 1 }^{5} {i}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>5</mn>\n            </munderover>\n            <mrow>\n              <msup>\n                <mi>i</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>5</mn>\n            </munderover>\n            <mrow>\n              <msup>\n                <mi>i</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 50,
+      "anchor": "fs-id1167829808424",
+      "page": "12-1-sequences",
+      "context": [
+        "Find the Partial Sum",
+        "In the following exercises, expand the partial sum and find its value."
+      ],
+      "text": "\\(∑ i = 1 5 {i}^{3}\\)",
+      "math": [
+        "\\sum_{ i = 1 }^{5} {i}^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>5</mn>\n            </munderover>\n            <mrow>\n              <msup>\n                <mi>i</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>5</mn>\n            </munderover>\n            <mrow>\n              <msup>\n                <mi>i</mi>\n                <mn>3</mn>\n              </msup>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 51,
+      "anchor": "fs-id1167829741717",
+      "page": "12-1-sequences",
+      "context": [
+        "Find the Partial Sum",
+        "In the following exercises, expand the partial sum and find its value."
+      ],
+      "text": "\\(∑ i = 1 6 ( 2 i + 3 )\\)",
+      "math": [
+        "\\sum_{ i = 1 }^{6} ( 2 i + 3 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>6</mn>\n            </munderover>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mn>2</mn>\n              <mi>i</mi>\n            </mrow>\n          </mstyle>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>6</mn>\n            </munderover>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mn>2</mn>\n              <mi>i</mi>\n            </mrow>\n          </mstyle>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 52,
+      "anchor": "fs-id1167836528185",
+      "page": "12-1-sequences",
+      "context": [
+        "Find the Partial Sum",
+        "In the following exercises, expand the partial sum and find its value."
+      ],
+      "text": "\\(∑ i = 1 6 ( 3 i - 2 )\\)",
+      "math": [
+        "\\sum_{ i = 1 }^{6} ( 3 i - 2 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>6</mn>\n            </munderover>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mn>3</mn>\n              <mi>i</mi>\n            </mrow>\n          </mstyle>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>6</mn>\n            </munderover>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mn>3</mn>\n              <mi>i</mi>\n            </mrow>\n          </mstyle>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 53,
+      "anchor": "fs-id1167836548302",
+      "page": "12-1-sequences",
+      "context": [
+        "Find the Partial Sum",
+        "In the following exercises, expand the partial sum and find its value."
+      ],
+      "text": "\\(∑ i = 1 4 {2}^{i}\\)",
+      "math": [
+        "\\sum_{ i = 1 }^{4} {2}^{i}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>4</mn>\n            </munderover>\n            <mrow>\n              <msup>\n                <mn>2</mn>\n                <mi>i</mi>\n              </msup>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>4</mn>\n            </munderover>\n            <mrow>\n              <msup>\n                <mn>2</mn>\n                <mi>i</mi>\n              </msup>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 54,
+      "anchor": "fs-id1167836510199",
+      "page": "12-1-sequences",
+      "context": [
+        "Find the Partial Sum",
+        "In the following exercises, expand the partial sum and find its value."
+      ],
+      "text": "\\(∑ i = 1 4 {3}^{i}\\)",
+      "math": [
+        "\\sum_{ i = 1 }^{4} {3}^{i}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>4</mn>\n            </munderover>\n            <mrow>\n              <msup>\n                <mn>3</mn>\n                <mi>i</mi>\n              </msup>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>4</mn>\n            </munderover>\n            <mrow>\n              <msup>\n                <mn>3</mn>\n                <mi>i</mi>\n              </msup>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 55,
+      "anchor": "fs-id1167836386938",
+      "page": "12-1-sequences",
+      "context": [
+        "Find the Partial Sum",
+        "In the following exercises, expand the partial sum and find its value."
+      ],
+      "text": "\\(∑ k = 0 3 \\frac{4}{ k ! }\\)",
+      "math": [
+        "\\sum_{ k = 0 }^{3} \\frac{4}{ k ! }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>k</mi>\n                <mo>=</mo>\n                <mn>0</mn>\n              </mrow>\n              <mn>3</mn>\n            </munderover>\n            <mrow>\n              <mfrac>\n                <mn>4</mn>\n                <mrow>\n                  <mi>k</mi>\n                  <mo>!</mo>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>k</mi>\n                <mo>=</mo>\n                <mn>0</mn>\n              </mrow>\n              <mn>3</mn>\n            </munderover>\n            <mrow>\n              <mfrac>\n                <mn>4</mn>\n                <mrow>\n                  <mi>k</mi>\n                  <mo>!</mo>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 56,
+      "anchor": "fs-id1167836444835",
+      "page": "12-1-sequences",
+      "context": [
+        "Find the Partial Sum",
+        "In the following exercises, expand the partial sum and find its value."
+      ],
+      "text": "\\(∑ k = 0 4 - \\frac{1}{ k ! }\\)",
+      "math": [
+        "\\sum_{ k = 0 }^{4} - \\frac{1}{ k ! }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>k</mi>\n                <mo>=</mo>\n                <mn>0</mn>\n              </mrow>\n              <mn>4</mn>\n            </munderover>\n            <mrow>\n              <mo>−</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mi>k</mi>\n                  <mo>!</mo>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>k</mi>\n                <mo>=</mo>\n                <mn>0</mn>\n              </mrow>\n              <mn>4</mn>\n            </munderover>\n            <mrow>\n              <mo>−</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mi>k</mi>\n                  <mo>!</mo>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 57,
+      "anchor": "fs-id1167829905677",
+      "page": "12-1-sequences",
+      "context": [
+        "Find the Partial Sum",
+        "In the following exercises, expand the partial sum and find its value."
+      ],
+      "text": "\\(∑ k = 1 5 k ( k + 1 )\\)",
+      "math": [
+        "\\sum_{ k = 1 }^{5} k ( k + 1 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>k</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>5</mn>\n            </munderover>\n            <mrow>\n              <mi>k</mi>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>k</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>k</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>5</mn>\n            </munderover>\n            <mrow>\n              <mi>k</mi>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>k</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 58,
+      "anchor": "fs-id1167833381075",
+      "page": "12-1-sequences",
+      "context": [
+        "Find the Partial Sum",
+        "In the following exercises, expand the partial sum and find its value."
+      ],
+      "text": "\\(∑ k = 1 5 k ( 2 k - 3 )\\)",
+      "math": [
+        "\\sum_{ k = 1 }^{5} k ( 2 k - 3 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>k</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>5</mn>\n            </munderover>\n            <mrow>\n              <mi>k</mi>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>2</mn>\n                  <mi>k</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>k</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>5</mn>\n            </munderover>\n            <mrow>\n              <mi>k</mi>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>2</mn>\n                  <mi>k</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 59,
+      "anchor": "fs-id1167836728850",
+      "page": "12-1-sequences",
+      "context": [
+        "Find the Partial Sum",
+        "In the following exercises, expand the partial sum and find its value."
+      ],
+      "text": "\\(∑ n = 1 5 \\frac{n}{ n + 1 }\\)",
+      "math": [
+        "\\sum_{ n = 1 }^{5} \\frac{n}{ n + 1 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>n</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>5</mn>\n            </munderover>\n            <mrow>\n              <mfrac>\n                <mi>n</mi>\n                <mrow>\n                  <mi>n</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>n</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>5</mn>\n            </munderover>\n            <mrow>\n              <mfrac>\n                <mi>n</mi>\n                <mrow>\n                  <mi>n</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 60,
+      "anchor": "fs-id1167829755864",
+      "page": "12-1-sequences",
+      "context": [
+        "Find the Partial Sum",
+        "In the following exercises, expand the partial sum and find its value."
+      ],
+      "text": "\\(∑ n = 1 4 \\frac{n}{ n + 2 }\\)",
+      "math": [
+        "\\sum_{ n = 1 }^{4} \\frac{n}{ n + 2 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>n</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>4</mn>\n            </munderover>\n            <mrow>\n              <mfrac>\n                <mi>n</mi>\n                <mrow>\n                  <mi>n</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>n</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>4</mn>\n            </munderover>\n            <mrow>\n              <mfrac>\n                <mi>n</mi>\n                <mrow>\n                  <mi>n</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 61,
+      "anchor": "fs-id1167836732260",
+      "page": "12-1-sequences",
+      "context": [
+        "Use Summation Notation to write a Sum",
+        "In the following exercises, write each sum using summation notation."
+      ],
+      "text": "\\(\\frac{1}{3} + \\frac{1}{9} + \\frac{1}{ 27 } + \\frac{1}{ 81 } + \\frac{1}{ 243 }\\)",
+      "math": [
+        "\\frac{1}{3} + \\frac{1}{9} + \\frac{1}{ 27 } + \\frac{1}{ 81 } + \\frac{1}{ 243 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>9</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>27</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>81</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>243</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>9</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>27</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>81</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>243</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 62,
+      "anchor": "fs-id1167833379856",
+      "page": "12-1-sequences",
+      "context": [
+        "Use Summation Notation to write a Sum",
+        "In the following exercises, write each sum using summation notation."
+      ],
+      "text": "\\(\\frac{1}{4} + \\frac{1}{ 16 } + \\frac{1}{ 64 } + \\frac{1}{ 256 }\\)",
+      "math": [
+        "\\frac{1}{4} + \\frac{1}{ 16 } + \\frac{1}{ 64 } + \\frac{1}{ 256 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>64</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>256</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>64</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>256</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 63,
+      "anchor": "fs-id1167829720089",
+      "page": "12-1-sequences",
+      "context": [
+        "Use Summation Notation to write a Sum",
+        "In the following exercises, write each sum using summation notation."
+      ],
+      "text": "\\(1 + \\frac{1}{8} + \\frac{1}{ 27 } + \\frac{1}{ 64 } + \\frac{1}{ 125 }\\)",
+      "math": [
+        "1 + \\frac{1}{8} + \\frac{1}{ 27 } + \\frac{1}{ 64 } + \\frac{1}{ 125 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>1</mn>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>8</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>27</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>64</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>125</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>1</mn>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>8</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>27</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>64</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>125</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 64,
+      "anchor": "fs-id1167836331126",
+      "page": "12-1-sequences",
+      "context": [
+        "Use Summation Notation to write a Sum",
+        "In the following exercises, write each sum using summation notation."
+      ],
+      "text": "\\(\\frac{1}{5} + \\frac{1}{ 25 } + \\frac{1}{ 125 } + \\frac{1}{ 625 }\\)",
+      "math": [
+        "\\frac{1}{5} + \\frac{1}{ 25 } + \\frac{1}{ 125 } + \\frac{1}{ 625 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>125</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>625</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>125</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>625</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 65,
+      "anchor": "fs-id1167833380085",
+      "page": "12-1-sequences",
+      "context": [
+        "Use Summation Notation to write a Sum",
+        "In the following exercises, write each sum using summation notation."
+      ],
+      "text": "\\(2 + 1 + \\frac{2}{3} + \\frac{1}{2} + \\frac{2}{5}\\)",
+      "math": [
+        "2 + 1 + \\frac{2}{3} + \\frac{1}{2} + \\frac{2}{5}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <mo>+</mo>\n          <mn>1</mn>\n          <mo>+</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>5</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <mo>+</mo>\n          <mn>1</mn>\n          <mo>+</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>5</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 66,
+      "anchor": "fs-id1167829811078",
+      "page": "12-1-sequences",
+      "context": [
+        "Use Summation Notation to write a Sum",
+        "In the following exercises, write each sum using summation notation."
+      ],
+      "text": "\\(3 + \\frac{3}{2} + 1 + \\frac{3}{4} + \\frac{3}{5} + \\frac{1}{2}\\)",
+      "math": [
+        "3 + \\frac{3}{2} + 1 + \\frac{3}{4} + \\frac{3}{5} + \\frac{1}{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <mo>+</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mn>1</mn>\n          <mo>+</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <mo>+</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mn>1</mn>\n          <mo>+</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 67,
+      "anchor": "fs-id1167836728731",
+      "page": "12-1-sequences",
+      "context": [
+        "Use Summation Notation to write a Sum",
+        "In the following exercises, write each sum using summation notation."
+      ],
+      "text": "\\(3 - 6 + 9 - 12 + 15\\)",
+      "math": [
+        "3 - 6 + 9 - 12 + 15"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mo>+</mo>\n          <mn>9</mn>\n          <mo>−</mo>\n          <mn>12</mn>\n          <mo>+</mo>\n          <mn>15</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mo>+</mo>\n          <mn>9</mn>\n          <mo>−</mo>\n          <mn>12</mn>\n          <mo>+</mo>\n          <mn>15</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 68,
+      "anchor": "fs-id1167836626890",
+      "page": "12-1-sequences",
+      "context": [
+        "Use Summation Notation to write a Sum",
+        "In the following exercises, write each sum using summation notation."
+      ],
+      "text": "\\(-5 + 10 - 15 + 20 - 25\\)",
+      "math": [
+        "-5 + 10 - 15 + 20 - 25"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−5</mn>\n          <mo>+</mo>\n          <mn>10</mn>\n          <mo>−</mo>\n          <mn>15</mn>\n          <mo>+</mo>\n          <mn>20</mn>\n          <mo>−</mo>\n          <mn>25</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−5</mn>\n          <mo>+</mo>\n          <mn>10</mn>\n          <mo>−</mo>\n          <mn>15</mn>\n          <mo>+</mo>\n          <mn>20</mn>\n          <mo>−</mo>\n          <mn>25</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 69,
+      "anchor": "fs-id1167829905564",
+      "page": "12-1-sequences",
+      "context": [
+        "Use Summation Notation to write a Sum",
+        "In the following exercises, write each sum using summation notation."
+      ],
+      "text": "\\(-2 + 4 - 6 + 8 - 10 + … + 20\\)",
+      "math": [
+        "-2 + 4 - 6 + 8 - 10 + … + 20"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−2</mn>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mo>−</mo>\n          <mn>10</mn>\n          <mo>+</mo>\n          <mo>…</mo>\n          <mo>+</mo>\n          <mn>20</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−2</mn>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mo>−</mo>\n          <mn>10</mn>\n          <mo>+</mo>\n          <mo>…</mo>\n          <mo>+</mo>\n          <mn>20</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 70,
+      "anchor": "fs-id1167836728528",
+      "page": "12-1-sequences",
+      "context": [
+        "Use Summation Notation to write a Sum",
+        "In the following exercises, write each sum using summation notation."
+      ],
+      "text": "\\(1 - 3 + 5 - 7 + 9 + … + 21\\)",
+      "math": [
+        "1 - 3 + 5 - 7 + 9 + … + 21"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>1</mn>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mo>−</mo>\n          <mn>7</mn>\n          <mo>+</mo>\n          <mn>9</mn>\n          <mo>+</mo>\n          <mo>…</mo>\n          <mo>+</mo>\n          <mn>21</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>1</mn>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mo>−</mo>\n          <mn>7</mn>\n          <mo>+</mo>\n          <mn>9</mn>\n          <mo>+</mo>\n          <mo>…</mo>\n          <mo>+</mo>\n          <mn>21</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 71,
+      "anchor": "fs-id1167829790474",
+      "page": "12-1-sequences",
+      "context": [
+        "Use Summation Notation to write a Sum",
+        "In the following exercises, write each sum using summation notation."
+      ],
+      "text": "\\(14 + 16 + 18 + 20 + 22 + 24 + 26\\)",
+      "math": [
+        "14 + 16 + 18 + 20 + 22 + 24 + 26"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>14</mn>\n          <mo>+</mo>\n          <mn>16</mn>\n          <mo>+</mo>\n          <mn>18</mn>\n          <mo>+</mo>\n          <mn>20</mn>\n          <mo>+</mo>\n          <mn>22</mn>\n          <mo>+</mo>\n          <mn>24</mn>\n          <mo>+</mo>\n          <mn>26</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>14</mn>\n          <mo>+</mo>\n          <mn>16</mn>\n          <mo>+</mo>\n          <mn>18</mn>\n          <mo>+</mo>\n          <mn>20</mn>\n          <mo>+</mo>\n          <mn>22</mn>\n          <mo>+</mo>\n          <mn>24</mn>\n          <mo>+</mo>\n          <mn>26</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 72,
+      "anchor": "fs-id1167833379616",
+      "page": "12-1-sequences",
+      "context": [
+        "Use Summation Notation to write a Sum",
+        "In the following exercises, write each sum using summation notation."
+      ],
+      "text": "\\(9 + 11 + 13 + 15 + 17 + 19 + 21\\)",
+      "math": [
+        "9 + 11 + 13 + 15 + 17 + 19 + 21"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>9</mn>\n          <mo>+</mo>\n          <mn>11</mn>\n          <mo>+</mo>\n          <mn>13</mn>\n          <mo>+</mo>\n          <mn>15</mn>\n          <mo>+</mo>\n          <mn>17</mn>\n          <mo>+</mo>\n          <mn>19</mn>\n          <mo>+</mo>\n          <mn>21</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>9</mn>\n          <mo>+</mo>\n          <mn>11</mn>\n          <mo>+</mo>\n          <mn>13</mn>\n          <mo>+</mo>\n          <mn>15</mn>\n          <mo>+</mo>\n          <mn>17</mn>\n          <mo>+</mo>\n          <mn>19</mn>\n          <mo>+</mo>\n          <mn>21</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 73,
+      "anchor": "fs-id1167836730097",
+      "page": "12-1-sequences",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "In your own words, explain how to write the terms of a sequence when you know the formula. Show an example to illustrate your explanation.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 74,
+      "anchor": "fs-id1167836730114",
+      "page": "12-1-sequences",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Which terms of the sequence are negative when the nth term of the sequence is \\({a}_{n}={(-1)}^{n}(n+2)?\\)",
+      "math": [
+        "{a}_{n}={(-1)}^{n}(n+2)?"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><msup><mrow><mrow><mo>(</mo><mrow><mn>−1</mn></mrow><mo>)</mo></mrow></mrow><mi>n</mi></msup><mrow><mo>(</mo><mrow><mi>n</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>?</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><msup><mrow><mrow><mo>(</mo><mrow><mn>−1</mn></mrow><mo>)</mo></mrow></mrow><mi>n</mi></msup><mrow><mo>(</mo><mrow><mi>n</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>?</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 75,
+      "anchor": "fs-id1167833381108",
+      "page": "12-1-sequences",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "In your own words, explain what is meant by \\(n!\\) Show some examples to illustrate your explanation.",
+      "math": [
+        "n!"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>n</mi><mo>!</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>n</mi><mo>!</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 76,
+      "anchor": "fs-id1167833381132",
+      "page": "12-1-sequences",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain what each part of the notation \\(∑k=1122k\\) means.",
+      "math": [
+        "\\sum_{k=1}^{12}2k"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mstyle displaystyle=\"true\"><munderover><mo>∑</mo><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mrow><mn>12</mn></mrow></munderover><mrow><mn>2</mn><mi>k</mi></mrow></mstyle></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mstyle displaystyle=\"true\"><munderover><mo>∑</mo><mrow><mi>k</mi><mo>=</mo><mn>1</mn></mrow><mrow><mn>12</mn></mrow></munderover><mrow><mn>2</mn><mi>k</mi></mrow></mstyle></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "12.1",
+      "page": "12-1-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167836526397",
+      "context": [
+        "Write the First Few Terms of a Sequence"
+      ],
+      "text": "Write the first five terms of the sequence whose general term is \\({a}_{n}=3n-4.\\)",
+      "math": [
+        "{a}_{n}=3n-4."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><mn>3</mn><mi>n</mi><mo>−</mo><mn>4</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><mn>3</mn><mi>n</mi><mo>−</mo><mn>4</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.2",
+      "page": "12-1-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167836327003",
+      "context": [
+        "Write the First Few Terms of a Sequence"
+      ],
+      "text": "Write the first five terms of the sequence whose general term is \\({a}_{n}=2n-5.\\)",
+      "math": [
+        "{a}_{n}=2n-5."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><mn>2</mn><mi>n</mi><mo>−</mo><mn>5</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><mn>2</mn><mi>n</mi><mo>−</mo><mn>5</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.3",
+      "page": "12-1-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167836521836",
+      "context": [
+        "Write the First Few Terms of a Sequence"
+      ],
+      "text": "Write the first five terms of the sequence whose general term is \\({a}_{n}={3}^{n}+4.\\)",
+      "math": [
+        "{a}_{n}={3}^{n}+4."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><msup><mn>3</mn><mi>n</mi></msup><mo>+</mo><mn>4</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><msup><mn>3</mn><mi>n</mi></msup><mo>+</mo><mn>4</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.4",
+      "page": "12-1-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167836688426",
+      "context": [
+        "Write the First Few Terms of a Sequence"
+      ],
+      "text": "Write the first five terms of the sequence whose general term is \\({a}_{n}={2}^{n}-5.\\)",
+      "math": [
+        "{a}_{n}={2}^{n}-5."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><msup><mn>2</mn><mi>n</mi></msup><mo>−</mo><mn>5</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><msup><mn>2</mn><mi>n</mi></msup><mo>−</mo><mn>5</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.5",
+      "page": "12-1-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167833019254",
+      "context": [
+        "Write the First Few Terms of a Sequence"
+      ],
+      "text": "Write the first five terms of the sequence whose general term is \\({a}_{n}={(-1)}^{n}{n}^{2}.\\)",
+      "math": [
+        "{a}_{n}={(-1)}^{n}{n}^{2}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><msup><mrow><mrow><mo>(</mo><mrow><mn>−1</mn></mrow><mo>)</mo></mrow></mrow><mi>n</mi></msup><msup><mi>n</mi><mn>2</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><msup><mrow><mrow><mo>(</mo><mrow><mn>−1</mn></mrow><mo>)</mo></mrow></mrow><mi>n</mi></msup><msup><mi>n</mi><mn>2</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.6",
+      "page": "12-1-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167829627648",
+      "context": [
+        "Write the First Few Terms of a Sequence"
+      ],
+      "text": "Write the first five terms of the sequence whose general term is \\({a}_{n}={(-1)}^{n+1}{n}^{3}.\\)",
+      "math": [
+        "{a}_{n}={(-1)}^{n+1}{n}^{3}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><msup><mrow><mrow><mo>(</mo><mrow><mn>−1</mn></mrow><mo>)</mo></mrow></mrow><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msup><msup><mi>n</mi><mn>3</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><msup><mrow><mrow><mo>(</mo><mrow><mn>−1</mn></mrow><mo>)</mo></mrow></mrow><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msup><msup><mi>n</mi><mn>3</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.7",
+      "page": "12-1-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167836356048",
+      "context": [
+        "Find a Formula for the General Term (nth Term) of a Sequence"
+      ],
+      "text": "Find a general term for the sequence whose first five terms are shown. \\(3,6,9,12,15,…\\)",
+      "math": [
+        "3,6,9,12,15,…"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mo>,</mo><mn>6</mn><mo>,</mo><mn>9</mn><mo>,</mo><mn>12</mn><mo>,</mo><mn>15</mn><mo>,</mo><mtext>…</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mo>,</mo><mn>6</mn><mo>,</mo><mn>9</mn><mo>,</mo><mn>12</mn><mo>,</mo><mn>15</mn><mo>,</mo><mtext>…</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.8",
+      "page": "12-1-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167836688166",
+      "context": [
+        "Find a Formula for the General Term (nth Term) of a Sequence"
+      ],
+      "text": "Find a general term for the sequence whose first five terms are shown. \\(5,10,15,20,25,…\\)",
+      "math": [
+        "5,10,15,20,25,…"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mo>,</mo><mn>10</mn><mo>,</mo><mn>15</mn><mo>,</mo><mn>20</mn><mo>,</mo><mn>25</mn><mo>,</mo><mtext>…</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mo>,</mo><mn>10</mn><mo>,</mo><mn>15</mn><mo>,</mo><mn>20</mn><mo>,</mo><mn>25</mn><mo>,</mo><mtext>…</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.9",
+      "page": "12-1-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167829694947",
+      "context": [
+        "Find a Formula for the General Term (nth Term) of a Sequence"
+      ],
+      "text": "Find a general term for the sequence whose first five terms are shown. \\(-3,9,-27,81,-243,…\\)",
+      "math": [
+        "-3,9,-27,81,-243,…"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−3</mn><mo>,</mo><mn>9</mn><mo>,</mo><mn>−27</mn><mo>,</mo><mn>81</mn><mo>,</mo><mn>−243</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−3</mn><mo>,</mo><mn>9</mn><mo>,</mo><mn>−27</mn><mo>,</mo><mn>81</mn><mo>,</mo><mn>−243</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.10",
+      "page": "12-1-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167836506804",
+      "context": [
+        "Find a Formula for the General Term (nth Term) of a Sequence"
+      ],
+      "text": "Find a general term for the sequence whose first five terms are shown \\(1,-4,9,-16,25,…\\)",
+      "math": [
+        "1,-4,9,-16,25,…"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>1</mn><mo>,</mo><mn>−4</mn><mo>,</mo><mn>9</mn><mo>,</mo><mn>−16</mn><mo>,</mo><mn>25</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>1</mn><mo>,</mo><mn>−4</mn><mo>,</mo><mn>9</mn><mo>,</mo><mn>−16</mn><mo>,</mo><mn>25</mn><mtext>,</mtext><mspace width=\"0.2em\"></mspace><mtext>…</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.11",
+      "page": "12-1-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167836318653",
+      "context": [
+        "Find a Formula for the General Term (nth Term) of a Sequence"
+      ],
+      "text": "Find a general term for the sequence whose first five terms are shown. \\(\\frac{1}{2},\\frac{1}{4},\\frac{1}{8},\\frac{1}{16},\\frac{1}{32},…\\)",
+      "math": [
+        "\\frac{1}{2},\\frac{1}{4},\\frac{1}{8},\\frac{1}{16},\\frac{1}{32},…"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>,</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>,</mo><mfrac><mn>1</mn><mn>8</mn></mfrac><mo>,</mo><mfrac><mn>1</mn><mrow><mn>16</mn></mrow></mfrac><mo>,</mo><mfrac><mn>1</mn><mrow><mn>32</mn></mrow></mfrac><mo>,</mo><mtext>…</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>,</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>,</mo><mfrac><mn>1</mn><mn>8</mn></mfrac><mo>,</mo><mfrac><mn>1</mn><mrow><mn>16</mn></mrow></mfrac><mo>,</mo><mfrac><mn>1</mn><mrow><mn>32</mn></mrow></mfrac><mo>,</mo><mtext>…</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.12",
+      "page": "12-1-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167836360706",
+      "context": [
+        "Find a Formula for the General Term (nth Term) of a Sequence"
+      ],
+      "text": "Find a general term for the sequence whose first five terms are shown. \\(\\frac{1}{1},\\frac{1}{4},\\frac{1}{9},\\frac{1}{16},\\frac{1}{25},…\\)",
+      "math": [
+        "\\frac{1}{1},\\frac{1}{4},\\frac{1}{9},\\frac{1}{16},\\frac{1}{25},…"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mn>1</mn></mfrac><mo>,</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>,</mo><mfrac><mn>1</mn><mn>9</mn></mfrac><mo>,</mo><mfrac><mn>1</mn><mrow><mn>16</mn></mrow></mfrac><mo>,</mo><mfrac><mn>1</mn><mrow><mn>25</mn></mrow></mfrac><mo>,</mo><mtext>…</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mn>1</mn></mfrac><mo>,</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>,</mo><mfrac><mn>1</mn><mn>9</mn></mfrac><mo>,</mo><mfrac><mn>1</mn><mrow><mn>16</mn></mrow></mfrac><mo>,</mo><mfrac><mn>1</mn><mrow><mn>25</mn></mrow></mfrac><mo>,</mo><mtext>…</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.13",
+      "page": "12-1-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167829811091",
+      "context": [
+        "Use Factorial Notation"
+      ],
+      "text": "Write the first five terms of the sequence whose general term is \\({a}_{n}=\\frac{2}{n!}.\\)",
+      "math": [
+        "{a}_{n}=\\frac{2}{n!}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><mfrac><mn>2</mn><mrow><mi>n</mi><mo>!</mo></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><mfrac><mn>2</mn><mrow><mi>n</mi><mo>!</mo></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.14",
+      "page": "12-1-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167836622285",
+      "context": [
+        "Use Factorial Notation"
+      ],
+      "text": "Write the first five terms of the sequence whose general term is \\({a}_{n}=\\frac{3}{n!}.\\)",
+      "math": [
+        "{a}_{n}=\\frac{3}{n!}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><mfrac><mn>3</mn><mrow><mi>n</mi><mo>!</mo></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><mfrac><mn>3</mn><mrow><mi>n</mi><mo>!</mo></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.15",
+      "page": "12-1-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167833023070",
+      "context": [
+        "Use Factorial Notation"
+      ],
+      "text": "Write the first five terms of the sequence whose general term is \\({a}_{n}=\\frac{(n-1)!}{(n+1)!}.\\)",
+      "math": [
+        "{a}_{n}=\\frac{(n-1)!}{(n+1)!}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><mfrac><mrow><mrow><mo>(</mo><mrow><mi>n</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>!</mo></mrow><mrow><mrow><mo>(</mo><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>!</mo></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><mfrac><mrow><mrow><mo>(</mo><mrow><mi>n</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>!</mo></mrow><mrow><mrow><mo>(</mo><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>!</mo></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.16",
+      "page": "12-1-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167836613309",
+      "context": [
+        "Use Factorial Notation"
+      ],
+      "text": "Write the first five terms of the sequence whose general term is \\({a}_{n}=\\frac{n!}{(n+1)!}.\\)",
+      "math": [
+        "{a}_{n}=\\frac{n!}{(n+1)!}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><mfrac><mrow><mi>n</mi><mo>!</mo></mrow><mrow><mrow><mo>(</mo><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>!</mo></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><mfrac><mrow><mi>n</mi><mo>!</mo></mrow><mrow><mrow><mo>(</mo><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>!</mo></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.17",
+      "page": "12-1-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167833396844",
+      "context": [
+        "Find the Partial Sum"
+      ],
+      "text": "Expand the partial sum and find its value: \\(∑i=153i.\\)",
+      "math": [
+        "\\sum_{i=1}^{5}3i."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mstyle displaystyle=\"true\"><munderover><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mn>5</mn></munderover><mrow><mn>3</mn><mi>i</mi></mrow></mstyle><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mstyle displaystyle=\"true\"><munderover><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mn>5</mn></munderover><mrow><mn>3</mn><mi>i</mi></mrow></mstyle><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.18",
+      "page": "12-1-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167836287270",
+      "context": [
+        "Find the Partial Sum"
+      ],
+      "text": "Expand the partial sum and find its value: \\(∑i=154i.\\)",
+      "math": [
+        "\\sum_{i=1}^{5}4i."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mstyle displaystyle=\"true\"><munderover><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mn>5</mn></munderover><mrow><mn>4</mn><mi>i</mi></mrow></mstyle><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mstyle displaystyle=\"true\"><munderover><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mn>5</mn></munderover><mrow><mn>4</mn><mi>i</mi></mrow></mstyle><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.19",
+      "page": "12-1-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167836610913",
+      "context": [
+        "Find the Partial Sum"
+      ],
+      "text": "Expand the partial sum and find its value: \\(∑k=03\\frac{2}{k!}.\\)",
+      "math": [
+        "\\sum_{k=0}^{3}\\frac{2}{k!}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mstyle displaystyle=\"true\"><munderover><mo>∑</mo><mrow><mi>k</mi><mo>=</mo><mn>0</mn></mrow><mn>3</mn></munderover><mrow><mfrac><mn>2</mn><mrow><mi>k</mi><mo>!</mo></mrow></mfrac></mrow></mstyle><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mstyle displaystyle=\"true\"><munderover><mo>∑</mo><mrow><mi>k</mi><mo>=</mo><mn>0</mn></mrow><mn>3</mn></munderover><mrow><mfrac><mn>2</mn><mrow><mi>k</mi><mo>!</mo></mrow></mfrac></mrow></mstyle><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.20",
+      "page": "12-1-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167829717882",
+      "context": [
+        "Find the Partial Sum"
+      ],
+      "text": "Expand the partial sum and find its value: \\(∑k=03\\frac{3}{k!}.\\)",
+      "math": [
+        "\\sum_{k=0}^{3}\\frac{3}{k!}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mstyle displaystyle=\"true\"><munderover><mo>∑</mo><mrow><mi>k</mi><mo>=</mo><mn>0</mn></mrow><mn>3</mn></munderover><mrow><mfrac><mn>3</mn><mrow><mi>k</mi><mo>!</mo></mrow></mfrac></mrow></mstyle><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mstyle displaystyle=\"true\"><munderover><mo>∑</mo><mrow><mi>k</mi><mo>=</mo><mn>0</mn></mrow><mn>3</mn></munderover><mrow><mfrac><mn>3</mn><mrow><mi>k</mi><mo>!</mo></mrow></mfrac></mrow></mstyle><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.21",
+      "page": "12-1-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167836605384",
+      "context": [
+        "Use Summation Notation to Write a Sum"
+      ],
+      "text": "Write the sum using summation notation: \\(\\frac{1}{2}+\\frac{1}{4}+\\frac{1}{8}+\\frac{1}{16}+\\frac{1}{32}.\\)",
+      "math": [
+        "\\frac{1}{2}+\\frac{1}{4}+\\frac{1}{8}+\\frac{1}{16}+\\frac{1}{32}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>8</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><mn>16</mn></mrow></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><mn>32</mn></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>8</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><mn>16</mn></mrow></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><mn>32</mn></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.22",
+      "page": "12-1-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167836531529",
+      "context": [
+        "Use Summation Notation to Write a Sum"
+      ],
+      "text": "Write the sum using summation notation: \\(1+\\frac{1}{4}+\\frac{1}{9}+\\frac{1}{16}+\\frac{1}{25}.\\)",
+      "math": [
+        "1+\\frac{1}{4}+\\frac{1}{9}+\\frac{1}{16}+\\frac{1}{25}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>1</mn><mo>+</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>9</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><mn>16</mn></mrow></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><mn>25</mn></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>1</mn><mo>+</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>9</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><mn>16</mn></mrow></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><mn>25</mn></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.23",
+      "page": "12-1-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167836542586",
+      "context": [
+        "Use Summation Notation to Write a Sum"
+      ],
+      "text": "Write each sum using summation notation: \\(1-4+9-16+25.\\)",
+      "math": [
+        "1-4+9-16+25."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>1</mn><mo>−</mo><mn>4</mn><mo>+</mo><mn>9</mn><mo>−</mo><mn>16</mn><mo>+</mo><mn>25</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>1</mn><mo>−</mo><mn>4</mn><mo>+</mo><mn>9</mn><mo>−</mo><mn>16</mn><mo>+</mo><mn>25</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "12.24",
+      "page": "12-1-sequences",
+      "is_try_it": true,
+      "anchor": "fs-id1167829627926",
+      "context": [
+        "Use Summation Notation to Write a Sum"
+      ],
+      "text": "Write each sum using summation notation: \\(-2+4-6+8-10.\\)",
+      "math": [
+        "-2+4-6+8-10."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−2</mn><mo>+</mo><mn>4</mn><mo>−</mo><mn>6</mn><mo>+</mo><mn>8</mn><mo>−</mo><mn>10</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−2</mn><mo>+</mo><mn>4</mn><mo>−</mo><mn>6</mn><mo>+</mo><mn>8</mn><mo>−</mo><mn>10</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

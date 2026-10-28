@@ -4,3 +4,5 @@ dist/
 .dev.vars*
 *.tmp.sqlite
 *.tsbuildinfo
+__pycache__/
+*.pyc

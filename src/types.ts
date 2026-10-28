@@ -22,6 +22,7 @@ export type Question = {
   module_slug: ModuleSlug;
   module_title: string;
   source_title: string;
+  source_id: string;
   source_authors: string;
   source_url: string;
   license_code: string;
@@ -33,6 +34,19 @@ export type Question = {
 
 export type QuestionsPayload = {
   version: number;
+  topics: Topic[];
   questions: Question[];
+};
+
+export type Topic = {
+  id: string;
+  slug: string;
+  title: string;
+  description: string;
+  position: number;
+  module_slug: ModuleSlug;
+  module_title: string;
+  parent_slug: string | null;
+  question_count: number;
 };
 

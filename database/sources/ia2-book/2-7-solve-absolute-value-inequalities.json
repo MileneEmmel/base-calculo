@@ -1,0 +1,1398 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/2-7-solve-absolute-value-inequalities",
+  "title": "2.7 Solve Absolute Value Inequalities",
+  "sha256": "fc725bc422d578ba48d409971c9f685e2791789f272c24783672b48b28cff84c",
+  "questions": [
+    {
+      "number": 434,
+      "anchor": "fs-id1167835241280",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "ⓐ \\(|x|=6\\) ⓑ \\(|y|=-3\\) ⓒ \\(|z|=0\\)",
+      "math": [
+        "|x|=6",
+        "|y|=-3",
+        "|z|=0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mi>x</mi><mo>|</mo></mrow><mo>=</mo><mn>6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mi>x</mi><mo>|</mo></mrow><mo>=</mo><mn>6</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mi>y</mi><mo>|</mo></mrow><mo>=</mo><mn>−3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mi>y</mi><mo>|</mo></mrow><mo>=</mo><mn>−3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mi>z</mi><mo>|</mo></mrow><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mi>z</mi><mo>|</mo></mrow><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 435,
+      "anchor": "fs-id1167835244537",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "ⓐ \\(|x|=4\\) ⓑ \\(|y|=-5\\) ⓒ \\(|z|=0\\)",
+      "math": [
+        "|x|=4",
+        "|y|=-5",
+        "|z|=0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mi>x</mi><mo>|</mo></mrow><mo>=</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mi>x</mi><mo>|</mo></mrow><mo>=</mo><mn>4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mi>y</mi><mo>|</mo></mrow><mo>=</mo><mn>−5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mi>y</mi><mo>|</mo></mrow><mo>=</mo><mn>−5</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mi>z</mi><mo>|</mo></mrow><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mi>z</mi><mo>|</mo></mrow><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 436,
+      "anchor": "fs-id1167832051939",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "ⓐ \\(|x|=7\\) ⓑ \\(|y|=-11\\) ⓒ \\(|z|=0\\)",
+      "math": [
+        "|x|=7",
+        "|y|=-11",
+        "|z|=0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mi>x</mi><mo>|</mo></mrow><mo>=</mo><mn>7</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mi>x</mi><mo>|</mo></mrow><mo>=</mo><mn>7</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mi>y</mi><mo>|</mo></mrow><mo>=</mo><mn>−11</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mi>y</mi><mo>|</mo></mrow><mo>=</mo><mn>−11</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mi>z</mi><mo>|</mo></mrow><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mi>z</mi><mo>|</mo></mrow><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 437,
+      "anchor": "fs-id1167834308101",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "ⓐ \\(|x|=3\\) ⓑ \\(|y|=-1\\) ⓒ \\(|z|=0\\)",
+      "math": [
+        "|x|=3",
+        "|y|=-1",
+        "|z|=0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mi>x</mi><mo>|</mo></mrow><mo>=</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mi>x</mi><mo>|</mo></mrow><mo>=</mo><mn>3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mi>y</mi><mo>|</mo></mrow><mo>=</mo><mn>−1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mi>y</mi><mo>|</mo></mrow><mo>=</mo><mn>−1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mi>z</mi><mo>|</mo></mrow><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mi>z</mi><mo>|</mo></mrow><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 438,
+      "anchor": "fs-id1167835379168",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(| 2 x - 3 | - 4 = 1\\)",
+      "math": [
+        "| 2 x - 3 | - 4 = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 439,
+      "anchor": "fs-id1167826938162",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(| 4 x - 1 | - 3 = 0\\)",
+      "math": [
+        "| 4 x - 1 | - 3 = 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>0</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 440,
+      "anchor": "fs-id1167834134944",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(| 3 x - 4 | + 5 = 7\\)",
+      "math": [
+        "| 3 x - 4 | + 5 = 7"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mo>=</mo>\n          <mn>7</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mo>=</mo>\n          <mn>7</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 441,
+      "anchor": "fs-id1167834227506",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(| 4 x + 7 | + 2 = 5\\)",
+      "math": [
+        "| 4 x + 7 | + 2 = 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 442,
+      "anchor": "fs-id1167835355673",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(4 | x - 1 | + 2 = 10\\)",
+      "math": [
+        "4 | x - 1 | + 2 = 10"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mn>10</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mn>10</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 443,
+      "anchor": "fs-id1167831896629",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(3 | x - 4 | + 2 = 11\\)",
+      "math": [
+        "3 | x - 4 | + 2 = 11"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mn>11</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mn>11</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 444,
+      "anchor": "fs-id1167834179726",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(3 | 4 x - 5 | - 4 = 11\\)",
+      "math": [
+        "3 | 4 x - 5 | - 4 = 11"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mo>=</mo>\n          <mn>11</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mo>=</mo>\n          <mn>11</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 445,
+      "anchor": "fs-id1167826874383",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(3 | x + 2 | - 5 = 4\\)",
+      "math": [
+        "3 | x + 2 | - 5 = 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mo>=</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mo>=</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 446,
+      "anchor": "fs-id1167831892744",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(-2 | x - 3 | + 8 = -4\\)",
+      "math": [
+        "-2 | x - 3 | + 8 = -4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−2</mn>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mo>=</mo>\n          <mn>−4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−2</mn>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mo>=</mo>\n          <mn>−4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 447,
+      "anchor": "fs-id1167835351901",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(-3 | x - 4 | + 4 = -5\\)",
+      "math": [
+        "-3 | x - 4 | + 4 = -5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−3</mn>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mo>=</mo>\n          <mn>−5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−3</mn>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mo>=</mo>\n          <mn>−5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 448,
+      "anchor": "fs-id1167834064105",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(| \\frac{3}{4} x - 3 | + 7 = 2\\)",
+      "math": [
+        "| \\frac{3}{4} x - 3 | + 7 = 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mfrac>\n                <mn>3</mn>\n                <mn>4</mn>\n              </mfrac>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mfrac>\n                <mn>3</mn>\n                <mn>4</mn>\n              </mfrac>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 449,
+      "anchor": "fs-id1167832075528",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(| \\frac{3}{5} x - 2 | + 5 = 2\\)",
+      "math": [
+        "| \\frac{3}{5} x - 2 | + 5 = 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mfrac>\n                <mn>3</mn>\n                <mn>5</mn>\n              </mfrac>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mfrac>\n                <mn>3</mn>\n                <mn>5</mn>\n              </mfrac>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mo>=</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 450,
+      "anchor": "fs-id1167834279901",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(| \\frac{1}{2} x + 5 | + 4 = 1\\)",
+      "math": [
+        "| \\frac{1}{2} x + 5 | + 4 = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>2</mn>\n              </mfrac>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>2</mn>\n              </mfrac>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 451,
+      "anchor": "fs-id1167835531744",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(| \\frac{1}{4} x + 3 | + 3 = 1\\)",
+      "math": [
+        "| \\frac{1}{4} x + 3 | + 3 = 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>4</mn>\n              </mfrac>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>4</mn>\n              </mfrac>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 452,
+      "anchor": "fs-id1167831883320",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(| 3 x - 2 | = | 2 x - 3 |\\)",
+      "math": [
+        "| 3 x - 2 | = | 2 x - 3 |"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>=</mo>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>=</mo>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 453,
+      "anchor": "fs-id1167826987283",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(| 4 x + 3 | = | 2 x + 1 |\\)",
+      "math": [
+        "| 4 x + 3 | = | 2 x + 1 |"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>=</mo>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>=</mo>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 454,
+      "anchor": "fs-id1167830770225",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(| 6 x - 5 | = | 2 x + 3 |\\)",
+      "math": [
+        "| 6 x - 5 | = | 2 x + 3 |"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>6</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>=</mo>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>6</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>=</mo>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 455,
+      "anchor": "fs-id1167834098374",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Equations",
+        "In the following exercises, solve."
+      ],
+      "text": "\\(| 6 - x | = | 3 - 2 x |\\)",
+      "math": [
+        "| 6 - x | = | 3 - 2 x |"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>6</mn>\n              <mo>−</mo>\n              <mi>x</mi>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>=</mo>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>3</mn>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>x</mi>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>6</mn>\n              <mo>−</mo>\n              <mi>x</mi>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>=</mo>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>3</mn>\n              <mo>−</mo>\n              <mn>2</mn>\n              <mi>x</mi>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 456,
+      "anchor": "fs-id1167834432808",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Inequalities with “less than”",
+        "In the following exercises, solve each inequality. Graph the solution and write the solution in interval notation."
+      ],
+      "text": "\\(| x | < 5\\)",
+      "math": [
+        "| x | < 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mi>x</mi>\n            <mo>|</mo>\n          </mrow>\n          <mo>&lt;</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mi>x</mi>\n            <mo>|</mo>\n          </mrow>\n          <mo>&lt;</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 457,
+      "anchor": "fs-id1167835417913",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Inequalities with “less than”",
+        "In the following exercises, solve each inequality. Graph the solution and write the solution in interval notation."
+      ],
+      "text": "\\(| x | < 1\\)",
+      "math": [
+        "| x | < 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mi>x</mi>\n            <mo>|</mo>\n          </mrow>\n          <mo>&lt;</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mi>x</mi>\n            <mo>|</mo>\n          </mrow>\n          <mo>&lt;</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 458,
+      "anchor": "fs-id1167830697917",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Inequalities with “less than”",
+        "In the following exercises, solve each inequality. Graph the solution and write the solution in interval notation."
+      ],
+      "text": "\\(| x | ≤ 8\\)",
+      "math": [
+        "| x | \\le 8"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mi>x</mi>\n            <mo>|</mo>\n          </mrow>\n          <mo>≤</mo>\n          <mn>8</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mi>x</mi>\n            <mo>|</mo>\n          </mrow>\n          <mo>≤</mo>\n          <mn>8</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 459,
+      "anchor": "fs-id1167831881549",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Inequalities with “less than”",
+        "In the following exercises, solve each inequality. Graph the solution and write the solution in interval notation."
+      ],
+      "text": "\\(| x | ≤ 3\\)",
+      "math": [
+        "| x | \\le 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mi>x</mi>\n            <mo>|</mo>\n          </mrow>\n          <mo>≤</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mi>x</mi>\n            <mo>|</mo>\n          </mrow>\n          <mo>≤</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 460,
+      "anchor": "fs-id1167834430869",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Inequalities with “less than”",
+        "In the following exercises, solve each inequality. Graph the solution and write the solution in interval notation."
+      ],
+      "text": "\\(| 3 x - 3 | ≤ 6\\)",
+      "math": [
+        "| 3 x - 3 | \\le 6"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>≤</mo>\n          <mn>6</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>≤</mo>\n          <mn>6</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 461,
+      "anchor": "fs-id1167830961942",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Inequalities with “less than”",
+        "In the following exercises, solve each inequality. Graph the solution and write the solution in interval notation."
+      ],
+      "text": "\\(| 2 x - 5 | ≤ 3\\)",
+      "math": [
+        "| 2 x - 5 | \\le 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>≤</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>≤</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 462,
+      "anchor": "fs-id1167835489076",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Inequalities with “less than”",
+        "In the following exercises, solve each inequality. Graph the solution and write the solution in interval notation."
+      ],
+      "text": "\\(| 2 x + 3 | + 5 < 4\\)",
+      "math": [
+        "| 2 x + 3 | + 5 < 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mo>&lt;</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mo>&lt;</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 463,
+      "anchor": "fs-id1167831920356",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Inequalities with “less than”",
+        "In the following exercises, solve each inequality. Graph the solution and write the solution in interval notation."
+      ],
+      "text": "\\(| 3 x - 7 | + 3 < 1\\)",
+      "math": [
+        "| 3 x - 7 | + 3 < 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mo>&lt;</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mo>&lt;</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 464,
+      "anchor": "fs-id1167832053707",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Inequalities with “less than”",
+        "In the following exercises, solve each inequality. Graph the solution and write the solution in interval notation."
+      ],
+      "text": "\\(| 4 x - 3 | < 1\\)",
+      "math": [
+        "| 4 x - 3 | < 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>&lt;</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>&lt;</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 465,
+      "anchor": "fs-id1167831824995",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Inequalities with “less than”",
+        "In the following exercises, solve each inequality. Graph the solution and write the solution in interval notation."
+      ],
+      "text": "\\(| 6 x - 5 | < 7\\)",
+      "math": [
+        "| 6 x - 5 | < 7"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>6</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>&lt;</mo>\n          <mn>7</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>6</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>&lt;</mo>\n          <mn>7</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 466,
+      "anchor": "fs-id1167835327455",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Inequalities with “less than”",
+        "In the following exercises, solve each inequality. Graph the solution and write the solution in interval notation."
+      ],
+      "text": "\\(| x - 4 | ≤ -1\\)",
+      "math": [
+        "| x - 4 | \\le -1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>≤</mo>\n          <mn>−1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>≤</mo>\n          <mn>−1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 467,
+      "anchor": "fs-id1167831894282",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Inequalities with “less than”",
+        "In the following exercises, solve each inequality. Graph the solution and write the solution in interval notation."
+      ],
+      "text": "\\(| 5 x + 1 | ≤ -2\\)",
+      "math": [
+        "| 5 x + 1 | \\le -2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>≤</mo>\n          <mn>−2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>5</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>≤</mo>\n          <mn>−2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 468,
+      "anchor": "fs-id1167834536113",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Inequalities with “greater than”",
+        "In the following exercises, solve each inequality. Graph the solution and write the solution in interval notation."
+      ],
+      "text": "\\(| x | > 3\\)",
+      "math": [
+        "| x | > 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mi>x</mi>\n            <mo>|</mo>\n          </mrow>\n          <mo>&gt;</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mi>x</mi>\n            <mo>|</mo>\n          </mrow>\n          <mo>&gt;</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 469,
+      "anchor": "fs-id1167835589715",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Inequalities with “greater than”",
+        "In the following exercises, solve each inequality. Graph the solution and write the solution in interval notation."
+      ],
+      "text": "\\(| x | > 6\\)",
+      "math": [
+        "| x | > 6"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mi>x</mi>\n            <mo>|</mo>\n          </mrow>\n          <mo>&gt;</mo>\n          <mn>6</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mi>x</mi>\n            <mo>|</mo>\n          </mrow>\n          <mo>&gt;</mo>\n          <mn>6</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 470,
+      "anchor": "fs-id1167835235781",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Inequalities with “greater than”",
+        "In the following exercises, solve each inequality. Graph the solution and write the solution in interval notation."
+      ],
+      "text": "\\(| x | ≥ 2\\)",
+      "math": [
+        "| x | \\ge 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mi>x</mi>\n            <mo>|</mo>\n          </mrow>\n          <mo>≥</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mi>x</mi>\n            <mo>|</mo>\n          </mrow>\n          <mo>≥</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 471,
+      "anchor": "fs-id1167835479279",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Inequalities with “greater than”",
+        "In the following exercises, solve each inequality. Graph the solution and write the solution in interval notation."
+      ],
+      "text": "\\(| x | ≥ 5\\)",
+      "math": [
+        "| x | \\ge 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mi>x</mi>\n            <mo>|</mo>\n          </mrow>\n          <mo>≥</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mi>x</mi>\n            <mo>|</mo>\n          </mrow>\n          <mo>≥</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 472,
+      "anchor": "fs-id1167826782509",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Inequalities with “greater than”",
+        "In the following exercises, solve each inequality. Graph the solution and write the solution in interval notation."
+      ],
+      "text": "\\(| 3 x - 8 | > - 1\\)",
+      "math": [
+        "| 3 x - 8 | > - 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>8</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>&gt;</mo>\n          <mtext>−</mtext>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>8</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>&gt;</mo>\n          <mtext>−</mtext>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 473,
+      "anchor": "fs-id1167830693625",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Inequalities with “greater than”",
+        "In the following exercises, solve each inequality. Graph the solution and write the solution in interval notation."
+      ],
+      "text": "\\(| x - 5 | > - 2\\)",
+      "math": [
+        "| x - 5 | > - 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>&gt;</mo>\n          <mtext>−</mtext>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>&gt;</mo>\n          <mtext>−</mtext>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 474,
+      "anchor": "fs-id1167835214240",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Inequalities with “greater than”",
+        "In the following exercises, solve each inequality. Graph the solution and write the solution in interval notation."
+      ],
+      "text": "\\(| 3 x - 2 | > 4\\)",
+      "math": [
+        "| 3 x - 2 | > 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>&gt;</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>&gt;</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 475,
+      "anchor": "fs-id1167832065987",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Inequalities with “greater than”",
+        "In the following exercises, solve each inequality. Graph the solution and write the solution in interval notation."
+      ],
+      "text": "\\(| 2 x - 1 | > 5\\)",
+      "math": [
+        "| 2 x - 1 | > 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>&gt;</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>&gt;</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 476,
+      "anchor": "fs-id1167834428846",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Inequalities with “greater than”",
+        "In the following exercises, solve each inequality. Graph the solution and write the solution in interval notation."
+      ],
+      "text": "\\(| x + 3 | ≥ 5\\)",
+      "math": [
+        "| x + 3 | \\ge 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>≥</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>≥</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 477,
+      "anchor": "fs-id1167835301470",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Inequalities with “greater than”",
+        "In the following exercises, solve each inequality. Graph the solution and write the solution in interval notation."
+      ],
+      "text": "\\(| x - 7 | ≥ 1\\)",
+      "math": [
+        "| x - 7 | \\ge 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>≥</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>≥</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 478,
+      "anchor": "fs-id1167834377054",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Inequalities with “greater than”",
+        "In the following exercises, solve each inequality. Graph the solution and write the solution in interval notation."
+      ],
+      "text": "\\(3 | x | + 4 ≥ 1\\)",
+      "math": [
+        "3 | x | + 4 \\ge 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <mrow>\n            <mo>|</mo>\n            <mi>x</mi>\n            <mo>|</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mo>≥</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <mrow>\n            <mo>|</mo>\n            <mi>x</mi>\n            <mo>|</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mo>≥</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 479,
+      "anchor": "fs-id1167832015454",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Absolute Value Inequalities with “greater than”",
+        "In the following exercises, solve each inequality. Graph the solution and write the solution in interval notation."
+      ],
+      "text": "\\(5 | x | + 6 ≥ 1\\)",
+      "math": [
+        "5 | x | + 6 \\ge 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>5</mn>\n          <mrow>\n            <mo>|</mo>\n            <mi>x</mi>\n            <mo>|</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mo>≥</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>5</mn>\n          <mrow>\n            <mo>|</mo>\n            <mi>x</mi>\n            <mo>|</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mo>≥</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 480,
+      "anchor": "fs-id1167834432602",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality. Graph the solution and write the solution in interval notation.",
+        "In the following exercises, solve. For each inequality, also graph the solution and write the solution in interval notation."
+      ],
+      "text": "\\(2 | x + 6 | + 4 = 8\\)",
+      "math": [
+        "2 | x + 6 | + 4 = 8"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mo>=</mo>\n          <mn>8</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>6</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mo>=</mo>\n          <mn>8</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 481,
+      "anchor": "fs-id1167832043932",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality. Graph the solution and write the solution in interval notation.",
+        "In the following exercises, solve. For each inequality, also graph the solution and write the solution in interval notation."
+      ],
+      "text": "\\(| 6 x - 5 | = | 2 x + 3 |\\)",
+      "math": [
+        "| 6 x - 5 | = | 2 x + 3 |"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>6</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>=</mo>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>6</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>=</mo>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 482,
+      "anchor": "fs-id1167834192354",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality. Graph the solution and write the solution in interval notation.",
+        "In the following exercises, solve. For each inequality, also graph the solution and write the solution in interval notation."
+      ],
+      "text": "\\(| 3 x - 4 | ≥ 2\\)",
+      "math": [
+        "| 3 x - 4 | \\ge 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>≥</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>≥</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 483,
+      "anchor": "fs-id1167835375364",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality. Graph the solution and write the solution in interval notation.",
+        "In the following exercises, solve. For each inequality, also graph the solution and write the solution in interval notation."
+      ],
+      "text": "\\(| 2 x - 5 | + 2 = 3\\)",
+      "math": [
+        "| 2 x - 5 | + 2 = 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>=</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 484,
+      "anchor": "fs-id1167835352698",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality. Graph the solution and write the solution in interval notation.",
+        "In the following exercises, solve. For each inequality, also graph the solution and write the solution in interval notation."
+      ],
+      "text": "\\(| 4 x - 3 | < 5\\)",
+      "math": [
+        "| 4 x - 3 | < 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>&lt;</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>&lt;</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 485,
+      "anchor": "fs-id1167834506132",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality. Graph the solution and write the solution in interval notation.",
+        "In the following exercises, solve. For each inequality, also graph the solution and write the solution in interval notation."
+      ],
+      "text": "\\(| 3 x + 1 | - 3 = 7\\)",
+      "math": [
+        "| 3 x + 1 | - 3 = 7"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>7</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>7</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 486,
+      "anchor": "fs-id1167834120820",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality. Graph the solution and write the solution in interval notation.",
+        "In the following exercises, solve. For each inequality, also graph the solution and write the solution in interval notation."
+      ],
+      "text": "\\(| 7 x + 2 | + 8 < 4\\)",
+      "math": [
+        "| 7 x + 2 | + 8 < 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>7</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mo>&lt;</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>7</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mo>&lt;</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 487,
+      "anchor": "fs-id1167832067076",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality. Graph the solution and write the solution in interval notation.",
+        "In the following exercises, solve. For each inequality, also graph the solution and write the solution in interval notation."
+      ],
+      "text": "\\(5 | 2 x - 1 | - 3 = 7\\)",
+      "math": [
+        "5 | 2 x - 1 | - 3 = 7"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>5</mn>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>7</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>5</mn>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mo>=</mo>\n          <mn>7</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 488,
+      "anchor": "fs-id1167831911212",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality. Graph the solution and write the solution in interval notation.",
+        "In the following exercises, solve. For each inequality, also graph the solution and write the solution in interval notation."
+      ],
+      "text": "\\(| 8 - x | = | 4 - 3 x |\\)",
+      "math": [
+        "| 8 - x | = | 4 - 3 x |"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>8</mn>\n              <mo>−</mo>\n              <mi>x</mi>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>=</mo>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>4</mn>\n              <mo>−</mo>\n              <mn>3</mn>\n              <mi>x</mi>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>8</mn>\n              <mo>−</mo>\n              <mi>x</mi>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>=</mo>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mn>4</mn>\n              <mo>−</mo>\n              <mn>3</mn>\n              <mi>x</mi>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 489,
+      "anchor": "fs-id1167831883998",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality. Graph the solution and write the solution in interval notation.",
+        "In the following exercises, solve. For each inequality, also graph the solution and write the solution in interval notation."
+      ],
+      "text": "\\(| x - 7 | > - 3\\)",
+      "math": [
+        "| x - 7 | > - 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>&gt;</mo>\n          <mtext>−</mtext>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>|</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>|</mo>\n          </mrow>\n          <mo>&gt;</mo>\n          <mtext>−</mtext>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 490,
+      "anchor": "fs-id1167830961506",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Applications with Absolute Value",
+        "In the following exercises, solve."
+      ],
+      "text": "A chicken farm ideally produces 200,000 eggs per day. But this total can vary by as much as 25,000 eggs. What is the maximum and minimum expected production at the farm?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 491,
+      "anchor": "fs-id1167835534335",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Applications with Absolute Value",
+        "In the following exercises, solve."
+      ],
+      "text": "An organic juice bottler ideally produces 215,000 bottle per day. But this total can vary by as much as 7,500 bottles. What is the maximum and minimum expected production at the bottling company?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 492,
+      "anchor": "fs-id1167835287299",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Applications with Absolute Value",
+        "In the following exercises, solve."
+      ],
+      "text": "In order to insure compliance with the law, Miguel routinely overshoots the weight of his tortillas by 0.5 gram. He just received a report that told him that he could be losing as much as $100,000 per year using this practice. He now plans to buy new equipment that guarantees the thickness of the tortilla within 0.005 inches. If the ideal thickness of the tortilla is 0.04 inches, what thickness of tortillas will be guaranteed?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 493,
+      "anchor": "fs-id1167835368288",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Solve Applications with Absolute Value",
+        "In the following exercises, solve."
+      ],
+      "text": "At Lilly’s Bakery, the ideal weight of a loaf of bread is 24 ounces. By law, the actual weight can vary from the ideal by 1.5 ounces. What range of weight will be acceptable to the inspector without causing the bakery being fined?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 494,
+      "anchor": "fs-id1167835334267",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Write a graphical description of the absolute value of a number.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 495,
+      "anchor": "fs-id1167832153475",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "In your own words, explain how to solve the absolute value inequality, \\(|3x-2|≥4.\\)",
+      "math": [
+        "|3x-2|\\ge 4."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>2</mn></mrow><mo>|</mo></mrow><mo>≥</mo><mn>4</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>2</mn></mrow><mo>|</mo></mrow><mo>≥</mo><mn>4</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "2.135",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167834429828",
+      "context": [
+        "Solve Absolute Value Equations"
+      ],
+      "text": "Solve: ⓐ \\(|x|=2\\) ⓑ \\(|y|=-4\\) ⓒ \\(|z|=0\\)",
+      "math": [
+        "|x|=2",
+        "|y|=-4",
+        "|z|=0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mi>x</mi><mo>|</mo></mrow><mo>=</mo><mn>2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mi>x</mi><mo>|</mo></mrow><mo>=</mo><mn>2</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mi>y</mi><mo>|</mo></mrow><mo>=</mo><mn>−4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mi>y</mi><mo>|</mo></mrow><mo>=</mo><mn>−4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mi>z</mi><mo>|</mo></mrow><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mi>z</mi><mo>|</mo></mrow><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.136",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167835348491",
+      "context": [
+        "Solve Absolute Value Equations"
+      ],
+      "text": "Solve: ⓐ \\(|x|=11\\) ⓑ \\(|y|=-5\\) ⓒ \\(|z|=0\\)",
+      "math": [
+        "|x|=11",
+        "|y|=-5",
+        "|z|=0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mi>x</mi><mo>|</mo></mrow><mo>=</mo><mn>11</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mi>x</mi><mo>|</mo></mrow><mo>=</mo><mn>11</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mi>y</mi><mo>|</mo></mrow><mo>=</mo><mn>−5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mi>y</mi><mo>|</mo></mrow><mo>=</mo><mn>−5</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mi>z</mi><mo>|</mo></mrow><mo>=</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mi>z</mi><mo>|</mo></mrow><mo>=</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.137",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167835267517",
+      "context": [
+        "Solve Absolute Value Equations"
+      ],
+      "text": "Solve: \\(|3x-5|-1=6.\\)",
+      "math": [
+        "|3x-5|-1=6."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>5</mn></mrow><mo>|</mo></mrow><mo>−</mo><mn>1</mn><mo>=</mo><mn>6</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>5</mn></mrow><mo>|</mo></mrow><mo>−</mo><mn>1</mn><mo>=</mo><mn>6</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.138",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167835353084",
+      "context": [
+        "Solve Absolute Value Equations"
+      ],
+      "text": "Solve: \\(|4x-3|-5=2.\\)",
+      "math": [
+        "|4x-3|-5=2."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mrow><mn>4</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow><mo>|</mo></mrow><mo>−</mo><mn>5</mn><mo>=</mo><mn>2</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mrow><mn>4</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow><mo>|</mo></mrow><mo>−</mo><mn>5</mn><mo>=</mo><mn>2</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.139",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167835371191",
+      "context": [
+        "Solve Absolute Value Equations"
+      ],
+      "text": "Solve: \\(3|x-4|-4=8.\\)",
+      "math": [
+        "3|x-4|-4=8."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mrow><mo>|</mo><mrow><mi>x</mi><mo>−</mo><mn>4</mn></mrow><mo>|</mo></mrow><mo>−</mo><mn>4</mn><mo>=</mo><mn>8</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mrow><mo>|</mo><mrow><mi>x</mi><mo>−</mo><mn>4</mn></mrow><mo>|</mo></mrow><mo>−</mo><mn>4</mn><mo>=</mo><mn>8</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.140",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167835349582",
+      "context": [
+        "Solve Absolute Value Equations"
+      ],
+      "text": "Solve: \\(2|x-5|+3=9.\\)",
+      "math": [
+        "2|x-5|+3=9."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mrow><mo>|</mo><mrow><mi>x</mi><mo>−</mo><mn>5</mn></mrow><mo>|</mo></mrow><mo>+</mo><mn>3</mn><mo>=</mo><mn>9</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mrow><mo>|</mo><mrow><mi>x</mi><mo>−</mo><mn>5</mn></mrow><mo>|</mo></mrow><mo>+</mo><mn>3</mn><mo>=</mo><mn>9</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.141",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167834192376",
+      "context": [
+        "Solve Absolute Value Equations"
+      ],
+      "text": "Solve: \\(|\\frac{3}{4}x-5|+9=4.\\)",
+      "math": [
+        "|\\frac{3}{4}x-5|+9=4."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac><mi>x</mi><mo>−</mo><mn>5</mn></mrow><mo>|</mo></mrow><mo>+</mo><mn>9</mn><mo>=</mo><mn>4</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac><mi>x</mi><mo>−</mo><mn>5</mn></mrow><mo>|</mo></mrow><mo>+</mo><mn>9</mn><mo>=</mo><mn>4</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.142",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167834489662",
+      "context": [
+        "Solve Absolute Value Equations"
+      ],
+      "text": "Solve: \\(|\\frac{5}{6}x+3|+8=6.\\)",
+      "math": [
+        "|\\frac{5}{6}x+3|+8=6."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mrow><mfrac><mn>5</mn><mn>6</mn></mfrac><mi>x</mi><mo>+</mo><mn>3</mn></mrow><mo>|</mo></mrow><mo>+</mo><mn>8</mn><mo>=</mo><mn>6</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mrow><mfrac><mn>5</mn><mn>6</mn></mfrac><mi>x</mi><mo>+</mo><mn>3</mn></mrow><mo>|</mo></mrow><mo>+</mo><mn>8</mn><mo>=</mo><mn>6</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.143",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167835310674",
+      "context": [
+        "Solve Absolute Value Equations"
+      ],
+      "text": "Solve: \\(|7x-3|=|3x+7|.\\)",
+      "math": [
+        "|7x-3|=|3x+7|."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mrow><mn>7</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow><mo>|</mo></mrow><mo>=</mo><mrow><mo>|</mo><mrow><mn>3</mn><mi>x</mi><mo>+</mo><mn>7</mn></mrow><mo>|</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mrow><mn>7</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow><mo>|</mo></mrow><mo>=</mo><mrow><mo>|</mo><mrow><mn>3</mn><mi>x</mi><mo>+</mo><mn>7</mn></mrow><mo>|</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.144",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167835330291",
+      "context": [
+        "Solve Absolute Value Equations"
+      ],
+      "text": "Solve: \\(|6x-5|=|3x+4|.\\)",
+      "math": [
+        "|6x-5|=|3x+4|."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mrow><mn>6</mn><mi>x</mi><mo>−</mo><mn>5</mn></mrow><mo>|</mo></mrow><mo>=</mo><mrow><mo>|</mo><mrow><mn>3</mn><mi>x</mi><mo>+</mo><mn>4</mn></mrow><mo>|</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mrow><mn>6</mn><mi>x</mi><mo>−</mo><mn>5</mn></mrow><mo>|</mo></mrow><mo>=</mo><mrow><mo>|</mo><mrow><mn>3</mn><mi>x</mi><mo>+</mo><mn>4</mn></mrow><mo>|</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.145",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167832066840",
+      "context": [
+        "Solve Absolute Value Inequalities with “Less Than”"
+      ],
+      "text": "Graph the solution and write the solution in interval notation: \\(|x|<9.\\)",
+      "math": [
+        "|x|<9."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mi>x</mi><mo>|</mo></mrow><mo>&lt;</mo><mn>9</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mi>x</mi><mo>|</mo></mrow><mo>&lt;</mo><mn>9</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.146",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167835350323",
+      "context": [
+        "Solve Absolute Value Inequalities with “Less Than”"
+      ],
+      "text": "Graph the solution and write the solution in interval notation: \\(|x|<1.\\)",
+      "math": [
+        "|x|<1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mi>x</mi><mo>|</mo></mrow><mo>&lt;</mo><mn>1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mi>x</mi><mo>|</mo></mrow><mo>&lt;</mo><mn>1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.147",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167835358273",
+      "context": [
+        "Solve Absolute Value Inequalities with “Less Than”"
+      ],
+      "text": "Solve \\(|2x-1|≤5.\\) Graph the solution and write the solution in interval notation:",
+      "math": [
+        "|2x-1|\\le 5."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow><mo>|</mo></mrow><mo>≤</mo><mn>5</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>1</mn></mrow><mo>|</mo></mrow><mo>≤</mo><mn>5</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.148",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167826782420",
+      "context": [
+        "Solve Absolute Value Inequalities with “Less Than”"
+      ],
+      "text": "Solve \\(|4x-5|≤3.\\) Graph the solution and write the solution in interval notation:",
+      "math": [
+        "|4x-5|\\le 3."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mrow><mn>4</mn><mi>x</mi><mo>−</mo><mn>5</mn></mrow><mo>|</mo></mrow><mo>≤</mo><mn>3</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mrow><mn>4</mn><mi>x</mi><mo>−</mo><mn>5</mn></mrow><mo>|</mo></mrow><mo>≤</mo><mn>3</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.149",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167835334792",
+      "context": [
+        "Solve Absolute Value Inequalities with “Greater Than”"
+      ],
+      "text": "Solve \\(|x|>2.\\) Graph the solution and write the solution in interval notation.",
+      "math": [
+        "|x|>2."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mi>x</mi><mo>|</mo></mrow><mo>&gt;</mo><mn>2</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mi>x</mi><mo>|</mo></mrow><mo>&gt;</mo><mn>2</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.150",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167835365420",
+      "context": [
+        "Solve Absolute Value Inequalities with “Greater Than”"
+      ],
+      "text": "Solve \\(|x|>1.\\) Graph the solution and write the solution in interval notation.",
+      "math": [
+        "|x|>1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mi>x</mi><mo>|</mo></mrow><mo>&gt;</mo><mn>1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mi>x</mi><mo>|</mo></mrow><mo>&gt;</mo><mn>1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.151",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167830704071",
+      "context": [
+        "Solve Absolute Value Inequalities with “Greater Than”"
+      ],
+      "text": "Solve \\(|4x-3|≥5.\\) Graph the solution and write the solution in interval notation.",
+      "math": [
+        "|4x-3|\\ge 5."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mrow><mn>4</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow><mo>|</mo></mrow><mo>≥</mo><mn>5</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mrow><mn>4</mn><mi>x</mi><mo>−</mo><mn>3</mn></mrow><mo>|</mo></mrow><mo>≥</mo><mn>5</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.152",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167834294495",
+      "context": [
+        "Solve Absolute Value Inequalities with “Greater Than”"
+      ],
+      "text": "Solve \\(|3x-4|≥2.\\) Graph the solution and write the solution in interval notation.",
+      "math": [
+        "|3x-4|\\ge 2."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>|</mo><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn></mrow><mo>|</mo></mrow><mo>≥</mo><mn>2</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>|</mo><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn></mrow><mo>|</mo></mrow><mo>≥</mo><mn>2</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.153",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167835306096",
+      "context": [
+        "Solve Applications with Absolute Value"
+      ],
+      "text": "The ideal diameter of a rod needed for a machine is 80 mm. The actual diameter can vary from the ideal diameter by 0.009 mm. What range of diameters will be acceptable to the customer without causing the rod to be rejected?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "2.154",
+      "page": "2-7-solve-absolute-value-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167835370686",
+      "context": [
+        "Solve Applications with Absolute Value"
+      ],
+      "text": "The ideal diameter of a rod needed for a machine is 75 mm. The actual diameter can vary from the ideal diameter by 0.05 mm. What range of diameters will be acceptable to the customer without causing the rod to be rejected?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

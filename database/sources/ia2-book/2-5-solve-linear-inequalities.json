@@ -1,0 +1,1712 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/2-5-solve-linear-inequalities",
+  "title": "2.5 Solve Linear Inequalities",
+  "sha256": "9ec8c64d8462d8d1b5fad8c8470c0c7a2db5af43ba3bb27d01d7b19e2271c168",
+  "questions": [
+    {
+      "number": 296,
+      "anchor": "fs-id1167832059733",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Graph Inequalities on the Number Line",
+        "In the following exercises, graph each inequality on the number line and write in interval notation."
+      ],
+      "text": "ⓐ \\(x<-2\\)ⓑ \\(x≥-3.5\\)ⓒ \\(x≤\\frac{2}{3}\\)",
+      "math": [
+        "x<-2",
+        "x\\ge -3.5",
+        "x\\le \\frac{2}{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>&lt;</mo><mn>−2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>&lt;</mo><mn>−2</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>≥</mo><mn>−3.5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>≥</mo><mn>−3.5</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>≤</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>≤</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 297,
+      "anchor": "fs-id1167832058612",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Graph Inequalities on the Number Line",
+        "In the following exercises, graph each inequality on the number line and write in interval notation."
+      ],
+      "text": "ⓐ \\(x>3\\)ⓑ \\(x≤-0.5\\)ⓒ \\(x≥\\frac{1}{3}\\)",
+      "math": [
+        "x>3",
+        "x\\le -0.5",
+        "x\\ge \\frac{1}{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>&gt;</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>&gt;</mo><mn>3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>≤</mo><mn>−0.5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>≤</mo><mn>−0.5</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>≥</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>≥</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 298,
+      "anchor": "fs-id1167835318324",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Graph Inequalities on the Number Line",
+        "In the following exercises, graph each inequality on the number line and write in interval notation."
+      ],
+      "text": "ⓐ \\(x≥-4\\)ⓑ \\(x<2.5\\)ⓒ \\(x>-\\frac{3}{2}\\)",
+      "math": [
+        "x\\ge -4",
+        "x<2.5",
+        "x>-\\frac{3}{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>≥</mo><mn>−4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>≥</mo><mn>−4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>&lt;</mo><mn>2.5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>&lt;</mo><mn>2.5</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>&gt;</mo><mo>−</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>&gt;</mo><mo>−</mo><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 299,
+      "anchor": "fs-id1167835415275",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Graph Inequalities on the Number Line",
+        "In the following exercises, graph each inequality on the number line and write in interval notation."
+      ],
+      "text": "ⓐ \\(x≤5\\)ⓑ \\(x≥-1.5\\)ⓒ \\(x<-\\frac{7}{3}\\)",
+      "math": [
+        "x\\le 5",
+        "x\\ge -1.5",
+        "x<-\\frac{7}{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>≤</mo><mn>5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>≤</mo><mn>5</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>≥</mo><mn>−1.5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>≥</mo><mn>−1.5</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>&lt;</mo><mo>−</mo><mfrac><mn>7</mn><mn>3</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>&lt;</mo><mo>−</mo><mfrac><mn>7</mn><mn>3</mn></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 300,
+      "anchor": "fs-id1167834505878",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Graph Inequalities on the Number Line",
+        "In the following exercises, graph each inequality on the number line and write in interval notation."
+      ],
+      "text": "ⓐ \\(-5<x<2\\)ⓑ \\(-3≤x<1\\)ⓒ \\(0≤x≤1.5\\)",
+      "math": [
+        "-5<x<2",
+        "-3\\le x<1",
+        "0\\le x\\le 1.5"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−5</mn><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mn>2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−5</mn><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mn>2</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−3</mn><mo>≤</mo><mi>x</mi><mo>&lt;</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−3</mn><mo>≤</mo><mi>x</mi><mo>&lt;</mo><mn>1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>0</mn><mo>≤</mo><mi>x</mi><mo>≤</mo><mn>1.5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>0</mn><mo>≤</mo><mi>x</mi><mo>≤</mo><mn>1.5</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 301,
+      "anchor": "fs-id1167834097969",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Graph Inequalities on the Number Line",
+        "In the following exercises, graph each inequality on the number line and write in interval notation."
+      ],
+      "text": "ⓐ \\(-2<x<0\\)ⓑ \\(-5≤x<-3\\)ⓒ \\(0≤x≤3.5\\)",
+      "math": [
+        "-2<x<0",
+        "-5\\le x<-3",
+        "0\\le x\\le 3.5"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−2</mn><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−2</mn><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mn>0</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−5</mn><mo>≤</mo><mi>x</mi><mo>&lt;</mo><mn>−3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−5</mn><mo>≤</mo><mi>x</mi><mo>&lt;</mo><mn>−3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>0</mn><mo>≤</mo><mi>x</mi><mo>≤</mo><mn>3.5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>0</mn><mo>≤</mo><mi>x</mi><mo>≤</mo><mn>3.5</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 302,
+      "anchor": "fs-id1167834279403",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Graph Inequalities on the Number Line",
+        "In the following exercises, graph each inequality on the number line and write in interval notation."
+      ],
+      "text": "ⓐ \\(-1<x<3\\)ⓑ \\(-3<x≤-2\\)ⓒ \\(-1.25≤x≤0\\)",
+      "math": [
+        "-1<x<3",
+        "-3<x\\le -2",
+        "-1.25\\le x\\le 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−1</mn><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−1</mn><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mn>3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−3</mn><mo>&lt;</mo><mi>x</mi><mo>≤</mo><mn>−2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−3</mn><mo>&lt;</mo><mi>x</mi><mo>≤</mo><mn>−2</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−1.25</mn><mo>≤</mo><mi>x</mi><mo>≤</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−1.25</mn><mo>≤</mo><mi>x</mi><mo>≤</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 303,
+      "anchor": "fs-id1167835387177",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Graph Inequalities on the Number Line",
+        "In the following exercises, graph each inequality on the number line and write in interval notation."
+      ],
+      "text": "ⓐ \\(-4<x<2\\)ⓑ \\(-5<x≤-2\\)ⓒ \\(-3.75≤x≤0\\)",
+      "math": [
+        "-4<x<2",
+        "-5<x\\le -2",
+        "-3.75\\le x\\le 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−4</mn><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mn>2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−4</mn><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mn>2</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−5</mn><mo>&lt;</mo><mi>x</mi><mo>≤</mo><mn>−2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−5</mn><mo>&lt;</mo><mi>x</mi><mo>≤</mo><mn>−2</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−3.75</mn><mo>≤</mo><mi>x</mi><mo>≤</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−3.75</mn><mo>≤</mo><mi>x</mi><mo>≤</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 304,
+      "anchor": "fs-id1167831922822",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Solve Linear Inequalities",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "ⓐ \\(a+\\frac{3}{4}≥\\frac{7}{10}\\)ⓑ \\(8x>72\\)ⓒ \\(20>\\frac{2}{5}h\\)",
+      "math": [
+        "a+\\frac{3}{4}\\ge \\frac{7}{10}",
+        "8x>72",
+        "20>\\frac{2}{5}h"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>a</mi><mo>+</mo><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>≥</mo><mfrac><mn>7</mn><mrow><mn>10</mn></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>a</mi><mo>+</mo><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>≥</mo><mfrac><mn>7</mn><mrow><mn>10</mn></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>8</mn><mi>x</mi><mo>&gt;</mo><mn>72</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>8</mn><mi>x</mi><mo>&gt;</mo><mn>72</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>20</mn><mo>&gt;</mo><mfrac><mn>2</mn><mn>5</mn></mfrac><mi>h</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>20</mn><mo>&gt;</mo><mfrac><mn>2</mn><mn>5</mn></mfrac><mi>h</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 305,
+      "anchor": "fs-id1167835282992",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Solve Linear Inequalities",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "ⓐ \\(b+\\frac{7}{8}≥\\frac{1}{6}\\)ⓑ \\(6y<48\\)ⓒ \\(40<\\frac{5}{8}k\\)",
+      "math": [
+        "b+\\frac{7}{8}\\ge \\frac{1}{6}",
+        "6y<48",
+        "40<\\frac{5}{8}k"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>b</mi><mo>+</mo><mfrac><mn>7</mn><mn>8</mn></mfrac><mo>≥</mo><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>b</mi><mo>+</mo><mfrac><mn>7</mn><mn>8</mn></mfrac><mo>≥</mo><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>6</mn><mi>y</mi><mo>&lt;</mo><mn>48</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>6</mn><mi>y</mi><mo>&lt;</mo><mn>48</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>40</mn><mo>&lt;</mo><mfrac><mn>5</mn><mn>8</mn></mfrac><mi>k</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>40</mn><mo>&lt;</mo><mfrac><mn>5</mn><mn>8</mn></mfrac><mi>k</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 306,
+      "anchor": "fs-id1167835308740",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Solve Linear Inequalities",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "ⓐ \\(f-\\frac{13}{20}<-\\frac{5}{12}\\)ⓑ \\(9t≥-27\\)ⓒ \\(\\frac{7}{6}j≥42\\)",
+      "math": [
+        "f-\\frac{13}{20}<-\\frac{5}{12}",
+        "9t\\ge -27",
+        "\\frac{7}{6}j\\ge 42"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mo>−</mo><mfrac><mrow><mn>13</mn></mrow><mrow><mn>20</mn></mrow></mfrac><mo>&lt;</mo><mo>−</mo><mfrac><mn>5</mn><mrow><mn>12</mn></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mo>−</mo><mfrac><mrow><mn>13</mn></mrow><mrow><mn>20</mn></mrow></mfrac><mo>&lt;</mo><mo>−</mo><mfrac><mn>5</mn><mrow><mn>12</mn></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>9</mn><mi>t</mi><mo>≥</mo><mn>−27</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>9</mn><mi>t</mi><mo>≥</mo><mn>−27</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>7</mn><mn>6</mn></mfrac><mi>j</mi><mo>≥</mo><mn>42</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>7</mn><mn>6</mn></mfrac><mi>j</mi><mo>≥</mo><mn>42</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 307,
+      "anchor": "fs-id1167834185458",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Solve Linear Inequalities",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "ⓐ \\(g-\\frac{11}{12}<-\\frac{5}{18}\\)ⓑ \\(7s<-28\\)ⓒ \\(\\frac{9}{4}g≤36\\)",
+      "math": [
+        "g-\\frac{11}{12}<-\\frac{5}{18}",
+        "7s<-28",
+        "\\frac{9}{4}g\\le 36"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mo>−</mo><mfrac><mrow><mn>11</mn></mrow><mrow><mn>12</mn></mrow></mfrac><mo>&lt;</mo><mo>−</mo><mfrac><mn>5</mn><mrow><mn>18</mn></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mo>−</mo><mfrac><mrow><mn>11</mn></mrow><mrow><mn>12</mn></mrow></mfrac><mo>&lt;</mo><mo>−</mo><mfrac><mn>5</mn><mrow><mn>18</mn></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>7</mn><mi>s</mi><mo>&lt;</mo><mn>−28</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>7</mn><mi>s</mi><mo>&lt;</mo><mn>−28</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>9</mn><mn>4</mn></mfrac><mi>g</mi><mo>≤</mo><mn>36</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>9</mn><mn>4</mn></mfrac><mi>g</mi><mo>≤</mo><mn>36</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 308,
+      "anchor": "fs-id1167835234273",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Solve Linear Inequalities",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "ⓐ \\(-5u≥65\\)ⓑ \\(\\frac{a}{-3}≤9\\)",
+      "math": [
+        "-5u\\ge 65",
+        "\\frac{a}{-3}\\le 9"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−5</mn><mi>u</mi><mo>≥</mo><mn>65</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−5</mn><mi>u</mi><mo>≥</mo><mn>65</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mi>a</mi><mrow><mn>−3</mn></mrow></mfrac><mo>≤</mo><mn>9</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mi>a</mi><mrow><mn>−3</mn></mrow></mfrac><mo>≤</mo><mn>9</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 309,
+      "anchor": "fs-id1167831846739",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Solve Linear Inequalities",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "ⓐ \\(-8v≤96\\)ⓑ \\(\\frac{b}{-10}≥30\\)",
+      "math": [
+        "-8v\\le 96",
+        "\\frac{b}{-10}\\ge 30"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−8</mn><mi>v</mi><mo>≤</mo><mn>96</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−8</mn><mi>v</mi><mo>≤</mo><mn>96</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mi>b</mi><mrow><mn>−10</mn></mrow></mfrac><mo>≥</mo><mn>30</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mi>b</mi><mrow><mn>−10</mn></mrow></mfrac><mo>≥</mo><mn>30</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 310,
+      "anchor": "fs-id1167832226771",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Solve Linear Inequalities",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "ⓐ \\(-9c<126\\)ⓑ \\(-25<\\frac{p}{-5}\\)",
+      "math": [
+        "-9c<126",
+        "-25<\\frac{p}{-5}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−9</mn><mi>c</mi><mo>&lt;</mo><mn>126</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−9</mn><mi>c</mi><mo>&lt;</mo><mn>126</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−25</mn><mo>&lt;</mo><mfrac><mrow><mi>p</mi></mrow><mrow><mn>−5</mn></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−25</mn><mo>&lt;</mo><mfrac><mrow><mi>p</mi></mrow><mrow><mn>−5</mn></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 311,
+      "anchor": "fs-id1167835517775",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Solve Linear Inequalities",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "ⓐ \\(-7d>105\\)ⓑ \\(-18>\\frac{q}{-6}\\)",
+      "math": [
+        "-7d>105",
+        "-18>\\frac{q}{-6}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−7</mn><mi>d</mi><mo>&gt;</mo><mn>105</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−7</mn><mi>d</mi><mo>&gt;</mo><mn>105</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−18</mn><mo>&gt;</mo><mfrac><mrow><mi>q</mi></mrow><mrow><mn>−6</mn></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−18</mn><mo>&gt;</mo><mfrac><mrow><mi>q</mi></mrow><mrow><mn>−6</mn></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 312,
+      "anchor": "fs-id1167835357198",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation.",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(4 v ≥ 9 v - 40\\)",
+      "math": [
+        "4 v \\ge 9 v - 40"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <mi>v</mi>\n          <mo>≥</mo>\n          <mn>9</mn>\n          <mi>v</mi>\n          <mo>−</mo>\n          <mn>40</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <mi>v</mi>\n          <mo>≥</mo>\n          <mn>9</mn>\n          <mi>v</mi>\n          <mo>−</mo>\n          <mn>40</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 313,
+      "anchor": "fs-id1167835512207",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation.",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(5 u ≤ 8 u - 21\\)",
+      "math": [
+        "5 u \\le 8 u - 21"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>5</mn>\n          <mi>u</mi>\n          <mo>≤</mo>\n          <mn>8</mn>\n          <mi>u</mi>\n          <mo>−</mo>\n          <mn>21</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>5</mn>\n          <mi>u</mi>\n          <mo>≤</mo>\n          <mn>8</mn>\n          <mi>u</mi>\n          <mo>−</mo>\n          <mn>21</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 314,
+      "anchor": "fs-id1167835575751",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation.",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(13 q < 7 q - 29\\)",
+      "math": [
+        "13 q < 7 q - 29"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>13</mn>\n          <mi>q</mi>\n          <mo>&lt;</mo>\n          <mn>7</mn>\n          <mi>q</mi>\n          <mo>−</mo>\n          <mn>29</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>13</mn>\n          <mi>q</mi>\n          <mo>&lt;</mo>\n          <mn>7</mn>\n          <mi>q</mi>\n          <mo>−</mo>\n          <mn>29</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 315,
+      "anchor": "fs-id1167835512806",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation.",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(9 p > 14 p - 18\\)",
+      "math": [
+        "9 p > 14 p - 18"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>9</mn>\n          <mi>p</mi>\n          <mo>&gt;</mo>\n          <mn>14</mn>\n          <mi>p</mi>\n          <mo>−</mo>\n          <mn>18</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>9</mn>\n          <mi>p</mi>\n          <mo>&gt;</mo>\n          <mn>14</mn>\n          <mi>p</mi>\n          <mo>−</mo>\n          <mn>18</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 316,
+      "anchor": "fs-id1167831115257",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation.",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(12 x + 3 ( x + 7 ) > 10 x - 24\\)",
+      "math": [
+        "12 x + 3 ( x + 7 ) > 10 x - 24"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>12</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>&gt;</mo>\n          <mn>10</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>24</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>12</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>&gt;</mo>\n          <mn>10</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>24</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 317,
+      "anchor": "fs-id1167826849467",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation.",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(9 y + 5 ( y + 3 ) < 4 y - 35\\)",
+      "math": [
+        "9 y + 5 ( y + 3 ) < 4 y - 35"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>9</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>&lt;</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>35</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>9</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>&lt;</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>35</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 318,
+      "anchor": "fs-id1167835479515",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation.",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(6 h - 4 ( h - 1 ) ≤ 7 h - 11\\)",
+      "math": [
+        "6 h - 4 ( h - 1 ) \\le 7 h - 11"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>6</mn>\n          <mi>h</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>h</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>≤</mo>\n          <mn>7</mn>\n          <mi>h</mi>\n          <mo>−</mo>\n          <mn>11</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>6</mn>\n          <mi>h</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>h</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>≤</mo>\n          <mn>7</mn>\n          <mi>h</mi>\n          <mo>−</mo>\n          <mn>11</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 319,
+      "anchor": "fs-id1167835361714",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation.",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(4 k - ( k - 2 ) ≥ 7 k - 26\\)",
+      "math": [
+        "4 k - ( k - 2 ) \\ge 7 k - 26"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <mi>k</mi>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>k</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>≥</mo>\n          <mn>7</mn>\n          <mi>k</mi>\n          <mo>−</mo>\n          <mn>26</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <mi>k</mi>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>k</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>≥</mo>\n          <mn>7</mn>\n          <mi>k</mi>\n          <mo>−</mo>\n          <mn>26</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 320,
+      "anchor": "fs-id1167832151015",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation.",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(8 m - 2 ( 14 - m ) ≥ ​ 7 ( m - 4 ) + 3 m\\)",
+      "math": [
+        "8 m - 2 ( 14 - m ) \\ge ​ 7 ( m - 4 ) + 3 m"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>8</mn>\n          <mi>m</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>14</mn>\n              <mo>−</mo>\n              <mi>m</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>≥</mo>\n          <mtext>​</mtext>\n          <mn>7</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>m</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mi>m</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>8</mn>\n          <mi>m</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>14</mn>\n              <mo>−</mo>\n              <mi>m</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>≥</mo>\n          <mtext>​</mtext>\n          <mn>7</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>m</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mi>m</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 321,
+      "anchor": "fs-id1167831832843",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation.",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(6 n - 12 ( 3 - n ) ≤ 9 ( n - 4 ) + 9 n\\)",
+      "math": [
+        "6 n - 12 ( 3 - n ) \\le 9 ( n - 4 ) + 9 n"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>6</mn>\n          <mi>n</mi>\n          <mo>−</mo>\n          <mn>12</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mo>−</mo>\n              <mi>n</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>≤</mo>\n          <mn>9</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>n</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>9</mn>\n          <mi>n</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>6</mn>\n          <mi>n</mi>\n          <mo>−</mo>\n          <mn>12</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mo>−</mo>\n              <mi>n</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>≤</mo>\n          <mn>9</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>n</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>9</mn>\n          <mi>n</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 322,
+      "anchor": "fs-id1167834133774",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation.",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{3}{4} b - \\frac{1}{3} b < \\frac{5}{ 12 } b - \\frac{1}{2}\\)",
+      "math": [
+        "\\frac{3}{4} b - \\frac{1}{3} b < \\frac{5}{ 12 } b - \\frac{1}{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>3</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mi>b</mi>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mi>b</mi>\n          <mo>&lt;</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n          <mi>b</mi>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>3</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mi>b</mi>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mi>b</mi>\n          <mo>&lt;</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n          <mi>b</mi>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 323,
+      "anchor": "fs-id1167835262304",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation.",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(9 u + 5 ( 2 u - 5 ) ≥ 12 ( u - 1 ) + 7 u\\)",
+      "math": [
+        "9 u + 5 ( 2 u - 5 ) \\ge 12 ( u - 1 ) + 7 u"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>9</mn>\n          <mi>u</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>u</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>≥</mo>\n          <mn>12</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>u</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mi>u</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>9</mn>\n          <mi>u</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>u</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>≥</mo>\n          <mn>12</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>u</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mi>u</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 324,
+      "anchor": "fs-id1167835530439",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation.",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{2}{3} g - \\frac{1}{2} ( g - 14 ) ≤ \\frac{1}{6} ( g + 42 )\\)",
+      "math": [
+        "\\frac{2}{3} g - \\frac{1}{2} ( g - 14 ) \\le \\frac{1}{6} ( g + 42 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mi>g</mi>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>g</mi>\n              <mo>−</mo>\n              <mn>14</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>≤</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>6</mn>\n          </mfrac>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>g</mi>\n              <mo>+</mo>\n              <mn>42</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mi>g</mi>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>g</mi>\n              <mo>−</mo>\n              <mn>14</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>≤</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>6</mn>\n          </mfrac>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>g</mi>\n              <mo>+</mo>\n              <mn>42</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 325,
+      "anchor": "fs-id1167831117186",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation.",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{4}{5} h - \\frac{2}{3} ( h - 9 ) ≥ \\frac{1}{ 15 } ( 2 h + 90 )\\)",
+      "math": [
+        "\\frac{4}{5} h - \\frac{2}{3} ( h - 9 ) \\ge \\frac{1}{ 15 } ( 2 h + 90 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>4</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mi>h</mi>\n          <mo>−</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>h</mi>\n              <mo>−</mo>\n              <mn>9</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>≥</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>15</mn>\n            </mrow>\n          </mfrac>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>h</mi>\n              <mo>+</mo>\n              <mn>90</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>4</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mi>h</mi>\n          <mo>−</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>h</mi>\n              <mo>−</mo>\n              <mn>9</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>≥</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>15</mn>\n            </mrow>\n          </mfrac>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>h</mi>\n              <mo>+</mo>\n              <mn>90</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 326,
+      "anchor": "fs-id1167834184410",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation.",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{5}{6} a - \\frac{1}{4} a > \\frac{7}{ 12 } a + \\frac{2}{3}\\)",
+      "math": [
+        "\\frac{5}{6} a - \\frac{1}{4} a > \\frac{7}{ 12 } a + \\frac{2}{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>5</mn>\n            <mn>6</mn>\n          </mfrac>\n          <mi>a</mi>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mi>a</mi>\n          <mo>&gt;</mo>\n          <mfrac>\n            <mn>7</mn>\n            <mrow>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n          <mi>a</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>5</mn>\n            <mn>6</mn>\n          </mfrac>\n          <mi>a</mi>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mi>a</mi>\n          <mo>&gt;</mo>\n          <mfrac>\n            <mn>7</mn>\n            <mrow>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n          <mi>a</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 327,
+      "anchor": "fs-id1167834228204",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation.",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(12 v + 3 ( 4 v - 1 ) ≤ 19 ( v - 2 ) + 5 v\\)",
+      "math": [
+        "12 v + 3 ( 4 v - 1 ) \\le 19 ( v - 2 ) + 5 v"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>12</mn>\n          <mi>v</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>v</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>≤</mo>\n          <mn>19</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>v</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mi>v</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>12</mn>\n          <mi>v</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>v</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>≤</mo>\n          <mn>19</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>v</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mi>v</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 328,
+      "anchor": "fs-id1167835519281",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation.",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(15 k ≤ -40\\)",
+      "math": [
+        "15 k \\le -40"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>15</mn>\n          <mi>k</mi>\n          <mo>≤</mo>\n          <mn>−40</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>15</mn>\n          <mi>k</mi>\n          <mo>≤</mo>\n          <mn>−40</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 329,
+      "anchor": "fs-id1167832214484",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation.",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(35 k ≥ -77\\)",
+      "math": [
+        "35 k \\ge -77"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>35</mn>\n          <mi>k</mi>\n          <mo>≥</mo>\n          <mn>−77</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>35</mn>\n          <mi>k</mi>\n          <mo>≥</mo>\n          <mn>−77</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 330,
+      "anchor": "fs-id1167834184690",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation.",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(23 p - 2 ( 6 - 5 p ) > 3 ( 11 p - 4 )\\)",
+      "math": [
+        "23 p - 2 ( 6 - 5 p ) > 3 ( 11 p - 4 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>23</mn>\n          <mi>p</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>6</mn>\n              <mo>−</mo>\n              <mn>5</mn>\n              <mi>p</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>&gt;</mo>\n          <mn>3</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>11</mn>\n              <mi>p</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>23</mn>\n          <mi>p</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>6</mn>\n              <mo>−</mo>\n              <mn>5</mn>\n              <mi>p</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>&gt;</mo>\n          <mn>3</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>11</mn>\n              <mi>p</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 331,
+      "anchor": "fs-id1167835622040",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation.",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(18 q - 4 ( 10 - 3 q ) < 5 ( 6 q - 8 )\\)",
+      "math": [
+        "18 q - 4 ( 10 - 3 q ) < 5 ( 6 q - 8 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>18</mn>\n          <mi>q</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>10</mn>\n              <mo>−</mo>\n              <mn>3</mn>\n              <mi>q</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>&lt;</mo>\n          <mn>5</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>6</mn>\n              <mi>q</mi>\n              <mo>−</mo>\n              <mn>8</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>18</mn>\n          <mi>q</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>10</mn>\n              <mo>−</mo>\n              <mn>3</mn>\n              <mi>q</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>&lt;</mo>\n          <mn>5</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>6</mn>\n              <mi>q</mi>\n              <mo>−</mo>\n              <mn>8</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 332,
+      "anchor": "fs-id1167826996576",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation.",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(- \\frac{9}{4} x ≥ - \\frac{5}{ 12 }\\)",
+      "math": [
+        "- \\frac{9}{4} x \\ge - \\frac{5}{ 12 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mo>−</mo>\n          <mfrac>\n            <mn>9</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>≥</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mo>−</mo>\n          <mfrac>\n            <mn>9</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mi>x</mi>\n          <mo>≥</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 333,
+      "anchor": "fs-id1167835381056",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation.",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(- \\frac{ 21 }{8} y ≤ - \\frac{ 15 }{ 28 }\\)",
+      "math": [
+        "- \\frac{ 21 }{8} y \\le - \\frac{ 15 }{ 28 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>21</mn>\n            </mrow>\n            <mn>8</mn>\n          </mfrac>\n          <mi>y</mi>\n          <mo>≤</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>15</mn>\n            </mrow>\n            <mrow>\n              <mn>28</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>21</mn>\n            </mrow>\n            <mn>8</mn>\n          </mfrac>\n          <mi>y</mi>\n          <mo>≤</mo>\n          <mo>−</mo>\n          <mfrac>\n            <mrow>\n              <mn>15</mn>\n            </mrow>\n            <mrow>\n              <mn>28</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 334,
+      "anchor": "fs-id1167835288340",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation.",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(c + 34 < -99\\)",
+      "math": [
+        "c + 34 < -99"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>c</mi>\n          <mo>+</mo>\n          <mn>34</mn>\n          <mo>&lt;</mo>\n          <mn>−99</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>c</mi>\n          <mo>+</mo>\n          <mn>34</mn>\n          <mo>&lt;</mo>\n          <mn>−99</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 335,
+      "anchor": "fs-id1167830836892",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation.",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(d + 29 > -61\\)",
+      "math": [
+        "d + 29 > -61"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>d</mi>\n          <mo>+</mo>\n          <mn>29</mn>\n          <mo>&gt;</mo>\n          <mn>−61</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>d</mi>\n          <mo>+</mo>\n          <mn>29</mn>\n          <mo>&gt;</mo>\n          <mn>−61</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 336,
+      "anchor": "fs-id1167834252306",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation.",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{m}{ 18 } ≥ -4\\)",
+      "math": [
+        "\\frac{m}{ 18 } \\ge -4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mi>m</mi>\n            <mrow>\n              <mn>18</mn>\n            </mrow>\n          </mfrac>\n          <mo>≥</mo>\n          <mn>−4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mi>m</mi>\n            <mrow>\n              <mn>18</mn>\n            </mrow>\n          </mfrac>\n          <mo>≥</mo>\n          <mn>−4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 337,
+      "anchor": "fs-id1167835349143",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation.",
+        "In the following exercises, solve each inequality, graph the solution on the number line, and write the solution in interval notation."
+      ],
+      "text": "\\(\\frac{n}{ 13 } ≤ -6\\)",
+      "math": [
+        "\\frac{n}{ 13 } \\le -6"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mi>n</mi>\n            <mrow>\n              <mn>13</mn>\n            </mrow>\n          </mfrac>\n          <mo>≤</mo>\n          <mn>−6</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mi>n</mi>\n            <mrow>\n              <mn>13</mn>\n            </mrow>\n          </mfrac>\n          <mo>≤</mo>\n          <mn>−6</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 338,
+      "anchor": "fs-id1167830961003",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Translate to an Inequality and Solve",
+        "In the following exercises, translate and solve. Then graph the solution on the number line and write the solution in interval notation."
+      ],
+      "text": "Three more than h is no less than 25.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 339,
+      "anchor": "fs-id1167834431153",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Translate to an Inequality and Solve",
+        "In the following exercises, translate and solve. Then graph the solution on the number line and write the solution in interval notation."
+      ],
+      "text": "Six more than k exceeds 25.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 340,
+      "anchor": "fs-id1167831970324",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Translate to an Inequality and Solve",
+        "In the following exercises, translate and solve. Then graph the solution on the number line and write the solution in interval notation."
+      ],
+      "text": "Ten less than w is at least 39.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 341,
+      "anchor": "fs-id1167826996665",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Translate to an Inequality and Solve",
+        "In the following exercises, translate and solve. Then graph the solution on the number line and write the solution in interval notation."
+      ],
+      "text": "Twelve less than x is no less than 21.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 342,
+      "anchor": "fs-id1167835327956",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Translate to an Inequality and Solve",
+        "In the following exercises, translate and solve. Then graph the solution on the number line and write the solution in interval notation."
+      ],
+      "text": "Negative five times r is no more than 95.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 343,
+      "anchor": "fs-id1167830865920",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Translate to an Inequality and Solve",
+        "In the following exercises, translate and solve. Then graph the solution on the number line and write the solution in interval notation."
+      ],
+      "text": "Negative two times s is lower than 56.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 344,
+      "anchor": "fs-id1167835483755",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Translate to an Inequality and Solve",
+        "In the following exercises, translate and solve. Then graph the solution on the number line and write the solution in interval notation."
+      ],
+      "text": "Nineteen less than b is at most \\(-22.\\)",
+      "math": [
+        "-22."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−22</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−22</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 345,
+      "anchor": "fs-id1167835305054",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Translate to an Inequality and Solve",
+        "In the following exercises, translate and solve. Then graph the solution on the number line and write the solution in interval notation."
+      ],
+      "text": "Fifteen less than a is at least \\(-7.\\)",
+      "math": [
+        "-7."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−7</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−7</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 346,
+      "anchor": "fs-id1167834346722",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Solve Applications with Linear Inequalities",
+        "In the following exercises, solve."
+      ],
+      "text": "Alan is loading a pallet with boxes that each weighs 45 pounds. The pallet can safely support no more than 900 pounds. How many boxes can he safely load onto the pallet?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 347,
+      "anchor": "fs-id1167830704639",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Solve Applications with Linear Inequalities",
+        "In the following exercises, solve."
+      ],
+      "text": "The elevator in Yehire’s apartment building has a sign that says the maximum weight is 2100 pounds. If the average weight of one person is 150 pounds, how many people can safely ride the elevator?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 348,
+      "anchor": "fs-id1167835331987",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Solve Applications with Linear Inequalities",
+        "In the following exercises, solve."
+      ],
+      "text": "Andre is looking at apartments with three of his friends. They want the monthly rent to be no more than $2,360. If the roommates split the rent evenly among the four of them, what is the maximum rent each will pay?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 349,
+      "anchor": "fs-id1167831894139",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Solve Applications with Linear Inequalities",
+        "In the following exercises, solve."
+      ],
+      "text": "Arleen got a $20 gift card for the coffee shop. Her favorite iced drink costs $3.79. What is the maximum number of drinks she can buy with the gift card?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 350,
+      "anchor": "fs-id1167835375582",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Solve Applications with Linear Inequalities",
+        "In the following exercises, solve."
+      ],
+      "text": "Teegan likes to play golf. He has budgeted $60 next month for the driving range. It costs him $10.55 for a bucket of balls each time he goes. What is the maximum number of times he can go to the driving range next month?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 351,
+      "anchor": "fs-id1167831894612",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Solve Applications with Linear Inequalities",
+        "In the following exercises, solve."
+      ],
+      "text": "Ryan charges his neighbors $17.50 to wash their car. How many cars must he wash next summer if his goal is to earn at least $1,500?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 352,
+      "anchor": "fs-id1167834422606",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Solve Applications with Linear Inequalities",
+        "In the following exercises, solve."
+      ],
+      "text": "Keshad gets paid $2,400 per month plus 6% of his sales. His brother earns $3,300 per month. For what amount of total sales will Keshad’s monthly pay be higher than his brother’s monthly pay?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 353,
+      "anchor": "fs-id1167835345550",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Solve Applications with Linear Inequalities",
+        "In the following exercises, solve."
+      ],
+      "text": "Kimuyen needs to earn $4,150 per month in order to pay all her expenses. Her job pays her $3,475 per month plus 4% of her total sales. What is the minimum Kimuyen’s total sales must be in order for her to pay all her expenses?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 354,
+      "anchor": "fs-id1167826997357",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Solve Applications with Linear Inequalities",
+        "In the following exercises, solve."
+      ],
+      "text": "Andre has been offered an entry-level job. The company offered him $48,000 per year plus 3.5% of his total sales. Andre knows that the average pay for this job is $62,000. What would Andre’s total sales need to be for his pay to be at least as high as the average pay for this job?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 355,
+      "anchor": "fs-id1167835367892",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Solve Applications with Linear Inequalities",
+        "In the following exercises, solve."
+      ],
+      "text": "Nataly is considering two job offers. The first job would pay her $83,000 per year. The second would pay her $66,500 plus 15% of her total sales. What would her total sales need to be for her salary on the second offer be higher than the first?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 356,
+      "anchor": "fs-id1167832057715",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Solve Applications with Linear Inequalities",
+        "In the following exercises, solve."
+      ],
+      "text": "Jake’s water bill is $24.80 per month plus $2.20 per ccf (hundred cubic feet) of water. What is the maximum number of ccf Jake can use if he wants his bill to be no more than $60?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 357,
+      "anchor": "fs-id1167834459074",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Solve Applications with Linear Inequalities",
+        "In the following exercises, solve."
+      ],
+      "text": "Kiyoshi’s phone plan costs $17.50 per month plus $0.15 per text message. What is the maximum number of text messages Kiyoshi can use so the phone bill is no more than $56.60?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 358,
+      "anchor": "fs-id1167834537854",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Solve Applications with Linear Inequalities",
+        "In the following exercises, solve."
+      ],
+      "text": "Marlon’s TV plan costs $49.99 per month plus $5.49 per first-run movie. How many first-run movies can he watch if he wants to keep his monthly bill to be a maximum of $100?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 359,
+      "anchor": "fs-id1167835346052",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Solve Applications with Linear Inequalities",
+        "In the following exercises, solve."
+      ],
+      "text": "Kellen wants to rent a banquet room in a restaurant for her cousin’s baby shower. The restaurant charges $350 for the banquet room plus $32.50 per person for lunch. How many people can Kellen have at the shower if she wants the maximum cost to be $1,500?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 360,
+      "anchor": "fs-id1167835319255",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Solve Applications with Linear Inequalities",
+        "In the following exercises, solve."
+      ],
+      "text": "Moshde runs a hairstyling business from her house. She charges $45 for a haircut and style. Her monthly expenses are $960. She wants to be able to put at least $1,200 per month into her savings account order to open her own salon. How many “cut & styles” must she do to save at least $1,200 per month?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 361,
+      "anchor": "fs-id1167835367251",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Solve Applications with Linear Inequalities",
+        "In the following exercises, solve."
+      ],
+      "text": "Noe installs and configures software on home computers. He charges $125 per job. His monthly expenses are $1,600. How many jobs must he work in order to make a profit of at least $2,400?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 362,
+      "anchor": "fs-id1167831103755",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Solve Applications with Linear Inequalities",
+        "In the following exercises, solve."
+      ],
+      "text": "Katherine is a personal chef. She charges $115 per four-person meal. Her monthly expenses are $3,150. How many four-person meals must she sell in order to make a profit of at least $1,900?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 363,
+      "anchor": "fs-id1167835433645",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Solve Applications with Linear Inequalities",
+        "In the following exercises, solve."
+      ],
+      "text": "Melissa makes necklaces and sells them online. She charges $88 per necklace. Her monthly expenses are $3,745. How many necklaces must she sell if she wants to make a profit of at least $1,650?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 364,
+      "anchor": "fs-id1167835362352",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Solve Applications with Linear Inequalities",
+        "In the following exercises, solve."
+      ],
+      "text": "Five student government officers want to go to the state convention. It will cost them $110 for registration, $375 for transportation and food, and $42 per person for the hotel. There is $450 budgeted for the convention in the student government savings account. They can earn the rest of the money they need by having a car wash. If they charge $5 per car, how many cars must they wash in order to have enough money to pay for the trip?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 365,
+      "anchor": "fs-id1167835420294",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Solve Applications with Linear Inequalities",
+        "In the following exercises, solve."
+      ],
+      "text": "Cesar is planning a four-day trip to visit his friend at a college in another state. It will cost him $198 for airfare, $56 for local transportation, and $45 per day for food. He has $189 in savings and can earn $35 for each lawn he mows. How many lawns must he mow to have enough money to pay for the trip?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 366,
+      "anchor": "fs-id1167831890423",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Solve Applications with Linear Inequalities",
+        "In the following exercises, solve."
+      ],
+      "text": "Alonzo works as a car detailer. He charges $175 per car. He is planning to move out of his parents’ house and rent his first apartment. He will need to pay $120 for application fees, $950 for security deposit, and first and last months’ rent at $1,140 per month. He has $1,810 in savings. How many cars must he detail to have enough money to rent the apartment?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 367,
+      "anchor": "fs-id1167835355843",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Solve Applications with Linear Inequalities",
+        "In the following exercises, solve."
+      ],
+      "text": "Eun-Kyung works as a tutor and earns $60 per hour. She has $792 in savings. She is planning an anniversary party for her parents. She would like to invite 40 guests. The party will cost her $1,520 for food and drinks and $150 for the photographer. She will also have a favor for each of the guests, and each favor will cost $7.50. How many hours must she tutor to have enough money for the party?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 368,
+      "anchor": "fs-id1167835369660",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Everyday Math"
+      ],
+      "text": "Maximum load on a stage In 2014, a high school stage collapsed in Fullerton, California, when 250 students got on stage for the finale of a musical production. Two dozen students were injured. The stage could support a maximum of 12,750 pounds. If the average weight of a student is assumed to be 140 pounds, what is the maximum number of students who could safely be on the stage?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 369,
+      "anchor": "fs-id1167835327996",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Everyday Math"
+      ],
+      "text": "Maximum weight on a boat In 2004, a water taxi sank in Baltimore harbor and five people drowned. The water taxi had a maximum capacity of 3,500 pounds (25 people with average weight 140 pounds). The average weight of the 25 people on the water taxi when it sank was 168 pounds per person. What should the maximum number of people of this weight have been?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 370,
+      "anchor": "fs-id1167835301768",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Everyday Math"
+      ],
+      "text": "Wedding budget Adele and Walter found the perfect venue for their wedding reception. The cost is $9850 for up to 100 guests, plus $38 for each additional guest. How many guests can attend if Adele and Walter want the total cost to be no more than $12,500?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 371,
+      "anchor": "fs-id1167834120487",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Everyday Math"
+      ],
+      "text": "Shower budget Penny is planning a baby shower for her daughter-in-law. The restaurant charges $950 for up to 25 guests, plus $31.95 for each additional guest. How many guests can attend if Penny wants the total cost to be no more than $1,500?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 372,
+      "anchor": "fs-id1167835349227",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain why it is necessary to reverse the inequality when solving \\(-5x>10.\\)",
+      "math": [
+        "-5x>10."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−5</mn><mi>x</mi><mo>&gt;</mo><mn>10</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−5</mn><mi>x</mi><mo>&gt;</mo><mn>10</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 373,
+      "anchor": "fs-id1167835347768",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain why it is necessary to reverse the inequality when solving \\(\\frac{n}{-3}<12.\\)",
+      "math": [
+        "\\frac{n}{-3}<12."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mi>n</mi><mrow><mn>−3</mn></mrow></mfrac><mo>&lt;</mo><mn>12</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mi>n</mi><mrow><mn>−3</mn></mrow></mfrac><mo>&lt;</mo><mn>12</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 374,
+      "anchor": "fs-id1167834185419",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Find your last month’s phone bill and the hourly salary you are paid at your job. Calculate the number of hours of work it would take you to earn at least enough money to pay your phone bill by writing an appropriate inequality and then solving it. Do you feel this is an appropriate number of hours? Is this the appropriate phone plan for you?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 375,
+      "anchor": "fs-id1167835319903",
+      "page": "2-5-solve-linear-inequalities",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Find out how many units you have left, after this term, to achieve your college goal and estimate the number of units you can take each term in college. Calculate the number of terms it will take you to achieve your college goal by writing an appropriate inequality and then solving it. Is this an acceptable number of terms until you meet your goal? What are some ways you could accelerate this process?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "2.95",
+      "page": "2-5-solve-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167835283921",
+      "context": [
+        "Graph Inequalities on the Number Line"
+      ],
+      "text": "Graph each inequality on the number line and write in interval notation: ⓐ \\(x>2\\) ⓑ \\(x≤-1.5\\) ⓒ \\(x≥\\frac{3}{4}.\\)",
+      "math": [
+        "x>2",
+        "x\\le -1.5",
+        "x\\ge \\frac{3}{4}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>&gt;</mo><mn>2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>&gt;</mo><mn>2</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>≤</mo><mn>−1.5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>≤</mo><mn>−1.5</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>≥</mo><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>≥</mo><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.96",
+      "page": "2-5-solve-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167835419193",
+      "context": [
+        "Graph Inequalities on the Number Line"
+      ],
+      "text": "Graph each inequality on the number line and write in interval notation: ⓐ \\(x≤-4\\) ⓑ \\(x≥0.5\\) ⓒ \\(x<-\\frac{2}{3}.\\)",
+      "math": [
+        "x\\le -4",
+        "x\\ge 0.5",
+        "x<-\\frac{2}{3}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>≤</mo><mn>−4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>≤</mo><mn>−4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>≥</mo><mn>0.5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>≥</mo><mn>0.5</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>&lt;</mo><mo>−</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>&lt;</mo><mo>−</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.97",
+      "page": "2-5-solve-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167835370620",
+      "context": [
+        "Graph Inequalities on the Number Line"
+      ],
+      "text": "Graph each inequality on the number line and write in interval notation: ⓐ \\(-2<x<1\\) ⓑ \\(-5≤x<-4\\) ⓒ \\(1≤x≤4.25\\)",
+      "math": [
+        "-2<x<1",
+        "-5\\le x<-4",
+        "1\\le x\\le 4.25"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−2</mn><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−2</mn><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mn>1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−5</mn><mo>≤</mo><mi>x</mi><mo>&lt;</mo><mn>−4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−5</mn><mo>≤</mo><mi>x</mi><mo>&lt;</mo><mn>−4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>1</mn><mo>≤</mo><mi>x</mi><mo>≤</mo><mn>4.25</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>1</mn><mo>≤</mo><mi>x</mi><mo>≤</mo><mn>4.25</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.98",
+      "page": "2-5-solve-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167834193336",
+      "context": [
+        "Graph Inequalities on the Number Line"
+      ],
+      "text": "Graph each inequality on the number line and write in interval notation: ⓐ \\(-6<x<2\\) ⓑ \\(-3≤x<-1\\) ⓒ \\(2.5≤x≤6\\)",
+      "math": [
+        "-6<x<2",
+        "-3\\le x<-1",
+        "2.5\\le x\\le 6"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−6</mn><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mn>2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−6</mn><mo>&lt;</mo><mi>x</mi><mo>&lt;</mo><mn>2</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−3</mn><mo>≤</mo><mi>x</mi><mo>&lt;</mo><mn>−1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−3</mn><mo>≤</mo><mi>x</mi><mo>&lt;</mo><mn>−1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2.5</mn><mo>≤</mo><mi>x</mi><mo>≤</mo><mn>6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2.5</mn><mo>≤</mo><mi>x</mi><mo>≤</mo><mn>6</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.99",
+      "page": "2-5-solve-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167834301181",
+      "context": [
+        "Solve Linear Inequalities"
+      ],
+      "text": "Solve each inequality, graph the solution on the number line, and write the solution in interval notation: ⓐ \\(p-\\frac{3}{4}≥\\frac{1}{6}\\) ⓑ \\(9c>72\\) ⓒ \\(24≤\\frac{3}{8}m\\)",
+      "math": [
+        "p-\\frac{3}{4}\\ge \\frac{1}{6}",
+        "9c>72",
+        "24\\le \\frac{3}{8}m"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>p</mi><mo>−</mo><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>≥</mo><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>p</mi><mo>−</mo><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>≥</mo><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>9</mn><mi>c</mi><mo>&gt;</mo><mn>72</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>9</mn><mi>c</mi><mo>&gt;</mo><mn>72</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>24</mn><mo>≤</mo><mfrac><mn>3</mn><mn>8</mn></mfrac><mi>m</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>24</mn><mo>≤</mo><mfrac><mn>3</mn><mn>8</mn></mfrac><mi>m</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.100",
+      "page": "2-5-solve-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167834156710",
+      "context": [
+        "Solve Linear Inequalities"
+      ],
+      "text": "Solve each inequality, graph the solution on the number line, and write the solution in interval notation: ⓐ \\(r-\\frac{1}{3}≤\\frac{7}{12}\\) ⓑ \\(12d≤​60\\) ⓒ \\(-24<\\frac{4}{3}n\\)",
+      "math": [
+        "r-\\frac{1}{3}\\le \\frac{7}{12}",
+        "12d\\le ​60",
+        "-24<\\frac{4}{3}n"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>r</mi><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>≤</mo><mfrac><mn>7</mn><mrow><mn>12</mn></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>r</mi><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>≤</mo><mfrac><mn>7</mn><mrow><mn>12</mn></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>12</mn><mi>d</mi><mo>≤</mo><mtext>​</mtext><mn>60</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>12</mn><mi>d</mi><mo>≤</mo><mtext>​</mtext><mn>60</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−24</mn><mo>&lt;</mo><mfrac><mn>4</mn><mn>3</mn></mfrac><mi>n</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−24</mn><mo>&lt;</mo><mfrac><mn>4</mn><mn>3</mn></mfrac><mi>n</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.101",
+      "page": "2-5-solve-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167835366234",
+      "context": [
+        "Solve Linear Inequalities"
+      ],
+      "text": "Solve each inequality, graph the solution on the number line, and write the solution in interval notation: ⓐ \\(-8q<32\\) ⓑ \\(\\frac{k}{-12}≤15.\\)",
+      "math": [
+        "-8q<32",
+        "\\frac{k}{-12}\\le 15."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−8</mn><mi>q</mi><mo>&lt;</mo><mn>32</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−8</mn><mi>q</mi><mo>&lt;</mo><mn>32</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mi>k</mi><mrow><mn>−12</mn></mrow></mfrac><mo>≤</mo><mn>15</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mi>k</mi><mrow><mn>−12</mn></mrow></mfrac><mo>≤</mo><mn>15</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.102",
+      "page": "2-5-solve-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167828447049",
+      "context": [
+        "Solve Linear Inequalities"
+      ],
+      "text": "Solve each inequality, graph the solution on the number line, and write the solution in interval notation: ⓐ \\(-7r≤​-70\\) ⓑ \\(\\frac{u}{-4}≥-16.\\)",
+      "math": [
+        "-7r\\le ​-70",
+        "\\frac{u}{-4}\\ge -16."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−7</mn><mi>r</mi><mo>≤</mo><mtext>​</mtext><mo>−</mo><mn>70</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−7</mn><mi>r</mi><mo>≤</mo><mtext>​</mtext><mo>−</mo><mn>70</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mi>u</mi></mrow><mrow><mn>−4</mn></mrow></mfrac><mo>≥</mo><mn>−16</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mi>u</mi></mrow><mrow><mn>−4</mn></mrow></mfrac><mo>≥</mo><mn>−16</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.103",
+      "page": "2-5-solve-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167832153759",
+      "context": [
+        "Solve Linear Inequalities"
+      ],
+      "text": "Solve the inequality, graph the solution on the number line, and write the solution in interval notation: \\(3q≥7q-23.\\)",
+      "math": [
+        "3q\\ge 7q-23."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mi>q</mi><mo>≥</mo><mn>7</mn><mi>q</mi><mo>−</mo><mn>23</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mi>q</mi><mo>≥</mo><mn>7</mn><mi>q</mi><mo>−</mo><mn>23</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.104",
+      "page": "2-5-solve-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167835416783",
+      "context": [
+        "Solve Linear Inequalities"
+      ],
+      "text": "Solve the inequality, graph the solution on the number line, and write the solution in interval notation: \\(6x<10x+19.\\)",
+      "math": [
+        "6x<10x+19."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>6</mn><mi>x</mi><mo>&lt;</mo><mn>10</mn><mi>x</mi><mo>+</mo><mn>19</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>6</mn><mi>x</mi><mo>&lt;</mo><mn>10</mn><mi>x</mi><mo>+</mo><mn>19</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.105",
+      "page": "2-5-solve-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167834422978",
+      "context": [
+        "Solve Linear Inequalities"
+      ],
+      "text": "Solve the inequality \\(9y+2(y+6)>5y-24\\), graph the solution on the number line, and write the solution in interval notation.",
+      "math": [
+        "9y+2(y+6)>5y-24"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>9</mn><mi>y</mi><mo>+</mo><mn>2</mn><mrow><mo>(</mo><mrow><mi>y</mi><mo>+</mo><mn>6</mn></mrow><mo>)</mo></mrow><mo>&gt;</mo><mn>5</mn><mi>y</mi><mo>−</mo><mn>24</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>9</mn><mi>y</mi><mo>+</mo><mn>2</mn><mrow><mo>(</mo><mrow><mi>y</mi><mo>+</mo><mn>6</mn></mrow><mo>)</mo></mrow><mo>&gt;</mo><mn>5</mn><mi>y</mi><mo>−</mo><mn>24</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.106",
+      "page": "2-5-solve-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167831920272",
+      "context": [
+        "Solve Linear Inequalities"
+      ],
+      "text": "Solve the inequality \\(6u+8(u-1)>10u+32\\), graph the solution on the number line, and write the solution in interval notation.",
+      "math": [
+        "6u+8(u-1)>10u+32"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>6</mn><mi>u</mi><mo>+</mo><mn>8</mn><mo stretchy=\"false\">(</mo><mi>u</mi><mo>−</mo><mn>1</mn><mo stretchy=\"false\">)</mo><mo>&gt;</mo><mn>10</mn><mi>u</mi><mo>+</mo><mn>32</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>6</mn><mi>u</mi><mo>+</mo><mn>8</mn><mo stretchy=\"false\">(</mo><mi>u</mi><mo>−</mo><mn>1</mn><mo stretchy=\"false\">)</mo><mo>&gt;</mo><mn>10</mn><mi>u</mi><mo>+</mo><mn>32</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.107",
+      "page": "2-5-solve-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167832076312",
+      "context": [
+        "Solve Linear Inequalities"
+      ],
+      "text": "Solve the inequality \\(4b-3(3-b)>5(b-6)+2b\\), graph the solution on the number line, and write the solution in interval notation.",
+      "math": [
+        "4b-3(3-b)>5(b-6)+2b"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mi>b</mi><mo>−</mo><mn>3</mn><mrow><mo>(</mo><mrow><mn>3</mn><mo>−</mo><mi>b</mi></mrow><mo>)</mo></mrow><mo>&gt;</mo><mn>5</mn><mrow><mo>(</mo><mrow><mi>b</mi><mo>−</mo><mn>6</mn></mrow><mo>)</mo></mrow><mo>+</mo><mn>2</mn><mi>b</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mi>b</mi><mo>−</mo><mn>3</mn><mrow><mo>(</mo><mrow><mn>3</mn><mo>−</mo><mi>b</mi></mrow><mo>)</mo></mrow><mo>&gt;</mo><mn>5</mn><mrow><mo>(</mo><mrow><mi>b</mi><mo>−</mo><mn>6</mn></mrow><mo>)</mo></mrow><mo>+</mo><mn>2</mn><mi>b</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.108",
+      "page": "2-5-solve-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167831025106",
+      "context": [
+        "Solve Linear Inequalities"
+      ],
+      "text": "Solve the inequality \\(9h-7(2-h)<8(h+11)+8h\\), graph the solution on the number line, and write the solution in interval notation.",
+      "math": [
+        "9h-7(2-h)<8(h+11)+8h"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>9</mn><mi>h</mi><mo>−</mo><mn>7</mn><mrow><mo>(</mo><mrow><mn>2</mn><mo>−</mo><mi>h</mi></mrow><mo>)</mo></mrow><mo>&lt;</mo><mn>8</mn><mrow><mo>(</mo><mrow><mi>h</mi><mo>+</mo><mn>11</mn></mrow><mo>)</mo></mrow><mo>+</mo><mn>8</mn><mi>h</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>9</mn><mi>h</mi><mo>−</mo><mn>7</mn><mrow><mo>(</mo><mrow><mn>2</mn><mo>−</mo><mi>h</mi></mrow><mo>)</mo></mrow><mo>&lt;</mo><mn>8</mn><mrow><mo>(</mo><mrow><mi>h</mi><mo>+</mo><mn>11</mn></mrow><mo>)</mo></mrow><mo>+</mo><mn>8</mn><mi>h</mi></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.109",
+      "page": "2-5-solve-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167835345879",
+      "context": [
+        "Solve Linear Inequalities"
+      ],
+      "text": "Solve the inequality \\(\\frac{1}{4}x-\\frac{1}{12}x>\\frac{1}{6}x+\\frac{7}{8}\\), graph the solution on the number line, and write the solution in interval notation.",
+      "math": [
+        "\\frac{1}{4}x-\\frac{1}{12}x>\\frac{1}{6}x+\\frac{7}{8}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac><mi>x</mi><mo>−</mo><mfrac><mn>1</mn><mrow><mn>12</mn></mrow></mfrac><mi>x</mi><mo>&gt;</mo><mfrac><mn>1</mn><mn>6</mn></mfrac><mi>x</mi><mo>+</mo><mfrac><mn>7</mn><mn>8</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac><mi>x</mi><mo>−</mo><mfrac><mn>1</mn><mrow><mn>12</mn></mrow></mfrac><mi>x</mi><mo>&gt;</mo><mfrac><mn>1</mn><mn>6</mn></mfrac><mi>x</mi><mo>+</mo><mfrac><mn>7</mn><mn>8</mn></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.110",
+      "page": "2-5-solve-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167834186300",
+      "context": [
+        "Solve Linear Inequalities"
+      ],
+      "text": "Solve the inequality \\(\\frac{2}{5}z-\\frac{1}{3}z<\\frac{1}{15}z​+\\frac{3}{5}\\), graph the solution on the number line, and write the solution in interval notation.",
+      "math": [
+        "\\frac{2}{5}z-\\frac{1}{3}z<\\frac{1}{15}z​+\\frac{3}{5}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>2</mn><mn>5</mn></mfrac><mi>z</mi><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>z</mi><mo>&lt;</mo><mfrac><mn>1</mn><mrow><mn>15</mn></mrow></mfrac><mi>z</mi><mtext>​</mtext><mo>+</mo><mfrac><mn>3</mn><mn>5</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>2</mn><mn>5</mn></mfrac><mi>z</mi><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>z</mi><mo>&lt;</mo><mfrac><mn>1</mn><mrow><mn>15</mn></mrow></mfrac><mi>z</mi><mtext>​</mtext><mo>+</mo><mfrac><mn>3</mn><mn>5</mn></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "2.111",
+      "page": "2-5-solve-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167835229541",
+      "context": [
+        "Translate to an Inequality and Solve"
+      ],
+      "text": "Translate and solve. Then graph the solution on the number line, and write the solution in interval notation. Nineteen less than p is no less than 47.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "2.112",
+      "page": "2-5-solve-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167834132735",
+      "context": [
+        "Translate to an Inequality and Solve"
+      ],
+      "text": "Translate and solve. Then graph the solution on the number line, and write the solution in interval notation. Four more than a is at most 15.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "2.113",
+      "page": "2-5-solve-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167831887548",
+      "context": [
+        "Solve Applications with Linear Inequalities"
+      ],
+      "text": "Angie has $20 to spend on juice boxes for her son’s preschool picnic. Each pack of juice boxes costs $2.63. What is the maximum number of packs she can buy?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "2.114",
+      "page": "2-5-solve-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167826814167",
+      "context": [
+        "Solve Applications with Linear Inequalities"
+      ],
+      "text": "Daniel wants to surprise his girlfriend with a birthday party at her favorite restaurant. It will cost $42.75 per person for dinner, including tip and tax. His budget for the party is $500. What is the maximum number of people Daniel can have at the party?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "2.115",
+      "page": "2-5-solve-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167828420749",
+      "context": [
+        "Solve Applications with Linear Inequalities"
+      ],
+      "text": "Sergio and Lizeth have a very tight vacation budget. They plan to rent a car from a company that charges $75 a week plus $0.25 a mile. How many miles can they travel during the week and still keep within their $200 budget?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "2.116",
+      "page": "2-5-solve-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167834300220",
+      "context": [
+        "Solve Applications with Linear Inequalities"
+      ],
+      "text": "Rameen’s heating bill is $5.42 per month plus $1.08 per therm. How many therms can Rameen use if he wants his heating bill to be a maximum of $87.50.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "2.117",
+      "page": "2-5-solve-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167826997015",
+      "context": [
+        "Solve Applications with Linear Inequalities"
+      ],
+      "text": "Caleb has a pet sitting business. He charges $32 per hour. His monthly expenses are $2,272. How many hours must he work in order to earn a profit of at least $800 per month?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "2.118",
+      "page": "2-5-solve-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167832076584",
+      "context": [
+        "Solve Applications with Linear Inequalities"
+      ],
+      "text": "Elliot has a landscape maintenance business. His monthly expenses are $1,100. If he charges $60 per job, how many jobs must he do to earn a profit of at least $4,000 a month?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "2.119",
+      "page": "2-5-solve-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167835370597",
+      "context": [
+        "Solve Applications with Linear Inequalities"
+      ],
+      "text": "Brenda’s best friend is having a destination wedding and the event will require 3 nights in a hotel. Brenda has $500 in savings and can earn $15 an hour babysitting. She expects to pay $350 airfare, $375 for food and entertainment and $60 a night for her share of a hotel room. How many hours must she babysit to have enough money to pay for the trip?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "2.120",
+      "page": "2-5-solve-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167831921544",
+      "context": [
+        "Solve Applications with Linear Inequalities"
+      ],
+      "text": "Josue wants to go on a 10-night road trip with friends next spring. It will cost him $180 for gas, $450 for food, and $49 per night to share a motel room. He has $520 in savings and can earn $30 per driveway shoveling snow. How many driveways must he shovel to have enough money to pay for the trip?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

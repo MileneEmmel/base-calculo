@@ -1,0 +1,436 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/12-practice-test",
+  "title": "Practice Test",
+  "sha256": "0541f2fea5fed356a966e0170af6450522580839711a40fb9b911b08f68e1d79",
+  "questions": [
+    {
+      "number": 320,
+      "anchor": "fs-id1167834308395",
+      "page": "12-practice-test",
+      "context": [
+        "In the following exercises, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = \\frac{ 5 n - 3 }{ {3}^{n} }\\)",
+      "math": [
+        "{a}_{n} = \\frac{ 5 n - 3 }{ {3}^{n} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <mi>n</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mn>3</mn>\n                <mi>n</mi>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mn>5</mn>\n              <mi>n</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mrow>\n              <msup>\n                <mn>3</mn>\n                <mi>n</mi>\n              </msup>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 321,
+      "anchor": "fs-id1167834430012",
+      "page": "12-practice-test",
+      "context": [
+        "In the following exercises, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "\\({a}_{n} = \\frac{ ( n + 2 ) ! }{ ( n + 3 ) ! }\\)",
+      "math": [
+        "{a}_{n} = \\frac{ ( n + 2 ) ! }{ ( n + 3 ) ! }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mo stretchy=\"false\">)</mo>\n              <mo>!</mo>\n            </mrow>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mo stretchy=\"false\">)</mo>\n              <mtext>!</mtext>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msub>\n            <mi>a</mi>\n            <mi>n</mi>\n          </msub>\n          <mo>=</mo>\n          <mfrac>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n              <mo stretchy=\"false\">)</mo>\n              <mo>!</mo>\n            </mrow>\n            <mrow>\n              <mo stretchy=\"false\">(</mo>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n              <mo stretchy=\"false\">)</mo>\n              <mtext>!</mtext>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 322,
+      "anchor": "fs-id1167834430110",
+      "page": "12-practice-test",
+      "context": [
+        "In the following exercises, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "Find a general term for the sequence, \\(-\\frac{2}{3},-\\frac{4}{5},-\\frac{6}{7},-\\frac{8}{9},-\\frac{10}{11},…\\)",
+      "math": [
+        "-\\frac{2}{3},-\\frac{4}{5},-\\frac{6}{7},-\\frac{8}{9},-\\frac{10}{11},…"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mo>−</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mo>,</mo><mo>−</mo><mfrac><mn>4</mn><mn>5</mn></mfrac><mo>,</mo><mo>−</mo><mfrac><mn>6</mn><mn>7</mn></mfrac><mo>,</mo><mo>−</mo><mfrac><mn>8</mn><mn>9</mn></mfrac><mo>,</mo><mo>−</mo><mfrac><mrow><mn>10</mn></mrow><mrow><mn>11</mn></mrow></mfrac><mo>,</mo><mtext>…</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mo>−</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mo>,</mo><mo>−</mo><mfrac><mn>4</mn><mn>5</mn></mfrac><mo>,</mo><mo>−</mo><mfrac><mn>6</mn><mn>7</mn></mfrac><mo>,</mo><mo>−</mo><mfrac><mn>8</mn><mn>9</mn></mfrac><mo>,</mo><mo>−</mo><mfrac><mrow><mn>10</mn></mrow><mrow><mn>11</mn></mrow></mfrac><mo>,</mo><mtext>…</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 323,
+      "anchor": "fs-id1167834430209",
+      "page": "12-practice-test",
+      "context": [
+        "In the following exercises, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "Expand the partial sum and find its value. \\(∑i=14{(-4)}^{i}\\)",
+      "math": [
+        "\\sum_{i=1}^{4}{(-4)}^{i}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mstyle displaystyle=\"true\"><munderover><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mn>4</mn></munderover><mrow><msup><mrow><mo stretchy=\"false\">(</mo><mn>−4</mn><mo stretchy=\"false\">)</mo></mrow><mi>i</mi></msup></mrow></mstyle></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mstyle displaystyle=\"true\"><munderover><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mn>4</mn></munderover><mrow><msup><mrow><mo stretchy=\"false\">(</mo><mn>−4</mn><mo stretchy=\"false\">)</mo></mrow><mi>i</mi></msup></mrow></mstyle></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 324,
+      "anchor": "fs-id1167835378801",
+      "page": "12-practice-test",
+      "context": [
+        "In the following exercises, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "Write the following using summation notation. \\(-1+\\frac{1}{4}-\\frac{1}{9}+\\frac{1}{16}-\\frac{1}{25}\\)",
+      "math": [
+        "-1+\\frac{1}{4}-\\frac{1}{9}+\\frac{1}{16}-\\frac{1}{25}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−1</mn><mo>+</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>−</mo><mfrac><mn>1</mn><mn>9</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><mn>16</mn></mrow></mfrac><mo>−</mo><mfrac><mn>1</mn><mrow><mn>25</mn></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−1</mn><mo>+</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>−</mo><mfrac><mn>1</mn><mn>9</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><mn>16</mn></mrow></mfrac><mo>−</mo><mfrac><mn>1</mn><mrow><mn>25</mn></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 325,
+      "anchor": "fs-id1167835378896",
+      "page": "12-practice-test",
+      "context": [
+        "In the following exercises, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "Write the first five terms of the arithmetic sequence with the given first term and common difference. \\({a}_{1}=-13\\) and \\(d=3\\)",
+      "math": [
+        "{a}_{1}=-13",
+        "d=3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>−13</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>−13</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>d</mi><mo>=</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>d</mi><mo>=</mo><mn>3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 326,
+      "anchor": "fs-id1167835378954",
+      "page": "12-practice-test",
+      "context": [
+        "In the following exercises, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "Find the twentieth term of an arithmetic sequence where the first term is two and the common difference is \\(-7.\\)",
+      "math": [
+        "-7."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−7</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−7</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 327,
+      "anchor": "fs-id1167835216576",
+      "page": "12-practice-test",
+      "context": [
+        "In the following exercises, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "Find the twenty-third term of an arithmetic sequence whose seventh term is \\(11\\) and common difference is three. Then find a formula for the general term.",
+      "math": [
+        "11"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>11</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>11</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 328,
+      "anchor": "fs-id1167835216632",
+      "page": "12-practice-test",
+      "context": [
+        "In the following exercises, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "Find the first term and common difference of an arithmetic sequence whose ninth term is \\(-1\\) and the sixteenth term is \\(-15.\\) Then find a formula for the general term.",
+      "math": [
+        "-1",
+        "-15."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−15</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−15</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 329,
+      "anchor": "fs-id1167835216707",
+      "page": "12-practice-test",
+      "context": [
+        "In the following exercises, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "Find the sum of the first 25 terms of the arithmetic sequence, \\(5,9,13,17,21,…\\)",
+      "math": [
+        "5,9,13,17,21,…"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mo>,</mo><mn>9</mn><mo>,</mo><mn>13</mn><mo>,</mo><mn>17</mn><mo>,</mo><mn>21</mn><mo>,</mo><mtext>…</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mo>,</mo><mn>9</mn><mo>,</mo><mn>13</mn><mo>,</mo><mn>17</mn><mo>,</mo><mn>21</mn><mo>,</mo><mtext>…</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 330,
+      "anchor": "fs-id1167835216758",
+      "page": "12-practice-test",
+      "context": [
+        "In the following exercises, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "Find the sum of the first 50 terms of the arithmetic sequence whose general term is \\({a}_{n}=-3n+100.\\)",
+      "math": [
+        "{a}_{n}=-3n+100."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><mn>−3</mn><mi>n</mi><mo>+</mo><mn>100</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mi>n</mi></msub><mo>=</mo><mn>−3</mn><mi>n</mi><mo>+</mo><mn>100</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 331,
+      "anchor": "fs-id1167835216802",
+      "page": "12-practice-test",
+      "context": [
+        "In the following exercises, write the first five terms of the sequence whose general term is given."
+      ],
+      "text": "Find the sum. \\(∑i=140(5i-21)\\)",
+      "math": [
+        "\\sum_{i=1}^{40}(5i-21)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mstyle displaystyle=\"true\"><munderover><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mrow><mn>40</mn></mrow></munderover><mrow><mo stretchy=\"false\">(</mo><mn>5</mn><mi>i</mi><mo>−</mo><mn>21</mn></mrow></mstyle><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mstyle displaystyle=\"true\"><munderover><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mrow><mn>40</mn></mrow></munderover><mrow><mo stretchy=\"false\">(</mo><mn>5</mn><mi>i</mi><mo>−</mo><mn>21</mn></mrow></mstyle><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 332,
+      "anchor": "fs-id1167834538209",
+      "page": "12-practice-test",
+      "context": [
+        "In the following exercises, write the first five terms of the sequence whose general term is given.",
+        "In the following exercises, determine if the sequence is arithmetic, geometric, or neither. If arithmetic, then find the common difference. If geometric, then find the common ratio."
+      ],
+      "text": "\\(14 , 3 , -8 , -19 , -30 , -41 , …\\)",
+      "math": [
+        "14 , 3 , -8 , -19 , -30 , -41 , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>14</mn>\n          <mo>,</mo>\n          <mn>3</mn>\n          <mo>,</mo>\n          <mn>−8</mn>\n          <mo>,</mo>\n          <mn>−19</mn>\n          <mo>,</mo>\n          <mn>−30</mn>\n          <mo>,</mo>\n          <mn>−41</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>14</mn>\n          <mo>,</mo>\n          <mn>3</mn>\n          <mo>,</mo>\n          <mn>−8</mn>\n          <mo>,</mo>\n          <mn>−19</mn>\n          <mo>,</mo>\n          <mn>−30</mn>\n          <mo>,</mo>\n          <mn>−41</mn>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 333,
+      "anchor": "fs-id1167834538267",
+      "page": "12-practice-test",
+      "context": [
+        "In the following exercises, write the first five terms of the sequence whose general term is given.",
+        "In the following exercises, determine if the sequence is arithmetic, geometric, or neither. If arithmetic, then find the common difference. If geometric, then find the common ratio."
+      ],
+      "text": "\\(324 , 108 , 36 , 12 , 4 , \\frac{4}{3} , …\\)",
+      "math": [
+        "324 , 108 , 36 , 12 , 4 , \\frac{4}{3} , …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>324</mn>\n          <mo>,</mo>\n          <mn>108</mn>\n          <mo>,</mo>\n          <mn>36</mn>\n          <mo>,</mo>\n          <mn>12</mn>\n          <mo>,</mo>\n          <mn>4</mn>\n          <mo>,</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>324</mn>\n          <mo>,</mo>\n          <mn>108</mn>\n          <mo>,</mo>\n          <mn>36</mn>\n          <mo>,</mo>\n          <mn>12</mn>\n          <mo>,</mo>\n          <mn>4</mn>\n          <mo>,</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mo>,</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 334,
+      "anchor": "fs-id1167834538331",
+      "page": "12-practice-test",
+      "context": [
+        "In the following exercises, write the first five terms of the sequence whose general term is given.",
+        "In the following exercises, determine if the sequence is arithmetic, geometric, or neither. If arithmetic, then find the common difference. If geometric, then find the common ratio."
+      ],
+      "text": "Write the first five terms of the geometric sequence with the given first term and common ratio. \\({a}_{1}=6\\) and \\(r=-2\\)",
+      "math": [
+        "{a}_{1}=6",
+        "r=-2"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>6</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>r</mi><mo>=</mo><mn>−2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>r</mi><mo>=</mo><mn>−2</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 335,
+      "anchor": "fs-id1167834538390",
+      "page": "12-practice-test",
+      "context": [
+        "In the following exercises, write the first five terms of the sequence whose general term is given.",
+        "In the following exercises, determine if the sequence is arithmetic, geometric, or neither. If arithmetic, then find the common difference. If geometric, then find the common ratio."
+      ],
+      "text": "In the geometric sequence whose first term and common ratio are \\({a}_{1}=5\\) and \\(r=4,\\) find \\({a}_{11}.\\)",
+      "math": [
+        "{a}_{1}=5",
+        "r=4,",
+        "{a}_{11}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mn>1</mn></msub><mo>=</mo><mn>5</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>r</mi><mo>=</mo><mn>4</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>r</mi><mo>=</mo><mn>4</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mrow><mn>11</mn></mrow></msub><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mrow><mn>11</mn></mrow></msub><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 336,
+      "anchor": "fs-id1167831895165",
+      "page": "12-practice-test",
+      "context": [
+        "In the following exercises, write the first five terms of the sequence whose general term is given.",
+        "In the following exercises, determine if the sequence is arithmetic, geometric, or neither. If arithmetic, then find the common difference. If geometric, then find the common ratio."
+      ],
+      "text": "Find \\({a}_{10}\\) of the geometric sequence, \\(1250,250,50,10,2,\\frac{2}{5},….\\) Then find a formula for the general term.",
+      "math": [
+        "{a}_{10}",
+        "1250,250,50,10,2,\\frac{2}{5},…."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msub><mi>a</mi><mrow><mn>10</mn></mrow></msub></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msub><mi>a</mi><mrow><mn>10</mn></mrow></msub></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>1250</mn><mo>,</mo><mn>250</mn><mo>,</mo><mn>50</mn><mo>,</mo><mn>10</mn><mo>,</mo><mn>2</mn><mo>,</mo><mfrac><mn>2</mn><mn>5</mn></mfrac><mo>,</mo><mtext>…</mtext><mtext>.</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>1250</mn><mo>,</mo><mn>250</mn><mo>,</mo><mn>50</mn><mo>,</mo><mn>10</mn><mo>,</mo><mn>2</mn><mo>,</mo><mfrac><mn>2</mn><mn>5</mn></mfrac><mo>,</mo><mtext>…</mtext><mtext>.</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 337,
+      "anchor": "fs-id1167831895292",
+      "page": "12-practice-test",
+      "context": [
+        "In the following exercises, write the first five terms of the sequence whose general term is given.",
+        "In the following exercises, determine if the sequence is arithmetic, geometric, or neither. If arithmetic, then find the common difference. If geometric, then find the common ratio."
+      ],
+      "text": "Find the sum of the first thirteen terms of the geometric sequence, \\(2,-6,18,-54,162,-486…\\)",
+      "math": [
+        "2,-6,18,-54,162,-486…"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mo>,</mo><mn>−6</mn><mo>,</mo><mn>18</mn><mo>,</mo><mn>−54</mn><mo>,</mo><mn>162</mn><mo>,</mo><mn>−486</mn><mtext>…</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mo>,</mo><mn>−6</mn><mo>,</mo><mn>18</mn><mo>,</mo><mn>−54</mn><mo>,</mo><mn>162</mn><mo>,</mo><mn>−486</mn><mtext>…</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 338,
+      "anchor": "fs-id1167831895348",
+      "page": "12-practice-test",
+      "context": [
+        "In the following exercises, determine if the sequence is arithmetic, geometric, or neither. If arithmetic, then find the common difference. If geometric, then find the common ratio.",
+        "In the following exercises, find the sum."
+      ],
+      "text": "\\(∑ i = 1 9 5 { ( 2 ) }^{i}\\)",
+      "math": [
+        "\\sum_{ i = 1 }^{9} 5 { ( 2 ) }^{i}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>9</mn>\n            </munderover>\n            <mrow>\n              <mn>5</mn>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mn>2</mn>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mi>i</mi>\n              </msup>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mstyle displaystyle=\"true\">\n            <munderover>\n              <mo>∑</mo>\n              <mrow>\n                <mi>i</mi>\n                <mo>=</mo>\n                <mn>1</mn>\n              </mrow>\n              <mn>9</mn>\n            </munderover>\n            <mrow>\n              <mn>5</mn>\n              <msup>\n                <mrow>\n                  <mrow>\n                    <mo>(</mo>\n                    <mn>2</mn>\n                    <mo>)</mo>\n                  </mrow>\n                </mrow>\n                <mi>i</mi>\n              </msup>\n            </mrow>\n          </mstyle>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 339,
+      "anchor": "fs-id1167834124597",
+      "page": "12-practice-test",
+      "context": [
+        "In the following exercises, determine if the sequence is arithmetic, geometric, or neither. If arithmetic, then find the common difference. If geometric, then find the common ratio.",
+        "In the following exercises, find the sum."
+      ],
+      "text": "\\(1 - \\frac{1}{5} + \\frac{1}{ 25 } - \\frac{1}{ 125 } + \\frac{1}{ 625 } - \\frac{1}{ 3125 } + …\\)",
+      "math": [
+        "1 - \\frac{1}{5} + \\frac{1}{ 25 } - \\frac{1}{ 125 } + \\frac{1}{ 625 } - \\frac{1}{ 3125 } + …"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>1</mn>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>125</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>625</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>3125</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>1</mn>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>125</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>625</mn>\n            </mrow>\n          </mfrac>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>3125</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mtext>…</mtext>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 340,
+      "anchor": "fs-id1167834124670",
+      "page": "12-practice-test",
+      "context": [
+        "In the following exercises, determine if the sequence is arithmetic, geometric, or neither. If arithmetic, then find the common difference. If geometric, then find the common ratio.",
+        "In the following exercises, find the sum."
+      ],
+      "text": "Write the repeating decimal as a fraction. \\(0.\\overline{81}\\)",
+      "math": [
+        "0.\\overline{81}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>0.</mn><mover accent=\"true\"><mrow><mn>81</mn></mrow><mo>—</mo></mover></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>0.</mn><mover accent=\"true\"><mrow><mn>81</mn></mrow><mo>—</mo></mover></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 341,
+      "anchor": "fs-id1167834124708",
+      "page": "12-practice-test",
+      "context": [
+        "In the following exercises, determine if the sequence is arithmetic, geometric, or neither. If arithmetic, then find the common difference. If geometric, then find the common ratio.",
+        "In the following exercises, find the sum."
+      ],
+      "text": "Dave just got his first full-time job after graduating from high school at age 18. He decided to invest $450 per month in an IRA (an annuity). The interest on the annuity is 6% which is compounded monthly. How much will be in Adam’s account when he retires at his sixty-fifth birthday?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 342,
+      "anchor": "fs-id1167834124741",
+      "page": "12-practice-test",
+      "context": [
+        "In the following exercises, determine if the sequence is arithmetic, geometric, or neither. If arithmetic, then find the common difference. If geometric, then find the common ratio.",
+        "In the following exercises, find the sum."
+      ],
+      "text": "Expand the binomial using Pascal’s Triangle. \\({(m-2n)}^{5}\\)",
+      "math": [
+        "{(m-2n)}^{5}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>m</mi><mo>−</mo><mn>2</mn><mi>n</mi></mrow><mo>)</mo></mrow></mrow><mn>5</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>m</mi><mo>−</mo><mn>2</mn><mi>n</mi></mrow><mo>)</mo></mrow></mrow><mn>5</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 343,
+      "anchor": "fs-id1167834536641",
+      "page": "12-practice-test",
+      "context": [
+        "In the following exercises, determine if the sequence is arithmetic, geometric, or neither. If arithmetic, then find the common difference. If geometric, then find the common ratio.",
+        "In the following exercises, find the sum."
+      ],
+      "text": "Evaluate each binomial coefficient. ⓐ \\((81)\\)ⓑ \\((1616)\\) ⓒ \\((120)\\) ⓓ \\((106)\\)",
+      "math": [
+        "(\\begin{matrix}8\\\\1\\end{matrix})",
+        "(\\begin{matrix}16\\\\16\\end{matrix})",
+        "(\\begin{matrix}12\\\\0\\end{matrix})",
+        "(\\begin{matrix}10\\\\6\\end{matrix})"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>8</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>1</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>8</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>1</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>16</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>16</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>16</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>16</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>12</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>0</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>12</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>0</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>10</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>6</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mtable><mtr><mtd columnalign=\"left\"><mn>10</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>6</mn></mtd></mtr></mtable><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 344,
+      "anchor": "fs-id1167834536785",
+      "page": "12-practice-test",
+      "context": [
+        "In the following exercises, determine if the sequence is arithmetic, geometric, or neither. If arithmetic, then find the common difference. If geometric, then find the common ratio.",
+        "In the following exercises, find the sum."
+      ],
+      "text": "Expand the binomial using the Binomial Theorem. \\({(4x+5y)}^{3}\\)",
+      "math": [
+        "{(4x+5y)}^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mn>5</mn><mi>y</mi></mrow><mo>)</mo></mrow></mrow><mn>3</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mn>5</mn><mi>y</mi></mrow><mo>)</mo></mrow></mrow><mn>3</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "practice": [],
+  "answers": {}
+}

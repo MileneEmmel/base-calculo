@@ -1,0 +1,1082 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/4-7-graphing-systems-of-linear-inequalities",
+  "title": "4.7 Graphing Systems of Linear Inequalities",
+  "sha256": "db924f62d233d058ced4d7b167331855871ed4e988c4528c19d11beab605a338",
+  "questions": [
+    {
+      "number": 280,
+      "anchor": "fs-id1167836608480",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Determine Whether an Ordered Pair is a Solution of a System of Linear Inequalities",
+        "In the following exercises, determine whether each ordered pair is a solution to the system."
+      ],
+      "text": "\\({ 3 x + y > 5 2 x - y ≤ 10\\) ⓐ \\((3,-3)\\) ⓑ \\((7,1)\\)",
+      "math": [
+        "{ \\begin{matrix} 3 x + y > 5 \\\\ 2 x - y \\le 10 \\end{matrix}",
+        "(3,-3)",
+        "(7,1)"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>5</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>≤</mo>\n                  <mn>10</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>5</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>≤</mo>\n                  <mn>10</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mo stretchy=\"false\">(</mo><mn>3</mn><mo>,</mo><mn>−3</mn><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mo stretchy=\"false\">(</mo><mn>3</mn><mo>,</mo><mn>−3</mn><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mo stretchy=\"false\">(</mo><mn>7</mn><mo>,</mo><mn>1</mn><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mo stretchy=\"false\">(</mo><mn>7</mn><mo>,</mo><mn>1</mn><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 281,
+      "anchor": "fs-id1167836333949",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Determine Whether an Ordered Pair is a Solution of a System of Linear Inequalities",
+        "In the following exercises, determine whether each ordered pair is a solution to the system."
+      ],
+      "text": "\\({ 4 x - y < 10 -2 x + 2 y > -8\\) ⓐ \\((5,-2)\\) ⓑ \\((-1,3)\\)",
+      "math": [
+        "{ \\begin{matrix} 4 x - y < 10 \\\\ -2 x + 2 y > -8 \\end{matrix}",
+        "(5,-2)",
+        "(-1,3)"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>4</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mn>10</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>−2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>−8</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>4</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mn>10</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>−2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>−8</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mo stretchy=\"false\">(</mo><mn>5</mn><mo>,</mo><mn>−2</mn><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mo stretchy=\"false\">(</mo><mn>5</mn><mo>,</mo><mn>−2</mn><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mo stretchy=\"false\">(</mo><mn>−1</mn><mo>,</mo><mn>3</mn><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mo stretchy=\"false\">(</mo><mn>−1</mn><mo>,</mo><mn>3</mn><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 282,
+      "anchor": "fs-id1167833017814",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Determine Whether an Ordered Pair is a Solution of a System of Linear Inequalities",
+        "In the following exercises, determine whether each ordered pair is a solution to the system."
+      ],
+      "text": "\\({ y > \\frac{2}{3} x - 5 x + \\frac{1}{2} y ≤ 4\\) ⓐ \\((6, -4)\\) ⓑ \\((3, 0)\\)",
+      "math": [
+        "{ \\begin{matrix} y > \\frac{2}{3} x - 5 \\\\ x + \\frac{1}{2} y \\le 4 \\end{matrix}",
+        "(6, -4)",
+        "(3, 0)"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mfrac>\n                    <mn>2</mn>\n                    <mn>3</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>y</mi>\n                  <mo>≤</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mfrac>\n                    <mn>2</mn>\n                    <mn>3</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>y</mi>\n                  <mo>≤</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>(6, −4)</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>(6, −4)</mtext></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>(3, 0)</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>(3, 0)</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 283,
+      "anchor": "fs-id1167836688087",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Determine Whether an Ordered Pair is a Solution of a System of Linear Inequalities",
+        "In the following exercises, determine whether each ordered pair is a solution to the system."
+      ],
+      "text": "\\({ y < \\frac{3}{2} x + 3 \\frac{3}{4} x - 2 y < 5\\) ⓐ \\((-4,-1)\\) ⓑ \\((8, 3)\\)",
+      "math": [
+        "{ \\begin{matrix} y < \\frac{3}{2} x + 3 \\\\ \\frac{3}{4} x - 2 y < 5 \\end{matrix}",
+        "(-4,-1)",
+        "(8, 3)"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mfrac>\n                    <mn>3</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mfrac>\n                    <mn>3</mn>\n                    <mn>4</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mn>5</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mfrac>\n                    <mn>3</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mfrac>\n                    <mn>3</mn>\n                    <mn>4</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mn>5</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mo>(</mo><mn>−4</mn><mo>,</mo><mn>−1</mn><mo>)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mo>(</mo><mn>−4</mn><mo>,</mo><mn>−1</mn><mo>)</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>(8, 3)</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>(8, 3)</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 284,
+      "anchor": "fs-id1167829713662",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Determine Whether an Ordered Pair is a Solution of a System of Linear Inequalities",
+        "In the following exercises, determine whether each ordered pair is a solution to the system."
+      ],
+      "text": "\\({ 7 x + 2 y > 14 5 x - y ≤ 8\\) ⓐ \\((2, 3)\\) ⓑ \\((7, -1)\\)",
+      "math": [
+        "{ \\begin{matrix} 7 x + 2 y > 14 \\\\ 5 x - y \\le 8 \\end{matrix}",
+        "(2, 3)",
+        "(7, -1)"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>7</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>14</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>5</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>≤</mo>\n                  <mn>8</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>7</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>14</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>5</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>≤</mo>\n                  <mn>8</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>(2, 3)</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>(2, 3)</mtext></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>(7, −1)</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>(7, −1)</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 285,
+      "anchor": "fs-id1167836408854",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Determine Whether an Ordered Pair is a Solution of a System of Linear Inequalities",
+        "In the following exercises, determine whether each ordered pair is a solution to the system."
+      ],
+      "text": "\\({ 6 x - 5 y < 20 -2 x + 7 y > -8\\) ⓐ \\((1, -3)\\) ⓑ \\((-4, 4)\\)",
+      "math": [
+        "{ \\begin{matrix} 6 x - 5 y < 20 \\\\ -2 x + 7 y > -8 \\end{matrix}",
+        "(1, -3)",
+        "(-4, 4)"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>6</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mn>20</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>−2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>7</mn>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>−8</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>6</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mn>20</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>−2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>7</mn>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>−8</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>(1, −3)</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>(1, −3)</mtext></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>(−4, 4)</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>(−4, 4)</mtext></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 286,
+      "anchor": "fs-id1167836525024",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing",
+        "In the following exercises, solve each system by graphing."
+      ],
+      "text": "\\({ y ≤ 3 x + 2 y > x - 1\\)",
+      "math": [
+        "{ \\begin{matrix} y \\le 3 x + 2 \\\\ y > x - 1 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≤</mo>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≤</mo>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 287,
+      "anchor": "fs-id1167836536081",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing",
+        "In the following exercises, solve each system by graphing."
+      ],
+      "text": "\\({ y < - 2 x + 2 y ≥ - x - 1\\)",
+      "math": [
+        "{ \\begin{matrix} y < - 2 x + 2 \\\\ y \\ge - x - 1 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≥</mo>\n                  <mo>−</mo>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≥</mo>\n                  <mo>−</mo>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 288,
+      "anchor": "fs-id1167833048440",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing",
+        "In the following exercises, solve each system by graphing."
+      ],
+      "text": "\\({ y < 2 x - 1 y ≤ - \\frac{1}{2} x + 4\\)",
+      "math": [
+        "{ \\begin{matrix} y < 2 x - 1 \\\\ y \\le - \\frac{1}{2} x + 4 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≤</mo>\n                  <mo>−</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≤</mo>\n                  <mo>−</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 289,
+      "anchor": "fs-id1167836607397",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing",
+        "In the following exercises, solve each system by graphing."
+      ],
+      "text": "\\({ y ≥ - \\frac{2}{3} x + 2 y > 2 x - 3\\)",
+      "math": [
+        "{ \\begin{matrix} y \\ge - \\frac{2}{3} x + 2 \\\\ y > 2 x - 3 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≥</mo>\n                  <mo>−</mo>\n                  <mfrac>\n                    <mn>2</mn>\n                    <mn>3</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≥</mo>\n                  <mo>−</mo>\n                  <mfrac>\n                    <mn>2</mn>\n                    <mn>3</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 290,
+      "anchor": "fs-id1167833055904",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing",
+        "In the following exercises, solve each system by graphing."
+      ],
+      "text": "\\(x - y > 1 y < - \\frac{1}{4} x + 3\\)",
+      "math": [
+        "\\begin{matrix} x - y > 1 \\\\ y < - \\frac{1}{4} x + 3 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfenced close=\"\" open=\"{\">\n            <mtable>\n              <mtr>\n                <mtd>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd>\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mo>−</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>4</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mfenced>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfenced close=\"\" open=\"{\">\n            <mtable>\n              <mtr>\n                <mtd>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd>\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mo>−</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>4</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mfenced>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 291,
+      "anchor": "fs-id1167836727811",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing",
+        "In the following exercises, solve each system by graphing."
+      ],
+      "text": "\\({ x + 2 y < 4 y < x - 2\\)",
+      "math": [
+        "{ \\begin{matrix} x + 2 y < 4 \\\\ y < x - 2 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 292,
+      "anchor": "fs-id1167836705535",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing",
+        "In the following exercises, solve each system by graphing."
+      ],
+      "text": "\\({ 3 x - y ≥ 6 y ≥ - \\frac{1}{2} x\\)",
+      "math": [
+        "{ \\begin{matrix} 3 x - y \\ge 6 \\\\ y \\ge - \\frac{1}{2} x \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>≥</mo>\n                  <mn>6</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≥</mo>\n                  <mo>−</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mi>y</mi>\n                  <mo>≥</mo>\n                  <mn>6</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≥</mo>\n                  <mo>−</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 293,
+      "anchor": "fs-id1167836448216",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing",
+        "In the following exercises, solve each system by graphing."
+      ],
+      "text": "\\({ 2 x + 4 y ≥ 8 y ≤ \\frac{3}{4} x\\)",
+      "math": [
+        "{ \\begin{matrix} 2 x + 4 y \\ge 8 \\\\ y \\le \\frac{3}{4} x \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                  <mi>y</mi>\n                  <mo>≥</mo>\n                  <mn>8</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≤</mo>\n                  <mfrac>\n                    <mn>3</mn>\n                    <mn>4</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                  <mi>y</mi>\n                  <mo>≥</mo>\n                  <mn>8</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≤</mo>\n                  <mfrac>\n                    <mn>3</mn>\n                    <mn>4</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 294,
+      "anchor": "fs-id1167836543737",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing",
+        "In the following exercises, solve each system by graphing."
+      ],
+      "text": "\\({ 2 x - 5 y < 10 3 x + 4 y ≥ 12\\)",
+      "math": [
+        "{ \\begin{matrix} 2 x - 5 y < 10 \\\\ 3 x + 4 y \\ge 12 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mn>10</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                  <mi>y</mi>\n                  <mo>≥</mo>\n                  <mn>12</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mn>10</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                  <mi>y</mi>\n                  <mo>≥</mo>\n                  <mn>12</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 295,
+      "anchor": "fs-id1167833271854",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing",
+        "In the following exercises, solve each system by graphing."
+      ],
+      "text": "\\({ 3 x - 2 y ≤ 6 -4 x - 2 y > 8\\)",
+      "math": [
+        "{ \\begin{matrix} 3 x - 2 y \\le 6 \\\\ -4 x - 2 y > 8 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>≤</mo>\n                  <mn>6</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>−4</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>8</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>≤</mo>\n                  <mn>6</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>−4</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>8</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 296,
+      "anchor": "fs-id1167824773992",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing",
+        "In the following exercises, solve each system by graphing."
+      ],
+      "text": "\\({ 2 x + 2 y > -4 - x + 3 y ≥ 9\\)",
+      "math": [
+        "{ \\begin{matrix} 2 x + 2 y > -4 \\\\ - x + 3 y \\ge 9 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>−4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mtext>−</mtext>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>≥</mo>\n                  <mn>9</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>−4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mtext>−</mtext>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>≥</mo>\n                  <mn>9</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 297,
+      "anchor": "fs-id1167836508671",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing",
+        "In the following exercises, solve each system by graphing."
+      ],
+      "text": "\\({ 2 x + y > -6 - x + 2 y ≥ -4\\)",
+      "math": [
+        "{ \\begin{matrix} 2 x + y > -6 \\\\ - x + 2 y \\ge -4 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>−6</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mtext>−</mtext>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>≥</mo>\n                  <mn>−4</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>−6</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mtext>−</mtext>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>≥</mo>\n                  <mn>−4</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 298,
+      "anchor": "fs-id1167836717278",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing",
+        "In the following exercises, solve each system by graphing."
+      ],
+      "text": "\\({ x - 2 y < 3 y ≤ 1\\)",
+      "math": [
+        "{ \\begin{matrix} x - 2 y < 3 \\\\ y \\le 1 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≤</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≤</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 299,
+      "anchor": "fs-id1167833053554",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing",
+        "In the following exercises, solve each system by graphing."
+      ],
+      "text": "\\({ x - 3 y > 4 y ≤ - 1\\)",
+      "math": [
+        "{ \\begin{matrix} x - 3 y > 4 \\\\ y \\le - 1 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≤</mo>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≤</mo>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 300,
+      "anchor": "fs-id1167836484677",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing",
+        "In the following exercises, solve each system by graphing."
+      ],
+      "text": "\\({ y ≥ - \\frac{1}{2} x - 3 x ≤ 2\\)",
+      "math": [
+        "{ \\begin{matrix} y \\ge - \\frac{1}{2} x - 3 \\\\ x \\le 2 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≥</mo>\n                  <mo>−</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>≤</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≥</mo>\n                  <mo>−</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>≤</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 301,
+      "anchor": "fs-id1167836596407",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing",
+        "In the following exercises, solve each system by graphing."
+      ],
+      "text": "\\({ y ≤ - \\frac{2}{3} x + 5 x ≥ 3\\)",
+      "math": [
+        "{ \\begin{matrix} y \\le - \\frac{2}{3} x + 5 \\\\ x \\ge 3 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≤</mo>\n                  <mo>−</mo>\n                  <mfrac>\n                    <mn>2</mn>\n                    <mn>3</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>≥</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≤</mo>\n                  <mo>−</mo>\n                  <mfrac>\n                    <mn>2</mn>\n                    <mn>3</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>≥</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 302,
+      "anchor": "fs-id1167836663874",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing",
+        "In the following exercises, solve each system by graphing."
+      ],
+      "text": "\\({ y ≥ \\frac{3}{4} x - 2 y < 2\\)",
+      "math": [
+        "{ \\begin{matrix} y \\ge \\frac{3}{4} x - 2 \\\\ y < 2 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≥</mo>\n                  <mfrac>\n                    <mn>3</mn>\n                    <mn>4</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≥</mo>\n                  <mfrac>\n                    <mn>3</mn>\n                    <mn>4</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 303,
+      "anchor": "fs-id1167836363505",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing",
+        "In the following exercises, solve each system by graphing."
+      ],
+      "text": "\\({ y ≤ - \\frac{1}{2} x + 3 y < 1\\)",
+      "math": [
+        "{ \\begin{matrix} y \\le - \\frac{1}{2} x + 3 \\\\ y < 1 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≤</mo>\n                  <mo>−</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≤</mo>\n                  <mo>−</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 304,
+      "anchor": "fs-id1167836506581",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing",
+        "In the following exercises, solve each system by graphing."
+      ],
+      "text": "\\({ 3 x - 4 y < 8 x < 1\\)",
+      "math": [
+        "{ \\begin{matrix} 3 x - 4 y < 8 \\\\ x < 1 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mn>8</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>&lt;</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mn>8</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>&lt;</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 305,
+      "anchor": "fs-id1167833060370",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing",
+        "In the following exercises, solve each system by graphing."
+      ],
+      "text": "\\({ -3 x + 5 y > 10 x > -1\\)",
+      "math": [
+        "{ \\begin{matrix} -3 x + 5 y > 10 \\\\ x > -1 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>−3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>10</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>&gt;</mo>\n                  <mn>−1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>−3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>10</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>&gt;</mo>\n                  <mn>−1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 306,
+      "anchor": "fs-id1167836792647",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing",
+        "In the following exercises, solve each system by graphing."
+      ],
+      "text": "\\({ x ≥ 3 y ≤ 2\\)",
+      "math": [
+        "{ \\begin{matrix} x \\ge 3 \\\\ y \\le 2 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>≥</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≤</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>≥</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≤</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 307,
+      "anchor": "fs-id1167829890995",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing",
+        "In the following exercises, solve each system by graphing."
+      ],
+      "text": "\\({ x ≤ -1 y ≥ 3\\)",
+      "math": [
+        "{ \\begin{matrix} x \\le -1 \\\\ y \\ge 3 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>≤</mo>\n                  <mn>−1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≥</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>≤</mo>\n                  <mn>−1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≥</mo>\n                  <mn>3</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 308,
+      "anchor": "fs-id1167836554483",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing",
+        "In the following exercises, solve each system by graphing."
+      ],
+      "text": "\\({ 2 x + 4 y > 4 y ≤ - \\frac{1}{2} x - 2\\)",
+      "math": [
+        "{ \\begin{matrix} 2 x + 4 y > 4 \\\\ y \\le - \\frac{1}{2} x - 2 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≤</mo>\n                  <mo>−</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≤</mo>\n                  <mo>−</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 309,
+      "anchor": "fs-id1167833058265",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing",
+        "In the following exercises, solve each system by graphing."
+      ],
+      "text": "\\({ x - 3 y ≥ 6 y > \\frac{1}{3} x + 1\\)",
+      "math": [
+        "{ \\begin{matrix} x - 3 y \\ge 6 \\\\ y > \\frac{1}{3} x + 1 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>≥</mo>\n                  <mn>6</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>3</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>≥</mo>\n                  <mn>6</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>3</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 310,
+      "anchor": "fs-id1167833250778",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing",
+        "In the following exercises, solve each system by graphing."
+      ],
+      "text": "\\({ -2 x + 6 y < 0 6 y > 2 x + 4\\)",
+      "math": [
+        "{ \\begin{matrix} -2 x + 6 y < 0 \\\\ 6 y > 2 x + 4 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>−2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>6</mn>\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mn>0</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>6</mn>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>−2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>6</mn>\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mn>0</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>6</mn>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 311,
+      "anchor": "fs-id1167836697594",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing",
+        "In the following exercises, solve each system by graphing."
+      ],
+      "text": "\\({ -3 x + 6 y > 12 4 y ≤ 2 x - 4\\)",
+      "math": [
+        "{ \\begin{matrix} -3 x + 6 y > 12 \\\\ 4 y \\le 2 x - 4 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>−3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>6</mn>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>12</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>4</mn>\n                  <mi>y</mi>\n                  <mo>≤</mo>\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>−3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>6</mn>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>12</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>4</mn>\n                  <mi>y</mi>\n                  <mo>≤</mo>\n                  <mn>2</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 312,
+      "anchor": "fs-id1167836548415",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing",
+        "In the following exercises, solve each system by graphing."
+      ],
+      "text": "\\({ y ≥ -3 x + 2 3 x + y > 5\\)",
+      "math": [
+        "{ \\begin{matrix} y \\ge -3 x + 2 \\\\ 3 x + y > 5 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≥</mo>\n                  <mn>−3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>5</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≥</mo>\n                  <mn>−3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>5</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 313,
+      "anchor": "fs-id1167836608976",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing",
+        "In the following exercises, solve each system by graphing."
+      ],
+      "text": "\\({ y ≥ \\frac{1}{2} x - 1 -2 x + 4 y ≥ 4\\)",
+      "math": [
+        "{ \\begin{matrix} y \\ge \\frac{1}{2} x - 1 \\\\ -2 x + 4 y \\ge 4 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≥</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>−2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                  <mi>y</mi>\n                  <mo>≥</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≥</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>2</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>−2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                  <mi>y</mi>\n                  <mo>≥</mo>\n                  <mn>4</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 314,
+      "anchor": "fs-id1167833346852",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing",
+        "In the following exercises, solve each system by graphing."
+      ],
+      "text": "\\({ y ≤ - \\frac{1}{4} x - 2 x + 4 y < 6\\)",
+      "math": [
+        "{ \\begin{matrix} y \\le - \\frac{1}{4} x - 2 \\\\ x + 4 y < 6 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≤</mo>\n                  <mo>−</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>4</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mn>6</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≤</mo>\n                  <mo>−</mo>\n                  <mfrac>\n                    <mn>1</mn>\n                    <mn>4</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mn>6</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 315,
+      "anchor": "fs-id1167833066673",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing",
+        "In the following exercises, solve each system by graphing."
+      ],
+      "text": "\\({ y ≥ 3 x - 1 -3 x + y > -4\\)",
+      "math": [
+        "{ \\begin{matrix} y \\ge 3 x - 1 \\\\ -3 x + y > -4 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≥</mo>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>−3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>−4</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>≥</mo>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>1</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>−3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>−4</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 316,
+      "anchor": "fs-id1167836700468",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing",
+        "In the following exercises, solve each system by graphing."
+      ],
+      "text": "\\({ 3 y > x + 2 -2 x + 6 y > 8\\)",
+      "math": [
+        "{ \\begin{matrix} 3 y > x + 2 \\\\ -2 x + 6 y > 8 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>−2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>6</mn>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>8</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>3</mn>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>−2</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>6</mn>\n                  <mi>y</mi>\n                  <mo>&gt;</mo>\n                  <mn>8</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 317,
+      "anchor": "fs-id1167833008893",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing",
+        "In the following exercises, solve each system by graphing."
+      ],
+      "text": "\\({ y < \\frac{3}{4} x - 2 -3 x + 4 y < 7\\)",
+      "math": [
+        "{ \\begin{matrix} y < \\frac{3}{4} x - 2 \\\\ -3 x + 4 y < 7 \\end{matrix}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mfrac>\n                    <mn>3</mn>\n                    <mn>4</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>−3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mn>7</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mtable>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mfrac>\n                    <mn>3</mn>\n                    <mn>4</mn>\n                  </mfrac>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mtd>\n              </mtr>\n              <mtr>\n                <mtd columnalign=\"left\">\n                  <mn>−3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                  <mi>y</mi>\n                  <mo>&lt;</mo>\n                  <mn>7</mn>\n                </mtd>\n              </mtr>\n            </mtable>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 318,
+      "anchor": "fs-id1167836609967",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve Applications of Systems of Inequalities",
+        "In the following exercises, translate to a system of inequalities and solve."
+      ],
+      "text": "Caitlyn sells her drawings at the county fair. She wants to sell at least 60 drawings and has portraits and landscapes. She sells the portraits for $15 and the landscapes for $10. She needs to sell at least $800 worth of drawings in order to earn a profit. ⓐ Write a system of inequalities to model this situation. ⓑ Graph the system. ⓒ Will she make a profit if she sells 20 portraits and 35 landscapes? ⓓ Will she make a profit if she sells 50 portraits and 20 landscapes?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 319,
+      "anchor": "fs-id1167836523532",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve Applications of Systems of Inequalities",
+        "In the following exercises, translate to a system of inequalities and solve."
+      ],
+      "text": "Jake does not want to spend more than $50 on bags of fertilizer and peat moss for his garden. Fertilizer costs $2 a bag and peat moss costs $5 a bag. Jake’s van can hold at most 20 bags. ⓐ Write a system of inequalities to model this situation. ⓑ Graph the system. ⓒ Can he buy 15 bags of fertilizer and 4 bags of peat moss? ⓓ Can he buy 10 bags of fertilizer and 10 bags of peat moss?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 320,
+      "anchor": "fs-id1167832950886",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve Applications of Systems of Inequalities",
+        "In the following exercises, translate to a system of inequalities and solve."
+      ],
+      "text": "Reiko needs to mail her Christmas cards and packages and wants to keep her mailing costs to no more than $500. The number of cards is at least 4 more than twice the number of packages. The cost of mailing a card (with pictures enclosed) is $3 and for a package the cost is $7. ⓐ Write a system of inequalities to model this situation. ⓑ Graph the system. ⓒ Can she mail 60 cards and 26 packages? ⓓ Can she mail 90 cards and 40 packages?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 321,
+      "anchor": "fs-id1167829695320",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve Applications of Systems of Inequalities",
+        "In the following exercises, translate to a system of inequalities and solve."
+      ],
+      "text": "Juan is studying for his final exams in chemistry and algebra. he knows he only has 24 hours to study, and it will take him at least three times as long to study for algebra than chemistry. ⓐ Write a system of inequalities to model this situation. ⓑ Graph the system. ⓒ Can he spend 4 hours on chemistry and 20 hours on algebra? ⓓ Can he spend 6 hours on chemistry and 18 hours on algebra?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 322,
+      "anchor": "fs-id1167836511611",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve Applications of Systems of Inequalities",
+        "In the following exercises, translate to a system of inequalities and solve."
+      ],
+      "text": "Jocelyn is pregnant and so she needs to eat at least 500 more calories a day than usual. When buying groceries one day with a budget of $15 for the extra food, she buys bananas that have 90 calories each and chocolate granola bars that have 150 calories each. The bananas cost $0.35 each and the granola bars cost $2.50 each. ⓐ Write a system of inequalities to model this situation. ⓑ Graph the system. ⓒ Could she buy 5 bananas and 6 granola bars? ⓓ Could she buy 3 bananas and 4 granola bars?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 323,
+      "anchor": "fs-id1167824731940",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve Applications of Systems of Inequalities",
+        "In the following exercises, translate to a system of inequalities and solve."
+      ],
+      "text": "Mark is attempting to build muscle mass and so he needs to eat at least an additional 80 grams of protein a day. A bottle of protein water costs $3.20 and a protein bar costs $1.75. The protein water supplies 27 grams of protein and the bar supplies 16 gram. If he has $10 dollars to spend ⓐ Write a system of inequalities to model this situation. ⓑ Graph the system. ⓒ Could he buy 3 bottles of protein water and 1 protein bar? ⓓ Could he buy no bottles of protein water and 5 protein bars?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 324,
+      "anchor": "fs-id1167836731285",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve Applications of Systems of Inequalities",
+        "In the following exercises, translate to a system of inequalities and solve."
+      ],
+      "text": "Jocelyn desires to increase both her protein consumption and caloric intake. She desires to have at least 35 more grams of protein each day and no more than an additional 200 calories daily. An ounce of cheddar cheese has 7 grams of protein and 110 calories. An ounce of parmesan cheese has 11 grams of protein and 22 calories. ⓐ Write a system of inequalities to model this situation. ⓑ Graph the system. ⓒ Could she eat 1 ounce of cheddar cheese and 3 ounces of parmesan cheese? ⓓ Could she eat 2 ounces of cheddar cheese and 1 ounce of parmesan cheese?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 325,
+      "anchor": "fs-id1167836553814",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Solve Applications of Systems of Inequalities",
+        "In the following exercises, translate to a system of inequalities and solve."
+      ],
+      "text": "Mark is increasing his exercise routine by running and walking at least 4 miles each day. His goal is to burn a minimum of 1500 calories from this exercise. Walking burns 270 calories/mile and running burns 650 calories. ⓐ Write a system of inequalities to model this situation. ⓑ Graph the system. ⓒ Could he meet his goal by walking 3 miles and running 1 mile? ⓓ Could he meet his goal by walking 2 miles and running 2 miles?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 326,
+      "anchor": "fs-id1167836554970",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Graph the inequality \\(x-y≥3.\\) How do you know which side of the line \\(x-y=3\\) should be shaded?",
+      "math": [
+        "x-y\\ge 3.",
+        "x-y=3"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>−</mo><mi>y</mi><mo>≥</mo><mn>3</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>−</mo><mi>y</mi><mo>≥</mo><mn>3</mn><mo>.</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>−</mo><mi>y</mi><mo>=</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>−</mo><mi>y</mi><mo>=</mo><mn>3</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 327,
+      "anchor": "fs-id1167836689087",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Graph the system \\({x+2y≤6y≥-\\frac{1}{2}x-4.\\) What does the solution mean?",
+      "math": [
+        "{\\begin{matrix}x+2y\\le 6\\\\y\\ge -\\frac{1}{2}x-4\\end{matrix}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>≤</mo><mn>6</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>≥</mo><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi><mo>−</mo><mn>4</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>≤</mo><mn>6</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>≥</mo><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi><mo>−</mo><mn>4</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "4.105",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167836515280",
+      "context": [
+        "Determine whether an ordered pair is a solution of a system of linear inequalities"
+      ],
+      "text": "Determine whether the ordered pair is a solution to the system: \\({x-5y>102x+3y>-2.\\) ⓐ \\((3,-1)\\) ⓑ \\((6,-3)\\)",
+      "math": [
+        "{\\begin{matrix}x-5y>10\\\\2x+3y>-2\\end{matrix}.",
+        "(3,-1)",
+        "(6,-3)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>x</mi><mo>−</mo><mn>5</mn><mi>y</mi><mo>&gt;</mo><mn>10</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>&gt;</mo><mn>−2</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>x</mi><mo>−</mo><mn>5</mn><mi>y</mi><mo>&gt;</mo><mn>10</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>&gt;</mo><mn>−2</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>6</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>6</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "4.106",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167832981652",
+      "context": [
+        "Determine whether an ordered pair is a solution of a system of linear inequalities"
+      ],
+      "text": "Determine whether the ordered pair is a solution to the system: \\({y>4x-24x-y<20.\\) ⓐ \\((-2,1)\\) ⓑ \\((4,-1)\\)",
+      "math": [
+        "{\\begin{matrix}y>4x-2\\\\4x-y<20\\end{matrix}.",
+        "(-2,1)",
+        "(4,-1)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>&gt;</mo><mn>4</mn><mi>x</mi><mo>−</mo><mn>2</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>4</mn><mi>x</mi><mo>−</mo><mi>y</mi><mo>&lt;</mo><mn>20</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>&gt;</mo><mn>4</mn><mi>x</mi><mo>−</mo><mn>2</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>4</mn><mi>x</mi><mo>−</mo><mi>y</mi><mo>&lt;</mo><mn>20</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "4.107",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167836497729",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing"
+      ],
+      "text": "Solve the system by graphing: \\({y<3x+2y>-x-1.\\)",
+      "math": [
+        "{\\begin{matrix}y<3x+2\\\\y>-x-1\\end{matrix}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>&lt;</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>2</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>&gt;</mo><mtext>−</mtext><mi>x</mi><mo>−</mo><mn>1</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>&lt;</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>2</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>&gt;</mo><mtext>−</mtext><mi>x</mi><mo>−</mo><mn>1</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "4.108",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167836667050",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing"
+      ],
+      "text": "Solve the system by graphing: \\({y<-\\frac{1}{2}x+3y<3x-4.\\)",
+      "math": [
+        "{\\begin{matrix}y<-\\frac{1}{2}x+3\\\\y<3x-4\\end{matrix}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>&lt;</mo><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi><mo>+</mo><mn>3</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>&lt;</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>&lt;</mo><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>x</mi><mo>+</mo><mn>3</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>&lt;</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>4</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "4.109",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167829688088",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing"
+      ],
+      "text": "Solve the system by graphing: \\({x+y≤2y≥\\frac{2}{3}x-1.\\)",
+      "math": [
+        "{\\begin{matrix}x+y\\le 2\\\\y\\ge \\frac{2}{3}x-1\\end{matrix}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>x</mi><mo>+</mo><mi>y</mi><mo>≤</mo><mn>2</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>≥</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>x</mi><mo>−</mo><mn>1</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>x</mi><mo>+</mo><mi>y</mi><mo>≤</mo><mn>2</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>≥</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>x</mi><mo>−</mo><mn>1</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "4.110",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167826130667",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing"
+      ],
+      "text": "Solve the system by graphing: \\({3x-2y≤6y>-\\frac{1}{4}x+5.\\)",
+      "math": [
+        "{\\begin{matrix}3x-2y\\le 6\\\\y>-\\frac{1}{4}x+5\\end{matrix}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mn>3</mn><mi>x</mi><mo>−</mo><mn>2</mn><mi>y</mi><mo>≤</mo><mn>6</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>&gt;</mo><mtext>−</mtext><mfrac><mn>1</mn><mn>4</mn></mfrac><mi>x</mi><mo>+</mo><mn>5</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mn>3</mn><mi>x</mi><mo>−</mo><mn>2</mn><mi>y</mi><mo>≤</mo><mn>6</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>&gt;</mo><mtext>−</mtext><mfrac><mn>1</mn><mn>4</mn></mfrac><mi>x</mi><mo>+</mo><mn>5</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "4.111",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167836527766",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing"
+      ],
+      "text": "Solve the system by graphing: \\({y≥3x-2y<-1.\\)",
+      "math": [
+        "{\\begin{matrix}y\\ge 3x-2\\\\y<-1\\end{matrix}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>≥</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>2</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>&lt;</mo><mo>−</mo><mn>1</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>≥</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>2</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>&lt;</mo><mo>−</mo><mn>1</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "4.112",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167833378448",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing"
+      ],
+      "text": "Solve the system by graphing: \\({x>-4x-2y≥-4.\\)",
+      "math": [
+        "{\\begin{matrix}x>-4\\\\x-2y\\ge -4\\end{matrix}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>x</mi><mo>&gt;</mo><mn>−4</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>x</mi><mo>−</mo><mn>2</mn><mi>y</mi><mo>≥</mo><mn>−4</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>x</mi><mo>&gt;</mo><mn>−4</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>x</mi><mo>−</mo><mn>2</mn><mi>y</mi><mo>≥</mo><mn>−4</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "4.113",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167836418859",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing"
+      ],
+      "text": "Solve the system by graphing: \\({3x-2y≥12y≥\\frac{3}{2}x+1.\\)",
+      "math": [
+        "{\\begin{matrix}3x-2y\\ge 12\\\\y\\ge \\frac{3}{2}x+1\\end{matrix}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mn>3</mn><mi>x</mi><mo>−</mo><mn>2</mn><mi>y</mi><mo>≥</mo><mn>12</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>≥</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><mi>x</mi><mo>+</mo><mn>1</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mn>3</mn><mi>x</mi><mo>−</mo><mn>2</mn><mi>y</mi><mo>≥</mo><mn>12</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>≥</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><mi>x</mi><mo>+</mo><mn>1</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "4.114",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167836306660",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing"
+      ],
+      "text": "Solve the system by graphing: \\({x+3y>8y<-\\frac{1}{3}x-2.\\)",
+      "math": [
+        "{\\begin{matrix}x+3y>8\\\\y<-\\frac{1}{3}x-2\\end{matrix}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>&gt;</mo><mn>8</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>&lt;</mo><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>x</mi><mo>−</mo><mn>2</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>&gt;</mo><mn>8</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>&lt;</mo><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>x</mi><mo>−</mo><mn>2</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "4.115",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167836297393",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing"
+      ],
+      "text": "Solve the system by graphing: \\({y≥3x+1-3x+y≥-4.\\)",
+      "math": [
+        "{\\begin{matrix}y\\ge 3x+1\\\\-3x+y\\ge -4\\end{matrix}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>≥</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>1</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>−3</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>≥</mo><mn>−4</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>≥</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>1</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mn>−3</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>≥</mo><mn>−4</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "4.116",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167836611939",
+      "context": [
+        "Solve a System of Linear Inequalities by Graphing"
+      ],
+      "text": "Solve the system by graphing: \\({y≤-\\frac{1}{4}x+2x+4y≤4.\\)",
+      "math": [
+        "{\\begin{matrix}y\\le -\\frac{1}{4}x+2\\\\x+4y\\le 4\\end{matrix}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>≤</mo><mo>−</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mi>x</mi><mo>+</mo><mn>2</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>x</mi><mo>+</mo><mn>4</mn><mi>y</mi><mo>≤</mo><mn>4</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mtable><mtr><mtd columnalign=\"left\"><mi>y</mi><mo>≤</mo><mo>−</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mi>x</mi><mo>+</mo><mn>2</mn></mtd></mtr><mtr><mtd columnalign=\"left\"><mi>x</mi><mo>+</mo><mn>4</mn><mi>y</mi><mo>≤</mo><mn>4</mn></mtd></mtr></mtable></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "4.117",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167822971721",
+      "context": [
+        "Solve Applications of Systems of Inequalities"
+      ],
+      "text": "A trailer can carry a maximum weight of 160 pounds and a maximum volume of 15 cubic feet. A microwave oven weighs 30 pounds and has 2 cubic feet of volume, while a printer weighs 20 pounds and has 3 cubic feet of space. ⓐ Write a system of inequalities to model this situation.ⓑ Graph the system.ⓒ Could 4 microwaves and 2 printers be carried on this trailer?ⓓ Could 7 microwaves and 3 printers be carried on this trailer?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "4.118",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167833316799",
+      "context": [
+        "Solve Applications of Systems of Inequalities"
+      ],
+      "text": "Mary needs to purchase supplies of answer sheets and pencils for a standardized test to be given to the juniors at her high school. The number of the answer sheets needed is at least 5 more than the number of pencils. The pencils cost $2 and the answer sheets cost $1. Mary’s budget for these supplies allows for a maximum cost of $400. ⓐ Write a system of inequalities to model this situation.ⓑ Graph the system.ⓒ Could Mary purchase 100 pencils and 100 answer sheets?ⓓ Could Mary purchase 150 pencils and 150 answer sheets?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "4.119",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167829718986",
+      "context": [
+        "Solve Applications of Systems of Inequalities"
+      ],
+      "text": "Tenison needs to eat at least an extra 1,000 calories a day to prepare for running a marathon. He has only $25 to spend on the extra food he needs and will spend it on $0.75 donuts which have 360 calories each and $2 energy drinks which have 110 calories. ⓐ Write a system of inequalities that models this situation.ⓑ Graph the system.ⓒ Can he buy 8 donuts and 4 energy drinks and satisfy his caloric needs?ⓓ Can he buy 1 donut and 3 energy drinks and satisfy his caloric needs?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": "4.120",
+      "page": "4-7-graphing-systems-of-linear-inequalities",
+      "is_try_it": true,
+      "anchor": "fs-id1167833407364",
+      "context": [
+        "Solve Applications of Systems of Inequalities"
+      ],
+      "text": "Philip’s doctor tells him he should add at least 1,000 more calories per day to his usual diet. Philip wants to buy protein bars that cost $1.80 each and have 140 calories and juice that costs $1.25 per bottle and have 125 calories. He doesn’t want to spend more than $12. ⓐ Write a system of inequalities that models this situation.ⓑ Graph the system.ⓒ Can he buy 3 protein bars and 5 bottles of juice?ⓓ Can he buy 5 protein bars and 3 bottles of juice?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

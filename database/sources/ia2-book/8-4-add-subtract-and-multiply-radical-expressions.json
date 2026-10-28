@@ -1,0 +1,1870 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/8-4-add-subtract-and-multiply-radical-expressions",
+  "title": "8.4 Add, Subtract, and Multiply Radical Expressions",
+  "sha256": "f5cc06a141e287749b7e155346525568e49df8e04416fb43b7e0f9153fd7f0e3",
+  "questions": [
+    {
+      "number": 165,
+      "anchor": "fs-id1169145606690",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Add and Subtract Radical Expressions",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\(8\\sqrt{2}-5\\sqrt{2}\\) ⓑ \\(5m3+2m3\\) ⓒ \\(8m4-2m4\\)",
+      "math": [
+        "8\\sqrt{2}-5\\sqrt{2}",
+        "5\\sqrt[3]{m}+2\\sqrt[3]{m}",
+        "8\\sqrt[4]{m}-2\\sqrt[4]{m}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>8</mn><msqrt><mn>2</mn></msqrt><mo>−</mo><mn>5</mn><msqrt><mn>2</mn></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>8</mn><msqrt><mn>2</mn></msqrt><mo>−</mo><mn>5</mn><msqrt><mn>2</mn></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mspace width=\"0.2em\"></mspace><mroot><mi>m</mi><mrow><mn>3</mn></mrow></mroot><mo>+</mo><mn>2</mn><mspace width=\"0.2em\"></mspace><mroot><mi>m</mi><mrow><mn>3</mn></mrow></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mspace width=\"0.2em\"></mspace><mroot><mi>m</mi><mrow><mn>3</mn></mrow></mroot><mo>+</mo><mn>2</mn><mspace width=\"0.2em\"></mspace><mroot><mi>m</mi><mrow><mn>3</mn></mrow></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>8</mn><mspace width=\"0.2em\"></mspace><mroot><mi>m</mi><mn>4</mn></mroot><mo>−</mo><mn>2</mn><mspace width=\"0.2em\"></mspace><mroot><mi>m</mi><mn>4</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>8</mn><mspace width=\"0.2em\"></mspace><mroot><mi>m</mi><mn>4</mn></mroot><mo>−</mo><mn>2</mn><mspace width=\"0.2em\"></mspace><mroot><mi>m</mi><mn>4</mn></mroot></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 166,
+      "anchor": "fs-id1169147980563",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Add and Subtract Radical Expressions",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\(7\\sqrt{2}-3\\sqrt{2}\\) ⓑ \\(7p3+2p3\\) ⓒ \\(5x3-3x3\\)",
+      "math": [
+        "7\\sqrt{2}-3\\sqrt{2}",
+        "7\\sqrt[3]{p}+2\\sqrt[3]{p}",
+        "5\\sqrt[3]{x}-3\\sqrt[3]{x}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>7</mn><msqrt><mn>2</mn></msqrt><mo>−</mo><mn>3</mn><msqrt><mn>2</mn></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>7</mn><msqrt><mn>2</mn></msqrt><mo>−</mo><mn>3</mn><msqrt><mn>2</mn></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>7</mn><mspace width=\"0.2em\"></mspace><mroot><mi>p</mi><mrow><mn>3</mn></mrow></mroot><mo>+</mo><mn>2</mn><mspace width=\"0.2em\"></mspace><mroot><mi>p</mi><mrow><mn>3</mn></mrow></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>7</mn><mspace width=\"0.2em\"></mspace><mroot><mi>p</mi><mrow><mn>3</mn></mrow></mroot><mo>+</mo><mn>2</mn><mspace width=\"0.2em\"></mspace><mroot><mi>p</mi><mrow><mn>3</mn></mrow></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mspace width=\"0.2em\"></mspace><mroot><mi>x</mi><mn>3</mn></mroot><mo>−</mo><mn>3</mn><mspace width=\"0.2em\"></mspace><mroot><mi>x</mi><mn>3</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mspace width=\"0.2em\"></mspace><mroot><mi>x</mi><mn>3</mn></mroot><mo>−</mo><mn>3</mn><mspace width=\"0.2em\"></mspace><mroot><mi>x</mi><mn>3</mn></mroot></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 167,
+      "anchor": "fs-id1169147737448",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Add and Subtract Radical Expressions",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\(3\\sqrt{5}+6\\sqrt{5}\\) ⓑ \\(9a3+3a3\\) ⓒ \\(52z4+2z4\\)",
+      "math": [
+        "3\\sqrt{5}+6\\sqrt{5}",
+        "9\\sqrt[3]{a}+3\\sqrt[3]{a}",
+        "5\\sqrt[4]{2z}+\\sqrt[4]{2z}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><msqrt><mn>5</mn></msqrt><mo>+</mo><mn>6</mn><msqrt><mn>5</mn></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><msqrt><mn>5</mn></msqrt><mo>+</mo><mn>6</mn><msqrt><mn>5</mn></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>9</mn><mspace width=\"0.2em\"></mspace><mroot><mi>a</mi><mrow><mn>3</mn></mrow></mroot><mo>+</mo><mn>3</mn><mspace width=\"0.2em\"></mspace><mroot><mi>a</mi><mrow><mn>3</mn></mrow></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>9</mn><mspace width=\"0.2em\"></mspace><mroot><mi>a</mi><mrow><mn>3</mn></mrow></mroot><mo>+</mo><mn>3</mn><mspace width=\"0.2em\"></mspace><mroot><mi>a</mi><mrow><mn>3</mn></mrow></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>2</mn><mi>z</mi></mrow><mn>4</mn></mroot><mo>+</mo><mroot><mrow><mn>2</mn><mi>z</mi></mrow><mn>4</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>2</mn><mi>z</mi></mrow><mn>4</mn></mroot><mo>+</mo><mroot><mrow><mn>2</mn><mi>z</mi></mrow><mn>4</mn></mroot></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 168,
+      "anchor": "fs-id1169145489113",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Add and Subtract Radical Expressions",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\(4\\sqrt{5}+8\\sqrt{5}\\) ⓑ \\(m3-4m3\\) ⓒ \\(\\sqrt{n}+3\\sqrt{n}\\)",
+      "math": [
+        "4\\sqrt{5}+8\\sqrt{5}",
+        "\\sqrt[3]{m}-4\\sqrt[3]{m}",
+        "\\sqrt{n}+3\\sqrt{n}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><msqrt><mn>5</mn></msqrt><mo>+</mo><mn>8</mn><msqrt><mn>5</mn></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><msqrt><mn>5</mn></msqrt><mo>+</mo><mn>8</mn><msqrt><mn>5</mn></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mi>m</mi><mrow><mn>3</mn></mrow></mroot><mo>−</mo><mn>4</mn><mspace width=\"0.2em\"></mspace><mroot><mi>m</mi><mrow><mn>3</mn></mrow></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mi>m</mi><mrow><mn>3</mn></mrow></mroot><mo>−</mo><mn>4</mn><mspace width=\"0.2em\"></mspace><mroot><mi>m</mi><mrow><mn>3</mn></mrow></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mi>n</mi></msqrt><mo>+</mo><mn>3</mn><msqrt><mi>n</mi></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mi>n</mi></msqrt><mo>+</mo><mn>3</mn><msqrt><mi>n</mi></msqrt></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 169,
+      "anchor": "fs-id1169142642512",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Add and Subtract Radical Expressions",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\(3\\sqrt{2a}-4\\sqrt{2a}+5\\sqrt{2a}\\) ⓑ \\(53ab4-33ab4-23ab4\\)",
+      "math": [
+        "3\\sqrt{2a}-4\\sqrt{2a}+5\\sqrt{2a}",
+        "5\\sqrt[4]{3ab}-3\\sqrt[4]{3ab}-2\\sqrt[4]{3ab}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><msqrt><mrow><mn>2</mn><mi>a</mi></mrow></msqrt><mo>−</mo><mn>4</mn><msqrt><mrow><mn>2</mn><mi>a</mi></mrow></msqrt><mo>+</mo><mn>5</mn><msqrt><mrow><mn>2</mn><mi>a</mi></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><msqrt><mrow><mn>2</mn><mi>a</mi></mrow></msqrt><mo>−</mo><mn>4</mn><msqrt><mrow><mn>2</mn><mi>a</mi></mrow></msqrt><mo>+</mo><mn>5</mn><msqrt><mrow><mn>2</mn><mi>a</mi></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>3</mn><mi>a</mi><mi>b</mi></mrow><mrow><mn>4</mn></mrow></mroot><mo>−</mo><mn>3</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>3</mn><mi>a</mi><mi>b</mi></mrow><mrow><mn>4</mn></mrow></mroot><mo>−</mo><mn>2</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>3</mn><mi>a</mi><mi>b</mi></mrow><mrow><mn>4</mn></mrow></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>3</mn><mi>a</mi><mi>b</mi></mrow><mrow><mn>4</mn></mrow></mroot><mo>−</mo><mn>3</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>3</mn><mi>a</mi><mi>b</mi></mrow><mrow><mn>4</mn></mrow></mroot><mo>−</mo><mn>2</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>3</mn><mi>a</mi><mi>b</mi></mrow><mrow><mn>4</mn></mrow></mroot></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 170,
+      "anchor": "fs-id1169145586185",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Add and Subtract Radical Expressions",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\(\\sqrt{11b}-5\\sqrt{11b}+3\\sqrt{11b}\\) ⓑ \\(811cd4+511cd4-911cd4\\)",
+      "math": [
+        "\\sqrt{11b}-5\\sqrt{11b}+3\\sqrt{11b}",
+        "8\\sqrt[4]{11cd}+5\\sqrt[4]{11cd}-9\\sqrt[4]{11cd}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>11</mn><mi>b</mi></mrow></msqrt><mo>−</mo><mn>5</mn><msqrt><mrow><mn>11</mn><mi>b</mi></mrow></msqrt><mo>+</mo><mn>3</mn><msqrt><mrow><mn>11</mn><mi>b</mi></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>11</mn><mi>b</mi></mrow></msqrt><mo>−</mo><mn>5</mn><msqrt><mrow><mn>11</mn><mi>b</mi></mrow></msqrt><mo>+</mo><mn>3</mn><msqrt><mrow><mn>11</mn><mi>b</mi></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>8</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>11</mn><mi>c</mi><mi>d</mi></mrow><mrow><mn>4</mn></mrow></mroot><mo>+</mo><mn>5</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>11</mn><mi>c</mi><mi>d</mi></mrow><mrow><mn>4</mn></mrow></mroot><mo>−</mo><mn>9</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>11</mn><mi>c</mi><mi>d</mi></mrow><mrow><mn>4</mn></mrow></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>8</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>11</mn><mi>c</mi><mi>d</mi></mrow><mrow><mn>4</mn></mrow></mroot><mo>+</mo><mn>5</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>11</mn><mi>c</mi><mi>d</mi></mrow><mrow><mn>4</mn></mrow></mroot><mo>−</mo><mn>9</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>11</mn><mi>c</mi><mi>d</mi></mrow><mrow><mn>4</mn></mrow></mroot></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 171,
+      "anchor": "fs-id1169147715444",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Add and Subtract Radical Expressions",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\(8\\sqrt{3c}+2\\sqrt{3c}-9\\sqrt{3c}\\) ⓑ \\(24pq3-54pq3+44pq3\\)",
+      "math": [
+        "8\\sqrt{3c}+2\\sqrt{3c}-9\\sqrt{3c}",
+        "2\\sqrt[3]{4pq}-5\\sqrt[3]{4pq}+4\\sqrt[3]{4pq}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>8</mn><msqrt><mrow><mn>3</mn><mi>c</mi></mrow></msqrt><mo>+</mo><mn>2</mn><msqrt><mrow><mn>3</mn><mi>c</mi></mrow></msqrt><mo>−</mo><mn>9</mn><msqrt><mrow><mn>3</mn><mi>c</mi></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>8</mn><msqrt><mrow><mn>3</mn><mi>c</mi></mrow></msqrt><mo>+</mo><mn>2</mn><msqrt><mrow><mn>3</mn><mi>c</mi></mrow></msqrt><mo>−</mo><mn>9</mn><msqrt><mrow><mn>3</mn><mi>c</mi></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>4</mn><mi>p</mi><mi>q</mi></mrow><mn>3</mn></mroot><mo>−</mo><mn>5</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>4</mn><mi>p</mi><mi>q</mi></mrow><mn>3</mn></mroot><mo>+</mo><mn>4</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>4</mn><mi>p</mi><mi>q</mi></mrow><mn>3</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>4</mn><mi>p</mi><mi>q</mi></mrow><mn>3</mn></mroot><mo>−</mo><mn>5</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>4</mn><mi>p</mi><mi>q</mi></mrow><mn>3</mn></mroot><mo>+</mo><mn>4</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>4</mn><mi>p</mi><mi>q</mi></mrow><mn>3</mn></mroot></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 172,
+      "anchor": "fs-id1169147807911",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Add and Subtract Radical Expressions",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\(3\\sqrt{5d}+8\\sqrt{5d}-11\\sqrt{5d}\\) ⓑ \\(112rs3-92rs3+32rs3\\)",
+      "math": [
+        "3\\sqrt{5d}+8\\sqrt{5d}-11\\sqrt{5d}",
+        "11\\sqrt[3]{2rs}-9\\sqrt[3]{2rs}+3\\sqrt[3]{2rs}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><msqrt><mrow><mn>5</mn><mi>d</mi></mrow></msqrt><mo>+</mo><mn>8</mn><msqrt><mrow><mn>5</mn><mi>d</mi></mrow></msqrt><mo>−</mo><mn>11</mn><msqrt><mrow><mn>5</mn><mi>d</mi></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><msqrt><mrow><mn>5</mn><mi>d</mi></mrow></msqrt><mo>+</mo><mn>8</mn><msqrt><mrow><mn>5</mn><mi>d</mi></mrow></msqrt><mo>−</mo><mn>11</mn><msqrt><mrow><mn>5</mn><mi>d</mi></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>11</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>2</mn><mi>r</mi><mi>s</mi></mrow><mn>3</mn></mroot><mo>−</mo><mn>9</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>2</mn><mi>r</mi><mi>s</mi></mrow><mn>3</mn></mroot><mo>+</mo><mn>3</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>2</mn><mi>r</mi><mi>s</mi></mrow><mn>3</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>11</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>2</mn><mi>r</mi><mi>s</mi></mrow><mn>3</mn></mroot><mo>−</mo><mn>9</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>2</mn><mi>r</mi><mi>s</mi></mrow><mn>3</mn></mroot><mo>+</mo><mn>3</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>2</mn><mi>r</mi><mi>s</mi></mrow><mn>3</mn></mroot></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 173,
+      "anchor": "fs-id1169147758480",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Add and Subtract Radical Expressions",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\(\\sqrt{27}-\\sqrt{75}\\) ⓑ \\(403-3203\\) ⓒ \\(\\frac{1}{2}324+\\frac{2}{3}1624\\)",
+      "math": [
+        "\\sqrt{27}-\\sqrt{75}",
+        "\\sqrt[3]{40}-\\sqrt[3]{320}",
+        "\\frac{1}{2}\\sqrt[4]{32}+\\frac{2}{3}\\sqrt[4]{162}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>27</mn></mrow></msqrt><mo>−</mo><msqrt><mrow><mn>75</mn></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>27</mn></mrow></msqrt><mo>−</mo><msqrt><mrow><mn>75</mn></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><mn>40</mn></mrow><mrow><mn>3</mn></mrow></mroot><mo>−</mo><mroot><mrow><mn>320</mn></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><mn>40</mn></mrow><mrow><mn>3</mn></mrow></mroot><mo>−</mo><mroot><mrow><mn>320</mn></mrow><mrow><mn>3</mn></mrow></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>32</mn></mrow><mrow><mn>4</mn></mrow></mroot><mo>+</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>162</mn></mrow><mrow><mn>4</mn></mrow></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>32</mn></mrow><mrow><mn>4</mn></mrow></mroot><mo>+</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>162</mn></mrow><mrow><mn>4</mn></mrow></mroot></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 174,
+      "anchor": "fs-id1169148234760",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Add and Subtract Radical Expressions",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\(\\sqrt{72}-\\sqrt{98}\\) ⓑ \\(243+813\\) ⓒ \\(\\frac{1}{2}804-\\frac{2}{3}4054\\)",
+      "math": [
+        "\\sqrt{72}-\\sqrt{98}",
+        "\\sqrt[3]{24}+\\sqrt[3]{81}",
+        "\\frac{1}{2}\\sqrt[4]{80}-\\frac{2}{3}\\sqrt[4]{405}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>72</mn></mrow></msqrt><mo>−</mo><msqrt><mrow><mn>98</mn></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>72</mn></mrow></msqrt><mo>−</mo><msqrt><mrow><mn>98</mn></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><mn>24</mn></mrow><mrow><mn>3</mn></mrow></mroot><mo>+</mo><mroot><mrow><mn>81</mn></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><mn>24</mn></mrow><mrow><mn>3</mn></mrow></mroot><mo>+</mo><mroot><mrow><mn>81</mn></mrow><mrow><mn>3</mn></mrow></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>80</mn></mrow><mrow><mn>4</mn></mrow></mroot><mo>−</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>405</mn></mrow><mrow><mn>4</mn></mrow></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>80</mn></mrow><mrow><mn>4</mn></mrow></mroot><mo>−</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>405</mn></mrow><mrow><mn>4</mn></mrow></mroot></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 175,
+      "anchor": "fs-id1169147738536",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Add and Subtract Radical Expressions",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\(\\sqrt{48}+\\sqrt{27}\\) ⓑ \\(543+1283\\) ⓒ \\(654-\\frac{3}{2}804\\)",
+      "math": [
+        "\\sqrt{48}+\\sqrt{27}",
+        "\\sqrt[3]{54}+\\sqrt[3]{128}",
+        "6\\sqrt[4]{5}-\\frac{3}{2}\\sqrt[4]{80}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>48</mn></mrow></msqrt><mo>+</mo><msqrt><mrow><mn>27</mn></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>48</mn></mrow></msqrt><mo>+</mo><msqrt><mrow><mn>27</mn></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><mn>54</mn></mrow><mrow><mn>3</mn></mrow></mroot><mo>+</mo><mroot><mrow><mn>128</mn></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><mn>54</mn></mrow><mrow><mn>3</mn></mrow></mroot><mo>+</mo><mroot><mrow><mn>128</mn></mrow><mrow><mn>3</mn></mrow></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>6</mn><mspace width=\"0.2em\"></mspace><mroot><mn>5</mn><mrow><mn>4</mn></mrow></mroot><mo>−</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>80</mn></mrow><mrow><mn>4</mn></mrow></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>6</mn><mspace width=\"0.2em\"></mspace><mroot><mn>5</mn><mrow><mn>4</mn></mrow></mroot><mo>−</mo><mfrac><mn>3</mn><mn>2</mn></mfrac><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>80</mn></mrow><mrow><mn>4</mn></mrow></mroot></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 176,
+      "anchor": "fs-id1169148048094",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Add and Subtract Radical Expressions",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\(\\sqrt{45}+\\sqrt{80}\\) ⓑ \\(813-1923\\) ⓒ \\(\\frac{5}{2}804+\\frac{7}{3}4054\\)",
+      "math": [
+        "\\sqrt{45}+\\sqrt{80}",
+        "\\sqrt[3]{81}-\\sqrt[3]{192}",
+        "\\frac{5}{2}\\sqrt[4]{80}+\\frac{7}{3}\\sqrt[4]{405}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>45</mn></mrow></msqrt><mo>+</mo><msqrt><mrow><mn>80</mn></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>45</mn></mrow></msqrt><mo>+</mo><msqrt><mrow><mn>80</mn></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><mn>81</mn></mrow><mrow><mn>3</mn></mrow></mroot><mo>−</mo><mroot><mrow><mn>192</mn></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><mn>81</mn></mrow><mrow><mn>3</mn></mrow></mroot><mo>−</mo><mroot><mrow><mn>192</mn></mrow><mrow><mn>3</mn></mrow></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>5</mn><mn>2</mn></mfrac><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>80</mn></mrow><mrow><mn>4</mn></mrow></mroot><mo>+</mo><mfrac><mn>7</mn><mn>3</mn></mfrac><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>405</mn></mrow><mrow><mn>4</mn></mrow></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>5</mn><mn>2</mn></mfrac><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>80</mn></mrow><mrow><mn>4</mn></mrow></mroot><mo>+</mo><mfrac><mn>7</mn><mn>3</mn></mfrac><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>405</mn></mrow><mrow><mn>4</mn></mrow></mroot></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 177,
+      "anchor": "fs-id1169147870132",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Add and Subtract Radical Expressions",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\(\\sqrt{72{a}^{5}}-\\sqrt{50{a}^{5}}\\) ⓑ \\(980{p}^{4}4-6405{p}^{4}4\\)",
+      "math": [
+        "\\sqrt{72{a}^{5}}-\\sqrt{50{a}^{5}}",
+        "9\\sqrt[4]{80{p}^{4}}-6\\sqrt[4]{405{p}^{4}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>72</mn><msup><mi>a</mi><mn>5</mn></msup></mrow></msqrt><mo>−</mo><msqrt><mrow><mn>50</mn><msup><mi>a</mi><mn>5</mn></msup></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>72</mn><msup><mi>a</mi><mn>5</mn></msup></mrow></msqrt><mo>−</mo><msqrt><mrow><mn>50</mn><msup><mi>a</mi><mn>5</mn></msup></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>9</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>80</mn><msup><mi>p</mi><mn>4</mn></msup></mrow><mrow><mn>4</mn></mrow></mroot><mo>−</mo><mn>6</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>405</mn><msup><mi>p</mi><mn>4</mn></msup></mrow><mrow><mn>4</mn></mrow></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>9</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>80</mn><msup><mi>p</mi><mn>4</mn></msup></mrow><mrow><mn>4</mn></mrow></mroot><mo>−</mo><mn>6</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>405</mn><msup><mi>p</mi><mn>4</mn></msup></mrow><mrow><mn>4</mn></mrow></mroot></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 178,
+      "anchor": "fs-id1169147982948",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Add and Subtract Radical Expressions",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\(\\sqrt{48{b}^{5}}-\\sqrt{75{b}^{5}}\\) ⓑ \\(864{q}^{6}3-3125{q}^{6}3\\)",
+      "math": [
+        "\\sqrt{48{b}^{5}}-\\sqrt{75{b}^{5}}",
+        "8\\sqrt[3]{64{q}^{6}}-3\\sqrt[3]{125{q}^{6}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>48</mn><msup><mi>b</mi><mn>5</mn></msup></mrow></msqrt><mo>−</mo><msqrt><mrow><mn>75</mn><msup><mi>b</mi><mn>5</mn></msup></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>48</mn><msup><mi>b</mi><mn>5</mn></msup></mrow></msqrt><mo>−</mo><msqrt><mrow><mn>75</mn><msup><mi>b</mi><mn>5</mn></msup></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>8</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>64</mn><msup><mi>q</mi><mn>6</mn></msup></mrow><mn>3</mn></mroot><mo>−</mo><mn>3</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>125</mn><msup><mi>q</mi><mn>6</mn></msup></mrow><mn>3</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>8</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>64</mn><msup><mi>q</mi><mn>6</mn></msup></mrow><mn>3</mn></mroot><mo>−</mo><mn>3</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>125</mn><msup><mi>q</mi><mn>6</mn></msup></mrow><mn>3</mn></mroot></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 179,
+      "anchor": "fs-id1169148251611",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Add and Subtract Radical Expressions",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\(\\sqrt{80{c}^{7}}-\\sqrt{20{c}^{7}}\\) ⓑ \\(2162{r}^{10}4+432{r}^{10}4\\)",
+      "math": [
+        "\\sqrt{80{c}^{7}}-\\sqrt{20{c}^{7}}",
+        "2\\sqrt[4]{162{r}^{10}}+4\\sqrt[4]{32{r}^{10}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>80</mn><msup><mi>c</mi><mn>7</mn></msup></mrow></msqrt><mo>−</mo><msqrt><mrow><mn>20</mn><msup><mi>c</mi><mn>7</mn></msup></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>80</mn><msup><mi>c</mi><mn>7</mn></msup></mrow></msqrt><mo>−</mo><msqrt><mrow><mn>20</mn><msup><mi>c</mi><mn>7</mn></msup></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>162</mn><msup><mi>r</mi><mrow><mn>10</mn></mrow></msup></mrow><mn>4</mn></mroot><mo>+</mo><mn>4</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>32</mn><msup><mi>r</mi><mrow><mn>10</mn></mrow></msup></mrow><mn>4</mn></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>162</mn><msup><mi>r</mi><mrow><mn>10</mn></mrow></msup></mrow><mn>4</mn></mroot><mo>+</mo><mn>4</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>32</mn><msup><mi>r</mi><mrow><mn>10</mn></mrow></msup></mrow><mn>4</mn></mroot></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 180,
+      "anchor": "fs-id1169143613960",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Add and Subtract Radical Expressions",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\(\\sqrt{96{d}^{9}}-\\sqrt{24{d}^{9}}\\) ⓑ \\(5243{s}^{6}4+23{s}^{6}4\\)",
+      "math": [
+        "\\sqrt{96{d}^{9}}-\\sqrt{24{d}^{9}}",
+        "5\\sqrt[4]{243{s}^{6}}+2\\sqrt[4]{3{s}^{6}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>96</mn><msup><mi>d</mi><mn>9</mn></msup></mrow></msqrt><mo>−</mo><msqrt><mrow><mn>24</mn><msup><mi>d</mi><mn>9</mn></msup></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>96</mn><msup><mi>d</mi><mn>9</mn></msup></mrow></msqrt><mo>−</mo><msqrt><mrow><mn>24</mn><msup><mi>d</mi><mn>9</mn></msup></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>243</mn><msup><mi>s</mi><mn>6</mn></msup></mrow><mrow><mn>4</mn></mrow></mroot><mo>+</mo><mn>2</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>3</mn><msup><mi>s</mi><mn>6</mn></msup></mrow><mrow><mn>4</mn></mrow></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>243</mn><msup><mi>s</mi><mn>6</mn></msup></mrow><mrow><mn>4</mn></mrow></mroot><mo>+</mo><mn>2</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>3</mn><msup><mi>s</mi><mn>6</mn></msup></mrow><mrow><mn>4</mn></mrow></mroot></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 181,
+      "anchor": "fs-id1169148233061",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Add and Subtract Radical Expressions",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(3 \\sqrt{ 128 {y}^{2} } + 4 y \\sqrt{ 162 } - 8 \\sqrt{ 98 {y}^{2} }\\)",
+      "math": [
+        "3 \\sqrt{ 128 {y}^{2} } + 4 y \\sqrt{ 162 } - 8 \\sqrt{ 98 {y}^{2} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <mspace width=\"0.2em\"></mspace>\n          <msqrt>\n            <mrow>\n              <mn>128</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </msqrt>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mspace width=\"0.2em\"></mspace>\n          <msqrt>\n            <mrow>\n              <mn>162</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <mn>8</mn>\n          <mspace width=\"0.2em\"></mspace>\n          <msqrt>\n            <mrow>\n              <mn>98</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <mspace width=\"0.2em\"></mspace>\n          <msqrt>\n            <mrow>\n              <mn>128</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </msqrt>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>y</mi>\n          <mspace width=\"0.2em\"></mspace>\n          <msqrt>\n            <mrow>\n              <mn>162</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <mn>8</mn>\n          <mspace width=\"0.2em\"></mspace>\n          <msqrt>\n            <mrow>\n              <mn>98</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 182,
+      "anchor": "fs-id1169147905954",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Add and Subtract Radical Expressions",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(3 \\sqrt{ 75 {y}^{2} } + 8 y \\sqrt{ 48 } - \\sqrt{ 300 {y}^{2} }\\)",
+      "math": [
+        "3 \\sqrt{ 75 {y}^{2} } + 8 y \\sqrt{ 48 } - \\sqrt{ 300 {y}^{2} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <mspace width=\"0.2em\"></mspace>\n          <msqrt>\n            <mrow>\n              <mn>75</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </msqrt>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>y</mi>\n          <mspace width=\"0.2em\"></mspace>\n          <msqrt>\n            <mrow>\n              <mn>48</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <msqrt>\n            <mrow>\n              <mn>300</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <mspace width=\"0.2em\"></mspace>\n          <msqrt>\n            <mrow>\n              <mn>75</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </msqrt>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>y</mi>\n          <mspace width=\"0.2em\"></mspace>\n          <msqrt>\n            <mrow>\n              <mn>48</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <msqrt>\n            <mrow>\n              <mn>300</mn>\n              <msup>\n                <mi>y</mi>\n                <mn>2</mn>\n              </msup>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 183,
+      "anchor": "fs-id1169147854771",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Multiply Radical Expressions",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\((-23)(318)\\) ⓑ \\((843)(-4183)\\)",
+      "math": [
+        "(-2\\sqrt{3})(3\\sqrt{18})",
+        "(8\\sqrt[3]{4})(-4\\sqrt[3]{18})"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mroot><mn>3</mn><mrow></mrow></mroot></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>3</mn><mroot><mrow><mn>18</mn></mrow><mrow></mrow></mroot></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mroot><mn>3</mn><mrow></mrow></mroot></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>3</mn><mroot><mrow><mn>18</mn></mrow><mrow></mrow></mroot></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>8</mn><mspace width=\"0.2em\"></mspace><mroot><mn>4</mn><mn>3</mn></mroot></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>18</mn></mrow><mn>3</mn></mroot></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>8</mn><mspace width=\"0.2em\"></mspace><mroot><mn>4</mn><mn>3</mn></mroot></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>18</mn></mrow><mn>3</mn></mroot></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 184,
+      "anchor": "fs-id1169147959425",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Multiply Radical Expressions",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\((-45)(510)\\) ⓑ \\((-293)(793)\\)",
+      "math": [
+        "(-4\\sqrt{5})(5\\sqrt{10})",
+        "(-2\\sqrt[3]{9})(7\\sqrt[3]{9})"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mroot><mn>5</mn><mrow></mrow></mroot></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>5</mn><mroot><mrow><mn>10</mn></mrow><mrow></mrow></mroot></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mroot><mn>5</mn><mrow></mrow></mroot></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>5</mn><mroot><mrow><mn>10</mn></mrow><mrow></mrow></mroot></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mspace width=\"0.2em\"></mspace><mroot><mn>9</mn><mn>3</mn></mroot></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>7</mn><mspace width=\"0.2em\"></mspace><mroot><mn>9</mn><mn>3</mn></mroot></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mspace width=\"0.2em\"></mspace><mroot><mn>9</mn><mn>3</mn></mroot></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>7</mn><mspace width=\"0.2em\"></mspace><mroot><mn>9</mn><mn>3</mn></mroot></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 185,
+      "anchor": "fs-id1169145599651",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Multiply Radical Expressions",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\((56)(-12)\\) ⓑ \\((-2184)(-94)\\)",
+      "math": [
+        "(5\\sqrt{6})(-\\sqrt{12})",
+        "(-2\\sqrt[4]{18})(-\\sqrt[4]{9})"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mroot><mn>6</mn><mrow></mrow></mroot></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mtext>−</mtext><mroot><mrow><mn>12</mn></mrow><mrow></mrow></mroot></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mroot><mn>6</mn><mrow></mrow></mroot></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mtext>−</mtext><mroot><mrow><mn>12</mn></mrow><mrow></mrow></mroot></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>18</mn></mrow><mn>4</mn></mroot></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mtext>−</mtext><mspace width=\"0.2em\"></mspace><mroot><mn>9</mn><mn>4</mn></mroot></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>18</mn></mrow><mn>4</mn></mroot></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mtext>−</mtext><mspace width=\"0.2em\"></mspace><mroot><mn>9</mn><mn>4</mn></mroot></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 186,
+      "anchor": "fs-id1169145666603",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Multiply Radical Expressions",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\((-2\\sqrt{7})(-2\\sqrt{14})\\) ⓑ \\((-384)(-564)\\)",
+      "math": [
+        "(-2\\sqrt{7})(-2\\sqrt{14})",
+        "(-3\\sqrt[4]{8})(-5\\sqrt[4]{6})"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><msqrt><mn>7</mn></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>−2</mn><msqrt><mrow><mn>14</mn></mrow></msqrt></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><msqrt><mn>7</mn></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>−2</mn><msqrt><mrow><mn>14</mn></mrow></msqrt></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mspace width=\"0.2em\"></mspace><mroot><mn>8</mn><mn>4</mn></mroot></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>−5</mn><mspace width=\"0.2em\"></mspace><mroot><mn>6</mn><mn>4</mn></mroot></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mspace width=\"0.2em\"></mspace><mroot><mn>8</mn><mn>4</mn></mroot></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>−5</mn><mspace width=\"0.2em\"></mspace><mroot><mn>6</mn><mn>4</mn></mroot></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 187,
+      "anchor": "fs-id1169147766582",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Multiply Radical Expressions",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\((4\\sqrt{12{z}^{3}})(3\\sqrt{9z})\\) ⓑ \\((53{x}^{3}3)(318{x}^{3}3)\\)",
+      "math": [
+        "(4\\sqrt{12{z}^{3}})(3\\sqrt{9z})",
+        "(5\\sqrt[3]{3{x}^{3}})(3\\sqrt[3]{18{x}^{3}})"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>4</mn><msqrt><mrow><mn>12</mn><msup><mi>z</mi><mn>3</mn></msup></mrow></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>3</mn><msqrt><mrow><mn>9</mn><mi>z</mi></mrow></msqrt></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>4</mn><msqrt><mrow><mn>12</mn><msup><mi>z</mi><mn>3</mn></msup></mrow></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>3</mn><msqrt><mrow><mn>9</mn><mi>z</mi></mrow></msqrt></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>3</mn><msup><mi>x</mi><mn>3</mn></msup></mrow><mn>3</mn></mroot></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>3</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>18</mn><msup><mi>x</mi><mn>3</mn></msup></mrow><mn>3</mn></mroot></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>3</mn><msup><mi>x</mi><mn>3</mn></msup></mrow><mn>3</mn></mroot></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>3</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>18</mn><msup><mi>x</mi><mn>3</mn></msup></mrow><mn>3</mn></mroot></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 188,
+      "anchor": "fs-id1169137997072",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Multiply Radical Expressions",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\((3\\sqrt{2{x}^{3}})(7\\sqrt{18{x}^{2}})\\) ⓑ \\((-620{a}^{2}3)(-216{a}^{3}3)\\)",
+      "math": [
+        "(3\\sqrt{2{x}^{3}})(7\\sqrt{18{x}^{2}})",
+        "(-6\\sqrt[3]{20{a}^{2}})(-2\\sqrt[3]{16{a}^{3}})"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>3</mn><msqrt><mrow><mn>2</mn><msup><mi>x</mi><mn>3</mn></msup></mrow></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>7</mn><msqrt><mrow><mn>18</mn><msup><mi>x</mi><mn>2</mn></msup></mrow></msqrt></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>3</mn><msqrt><mrow><mn>2</mn><msup><mi>x</mi><mn>3</mn></msup></mrow></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>7</mn><msqrt><mrow><mn>18</mn><msup><mi>x</mi><mn>2</mn></msup></mrow></msqrt></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−6</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>20</mn><msup><mi>a</mi><mn>2</mn></msup></mrow><mn>3</mn></mroot></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>16</mn><msup><mi>a</mi><mn>3</mn></msup></mrow><mn>3</mn></mroot></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−6</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>20</mn><msup><mi>a</mi><mn>2</mn></msup></mrow><mn>3</mn></mroot></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>16</mn><msup><mi>a</mi><mn>3</mn></msup></mrow><mn>3</mn></mroot></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 189,
+      "anchor": "fs-id1169147825451",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Multiply Radical Expressions",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\((-2\\sqrt{7{z}^{3}})(3\\sqrt{14{z}^{8}})\\) ⓑ \\((28{y}^{2}4)(-212{y}^{3}4)\\)",
+      "math": [
+        "(-2\\sqrt{7{z}^{3}})(3\\sqrt{14{z}^{8}})",
+        "(2\\sqrt[4]{8{y}^{2}})(-2\\sqrt[4]{12{y}^{3}})"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><msqrt><mrow><mn>7</mn><msup><mi>z</mi><mn>3</mn></msup></mrow></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>3</mn><msqrt><mrow><mn>14</mn><msup><mi>z</mi><mn>8</mn></msup></mrow></msqrt></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−2</mn><msqrt><mrow><mn>7</mn><msup><mi>z</mi><mn>3</mn></msup></mrow></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>3</mn><msqrt><mrow><mn>14</mn><msup><mi>z</mi><mn>8</mn></msup></mrow></msqrt></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>8</mn><msup><mi>y</mi><mn>2</mn></msup></mrow><mn>4</mn></mroot></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>12</mn><msup><mi>y</mi><mn>3</mn></msup></mrow><mn>4</mn></mroot></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>8</mn><msup><mi>y</mi><mn>2</mn></msup></mrow><mn>4</mn></mroot></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>−2</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>12</mn><msup><mi>y</mi><mn>3</mn></msup></mrow><mn>4</mn></mroot></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 190,
+      "anchor": "fs-id1169143573946",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Multiply Radical Expressions",
+        "In the following exercises, simplify."
+      ],
+      "text": "ⓐ \\((4\\sqrt{2{k}^{5}})(-3\\sqrt{32{k}^{6}})\\) ⓑ \\((-6{b}^{3}4)(38{b}^{3}4)\\)",
+      "math": [
+        "(4\\sqrt{2{k}^{5}})(-3\\sqrt{32{k}^{6}})",
+        "(-\\sqrt[4]{6{b}^{3}})(3\\sqrt[4]{8{b}^{3}})"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>4</mn><msqrt><mrow><mn>2</mn><msup><mi>k</mi><mn>5</mn></msup></mrow></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>−3</mn><msqrt><mrow><mn>32</mn><msup><mi>k</mi><mn>6</mn></msup></mrow></msqrt></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>4</mn><msqrt><mrow><mn>2</mn><msup><mi>k</mi><mn>5</mn></msup></mrow></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>−3</mn><msqrt><mrow><mn>32</mn><msup><mi>k</mi><mn>6</mn></msup></mrow></msqrt></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mtext>−</mtext><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>6</mn><msup><mi>b</mi><mn>3</mn></msup></mrow><mn>4</mn></mroot></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>3</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>8</mn><msup><mi>b</mi><mn>3</mn></msup></mrow><mn>4</mn></mroot></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mtext>−</mtext><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>6</mn><msup><mi>b</mi><mn>3</mn></msup></mrow><mn>4</mn></mroot></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>3</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>8</mn><msup><mi>b</mi><mn>3</mn></msup></mrow><mn>4</mn></mroot></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 191,
+      "anchor": "fs-id1169148098142",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions",
+        "In the following exercises, multiply."
+      ],
+      "text": "ⓐ \\(\\sqrt{7}(5+2\\sqrt{7})\\) ⓑ \\(63(4+183)\\)",
+      "math": [
+        "\\sqrt{7}(5+2\\sqrt{7})",
+        "\\sqrt[3]{6}(4+\\sqrt[3]{18})"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mn>7</mn></msqrt><mrow><mo>(</mo><mrow><mn>5</mn><mo>+</mo><mn>2</mn><msqrt><mn>7</mn></msqrt></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mn>7</mn></msqrt><mrow><mo>(</mo><mrow><mn>5</mn><mo>+</mo><mn>2</mn><msqrt><mn>7</mn></msqrt></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mn>6</mn><mrow><mn>3</mn></mrow></mroot><mspace width=\"0.2em\"></mspace><mrow><mo>(</mo><mrow><mn>4</mn><mo>+</mo><mroot><mrow><mn>18</mn></mrow><mrow><mn>3</mn></mrow></mroot></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mn>6</mn><mrow><mn>3</mn></mrow></mroot><mspace width=\"0.2em\"></mspace><mrow><mo>(</mo><mrow><mn>4</mn><mo>+</mo><mroot><mrow><mn>18</mn></mrow><mrow><mn>3</mn></mrow></mroot></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 192,
+      "anchor": "fs-id1169147947926",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions",
+        "In the following exercises, multiply."
+      ],
+      "text": "ⓐ \\(\\sqrt{11}(8+4\\sqrt{11})\\) ⓑ \\(33(93+183)\\)",
+      "math": [
+        "\\sqrt{11}(8+4\\sqrt{11})",
+        "\\sqrt[3]{3}(\\sqrt[3]{9}+\\sqrt[3]{18})"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>11</mn></mrow></msqrt><mrow><mo>(</mo><mrow><mn>8</mn><mo>+</mo><mn>4</mn><msqrt><mrow><mn>11</mn></mrow></msqrt></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>11</mn></mrow></msqrt><mrow><mo>(</mo><mrow><mn>8</mn><mo>+</mo><mn>4</mn><msqrt><mrow><mn>11</mn></mrow></msqrt></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mn>3</mn><mrow><mn>3</mn></mrow></mroot><mspace width=\"0.2em\"></mspace><mrow><mo>(</mo><mrow><mroot><mn>9</mn><mrow><mn>3</mn></mrow></mroot><mo>+</mo><mroot><mrow><mn>18</mn></mrow><mrow><mn>3</mn></mrow></mroot></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mn>3</mn><mrow><mn>3</mn></mrow></mroot><mspace width=\"0.2em\"></mspace><mrow><mo>(</mo><mrow><mroot><mn>9</mn><mrow><mn>3</mn></mrow></mroot><mo>+</mo><mroot><mrow><mn>18</mn></mrow><mrow><mn>3</mn></mrow></mroot></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 193,
+      "anchor": "fs-id1169147760031",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions",
+        "In the following exercises, multiply."
+      ],
+      "text": "ⓐ \\(\\sqrt{11}(-3+4\\sqrt{11})\\) ⓑ \\(34(544+184)\\)",
+      "math": [
+        "\\sqrt{11}(-3+4\\sqrt{11})",
+        "\\sqrt[4]{3}(\\sqrt[4]{54}+\\sqrt[4]{18})"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>11</mn></mrow></msqrt><mrow><mo>(</mo><mrow><mn>−3</mn><mo>+</mo><mn>4</mn><msqrt><mrow><mn>11</mn></mrow></msqrt></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>11</mn></mrow></msqrt><mrow><mo>(</mo><mrow><mn>−3</mn><mo>+</mo><mn>4</mn><msqrt><mrow><mn>11</mn></mrow></msqrt></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mn>3</mn><mn>4</mn></mroot><mspace width=\"0.2em\"></mspace><mrow><mo>(</mo><mrow><mroot><mrow><mn>54</mn></mrow><mn>4</mn></mroot><mo>+</mo><mroot><mrow><mn>18</mn></mrow><mn>4</mn></mroot></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mn>3</mn><mn>4</mn></mroot><mspace width=\"0.2em\"></mspace><mrow><mo>(</mo><mrow><mroot><mrow><mn>54</mn></mrow><mn>4</mn></mroot><mo>+</mo><mroot><mrow><mn>18</mn></mrow><mn>4</mn></mroot></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 194,
+      "anchor": "fs-id1169147950009",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions",
+        "In the following exercises, multiply."
+      ],
+      "text": "ⓐ \\(\\sqrt{2}(-5+9\\sqrt{2})\\) ⓑ \\(24(124+244)\\)",
+      "math": [
+        "\\sqrt{2}(-5+9\\sqrt{2})",
+        "\\sqrt[4]{2}(\\sqrt[4]{12}+\\sqrt[4]{24})"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mn>2</mn></msqrt><mrow><mo>(</mo><mrow><mn>−5</mn><mo>+</mo><mn>9</mn><msqrt><mn>2</mn></msqrt></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mn>2</mn></msqrt><mrow><mo>(</mo><mrow><mn>−5</mn><mo>+</mo><mn>9</mn><msqrt><mn>2</mn></msqrt></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mn>2</mn><mn>4</mn></mroot><mspace width=\"0.2em\"></mspace><mrow><mo>(</mo><mrow><mroot><mrow><mn>12</mn></mrow><mn>4</mn></mroot><mo>+</mo><mroot><mrow><mn>24</mn></mrow><mn>4</mn></mroot></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mn>2</mn><mn>4</mn></mroot><mspace width=\"0.2em\"></mspace><mrow><mo>(</mo><mrow><mroot><mrow><mn>12</mn></mrow><mn>4</mn></mroot><mo>+</mo><mroot><mrow><mn>24</mn></mrow><mn>4</mn></mroot></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 195,
+      "anchor": "fs-id1169145747855",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(( 7 + \\sqrt{3} ) ( 9 - \\sqrt{3} )\\)",
+      "math": [
+        "( 7 + \\sqrt{3} ) ( 9 - \\sqrt{3} )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>7</mn>\n              <mo>+</mo>\n              <msqrt>\n                <mn>3</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>9</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mn>3</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>7</mn>\n              <mo>+</mo>\n              <msqrt>\n                <mn>3</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>9</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mn>3</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 196,
+      "anchor": "fs-id1169147807474",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(( 8 - \\sqrt{2} ) ( 3 + \\sqrt{2} )\\)",
+      "math": [
+        "( 8 - \\sqrt{2} ) ( 3 + \\sqrt{2} )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>8</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mn>2</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mo>+</mo>\n              <msqrt>\n                <mn>2</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>8</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mn>2</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mo>+</mo>\n              <msqrt>\n                <mn>2</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 197,
+      "anchor": "fs-id1169145607451",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions",
+        "In the following exercises, multiply."
+      ],
+      "text": "ⓐ \\((9-3\\sqrt{2})(6+4\\sqrt{2})\\) ⓑ \\((x3-3)(x3+1)\\)",
+      "math": [
+        "(9-3\\sqrt{2})(6+4\\sqrt{2})",
+        "(\\sqrt[3]{x}-3)(\\sqrt[3]{x}+1)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>9</mn><mo>−</mo><mn>3</mn><msqrt><mn>2</mn></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>6</mn><mo>+</mo><mn>4</mn><msqrt><mn>2</mn></msqrt></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>9</mn><mo>−</mo><mn>3</mn><msqrt><mn>2</mn></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>6</mn><mo>+</mo><mn>4</mn><msqrt><mn>2</mn></msqrt></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mroot><mi>x</mi><mrow><mn>3</mn></mrow></mroot><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mroot><mi>x</mi><mrow><mn>3</mn></mrow></mroot><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mroot><mi>x</mi><mrow><mn>3</mn></mrow></mroot><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mroot><mi>x</mi><mrow><mn>3</mn></mrow></mroot><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 198,
+      "anchor": "fs-id1169147964020",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions",
+        "In the following exercises, multiply."
+      ],
+      "text": "ⓐ \\((3-2\\sqrt{7})(5-4\\sqrt{7})\\) ⓑ \\((x3-5)(x3-3)\\)",
+      "math": [
+        "(3-2\\sqrt{7})(5-4\\sqrt{7})",
+        "(\\sqrt[3]{x}-5)(\\sqrt[3]{x}-3)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>−</mo><mn>2</mn><msqrt><mn>7</mn></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>−</mo><mn>4</mn><msqrt><mn>7</mn></msqrt></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>−</mo><mn>2</mn><msqrt><mn>7</mn></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>−</mo><mn>4</mn><msqrt><mn>7</mn></msqrt></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mroot><mi>x</mi><mrow><mn>3</mn></mrow></mroot><mo>−</mo><mn>5</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mroot><mi>x</mi><mrow><mn>3</mn></mrow></mroot><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mroot><mi>x</mi><mrow><mn>3</mn></mrow></mroot><mo>−</mo><mn>5</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mroot><mi>x</mi><mrow><mn>3</mn></mrow></mroot><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 199,
+      "anchor": "fs-id1169145608830",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions",
+        "In the following exercises, multiply."
+      ],
+      "text": "ⓐ \\((1+3\\sqrt{10})(5-2\\sqrt{10})\\) ⓑ \\((2x3+6)(x3+1)\\)",
+      "math": [
+        "(1+3\\sqrt{10})(5-2\\sqrt{10})",
+        "(2\\sqrt[3]{x}+6)(\\sqrt[3]{x}+1)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>+</mo><mn>3</mn><msqrt><mrow><mn>10</mn></mrow></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>−</mo><mn>2</mn><msqrt><mrow><mn>10</mn></mrow></msqrt></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>+</mo><mn>3</mn><msqrt><mrow><mn>10</mn></mrow></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>−</mo><mn>2</mn><msqrt><mrow><mn>10</mn></mrow></msqrt></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mspace width=\"0.2em\"></mspace><mroot><mi>x</mi><mrow><mn>3</mn></mrow></mroot><mo>+</mo><mn>6</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mroot><mi>x</mi><mrow><mn>3</mn></mrow></mroot><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mspace width=\"0.2em\"></mspace><mroot><mi>x</mi><mrow><mn>3</mn></mrow></mroot><mo>+</mo><mn>6</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mroot><mi>x</mi><mrow><mn>3</mn></mrow></mroot><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 200,
+      "anchor": "fs-id1169145662291",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions",
+        "In the following exercises, multiply."
+      ],
+      "text": "ⓐ \\((7-2\\sqrt{5})(4+9\\sqrt{5})\\) ⓑ \\((3x3+2)(x3-2)\\)",
+      "math": [
+        "(7-2\\sqrt{5})(4+9\\sqrt{5})",
+        "(3\\sqrt[3]{x}+2)(\\sqrt[3]{x}-2)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>7</mn><mo>−</mo><mn>2</mn><msqrt><mn>5</mn></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>+</mo><mn>9</mn><msqrt><mn>5</mn></msqrt></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>7</mn><mo>−</mo><mn>2</mn><msqrt><mn>5</mn></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>+</mo><mn>9</mn><msqrt><mn>5</mn></msqrt></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mspace width=\"0.2em\"></mspace><mroot><mi>x</mi><mrow><mn>3</mn></mrow></mroot><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mroot><mi>x</mi><mrow><mn>3</mn></mrow></mroot><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mspace width=\"0.2em\"></mspace><mroot><mi>x</mi><mrow><mn>3</mn></mrow></mroot><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mroot><mi>x</mi><mrow><mn>3</mn></mrow></mroot><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 201,
+      "anchor": "fs-id1169147744858",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(( \\sqrt{3} + \\sqrt{ 10 } ) ( \\sqrt{3} + 2 \\sqrt{ 10 } )\\)",
+      "math": [
+        "( \\sqrt{3} + \\sqrt{ 10 } ) ( \\sqrt{3} + 2 \\sqrt{ 10 } )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msqrt>\n                <mn>3</mn>\n              </msqrt>\n              <mo>+</mo>\n              <msqrt>\n                <mrow>\n                  <mn>10</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msqrt>\n                <mn>3</mn>\n              </msqrt>\n              <mo>+</mo>\n              <mn>2</mn>\n              <msqrt>\n                <mrow>\n                  <mn>10</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msqrt>\n                <mn>3</mn>\n              </msqrt>\n              <mo>+</mo>\n              <msqrt>\n                <mrow>\n                  <mn>10</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msqrt>\n                <mn>3</mn>\n              </msqrt>\n              <mo>+</mo>\n              <mn>2</mn>\n              <msqrt>\n                <mrow>\n                  <mn>10</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 202,
+      "anchor": "fs-id1169148219149",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(( \\sqrt{ 11 } + \\sqrt{5} ) ( \\sqrt{ 11 } + 6 \\sqrt{5} )\\)",
+      "math": [
+        "( \\sqrt{ 11 } + \\sqrt{5} ) ( \\sqrt{ 11 } + 6 \\sqrt{5} )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msqrt>\n                <mrow>\n                  <mn>11</mn>\n                </mrow>\n              </msqrt>\n              <mo>+</mo>\n              <msqrt>\n                <mn>5</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msqrt>\n                <mrow>\n                  <mn>11</mn>\n                </mrow>\n              </msqrt>\n              <mo>+</mo>\n              <mn>6</mn>\n              <msqrt>\n                <mn>5</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msqrt>\n                <mrow>\n                  <mn>11</mn>\n                </mrow>\n              </msqrt>\n              <mo>+</mo>\n              <msqrt>\n                <mn>5</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msqrt>\n                <mrow>\n                  <mn>11</mn>\n                </mrow>\n              </msqrt>\n              <mo>+</mo>\n              <mn>6</mn>\n              <msqrt>\n                <mn>5</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 203,
+      "anchor": "fs-id1169145668415",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(( 2 \\sqrt{7} - 5 \\sqrt{ 11 } ) ( 4 \\sqrt{7} + 9 \\sqrt{ 11 } )\\)",
+      "math": [
+        "( 2 \\sqrt{7} - 5 \\sqrt{ 11 } ) ( 4 \\sqrt{7} + 9 \\sqrt{ 11 } )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <msqrt>\n                <mn>7</mn>\n              </msqrt>\n              <mo>−</mo>\n              <mn>5</mn>\n              <msqrt>\n                <mrow>\n                  <mn>11</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <msqrt>\n                <mn>7</mn>\n              </msqrt>\n              <mo>+</mo>\n              <mn>9</mn>\n              <msqrt>\n                <mrow>\n                  <mn>11</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <msqrt>\n                <mn>7</mn>\n              </msqrt>\n              <mo>−</mo>\n              <mn>5</mn>\n              <msqrt>\n                <mrow>\n                  <mn>11</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <msqrt>\n                <mn>7</mn>\n              </msqrt>\n              <mo>+</mo>\n              <mn>9</mn>\n              <msqrt>\n                <mrow>\n                  <mn>11</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 204,
+      "anchor": "fs-id1169147739410",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(( 4 \\sqrt{6} + 7 \\sqrt{ 13 } ) ( 8 \\sqrt{6} - 3 \\sqrt{ 13 } )\\)",
+      "math": [
+        "( 4 \\sqrt{6} + 7 \\sqrt{ 13 } ) ( 8 \\sqrt{6} - 3 \\sqrt{ 13 } )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <msqrt>\n                <mn>6</mn>\n              </msqrt>\n              <mo>+</mo>\n              <mn>7</mn>\n              <msqrt>\n                <mrow>\n                  <mn>13</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>8</mn>\n              <msqrt>\n                <mn>6</mn>\n              </msqrt>\n              <mo>−</mo>\n              <mn>3</mn>\n              <msqrt>\n                <mrow>\n                  <mn>13</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <msqrt>\n                <mn>6</mn>\n              </msqrt>\n              <mo>+</mo>\n              <mn>7</mn>\n              <msqrt>\n                <mrow>\n                  <mn>13</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>8</mn>\n              <msqrt>\n                <mn>6</mn>\n              </msqrt>\n              <mo>−</mo>\n              <mn>3</mn>\n              <msqrt>\n                <mrow>\n                  <mn>13</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 205,
+      "anchor": "fs-id1169147961093",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions",
+        "In the following exercises, multiply."
+      ],
+      "text": "ⓐ \\({(3+\\sqrt{5})}^{2}\\) ⓑ \\({(2-5\\sqrt{3})}^{2}\\)",
+      "math": [
+        "{(3+\\sqrt{5})}^{2}",
+        "{(2-5\\sqrt{3})}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>+</mo><msqrt><mn>5</mn></msqrt></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>+</mo><msqrt><mn>5</mn></msqrt></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>−</mo><mn>5</mn><msqrt><mn>3</mn></msqrt></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>−</mo><mn>5</mn><msqrt><mn>3</mn></msqrt></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 206,
+      "anchor": "fs-id1169147835105",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions",
+        "In the following exercises, multiply."
+      ],
+      "text": "ⓐ \\({(4+\\sqrt{11})}^{2}\\) ⓑ \\({(3-2\\sqrt{5})}^{2}\\)",
+      "math": [
+        "{(4+\\sqrt{11})}^{2}",
+        "{(3-2\\sqrt{5})}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>+</mo><msqrt><mrow><mn>11</mn></mrow></msqrt></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>+</mo><msqrt><mrow><mn>11</mn></mrow></msqrt></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>−</mo><mn>2</mn><msqrt><mn>5</mn></msqrt></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>−</mo><mn>2</mn><msqrt><mn>5</mn></msqrt></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 207,
+      "anchor": "fs-id1169147983034",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions",
+        "In the following exercises, multiply."
+      ],
+      "text": "ⓐ \\({(9-\\sqrt{6})}^{2}\\) ⓑ \\({(10+3\\sqrt{7})}^{2}\\)",
+      "math": [
+        "{(9-\\sqrt{6})}^{2}",
+        "{(10+3\\sqrt{7})}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>9</mn><mo>−</mo><msqrt><mn>6</mn></msqrt></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>9</mn><mo>−</mo><msqrt><mn>6</mn></msqrt></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>10</mn><mo>+</mo><mn>3</mn><msqrt><mn>7</mn></msqrt></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>10</mn><mo>+</mo><mn>3</mn><msqrt><mn>7</mn></msqrt></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 208,
+      "anchor": "fs-id1169145574100",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions",
+        "In the following exercises, multiply."
+      ],
+      "text": "ⓐ \\({(5-\\sqrt{10})}^{2}\\) ⓑ \\({(8+3\\sqrt{2})}^{2}\\)",
+      "math": [
+        "{(5-\\sqrt{10})}^{2}",
+        "{(8+3\\sqrt{2})}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>−</mo><msqrt><mrow><mn>10</mn></mrow></msqrt></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>5</mn><mo>−</mo><msqrt><mrow><mn>10</mn></mrow></msqrt></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>8</mn><mo>+</mo><mn>3</mn><msqrt><mn>2</mn></msqrt></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>8</mn><mo>+</mo><mn>3</mn><msqrt><mn>2</mn></msqrt></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 209,
+      "anchor": "fs-id1169142436986",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(( 4 + \\sqrt{2} ) ( 4 - \\sqrt{2} )\\)",
+      "math": [
+        "( 4 + \\sqrt{2} ) ( 4 - \\sqrt{2} )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mo>+</mo>\n              <msqrt>\n                <mn>2</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mn>2</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mo>+</mo>\n              <msqrt>\n                <mn>2</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mn>2</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 210,
+      "anchor": "fs-id1169147770449",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(( 7 + \\sqrt{ 10 } ) ( 7 - \\sqrt{ 10 } )\\)",
+      "math": [
+        "( 7 + \\sqrt{ 10 } ) ( 7 - \\sqrt{ 10 } )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>7</mn>\n              <mo>+</mo>\n              <msqrt>\n                <mrow>\n                  <mn>10</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>7</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mrow>\n                  <mn>10</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>7</mn>\n              <mo>+</mo>\n              <msqrt>\n                <mrow>\n                  <mn>10</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>7</mn>\n              <mo>−</mo>\n              <msqrt>\n                <mrow>\n                  <mn>10</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 211,
+      "anchor": "fs-id1169147769618",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(( 4 + 9 \\sqrt{3} ) ( 4 - 9 \\sqrt{3} )\\)",
+      "math": [
+        "( 4 + 9 \\sqrt{3} ) ( 4 - 9 \\sqrt{3} )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mo>+</mo>\n              <mn>9</mn>\n              <msqrt>\n                <mn>3</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mo>−</mo>\n              <mn>9</mn>\n              <msqrt>\n                <mn>3</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mo>+</mo>\n              <mn>9</mn>\n              <msqrt>\n                <mn>3</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mo>−</mo>\n              <mn>9</mn>\n              <msqrt>\n                <mn>3</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 212,
+      "anchor": "fs-id1169147906067",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(( 1 + 8 \\sqrt{2} ) ( 1 - 8 \\sqrt{2} )\\)",
+      "math": [
+        "( 1 + 8 \\sqrt{2} ) ( 1 - 8 \\sqrt{2} )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>1</mn>\n              <mo>+</mo>\n              <mn>8</mn>\n              <msqrt>\n                <mn>2</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>1</mn>\n              <mo>−</mo>\n              <mn>8</mn>\n              <msqrt>\n                <mn>2</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>1</mn>\n              <mo>+</mo>\n              <mn>8</mn>\n              <msqrt>\n                <mn>2</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>1</mn>\n              <mo>−</mo>\n              <mn>8</mn>\n              <msqrt>\n                <mn>2</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 213,
+      "anchor": "fs-id1169145661515",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(( 12 - 5 \\sqrt{5} ) ( 12 + 5 \\sqrt{5} )\\)",
+      "math": [
+        "( 12 - 5 \\sqrt{5} ) ( 12 + 5 \\sqrt{5} )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>12</mn>\n              <mo>−</mo>\n              <mn>5</mn>\n              <msqrt>\n                <mn>5</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>12</mn>\n              <mo>+</mo>\n              <mn>5</mn>\n              <msqrt>\n                <mn>5</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>12</mn>\n              <mo>−</mo>\n              <mn>5</mn>\n              <msqrt>\n                <mn>5</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>12</mn>\n              <mo>+</mo>\n              <mn>5</mn>\n              <msqrt>\n                <mn>5</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 214,
+      "anchor": "fs-id1169147987467",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(( 9 - 4 \\sqrt{3} ) ( 9 + 4 \\sqrt{3} )\\)",
+      "math": [
+        "( 9 - 4 \\sqrt{3} ) ( 9 + 4 \\sqrt{3} )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>9</mn>\n              <mo>−</mo>\n              <mn>4</mn>\n              <msqrt>\n                <mn>3</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>9</mn>\n              <mo>+</mo>\n              <mn>4</mn>\n              <msqrt>\n                <mn>3</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>9</mn>\n              <mo>−</mo>\n              <mn>4</mn>\n              <msqrt>\n                <mn>3</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>9</mn>\n              <mo>+</mo>\n              <mn>4</mn>\n              <msqrt>\n                <mn>3</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 215,
+      "anchor": "fs-id1169148225288",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(( 3 x 3 + 2 ) ( 3 x 3 - 2 )\\)",
+      "math": [
+        "( \\sqrt[3]{ 3 x } + 2 ) ( \\sqrt[3]{ 3 x } - 2 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mroot>\n                <mrow>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                </mrow>\n                <mn>3</mn>\n              </mroot>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mroot>\n                <mrow>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                </mrow>\n                <mn>3</mn>\n              </mroot>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mroot>\n                <mrow>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                </mrow>\n                <mn>3</mn>\n              </mroot>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mroot>\n                <mrow>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                </mrow>\n                <mn>3</mn>\n              </mroot>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 216,
+      "anchor": "fs-id1169145576661",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions",
+        "In the following exercises, multiply."
+      ],
+      "text": "\\(( 4 x 3 + 3 ) ( 4 x 3 - 3 )\\)",
+      "math": [
+        "( \\sqrt[3]{ 4 x } + 3 ) ( \\sqrt[3]{ 4 x } - 3 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mroot>\n                <mrow>\n                  <mn>4</mn>\n                  <mi>x</mi>\n                </mrow>\n                <mn>3</mn>\n              </mroot>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mroot>\n                <mrow>\n                  <mn>4</mn>\n                  <mi>x</mi>\n                </mrow>\n                <mn>3</mn>\n              </mroot>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mroot>\n                <mrow>\n                  <mn>4</mn>\n                  <mi>x</mi>\n                </mrow>\n                <mn>3</mn>\n              </mroot>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mroot>\n                <mrow>\n                  <mn>4</mn>\n                  <mi>x</mi>\n                </mrow>\n                <mn>3</mn>\n              </mroot>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 217,
+      "anchor": "fs-id1169143686686",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "In the following exercises, multiply.",
+        "Mixed Practice"
+      ],
+      "text": "\\(\\frac{2}{3} \\sqrt{ 27 } + \\frac{3}{4} \\sqrt{ 48 }\\)",
+      "math": [
+        "\\frac{2}{3} \\sqrt{ 27 } + \\frac{3}{4} \\sqrt{ 48 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n          <msqrt>\n            <mrow>\n              <mn>27</mn>\n            </mrow>\n          </msqrt>\n          <mo>+</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>4</mn>\n          </mfrac>\n          <msqrt>\n            <mrow>\n              <mn>48</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n          <msqrt>\n            <mrow>\n              <mn>27</mn>\n            </mrow>\n          </msqrt>\n          <mo>+</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>4</mn>\n          </mfrac>\n          <msqrt>\n            <mrow>\n              <mn>48</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 218,
+      "anchor": "fs-id1169147848842",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "In the following exercises, multiply.",
+        "Mixed Practice"
+      ],
+      "text": "\\(\\sqrt{ 175 {k}^{4} } - \\sqrt{ 63 {k}^{4} }\\)",
+      "math": [
+        "\\sqrt{ 175 {k}^{4} } - \\sqrt{ 63 {k}^{4} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>175</mn>\n              <msup>\n                <mi>k</mi>\n                <mn>4</mn>\n              </msup>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <msqrt>\n            <mrow>\n              <mn>63</mn>\n              <msup>\n                <mi>k</mi>\n                <mn>4</mn>\n              </msup>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>175</mn>\n              <msup>\n                <mi>k</mi>\n                <mn>4</mn>\n              </msup>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <msqrt>\n            <mrow>\n              <mn>63</mn>\n              <msup>\n                <mi>k</mi>\n                <mn>4</mn>\n              </msup>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 219,
+      "anchor": "fs-id1169147940186",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "In the following exercises, multiply.",
+        "Mixed Practice"
+      ],
+      "text": "\\(\\frac{5}{6} \\sqrt{ 162 } + \\frac{3}{ 16 } \\sqrt{ 128 }\\)",
+      "math": [
+        "\\frac{5}{6} \\sqrt{ 162 } + \\frac{3}{ 16 } \\sqrt{ 128 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>5</mn>\n            <mn>6</mn>\n          </mfrac>\n          <msqrt>\n            <mrow>\n              <mn>162</mn>\n            </mrow>\n          </msqrt>\n          <mo>+</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <msqrt>\n            <mrow>\n              <mn>128</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>5</mn>\n            <mn>6</mn>\n          </mfrac>\n          <msqrt>\n            <mrow>\n              <mn>162</mn>\n            </mrow>\n          </msqrt>\n          <mo>+</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <mn>16</mn>\n            </mrow>\n          </mfrac>\n          <msqrt>\n            <mrow>\n              <mn>128</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 220,
+      "anchor": "fs-id1169145576611",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "In the following exercises, multiply.",
+        "Mixed Practice"
+      ],
+      "text": "\\(24 3 + / 81 3\\)",
+      "math": [
+        "\\sqrt[3]{ 24 } + \\sqrt[3]{ / 81 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mroot>\n            <mrow>\n              <mn>24</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n          <mo>+</mo>\n          <mroot>\n            <mrow>\n              <mtext>/</mtext>\n              <mn>81</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mroot>\n            <mrow>\n              <mn>24</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n          <mo>+</mo>\n          <mroot>\n            <mrow>\n              <mtext>/</mtext>\n              <mn>81</mn>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 221,
+      "anchor": "fs-id1169147879750",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "In the following exercises, multiply.",
+        "Mixed Practice"
+      ],
+      "text": "\\(\\frac{1}{2} 80 4 - \\frac{2}{3} 405 4\\)",
+      "math": [
+        "\\frac{1}{2} \\sqrt[4]{ 80 } - \\frac{2}{3} \\sqrt[4]{ 405 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mspace width=\"0.2em\"></mspace>\n          <mroot>\n            <mrow>\n              <mn>80</mn>\n            </mrow>\n            <mrow>\n              <mn>4</mn>\n            </mrow>\n          </mroot>\n          <mo>−</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mspace width=\"0.2em\"></mspace>\n          <mroot>\n            <mrow>\n              <mn>405</mn>\n            </mrow>\n            <mrow>\n              <mn>4</mn>\n            </mrow>\n          </mroot>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mspace width=\"0.2em\"></mspace>\n          <mroot>\n            <mrow>\n              <mn>80</mn>\n            </mrow>\n            <mrow>\n              <mn>4</mn>\n            </mrow>\n          </mroot>\n          <mo>−</mo>\n          <mfrac>\n            <mn>2</mn>\n            <mn>3</mn>\n          </mfrac>\n          <mspace width=\"0.2em\"></mspace>\n          <mroot>\n            <mrow>\n              <mn>405</mn>\n            </mrow>\n            <mrow>\n              <mn>4</mn>\n            </mrow>\n          </mroot>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 222,
+      "anchor": "fs-id1169147745315",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "In the following exercises, multiply.",
+        "Mixed Practice"
+      ],
+      "text": "\\(8 13 4 - 4 13 4 - 3 13 4\\)",
+      "math": [
+        "8 \\sqrt[4]{ 13 } - 4 \\sqrt[4]{ 13 } - 3 \\sqrt[4]{ 13 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>8</mn>\n          <mroot>\n            <mrow>\n              <mn>13</mn>\n            </mrow>\n            <mn>4</mn>\n          </mroot>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mroot>\n            <mrow>\n              <mn>13</mn>\n            </mrow>\n            <mn>4</mn>\n          </mroot>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mroot>\n            <mrow>\n              <mn>13</mn>\n            </mrow>\n            <mn>4</mn>\n          </mroot>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>8</mn>\n          <mroot>\n            <mrow>\n              <mn>13</mn>\n            </mrow>\n            <mn>4</mn>\n          </mroot>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mroot>\n            <mrow>\n              <mn>13</mn>\n            </mrow>\n            <mn>4</mn>\n          </mroot>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mroot>\n            <mrow>\n              <mn>13</mn>\n            </mrow>\n            <mn>4</mn>\n          </mroot>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 223,
+      "anchor": "fs-id1169148207208",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "In the following exercises, multiply.",
+        "Mixed Practice"
+      ],
+      "text": "\\(5 \\sqrt{ 12 {c}^{4} } - 3 \\sqrt{ 27 {c}^{6} }\\)",
+      "math": [
+        "5 \\sqrt{ 12 {c}^{4} } - 3 \\sqrt{ 27 {c}^{6} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>5</mn>\n          <msqrt>\n            <mrow>\n              <mn>12</mn>\n              <msup>\n                <mi>c</mi>\n                <mn>4</mn>\n              </msup>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <mn>3</mn>\n          <msqrt>\n            <mrow>\n              <mn>27</mn>\n              <msup>\n                <mi>c</mi>\n                <mn>6</mn>\n              </msup>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>5</mn>\n          <msqrt>\n            <mrow>\n              <mn>12</mn>\n              <msup>\n                <mi>c</mi>\n                <mn>4</mn>\n              </msup>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <mn>3</mn>\n          <msqrt>\n            <mrow>\n              <mn>27</mn>\n              <msup>\n                <mi>c</mi>\n                <mn>6</mn>\n              </msup>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 224,
+      "anchor": "fs-id1169145499870",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "In the following exercises, multiply.",
+        "Mixed Practice"
+      ],
+      "text": "\\(\\sqrt{ 80 {a}^{5} } - \\sqrt{ 45 {a}^{5} }\\)",
+      "math": [
+        "\\sqrt{ 80 {a}^{5} } - \\sqrt{ 45 {a}^{5} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>80</mn>\n              <msup>\n                <mi>a</mi>\n                <mn>5</mn>\n              </msup>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <msqrt>\n            <mrow>\n              <mn>45</mn>\n              <msup>\n                <mi>a</mi>\n                <mn>5</mn>\n              </msup>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mrow>\n              <mn>80</mn>\n              <msup>\n                <mi>a</mi>\n                <mn>5</mn>\n              </msup>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <msqrt>\n            <mrow>\n              <mn>45</mn>\n              <msup>\n                <mi>a</mi>\n                <mn>5</mn>\n              </msup>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 225,
+      "anchor": "fs-id1169143442672",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "In the following exercises, multiply.",
+        "Mixed Practice"
+      ],
+      "text": "\\(\\frac{3}{5} \\sqrt{ 75 } - \\frac{1}{4} \\sqrt{ 48 }\\)",
+      "math": [
+        "\\frac{3}{5} \\sqrt{ 75 } - \\frac{1}{4} \\sqrt{ 48 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>3</mn>\n            <mn>5</mn>\n          </mfrac>\n          <msqrt>\n            <mrow>\n              <mn>75</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n          <msqrt>\n            <mrow>\n              <mn>48</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>3</mn>\n            <mn>5</mn>\n          </mfrac>\n          <msqrt>\n            <mrow>\n              <mn>75</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n          <msqrt>\n            <mrow>\n              <mn>48</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 226,
+      "anchor": "fs-id1169143614495",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "In the following exercises, multiply.",
+        "Mixed Practice"
+      ],
+      "text": "\\(21 9 3 - 2 9 3\\)",
+      "math": [
+        "21 \\sqrt[3]{9} - 2 \\sqrt[3]{9}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>21</mn>\n          <mspace width=\"0.2em\"></mspace>\n          <mroot>\n            <mn>9</mn>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mspace width=\"0.2em\"></mspace>\n          <mroot>\n            <mn>9</mn>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>21</mn>\n          <mspace width=\"0.2em\"></mspace>\n          <mroot>\n            <mn>9</mn>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n          <mo>−</mo>\n          <mn>2</mn>\n          <mspace width=\"0.2em\"></mspace>\n          <mroot>\n            <mn>9</mn>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 227,
+      "anchor": "fs-id1169148218327",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "In the following exercises, multiply.",
+        "Mixed Practice"
+      ],
+      "text": "\\(8 64 {q}^{6} 3 - 3 125 {q}^{6} 3\\)",
+      "math": [
+        "8 \\sqrt[3]{ 64 {q}^{6} } - 3 \\sqrt[3]{ 125 {q}^{6} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>8</mn>\n          <mspace width=\"0.2em\"></mspace>\n          <mroot>\n            <mrow>\n              <mn>64</mn>\n              <msup>\n                <mi>q</mi>\n                <mn>6</mn>\n              </msup>\n            </mrow>\n            <mn>3</mn>\n          </mroot>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mspace width=\"0.2em\"></mspace>\n          <mroot>\n            <mrow>\n              <mn>125</mn>\n              <msup>\n                <mi>q</mi>\n                <mn>6</mn>\n              </msup>\n            </mrow>\n            <mn>3</mn>\n          </mroot>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>8</mn>\n          <mspace width=\"0.2em\"></mspace>\n          <mroot>\n            <mrow>\n              <mn>64</mn>\n              <msup>\n                <mi>q</mi>\n                <mn>6</mn>\n              </msup>\n            </mrow>\n            <mn>3</mn>\n          </mroot>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mspace width=\"0.2em\"></mspace>\n          <mroot>\n            <mrow>\n              <mn>125</mn>\n              <msup>\n                <mi>q</mi>\n                <mn>6</mn>\n              </msup>\n            </mrow>\n            <mn>3</mn>\n          </mroot>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 228,
+      "anchor": "fs-id1169145720558",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "In the following exercises, multiply.",
+        "Mixed Practice"
+      ],
+      "text": "\\(11 \\sqrt{ 11 } - 10 \\sqrt{ 11 }\\)",
+      "math": [
+        "11 \\sqrt{ 11 } - 10 \\sqrt{ 11 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>11</mn>\n          <msqrt>\n            <mrow>\n              <mn>11</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <mn>10</mn>\n          <msqrt>\n            <mrow>\n              <mn>11</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>11</mn>\n          <msqrt>\n            <mrow>\n              <mn>11</mn>\n            </mrow>\n          </msqrt>\n          <mo>−</mo>\n          <mn>10</mn>\n          <msqrt>\n            <mrow>\n              <mn>11</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 229,
+      "anchor": "fs-id1169145658836",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "In the following exercises, multiply.",
+        "Mixed Practice"
+      ],
+      "text": "\\(\\sqrt{3} \\cdot \\sqrt{ 21 }\\)",
+      "math": [
+        "\\sqrt{3} \\cdot \\sqrt{ 21 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mn>3</mn>\n          </msqrt>\n          <mo>·</mo>\n          <msqrt>\n            <mrow>\n              <mn>21</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mn>3</mn>\n          </msqrt>\n          <mo>·</mo>\n          <msqrt>\n            <mrow>\n              <mn>21</mn>\n            </mrow>\n          </msqrt>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 230,
+      "anchor": "fs-id1169142138520",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "In the following exercises, multiply.",
+        "Mixed Practice"
+      ],
+      "text": "\\(( 4 \\sqrt{6} ) ( - \\sqrt{ 18 } )\\)",
+      "math": [
+        "( 4 \\sqrt{6} ) ( - \\sqrt{ 18 } )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <msqrt>\n                <mn>6</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mtext>−</mtext>\n              <msqrt>\n                <mrow>\n                  <mn>18</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <msqrt>\n                <mn>6</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mtext>−</mtext>\n              <msqrt>\n                <mrow>\n                  <mn>18</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 231,
+      "anchor": "fs-id1169145777580",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "In the following exercises, multiply.",
+        "Mixed Practice"
+      ],
+      "text": "\\(( 7 4 3 ) ( -3 18 3 )\\)",
+      "math": [
+        "( 7 \\sqrt[3]{4} ) ( -3 \\sqrt[3]{ 18 } )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>7</mn>\n              <mroot>\n                <mn>4</mn>\n                <mn>3</mn>\n              </mroot>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−3</mn>\n              <mroot>\n                <mrow>\n                  <mn>18</mn>\n                </mrow>\n                <mn>3</mn>\n              </mroot>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>7</mn>\n              <mroot>\n                <mn>4</mn>\n                <mn>3</mn>\n              </mroot>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−3</mn>\n              <mroot>\n                <mrow>\n                  <mn>18</mn>\n                </mrow>\n                <mn>3</mn>\n              </mroot>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 232,
+      "anchor": "fs-id1169147909725",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "In the following exercises, multiply.",
+        "Mixed Practice"
+      ],
+      "text": "\\(( 4 \\sqrt{ 12 {x}^{5} } ) ( 2 \\sqrt{ 6 {x}^{3} } )\\)",
+      "math": [
+        "( 4 \\sqrt{ 12 {x}^{5} } ) ( 2 \\sqrt{ 6 {x}^{3} } )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <msqrt>\n                <mrow>\n                  <mn>12</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>5</mn>\n                  </msup>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <msqrt>\n                <mrow>\n                  <mn>6</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>3</mn>\n                  </msup>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <msqrt>\n                <mrow>\n                  <mn>12</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>5</mn>\n                  </msup>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <msqrt>\n                <mrow>\n                  <mn>6</mn>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>3</mn>\n                  </msup>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 233,
+      "anchor": "fs-id1169148076396",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "In the following exercises, multiply.",
+        "Mixed Practice"
+      ],
+      "text": "\\({ ( \\sqrt{ 29 } ) }^{2}\\)",
+      "math": [
+        "{ ( \\sqrt{ 29 } ) }^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <msqrt>\n                    <mrow>\n                      <mn>29</mn>\n                    </mrow>\n                  </msqrt>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <msqrt>\n                    <mrow>\n                      <mn>29</mn>\n                    </mrow>\n                  </msqrt>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 234,
+      "anchor": "fs-id1169148185270",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "In the following exercises, multiply.",
+        "Mixed Practice"
+      ],
+      "text": "\\(( -4 \\sqrt{ 17 } ) ( -3 \\sqrt{ 17 } )\\)",
+      "math": [
+        "( -4 \\sqrt{ 17 } ) ( -3 \\sqrt{ 17 } )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−4</mn>\n              <msqrt>\n                <mrow>\n                  <mn>17</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−3</mn>\n              <msqrt>\n                <mrow>\n                  <mn>17</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−4</mn>\n              <msqrt>\n                <mrow>\n                  <mn>17</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−3</mn>\n              <msqrt>\n                <mrow>\n                  <mn>17</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 235,
+      "anchor": "fs-id1169147776900",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "In the following exercises, multiply.",
+        "Mixed Practice"
+      ],
+      "text": "\\(( -4 + \\sqrt{ 17 } ) ( -3 + \\sqrt{ 17 } )\\)",
+      "math": [
+        "( -4 + \\sqrt{ 17 } ) ( -3 + \\sqrt{ 17 } )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−4</mn>\n              <mo>+</mo>\n              <msqrt>\n                <mrow>\n                  <mn>17</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−3</mn>\n              <mo>+</mo>\n              <msqrt>\n                <mrow>\n                  <mn>17</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−4</mn>\n              <mo>+</mo>\n              <msqrt>\n                <mrow>\n                  <mn>17</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−3</mn>\n              <mo>+</mo>\n              <msqrt>\n                <mrow>\n                  <mn>17</mn>\n                </mrow>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 236,
+      "anchor": "fs-id1169137734607",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "In the following exercises, multiply.",
+        "Mixed Practice"
+      ],
+      "text": "\\(( 3 8 {a}^{2} 4 ) ( 12 {a}^{3} 4 )\\)",
+      "math": [
+        "( 3 \\sqrt[4]{ 8 {a}^{2} } ) ( \\sqrt[4]{ 12 {a}^{3} } )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mspace width=\"0.2em\"></mspace>\n              <mroot>\n                <mrow>\n                  <mn>8</mn>\n                  <msup>\n                    <mi>a</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n                <mn>4</mn>\n              </mroot>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mroot>\n                <mrow>\n                  <mn>12</mn>\n                  <msup>\n                    <mi>a</mi>\n                    <mn>3</mn>\n                  </msup>\n                </mrow>\n                <mn>4</mn>\n              </mroot>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mspace width=\"0.2em\"></mspace>\n              <mroot>\n                <mrow>\n                  <mn>8</mn>\n                  <msup>\n                    <mi>a</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n                <mn>4</mn>\n              </mroot>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mroot>\n                <mrow>\n                  <mn>12</mn>\n                  <msup>\n                    <mi>a</mi>\n                    <mn>3</mn>\n                  </msup>\n                </mrow>\n                <mn>4</mn>\n              </mroot>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 237,
+      "anchor": "fs-id1169142480038",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "In the following exercises, multiply.",
+        "Mixed Practice"
+      ],
+      "text": "\\({ ( 6 - 3 \\sqrt{2} ) }^{2}\\)",
+      "math": [
+        "{ ( 6 - 3 \\sqrt{2} ) }^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>6</mn>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <msqrt>\n                    <mn>2</mn>\n                  </msqrt>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>6</mn>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <msqrt>\n                    <mn>2</mn>\n                  </msqrt>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 238,
+      "anchor": "fs-id1169148100251",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "In the following exercises, multiply.",
+        "Mixed Practice"
+      ],
+      "text": "\\(\\sqrt{3} ( 4 - 3 \\sqrt{3} )\\)",
+      "math": [
+        "\\sqrt{3} ( 4 - 3 \\sqrt{3} )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msqrt>\n            <mn>3</mn>\n          </msqrt>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mo>−</mo>\n              <mn>3</mn>\n              <msqrt>\n                <mn>3</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msqrt>\n            <mn>3</mn>\n          </msqrt>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mo>−</mo>\n              <mn>3</mn>\n              <msqrt>\n                <mn>3</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 239,
+      "anchor": "fs-id1169147983525",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "In the following exercises, multiply.",
+        "Mixed Practice"
+      ],
+      "text": "\\(3 3 ( 2 9 3 + 18 3 )\\)",
+      "math": [
+        "\\sqrt[3]{3} ( 2 \\sqrt[3]{9} + \\sqrt[3]{ 18 } )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mroot>\n            <mn>3</mn>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n          <mspace width=\"0.2em\"></mspace>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mspace width=\"0.2em\"></mspace>\n              <mroot>\n                <mn>9</mn>\n                <mrow>\n                  <mn>3</mn>\n                </mrow>\n              </mroot>\n              <mo>+</mo>\n              <mroot>\n                <mrow>\n                  <mn>18</mn>\n                </mrow>\n                <mrow>\n                  <mn>3</mn>\n                </mrow>\n              </mroot>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mroot>\n            <mn>3</mn>\n            <mrow>\n              <mn>3</mn>\n            </mrow>\n          </mroot>\n          <mspace width=\"0.2em\"></mspace>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mspace width=\"0.2em\"></mspace>\n              <mroot>\n                <mn>9</mn>\n                <mrow>\n                  <mn>3</mn>\n                </mrow>\n              </mroot>\n              <mo>+</mo>\n              <mroot>\n                <mrow>\n                  <mn>18</mn>\n                </mrow>\n                <mrow>\n                  <mn>3</mn>\n                </mrow>\n              </mroot>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 240,
+      "anchor": "fs-id1169148115500",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "In the following exercises, multiply.",
+        "Mixed Practice"
+      ],
+      "text": "\\(( \\sqrt{6} + \\sqrt{3} ) ( \\sqrt{6} + 6 \\sqrt{3} )\\)",
+      "math": [
+        "( \\sqrt{6} + \\sqrt{3} ) ( \\sqrt{6} + 6 \\sqrt{3} )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msqrt>\n                <mn>6</mn>\n              </msqrt>\n              <mo>+</mo>\n              <msqrt>\n                <mn>3</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msqrt>\n                <mn>6</mn>\n              </msqrt>\n              <mo>+</mo>\n              <mn>6</mn>\n              <msqrt>\n                <mn>3</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msqrt>\n                <mn>6</mn>\n              </msqrt>\n              <mo>+</mo>\n              <msqrt>\n                <mn>3</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <msqrt>\n                <mn>6</mn>\n              </msqrt>\n              <mo>+</mo>\n              <mn>6</mn>\n              <msqrt>\n                <mn>3</mn>\n              </msqrt>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 241,
+      "anchor": "fs-id1169147854321",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain when a radical expression is in simplest form.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 242,
+      "anchor": "fs-id1169147764813",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain the process for determining whether two radicals are like or unlike. Make sure your answer makes sense for radicals containing both numbers and variables.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 243,
+      "anchor": "fs-id1169148112211",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "ⓐ Explain why \\({(-\\sqrt{n})}^{2}\\) is always non-negative, for \\(n≥0.\\)ⓑ Explain why \\(-{(\\sqrt{n})}^{2}\\) is always non-positive, for \\(n≥0.\\)",
+      "math": [
+        "{(-\\sqrt{n})}^{2}",
+        "n\\ge 0.",
+        "-{(\\sqrt{n})}^{2}",
+        "n\\ge 0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mtext>−</mtext><msqrt><mi>n</mi></msqrt></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mtext>−</mtext><msqrt><mi>n</mi></msqrt></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>n</mi><mo>≥</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>n</mi><mo>≥</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mo>−</mo><msup><mrow><mrow><mo>(</mo><mrow><msqrt><mi>n</mi></msqrt></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mo>−</mo><msup><mrow><mrow><mo>(</mo><mrow><msqrt><mi>n</mi></msqrt></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>n</mi><mo>≥</mo><mn>0.</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>n</mi><mo>≥</mo><mn>0.</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 244,
+      "anchor": "fs-id1169143550530",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Use the binomial square pattern to simplify \\({(3+\\sqrt{2})}^{2}.\\) Explain all your steps.",
+      "math": [
+        "{(3+\\sqrt{2})}^{2}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>+</mo><msqrt><mn>2</mn></msqrt></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>+</mo><msqrt><mn>2</mn></msqrt></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "8.71",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169145673507",
+      "context": [
+        "Add and Subtract Radical Expressions"
+      ],
+      "text": "Simplify: ⓐ \\(8\\sqrt{2}-9\\sqrt{2}\\) ⓑ \\(4x3+7x3\\) ⓒ \\(3x4-5y4.\\)",
+      "math": [
+        "8\\sqrt{2}-9\\sqrt{2}",
+        "4\\sqrt[3]{x}+7\\sqrt[3]{x}",
+        "3\\sqrt[4]{x}-5\\sqrt[4]{y}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>8</mn><msqrt><mn>2</mn></msqrt><mo>−</mo><mn>9</mn><msqrt><mn>2</mn></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>8</mn><msqrt><mn>2</mn></msqrt><mo>−</mo><mn>9</mn><msqrt><mn>2</mn></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mroot><mi>x</mi><mrow><mn>3</mn></mrow></mroot><mo>+</mo><mn>7</mn><mroot><mi>x</mi><mrow><mn>3</mn></mrow></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mroot><mi>x</mi><mrow><mn>3</mn></mrow></mroot><mo>+</mo><mn>7</mn><mroot><mi>x</mi><mrow><mn>3</mn></mrow></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mroot><mi>x</mi><mrow><mn>4</mn></mrow></mroot><mo>−</mo><mn>5</mn><mroot><mi>y</mi><mrow><mn>4</mn></mrow></mroot><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mroot><mi>x</mi><mrow><mn>4</mn></mrow></mroot><mo>−</mo><mn>5</mn><mroot><mi>y</mi><mrow><mn>4</mn></mrow></mroot><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.72",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169148037308",
+      "context": [
+        "Add and Subtract Radical Expressions"
+      ],
+      "text": "Simplify: ⓐ \\(5\\sqrt{3}-9\\sqrt{3}\\) ⓑ \\(5y3+3y3\\) ⓒ \\(5m4-2m3.\\)",
+      "math": [
+        "5\\sqrt{3}-9\\sqrt{3}",
+        "5\\sqrt[3]{y}+3\\sqrt[3]{y}",
+        "5\\sqrt[4]{m}-2\\sqrt[3]{m}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><msqrt><mn>3</mn></msqrt><mo>−</mo><mn>9</mn><msqrt><mn>3</mn></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><msqrt><mn>3</mn></msqrt><mo>−</mo><mn>9</mn><msqrt><mn>3</mn></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mroot><mi>y</mi><mrow><mn>3</mn></mrow></mroot><mo>+</mo><mn>3</mn><mroot><mi>y</mi><mrow><mn>3</mn></mrow></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mroot><mi>y</mi><mrow><mn>3</mn></mrow></mroot><mo>+</mo><mn>3</mn><mroot><mi>y</mi><mrow><mn>3</mn></mrow></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mroot><mi>m</mi><mrow><mn>4</mn></mrow></mroot><mo>−</mo><mn>2</mn><mroot><mi>m</mi><mrow><mn>3</mn></mrow></mroot><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mroot><mi>m</mi><mrow><mn>4</mn></mrow></mroot><mo>−</mo><mn>2</mn><mroot><mi>m</mi><mrow><mn>3</mn></mrow></mroot><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.73",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169143534306",
+      "context": [
+        "Add and Subtract Radical Expressions"
+      ],
+      "text": "Simplify: ⓐ \\(\\sqrt{7x}-7\\sqrt{7x}+4\\sqrt{7x}\\) ⓑ \\(45xy4+25xy4-75xy4.\\)",
+      "math": [
+        "\\sqrt{7x}-7\\sqrt{7x}+4\\sqrt{7x}",
+        "4\\sqrt[4]{5xy}+2\\sqrt[4]{5xy}-7\\sqrt[4]{5xy}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>7</mn><mi>x</mi></mrow></msqrt><mo>−</mo><mn>7</mn><mspace width=\"0.2em\"></mspace><msqrt><mrow><mn>7</mn><mi>x</mi></mrow></msqrt><mo>+</mo><mn>4</mn><mspace width=\"0.2em\"></mspace><msqrt><mrow><mn>7</mn><mi>x</mi></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>7</mn><mi>x</mi></mrow></msqrt><mo>−</mo><mn>7</mn><mspace width=\"0.2em\"></mspace><msqrt><mrow><mn>7</mn><mi>x</mi></mrow></msqrt><mo>+</mo><mn>4</mn><mspace width=\"0.2em\"></mspace><msqrt><mrow><mn>7</mn><mi>x</mi></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>5</mn><mi>x</mi><mi>y</mi></mrow><mn>4</mn></mroot><mo>+</mo><mn>2</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>5</mn><mi>x</mi><mi>y</mi></mrow><mn>4</mn></mroot><mo>−</mo><mn>7</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>5</mn><mi>x</mi><mi>y</mi></mrow><mn>4</mn></mroot><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>5</mn><mi>x</mi><mi>y</mi></mrow><mn>4</mn></mroot><mo>+</mo><mn>2</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>5</mn><mi>x</mi><mi>y</mi></mrow><mn>4</mn></mroot><mo>−</mo><mn>7</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>5</mn><mi>x</mi><mi>y</mi></mrow><mn>4</mn></mroot><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.74",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169141020274",
+      "context": [
+        "Add and Subtract Radical Expressions"
+      ],
+      "text": "Simplify: ⓐ \\(4\\sqrt{3y}-7\\sqrt{3y}+2\\sqrt{3y}\\) ⓑ \\(67mn3+7mn3-47mn3.\\)",
+      "math": [
+        "4\\sqrt{3y}-7\\sqrt{3y}+2\\sqrt{3y}",
+        "6\\sqrt[3]{7mn}+\\sqrt[3]{7mn}-4\\sqrt[3]{7mn}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mspace width=\"0.2em\"></mspace><msqrt><mrow><mn>3</mn><mi>y</mi></mrow></msqrt><mo>−</mo><mn>7</mn><mspace width=\"0.2em\"></mspace><msqrt><mrow><mn>3</mn><mi>y</mi></mrow></msqrt><mo>+</mo><mn>2</mn><mspace width=\"0.2em\"></mspace><msqrt><mrow><mn>3</mn><mi>y</mi></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mspace width=\"0.2em\"></mspace><msqrt><mrow><mn>3</mn><mi>y</mi></mrow></msqrt><mo>−</mo><mn>7</mn><mspace width=\"0.2em\"></mspace><msqrt><mrow><mn>3</mn><mi>y</mi></mrow></msqrt><mo>+</mo><mn>2</mn><mspace width=\"0.2em\"></mspace><msqrt><mrow><mn>3</mn><mi>y</mi></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>6</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>7</mn><mi>m</mi><mi>n</mi></mrow><mn>3</mn></mroot><mo>+</mo><mroot><mrow><mn>7</mn><mi>m</mi><mi>n</mi></mrow><mn>3</mn></mroot><mo>−</mo><mn>4</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>7</mn><mi>m</mi><mi>n</mi></mrow><mn>3</mn></mroot><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>6</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>7</mn><mi>m</mi><mi>n</mi></mrow><mn>3</mn></mroot><mo>+</mo><mroot><mrow><mn>7</mn><mi>m</mi><mi>n</mi></mrow><mn>3</mn></mroot><mo>−</mo><mn>4</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>7</mn><mi>m</mi><mi>n</mi></mrow><mn>3</mn></mroot><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.75",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169147711379",
+      "context": [
+        "Add and Subtract Radical Expressions"
+      ],
+      "text": "Simplify: ⓐ \\(\\sqrt{18}+6\\sqrt{2}\\) ⓑ \\(6163-22503\\) ⓒ \\(\\frac{2}{3}813-\\frac{1}{2}243.\\)",
+      "math": [
+        "\\sqrt{18}+6\\sqrt{2}",
+        "6\\sqrt[3]{16}-2\\sqrt[3]{250}",
+        "\\frac{2}{3}\\sqrt[3]{81}-\\frac{1}{2}\\sqrt[3]{24}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>18</mn></mrow></msqrt><mo>+</mo><mn>6</mn><mspace width=\"0.2em\"></mspace><msqrt><mn>2</mn></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>18</mn></mrow></msqrt><mo>+</mo><mn>6</mn><mspace width=\"0.2em\"></mspace><msqrt><mn>2</mn></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>6</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>16</mn></mrow><mrow><mn>3</mn></mrow></mroot><mo>−</mo><mn>2</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>250</mn></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>6</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>16</mn></mrow><mrow><mn>3</mn></mrow></mroot><mo>−</mo><mn>2</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>250</mn></mrow><mrow><mn>3</mn></mrow></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>2</mn><mn>3</mn></mfrac><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>81</mn></mrow><mn>3</mn></mroot><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>24</mn></mrow><mn>3</mn></mroot><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>2</mn><mn>3</mn></mfrac><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>81</mn></mrow><mn>3</mn></mroot><mo>−</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>24</mn></mrow><mn>3</mn></mroot><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.76",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169147960990",
+      "context": [
+        "Add and Subtract Radical Expressions"
+      ],
+      "text": "Simplify: ⓐ \\(\\sqrt{27}+4\\sqrt{3}\\) ⓑ \\(453-7403\\) ⓒ \\(\\frac{1}{2}1283-\\frac{5}{3}543.\\)",
+      "math": [
+        "\\sqrt{27}+4\\sqrt{3}",
+        "4\\sqrt[3]{5}-7\\sqrt[3]{40}",
+        "\\frac{1}{2}\\sqrt[3]{128}-\\frac{5}{3}\\sqrt[3]{54}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>27</mn></mrow></msqrt><mo>+</mo><mn>4</mn><mspace width=\"0.2em\"></mspace><msqrt><mn>3</mn></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>27</mn></mrow></msqrt><mo>+</mo><mn>4</mn><mspace width=\"0.2em\"></mspace><msqrt><mn>3</mn></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mspace width=\"0.2em\"></mspace><mroot><mn>5</mn><mrow><mn>3</mn></mrow></mroot><mo>−</mo><mn>7</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>40</mn></mrow><mrow><mn>3</mn></mrow></mroot></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mspace width=\"0.2em\"></mspace><mroot><mn>5</mn><mrow><mn>3</mn></mrow></mroot><mo>−</mo><mn>7</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>40</mn></mrow><mrow><mn>3</mn></mrow></mroot></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>128</mn></mrow><mrow><mn>3</mn></mrow></mroot><mo>−</mo><mfrac><mn>5</mn><mn>3</mn></mfrac><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>54</mn></mrow><mn>3</mn></mroot><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>128</mn></mrow><mrow><mn>3</mn></mrow></mroot><mo>−</mo><mfrac><mn>5</mn><mn>3</mn></mfrac><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>54</mn></mrow><mn>3</mn></mroot><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.77",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169147935139",
+      "context": [
+        "Add and Subtract Radical Expressions"
+      ],
+      "text": "Simplify: ⓐ \\(\\sqrt{32{m}^{7}}-\\sqrt{50{m}^{7}}\\) ⓑ \\(135{x}^{7}3-40{x}^{7}3.\\)",
+      "math": [
+        "\\sqrt{32{m}^{7}}-\\sqrt{50{m}^{7}}",
+        "\\sqrt[3]{135{x}^{7}}-\\sqrt[3]{40{x}^{7}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>32</mn><msup><mi>m</mi><mn>7</mn></msup></mrow></msqrt><mo>−</mo><msqrt><mrow><mn>50</mn><msup><mi>m</mi><mn>7</mn></msup></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>32</mn><msup><mi>m</mi><mn>7</mn></msup></mrow></msqrt><mo>−</mo><msqrt><mrow><mn>50</mn><msup><mi>m</mi><mn>7</mn></msup></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><mn>135</mn><msup><mi>x</mi><mn>7</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot><mo>−</mo><mroot><mrow><mn>40</mn><msup><mi>x</mi><mn>7</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><mn>135</mn><msup><mi>x</mi><mn>7</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot><mo>−</mo><mroot><mrow><mn>40</mn><msup><mi>x</mi><mn>7</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.78",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169147875154",
+      "context": [
+        "Add and Subtract Radical Expressions"
+      ],
+      "text": "Simplify: ⓐ \\(\\sqrt{27{p}^{3}}-\\sqrt{48{p}^{3}}\\) ⓑ \\(256{y}^{5}3-32{y}^{5}3.\\)",
+      "math": [
+        "\\sqrt{27{p}^{3}}-\\sqrt{48{p}^{3}}",
+        "\\sqrt[3]{256{y}^{5}}-\\sqrt[3]{32{y}^{5}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mrow><mn>27</mn><msup><mi>p</mi><mn>3</mn></msup></mrow></msqrt><mo>−</mo><msqrt><mrow><mn>48</mn><msup><mi>p</mi><mn>3</mn></msup></mrow></msqrt></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mrow><mn>27</mn><msup><mi>p</mi><mn>3</mn></msup></mrow></msqrt><mo>−</mo><msqrt><mrow><mn>48</mn><msup><mi>p</mi><mn>3</mn></msup></mrow></msqrt></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mrow><mn>256</mn><msup><mi>y</mi><mn>5</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot><mo>−</mo><mroot><mrow><mn>32</mn><msup><mi>y</mi><mn>5</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mrow><mn>256</mn><msup><mi>y</mi><mn>5</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot><mo>−</mo><mroot><mrow><mn>32</mn><msup><mi>y</mi><mn>5</mn></msup></mrow><mrow><mn>3</mn></mrow></mroot><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.79",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169143605125",
+      "context": [
+        "Multiply Radical Expressions"
+      ],
+      "text": "Simplify: ⓐ \\((3\\sqrt{2})(2\\sqrt{30})\\) ⓑ \\((2183)(-363).\\)",
+      "math": [
+        "(3\\sqrt{2})(2\\sqrt{30})",
+        "(2\\sqrt[3]{18})(-3\\sqrt[3]{6})."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>3</mn><msqrt><mrow><mn>2</mn></mrow></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>2</mn><msqrt><mrow><mn>30</mn></mrow></msqrt></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>3</mn><msqrt><mrow><mn>2</mn></mrow></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>2</mn><msqrt><mrow><mn>30</mn></mrow></msqrt></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>18</mn></mrow><mn>3</mn></mroot></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mspace width=\"0.2em\"></mspace><mroot><mn>6</mn><mn>3</mn></mroot></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>18</mn></mrow><mn>3</mn></mroot></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mspace width=\"0.2em\"></mspace><mroot><mn>6</mn><mn>3</mn></mroot></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.80",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169147712231",
+      "context": [
+        "Multiply Radical Expressions"
+      ],
+      "text": "Simplify: ⓐ \\((3\\sqrt{3})(3\\sqrt{6})\\) ⓑ \\((-493)(363).\\)",
+      "math": [
+        "(3\\sqrt{3})(3\\sqrt{6})",
+        "(-4\\sqrt[3]{9})(3\\sqrt[3]{6})."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>3</mn><msqrt><mrow><mn>3</mn></mrow></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>3</mn><msqrt><mn>6</mn></msqrt></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>3</mn><msqrt><mrow><mn>3</mn></mrow></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>3</mn><msqrt><mn>6</mn></msqrt></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mspace width=\"0.2em\"></mspace><mroot><mn>9</mn><mn>3</mn></mroot></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>3</mn><mspace width=\"0.2em\"></mspace><mroot><mn>6</mn><mn>3</mn></mroot></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mspace width=\"0.2em\"></mspace><mroot><mn>9</mn><mn>3</mn></mroot></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>3</mn><mspace width=\"0.2em\"></mspace><mroot><mn>6</mn><mn>3</mn></mroot></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.81",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169148114648",
+      "context": [
+        "Multiply Radical Expressions"
+      ],
+      "text": "Simplify: ⓐ \\((6\\sqrt{6{x}^{2}})(8\\sqrt{30{x}^{4}})\\) ⓑ \\((-412{y}^{3}4)(-8{y}^{3}4).\\)",
+      "math": [
+        "(6\\sqrt{6{x}^{2}})(8\\sqrt{30{x}^{4}})",
+        "(-4\\sqrt[4]{12{y}^{3}})(-\\sqrt[4]{8{y}^{3}})."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>6</mn><msqrt><mrow><mn>6</mn><msup><mi>x</mi><mn>2</mn></msup></mrow></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>8</mn><msqrt><mrow><mn>30</mn><msup><mi>x</mi><mn>4</mn></msup></mrow></msqrt></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>6</mn><msqrt><mrow><mn>6</mn><msup><mi>x</mi><mn>2</mn></msup></mrow></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>8</mn><msqrt><mrow><mn>30</mn><msup><mi>x</mi><mn>4</mn></msup></mrow></msqrt></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>12</mn><msup><mi>y</mi><mn>3</mn></msup></mrow><mn>4</mn></mroot></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mtext>−</mtext><mroot><mrow><mn>8</mn><msup><mi>y</mi><mn>3</mn></msup></mrow><mn>4</mn></mroot></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>12</mn><msup><mi>y</mi><mn>3</mn></msup></mrow><mn>4</mn></mroot></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mtext>−</mtext><mroot><mrow><mn>8</mn><msup><mi>y</mi><mn>3</mn></msup></mrow><mn>4</mn></mroot></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.82",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169147844248",
+      "context": [
+        "Multiply Radical Expressions"
+      ],
+      "text": "Simplify: ⓐ \\((2\\sqrt{6{y}^{4}})(12\\sqrt{30y})\\) ⓑ \\((-49{a}^{3}4)(327{a}^{2}4).\\)",
+      "math": [
+        "(2\\sqrt{6{y}^{4}})(12\\sqrt{30y})",
+        "(-4\\sqrt[4]{9{a}^{3}})(3\\sqrt[4]{27{a}^{2}})."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>2</mn><msqrt><mrow><mn>6</mn><msup><mi>y</mi><mn>4</mn></msup></mrow></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>12</mn><msqrt><mrow><mn>30</mn><mi>y</mi></mrow></msqrt></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>2</mn><msqrt><mrow><mn>6</mn><msup><mi>y</mi><mn>4</mn></msup></mrow></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>12</mn><msqrt><mrow><mn>30</mn><mi>y</mi></mrow></msqrt></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>9</mn><msup><mi>a</mi><mn>3</mn></msup></mrow><mn>4</mn></mroot></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>3</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>27</mn><msup><mi>a</mi><mn>2</mn></msup></mrow><mn>4</mn></mroot></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>−4</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>9</mn><msup><mi>a</mi><mn>3</mn></msup></mrow><mn>4</mn></mroot></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>3</mn><mspace width=\"0.2em\"></mspace><mroot><mrow><mn>27</mn><msup><mi>a</mi><mn>2</mn></msup></mrow><mn>4</mn></mroot></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.83",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169148114875",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions"
+      ],
+      "text": "Simplify: ⓐ \\(\\sqrt{6}(1+3\\sqrt{6})\\) ⓑ \\(43(-2-63).\\)",
+      "math": [
+        "\\sqrt{6}(1+3\\sqrt{6})",
+        "\\sqrt[3]{4}(-2-\\sqrt[3]{6})."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mn>6</mn></msqrt><mrow><mo>(</mo><mrow><mn>1</mn><mo>+</mo><mn>3</mn><msqrt><mn>6</mn></msqrt></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mn>6</mn></msqrt><mrow><mo>(</mo><mrow><mn>1</mn><mo>+</mo><mn>3</mn><msqrt><mn>6</mn></msqrt></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mn>4</mn><mrow><mn>3</mn></mrow></mroot><mrow><mo>(</mo><mrow><mn>−2</mn><mo>−</mo><mroot><mn>6</mn><mrow><mn>3</mn></mrow></mroot></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mn>4</mn><mrow><mn>3</mn></mrow></mroot><mrow><mo>(</mo><mrow><mn>−2</mn><mo>−</mo><mroot><mn>6</mn><mrow><mn>3</mn></mrow></mroot></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.84",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169147835953",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions"
+      ],
+      "text": "Simplify: ⓐ \\(\\sqrt{8}(2-5\\sqrt{8})\\) ⓑ \\(33(-93-63).\\)",
+      "math": [
+        "\\sqrt{8}(2-5\\sqrt{8})",
+        "\\sqrt[3]{3}(-\\sqrt[3]{9}-\\sqrt[3]{6})."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msqrt><mn>8</mn></msqrt><mrow><mo>(</mo><mrow><mn>2</mn><mo>−</mo><mn>5</mn><msqrt><mn>8</mn></msqrt></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msqrt><mn>8</mn></msqrt><mrow><mo>(</mo><mrow><mn>2</mn><mo>−</mo><mn>5</mn><msqrt><mn>8</mn></msqrt></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mroot><mn>3</mn><mrow><mn>3</mn></mrow></mroot><mrow><mo>(</mo><mrow><mtext>−</mtext><mroot><mn>9</mn><mn>3</mn></mroot><mo>−</mo><mroot><mn>6</mn><mrow><mn>3</mn></mrow></mroot></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mroot><mn>3</mn><mrow><mn>3</mn></mrow></mroot><mrow><mo>(</mo><mrow><mtext>−</mtext><mroot><mn>9</mn><mn>3</mn></mroot><mo>−</mo><mroot><mn>6</mn><mrow><mn>3</mn></mrow></mroot></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.85",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169147987509",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions"
+      ],
+      "text": "Simplify: ⓐ \\((6-3\\sqrt{7})(3+4\\sqrt{7})\\) ⓑ \\((x3-2)(x3-3).\\)",
+      "math": [
+        "(6-3\\sqrt{7})(3+4\\sqrt{7})",
+        "(\\sqrt[3]{x}-2)(\\sqrt[3]{x}-3)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>6</mn><mo>−</mo><mn>3</mn><msqrt><mn>7</mn></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>+</mo><mn>4</mn><msqrt><mn>7</mn></msqrt></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>6</mn><mo>−</mo><mn>3</mn><msqrt><mn>7</mn></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>+</mo><mn>4</mn><msqrt><mn>7</mn></msqrt></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mroot><mi>x</mi><mrow><mn>3</mn></mrow></mroot><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mroot><mi>x</mi><mrow><mn>3</mn></mrow></mroot><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mroot><mi>x</mi><mrow><mn>3</mn></mrow></mroot><mo>−</mo><mn>2</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mroot><mi>x</mi><mrow><mn>3</mn></mrow></mroot><mo>−</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.86",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169145778478",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions"
+      ],
+      "text": "Simplify: ⓐ \\((2-3\\sqrt{11})(4-\\sqrt{11})\\) ⓑ \\((x3+1)(x3+3).\\)",
+      "math": [
+        "(2-3\\sqrt{11})(4-\\sqrt{11})",
+        "(\\sqrt[3]{x}+1)(\\sqrt[3]{x}+3)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>−</mo><mn>3</mn><msqrt><mrow><mn>11</mn></mrow></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>−</mo><msqrt><mrow><mn>11</mn></mrow></msqrt></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>2</mn><mo>−</mo><mn>3</mn><msqrt><mrow><mn>11</mn></mrow></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>−</mo><msqrt><mrow><mn>11</mn></mrow></msqrt></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mroot><mi>x</mi><mrow><mn>3</mn></mrow></mroot><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mroot><mi>x</mi><mrow><mn>3</mn></mrow></mroot><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mroot><mi>x</mi><mrow><mn>3</mn></mrow></mroot><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mroot><mi>x</mi><mrow><mn>3</mn></mrow></mroot><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.87",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169147805498",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions"
+      ],
+      "text": "Simplify: \\((5\\sqrt{3}-\\sqrt{7})(\\sqrt{3}+2\\sqrt{7})\\)",
+      "math": [
+        "(5\\sqrt{3}-\\sqrt{7})(\\sqrt{3}+2\\sqrt{7})"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>5</mn><msqrt><mn>3</mn></msqrt><mo>−</mo><msqrt><mn>7</mn></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><msqrt><mn>3</mn></msqrt><mo>+</mo><mn>2</mn><msqrt><mn>7</mn></msqrt></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>5</mn><msqrt><mn>3</mn></msqrt><mo>−</mo><msqrt><mn>7</mn></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><msqrt><mn>3</mn></msqrt><mo>+</mo><mn>2</mn><msqrt><mn>7</mn></msqrt></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.88",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169147767443",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions"
+      ],
+      "text": "Simplify: \\((\\sqrt{6}-3\\sqrt{8})(2\\sqrt{6}+\\sqrt{8})\\)",
+      "math": [
+        "(\\sqrt{6}-3\\sqrt{8})(2\\sqrt{6}+\\sqrt{8})"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><msqrt><mn>6</mn></msqrt><mo>−</mo><mn>3</mn><msqrt><mn>8</mn></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>2</mn><msqrt><mn>6</mn></msqrt><mo>+</mo><msqrt><mn>8</mn></msqrt></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><msqrt><mn>6</mn></msqrt><mo>−</mo><mn>3</mn><msqrt><mn>8</mn></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>2</mn><msqrt><mn>6</mn></msqrt><mo>+</mo><msqrt><mn>8</mn></msqrt></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.89",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169147978229",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions"
+      ],
+      "text": "Simplify: ⓐ \\({(10+\\sqrt{2})}^{2}\\) ⓑ \\({(1+3\\sqrt{6})}^{2}.\\)",
+      "math": [
+        "{(10+\\sqrt{2})}^{2}",
+        "{(1+3\\sqrt{6})}^{2}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>10</mn><mo>+</mo><msqrt><mn>2</mn></msqrt></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>10</mn><mo>+</mo><msqrt><mn>2</mn></msqrt></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>+</mo><mn>3</mn><msqrt><mn>6</mn></msqrt></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>+</mo><mn>3</mn><msqrt><mn>6</mn></msqrt></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.90",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169147836412",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions"
+      ],
+      "text": "Simplify: ⓐ \\({(6-\\sqrt{5})}^{2}\\) ⓑ \\({(9-2\\sqrt{10})}^{2}.\\)",
+      "math": [
+        "{(6-\\sqrt{5})}^{2}",
+        "{(9-2\\sqrt{10})}^{2}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>6</mn><mo>−</mo><msqrt><mn>5</mn></msqrt></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>6</mn><mo>−</mo><msqrt><mn>5</mn></msqrt></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>9</mn><mo>−</mo><mn>2</mn><msqrt><mrow><mn>10</mn></mrow></msqrt></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mn>9</mn><mo>−</mo><mn>2</mn><msqrt><mrow><mn>10</mn></mrow></msqrt></mrow><mo>)</mo></mrow></mrow><mn>2</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.91",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169145643312",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions"
+      ],
+      "text": "Simplify: \\((3-2\\sqrt{5})(3+2\\sqrt{5})\\)",
+      "math": [
+        "(3-2\\sqrt{5})(3+2\\sqrt{5})"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>−</mo><mn>2</mn><msqrt><mn>5</mn></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>+</mo><mn>2</mn><msqrt><mn>5</mn></msqrt></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>−</mo><mn>2</mn><msqrt><mn>5</mn></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>+</mo><mn>2</mn><msqrt><mn>5</mn></msqrt></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "8.92",
+      "page": "8-4-add-subtract-and-multiply-radical-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1169147709153",
+      "context": [
+        "Use Polynomial Multiplication to Multiply Radical Expressions"
+      ],
+      "text": "Simplify: \\((4+5\\sqrt{7})(4-5\\sqrt{7}).\\)",
+      "math": [
+        "(4+5\\sqrt{7})(4-5\\sqrt{7})."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>+</mo><mn>5</mn><msqrt><mn>7</mn></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>−</mo><mn>5</mn><msqrt><mn>7</mn></msqrt></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>+</mo><mn>5</mn><msqrt><mn>7</mn></msqrt></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>−</mo><mn>5</mn><msqrt><mn>7</mn></msqrt></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

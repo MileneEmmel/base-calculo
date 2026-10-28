@@ -1,0 +1,1050 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/6-4-general-strategy-for-factoring-polynomials",
+  "title": "6.4 General Strategy for Factoring Polynomials",
+  "sha256": "1ea94c7899c35ffa6ec103c72dc4677a9f5a192973601f6293febcd69d484384",
+  "questions": [
+    {
+      "number": 233,
+      "anchor": "fs-id1167836416498",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(2 {n}^{2} + 13 n - 7\\)",
+      "math": [
+        "2 {n}^{2} + 13 n - 7"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>n</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>13</mn>\n          <mi>n</mi>\n          <mo>−</mo>\n          <mn>7</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>n</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>13</mn>\n          <mi>n</mi>\n          <mo>−</mo>\n          <mn>7</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 234,
+      "anchor": "fs-id1167833224810",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(8 {x}^{2} - 9 x - 3\\)",
+      "math": [
+        "8 {x}^{2} - 9 x - 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>8</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>9</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>8</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>9</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 235,
+      "anchor": "fs-id1167836529218",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\({a}^{5} + 9 {a}^{3}\\)",
+      "math": [
+        "{a}^{5} + 9 {a}^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>a</mi>\n            <mn>5</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>9</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>a</mi>\n            <mn>5</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>9</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 236,
+      "anchor": "fs-id1167836691943",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(75 {m}^{3} + 12 m\\)",
+      "math": [
+        "75 {m}^{3} + 12 m"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>75</mn>\n          <msup>\n            <mi>m</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mi>m</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>75</mn>\n          <msup>\n            <mi>m</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mi>m</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 237,
+      "anchor": "fs-id1167833025442",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(121 {r}^{2} - {s}^{2}\\)",
+      "math": [
+        "121 {r}^{2} - {s}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>121</mn>\n          <msup>\n            <mi>r</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <msup>\n            <mi>s</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>121</mn>\n          <msup>\n            <mi>r</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <msup>\n            <mi>s</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 238,
+      "anchor": "fs-id1167836699396",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(49 {b}^{2} - 36 {a}^{2}\\)",
+      "math": [
+        "49 {b}^{2} - 36 {a}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>49</mn>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>36</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>49</mn>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>36</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 239,
+      "anchor": "fs-id1167829740282",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(8 {m}^{2} - 32\\)",
+      "math": [
+        "8 {m}^{2} - 32"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>8</mn>\n          <msup>\n            <mi>m</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>32</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>8</mn>\n          <msup>\n            <mi>m</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>32</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 240,
+      "anchor": "fs-id1167836414988",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(36 {q}^{2} - 100\\)",
+      "math": [
+        "36 {q}^{2} - 100"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>36</mn>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>100</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>36</mn>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>100</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 241,
+      "anchor": "fs-id1167836625680",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(25 {w}^{2} - 60 w + 36\\)",
+      "math": [
+        "25 {w}^{2} - 60 w + 36"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>25</mn>\n          <msup>\n            <mi>w</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>60</mn>\n          <mi>w</mi>\n          <mo>+</mo>\n          <mn>36</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>25</mn>\n          <msup>\n            <mi>w</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>60</mn>\n          <mi>w</mi>\n          <mo>+</mo>\n          <mn>36</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 242,
+      "anchor": "fs-id1167829694745",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(49 {b}^{2} - 112 b + 64\\)",
+      "math": [
+        "49 {b}^{2} - 112 b + 64"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>49</mn>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>112</mn>\n          <mi>b</mi>\n          <mo>+</mo>\n          <mn>64</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>49</mn>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>112</mn>\n          <mi>b</mi>\n          <mo>+</mo>\n          <mn>64</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 243,
+      "anchor": "fs-id1167836550188",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\({m}^{2} + 14 m n + 49 {n}^{2}\\)",
+      "math": [
+        "{m}^{2} + 14 m n + 49 {n}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>m</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>14</mn>\n          <mi>m</mi>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mn>49</mn>\n          <msup>\n            <mi>n</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>m</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>14</mn>\n          <mi>m</mi>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mn>49</mn>\n          <msup>\n            <mi>n</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 244,
+      "anchor": "fs-id1167829752733",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(64 {x}^{2} + 16 x y + {y}^{2}\\)",
+      "math": [
+        "64 {x}^{2} + 16 x y + {y}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>64</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>16</mn>\n          <mi>x</mi>\n          <mi>y</mi>\n          <mo>+</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>64</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>16</mn>\n          <mi>x</mi>\n          <mi>y</mi>\n          <mo>+</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 245,
+      "anchor": "fs-id1167833369614",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(7 {b}^{2} + 7 b - 42\\)",
+      "math": [
+        "7 {b}^{2} + 7 b - 42"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>7</mn>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mi>b</mi>\n          <mo>−</mo>\n          <mn>42</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>7</mn>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mi>b</mi>\n          <mo>−</mo>\n          <mn>42</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 246,
+      "anchor": "fs-id1167826170192",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(30 {n}^{2} + 30 n + 72\\)",
+      "math": [
+        "30 {n}^{2} + 30 n + 72"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>30</mn>\n          <msup>\n            <mi>n</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>30</mn>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mn>72</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>30</mn>\n          <msup>\n            <mi>n</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>30</mn>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mn>72</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 247,
+      "anchor": "fs-id1167833019258",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(3 {x}^{4} y - 81 x y\\)",
+      "math": [
+        "3 {x}^{4} y - 81 x y"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>4</mn>\n          </msup>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>81</mn>\n          <mi>x</mi>\n          <mi>y</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>4</mn>\n          </msup>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>81</mn>\n          <mi>x</mi>\n          <mi>y</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 248,
+      "anchor": "fs-id1167836440214",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(4 {x}^{5} y - 32 {x}^{2} y\\)",
+      "math": [
+        "4 {x}^{5} y - 32 {x}^{2} y"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>5</mn>\n          </msup>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>32</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mi>y</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>5</mn>\n          </msup>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>32</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mi>y</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 249,
+      "anchor": "fs-id1167833274702",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\({k}^{4} - 16\\)",
+      "math": [
+        "{k}^{4} - 16"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>k</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>16</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>k</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>16</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 250,
+      "anchor": "fs-id1167836494059",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\({m}^{4} - 81\\)",
+      "math": [
+        "{m}^{4} - 81"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>m</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>81</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>m</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>81</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 251,
+      "anchor": "fs-id1167829620392",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(5 {x}^{5} {y}^{2} - 80 x {y}^{2}\\)",
+      "math": [
+        "5 {x}^{5} {y}^{2} - 80 x {y}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>5</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>5</mn>\n          </msup>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>80</mn>\n          <mi>x</mi>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>5</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>5</mn>\n          </msup>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>80</mn>\n          <mi>x</mi>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 252,
+      "anchor": "fs-id1167829748104",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(48 {x}^{5} {y}^{2} - 243 x {y}^{2}\\)",
+      "math": [
+        "48 {x}^{5} {y}^{2} - 243 x {y}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>48</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>5</mn>\n          </msup>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>243</mn>\n          <mi>x</mi>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>48</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>5</mn>\n          </msup>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>243</mn>\n          <mi>x</mi>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 253,
+      "anchor": "fs-id1167825835942",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(15 p q - 15 p + 12 q - 12\\)",
+      "math": [
+        "15 p q - 15 p + 12 q - 12"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>15</mn>\n          <mi>p</mi>\n          <mi>q</mi>\n          <mo>−</mo>\n          <mn>15</mn>\n          <mi>p</mi>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mi>q</mi>\n          <mo>−</mo>\n          <mn>12</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>15</mn>\n          <mi>p</mi>\n          <mi>q</mi>\n          <mo>−</mo>\n          <mn>15</mn>\n          <mi>p</mi>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mi>q</mi>\n          <mo>−</mo>\n          <mn>12</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 254,
+      "anchor": "fs-id1167829747474",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(12 a b - 6 a + 10 b - 5\\)",
+      "math": [
+        "12 a b - 6 a + 10 b - 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>12</mn>\n          <mi>a</mi>\n          <mi>b</mi>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>a</mi>\n          <mo>+</mo>\n          <mn>10</mn>\n          <mi>b</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>12</mn>\n          <mi>a</mi>\n          <mi>b</mi>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>a</mi>\n          <mo>+</mo>\n          <mn>10</mn>\n          <mi>b</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 255,
+      "anchor": "fs-id1167829750511",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(4 {x}^{2} + 40 x + 84\\)",
+      "math": [
+        "4 {x}^{2} + 40 x + 84"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>40</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>84</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>40</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>84</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 256,
+      "anchor": "fs-id1167836310523",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(5 {q}^{2} - 15 q - 90\\)",
+      "math": [
+        "5 {q}^{2} - 15 q - 90"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>5</mn>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>15</mn>\n          <mi>q</mi>\n          <mo>−</mo>\n          <mn>90</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>5</mn>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>15</mn>\n          <mi>q</mi>\n          <mo>−</mo>\n          <mn>90</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 257,
+      "anchor": "fs-id1167833057979",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(4 {u}^{5} + 4 {u}^{2} {v}^{3}\\)",
+      "math": [
+        "4 {u}^{5} + 4 {u}^{2} {v}^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>u</mi>\n            <mn>5</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <msup>\n            <mi>u</mi>\n            <mn>2</mn>\n          </msup>\n          <msup>\n            <mi>v</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>u</mi>\n            <mn>5</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <msup>\n            <mi>u</mi>\n            <mn>2</mn>\n          </msup>\n          <msup>\n            <mi>v</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 258,
+      "anchor": "fs-id1167836681159",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(5 {m}^{4} n + 320 m {n}^{4}\\)",
+      "math": [
+        "5 {m}^{4} n + 320 m {n}^{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>5</mn>\n          <msup>\n            <mi>m</mi>\n            <mn>4</mn>\n          </msup>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mn>320</mn>\n          <mi>m</mi>\n          <msup>\n            <mi>n</mi>\n            <mn>4</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>5</mn>\n          <msup>\n            <mi>m</mi>\n            <mn>4</mn>\n          </msup>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mn>320</mn>\n          <mi>m</mi>\n          <msup>\n            <mi>n</mi>\n            <mn>4</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 259,
+      "anchor": "fs-id1167836532084",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(4 {c}^{2} + 20 c d + 81 {d}^{2}\\)",
+      "math": [
+        "4 {c}^{2} + 20 c d + 81 {d}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>c</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>20</mn>\n          <mi>c</mi>\n          <mi>d</mi>\n          <mo>+</mo>\n          <mn>81</mn>\n          <msup>\n            <mi>d</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>c</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>20</mn>\n          <mi>c</mi>\n          <mi>d</mi>\n          <mo>+</mo>\n          <mn>81</mn>\n          <msup>\n            <mi>d</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 260,
+      "anchor": "fs-id1167836630398",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(25 {x}^{2} + 35 x y + 49 {y}^{2}\\)",
+      "math": [
+        "25 {x}^{2} + 35 x y + 49 {y}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>25</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>35</mn>\n          <mi>x</mi>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>49</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>25</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>35</mn>\n          <mi>x</mi>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>49</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 261,
+      "anchor": "fs-id1167836288064",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(10 {m}^{4} - 6250\\)",
+      "math": [
+        "10 {m}^{4} - 6250"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>10</mn>\n          <msup>\n            <mi>m</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6250</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>10</mn>\n          <msup>\n            <mi>m</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6250</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 262,
+      "anchor": "fs-id1167836533720",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(3 {v}^{4} - 768\\)",
+      "math": [
+        "3 {v}^{4} - 768"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <msup>\n            <mi>v</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>768</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <msup>\n            <mi>v</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>768</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 263,
+      "anchor": "fs-id1167832999515",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(36 {x}^{2} y + 15 x y - 6 y\\)",
+      "math": [
+        "36 {x}^{2} y + 15 x y - 6 y"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>36</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>15</mn>\n          <mi>x</mi>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>y</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>36</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>15</mn>\n          <mi>x</mi>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>y</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 264,
+      "anchor": "fs-id1167836557014",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(60 {x}^{2} y - 75 x y + 30 y\\)",
+      "math": [
+        "60 {x}^{2} y - 75 x y + 30 y"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>60</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>75</mn>\n          <mi>x</mi>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>30</mn>\n          <mi>y</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>60</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>75</mn>\n          <mi>x</mi>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>30</mn>\n          <mi>y</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 265,
+      "anchor": "fs-id1167836493213",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(8 {x}^{3} - 27 {y}^{3}\\)",
+      "math": [
+        "8 {x}^{3} - 27 {y}^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>8</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>27</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>8</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>27</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 266,
+      "anchor": "fs-id1167829790638",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(64 {x}^{3} + 125 {y}^{3}\\)",
+      "math": [
+        "64 {x}^{3} + 125 {y}^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>64</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>125</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>64</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>125</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 267,
+      "anchor": "fs-id1167836774104",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\({y}^{6} - 1\\)",
+      "math": [
+        "{y}^{6} - 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>y</mi>\n            <mn>6</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>y</mi>\n            <mn>6</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 268,
+      "anchor": "fs-id1167833060226",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\({y}^{6} + 1\\)",
+      "math": [
+        "{y}^{6} + 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>y</mi>\n            <mn>6</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>y</mi>\n            <mn>6</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 269,
+      "anchor": "fs-id1167836722518",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(9 {x}^{2} - 6 x y + {y}^{2} - 49\\)",
+      "math": [
+        "9 {x}^{2} - 6 x y + {y}^{2} - 49"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>9</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mi>y</mi>\n          <mo>+</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>49</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>9</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mi>y</mi>\n          <mo>+</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>49</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 270,
+      "anchor": "fs-id1167829747833",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(16 {x}^{2} - 24 x y + 9 {y}^{2} - 64\\)",
+      "math": [
+        "16 {x}^{2} - 24 x y + 9 {y}^{2} - 64"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>16</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>24</mn>\n          <mi>x</mi>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>9</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>64</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>16</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>24</mn>\n          <mi>x</mi>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>9</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>64</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 271,
+      "anchor": "fs-id1167836519068",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\({ ( 3 x + 1 ) }^{2} - 6 ( 3 x + 1 ) + 9\\)",
+      "math": [
+        "{ ( 3 x + 1 ) }^{2} - 6 ( 3 x + 1 ) + 9"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>9</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>9</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 272,
+      "anchor": "fs-id1167836665128",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\({ ( 4 x - 5 ) }^{2} - 7 ( 4 x - 5 ) + 12\\)",
+      "math": [
+        "{ ( 4 x - 5 ) }^{2} - 7 ( 4 x - 5 ) + 12"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>4</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>7</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>12</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>4</mn>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>7</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>12</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 273,
+      "anchor": "fs-id1167824732273",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain what it mean to factor a polynomial completely.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 274,
+      "anchor": "fs-id1167836706087",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "The difference of squares \\({y}^{4}-625\\) can be factored as \\(({y}^{2}-25)({y}^{2}+25).\\) But it is not completely factored. What more must be done to completely factor.",
+      "math": [
+        "{y}^{4}-625",
+        "({y}^{2}-25)({y}^{2}+25)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>y</mi><mn>4</mn></msup><mo>−</mo><mn>625</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>y</mi><mn>4</mn></msup><mo>−</mo><mn>625</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>25</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>25</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>25</mn></mrow><mo>)</mo></mrow><mrow><mo>(</mo><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>25</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 275,
+      "anchor": "fs-id1167829743924",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Of all the factoring methods covered in this chapter (GCF, grouping, undo FOIL, ‘ac’ method, special products) which is the easiest for you? Which is the hardest? Explain your answers.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 276,
+      "anchor": "fs-id1167833047553",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Create three factoring problems that would be good test questions to measure your knowledge of factoring. Show the solutions.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "6.69",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167836613327",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely"
+      ],
+      "text": "Factor completely: \\(8{y}^{3}+16{y}^{2}-24y.\\)",
+      "math": [
+        "8{y}^{3}+16{y}^{2}-24y."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>8</mn><msup><mi>y</mi><mn>3</mn></msup><mo>+</mo><mn>16</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>24</mn><mi>y</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>8</mn><msup><mi>y</mi><mn>3</mn></msup><mo>+</mo><mn>16</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>24</mn><mi>y</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.70",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167836701109",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely"
+      ],
+      "text": "Factor completely: \\(5{y}^{3}-15{y}^{2}-270y.\\)",
+      "math": [
+        "5{y}^{3}-15{y}^{2}-270y."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><msup><mi>y</mi><mn>3</mn></msup><mo>−</mo><mn>15</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>270</mn><mi>y</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><msup><mi>y</mi><mn>3</mn></msup><mo>−</mo><mn>15</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>270</mn><mi>y</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.71",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167836512441",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely"
+      ],
+      "text": "Factor completely: \\(16{x}^{3}-36x.\\)",
+      "math": [
+        "16{x}^{3}-36x."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>16</mn><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>36</mn><mi>x</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>16</mn><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>36</mn><mi>x</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.72",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167836520543",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely"
+      ],
+      "text": "Factor completely: \\(27{y}^{2}-48.\\)",
+      "math": [
+        "27{y}^{2}-48."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>27</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>48</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>27</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>48</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.73",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167829844131",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely"
+      ],
+      "text": "Factor completely: \\(4{x}^{2}+20xy+25{y}^{2}.\\)",
+      "math": [
+        "4{x}^{2}+20xy+25{y}^{2}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>20</mn><mi>x</mi><mi>y</mi><mo>+</mo><mn>25</mn><msup><mi>y</mi><mn>2</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>20</mn><mi>x</mi><mi>y</mi><mo>+</mo><mn>25</mn><msup><mi>y</mi><mn>2</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.74",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1171784048311",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely"
+      ],
+      "text": "Factor completely: \\(9{x}^{2}-24xy+16{y}^{2}.\\)",
+      "math": [
+        "9{x}^{2}-24xy+16{y}^{2}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>9</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>24</mn><mi>x</mi><mi>y</mi><mo>+</mo><mn>16</mn><msup><mi>y</mi><mn>2</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>9</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>24</mn><mi>x</mi><mi>y</mi><mo>+</mo><mn>16</mn><msup><mi>y</mi><mn>2</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.75",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167836330323",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely"
+      ],
+      "text": "Factor completely: \\(50{x}^{3}y+72xy.\\)",
+      "math": [
+        "50{x}^{3}y+72xy."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>50</mn><msup><mi>x</mi><mn>3</mn></msup><mi>y</mi><mo>+</mo><mn>72</mn><mi>x</mi><mi>y</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>50</mn><msup><mi>x</mi><mn>3</mn></msup><mi>y</mi><mo>+</mo><mn>72</mn><mi>x</mi><mi>y</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.76",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167832982336",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely"
+      ],
+      "text": "Factor completely: \\(27x{y}^{3}+48xy.\\)",
+      "math": [
+        "27x{y}^{3}+48xy."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>27</mn><mi>x</mi><msup><mi>y</mi><mn>3</mn></msup><mo>+</mo><mn>48</mn><mi>x</mi><mi>y</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>27</mn><mi>x</mi><msup><mi>y</mi><mn>3</mn></msup><mo>+</mo><mn>48</mn><mi>x</mi><mi>y</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.77",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167836528459",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely"
+      ],
+      "text": "Factor completely: \\(250{m}^{3}+432{n}^{3}.\\)",
+      "math": [
+        "250{m}^{3}+432{n}^{3}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>250</mn><msup><mi>m</mi><mn>3</mn></msup><mo>+</mo><mn>432</mn><msup><mi>n</mi><mn>3</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>250</mn><msup><mi>m</mi><mn>3</mn></msup><mo>+</mo><mn>432</mn><msup><mi>n</mi><mn>3</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.78",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167836607933",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely"
+      ],
+      "text": "Factor completely: \\(2{p}^{3}+54{q}^{3}.\\)",
+      "math": [
+        "2{p}^{3}+54{q}^{3}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><msup><mi>p</mi><mn>3</mn></msup><mo>+</mo><mn>54</mn><msup><mi>q</mi><mn>3</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><msup><mi>p</mi><mn>3</mn></msup><mo>+</mo><mn>54</mn><msup><mi>q</mi><mn>3</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.79",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167829598202",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely"
+      ],
+      "text": "Factor completely: \\(4{a}^{5}b-64ab.\\)",
+      "math": [
+        "4{a}^{5}b-64ab."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><msup><mi>a</mi><mn>5</mn></msup><mi>b</mi><mo>−</mo><mn>64</mn><mi>a</mi><mi>b</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><msup><mi>a</mi><mn>5</mn></msup><mi>b</mi><mo>−</mo><mn>64</mn><mi>a</mi><mi>b</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.80",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167836386790",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely"
+      ],
+      "text": "Factor completely: \\(7x{y}^{5}-7xy.\\)",
+      "math": [
+        "7x{y}^{5}-7xy."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>7</mn><mi>x</mi><msup><mi>y</mi><mn>5</mn></msup><mo>−</mo><mn>7</mn><mi>x</mi><mi>y</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>7</mn><mi>x</mi><msup><mi>y</mi><mn>5</mn></msup><mo>−</mo><mn>7</mn><mi>x</mi><mi>y</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.81",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167836683589",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely"
+      ],
+      "text": "Factor completely: \\(6{x}^{2}-12xc+6bx-12bc.\\)",
+      "math": [
+        "6{x}^{2}-12xc+6bx-12bc."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>6</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>12</mn><mi>x</mi><mi>c</mi><mo>+</mo><mn>6</mn><mi>b</mi><mi>x</mi><mo>−</mo><mn>12</mn><mi>b</mi><mi>c</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>6</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>12</mn><mi>x</mi><mi>c</mi><mo>+</mo><mn>6</mn><mi>b</mi><mi>x</mi><mo>−</mo><mn>12</mn><mi>b</mi><mi>c</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.82",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167833350068",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely"
+      ],
+      "text": "Factor completely: \\(16{x}^{2}+24xy-4x-6y.\\)",
+      "math": [
+        "16{x}^{2}+24xy-4x-6y."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>16</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>24</mn><mi>x</mi><mi>y</mi><mo>−</mo><mn>4</mn><mi>x</mi><mo>−</mo><mn>6</mn><mi>y</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>16</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>24</mn><mi>x</mi><mi>y</mi><mo>−</mo><mn>4</mn><mi>x</mi><mo>−</mo><mn>6</mn><mi>y</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.83",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167836551957",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely"
+      ],
+      "text": "Factor completely: \\(4{p}^{2}q-16pq+12q.\\)",
+      "math": [
+        "4{p}^{2}q-16pq+12q."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><msup><mi>p</mi><mn>2</mn></msup><mi>q</mi><mo>−</mo><mn>16</mn><mi>p</mi><mi>q</mi><mo>+</mo><mn>12</mn><mi>q</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><msup><mi>p</mi><mn>2</mn></msup><mi>q</mi><mo>−</mo><mn>16</mn><mi>p</mi><mi>q</mi><mo>+</mo><mn>12</mn><mi>q</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.84",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167836692515",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely"
+      ],
+      "text": "Factor completely: \\(6p{q}^{2}-9pq-6p.\\)",
+      "math": [
+        "6p{q}^{2}-9pq-6p."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>6</mn><mi>p</mi><msup><mi>q</mi><mn>2</mn></msup><mo>−</mo><mn>9</mn><mi>p</mi><mi>q</mi><mo>−</mo><mn>6</mn><mi>p</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>6</mn><mi>p</mi><msup><mi>q</mi><mn>2</mn></msup><mo>−</mo><mn>9</mn><mi>p</mi><mi>q</mi><mo>−</mo><mn>6</mn><mi>p</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.85",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167829732017",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely"
+      ],
+      "text": "Factor completely: \\(4{x}^{2}-12xy+9{y}^{2}-25.\\)",
+      "math": [
+        "4{x}^{2}-12xy+9{y}^{2}-25."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>12</mn><mi>x</mi><mi>y</mi><mo>+</mo><mn>9</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>25</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>12</mn><mi>x</mi><mi>y</mi><mo>+</mo><mn>9</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>25</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.86",
+      "page": "6-4-general-strategy-for-factoring-polynomials",
+      "is_try_it": true,
+      "anchor": "fs-id1167836534551",
+      "context": [
+        "Recognize and Use the Appropriate Method to Factor a Polynomial Completely"
+      ],
+      "text": "Factor completely: \\(16{x}^{2}-24xy+9{y}^{2}-64.\\)",
+      "math": [
+        "16{x}^{2}-24xy+9{y}^{2}-64."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>16</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>24</mn><mi>x</mi><mi>y</mi><mo>+</mo><mn>9</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>64</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>16</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>24</mn><mi>x</mi><mi>y</mi><mo>+</mo><mn>9</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>64</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

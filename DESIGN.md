@@ -1,6 +1,6 @@
 ---
 version: alpha
-name: Base Cálculo
+name: ∫NTEGRA
 description: Plataforma gratuita de exercícios para estudantes que estão construindo a base necessária para Pré-Cálculo e Cálculo 1, com clareza de apostila e leveza de caderno de estudo.
 colors:
   ground: "#F5F7F3"
@@ -42,7 +42,7 @@ components:
 
 ## Overview
 
-Base Cálculo é um projeto de extensão para estudantes que precisam praticar conteúdos preparatórios e Cálculo 1 sem cadastro ou barreira de pagamento. A identidade vem de objetos reais desse contexto: cadernos quadriculados, margens de correção, fichas de exercícios e marca-texto; não de uma estética genérica de aplicativo educacional.
+∫NTEGRA é um projeto de extensão para estudantes que precisam praticar conteúdos preparatórios e Cálculo 1 sem cadastro ou barreira de pagamento. A identidade vem de objetos reais desse contexto: cadernos quadriculados, margens de correção, fichas de exercícios e marca-texto; não de uma estética genérica de aplicativo educacional.
 
 ## Colors
 
@@ -64,9 +64,11 @@ Lexend dá presença clara aos títulos e remete à leitura pedagógica sem pare
 
 ## Layout
 
-A página segue a lógica de uma ficha de estudo: introdução e exercício real em destaque, índice progressivo de módulos e acervo filtrável. A página de resolução mostra o enunciado sobre papel claro quadriculado, com margem vermelha; a cor do módulo aparece somente na etiqueta e na folha inferior. As seções variam de largura conforme a função em vez de repetir um único contêiner.
+A página inicial segue a lógica de uma ficha de estudo: introdução e exercício real em destaque, índice progressivo de módulos e apresentação do projeto. O acervo filtrável fica em uma tela própria, acessível pelo cabeçalho fixo, com navegação visível também no celular. A página de resolução mostra o enunciado sobre papel claro quadriculado, com margem vermelha; a cor do módulo aparece somente na etiqueta e na folha inferior. As seções variam de largura conforme a função em vez de repetir um único contêiner.
 
 ## Elevation & Depth
+
+O Laboratório apresenta um plano cartesiano em papel claro, com grade discreta, curva principal azul de tinta e comparação verde tracejada. Seu menu próprio organiza Configurações (engrenagem à esquerda), Gráficos, Círculo trigonométrico, Geometria e Salvos. O Mapa de conceitos tem seção própria no cabeçalho principal. Gráficos reúne as ferramentas de funções e cálculo em um submenu. O círculo tem uma área independente, com a visualização unitária no centro, controles de ângulo, projeções e medidas ao lado. O seletor de funções mostra nome e fórmula em uma lista de papel com seleção azul clara; os filtros do banco de questões seguem o mesmo componente. O controle do ponto móvel fica dentro do card do gráfico, sem tabela geral de valores ou frase de instruções. O painel de funções mostra abas numeradas de 1 a 4, editando uma função por vez; + adiciona e − remove a aba selecionada. Os cards do gráfico e das ferramentas compartilham altura e sombra rígida no computador; no celular ficam empilhados. O controle do ponto móvel acompanha a faixa horizontal visível do gráfico. A tangente usa o tom de anotação laranja, a secante usa tracejado e a curva da derivada usa o vermelho de correção. A integral combina preenchimento azul claro com retângulos amarelos discretos. Não há seção de experiências guiadas abaixo do laboratório.
 
 As superfícies permanecem planas. Apenas as fichas principais recebem uma sombra rígida azul-clara, simulando folhas empilhadas. Não usar sombras suaves, brilhos coloridos ou vidro.
 

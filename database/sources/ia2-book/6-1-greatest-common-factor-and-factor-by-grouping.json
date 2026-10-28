@@ -1,0 +1,1296 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/6-1-greatest-common-factor-and-factor-by-grouping",
+  "title": "6.1 Greatest Common Factor and Factor by Grouping",
+  "sha256": "a3322dfdff0cb68af049d3ddc0684410b25ed3c5213efcadf9d3576d346931f2",
+  "questions": [
+    {
+      "number": 1,
+      "anchor": "fs-id1167831890415",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Find the Greatest Common Factor of Two or More Expressions",
+        "In the following exercises, find the greatest common factor."
+      ],
+      "text": "\\(10 {p}^{3} q , 12 p {q}^{2}\\)",
+      "math": [
+        "10 {p}^{3} q , 12 p {q}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>10</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>3</mn>\n          </msup>\n          <mi>q</mi>\n          <mo>,</mo>\n          <mn>12</mn>\n          <mi>p</mi>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>10</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>3</mn>\n          </msup>\n          <mi>q</mi>\n          <mo>,</mo>\n          <mn>12</mn>\n          <mi>p</mi>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 2,
+      "anchor": "fs-id1167834065925",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Find the Greatest Common Factor of Two or More Expressions",
+        "In the following exercises, find the greatest common factor."
+      ],
+      "text": "\\(8 {a}^{2} {b}^{3} , 10 a {b}^{2}\\)",
+      "math": [
+        "8 {a}^{2} {b}^{3} , 10 a {b}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>8</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n          <msup>\n            <mi>b</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>,</mo>\n          <mn>10</mn>\n          <mi>a</mi>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>8</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n          <msup>\n            <mi>b</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>,</mo>\n          <mn>10</mn>\n          <mi>a</mi>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 3,
+      "anchor": "fs-id1167832059919",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Find the Greatest Common Factor of Two or More Expressions",
+        "In the following exercises, find the greatest common factor."
+      ],
+      "text": "\\(12 {m}^{2} {n}^{3} , 30 {m}^{5} {n}^{3}\\)",
+      "math": [
+        "12 {m}^{2} {n}^{3} , 30 {m}^{5} {n}^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>12</mn>\n          <msup>\n            <mi>m</mi>\n            <mn>2</mn>\n          </msup>\n          <msup>\n            <mi>n</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>,</mo>\n          <mn>30</mn>\n          <msup>\n            <mi>m</mi>\n            <mn>5</mn>\n          </msup>\n          <msup>\n            <mi>n</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>12</mn>\n          <msup>\n            <mi>m</mi>\n            <mn>2</mn>\n          </msup>\n          <msup>\n            <mi>n</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>,</mo>\n          <mn>30</mn>\n          <msup>\n            <mi>m</mi>\n            <mn>5</mn>\n          </msup>\n          <msup>\n            <mi>n</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 4,
+      "anchor": "fs-id1167835186941",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Find the Greatest Common Factor of Two or More Expressions",
+        "In the following exercises, find the greatest common factor."
+      ],
+      "text": "\\(28 {x}^{2} {y}^{4} , 42 {x}^{4} {y}^{4}\\)",
+      "math": [
+        "28 {x}^{2} {y}^{4} , 42 {x}^{4} {y}^{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>28</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <msup>\n            <mi>y</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>,</mo>\n          <mn>42</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>4</mn>\n          </msup>\n          <msup>\n            <mi>y</mi>\n            <mn>4</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>28</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <msup>\n            <mi>y</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>,</mo>\n          <mn>42</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>4</mn>\n          </msup>\n          <msup>\n            <mi>y</mi>\n            <mn>4</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 5,
+      "anchor": "fs-id1167835349597",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Find the Greatest Common Factor of Two or More Expressions",
+        "In the following exercises, find the greatest common factor."
+      ],
+      "text": "\\(10 {a}^{3} , 12 {a}^{2} , 14 a\\)",
+      "math": [
+        "10 {a}^{3} , 12 {a}^{2} , 14 a"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>10</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>,</mo>\n          <mn>12</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>,</mo>\n          <mn>14</mn>\n          <mi>a</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>10</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>,</mo>\n          <mn>12</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>,</mo>\n          <mn>14</mn>\n          <mi>a</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 6,
+      "anchor": "fs-id1167835421936",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Find the Greatest Common Factor of Two or More Expressions",
+        "In the following exercises, find the greatest common factor."
+      ],
+      "text": "\\(20 {y}^{3} , 28 {y}^{2} , 40 y\\)",
+      "math": [
+        "20 {y}^{3} , 28 {y}^{2} , 40 y"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>20</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>,</mo>\n          <mn>28</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>,</mo>\n          <mn>40</mn>\n          <mi>y</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>20</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>,</mo>\n          <mn>28</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>,</mo>\n          <mn>40</mn>\n          <mi>y</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 7,
+      "anchor": "fs-id1167835187200",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Find the Greatest Common Factor of Two or More Expressions",
+        "In the following exercises, find the greatest common factor."
+      ],
+      "text": "\\(35 {x}^{3} {y}^{2} , 10 {x}^{4} y , 5 {x}^{5} {y}^{3}\\)",
+      "math": [
+        "35 {x}^{3} {y}^{2} , 10 {x}^{4} y , 5 {x}^{5} {y}^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>35</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>,</mo>\n          <mn>10</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>4</mn>\n          </msup>\n          <mi>y</mi>\n          <mo>,</mo>\n          <mn>5</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>5</mn>\n          </msup>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>35</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>,</mo>\n          <mn>10</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>4</mn>\n          </msup>\n          <mi>y</mi>\n          <mo>,</mo>\n          <mn>5</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>5</mn>\n          </msup>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 8,
+      "anchor": "fs-id1167835380762",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Find the Greatest Common Factor of Two or More Expressions",
+        "In the following exercises, find the greatest common factor."
+      ],
+      "text": "\\(27 {p}^{2} {q}^{3} , 45 {p}^{3} {q}^{4} , 9 {p}^{4} {q}^{3}\\)",
+      "math": [
+        "27 {p}^{2} {q}^{3} , 45 {p}^{3} {q}^{4} , 9 {p}^{4} {q}^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>27</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <msup>\n            <mi>q</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>,</mo>\n          <mn>45</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>3</mn>\n          </msup>\n          <msup>\n            <mi>q</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>,</mo>\n          <mn>9</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>4</mn>\n          </msup>\n          <msup>\n            <mi>q</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>27</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <msup>\n            <mi>q</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>,</mo>\n          <mn>45</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>3</mn>\n          </msup>\n          <msup>\n            <mi>q</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>,</mo>\n          <mn>9</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>4</mn>\n          </msup>\n          <msup>\n            <mi>q</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 9,
+      "anchor": "fs-id1167835321212",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial",
+        "In the following exercises, factor the greatest common factor from each polynomial."
+      ],
+      "text": "\\(6 m + 9\\)",
+      "math": [
+        "6 m + 9"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>6</mn>\n          <mi>m</mi>\n          <mo>+</mo>\n          <mn>9</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>6</mn>\n          <mi>m</mi>\n          <mo>+</mo>\n          <mn>9</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 10,
+      "anchor": "fs-id1167830697830",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial",
+        "In the following exercises, factor the greatest common factor from each polynomial."
+      ],
+      "text": "\\(14 p + 35\\)",
+      "math": [
+        "14 p + 35"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>14</mn>\n          <mi>p</mi>\n          <mo>+</mo>\n          <mn>35</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>14</mn>\n          <mi>p</mi>\n          <mo>+</mo>\n          <mn>35</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 11,
+      "anchor": "fs-id1167831883792",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial",
+        "In the following exercises, factor the greatest common factor from each polynomial."
+      ],
+      "text": "\\(9 n - 63\\)",
+      "math": [
+        "9 n - 63"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>9</mn>\n          <mi>n</mi>\n          <mo>−</mo>\n          <mn>63</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>9</mn>\n          <mi>n</mi>\n          <mo>−</mo>\n          <mn>63</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 12,
+      "anchor": "fs-id1167835381410",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial",
+        "In the following exercises, factor the greatest common factor from each polynomial."
+      ],
+      "text": "\\(45 b - 18\\)",
+      "math": [
+        "45 b - 18"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>45</mn>\n          <mi>b</mi>\n          <mo>−</mo>\n          <mn>18</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>45</mn>\n          <mi>b</mi>\n          <mo>−</mo>\n          <mn>18</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 13,
+      "anchor": "fs-id1167834192385",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial",
+        "In the following exercises, factor the greatest common factor from each polynomial."
+      ],
+      "text": "\\(3 {x}^{2} + 6 x - 9\\)",
+      "math": [
+        "3 {x}^{2} + 6 x - 9"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>9</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>9</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 14,
+      "anchor": "fs-id1167834185484",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial",
+        "In the following exercises, factor the greatest common factor from each polynomial."
+      ],
+      "text": "\\(4 {y}^{2} + 8 y - 4\\)",
+      "math": [
+        "4 {y}^{2} + 8 y - 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 15,
+      "anchor": "fs-id1167832043698",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial",
+        "In the following exercises, factor the greatest common factor from each polynomial."
+      ],
+      "text": "\\(8 {p}^{2} + 4 p + 2\\)",
+      "math": [
+        "8 {p}^{2} + 4 p + 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>8</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>p</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>8</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>p</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 16,
+      "anchor": "fs-id1167828421716",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial",
+        "In the following exercises, factor the greatest common factor from each polynomial."
+      ],
+      "text": "\\(10 {q}^{2} + 14 q + 20\\)",
+      "math": [
+        "10 {q}^{2} + 14 q + 20"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>10</mn>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>14</mn>\n          <mi>q</mi>\n          <mo>+</mo>\n          <mn>20</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>10</mn>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>14</mn>\n          <mi>q</mi>\n          <mo>+</mo>\n          <mn>20</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 17,
+      "anchor": "fs-id1167832042721",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial",
+        "In the following exercises, factor the greatest common factor from each polynomial."
+      ],
+      "text": "\\(8 {y}^{3} + 16 {y}^{2}\\)",
+      "math": [
+        "8 {y}^{3} + 16 {y}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>8</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>16</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>8</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>16</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 18,
+      "anchor": "fs-id1167835629180",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial",
+        "In the following exercises, factor the greatest common factor from each polynomial."
+      ],
+      "text": "\\(12 {x}^{3} - 10 x\\)",
+      "math": [
+        "12 {x}^{3} - 10 x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>12</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>10</mn>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>12</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>10</mn>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 19,
+      "anchor": "fs-id1167835483676",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial",
+        "In the following exercises, factor the greatest common factor from each polynomial."
+      ],
+      "text": "\\(5 {x}^{3} - 15 {x}^{2} + 20 x\\)",
+      "math": [
+        "5 {x}^{3} - 15 {x}^{2} + 20 x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>5</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>15</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>20</mn>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>5</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>15</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>20</mn>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 20,
+      "anchor": "fs-id1167831880194",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial",
+        "In the following exercises, factor the greatest common factor from each polynomial."
+      ],
+      "text": "\\(8 {m}^{2} - 40 m + 16\\)",
+      "math": [
+        "8 {m}^{2} - 40 m + 16"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>8</mn>\n          <msup>\n            <mi>m</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>40</mn>\n          <mi>m</mi>\n          <mo>+</mo>\n          <mn>16</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>8</mn>\n          <msup>\n            <mi>m</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>40</mn>\n          <mi>m</mi>\n          <mo>+</mo>\n          <mn>16</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 21,
+      "anchor": "fs-id1167832053525",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial",
+        "In the following exercises, factor the greatest common factor from each polynomial."
+      ],
+      "text": "\\(24 {x}^{3} - 12 {x}^{2} + 15 x\\)",
+      "math": [
+        "24 {x}^{3} - 12 {x}^{2} + 15 x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>24</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>12</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>15</mn>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>24</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>12</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>15</mn>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 22,
+      "anchor": "fs-id1167835233120",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial",
+        "In the following exercises, factor the greatest common factor from each polynomial."
+      ],
+      "text": "\\(24 {y}^{3} - 18 {y}^{2} - 30 y\\)",
+      "math": [
+        "24 {y}^{3} - 18 {y}^{2} - 30 y"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>24</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>18</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>30</mn>\n          <mi>y</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>24</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>18</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>30</mn>\n          <mi>y</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 23,
+      "anchor": "fs-id1167835514026",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial",
+        "In the following exercises, factor the greatest common factor from each polynomial."
+      ],
+      "text": "\\(12 x {y}^{2} + 18 {x}^{2} {y}^{2} - 30 {y}^{3}\\)",
+      "math": [
+        "12 x {y}^{2} + 18 {x}^{2} {y}^{2} - 30 {y}^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>12</mn>\n          <mi>x</mi>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>18</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>30</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>12</mn>\n          <mi>x</mi>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>18</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>30</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 24,
+      "anchor": "fs-id1167834505039",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial",
+        "In the following exercises, factor the greatest common factor from each polynomial."
+      ],
+      "text": "\\(21 p {q}^{2} + 35 {p}^{2} {q}^{2} - 28 {q}^{3}\\)",
+      "math": [
+        "21 p {q}^{2} + 35 {p}^{2} {q}^{2} - 28 {q}^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>21</mn>\n          <mi>p</mi>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>35</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>28</mn>\n          <msup>\n            <mi>q</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>21</mn>\n          <mi>p</mi>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>35</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>28</mn>\n          <msup>\n            <mi>q</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 25,
+      "anchor": "fs-id1167835327156",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial",
+        "In the following exercises, factor the greatest common factor from each polynomial."
+      ],
+      "text": "\\(20 {x}^{3} y - 4 {x}^{2} {y}^{2} + 12 x {y}^{3}\\)",
+      "math": [
+        "20 {x}^{3} y - 4 {x}^{2} {y}^{2} + 12 x {y}^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>20</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mi>x</mi>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>20</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mi>x</mi>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 26,
+      "anchor": "fs-id1167834395336",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial",
+        "In the following exercises, factor the greatest common factor from each polynomial."
+      ],
+      "text": "\\(24 {a}^{3} b + 6 {a}^{2} {b}^{2} - 18 a {b}^{3}\\)",
+      "math": [
+        "24 {a}^{3} b + 6 {a}^{2} {b}^{2} - 18 a {b}^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>24</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>3</mn>\n          </msup>\n          <mi>b</mi>\n          <mo>+</mo>\n          <mn>6</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>18</mn>\n          <mi>a</mi>\n          <msup>\n            <mi>b</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>24</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>3</mn>\n          </msup>\n          <mi>b</mi>\n          <mo>+</mo>\n          <mn>6</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>18</mn>\n          <mi>a</mi>\n          <msup>\n            <mi>b</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 27,
+      "anchor": "fs-id1167826995349",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial",
+        "In the following exercises, factor the greatest common factor from each polynomial."
+      ],
+      "text": "\\(-2 x - 4\\)",
+      "math": [
+        "-2 x - 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−2</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 28,
+      "anchor": "fs-id1167834289446",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial",
+        "In the following exercises, factor the greatest common factor from each polynomial."
+      ],
+      "text": "\\(-3 b + 12\\)",
+      "math": [
+        "-3 b + 12"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−3</mn>\n          <mi>b</mi>\n          <mo>+</mo>\n          <mn>12</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−3</mn>\n          <mi>b</mi>\n          <mo>+</mo>\n          <mn>12</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 29,
+      "anchor": "fs-id1167835416377",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial",
+        "In the following exercises, factor the greatest common factor from each polynomial."
+      ],
+      "text": "\\(-2 {x}^{3} + 18 {x}^{2} - 8 x\\)",
+      "math": [
+        "-2 {x}^{3} + 18 {x}^{2} - 8 x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>18</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>18</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>8</mn>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 30,
+      "anchor": "fs-id1167832058680",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial",
+        "In the following exercises, factor the greatest common factor from each polynomial."
+      ],
+      "text": "\\(-5 {y}^{3} + 35 {y}^{2} - 15 y\\)",
+      "math": [
+        "-5 {y}^{3} + 35 {y}^{2} - 15 y"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−5</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>35</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>15</mn>\n          <mi>y</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−5</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>35</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>15</mn>\n          <mi>y</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 31,
+      "anchor": "fs-id1167835417781",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial",
+        "In the following exercises, factor the greatest common factor from each polynomial."
+      ],
+      "text": "\\(-4 {p}^{3} q - 12 {p}^{2} {q}^{2} + 16 p {q}^{2}\\)",
+      "math": [
+        "-4 {p}^{3} q - 12 {p}^{2} {q}^{2} + 16 p {q}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−4</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>3</mn>\n          </msup>\n          <mi>q</mi>\n          <mo>−</mo>\n          <mn>12</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>16</mn>\n          <mi>p</mi>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−4</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>3</mn>\n          </msup>\n          <mi>q</mi>\n          <mo>−</mo>\n          <mn>12</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>16</mn>\n          <mi>p</mi>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 32,
+      "anchor": "fs-id1167835310781",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial",
+        "In the following exercises, factor the greatest common factor from each polynomial."
+      ],
+      "text": "\\(-6 {a}^{3} b - 12 {a}^{2} {b}^{2} + 18 a {b}^{2}\\)",
+      "math": [
+        "-6 {a}^{3} b - 12 {a}^{2} {b}^{2} + 18 a {b}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−6</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>3</mn>\n          </msup>\n          <mi>b</mi>\n          <mo>−</mo>\n          <mn>12</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>18</mn>\n          <mi>a</mi>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−6</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>3</mn>\n          </msup>\n          <mi>b</mi>\n          <mo>−</mo>\n          <mn>12</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>18</mn>\n          <mi>a</mi>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 33,
+      "anchor": "fs-id1167835337185",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial",
+        "In the following exercises, factor the greatest common factor from each polynomial."
+      ],
+      "text": "\\(5 x ( x + 1 ) + 3 ( x + 1 )\\)",
+      "math": [
+        "5 x ( x + 1 ) + 3 ( x + 1 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 34,
+      "anchor": "fs-id1167834120568",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial",
+        "In the following exercises, factor the greatest common factor from each polynomial."
+      ],
+      "text": "\\(2 x ( x - 1 ) + 9 ( x - 1 )\\)",
+      "math": [
+        "2 x ( x - 1 ) + 9 ( x - 1 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mspace width=\"0.2em\"></mspace>\n          <mn>9</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mspace width=\"0.2em\"></mspace>\n          <mn>9</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 35,
+      "anchor": "fs-id1167835381458",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial",
+        "In the following exercises, factor the greatest common factor from each polynomial."
+      ],
+      "text": "\\(3 b ( b - 2 ) - 13 ( b - 2 )\\)",
+      "math": [
+        "3 b ( b - 2 ) - 13 ( b - 2 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <mi>b</mi>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>13</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <mi>b</mi>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>13</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>b</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 36,
+      "anchor": "fs-id1167827967167",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial",
+        "In the following exercises, factor the greatest common factor from each polynomial."
+      ],
+      "text": "\\(6 m ( m - 5 ) - 7 ( m - 5 )\\)",
+      "math": [
+        "6 m ( m - 5 ) - 7 ( m - 5 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>6</mn>\n          <mi>m</mi>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>m</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>7</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>m</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>6</mn>\n          <mi>m</mi>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>m</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>7</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>m</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 37,
+      "anchor": "fs-id1167826966822",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor by Grouping",
+        "In the following exercises, factor by grouping."
+      ],
+      "text": "\\(a b + 5 a + 3 b + 15\\)",
+      "math": [
+        "a b + 5 a + 3 b + 15"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>a</mi>\n          <mi>b</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mi>a</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mi>b</mi>\n          <mo>+</mo>\n          <mn>15</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>a</mi>\n          <mi>b</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mi>a</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mi>b</mi>\n          <mo>+</mo>\n          <mn>15</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 38,
+      "anchor": "fs-id1167834583319",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor by Grouping",
+        "In the following exercises, factor by grouping."
+      ],
+      "text": "\\(c d + 6 c + 4 d + 24\\)",
+      "math": [
+        "c d + 6 c + 4 d + 24"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>c</mi>\n          <mi>d</mi>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>c</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>d</mi>\n          <mo>+</mo>\n          <mn>24</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>c</mi>\n          <mi>d</mi>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>c</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>d</mi>\n          <mo>+</mo>\n          <mn>24</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 39,
+      "anchor": "fs-id1167831824322",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor by Grouping",
+        "In the following exercises, factor by grouping."
+      ],
+      "text": "\\(8 {y}^{2} + y + 40 y + 5\\)",
+      "math": [
+        "8 {y}^{2} + y + 40 y + 5"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>8</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>40</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>8</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>40</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 40,
+      "anchor": "fs-id1167835609625",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor by Grouping",
+        "In the following exercises, factor by grouping."
+      ],
+      "text": "\\(6 {y}^{2} + 7 y + 24 y + 28\\)",
+      "math": [
+        "6 {y}^{2} + 7 y + 24 y + 28"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>6</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>24</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>28</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>6</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>7</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>24</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>28</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 41,
+      "anchor": "fs-id1167834556655",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor by Grouping",
+        "In the following exercises, factor by grouping."
+      ],
+      "text": "\\(u v - 9 u + 2 v - 18\\)",
+      "math": [
+        "u v - 9 u + 2 v - 18"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>u</mi>\n          <mi>v</mi>\n          <mo>−</mo>\n          <mn>9</mn>\n          <mi>u</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>v</mi>\n          <mo>−</mo>\n          <mn>18</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>u</mi>\n          <mi>v</mi>\n          <mo>−</mo>\n          <mn>9</mn>\n          <mi>u</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mi>v</mi>\n          <mo>−</mo>\n          <mn>18</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 42,
+      "anchor": "fs-id1167835288046",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor by Grouping",
+        "In the following exercises, factor by grouping."
+      ],
+      "text": "\\(p q - 10 p + 8 q - 80\\)",
+      "math": [
+        "p q - 10 p + 8 q - 80"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>p</mi>\n          <mi>q</mi>\n          <mo>−</mo>\n          <mn>10</mn>\n          <mi>p</mi>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>q</mi>\n          <mo>−</mo>\n          <mn>80</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>p</mi>\n          <mi>q</mi>\n          <mo>−</mo>\n          <mn>10</mn>\n          <mi>p</mi>\n          <mo>+</mo>\n          <mn>8</mn>\n          <mi>q</mi>\n          <mo>−</mo>\n          <mn>80</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 43,
+      "anchor": "fs-id1167830702860",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor by Grouping",
+        "In the following exercises, factor by grouping."
+      ],
+      "text": "\\({u}^{2} - u + 6 u - 6\\)",
+      "math": [
+        "{u}^{2} - u + 6 u - 6"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>u</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mi>u</mi>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>u</mi>\n          <mo>−</mo>\n          <mn>6</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>u</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mi>u</mi>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>u</mi>\n          <mo>−</mo>\n          <mn>6</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 44,
+      "anchor": "fs-id1167827957103",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor by Grouping",
+        "In the following exercises, factor by grouping."
+      ],
+      "text": "\\({x}^{2} - x + 4 x - 4\\)",
+      "math": [
+        "{x}^{2} - x + 4 x - 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 45,
+      "anchor": "fs-id1167835420263",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor by Grouping",
+        "In the following exercises, factor by grouping."
+      ],
+      "text": "\\(9 {p}^{2} + 12 p - 15 p - 20\\)",
+      "math": [
+        "9 {p}^{2} + 12 p - 15 p - 20"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>9</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mi>p</mi>\n          <mo>−</mo>\n          <mn>15</mn>\n          <mi>p</mi>\n          <mo>−</mo>\n          <mn>20</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>9</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mi>p</mi>\n          <mo>−</mo>\n          <mn>15</mn>\n          <mi>p</mi>\n          <mo>−</mo>\n          <mn>20</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 46,
+      "anchor": "fs-id1167835279990",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor by Grouping",
+        "In the following exercises, factor by grouping."
+      ],
+      "text": "\\(16 {q}^{2} + 20 q - 28 q - 35\\)",
+      "math": [
+        "16 {q}^{2} + 20 q - 28 q - 35"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>16</mn>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>20</mn>\n          <mi>q</mi>\n          <mo>−</mo>\n          <mn>28</mn>\n          <mi>q</mi>\n          <mo>−</mo>\n          <mn>35</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>16</mn>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>20</mn>\n          <mi>q</mi>\n          <mo>−</mo>\n          <mn>28</mn>\n          <mi>q</mi>\n          <mo>−</mo>\n          <mn>35</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 47,
+      "anchor": "fs-id1167826801811",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor by Grouping",
+        "In the following exercises, factor by grouping."
+      ],
+      "text": "\\(m n - 6 m - 4 n + 24\\)",
+      "math": [
+        "m n - 6 m - 4 n + 24"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>m</mi>\n          <mi>n</mi>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>m</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mn>24</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>m</mi>\n          <mi>n</mi>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>m</mi>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mn>24</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 48,
+      "anchor": "fs-id1167832067463",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor by Grouping",
+        "In the following exercises, factor by grouping."
+      ],
+      "text": "\\({r}^{2} - 3 r - r + 3\\)",
+      "math": [
+        "{r}^{2} - 3 r - r + 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>r</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mi>r</mi>\n          <mo>−</mo>\n          <mi>r</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>r</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mi>r</mi>\n          <mo>−</mo>\n          <mi>r</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 49,
+      "anchor": "fs-id1167835307679",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor by Grouping",
+        "In the following exercises, factor by grouping."
+      ],
+      "text": "\\(2 {x}^{2} - 14 x - 5 x + 35\\)",
+      "math": [
+        "2 {x}^{2} - 14 x - 5 x + 35"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>14</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>35</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>14</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>35</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 50,
+      "anchor": "fs-id1167835309245",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Factor by Grouping",
+        "In the following exercises, factor by grouping."
+      ],
+      "text": "\\(4 {x}^{2} - 36 x - 3 x + 27\\)",
+      "math": [
+        "4 {x}^{2} - 36 x - 3 x + 27"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>36</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>27</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>36</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>27</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 51,
+      "anchor": "fs-id1167834516217",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, factor."
+      ],
+      "text": "\\(-18 x {y}^{2} - 27 {x}^{2} y\\)",
+      "math": [
+        "-18 x {y}^{2} - 27 {x}^{2} y"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−18</mn>\n          <mi>x</mi>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>27</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mi>y</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−18</mn>\n          <mi>x</mi>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>27</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mi>y</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 52,
+      "anchor": "fs-id1167835352834",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, factor."
+      ],
+      "text": "\\(-4 {x}^{3} {y}^{5} - {x}^{2} {y}^{3} + 12 x {y}^{4}\\)",
+      "math": [
+        "-4 {x}^{3} {y}^{5} - {x}^{2} {y}^{3} + 12 x {y}^{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <msup>\n            <mi>y</mi>\n            <mn>5</mn>\n          </msup>\n          <mo>−</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mi>x</mi>\n          <msup>\n            <mi>y</mi>\n            <mn>4</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−4</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <msup>\n            <mi>y</mi>\n            <mn>5</mn>\n          </msup>\n          <mo>−</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mi>x</mi>\n          <msup>\n            <mi>y</mi>\n            <mn>4</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 53,
+      "anchor": "fs-id1167826802847",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, factor."
+      ],
+      "text": "\\(3 {x}^{3} - 7 {x}^{2} + 6 x - 14\\)",
+      "math": [
+        "3 {x}^{3} - 7 {x}^{2} + 6 x - 14"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>7</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>14</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>7</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>14</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 54,
+      "anchor": "fs-id1167835287293",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, factor."
+      ],
+      "text": "\\({x}^{3} + {x}^{2} + x + 1\\)",
+      "math": [
+        "{x}^{3} + {x}^{2} + x + 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 55,
+      "anchor": "fs-id1167835365610",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, factor."
+      ],
+      "text": "\\({x}^{2} + x y + 5 x + 5 y\\)",
+      "math": [
+        "{x}^{2} + x y + 5 x + 5 y"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mi>x</mi>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mi>y</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mi>x</mi>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mi>y</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 56,
+      "anchor": "fs-id1167835304678",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, factor."
+      ],
+      "text": "\\(5 {x}^{3} - 3 {x}^{2} + 5 x - 3\\)",
+      "math": [
+        "5 {x}^{3} - 3 {x}^{2} + 5 x - 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>5</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>5</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 57,
+      "anchor": "fs-id1167834535535",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "What does it mean to say a polynomial is in factored form?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 58,
+      "anchor": "fs-id1167828420166",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "How do you check result after factoring a polynomial?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 59,
+      "anchor": "fs-id1167831985770",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "The greatest common factor of 36 and 60 is 12. Explain what this means.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 60,
+      "anchor": "fs-id1167834131452",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "What is the GCF of \\({y}^{4},{y}^{5},\\) and \\({y}^{10}?\\) Write a general rule that tells you how to find the GCF of \\({y}^{a},{y}^{b},\\) and \\({y}^{c}.\\)",
+      "math": [
+        "{y}^{4},{y}^{5},",
+        "{y}^{10}?",
+        "{y}^{a},{y}^{b},",
+        "{y}^{c}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>y</mi><mn>4</mn></msup><mo>,</mo><msup><mi>y</mi><mn>5</mn></msup><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>y</mi><mn>4</mn></msup><mo>,</mo><msup><mi>y</mi><mn>5</mn></msup><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>y</mi><mrow><mn>10</mn></mrow></msup><mo>?</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>y</mi><mrow><mn>10</mn></mrow></msup><mo>?</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>y</mi><mi>a</mi></msup><mo>,</mo><msup><mi>y</mi><mi>b</mi></msup><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>y</mi><mi>a</mi></msup><mo>,</mo><msup><mi>y</mi><mi>b</mi></msup><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>y</mi><mi>c</mi></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>y</mi><mi>c</mi></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "6.1",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "is_try_it": true,
+      "anchor": "fs-id1167830838256",
+      "context": [
+        "Find the Greatest Common Factor of Two or More Expressions"
+      ],
+      "text": "Find the greatest common factor: \\(25{m}^{4},35{m}^{3},20{m}^{2}.\\)",
+      "math": [
+        "25{m}^{4},35{m}^{3},20{m}^{2}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>25</mn><msup><mi>m</mi><mn>4</mn></msup><mo>,</mo><mn>35</mn><msup><mi>m</mi><mn>3</mn></msup><mo>,</mo><mn>20</mn><msup><mi>m</mi><mn>2</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>25</mn><msup><mi>m</mi><mn>4</mn></msup><mo>,</mo><mn>35</mn><msup><mi>m</mi><mn>3</mn></msup><mo>,</mo><mn>20</mn><msup><mi>m</mi><mn>2</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.2",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "is_try_it": true,
+      "anchor": "fs-id1167831112380",
+      "context": [
+        "Find the Greatest Common Factor of Two or More Expressions"
+      ],
+      "text": "Find the greatest common factor: \\(14{x}^{3},70{x}^{2},105x.\\)",
+      "math": [
+        "14{x}^{3},70{x}^{2},105x."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>14</mn><msup><mi>x</mi><mn>3</mn></msup><mo>,</mo><mn>70</mn><msup><mi>x</mi><mn>2</mn></msup><mo>,</mo><mn>105</mn><mi>x</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>14</mn><msup><mi>x</mi><mn>3</mn></msup><mo>,</mo><mn>70</mn><msup><mi>x</mi><mn>2</mn></msup><mo>,</mo><mn>105</mn><mi>x</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.3",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "is_try_it": true,
+      "anchor": "fs-id1167835238831",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial"
+      ],
+      "text": "Factor: \\(9x{y}^{2}+6{x}^{2}{y}^{2}+21{y}^{3}.\\)",
+      "math": [
+        "9x{y}^{2}+6{x}^{2}{y}^{2}+21{y}^{3}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>9</mn><mi>x</mi><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn><msup><mi>x</mi><mn>2</mn></msup><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>21</mn><msup><mi>y</mi><mn>3</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>9</mn><mi>x</mi><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn><msup><mi>x</mi><mn>2</mn></msup><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>21</mn><msup><mi>y</mi><mn>3</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.4",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "is_try_it": true,
+      "anchor": "fs-id1167834587406",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial"
+      ],
+      "text": "Factor: \\(3{p}^{3}-6{p}^{2}q+9p{q}^{3}.\\)",
+      "math": [
+        "3{p}^{3}-6{p}^{2}q+9p{q}^{3}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><msup><mi>p</mi><mn>3</mn></msup><mo>−</mo><mn>6</mn><msup><mi>p</mi><mn>2</mn></msup><mi>q</mi><mo>+</mo><mn>9</mn><mi>p</mi><msup><mi>q</mi><mn>3</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><msup><mi>p</mi><mn>3</mn></msup><mo>−</mo><mn>6</mn><msup><mi>p</mi><mn>2</mn></msup><mi>q</mi><mo>+</mo><mn>9</mn><mi>p</mi><msup><mi>q</mi><mn>3</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.5",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "is_try_it": true,
+      "anchor": "fs-id1167835368739",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial"
+      ],
+      "text": "Factor: \\(2{x}^{3}+12{x}^{2}.\\)",
+      "math": [
+        "2{x}^{3}+12{x}^{2}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mn>12</mn><msup><mi>x</mi><mn>2</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mn>12</mn><msup><mi>x</mi><mn>2</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.6",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "is_try_it": true,
+      "anchor": "fs-id1167832082005",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial"
+      ],
+      "text": "Factor: \\(6{y}^{3}-15{y}^{2}.\\)",
+      "math": [
+        "6{y}^{3}-15{y}^{2}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>6</mn><msup><mi>y</mi><mn>3</mn></msup><mo>−</mo><mn>15</mn><msup><mi>y</mi><mn>2</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>6</mn><msup><mi>y</mi><mn>3</mn></msup><mo>−</mo><mn>15</mn><msup><mi>y</mi><mn>2</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.7",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "is_try_it": true,
+      "anchor": "fs-id1167835306718",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial"
+      ],
+      "text": "Factor: \\(15{x}^{3}y-3{x}^{2}{y}^{2}+6x{y}^{3}.\\)",
+      "math": [
+        "15{x}^{3}y-3{x}^{2}{y}^{2}+6x{y}^{3}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>15</mn><msup><mi>x</mi><mn>3</mn></msup><mi>y</mi><mo>−</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn><mi>x</mi><msup><mi>y</mi><mn>3</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>15</mn><msup><mi>x</mi><mn>3</mn></msup><mi>y</mi><mo>−</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn><mi>x</mi><msup><mi>y</mi><mn>3</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.8",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "is_try_it": true,
+      "anchor": "fs-id1167835254539",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial"
+      ],
+      "text": "Factor: \\(8{a}^{3}b+2{a}^{2}{b}^{2}-6a{b}^{3}.\\)",
+      "math": [
+        "8{a}^{3}b+2{a}^{2}{b}^{2}-6a{b}^{3}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>8</mn><msup><mi>a</mi><mn>3</mn></msup><mi>b</mi><mo>+</mo><mn>2</mn><msup><mi>a</mi><mn>2</mn></msup><msup><mi>b</mi><mn>2</mn></msup><mo>−</mo><mn>6</mn><mi>a</mi><msup><mi>b</mi><mn>3</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>8</mn><msup><mi>a</mi><mn>3</mn></msup><mi>b</mi><mo>+</mo><mn>2</mn><msup><mi>a</mi><mn>2</mn></msup><msup><mi>b</mi><mn>2</mn></msup><mo>−</mo><mn>6</mn><mi>a</mi><msup><mi>b</mi><mn>3</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.9",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "is_try_it": true,
+      "anchor": "fs-id1167835214381",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial"
+      ],
+      "text": "Factor: \\(-4{b}^{3}+16{b}^{2}-8b.\\)",
+      "math": [
+        "-4{b}^{3}+16{b}^{2}-8b."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−4</mn><msup><mi>b</mi><mn>3</mn></msup><mo>+</mo><mn>16</mn><msup><mi>b</mi><mn>2</mn></msup><mo>−</mo><mn>8</mn><mi>b</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−4</mn><msup><mi>b</mi><mn>3</mn></msup><mo>+</mo><mn>16</mn><msup><mi>b</mi><mn>2</mn></msup><mo>−</mo><mn>8</mn><mi>b</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.10",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "is_try_it": true,
+      "anchor": "fs-id1167835308305",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial"
+      ],
+      "text": "Factor: \\(-7{a}^{3}+21{a}^{2}-14a.\\)",
+      "math": [
+        "-7{a}^{3}+21{a}^{2}-14a."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−7</mn><msup><mi>a</mi><mn>3</mn></msup><mo>+</mo><mn>21</mn><msup><mi>a</mi><mn>2</mn></msup><mo>−</mo><mn>14</mn><mi>a</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−7</mn><msup><mi>a</mi><mn>3</mn></msup><mo>+</mo><mn>21</mn><msup><mi>a</mi><mn>2</mn></msup><mo>−</mo><mn>14</mn><mi>a</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.11",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "is_try_it": true,
+      "anchor": "fs-id1167834472269",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial"
+      ],
+      "text": "Factor: \\(4m(m+3)-7(m+3).\\)",
+      "math": [
+        "4m(m+3)-7(m+3)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mi>m</mi><mrow><mo>(</mo><mrow><mi>m</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>−</mo><mn>7</mn><mrow><mo>(</mo><mrow><mi>m</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mi>m</mi><mrow><mo>(</mo><mrow><mi>m</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>−</mo><mn>7</mn><mrow><mo>(</mo><mrow><mi>m</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.12",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "is_try_it": true,
+      "anchor": "fs-id1167832058290",
+      "context": [
+        "Factor the Greatest Common Factor from a Polynomial"
+      ],
+      "text": "Factor: \\(8n(n-4)+5(n-4).\\)",
+      "math": [
+        "8n(n-4)+5(n-4)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>8</mn><mi>n</mi><mrow><mo>(</mo><mrow><mi>n</mi><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>+</mo><mn>5</mn><mrow><mo>(</mo><mrow><mi>n</mi><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>8</mn><mi>n</mi><mrow><mo>(</mo><mrow><mi>n</mi><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>+</mo><mn>5</mn><mrow><mo>(</mo><mrow><mi>n</mi><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.13",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "is_try_it": true,
+      "anchor": "fs-id1167835305027",
+      "context": [
+        "Factor by Grouping"
+      ],
+      "text": "Factor by grouping: \\(xy+8y+3x+24.\\)",
+      "math": [
+        "xy+8y+3x+24."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mi>y</mi><mo>+</mo><mn>8</mn><mi>y</mi><mo>+</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>24</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mi>y</mi><mo>+</mo><mn>8</mn><mi>y</mi><mo>+</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>24</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.14",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "is_try_it": true,
+      "anchor": "fs-id1167835230530",
+      "context": [
+        "Factor by Grouping"
+      ],
+      "text": "Factor by grouping: \\(ab+7b+8a+56.\\)",
+      "math": [
+        "ab+7b+8a+56."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>a</mi><mi>b</mi><mo>+</mo><mn>7</mn><mi>b</mi><mo>+</mo><mn>8</mn><mi>a</mi><mo>+</mo><mn>56</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>a</mi><mi>b</mi><mo>+</mo><mn>7</mn><mi>b</mi><mo>+</mo><mn>8</mn><mi>a</mi><mo>+</mo><mn>56</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.15",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "is_try_it": true,
+      "anchor": "fs-id1167835299941",
+      "context": [
+        "Factor by Grouping"
+      ],
+      "text": "Factor by grouping: ⓐ \\({x}^{2}+2x-5x-10\\) ⓑ \\(20{x}^{2}-16x-15x+12.\\)",
+      "math": [
+        "{x}^{2}+2x-5x-10",
+        "20{x}^{2}-16x-15x+12."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>5</mn><mi>x</mi><mo>−</mo><mn>10</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>5</mn><mi>x</mi><mo>−</mo><mn>10</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>20</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>16</mn><mi>x</mi><mo>−</mo><mn>15</mn><mi>x</mi><mo>+</mo><mn>12</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>20</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>16</mn><mi>x</mi><mo>−</mo><mn>15</mn><mi>x</mi><mo>+</mo><mn>12</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.16",
+      "page": "6-1-greatest-common-factor-and-factor-by-grouping",
+      "is_try_it": true,
+      "anchor": "fs-id1167826814135",
+      "context": [
+        "Factor by Grouping"
+      ],
+      "text": "Factor by grouping: ⓐ \\({y}^{2}+4y-7y-28\\) ⓑ \\(42{m}^{2}-18m-35m+15.\\)",
+      "math": [
+        "{y}^{2}+4y-7y-28",
+        "42{m}^{2}-18m-35m+15."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn><mi>y</mi><mo>−</mo><mn>7</mn><mi>y</mi><mo>−</mo><mn>28</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn><mi>y</mi><mo>−</mo><mn>7</mn><mi>y</mi><mo>−</mo><mn>28</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>42</mn><msup><mi>m</mi><mn>2</mn></msup><mo>−</mo><mn>18</mn><mi>m</mi><mo>−</mo><mn>35</mn><mi>m</mi><mo>+</mo><mn>15</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>42</mn><msup><mi>m</mi><mn>2</mn></msup><mo>−</mo><mn>18</mn><mi>m</mi><mo>−</mo><mn>35</mn><mi>m</mi><mo>+</mo><mn>15</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

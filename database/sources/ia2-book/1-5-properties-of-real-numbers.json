@@ -1,0 +1,1658 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/1-5-properties-of-real-numbers",
+  "title": "1.5 Properties of Real Numbers",
+  "sha256": "2478efb3e483509b55e085e6fd53fc03cdf71696987a1f7fc908fa189980aece",
+  "questions": [
+    {
+      "number": 313,
+      "anchor": "fs-id1167829742349",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Use the Commutative and Associative Properties",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(43 m + ( -12 n ) + ( -16 m ) + ( -9 n )\\)",
+      "math": [
+        "43 m + ( -12 n ) + ( -16 m ) + ( -9 n )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>43</mn>\n          <mi>m</mi>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−12</mn>\n              <mi>n</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−16</mn>\n              <mi>m</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−9</mn>\n              <mi>n</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>43</mn>\n          <mi>m</mi>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−12</mn>\n              <mi>n</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−16</mn>\n              <mi>m</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−9</mn>\n              <mi>n</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 314,
+      "anchor": "fs-id1167829742428",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Use the Commutative and Associative Properties",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(-22 p + 17 q + ( -35 p ) + ( -27 q )\\)",
+      "math": [
+        "-22 p + 17 q + ( -35 p ) + ( -27 q )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−22</mn>\n          <mi>p</mi>\n          <mo>+</mo>\n          <mn>17</mn>\n          <mi>q</mi>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−35</mn>\n              <mi>p</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−27</mn>\n              <mi>q</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−22</mn>\n          <mi>p</mi>\n          <mo>+</mo>\n          <mn>17</mn>\n          <mi>q</mi>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−35</mn>\n              <mi>p</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−27</mn>\n              <mi>q</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 315,
+      "anchor": "fs-id1167829742500",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Use the Commutative and Associative Properties",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{3}{8} g + \\frac{1}{ 12 } h + \\frac{7}{8} g + \\frac{5}{ 12 } h\\)",
+      "math": [
+        "\\frac{3}{8} g + \\frac{1}{ 12 } h + \\frac{7}{8} g + \\frac{5}{ 12 } h"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>3</mn>\n            <mn>8</mn>\n          </mfrac>\n          <mi>g</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n          <mi>h</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>7</mn>\n            <mn>8</mn>\n          </mfrac>\n          <mi>g</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n          <mi>h</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>3</mn>\n            <mn>8</mn>\n          </mfrac>\n          <mi>g</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mrow>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n          <mi>h</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>7</mn>\n            <mn>8</mn>\n          </mfrac>\n          <mi>g</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n          <mi>h</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 316,
+      "anchor": "fs-id1167836540380",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Use the Commutative and Associative Properties",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{5}{6} a + \\frac{3}{ 10 } b + \\frac{1}{6} a + \\frac{9}{ 10 } b\\)",
+      "math": [
+        "\\frac{5}{6} a + \\frac{3}{ 10 } b + \\frac{1}{6} a + \\frac{9}{ 10 } b"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>5</mn>\n            <mn>6</mn>\n          </mfrac>\n          <mi>a</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <mn>10</mn>\n            </mrow>\n          </mfrac>\n          <mi>b</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>6</mn>\n          </mfrac>\n          <mi>a</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>9</mn>\n            <mrow>\n              <mn>10</mn>\n            </mrow>\n          </mfrac>\n          <mi>b</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>5</mn>\n            <mn>6</mn>\n          </mfrac>\n          <mi>a</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <mn>10</mn>\n            </mrow>\n          </mfrac>\n          <mi>b</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>1</mn>\n            <mn>6</mn>\n          </mfrac>\n          <mi>a</mi>\n          <mo>+</mo>\n          <mfrac>\n            <mn>9</mn>\n            <mrow>\n              <mn>10</mn>\n            </mrow>\n          </mfrac>\n          <mi>b</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 317,
+      "anchor": "fs-id1167836540449",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Use the Commutative and Associative Properties",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(6.8 p + 9.14 q + ( -4.37 p ) + ( -0.88 q )\\)",
+      "math": [
+        "6.8 p + 9.14 q + ( -4.37 p ) + ( -0.88 q )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>6.8</mn>\n          <mi>p</mi>\n          <mo>+</mo>\n          <mn>9.14</mn>\n          <mi>q</mi>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−4.37</mn>\n              <mi>p</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−0.88</mn>\n              <mi>q</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>6.8</mn>\n          <mi>p</mi>\n          <mo>+</mo>\n          <mn>9.14</mn>\n          <mi>q</mi>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−4.37</mn>\n              <mi>p</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−0.88</mn>\n              <mi>q</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 318,
+      "anchor": "fs-id1167836540514",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Use the Commutative and Associative Properties",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(9.6 m + 7.22 n + ( -2.19 m ) + ( -0.65 n )\\)",
+      "math": [
+        "9.6 m + 7.22 n + ( -2.19 m ) + ( -0.65 n )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>9.6</mn>\n          <mi>m</mi>\n          <mo>+</mo>\n          <mn>7.22</mn>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−2.19</mn>\n              <mi>m</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−0.65</mn>\n              <mi>n</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>9.6</mn>\n          <mi>m</mi>\n          <mo>+</mo>\n          <mn>7.22</mn>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−2.19</mn>\n              <mi>m</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−0.65</mn>\n              <mi>n</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 319,
+      "anchor": "fs-id1167829750506",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Use the Commutative and Associative Properties",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(-24 \\cdot 7 \\cdot \\frac{3}{8}\\)",
+      "math": [
+        "-24 \\cdot 7 \\cdot \\frac{3}{8}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−24</mn>\n          <mo>·</mo>\n          <mn>7</mn>\n          <mo>·</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>8</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−24</mn>\n          <mo>·</mo>\n          <mn>7</mn>\n          <mo>·</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>8</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 320,
+      "anchor": "fs-id1167829750540",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Use the Commutative and Associative Properties",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(-36 \\cdot 11 \\cdot \\frac{4}{9}\\)",
+      "math": [
+        "-36 \\cdot 11 \\cdot \\frac{4}{9}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−36</mn>\n          <mo>·</mo>\n          <mn>11</mn>\n          <mo>·</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mn>9</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−36</mn>\n          <mo>·</mo>\n          <mn>11</mn>\n          <mo>·</mo>\n          <mfrac>\n            <mn>4</mn>\n            <mn>9</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 321,
+      "anchor": "fs-id1167829750575",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Use the Commutative and Associative Properties",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(( \\frac{5}{6} + \\frac{8}{ 15 } ) + \\frac{7}{ 15 }\\)",
+      "math": [
+        "( \\frac{5}{6} + \\frac{8}{ 15 } ) + \\frac{7}{ 15 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mfrac>\n                <mn>5</mn>\n                <mn>6</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>8</mn>\n                <mrow>\n                  <mn>15</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mfrac>\n            <mn>7</mn>\n            <mrow>\n              <mn>15</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mfrac>\n                <mn>5</mn>\n                <mn>6</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>8</mn>\n                <mrow>\n                  <mn>15</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mfrac>\n            <mn>7</mn>\n            <mrow>\n              <mn>15</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 322,
+      "anchor": "fs-id1167829750629",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Use the Commutative and Associative Properties",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(( \\frac{ 11 }{ 12 } + \\frac{4}{9} ) + \\frac{5}{9}\\)",
+      "math": [
+        "( \\frac{ 11 }{ 12 } + \\frac{4}{9} ) + \\frac{5}{9}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <mn>11</mn>\n                </mrow>\n                <mrow>\n                  <mn>12</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>4</mn>\n                <mn>9</mn>\n              </mfrac>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mn>9</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <mn>11</mn>\n                </mrow>\n                <mrow>\n                  <mn>12</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>4</mn>\n                <mn>9</mn>\n              </mfrac>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mn>9</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 323,
+      "anchor": "fs-id1167829750686",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Use the Commutative and Associative Properties",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(17 ( 0.25 ) ( 4 )\\)",
+      "math": [
+        "17 ( 0.25 ) ( 4 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>17</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>0.25</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mn>4</mn>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>17</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>0.25</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mn>4</mn>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 324,
+      "anchor": "fs-id1167829789237",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Use the Commutative and Associative Properties",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(36 ( 0.2 ) ( 5 )\\)",
+      "math": [
+        "36 ( 0.2 ) ( 5 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>36</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>0.2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mn>5</mn>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>36</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>0.2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mn>5</mn>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 325,
+      "anchor": "fs-id1167829789275",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Use the Commutative and Associative Properties",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\([ 2.48 ( 12 ) ] ( 0.5 )\\)",
+      "math": [
+        "[ 2.48 ( 12 ) ] ( 0.5 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>[</mo>\n            <mrow>\n              <mn>2.48</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>12</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mo>]</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>0.5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>[</mo>\n            <mrow>\n              <mn>2.48</mn>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>12</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mo>]</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>0.5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 326,
+      "anchor": "fs-id1167829789321",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Use the Commutative and Associative Properties",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\([ 9.731 ( 4 ) ] ( 0.75 )\\)",
+      "math": [
+        "[ 9.731 ( 4 ) ] ( 0.75 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>[</mo>\n            <mrow>\n              <mn>9.731</mn>\n              <mrow>\n                <mo>(</mo>\n                <mn>4</mn>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mo>]</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>0.75</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>[</mo>\n            <mrow>\n              <mn>9.731</mn>\n              <mrow>\n                <mo>(</mo>\n                <mn>4</mn>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mo>]</mo>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>0.75</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 327,
+      "anchor": "fs-id1167829789366",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Use the Commutative and Associative Properties",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(12 ( \\frac{5}{6} p )\\)",
+      "math": [
+        "12 ( \\frac{5}{6} p )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>12</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mfrac>\n                <mn>5</mn>\n                <mn>6</mn>\n              </mfrac>\n              <mi>p</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>12</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mfrac>\n                <mn>5</mn>\n                <mn>6</mn>\n              </mfrac>\n              <mi>p</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 328,
+      "anchor": "fs-id1167829789404",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Use the Commutative and Associative Properties",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(20 ( \\frac{3}{5} q )\\)",
+      "math": [
+        "20 ( \\frac{3}{5} q )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>20</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mfrac>\n                <mn>3</mn>\n                <mn>5</mn>\n              </mfrac>\n              <mi>q</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>20</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mfrac>\n                <mn>3</mn>\n                <mn>5</mn>\n              </mfrac>\n              <mi>q</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 329,
+      "anchor": "fs-id1167832994247",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Use the Properties of Identity, Inverse and Zero",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(19 a + 44 - 19 a\\)",
+      "math": [
+        "19 a + 44 - 19 a"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>19</mn>\n          <mi>a</mi>\n          <mo>+</mo>\n          <mn>44</mn>\n          <mo>−</mo>\n          <mn>19</mn>\n          <mi>a</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>19</mn>\n          <mi>a</mi>\n          <mo>+</mo>\n          <mn>44</mn>\n          <mo>−</mo>\n          <mn>19</mn>\n          <mi>a</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 330,
+      "anchor": "fs-id1167832994282",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Use the Properties of Identity, Inverse and Zero",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(27 c + 16 - 27 c\\)",
+      "math": [
+        "27 c + 16 - 27 c"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>27</mn>\n          <mi>c</mi>\n          <mo>+</mo>\n          <mn>16</mn>\n          <mo>−</mo>\n          <mn>27</mn>\n          <mi>c</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>27</mn>\n          <mi>c</mi>\n          <mo>+</mo>\n          <mn>16</mn>\n          <mo>−</mo>\n          <mn>27</mn>\n          <mi>c</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 331,
+      "anchor": "fs-id1167832994317",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Use the Properties of Identity, Inverse and Zero",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{1}{2} + \\frac{7}{8} + ( - \\frac{1}{2} )\\)",
+      "math": [
+        "\\frac{1}{2} + \\frac{7}{8} + ( - \\frac{1}{2} )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>7</mn>\n            <mn>8</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mo>−</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mn>2</mn>\n              </mfrac>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>2</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>7</mn>\n            <mn>8</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mo>−</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mn>2</mn>\n              </mfrac>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 332,
+      "anchor": "fs-id1167832994369",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Use the Properties of Identity, Inverse and Zero",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{2}{5} + \\frac{5}{ 12 } + ( - \\frac{2}{5} )\\)",
+      "math": [
+        "\\frac{2}{5} + \\frac{5}{ 12 } + ( - \\frac{2}{5} )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>2</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mo>−</mo>\n              <mfrac>\n                <mn>2</mn>\n                <mn>5</mn>\n              </mfrac>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>2</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mo>+</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mrow>\n              <mn>12</mn>\n            </mrow>\n          </mfrac>\n          <mo>+</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mo>−</mo>\n              <mfrac>\n                <mn>2</mn>\n                <mn>5</mn>\n              </mfrac>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 333,
+      "anchor": "fs-id1167832994424",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Use the Properties of Identity, Inverse and Zero",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(10 ( 0.1 d )\\)",
+      "math": [
+        "10 ( 0.1 d )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>10</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>0.1</mn>\n              <mi>d</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>10</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>0.1</mn>\n              <mi>d</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 334,
+      "anchor": "fs-id1167832994456",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Use the Properties of Identity, Inverse and Zero",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(100 ( 0.01 p )\\)",
+      "math": [
+        "100 ( 0.01 p )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>100</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>0.01</mn>\n              <mi>p</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>100</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>0.01</mn>\n              <mi>p</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 335,
+      "anchor": "fs-id1167829738263",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Use the Properties of Identity, Inverse and Zero",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{3}{ 20 } \\cdot \\frac{ 49 }{ 11 } \\cdot \\frac{ 20 }{3}\\)",
+      "math": [
+        "\\frac{3}{ 20 } \\cdot \\frac{ 49 }{ 11 } \\cdot \\frac{ 20 }{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <mn>20</mn>\n            </mrow>\n          </mfrac>\n          <mo>·</mo>\n          <mfrac>\n            <mrow>\n              <mn>49</mn>\n            </mrow>\n            <mrow>\n              <mn>11</mn>\n            </mrow>\n          </mfrac>\n          <mo>·</mo>\n          <mfrac>\n            <mrow>\n              <mn>20</mn>\n            </mrow>\n            <mn>3</mn>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>3</mn>\n            <mrow>\n              <mn>20</mn>\n            </mrow>\n          </mfrac>\n          <mo>·</mo>\n          <mfrac>\n            <mrow>\n              <mn>49</mn>\n            </mrow>\n            <mrow>\n              <mn>11</mn>\n            </mrow>\n          </mfrac>\n          <mo>·</mo>\n          <mfrac>\n            <mrow>\n              <mn>20</mn>\n            </mrow>\n            <mn>3</mn>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 336,
+      "anchor": "fs-id1167829738313",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Use the Properties of Identity, Inverse and Zero",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{ 13 }{ 18 } \\cdot \\frac{ 25 }{7} \\cdot \\frac{ 18 }{ 13 }\\)",
+      "math": [
+        "\\frac{ 13 }{ 18 } \\cdot \\frac{ 25 }{7} \\cdot \\frac{ 18 }{ 13 }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>13</mn>\n            </mrow>\n            <mrow>\n              <mn>18</mn>\n            </mrow>\n          </mfrac>\n          <mo>·</mo>\n          <mfrac>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n            <mn>7</mn>\n          </mfrac>\n          <mo>·</mo>\n          <mfrac>\n            <mrow>\n              <mn>18</mn>\n            </mrow>\n            <mrow>\n              <mn>13</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>13</mn>\n            </mrow>\n            <mrow>\n              <mn>18</mn>\n            </mrow>\n          </mfrac>\n          <mo>·</mo>\n          <mfrac>\n            <mrow>\n              <mn>25</mn>\n            </mrow>\n            <mn>7</mn>\n          </mfrac>\n          <mo>·</mo>\n          <mfrac>\n            <mrow>\n              <mn>18</mn>\n            </mrow>\n            <mrow>\n              <mn>13</mn>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 337,
+      "anchor": "fs-id1167829738364",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Use the Properties of Identity, Inverse and Zero",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{0}{u-4.99},\\) where \\(u\\ne 4.99\\)",
+      "math": [
+        "\\frac{0}{u-4.99},",
+        "u\\ne 4.99"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>0</mn><mrow><mi>u</mi><mo>−</mo><mn>4.99</mn></mrow></mfrac><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>0</mn><mrow><mi>u</mi><mo>−</mo><mn>4.99</mn></mrow></mfrac><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>u</mi><mo>≠</mo><mn>4.99</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>u</mi><mo>≠</mo><mn>4.99</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 338,
+      "anchor": "fs-id1167829738403",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Use the Properties of Identity, Inverse and Zero",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(0\\div (y-\\frac{1}{6}),\\) where \\(x\\ne \\frac{1}{6}\\)",
+      "math": [
+        "0\\div (y-\\frac{1}{6}),",
+        "x\\ne \\frac{1}{6}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>0</mn><mo>÷</mo><mrow><mo>(</mo><mrow><mi>y</mi><mo>−</mo><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow><mo>)</mo></mrow><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>0</mn><mo>÷</mo><mrow><mo>(</mo><mrow><mi>y</mi><mo>−</mo><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow><mo>)</mo></mrow><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>≠</mo><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>≠</mo><mfrac><mn>1</mn><mn>6</mn></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 339,
+      "anchor": "fs-id1167829738455",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Use the Properties of Identity, Inverse and Zero",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{32-5a}{0},\\) where \\(32-5a\\ne 0\\)",
+      "math": [
+        "\\frac{32-5a}{0},",
+        "32-5a\\ne 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mn>32</mn><mo>−</mo><mn>5</mn><mi>a</mi></mrow><mn>0</mn></mfrac><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mn>32</mn><mo>−</mo><mn>5</mn><mi>a</mi></mrow><mn>0</mn></mfrac><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>32</mn><mo>−</mo><mn>5</mn><mi>a</mi><mo>≠</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>32</mn><mo>−</mo><mn>5</mn><mi>a</mi><mo>≠</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 340,
+      "anchor": "fs-id1167836649999",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Use the Properties of Identity, Inverse and Zero",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\(\\frac{28-9b}{0},\\) where \\(28-9b\\ne 0\\)",
+      "math": [
+        "\\frac{28-9b}{0},",
+        "28-9b\\ne 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mn>28</mn><mo>−</mo><mn>9</mn><mi>b</mi></mrow><mn>0</mn></mfrac><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mn>28</mn><mo>−</mo><mn>9</mn><mi>b</mi></mrow><mn>0</mn></mfrac><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>28</mn><mo>−</mo><mn>9</mn><mi>b</mi><mo>≠</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>28</mn><mo>−</mo><mn>9</mn><mi>b</mi><mo>≠</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 341,
+      "anchor": "fs-id1167836650047",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Use the Properties of Identity, Inverse and Zero",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\((\\frac{3}{4}+\\frac{9}{10}m)\\div 0,\\) where \\(\\frac{3}{4}+\\frac{9}{10}m\\ne 0\\)",
+      "math": [
+        "(\\frac{3}{4}+\\frac{9}{10}m)\\div 0,",
+        "\\frac{3}{4}+\\frac{9}{10}m\\ne 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>+</mo><mfrac><mn>9</mn><mrow><mn>10</mn></mrow></mfrac><mi>m</mi></mrow><mo>)</mo></mrow><mo>÷</mo><mn>0</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>+</mo><mfrac><mn>9</mn><mrow><mn>10</mn></mrow></mfrac><mi>m</mi></mrow><mo>)</mo></mrow><mo>÷</mo><mn>0</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>+</mo><mfrac><mn>9</mn><mrow><mn>10</mn></mrow></mfrac><mi>m</mi><mo>≠</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>+</mo><mfrac><mn>9</mn><mrow><mn>10</mn></mrow></mfrac><mi>m</mi><mo>≠</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 342,
+      "anchor": "fs-id1167836650116",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Use the Properties of Identity, Inverse and Zero",
+        "In the following exercises, simplify."
+      ],
+      "text": "\\((\\frac{5}{16}n-\\frac{3}{7})\\div 0,\\) where \\(\\frac{5}{16}n-\\frac{3}{7}\\ne 0\\)",
+      "math": [
+        "(\\frac{5}{16}n-\\frac{3}{7})\\div 0,",
+        "\\frac{5}{16}n-\\frac{3}{7}\\ne 0"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mfrac><mn>5</mn><mrow><mn>16</mn></mrow></mfrac><mi>n</mi><mo>−</mo><mfrac><mn>3</mn><mn>7</mn></mfrac></mrow><mo>)</mo></mrow><mo>÷</mo><mn>0</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mfrac><mn>5</mn><mrow><mn>16</mn></mrow></mfrac><mi>n</mi><mo>−</mo><mfrac><mn>3</mn><mn>7</mn></mfrac></mrow><mo>)</mo></mrow><mo>÷</mo><mn>0</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>5</mn><mrow><mn>16</mn></mrow></mfrac><mi>n</mi><mo>−</mo><mfrac><mn>3</mn><mn>7</mn></mfrac><mo>≠</mo><mn>0</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>5</mn><mrow><mn>16</mn></mrow></mfrac><mi>n</mi><mo>−</mo><mfrac><mn>3</mn><mn>7</mn></mfrac><mo>≠</mo><mn>0</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 343,
+      "anchor": "fs-id1167836650195",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(8 ( 4 y + 9 )\\)",
+      "math": [
+        "8 ( 4 y + 9 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>8</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>9</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>8</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>9</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 344,
+      "anchor": "fs-id1167836650239",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(9 ( 3 w + 7 )\\)",
+      "math": [
+        "9 ( 3 w + 7 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>9</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>w</mi>\n              <mo>+</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>9</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>w</mi>\n              <mo>+</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 345,
+      "anchor": "fs-id1167829786726",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(6 ( c - 13 )\\)",
+      "math": [
+        "6 ( c - 13 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>6</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>c</mi>\n              <mo>−</mo>\n              <mn>13</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>6</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>c</mi>\n              <mo>−</mo>\n              <mn>13</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 346,
+      "anchor": "fs-id1167829786768",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(7 ( y - 13 )\\)",
+      "math": [
+        "7 ( y - 13 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>7</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>13</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>7</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>13</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 347,
+      "anchor": "fs-id1167829786809",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(\\frac{1}{4} ( 3 q + 12 )\\)",
+      "math": [
+        "\\frac{1}{4} ( 3 q + 12 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>q</mi>\n              <mo>+</mo>\n              <mn>12</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>4</mn>\n          </mfrac>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>q</mi>\n              <mo>+</mo>\n              <mn>12</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 348,
+      "anchor": "fs-id1167829786859",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(\\frac{1}{5} ( 4 m + 20 )\\)",
+      "math": [
+        "\\frac{1}{5} ( 4 m + 20 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>m</mi>\n              <mo>+</mo>\n              <mn>20</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mn>1</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>m</mi>\n              <mo>+</mo>\n              <mn>20</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 349,
+      "anchor": "fs-id1167829786909",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(9 ( \\frac{5}{9} y - \\frac{1}{3} )\\)",
+      "math": [
+        "9 ( \\frac{5}{9} y - \\frac{1}{3} )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>9</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mfrac>\n                <mn>5</mn>\n                <mn>9</mn>\n              </mfrac>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>9</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mfrac>\n                <mn>5</mn>\n                <mn>9</mn>\n              </mfrac>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 350,
+      "anchor": "fs-id1167829786960",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(10 ( \\frac{3}{ 10 } x - \\frac{2}{5} )\\)",
+      "math": [
+        "10 ( \\frac{3}{ 10 } x - \\frac{2}{5} )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>10</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mfrac>\n                <mn>3</mn>\n                <mrow>\n                  <mn>10</mn>\n                </mrow>\n              </mfrac>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mfrac>\n                <mn>2</mn>\n                <mn>5</mn>\n              </mfrac>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>10</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mfrac>\n                <mn>3</mn>\n                <mrow>\n                  <mn>10</mn>\n                </mrow>\n              </mfrac>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mfrac>\n                <mn>2</mn>\n                <mn>5</mn>\n              </mfrac>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 351,
+      "anchor": "fs-id1167829753648",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(12 ( \\frac{1}{4} + \\frac{2}{3} r )\\)",
+      "math": [
+        "12 ( \\frac{1}{4} + \\frac{2}{3} r )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>12</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>4</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>2</mn>\n                <mn>3</mn>\n              </mfrac>\n              <mi>r</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>12</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>4</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>2</mn>\n                <mn>3</mn>\n              </mfrac>\n              <mi>r</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 352,
+      "anchor": "fs-id1167829753698",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(12 ( \\frac{1}{6} + \\frac{3}{4} s )\\)",
+      "math": [
+        "12 ( \\frac{1}{6} + \\frac{3}{4} s )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>12</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>6</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>3</mn>\n                <mn>4</mn>\n              </mfrac>\n              <mi>s</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>12</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>6</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>3</mn>\n                <mn>4</mn>\n              </mfrac>\n              <mi>s</mi>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 353,
+      "anchor": "fs-id1167829753748",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(15 \\cdot \\frac{3}{5} ( 4 d + 10 )\\)",
+      "math": [
+        "15 \\cdot \\frac{3}{5} ( 4 d + 10 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>15</mn>\n          <mo>·</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>d</mi>\n              <mo>+</mo>\n              <mn>10</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>15</mn>\n          <mo>·</mo>\n          <mfrac>\n            <mn>3</mn>\n            <mn>5</mn>\n          </mfrac>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>d</mi>\n              <mo>+</mo>\n              <mn>10</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 354,
+      "anchor": "fs-id1167829753799",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(18 \\cdot \\frac{5}{6} ( 15 h + 24 )\\)",
+      "math": [
+        "18 \\cdot \\frac{5}{6} ( 15 h + 24 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>18</mn>\n          <mo>·</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mn>6</mn>\n          </mfrac>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>15</mn>\n              <mi>h</mi>\n              <mo>+</mo>\n              <mn>24</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>18</mn>\n          <mo>·</mo>\n          <mfrac>\n            <mn>5</mn>\n            <mn>6</mn>\n          </mfrac>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>15</mn>\n              <mi>h</mi>\n              <mo>+</mo>\n              <mn>24</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 355,
+      "anchor": "fs-id1167829753850",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(r ( s - 18 )\\)",
+      "math": [
+        "r ( s - 18 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>r</mi>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>s</mi>\n              <mo>−</mo>\n              <mn>18</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>r</mi>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>s</mi>\n              <mo>−</mo>\n              <mn>18</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 356,
+      "anchor": "fs-id1167829753894",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(u ( v - 10 )\\)",
+      "math": [
+        "u ( v - 10 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>u</mi>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>v</mi>\n              <mo>−</mo>\n              <mn>10</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>u</mi>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>v</mi>\n              <mo>−</mo>\n              <mn>10</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 357,
+      "anchor": "fs-id1167829754098",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(( y + 4 ) p\\)",
+      "math": [
+        "( y + 4 ) p"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mi>p</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mi>p</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 358,
+      "anchor": "fs-id1167829754142",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(( a + 7 ) x\\)",
+      "math": [
+        "( a + 7 ) x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>a</mi>\n              <mo>+</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>a</mi>\n              <mo>+</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 359,
+      "anchor": "fs-id1167829754185",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(-7 ( 4 p + 1 )\\)",
+      "math": [
+        "-7 ( 4 p + 1 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−7</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>p</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−7</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>p</mi>\n              <mo>+</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 360,
+      "anchor": "fs-id1167829754229",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(-9 ( 9 a + 4 )\\)",
+      "math": [
+        "-9 ( 9 a + 4 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−9</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>9</mn>\n              <mi>a</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−9</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>9</mn>\n              <mi>a</mi>\n              <mo>+</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 361,
+      "anchor": "fs-id1167829754273",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(-3 ( x - 6 )\\)",
+      "math": [
+        "-3 ( x - 6 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−3</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−3</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 362,
+      "anchor": "fs-id1167829754315",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(-4 ( q - 7 )\\)",
+      "math": [
+        "-4 ( q - 7 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−4</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>q</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−4</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>q</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 363,
+      "anchor": "fs-id1167829754357",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(- ( 3 x - 7 )\\)",
+      "math": [
+        "- ( 3 x - 7 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>−</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>−</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 364,
+      "anchor": "fs-id1167829751636",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(- ( 5 p - 4 )\\)",
+      "math": [
+        "- ( 5 p - 4 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mtext>−</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mi>p</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mtext>−</mtext>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mi>p</mi>\n              <mo>−</mo>\n              <mn>4</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 365,
+      "anchor": "fs-id1167829751680",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(16 - 3 ( y + 8 )\\)",
+      "math": [
+        "16 - 3 ( y + 8 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>16</mn>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>16</mn>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 366,
+      "anchor": "fs-id1167829751726",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(18 - 4 ( x + 2 )\\)",
+      "math": [
+        "18 - 4 ( x + 2 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>18</mn>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>18</mn>\n          <mo>−</mo>\n          <mn>4</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>x</mi>\n              <mo>+</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 367,
+      "anchor": "fs-id1167829751773",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(4 - 11 ( 3 c - 2 )\\)",
+      "math": [
+        "4 - 11 ( 3 c - 2 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <mo>−</mo>\n          <mn>11</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>c</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <mo>−</mo>\n          <mn>11</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>c</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 368,
+      "anchor": "fs-id1167829751821",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(9 - 6 ( 7 n - 5 )\\)",
+      "math": [
+        "9 - 6 ( 7 n - 5 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>9</mn>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>7</mn>\n              <mi>n</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>9</mn>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>7</mn>\n              <mi>n</mi>\n              <mo>−</mo>\n              <mn>5</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 369,
+      "anchor": "fs-id1167829751869",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(22 - ( a + 3 )\\)",
+      "math": [
+        "22 - ( a + 3 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>22</mn>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>a</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>22</mn>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>a</mi>\n              <mo>+</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 370,
+      "anchor": "fs-id1167829751913",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(8 - ( r - 7 )\\)",
+      "math": [
+        "8 - ( r - 7 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>8</mn>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>r</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>8</mn>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>r</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 371,
+      "anchor": "fs-id1167829751995",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(( 5 m - 3 ) - ( m + 7 )\\)",
+      "math": [
+        "( 5 m - 3 ) - ( m + 7 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mi>m</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>m</mi>\n              <mo>+</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mi>m</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>m</mi>\n              <mo>+</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 372,
+      "anchor": "fs-id1167829752052",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(( 4 y - 1 ) - ( y - 2 )\\)",
+      "math": [
+        "( 4 y - 1 ) - ( y - 2 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 373,
+      "anchor": "fs-id1167829752108",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(9 ( 8 x - 3 ) - ( -2 )\\)",
+      "math": [
+        "9 ( 8 x - 3 ) - ( -2 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>9</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>8</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>9</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>8</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−2</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 374,
+      "anchor": "fs-id1167829752163",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(4 ( 6 x - 1 ) - ( -8 )\\)",
+      "math": [
+        "4 ( 6 x - 1 ) - ( -8 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>6</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−8</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>6</mn>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>−8</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 375,
+      "anchor": "fs-id1167829752218",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(5 ( 2 n + 9 ) + 12 ( n - 3 )\\)",
+      "math": [
+        "5 ( 2 n + 9 ) + 12 ( n - 3 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>5</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>9</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>n</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>5</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>9</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>n</mi>\n              <mo>−</mo>\n              <mn>3</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 376,
+      "anchor": "fs-id1167829752279",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(9 ( 5 u + 8 ) + 2 ( u - 6 )\\)",
+      "math": [
+        "9 ( 5 u + 8 ) + 2 ( u - 6 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>9</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mi>u</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>u</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>9</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mi>u</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>u</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 377,
+      "anchor": "fs-id1167829790906",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(14 ( c - 1 ) - 8 ( c - 6 )\\)",
+      "math": [
+        "14 ( c - 1 ) - 8 ( c - 6 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>14</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>c</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>8</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>c</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>14</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>c</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>8</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>c</mi>\n              <mo>−</mo>\n              <mn>6</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 378,
+      "anchor": "fs-id1167829790964",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(11 ( n - 7 ) - 5 ( n - 1 )\\)",
+      "math": [
+        "11 ( n - 7 ) - 5 ( n - 1 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>11</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>n</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>n</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>11</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>n</mi>\n              <mo>−</mo>\n              <mn>7</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mi>n</mi>\n              <mo>−</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 379,
+      "anchor": "fs-id1167829791023",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(6 ( 7 y + 8 ) - ( 30 y - 15 )\\)",
+      "math": [
+        "6 ( 7 y + 8 ) - ( 30 y - 15 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>6</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>7</mn>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>30</mn>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>15</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>6</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>7</mn>\n              <mi>y</mi>\n              <mo>+</mo>\n              <mn>8</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>30</mn>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mn>15</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 380,
+      "anchor": "fs-id1167829791084",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Simplify Expressions Using the Distributive Property",
+        "In the following exercises, simplify using the Distributive Property."
+      ],
+      "text": "\\(7 ( 3 n + 9 ) - ( 4 n - 13 )\\)",
+      "math": [
+        "7 ( 3 n + 9 ) - ( 4 n - 13 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>7</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>9</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>n</mi>\n              <mo>−</mo>\n              <mn>13</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>7</mn>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mi>n</mi>\n              <mo>+</mo>\n              <mn>9</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>−</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>4</mn>\n              <mi>n</mi>\n              <mo>−</mo>\n              <mn>13</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 381,
+      "anchor": "fs-id1167829791152",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "In your own words, state the Associative Property of addition.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 382,
+      "anchor": "fs-id1167829791168",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "What is the difference between the additive inverse and the multiplicative inverse of a number?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 383,
+      "anchor": "fs-id1167829791186",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Simplify \\(8(x-\\frac{1}{4})\\) using the Distributive Property and explain each step.",
+      "math": [
+        "8(x-\\frac{1}{4})"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>8</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>8</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 384,
+      "anchor": "fs-id1167829791223",
+      "page": "1-5-properties-of-real-numbers",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain how you can multiply \\(4(\\$5.97)\\) without paper or calculator by thinking of \\(\\$5.97\\) as \\(6-0.03\\) and then using the Distributive Property.",
+      "math": [
+        "4($5.97)",
+        "$5.97",
+        "6-0.03"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mrow><mo>(</mo><mrow><mtext>$</mtext><mn>5.97</mn></mrow><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mrow><mo>(</mo><mrow><mtext>$</mtext><mn>5.97</mn></mrow><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>$</mtext><mn>5.97</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>$</mtext><mn>5.97</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>6</mn><mo>−</mo><mn>0.03</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>6</mn><mo>−</mo><mn>0.03</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "1.89",
+      "page": "1-5-properties-of-real-numbers",
+      "is_try_it": true,
+      "anchor": "fs-id1167836579845",
+      "context": [
+        "Use the Commutative and Associative Properties"
+      ],
+      "text": "Simplify: \\(23r+14s+9r+15s.\\)",
+      "math": [
+        "23r+14s+9r+15s."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>23</mn><mi>r</mi><mo>+</mo><mn>14</mn><mi>s</mi><mo>+</mo><mn>9</mn><mi>r</mi><mo>+</mo><mn>15</mn><mi>s</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>23</mn><mi>r</mi><mo>+</mo><mn>14</mn><mi>s</mi><mo>+</mo><mn>9</mn><mi>r</mi><mo>+</mo><mn>15</mn><mi>s</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "1.90",
+      "page": "1-5-properties-of-real-numbers",
+      "is_try_it": true,
+      "anchor": "fs-id1167836310250",
+      "context": [
+        "Use the Commutative and Associative Properties"
+      ],
+      "text": "Simplify:\\(37m+21n+4m-15n.\\)",
+      "math": [
+        "37m+21n+4m-15n."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>37</mn><mi>m</mi><mo>+</mo><mn>21</mn><mi>n</mi><mo>+</mo><mn>4</mn><mi>m</mi><mo>−</mo><mn>15</mn><mi>n</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>37</mn><mi>m</mi><mo>+</mo><mn>21</mn><mi>n</mi><mo>+</mo><mn>4</mn><mi>m</mi><mo>−</mo><mn>15</mn><mi>n</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "1.91",
+      "page": "1-5-properties-of-real-numbers",
+      "is_try_it": true,
+      "anchor": "fs-id1167836518455",
+      "context": [
+        "Use the Commutative and Associative Properties"
+      ],
+      "text": "Simplify: \\((\\frac{7}{15}+\\frac{5}{8})+\\frac{3}{8}.\\)",
+      "math": [
+        "(\\frac{7}{15}+\\frac{5}{8})+\\frac{3}{8}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mfrac><mn>7</mn><mrow><mn>15</mn></mrow></mfrac><mo>+</mo><mfrac><mn>5</mn><mn>8</mn></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mfrac><mn>3</mn><mn>8</mn></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mfrac><mn>7</mn><mrow><mn>15</mn></mrow></mfrac><mo>+</mo><mfrac><mn>5</mn><mn>8</mn></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mfrac><mn>3</mn><mn>8</mn></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "1.92",
+      "page": "1-5-properties-of-real-numbers",
+      "is_try_it": true,
+      "anchor": "fs-id1167836410391",
+      "context": [
+        "Use the Commutative and Associative Properties"
+      ],
+      "text": "Simplify: \\((\\frac{2}{9}+\\frac{7}{12})+\\frac{5}{12}.\\)",
+      "math": [
+        "(\\frac{2}{9}+\\frac{7}{12})+\\frac{5}{12}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>(</mo><mrow><mfrac><mn>2</mn><mn>9</mn></mfrac><mo>+</mo><mfrac><mn>7</mn><mrow><mn>12</mn></mrow></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mfrac><mn>5</mn><mrow><mn>12</mn></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>(</mo><mrow><mfrac><mn>2</mn><mn>9</mn></mfrac><mo>+</mo><mfrac><mn>7</mn><mrow><mn>12</mn></mrow></mfrac></mrow><mo>)</mo></mrow><mo>+</mo><mfrac><mn>5</mn><mrow><mn>12</mn></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "1.93",
+      "page": "1-5-properties-of-real-numbers",
+      "is_try_it": true,
+      "anchor": "fs-id1167833053388",
+      "context": [
+        "Use the Properties of Identity, Inverse, and Zero"
+      ],
+      "text": "Simplify: \\(-27a+(-48a)+27a.\\)",
+      "math": [
+        "-27a+(-48a)+27a."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−27</mn><mi>a</mi><mo>+</mo><mrow><mo>(</mo><mrow><mn>−48</mn><mi>a</mi></mrow><mo>)</mo></mrow><mo>+</mo><mn>27</mn><mi>a</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−27</mn><mi>a</mi><mo>+</mo><mrow><mo>(</mo><mrow><mn>−48</mn><mi>a</mi></mrow><mo>)</mo></mrow><mo>+</mo><mn>27</mn><mi>a</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "1.94",
+      "page": "1-5-properties-of-real-numbers",
+      "is_try_it": true,
+      "anchor": "fs-id1167829787216",
+      "context": [
+        "Use the Properties of Identity, Inverse, and Zero"
+      ],
+      "text": "Simplify: \\(39x+(-92x)+(-39x).\\)",
+      "math": [
+        "39x+(-92x)+(-39x)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>39</mn><mi>x</mi><mo>+</mo><mrow><mo>(</mo><mrow><mn>−92</mn><mi>x</mi></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>−39</mn><mi>x</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>39</mn><mi>x</mi><mo>+</mo><mrow><mo>(</mo><mrow><mn>−92</mn><mi>x</mi></mrow><mo>)</mo></mrow><mo>+</mo><mrow><mo>(</mo><mrow><mn>−39</mn><mi>x</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "1.95",
+      "page": "1-5-properties-of-real-numbers",
+      "is_try_it": true,
+      "anchor": "fs-id1167829789134",
+      "context": [
+        "Use the Properties of Identity, Inverse, and Zero"
+      ],
+      "text": "Simplify: \\(\\frac{9}{16}\\cdot \\frac{5}{49}\\cdot \\frac{16}{9}.\\)",
+      "math": [
+        "\\frac{9}{16}\\cdot \\frac{5}{49}\\cdot \\frac{16}{9}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>9</mn><mrow><mn>16</mn></mrow></mfrac><mo>·</mo><mfrac><mn>5</mn><mrow><mn>49</mn></mrow></mfrac><mo>·</mo><mfrac><mrow><mn>16</mn></mrow><mn>9</mn></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>9</mn><mrow><mn>16</mn></mrow></mfrac><mo>·</mo><mfrac><mn>5</mn><mrow><mn>49</mn></mrow></mfrac><mo>·</mo><mfrac><mrow><mn>16</mn></mrow><mn>9</mn></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "1.96",
+      "page": "1-5-properties-of-real-numbers",
+      "is_try_it": true,
+      "anchor": "fs-id1167829790766",
+      "context": [
+        "Use the Properties of Identity, Inverse, and Zero"
+      ],
+      "text": "Simplify: \\(\\frac{6}{17}\\cdot \\frac{11}{25}\\cdot \\frac{17}{6}.\\)",
+      "math": [
+        "\\frac{6}{17}\\cdot \\frac{11}{25}\\cdot \\frac{17}{6}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>6</mn><mrow><mn>17</mn></mrow></mfrac><mo>·</mo><mfrac><mrow><mn>11</mn></mrow><mrow><mn>25</mn></mrow></mfrac><mo>·</mo><mfrac><mrow><mn>17</mn></mrow><mn>6</mn></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>6</mn><mrow><mn>17</mn></mrow></mfrac><mo>·</mo><mfrac><mrow><mn>11</mn></mrow><mrow><mn>25</mn></mrow></mfrac><mo>·</mo><mfrac><mrow><mn>17</mn></mrow><mn>6</mn></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "1.97",
+      "page": "1-5-properties-of-real-numbers",
+      "is_try_it": true,
+      "anchor": "fs-id1167829624505",
+      "context": [
+        "Use the Properties of Identity, Inverse, and Zero"
+      ],
+      "text": "Simplify: ⓐ \\(\\frac{0}{m+7},\\) where \\(m\\ne -7\\) ⓑ \\(\\frac{18-6c}{0},\\) where \\(18-6c\\ne 0.\\)",
+      "math": [
+        "\\frac{0}{m+7},",
+        "m\\ne -7",
+        "\\frac{18-6c}{0},",
+        "18-6c\\ne 0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>0</mn><mrow><mi>m</mi><mo>+</mo><mn>7</mn></mrow></mfrac><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>0</mn><mrow><mi>m</mi><mo>+</mo><mn>7</mn></mrow></mfrac><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>m</mi><mo>≠</mo><mtext>−</mtext><mn>7</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>m</mi><mo>≠</mo><mtext>−</mtext><mn>7</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mn>18</mn><mo>−</mo><mn>6</mn><mi>c</mi></mrow><mn>0</mn></mfrac><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mn>18</mn><mo>−</mo><mn>6</mn><mi>c</mi></mrow><mn>0</mn></mfrac><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>18</mn><mo>−</mo><mn>6</mn><mi>c</mi><mo>≠</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>18</mn><mo>−</mo><mn>6</mn><mi>c</mi><mo>≠</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "1.98",
+      "page": "1-5-properties-of-real-numbers",
+      "is_try_it": true,
+      "anchor": "fs-id1167829739185",
+      "context": [
+        "Use the Properties of Identity, Inverse, and Zero"
+      ],
+      "text": "Simplify: ⓐ \\(\\frac{0}{d-4},\\) where \\(d\\ne 4\\) ⓑ \\(\\frac{15-4q}{0},\\) where \\(15-4q\\ne 0.\\)",
+      "math": [
+        "\\frac{0}{d-4},",
+        "d\\ne 4",
+        "\\frac{15-4q}{0},",
+        "15-4q\\ne 0."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mn>0</mn><mrow><mi>d</mi><mo>−</mo><mn>4</mn></mrow></mfrac><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mn>0</mn><mrow><mi>d</mi><mo>−</mo><mn>4</mn></mrow></mfrac><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>d</mi><mo>≠</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>d</mi><mo>≠</mo><mn>4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mn>15</mn><mo>−</mo><mn>4</mn><mi>q</mi></mrow><mn>0</mn></mfrac><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mn>15</mn><mo>−</mo><mn>4</mn><mi>q</mi></mrow><mn>0</mn></mfrac><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>15</mn><mo>−</mo><mn>4</mn><mi>q</mi><mo>≠</mo><mn>0</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>15</mn><mo>−</mo><mn>4</mn><mi>q</mi><mo>≠</mo><mn>0</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "1.99",
+      "page": "1-5-properties-of-real-numbers",
+      "is_try_it": true,
+      "anchor": "fs-id1167829791962",
+      "context": [
+        "Simplify Expressions Using the Distributive Property"
+      ],
+      "text": "Simplify: \\(4(x+2).\\)",
+      "math": [
+        "4(x+2)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "1.100",
+      "page": "1-5-properties-of-real-numbers",
+      "is_try_it": true,
+      "anchor": "fs-id1167829788361",
+      "context": [
+        "Simplify Expressions Using the Distributive Property"
+      ],
+      "text": "Simplify: \\(6(x+7).\\)",
+      "math": [
+        "6(x+7)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>6</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>7</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>6</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>7</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "1.101",
+      "page": "1-5-properties-of-real-numbers",
+      "is_try_it": true,
+      "anchor": "fs-id1167829789560",
+      "context": [
+        "Simplify Expressions Using the Distributive Property"
+      ],
+      "text": "Simplify: \\(6(\\frac{5}{6}y+\\frac{1}{2}).\\)",
+      "math": [
+        "6(\\frac{5}{6}y+\\frac{1}{2})."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>6</mn><mrow><mo>(</mo><mrow><mfrac><mn>5</mn><mn>6</mn></mfrac><mi>y</mi><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>6</mn><mrow><mo>(</mo><mrow><mfrac><mn>5</mn><mn>6</mn></mfrac><mi>y</mi><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "1.102",
+      "page": "1-5-properties-of-real-numbers",
+      "is_try_it": true,
+      "anchor": "fs-id1167829789618",
+      "context": [
+        "Simplify Expressions Using the Distributive Property"
+      ],
+      "text": "Simplify: \\(12(\\frac{1}{3}n+\\frac{3}{4}).\\)",
+      "math": [
+        "12(\\frac{1}{3}n+\\frac{3}{4})."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>12</mn><mrow><mo>(</mo><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>n</mi><mo>+</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>12</mn><mrow><mo>(</mo><mrow><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>n</mi><mo>+</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "1.103",
+      "page": "1-5-properties-of-real-numbers",
+      "is_try_it": true,
+      "anchor": "fs-id1167829790023",
+      "context": [
+        "Simplify Expressions Using the Distributive Property"
+      ],
+      "text": "Simplify: \\(100(0.7+0.15p).\\)",
+      "math": [
+        "100(0.7+0.15p)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>100</mn><mrow><mo>(</mo><mrow><mn>0.7</mn><mo>+</mo><mn>0.15</mn><mi>p</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>100</mn><mrow><mo>(</mo><mrow><mn>0.7</mn><mo>+</mo><mn>0.15</mn><mi>p</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "1.104",
+      "page": "1-5-properties-of-real-numbers",
+      "is_try_it": true,
+      "anchor": "fs-id1167829741719",
+      "context": [
+        "Simplify Expressions Using the Distributive Property"
+      ],
+      "text": "Simplify: \\(100(0.04+0.35d).\\)",
+      "math": [
+        "100(0.04+0.35d)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>100</mn><mrow><mo>(</mo><mrow><mn>0.04</mn><mo>+</mo><mn>0.35</mn><mi>d</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>100</mn><mrow><mo>(</mo><mrow><mn>0.04</mn><mo>+</mo><mn>0.35</mn><mi>d</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "1.105",
+      "page": "1-5-properties-of-real-numbers",
+      "is_try_it": true,
+      "anchor": "fs-id1167833350848",
+      "context": [
+        "Simplify Expressions Using the Distributive Property"
+      ],
+      "text": "Simplify: \\(-5(2-3a).\\)",
+      "math": [
+        "-5(2-3a)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−5</mn><mrow><mo>(</mo><mrow><mn>2</mn><mo>−</mo><mn>3</mn><mi>a</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−5</mn><mrow><mo>(</mo><mrow><mn>2</mn><mo>−</mo><mn>3</mn><mi>a</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "1.106",
+      "page": "1-5-properties-of-real-numbers",
+      "is_try_it": true,
+      "anchor": "fs-id1167833350899",
+      "context": [
+        "Simplify Expressions Using the Distributive Property"
+      ],
+      "text": "Simplify: \\(-7(8-15y).\\)",
+      "math": [
+        "-7(8-15y)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−7</mn><mrow><mo>(</mo><mrow><mn>8</mn><mo>−</mo><mn>15</mn><mi>y</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−7</mn><mrow><mo>(</mo><mrow><mn>8</mn><mo>−</mo><mn>15</mn><mi>y</mi></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "1.107",
+      "page": "1-5-properties-of-real-numbers",
+      "is_try_it": true,
+      "anchor": "fs-id1167836409511",
+      "context": [
+        "Simplify Expressions Using the Distributive Property"
+      ],
+      "text": "Simplify: \\(-(z-11).\\)",
+      "math": [
+        "-(z-11)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>−</mtext><mrow><mo>(</mo><mrow><mi>z</mi><mo>−</mo><mn>11</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>−</mtext><mrow><mo>(</mo><mrow><mi>z</mi><mo>−</mo><mn>11</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "1.108",
+      "page": "1-5-properties-of-real-numbers",
+      "is_try_it": true,
+      "anchor": "fs-id1167836409560",
+      "context": [
+        "Simplify Expressions Using the Distributive Property"
+      ],
+      "text": "Simplify: \\(-(x-4).\\)",
+      "math": [
+        "-(x-4)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mtext>−</mtext><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mtext>−</mtext><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "1.109",
+      "page": "1-5-properties-of-real-numbers",
+      "is_try_it": true,
+      "anchor": "fs-id1167833025206",
+      "context": [
+        "Simplify Expressions Using the Distributive Property"
+      ],
+      "text": "Simplify: \\(9-3(x+2).\\)",
+      "math": [
+        "9-3(x+2)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>9</mn><mo>−</mo><mn>3</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>9</mn><mo>−</mo><mn>3</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "1.110",
+      "page": "1-5-properties-of-real-numbers",
+      "is_try_it": true,
+      "anchor": "fs-id1167833025260",
+      "context": [
+        "Simplify Expressions Using the Distributive Property"
+      ],
+      "text": "Simplify: \\(7x-5(x+4).\\)",
+      "math": [
+        "7x-5(x+4)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>7</mn><mi>x</mi><mo>−</mo><mn>5</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>7</mn><mi>x</mi><mo>−</mo><mn>5</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "1.111",
+      "page": "1-5-properties-of-real-numbers",
+      "is_try_it": true,
+      "anchor": "fs-id1167829742655",
+      "context": [
+        "Simplify Expressions Using the Distributive Property"
+      ],
+      "text": "Simplify: \\(6(x-9)-(x+12).\\)",
+      "math": [
+        "6(x-9)-(x+12)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>6</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>9</mn></mrow><mo>)</mo></mrow><mo>−</mo><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>12</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>6</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>9</mn></mrow><mo>)</mo></mrow><mo>−</mo><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>12</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "1.112",
+      "page": "1-5-properties-of-real-numbers",
+      "is_try_it": true,
+      "anchor": "fs-id1167829755756",
+      "context": [
+        "Simplify Expressions Using the Distributive Property"
+      ],
+      "text": "Simplify: \\(8(x-1)-(x+5).\\)",
+      "math": [
+        "8(x-1)-(x+5)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>8</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>−</mo><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>5</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>8</mn><mrow><mo>(</mo><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>−</mo><mrow><mo>(</mo><mrow><mi>x</mi><mo>+</mo><mn>5</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

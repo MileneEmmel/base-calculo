@@ -1,0 +1,1666 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/6-3-factor-special-products",
+  "title": "6.3 Factor Special Products",
+  "sha256": "6a87cad8225d8bbe9f465cd927435366167d981970fbbd4c870f2fc260ad6ecf",
+  "questions": [
+    {
+      "number": 159,
+      "anchor": "fs-id1167832056614",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Perfect Square Trinomials",
+        "In the following exercises, factor completely using the perfect square trinomials pattern."
+      ],
+      "text": "\\(16 {y}^{2} + 24 y + 9\\)",
+      "math": [
+        "16 {y}^{2} + 24 y + 9"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>16</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>24</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>9</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>16</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>24</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>9</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 160,
+      "anchor": "fs-id1167831871432",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Perfect Square Trinomials",
+        "In the following exercises, factor completely using the perfect square trinomials pattern."
+      ],
+      "text": "\\(25 {v}^{2} + 20 v + 4\\)",
+      "math": [
+        "25 {v}^{2} + 20 v + 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>25</mn>\n          <msup>\n            <mi>v</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>20</mn>\n          <mi>v</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>25</mn>\n          <msup>\n            <mi>v</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>20</mn>\n          <mi>v</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 161,
+      "anchor": "fs-id1167831872096",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Perfect Square Trinomials",
+        "In the following exercises, factor completely using the perfect square trinomials pattern."
+      ],
+      "text": "\\(36 {s}^{2} + 84 s + 49\\)",
+      "math": [
+        "36 {s}^{2} + 84 s + 49"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>36</mn>\n          <msup>\n            <mi>s</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>84</mn>\n          <mi>s</mi>\n          <mo>+</mo>\n          <mn>49</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>36</mn>\n          <msup>\n            <mi>s</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>84</mn>\n          <mi>s</mi>\n          <mo>+</mo>\n          <mn>49</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 162,
+      "anchor": "fs-id1167831106542",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Perfect Square Trinomials",
+        "In the following exercises, factor completely using the perfect square trinomials pattern."
+      ],
+      "text": "\\(49 {s}^{2} + 154 s + 121\\)",
+      "math": [
+        "49 {s}^{2} + 154 s + 121"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>49</mn>\n          <msup>\n            <mi>s</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>154</mn>\n          <mi>s</mi>\n          <mo>+</mo>\n          <mn>121</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>49</mn>\n          <msup>\n            <mi>s</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>154</mn>\n          <mi>s</mi>\n          <mo>+</mo>\n          <mn>121</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 163,
+      "anchor": "fs-id1167832214525",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Perfect Square Trinomials",
+        "In the following exercises, factor completely using the perfect square trinomials pattern."
+      ],
+      "text": "\\(100 {x}^{2} - 20 x + 1\\)",
+      "math": [
+        "100 {x}^{2} - 20 x + 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>100</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>20</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>100</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>20</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 164,
+      "anchor": "fs-id1167834448696",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Perfect Square Trinomials",
+        "In the following exercises, factor completely using the perfect square trinomials pattern."
+      ],
+      "text": "\\(64 {z}^{2} - 16 z + 1\\)",
+      "math": [
+        "64 {z}^{2} - 16 z + 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>64</mn>\n          <msup>\n            <mi>z</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>16</mn>\n          <mi>z</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>64</mn>\n          <msup>\n            <mi>z</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>16</mn>\n          <mi>z</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 165,
+      "anchor": "fs-id1167830700797",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Perfect Square Trinomials",
+        "In the following exercises, factor completely using the perfect square trinomials pattern."
+      ],
+      "text": "\\(25 {n}^{2} - 120 n + 144\\)",
+      "math": [
+        "25 {n}^{2} - 120 n + 144"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>25</mn>\n          <msup>\n            <mi>n</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>120</mn>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mn>144</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>25</mn>\n          <msup>\n            <mi>n</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>120</mn>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mn>144</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 166,
+      "anchor": "fs-id1167826978453",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Perfect Square Trinomials",
+        "In the following exercises, factor completely using the perfect square trinomials pattern."
+      ],
+      "text": "\\(4 {p}^{2} - 52 p + 169\\)",
+      "math": [
+        "4 {p}^{2} - 52 p + 169"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>52</mn>\n          <mi>p</mi>\n          <mo>+</mo>\n          <mn>169</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>52</mn>\n          <mi>p</mi>\n          <mo>+</mo>\n          <mn>169</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 167,
+      "anchor": "fs-id1167835419328",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Perfect Square Trinomials",
+        "In the following exercises, factor completely using the perfect square trinomials pattern."
+      ],
+      "text": "\\(49 {x}^{2} + 28 x y + 4 {y}^{2}\\)",
+      "math": [
+        "49 {x}^{2} + 28 x y + 4 {y}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>49</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>28</mn>\n          <mi>x</mi>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>49</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>28</mn>\n          <mi>x</mi>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 168,
+      "anchor": "fs-id1167834429403",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Perfect Square Trinomials",
+        "In the following exercises, factor completely using the perfect square trinomials pattern."
+      ],
+      "text": "\\(25 {r}^{2} + 60 r s + 36 {s}^{2}\\)",
+      "math": [
+        "25 {r}^{2} + 60 r s + 36 {s}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>25</mn>\n          <msup>\n            <mi>r</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>60</mn>\n          <mi>r</mi>\n          <mi>s</mi>\n          <mo>+</mo>\n          <mn>36</mn>\n          <msup>\n            <mi>s</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>25</mn>\n          <msup>\n            <mi>r</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>60</mn>\n          <mi>r</mi>\n          <mi>s</mi>\n          <mo>+</mo>\n          <mn>36</mn>\n          <msup>\n            <mi>s</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 169,
+      "anchor": "fs-id1167835376744",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Perfect Square Trinomials",
+        "In the following exercises, factor completely using the perfect square trinomials pattern."
+      ],
+      "text": "\\(100 {y}^{2} - 20 y + 1\\)",
+      "math": [
+        "100 {y}^{2} - 20 y + 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>100</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>20</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>100</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>20</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 170,
+      "anchor": "fs-id1167830865346",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Perfect Square Trinomials",
+        "In the following exercises, factor completely using the perfect square trinomials pattern."
+      ],
+      "text": "\\(64 {m}^{2} - 16 m + 1\\)",
+      "math": [
+        "64 {m}^{2} - 16 m + 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>64</mn>\n          <msup>\n            <mi>m</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>16</mn>\n          <mi>m</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>64</mn>\n          <msup>\n            <mi>m</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>16</mn>\n          <mi>m</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 171,
+      "anchor": "fs-id1167834120730",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Perfect Square Trinomials",
+        "In the following exercises, factor completely using the perfect square trinomials pattern."
+      ],
+      "text": "\\(10 j {k}^{2} + 80 j k + 160 j\\)",
+      "math": [
+        "10 j {k}^{2} + 80 j k + 160 j"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>10</mn>\n          <mi>j</mi>\n          <msup>\n            <mi>k</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>80</mn>\n          <mi>j</mi>\n          <mi>k</mi>\n          <mo>+</mo>\n          <mn>160</mn>\n          <mi>j</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>10</mn>\n          <mi>j</mi>\n          <msup>\n            <mi>k</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>80</mn>\n          <mi>j</mi>\n          <mi>k</mi>\n          <mo>+</mo>\n          <mn>160</mn>\n          <mi>j</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 172,
+      "anchor": "fs-id1167834179803",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Perfect Square Trinomials",
+        "In the following exercises, factor completely using the perfect square trinomials pattern."
+      ],
+      "text": "\\(64 {x}^{2} y - 96 x y + 36 y\\)",
+      "math": [
+        "64 {x}^{2} y - 96 x y + 36 y"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>64</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>96</mn>\n          <mi>x</mi>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>36</mn>\n          <mi>y</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>64</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mi>y</mi>\n          <mo>−</mo>\n          <mn>96</mn>\n          <mi>x</mi>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>36</mn>\n          <mi>y</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 173,
+      "anchor": "fs-id1167834131742",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Perfect Square Trinomials",
+        "In the following exercises, factor completely using the perfect square trinomials pattern."
+      ],
+      "text": "\\(75 {u}^{4} - 30 {u}^{3} v + 3 {u}^{2} {v}^{2}\\)",
+      "math": [
+        "75 {u}^{4} - 30 {u}^{3} v + 3 {u}^{2} {v}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>75</mn>\n          <msup>\n            <mi>u</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>30</mn>\n          <msup>\n            <mi>u</mi>\n            <mn>3</mn>\n          </msup>\n          <mi>v</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n          <msup>\n            <mi>u</mi>\n            <mn>2</mn>\n          </msup>\n          <msup>\n            <mi>v</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>75</mn>\n          <msup>\n            <mi>u</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>30</mn>\n          <msup>\n            <mi>u</mi>\n            <mn>3</mn>\n          </msup>\n          <mi>v</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n          <msup>\n            <mi>u</mi>\n            <mn>2</mn>\n          </msup>\n          <msup>\n            <mi>v</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 174,
+      "anchor": "fs-id1167835410277",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Perfect Square Trinomials",
+        "In the following exercises, factor completely using the perfect square trinomials pattern."
+      ],
+      "text": "\\(90 {p}^{4} + 300 {p}^{3} q + 250 {p}^{2} {q}^{2}\\)",
+      "math": [
+        "90 {p}^{4} + 300 {p}^{3} q + 250 {p}^{2} {q}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>90</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>300</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>3</mn>\n          </msup>\n          <mi>q</mi>\n          <mo>+</mo>\n          <mn>250</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>90</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>300</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>3</mn>\n          </msup>\n          <mi>q</mi>\n          <mo>+</mo>\n          <mn>250</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 175,
+      "anchor": "fs-id1167832006559",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Differences of Squares",
+        "In the following exercises, factor completely using the difference of squares pattern, if possible."
+      ],
+      "text": "\\(25 {v}^{2} - 1\\)",
+      "math": [
+        "25 {v}^{2} - 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>25</mn>\n          <msup>\n            <mi>v</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>25</mn>\n          <msup>\n            <mi>v</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 176,
+      "anchor": "fs-id1167832042149",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Differences of Squares",
+        "In the following exercises, factor completely using the difference of squares pattern, if possible."
+      ],
+      "text": "\\(169 {q}^{2} - 1\\)",
+      "math": [
+        "169 {q}^{2} - 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>169</mn>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>169</mn>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 177,
+      "anchor": "fs-id1167835489432",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Differences of Squares",
+        "In the following exercises, factor completely using the difference of squares pattern, if possible."
+      ],
+      "text": "\\(4 - 49 {x}^{2}\\)",
+      "math": [
+        "4 - 49 {x}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <mo>−</mo>\n          <mn>49</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <mo>−</mo>\n          <mn>49</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 178,
+      "anchor": "fs-id1167835258483",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Differences of Squares",
+        "In the following exercises, factor completely using the difference of squares pattern, if possible."
+      ],
+      "text": "\\(121 - 25 {s}^{2}\\)",
+      "math": [
+        "121 - 25 {s}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>121</mn>\n          <mo>−</mo>\n          <mn>25</mn>\n          <msup>\n            <mi>s</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>121</mn>\n          <mo>−</mo>\n          <mn>25</mn>\n          <msup>\n            <mi>s</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 179,
+      "anchor": "fs-id1167826996408",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Differences of Squares",
+        "In the following exercises, factor completely using the difference of squares pattern, if possible."
+      ],
+      "text": "\\(6 {p}^{2} {q}^{2} - 54 {p}^{2}\\)",
+      "math": [
+        "6 {p}^{2} {q}^{2} - 54 {p}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>6</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>54</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>6</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>54</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 180,
+      "anchor": "fs-id1167835420249",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Differences of Squares",
+        "In the following exercises, factor completely using the difference of squares pattern, if possible."
+      ],
+      "text": "\\(98 {r}^{3} - 72 r\\)",
+      "math": [
+        "98 {r}^{3} - 72 r"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>98</mn>\n          <msup>\n            <mi>r</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>72</mn>\n          <mi>r</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>98</mn>\n          <msup>\n            <mi>r</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>72</mn>\n          <mi>r</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 181,
+      "anchor": "fs-id1167832059445",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Differences of Squares",
+        "In the following exercises, factor completely using the difference of squares pattern, if possible."
+      ],
+      "text": "\\(24 {p}^{2} + 54\\)",
+      "math": [
+        "24 {p}^{2} + 54"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>24</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>54</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>24</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>54</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 182,
+      "anchor": "fs-id1167834472427",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Differences of Squares",
+        "In the following exercises, factor completely using the difference of squares pattern, if possible."
+      ],
+      "text": "\\(20 {b}^{2} + 140\\)",
+      "math": [
+        "20 {b}^{2} + 140"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>20</mn>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>140</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>20</mn>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>140</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 183,
+      "anchor": "fs-id1167834430179",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Differences of Squares",
+        "In the following exercises, factor completely using the difference of squares pattern, if possible."
+      ],
+      "text": "\\(121 {x}^{2} - 144 {y}^{2}\\)",
+      "math": [
+        "121 {x}^{2} - 144 {y}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>121</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>144</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>121</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>144</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 184,
+      "anchor": "fs-id1167834063544",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Differences of Squares",
+        "In the following exercises, factor completely using the difference of squares pattern, if possible."
+      ],
+      "text": "\\(49 {x}^{2} - 81 {y}^{2}\\)",
+      "math": [
+        "49 {x}^{2} - 81 {y}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>49</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>81</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>49</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>81</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 185,
+      "anchor": "fs-id1167834382416",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Differences of Squares",
+        "In the following exercises, factor completely using the difference of squares pattern, if possible."
+      ],
+      "text": "\\(169 {c}^{2} - 36 {d}^{2}\\)",
+      "math": [
+        "169 {c}^{2} - 36 {d}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>169</mn>\n          <msup>\n            <mi>c</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>36</mn>\n          <msup>\n            <mi>d</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>169</mn>\n          <msup>\n            <mi>c</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>36</mn>\n          <msup>\n            <mi>d</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 186,
+      "anchor": "fs-id1167835511779",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Differences of Squares",
+        "In the following exercises, factor completely using the difference of squares pattern, if possible."
+      ],
+      "text": "\\(36 {p}^{2} - 49 {q}^{2}\\)",
+      "math": [
+        "36 {p}^{2} - 49 {q}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>36</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>49</mn>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>36</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>49</mn>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 187,
+      "anchor": "fs-id1167830964523",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Differences of Squares",
+        "In the following exercises, factor completely using the difference of squares pattern, if possible."
+      ],
+      "text": "\\(16 {z}^{4} - 1\\)",
+      "math": [
+        "16 {z}^{4} - 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>16</mn>\n          <msup>\n            <mi>z</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>16</mn>\n          <msup>\n            <mi>z</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 188,
+      "anchor": "fs-id1167826870097",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Differences of Squares",
+        "In the following exercises, factor completely using the difference of squares pattern, if possible."
+      ],
+      "text": "\\({m}^{4} - {n}^{4}\\)",
+      "math": [
+        "{m}^{4} - {n}^{4}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>m</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>−</mo>\n          <msup>\n            <mi>n</mi>\n            <mn>4</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>m</mi>\n            <mn>4</mn>\n          </msup>\n          <mo>−</mo>\n          <msup>\n            <mi>n</mi>\n            <mn>4</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 189,
+      "anchor": "fs-id1167834066085",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Differences of Squares",
+        "In the following exercises, factor completely using the difference of squares pattern, if possible."
+      ],
+      "text": "\\(162 {a}^{4} {b}^{2} - 32 {b}^{2}\\)",
+      "math": [
+        "162 {a}^{4} {b}^{2} - 32 {b}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>162</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>4</mn>\n          </msup>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>32</mn>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>162</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>4</mn>\n          </msup>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>32</mn>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 190,
+      "anchor": "fs-id1167832057284",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Differences of Squares",
+        "In the following exercises, factor completely using the difference of squares pattern, if possible."
+      ],
+      "text": "\\(48 {m}^{4} {n}^{2} - 243 {n}^{2}\\)",
+      "math": [
+        "48 {m}^{4} {n}^{2} - 243 {n}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>48</mn>\n          <msup>\n            <mi>m</mi>\n            <mn>4</mn>\n          </msup>\n          <msup>\n            <mi>n</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>243</mn>\n          <msup>\n            <mi>n</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>48</mn>\n          <msup>\n            <mi>m</mi>\n            <mn>4</mn>\n          </msup>\n          <msup>\n            <mi>n</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>243</mn>\n          <msup>\n            <mi>n</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 191,
+      "anchor": "fs-id1167832220574",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Differences of Squares",
+        "In the following exercises, factor completely using the difference of squares pattern, if possible."
+      ],
+      "text": "\\({x}^{2} - 16 x + 64 - {y}^{2}\\)",
+      "math": [
+        "{x}^{2} - 16 x + 64 - {y}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>16</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>64</mn>\n          <mo>−</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>16</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>64</mn>\n          <mo>−</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 192,
+      "anchor": "fs-id1167831852240",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Differences of Squares",
+        "In the following exercises, factor completely using the difference of squares pattern, if possible."
+      ],
+      "text": "\\({p}^{2} + 14 p + 49 - {q}^{2}\\)",
+      "math": [
+        "{p}^{2} + 14 p + 49 - {q}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>14</mn>\n          <mi>p</mi>\n          <mo>+</mo>\n          <mn>49</mn>\n          <mo>−</mo>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>14</mn>\n          <mi>p</mi>\n          <mo>+</mo>\n          <mn>49</mn>\n          <mo>−</mo>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 193,
+      "anchor": "fs-id1167835518428",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Differences of Squares",
+        "In the following exercises, factor completely using the difference of squares pattern, if possible."
+      ],
+      "text": "\\({a}^{2} + 6 a + 9 - 9 {b}^{2}\\)",
+      "math": [
+        "{a}^{2} + 6 a + 9 - 9 {b}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>a</mi>\n          <mo>+</mo>\n          <mn>9</mn>\n          <mo>−</mo>\n          <mn>9</mn>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>6</mn>\n          <mi>a</mi>\n          <mo>+</mo>\n          <mn>9</mn>\n          <mo>−</mo>\n          <mn>9</mn>\n          <msup>\n            <mi>b</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 194,
+      "anchor": "fs-id1167832058574",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Differences of Squares",
+        "In the following exercises, factor completely using the difference of squares pattern, if possible."
+      ],
+      "text": "\\({m}^{2} - 6 m + 9 - 16 {n}^{2}\\)",
+      "math": [
+        "{m}^{2} - 6 m + 9 - 16 {n}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>m</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>m</mi>\n          <mo>+</mo>\n          <mn>9</mn>\n          <mo>−</mo>\n          <mn>16</mn>\n          <msup>\n            <mi>n</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>m</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>6</mn>\n          <mi>m</mi>\n          <mo>+</mo>\n          <mn>9</mn>\n          <mo>−</mo>\n          <mn>16</mn>\n          <msup>\n            <mi>n</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 195,
+      "anchor": "fs-id1167835531578",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Sums and Differences of Cubes",
+        "In the following exercises, factor completely using the sums and differences of cubes pattern, if possible."
+      ],
+      "text": "\\({x}^{3} + 125\\)",
+      "math": [
+        "{x}^{3} + 125"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>125</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>125</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 196,
+      "anchor": "fs-id1167834059830",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Sums and Differences of Cubes",
+        "In the following exercises, factor completely using the sums and differences of cubes pattern, if possible."
+      ],
+      "text": "\\({n}^{6} + 512\\)",
+      "math": [
+        "{n}^{6} + 512"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>n</mi>\n            <mn>6</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>512</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>n</mi>\n            <mn>6</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>512</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 197,
+      "anchor": "fs-id1167826873686",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Sums and Differences of Cubes",
+        "In the following exercises, factor completely using the sums and differences of cubes pattern, if possible."
+      ],
+      "text": "\\({z}^{6} - 27\\)",
+      "math": [
+        "{z}^{6} - 27"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>z</mi>\n            <mn>6</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>27</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>z</mi>\n            <mn>6</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>27</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 198,
+      "anchor": "fs-id1167826781270",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Sums and Differences of Cubes",
+        "In the following exercises, factor completely using the sums and differences of cubes pattern, if possible."
+      ],
+      "text": "\\({v}^{3} - 216\\)",
+      "math": [
+        "{v}^{3} - 216"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>v</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>216</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>v</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>216</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 199,
+      "anchor": "fs-id1167826978324",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Sums and Differences of Cubes",
+        "In the following exercises, factor completely using the sums and differences of cubes pattern, if possible."
+      ],
+      "text": "\\(8 - 343 {t}^{3}\\)",
+      "math": [
+        "8 - 343 {t}^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>8</mn>\n          <mo>−</mo>\n          <mn>343</mn>\n          <msup>\n            <mi>t</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>8</mn>\n          <mo>−</mo>\n          <mn>343</mn>\n          <msup>\n            <mi>t</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 200,
+      "anchor": "fs-id1167831894684",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Sums and Differences of Cubes",
+        "In the following exercises, factor completely using the sums and differences of cubes pattern, if possible."
+      ],
+      "text": "\\(125 - 27 {w}^{3}\\)",
+      "math": [
+        "125 - 27 {w}^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>125</mn>\n          <mo>−</mo>\n          <mn>27</mn>\n          <msup>\n            <mi>w</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>125</mn>\n          <mo>−</mo>\n          <mn>27</mn>\n          <msup>\n            <mi>w</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 201,
+      "anchor": "fs-id1167835216068",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Sums and Differences of Cubes",
+        "In the following exercises, factor completely using the sums and differences of cubes pattern, if possible."
+      ],
+      "text": "\\(8 {y}^{3} - 125 {z}^{3}\\)",
+      "math": [
+        "8 {y}^{3} - 125 {z}^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>8</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>125</mn>\n          <msup>\n            <mi>z</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>8</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>125</mn>\n          <msup>\n            <mi>z</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 202,
+      "anchor": "fs-id1167828447087",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Sums and Differences of Cubes",
+        "In the following exercises, factor completely using the sums and differences of cubes pattern, if possible."
+      ],
+      "text": "\\(27 {x}^{3} - 64 {y}^{3}\\)",
+      "math": [
+        "27 {x}^{3} - 64 {y}^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>27</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>64</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>27</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>64</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 203,
+      "anchor": "fs-id1167831832556",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Sums and Differences of Cubes",
+        "In the following exercises, factor completely using the sums and differences of cubes pattern, if possible."
+      ],
+      "text": "\\(216 {a}^{3} + 125 {b}^{3}\\)",
+      "math": [
+        "216 {a}^{3} + 125 {b}^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>216</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>125</mn>\n          <msup>\n            <mi>b</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>216</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>125</mn>\n          <msup>\n            <mi>b</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 204,
+      "anchor": "fs-id1167834098812",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Sums and Differences of Cubes",
+        "In the following exercises, factor completely using the sums and differences of cubes pattern, if possible."
+      ],
+      "text": "\\(27 {y}^{3} + 8 {z}^{3}\\)",
+      "math": [
+        "27 {y}^{3} + 8 {z}^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>27</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <msup>\n            <mi>z</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>27</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <msup>\n            <mi>z</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 205,
+      "anchor": "fs-id1167834562510",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Sums and Differences of Cubes",
+        "In the following exercises, factor completely using the sums and differences of cubes pattern, if possible."
+      ],
+      "text": "\\(7 {k}^{3} + 56\\)",
+      "math": [
+        "7 {k}^{3} + 56"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>7</mn>\n          <msup>\n            <mi>k</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>56</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>7</mn>\n          <msup>\n            <mi>k</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>56</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 206,
+      "anchor": "fs-id1167834556928",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Sums and Differences of Cubes",
+        "In the following exercises, factor completely using the sums and differences of cubes pattern, if possible."
+      ],
+      "text": "\\(6 {x}^{3} - 48 {y}^{3}\\)",
+      "math": [
+        "6 {x}^{3} - 48 {y}^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>6</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>48</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>6</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>48</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 207,
+      "anchor": "fs-id1167831883770",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Sums and Differences of Cubes",
+        "In the following exercises, factor completely using the sums and differences of cubes pattern, if possible."
+      ],
+      "text": "\\(2 {x}^{2} - 16 {x}^{2} {y}^{3}\\)",
+      "math": [
+        "2 {x}^{2} - 16 {x}^{2} {y}^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>16</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>16</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 208,
+      "anchor": "fs-id1167835325286",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Sums and Differences of Cubes",
+        "In the following exercises, factor completely using the sums and differences of cubes pattern, if possible."
+      ],
+      "text": "\\(-2 {x}^{3} {y}^{2} - 16 {y}^{5}\\)",
+      "math": [
+        "-2 {x}^{3} {y}^{2} - 16 {y}^{5}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>−2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>16</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>5</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>−2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>16</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>5</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 209,
+      "anchor": "fs-id1167834373428",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Sums and Differences of Cubes",
+        "In the following exercises, factor completely using the sums and differences of cubes pattern, if possible."
+      ],
+      "text": "\\({ ( x + 3 ) }^{3} + 8 {x}^{3}\\)",
+      "math": [
+        "{ ( x + 3 ) }^{3} + 8 {x}^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 210,
+      "anchor": "fs-id1167831071390",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Sums and Differences of Cubes",
+        "In the following exercises, factor completely using the sums and differences of cubes pattern, if possible."
+      ],
+      "text": "\\({ ( x + 4 ) }^{3} - 27 {x}^{3}\\)",
+      "math": [
+        "{ ( x + 4 ) }^{3} - 27 {x}^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>27</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>27</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 211,
+      "anchor": "fs-id1167834535070",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Sums and Differences of Cubes",
+        "In the following exercises, factor completely using the sums and differences of cubes pattern, if possible."
+      ],
+      "text": "\\({ ( y - 5 ) }^{3} - 64 {y}^{3}\\)",
+      "math": [
+        "{ ( y - 5 ) }^{3} - 64 {y}^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>64</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>64</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 212,
+      "anchor": "fs-id1167832067655",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Factor Sums and Differences of Cubes",
+        "In the following exercises, factor completely using the sums and differences of cubes pattern, if possible."
+      ],
+      "text": "\\({ ( y - 5 ) }^{3} + 125 {y}^{3}\\)",
+      "math": [
+        "{ ( y - 5 ) }^{3} + 125 {y}^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>125</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>125</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 213,
+      "anchor": "fs-id1167831116314",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(64 {a}^{2} - 25\\)",
+      "math": [
+        "64 {a}^{2} - 25"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>64</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>25</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>64</mn>\n          <msup>\n            <mi>a</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>25</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 214,
+      "anchor": "fs-id1167831958100",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(121 {x}^{2} - 144\\)",
+      "math": [
+        "121 {x}^{2} - 144"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>121</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>144</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>121</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>144</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 215,
+      "anchor": "fs-id1167835509468",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(27 {q}^{2} - 3\\)",
+      "math": [
+        "27 {q}^{2} - 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>27</mn>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>27</mn>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 216,
+      "anchor": "fs-id1167835357654",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(4 {p}^{2} - 100\\)",
+      "math": [
+        "4 {p}^{2} - 100"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>100</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>4</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>100</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 217,
+      "anchor": "fs-id1167831921204",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(16 {x}^{2} - 72 x + 81\\)",
+      "math": [
+        "16 {x}^{2} - 72 x + 81"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>16</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>72</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>81</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>16</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>72</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>81</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 218,
+      "anchor": "fs-id1167831949022",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(36 {y}^{2} + 12 y + 1\\)",
+      "math": [
+        "36 {y}^{2} + 12 y + 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>36</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>36</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mi>y</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 219,
+      "anchor": "fs-id1167835621469",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(8 {p}^{2} + 2\\)",
+      "math": [
+        "8 {p}^{2} + 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>8</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>8</mn>\n          <msup>\n            <mi>p</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 220,
+      "anchor": "fs-id1167826873436",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(81 {x}^{2} + 169\\)",
+      "math": [
+        "81 {x}^{2} + 169"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>81</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>169</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>81</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>169</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 221,
+      "anchor": "fs-id1167835510252",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(125 - 8 {y}^{3}\\)",
+      "math": [
+        "125 - 8 {y}^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>125</mn>\n          <mo>−</mo>\n          <mn>8</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>125</mn>\n          <mo>−</mo>\n          <mn>8</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 222,
+      "anchor": "fs-id1167826864191",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(27 {u}^{3} + 1000\\)",
+      "math": [
+        "27 {u}^{3} + 1000"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>27</mn>\n          <msup>\n            <mi>u</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>1000</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>27</mn>\n          <msup>\n            <mi>u</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>1000</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 223,
+      "anchor": "fs-id1167830700659",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(45 {n}^{2} + 60 n + 20\\)",
+      "math": [
+        "45 {n}^{2} + 60 n + 20"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>45</mn>\n          <msup>\n            <mi>n</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>60</mn>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mn>20</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>45</mn>\n          <msup>\n            <mi>n</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>60</mn>\n          <mi>n</mi>\n          <mo>+</mo>\n          <mn>20</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 224,
+      "anchor": "fs-id1167826873718",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\(48 {q}^{3} - 24 {q}^{2} + 3 q\\)",
+      "math": [
+        "48 {q}^{3} - 24 {q}^{2} + 3 q"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mn>48</mn>\n          <msup>\n            <mi>q</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>24</mn>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mi>q</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mn>48</mn>\n          <msup>\n            <mi>q</mi>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>24</mn>\n          <msup>\n            <mi>q</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>3</mn>\n          <mi>q</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 225,
+      "anchor": "fs-id1167826799330",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\({x}^{2} - 10 x + 25 - {y}^{2}\\)",
+      "math": [
+        "{x}^{2} - 10 x + 25 - {y}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>10</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>25</mn>\n          <mo>−</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>10</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>25</mn>\n          <mo>−</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 226,
+      "anchor": "fs-id1167835319121",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\({x}^{2} + 12 x + 36 - {y}^{2}\\)",
+      "math": [
+        "{x}^{2} + 12 x + 36 - {y}^{2}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>36</mn>\n          <mo>−</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>12</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>36</mn>\n          <mo>−</mo>\n          <msup>\n            <mi>y</mi>\n            <mn>2</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 227,
+      "anchor": "fs-id1167832152607",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\({ ( x + 1 ) }^{3} + 8 {x}^{3}\\)",
+      "math": [
+        "{ ( x + 1 ) }^{3} + 8 {x}^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>3</mn>\n          </msup>\n          <mo>+</mo>\n          <mn>8</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 228,
+      "anchor": "fs-id1167828426665",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Mixed Practice",
+        "In the following exercises, factor completely."
+      ],
+      "text": "\\({ ( y - 3 ) }^{3} - 64 {y}^{3}\\)",
+      "math": [
+        "{ ( y - 3 ) }^{3} - 64 {y}^{3}"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>64</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <msup>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mn>3</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>64</mn>\n          <msup>\n            <mi>y</mi>\n            <mn>3</mn>\n          </msup>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 229,
+      "anchor": "fs-id1167834394383",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Why was it important to practice using the binomial squares pattern in the chapter on multiplying polynomials?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 230,
+      "anchor": "fs-id1167834394400",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "How do you recognize the binomial squares pattern?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 231,
+      "anchor": "fs-id1167831117390",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Explain why \\({n}^{2}+25\\ne {(n+5)}^{2}.\\) Use algebra, words, or pictures.",
+      "math": [
+        "{n}^{2}+25\\ne {(n+5)}^{2}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>n</mi><mn>2</mn></msup><mo>+</mo><mn>25</mn><mo>≠</mo><msup><mrow><mo stretchy=\"false\">(</mo><mi>n</mi><mo>+</mo><mn>5</mn><mo stretchy=\"false\">)</mo></mrow><mn>2</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>n</mi><mn>2</mn></msup><mo>+</mo><mn>25</mn><mo>≠</mo><msup><mrow><mo stretchy=\"false\">(</mo><mi>n</mi><mo>+</mo><mn>5</mn><mo stretchy=\"false\">)</mo></mrow><mn>2</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 232,
+      "anchor": "fs-id1167834525255",
+      "page": "6-3-factor-special-products",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Maribel factored \\({y}^{2}-30y+81\\) as \\({(y-9)}^{2}.\\) Was she right or wrong? How do you know?",
+      "math": [
+        "{y}^{2}-30y+81",
+        "{(y-9)}^{2}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>30</mn><mi>y</mi><mo>+</mo><mn>81</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>30</mn><mi>y</mi><mo>+</mo><mn>81</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mo stretchy=\"false\">(</mo><mi>y</mi><mo>−</mo><mn>9</mn><mo stretchy=\"false\">)</mo></mrow><mn>2</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mo stretchy=\"false\">(</mo><mi>y</mi><mo>−</mo><mn>9</mn><mo stretchy=\"false\">)</mo></mrow><mn>2</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "6.45",
+      "page": "6-3-factor-special-products",
+      "is_try_it": true,
+      "anchor": "fs-id1167835370672",
+      "context": [
+        "Factor Perfect Square Trinomials"
+      ],
+      "text": "Factor: \\(4{x}^{2}+12x+9.\\)",
+      "math": [
+        "4{x}^{2}+12x+9."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>12</mn><mi>x</mi><mo>+</mo><mn>9</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>12</mn><mi>x</mi><mo>+</mo><mn>9</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.46",
+      "page": "6-3-factor-special-products",
+      "is_try_it": true,
+      "anchor": "fs-id1167831883553",
+      "context": [
+        "Factor Perfect Square Trinomials"
+      ],
+      "text": "Factor: \\(9{y}^{2}+24y+16.\\)",
+      "math": [
+        "9{y}^{2}+24y+16."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>9</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>24</mn><mi>y</mi><mo>+</mo><mn>16</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>9</mn><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>24</mn><mi>y</mi><mo>+</mo><mn>16</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.47",
+      "page": "6-3-factor-special-products",
+      "is_try_it": true,
+      "anchor": "fs-id1167835257249",
+      "context": [
+        "Factor Perfect Square Trinomials"
+      ],
+      "text": "Factor: \\(64{y}^{2}-80y+25.\\)",
+      "math": [
+        "64{y}^{2}-80y+25."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>64</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>80</mn><mi>y</mi><mo>+</mo><mn>25</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>64</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>80</mn><mi>y</mi><mo>+</mo><mn>25</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.48",
+      "page": "6-3-factor-special-products",
+      "is_try_it": true,
+      "anchor": "fs-id1167832152848",
+      "context": [
+        "Factor Perfect Square Trinomials"
+      ],
+      "text": "Factor: \\(16{z}^{2}-72z+81.\\)",
+      "math": [
+        "16{z}^{2}-72z+81."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>16</mn><msup><mi>z</mi><mn>2</mn></msup><mo>−</mo><mn>72</mn><mi>z</mi><mo>+</mo><mn>81</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>16</mn><msup><mi>z</mi><mn>2</mn></msup><mo>−</mo><mn>72</mn><mi>z</mi><mo>+</mo><mn>81</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.49",
+      "page": "6-3-factor-special-products",
+      "is_try_it": true,
+      "anchor": "fs-id1167835371362",
+      "context": [
+        "Factor Perfect Square Trinomials"
+      ],
+      "text": "Factor: \\(49{x}^{2}+84xy+36{y}^{2}.\\)",
+      "math": [
+        "49{x}^{2}+84xy+36{y}^{2}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>49</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>84</mn><mi>x</mi><mi>y</mi><mo>+</mo><mn>36</mn><msup><mi>y</mi><mn>2</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>49</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>84</mn><mi>x</mi><mi>y</mi><mo>+</mo><mn>36</mn><msup><mi>y</mi><mn>2</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.50",
+      "page": "6-3-factor-special-products",
+      "is_try_it": true,
+      "anchor": "fs-id1167832057915",
+      "context": [
+        "Factor Perfect Square Trinomials"
+      ],
+      "text": "Factor: \\(64{m}^{2}+112mn+49{n}^{2}.\\)",
+      "math": [
+        "64{m}^{2}+112mn+49{n}^{2}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>64</mn><msup><mi>m</mi><mn>2</mn></msup><mo>+</mo><mn>112</mn><mi>m</mi><mi>n</mi><mo>+</mo><mn>49</mn><msup><mi>n</mi><mn>2</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>64</mn><msup><mi>m</mi><mn>2</mn></msup><mo>+</mo><mn>112</mn><mi>m</mi><mi>n</mi><mo>+</mo><mn>49</mn><msup><mi>n</mi><mn>2</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.51",
+      "page": "6-3-factor-special-products",
+      "is_try_it": true,
+      "anchor": "fs-id1167835348534",
+      "context": [
+        "Factor Perfect Square Trinomials"
+      ],
+      "text": "Factor: \\(8{x}^{2}y-24xy+18y.\\)",
+      "math": [
+        "8{x}^{2}y-24xy+18y."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>8</mn><msup><mi>x</mi><mn>2</mn></msup><mi>y</mi><mo>−</mo><mn>24</mn><mi>x</mi><mi>y</mi><mo>+</mo><mn>18</mn><mi>y</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>8</mn><msup><mi>x</mi><mn>2</mn></msup><mi>y</mi><mo>−</mo><mn>24</mn><mi>x</mi><mi>y</mi><mo>+</mo><mn>18</mn><mi>y</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.52",
+      "page": "6-3-factor-special-products",
+      "is_try_it": true,
+      "anchor": "fs-id1167835190713",
+      "context": [
+        "Factor Perfect Square Trinomials"
+      ],
+      "text": "Factor: \\(27{p}^{2}q+90pq+75q.\\)",
+      "math": [
+        "27{p}^{2}q+90pq+75q."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>27</mn><msup><mi>p</mi><mn>2</mn></msup><mi>q</mi><mo>+</mo><mn>90</mn><mi>p</mi><mi>q</mi><mo>+</mo><mn>75</mn><mi>q</mi><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>27</mn><msup><mi>p</mi><mn>2</mn></msup><mi>q</mi><mo>+</mo><mn>90</mn><mi>p</mi><mi>q</mi><mo>+</mo><mn>75</mn><mi>q</mi><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.53",
+      "page": "6-3-factor-special-products",
+      "is_try_it": true,
+      "anchor": "fs-id1167834130741",
+      "context": [
+        "Factor Differences of Squares"
+      ],
+      "text": "Factor: \\(121{m}^{2}-1.\\)",
+      "math": [
+        "121{m}^{2}-1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>121</mn><msup><mi>m</mi><mn>2</mn></msup><mo>−</mo><mn>1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>121</mn><msup><mi>m</mi><mn>2</mn></msup><mo>−</mo><mn>1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.54",
+      "page": "6-3-factor-special-products",
+      "is_try_it": true,
+      "anchor": "fs-id1167834522827",
+      "context": [
+        "Factor Differences of Squares"
+      ],
+      "text": "Factor: \\(81{y}^{2}-1.\\)",
+      "math": [
+        "81{y}^{2}-1."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>81</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>1</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>81</mn><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>1</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.55",
+      "page": "6-3-factor-special-products",
+      "is_try_it": true,
+      "anchor": "fs-id1167834397185",
+      "context": [
+        "Factor Differences of Squares"
+      ],
+      "text": "Factor: \\(196{m}^{2}-25{n}^{2}.\\)",
+      "math": [
+        "196{m}^{2}-25{n}^{2}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>196</mn><msup><mi>m</mi><mn>2</mn></msup><mo>−</mo><mn>25</mn><msup><mi>n</mi><mn>2</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>196</mn><msup><mi>m</mi><mn>2</mn></msup><mo>−</mo><mn>25</mn><msup><mi>n</mi><mn>2</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.56",
+      "page": "6-3-factor-special-products",
+      "is_try_it": true,
+      "anchor": "fs-id1167831103990",
+      "context": [
+        "Factor Differences of Squares"
+      ],
+      "text": "Factor: \\(121{p}^{2}-9{q}^{2}.\\)",
+      "math": [
+        "121{p}^{2}-9{q}^{2}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>121</mn><msup><mi>p</mi><mn>2</mn></msup><mo>−</mo><mn>9</mn><msup><mi>q</mi><mn>2</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>121</mn><msup><mi>p</mi><mn>2</mn></msup><mo>−</mo><mn>9</mn><msup><mi>q</mi><mn>2</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.57",
+      "page": "6-3-factor-special-products",
+      "is_try_it": true,
+      "anchor": "fs-id1167834423136",
+      "context": [
+        "Factor Differences of Squares"
+      ],
+      "text": "Factor: \\(2{x}^{4}{y}^{2}-32{y}^{2}.\\)",
+      "math": [
+        "2{x}^{4}{y}^{2}-32{y}^{2}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><msup><mi>x</mi><mn>4</mn></msup><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>32</mn><msup><mi>y</mi><mn>2</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><msup><mi>x</mi><mn>4</mn></msup><msup><mi>y</mi><mn>2</mn></msup><mo>−</mo><mn>32</mn><msup><mi>y</mi><mn>2</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.58",
+      "page": "6-3-factor-special-products",
+      "is_try_it": true,
+      "anchor": "fs-id1167835174151",
+      "context": [
+        "Factor Differences of Squares"
+      ],
+      "text": "Factor: \\(7{a}^{4}{c}^{2}-7{b}^{4}{c}^{2}.\\)",
+      "math": [
+        "7{a}^{4}{c}^{2}-7{b}^{4}{c}^{2}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>7</mn><msup><mi>a</mi><mn>4</mn></msup><msup><mi>c</mi><mn>2</mn></msup><mo>−</mo><mn>7</mn><msup><mi>b</mi><mn>4</mn></msup><msup><mi>c</mi><mn>2</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>7</mn><msup><mi>a</mi><mn>4</mn></msup><msup><mi>c</mi><mn>2</mn></msup><mo>−</mo><mn>7</mn><msup><mi>b</mi><mn>4</mn></msup><msup><mi>c</mi><mn>2</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.59",
+      "page": "6-3-factor-special-products",
+      "is_try_it": true,
+      "anchor": "fs-id1167832041469",
+      "context": [
+        "Factor Differences of Squares"
+      ],
+      "text": "Factor: \\({x}^{2}-10x+25-{y}^{2}.\\)",
+      "math": [
+        "{x}^{2}-10x+25-{y}^{2}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>10</mn><mi>x</mi><mo>+</mo><mn>25</mn><mo>−</mo><msup><mi>y</mi><mn>2</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>10</mn><mi>x</mi><mo>+</mo><mn>25</mn><mo>−</mo><msup><mi>y</mi><mn>2</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.60",
+      "page": "6-3-factor-special-products",
+      "is_try_it": true,
+      "anchor": "fs-id1167828434986",
+      "context": [
+        "Factor Differences of Squares"
+      ],
+      "text": "Factor: \\({x}^{2}+6x+9-4{y}^{2}.\\)",
+      "math": [
+        "{x}^{2}+6x+9-4{y}^{2}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn><mi>x</mi><mo>+</mo><mn>9</mn><mo>−</mo><mn>4</mn><msup><mi>y</mi><mn>2</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn><mi>x</mi><mo>+</mo><mn>9</mn><mo>−</mo><mn>4</mn><msup><mi>y</mi><mn>2</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.61",
+      "page": "6-3-factor-special-products",
+      "is_try_it": true,
+      "anchor": "fs-id1167826801879",
+      "context": [
+        "Factor Sums and Differences of Cubes"
+      ],
+      "text": "Factor: \\({x}^{3}+27.\\)",
+      "math": [
+        "{x}^{3}+27."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mn>27</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>x</mi><mn>3</mn></msup><mo>+</mo><mn>27</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.62",
+      "page": "6-3-factor-special-products",
+      "is_try_it": true,
+      "anchor": "fs-id1167835368095",
+      "context": [
+        "Factor Sums and Differences of Cubes"
+      ],
+      "text": "Factor: \\({y}^{3}+8.\\)",
+      "math": [
+        "{y}^{3}+8."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>y</mi><mn>3</mn></msup><mo>+</mo><mn>8</mn><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>y</mi><mn>3</mn></msup><mo>+</mo><mn>8</mn><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.63",
+      "page": "6-3-factor-special-products",
+      "is_try_it": true,
+      "anchor": "fs-id1167834345963",
+      "context": [
+        "Factor Sums and Differences of Cubes"
+      ],
+      "text": "Factor: \\(8{x}^{3}-27{y}^{3}.\\)",
+      "math": [
+        "8{x}^{3}-27{y}^{3}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>8</mn><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>27</mn><msup><mi>y</mi><mn>3</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>8</mn><msup><mi>x</mi><mn>3</mn></msup><mo>−</mo><mn>27</mn><msup><mi>y</mi><mn>3</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.64",
+      "page": "6-3-factor-special-products",
+      "is_try_it": true,
+      "anchor": "fs-id1167831040260",
+      "context": [
+        "Factor Sums and Differences of Cubes"
+      ],
+      "text": "Factor: \\(1000{m}^{3}-125{n}^{3}.\\)",
+      "math": [
+        "1000{m}^{3}-125{n}^{3}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>1000</mn><msup><mi>m</mi><mn>3</mn></msup><mo>−</mo><mn>125</mn><msup><mi>n</mi><mn>3</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>1000</mn><msup><mi>m</mi><mn>3</mn></msup><mo>−</mo><mn>125</mn><msup><mi>n</mi><mn>3</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.65",
+      "page": "6-3-factor-special-products",
+      "is_try_it": true,
+      "anchor": "fs-id1167832010236",
+      "context": [
+        "Factor Sums and Differences of Cubes"
+      ],
+      "text": "Factor: \\(500{p}^{3}+4{q}^{3}.\\)",
+      "math": [
+        "500{p}^{3}+4{q}^{3}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>500</mn><msup><mi>p</mi><mn>3</mn></msup><mo>+</mo><mn>4</mn><msup><mi>q</mi><mn>3</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>500</mn><msup><mi>p</mi><mn>3</mn></msup><mo>+</mo><mn>4</mn><msup><mi>q</mi><mn>3</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.66",
+      "page": "6-3-factor-special-products",
+      "is_try_it": true,
+      "anchor": "fs-id1167828436492",
+      "context": [
+        "Factor Sums and Differences of Cubes"
+      ],
+      "text": "Factor: \\(432{c}^{3}+686{d}^{3}.\\)",
+      "math": [
+        "432{c}^{3}+686{d}^{3}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>432</mn><msup><mi>c</mi><mn>3</mn></msup><mo>+</mo><mn>686</mn><msup><mi>d</mi><mn>3</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>432</mn><msup><mi>c</mi><mn>3</mn></msup><mo>+</mo><mn>686</mn><msup><mi>d</mi><mn>3</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.67",
+      "page": "6-3-factor-special-products",
+      "is_try_it": true,
+      "anchor": "fs-id1167831825663",
+      "context": [
+        "Factor Sums and Differences of Cubes"
+      ],
+      "text": "Factor: \\({(y+1)}^{3}-27{y}^{3}.\\)",
+      "math": [
+        "{(y+1)}^{3}-27{y}^{3}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow><mn>3</mn></msup><mo>−</mo><mn>27</mn><msup><mi>y</mi><mn>3</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>y</mi><mo>+</mo><mn>1</mn></mrow><mo>)</mo></mrow></mrow><mn>3</mn></msup><mo>−</mo><mn>27</mn><msup><mi>y</mi><mn>3</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "6.68",
+      "page": "6-3-factor-special-products",
+      "is_try_it": true,
+      "anchor": "fs-id1167827967119",
+      "context": [
+        "Factor Sums and Differences of Cubes"
+      ],
+      "text": "Factor: \\({(n+3)}^{3}-125{n}^{3}.\\)",
+      "math": [
+        "{(n+3)}^{3}-125{n}^{3}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>n</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>3</mn></msup><mo>−</mo><mn>125</mn><msup><mi>n</mi><mn>3</mn></msup><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mrow><mrow><mo>(</mo><mrow><mi>n</mi><mo>+</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mn>3</mn></msup><mo>−</mo><mn>125</mn><msup><mi>n</mi><mn>3</mn></msup><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

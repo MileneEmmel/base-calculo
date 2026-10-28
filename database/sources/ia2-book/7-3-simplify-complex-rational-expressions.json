@@ -1,0 +1,1098 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/7-3-simplify-complex-rational-expressions",
+  "title": "7.3 Simplify Complex Rational Expressions",
+  "sha256": "33024e1e976602545f0a6128af2b450a27e06de03e527f551730c1f89d9597f6",
+  "questions": [
+    {
+      "number": 151,
+      "anchor": "fs-id1167835378752",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Writing it as Division",
+        "In the following exercises, simplify each complex rational expression by writing it as division."
+      ],
+      "text": "\\(\\frac{ \\frac{ 2 a }{ a + 4 } }{ \\frac{ 4 {a}^{2} }{ {a}^{2} - 16 } }\\)",
+      "math": [
+        "\\frac{ \\frac{ 2 a }{ a + 4 } }{ \\frac{ 4 {a}^{2} }{ {a}^{2} - 16 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <mn>2</mn>\n                  <mi>a</mi>\n                </mrow>\n                <mrow>\n                  <mi>a</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <mn>4</mn>\n                  <msup>\n                    <mi>a</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n                <mrow>\n                  <msup>\n                    <mi>a</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>16</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <mn>2</mn>\n                  <mi>a</mi>\n                </mrow>\n                <mrow>\n                  <mi>a</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <mn>4</mn>\n                  <msup>\n                    <mi>a</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n                <mrow>\n                  <msup>\n                    <mi>a</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>16</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 152,
+      "anchor": "fs-id1167834430061",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Writing it as Division",
+        "In the following exercises, simplify each complex rational expression by writing it as division."
+      ],
+      "text": "\\(\\frac{ \\frac{ 3 b }{ b - 5 } }{ \\frac{ {b}^{2} }{ {b}^{2} - 25 } }\\)",
+      "math": [
+        "\\frac{ \\frac{ 3 b }{ b - 5 } }{ \\frac{ {b}^{2} }{ {b}^{2} - 25 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <mn>3</mn>\n                  <mi>b</mi>\n                </mrow>\n                <mrow>\n                  <mi>b</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <msup>\n                    <mi>b</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n                <mrow>\n                  <msup>\n                    <mi>b</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>25</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <mn>3</mn>\n                  <mi>b</mi>\n                </mrow>\n                <mrow>\n                  <mi>b</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <msup>\n                    <mi>b</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n                <mrow>\n                  <msup>\n                    <mi>b</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>25</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 153,
+      "anchor": "fs-id1167834536678",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Writing it as Division",
+        "In the following exercises, simplify each complex rational expression by writing it as division."
+      ],
+      "text": "\\(\\frac{ \\frac{5}{ {c}^{2} + 5 c - 14 } }{ \\frac{ 10 }{ c + 7 } }\\)",
+      "math": [
+        "\\frac{ \\frac{5}{ {c}^{2} + 5 c - 14 } }{ \\frac{ 10 }{ c + 7 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>5</mn>\n                <mrow>\n                  <msup>\n                    <mi>c</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                  <mi>c</mi>\n                  <mo>−</mo>\n                  <mn>14</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <mn>10</mn>\n                </mrow>\n                <mrow>\n                  <mi>c</mi>\n                  <mo>+</mo>\n                  <mn>7</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>5</mn>\n                <mrow>\n                  <msup>\n                    <mi>c</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                  <mi>c</mi>\n                  <mo>−</mo>\n                  <mn>14</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <mn>10</mn>\n                </mrow>\n                <mrow>\n                  <mi>c</mi>\n                  <mo>+</mo>\n                  <mn>7</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 154,
+      "anchor": "fs-id1167835320086",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Writing it as Division",
+        "In the following exercises, simplify each complex rational expression by writing it as division."
+      ],
+      "text": "\\(\\frac{ \\frac{8}{ {d}^{2} + 9 d + 18 } }{ \\frac{ 12 }{ d + 6 } }\\)",
+      "math": [
+        "\\frac{ \\frac{8}{ {d}^{2} + 9 d + 18 } }{ \\frac{ 12 }{ d + 6 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>8</mn>\n                <mrow>\n                  <msup>\n                    <mi>d</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <mn>9</mn>\n                  <mi>d</mi>\n                  <mo>+</mo>\n                  <mn>18</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <mn>12</mn>\n                </mrow>\n                <mrow>\n                  <mi>d</mi>\n                  <mo>+</mo>\n                  <mn>6</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>8</mn>\n                <mrow>\n                  <msup>\n                    <mi>d</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <mn>9</mn>\n                  <mi>d</mi>\n                  <mo>+</mo>\n                  <mn>18</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <mn>12</mn>\n                </mrow>\n                <mrow>\n                  <mi>d</mi>\n                  <mo>+</mo>\n                  <mn>6</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 155,
+      "anchor": "fs-id1167834340141",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Writing it as Division",
+        "In the following exercises, simplify each complex rational expression by writing it as division."
+      ],
+      "text": "\\(\\frac{ \\frac{1}{2} + \\frac{5}{6} }{ \\frac{2}{3} + \\frac{7}{9} }\\)",
+      "math": [
+        "\\frac{ \\frac{1}{2} + \\frac{5}{6} }{ \\frac{2}{3} + \\frac{7}{9} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>2</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>5</mn>\n                <mn>6</mn>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mn>3</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>7</mn>\n                <mn>9</mn>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>2</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>5</mn>\n                <mn>6</mn>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mn>3</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>7</mn>\n                <mn>9</mn>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 156,
+      "anchor": "fs-id1167834156636",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Writing it as Division",
+        "In the following exercises, simplify each complex rational expression by writing it as division."
+      ],
+      "text": "\\(\\frac{ \\frac{1}{2} + \\frac{3}{4} }{ \\frac{3}{5} + \\frac{7}{ 10 } }\\)",
+      "math": [
+        "\\frac{ \\frac{1}{2} + \\frac{3}{4} }{ \\frac{3}{5} + \\frac{7}{ 10 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>2</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>3</mn>\n                <mn>4</mn>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>3</mn>\n                <mn>5</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>7</mn>\n                <mrow>\n                  <mn>10</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>2</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>3</mn>\n                <mn>4</mn>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>3</mn>\n                <mn>5</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>7</mn>\n                <mrow>\n                  <mn>10</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 157,
+      "anchor": "fs-id1167831826361",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Writing it as Division",
+        "In the following exercises, simplify each complex rational expression by writing it as division."
+      ],
+      "text": "\\(\\frac{ \\frac{2}{3} - \\frac{1}{9} }{ \\frac{3}{4} + \\frac{5}{6} }\\)",
+      "math": [
+        "\\frac{ \\frac{2}{3} - \\frac{1}{9} }{ \\frac{3}{4} + \\frac{5}{6} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mn>3</mn>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mn>9</mn>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>3</mn>\n                <mn>4</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>5</mn>\n                <mn>6</mn>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mn>3</mn>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mn>9</mn>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>3</mn>\n                <mn>4</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>5</mn>\n                <mn>6</mn>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 158,
+      "anchor": "fs-id1167835419049",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Writing it as Division",
+        "In the following exercises, simplify each complex rational expression by writing it as division."
+      ],
+      "text": "\\(\\frac{ \\frac{1}{2} - \\frac{1}{6} }{ \\frac{2}{3} + \\frac{3}{4} }\\)",
+      "math": [
+        "\\frac{ \\frac{1}{2} - \\frac{1}{6} }{ \\frac{2}{3} + \\frac{3}{4} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>2</mn>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mn>6</mn>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mn>3</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>3</mn>\n                <mn>4</mn>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>2</mn>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mn>6</mn>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mn>3</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>3</mn>\n                <mn>4</mn>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 159,
+      "anchor": "fs-id1167826781272",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Writing it as Division",
+        "In the following exercises, simplify each complex rational expression by writing it as division."
+      ],
+      "text": "\\(\\frac{ \\frac{n}{m} + \\frac{1}{n} }{ \\frac{1}{n} - \\frac{n}{m} }\\)",
+      "math": [
+        "\\frac{ \\frac{n}{m} + \\frac{1}{n} }{ \\frac{1}{n} - \\frac{n}{m} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mi>n</mi>\n                <mi>m</mi>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mi>n</mi>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mi>n</mi>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mi>n</mi>\n                <mi>m</mi>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mi>n</mi>\n                <mi>m</mi>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mi>n</mi>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mi>n</mi>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mi>n</mi>\n                <mi>m</mi>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 160,
+      "anchor": "fs-id1167835370045",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Writing it as Division",
+        "In the following exercises, simplify each complex rational expression by writing it as division."
+      ],
+      "text": "\\(\\frac{ \\frac{1}{p} + \\frac{p}{q} }{ \\frac{q}{p} - \\frac{1}{q} }\\)",
+      "math": [
+        "\\frac{ \\frac{1}{p} + \\frac{p}{q} }{ \\frac{q}{p} - \\frac{1}{q} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mi>p</mi>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mi>p</mi>\n                <mi>q</mi>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mi>q</mi>\n                <mi>p</mi>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mi>q</mi>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mi>p</mi>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mi>p</mi>\n                <mi>q</mi>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mi>q</mi>\n                <mi>p</mi>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mi>q</mi>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 161,
+      "anchor": "fs-id1167834184589",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Writing it as Division",
+        "In the following exercises, simplify each complex rational expression by writing it as division."
+      ],
+      "text": "\\(\\frac{ \\frac{1}{r} + \\frac{1}{t} }{ \\frac{1}{ {r}^{2} } - \\frac{1}{ {t}^{2} } }\\)",
+      "math": [
+        "\\frac{ \\frac{1}{r} + \\frac{1}{t} }{ \\frac{1}{ {r}^{2} } - \\frac{1}{ {t}^{2} } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mi>r</mi>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mi>t</mi>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <msup>\n                    <mi>r</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <msup>\n                    <mi>t</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mi>r</mi>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mi>t</mi>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <msup>\n                    <mi>r</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <msup>\n                    <mi>t</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 162,
+      "anchor": "fs-id1167834301178",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Writing it as Division",
+        "In the following exercises, simplify each complex rational expression by writing it as division."
+      ],
+      "text": "\\(\\frac{ \\frac{2}{v} + \\frac{2}{w} }{ \\frac{1}{ {v}^{2} } - \\frac{1}{ {w}^{2} } }\\)",
+      "math": [
+        "\\frac{ \\frac{2}{v} + \\frac{2}{w} }{ \\frac{1}{ {v}^{2} } - \\frac{1}{ {w}^{2} } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mi>v</mi>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>2</mn>\n                <mi>w</mi>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <msup>\n                    <mi>v</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <msup>\n                    <mi>w</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mi>v</mi>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>2</mn>\n                <mi>w</mi>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <msup>\n                    <mi>v</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <msup>\n                    <mi>w</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 163,
+      "anchor": "fs-id1167831884421",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Writing it as Division",
+        "In the following exercises, simplify each complex rational expression by writing it as division."
+      ],
+      "text": "\\(\\frac{ x - \\frac{ 2 x }{ x + 3 } }{ \\frac{1}{ x + 3 } + \\frac{1}{ x - 3 } }\\)",
+      "math": [
+        "\\frac{ x - \\frac{ 2 x }{ x + 3 } }{ \\frac{1}{ x + 3 } + \\frac{1}{ x - 3 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mfrac>\n                <mrow>\n                  <mn>2</mn>\n                  <mi>x</mi>\n                </mrow>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mfrac>\n                <mrow>\n                  <mn>2</mn>\n                  <mi>x</mi>\n                </mrow>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 164,
+      "anchor": "fs-id1167827988185",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Writing it as Division",
+        "In the following exercises, simplify each complex rational expression by writing it as division."
+      ],
+      "text": "\\(\\frac{ y - \\frac{ 2 y }{ y - 4 } }{ \\frac{2}{ y - 4 } + \\frac{2}{ y + 4 } }\\)",
+      "math": [
+        "\\frac{ y - \\frac{ 2 y }{ y - 4 } }{ \\frac{2}{ y - 4 } + \\frac{2}{ y + 4 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mfrac>\n                <mrow>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                </mrow>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>2</mn>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>y</mi>\n              <mo>−</mo>\n              <mfrac>\n                <mrow>\n                  <mn>2</mn>\n                  <mi>y</mi>\n                </mrow>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>2</mn>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 165,
+      "anchor": "fs-id1167835381633",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Writing it as Division",
+        "In the following exercises, simplify each complex rational expression by writing it as division."
+      ],
+      "text": "\\(\\frac{ 2 - \\frac{2}{ a + 3 } }{ \\frac{1}{ a + 3 } + \\frac{a}{2} }\\)",
+      "math": [
+        "\\frac{ 2 - \\frac{2}{ a + 3 } }{ \\frac{1}{ a + 3 } + \\frac{a}{2} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mo>−</mo>\n              <mfrac>\n                <mn>2</mn>\n                <mrow>\n                  <mi>a</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mi>a</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mi>a</mi>\n                <mn>2</mn>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mo>−</mo>\n              <mfrac>\n                <mn>2</mn>\n                <mrow>\n                  <mi>a</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mi>a</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mi>a</mi>\n                <mn>2</mn>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 166,
+      "anchor": "fs-id1167830693679",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Writing it as Division",
+        "In the following exercises, simplify each complex rational expression by writing it as division."
+      ],
+      "text": "\\(\\frac{ 4 + \\frac{4}{ b - 5 } }{ \\frac{1}{ b - 5 } + \\frac{b}{4} }\\)",
+      "math": [
+        "\\frac{ 4 + \\frac{4}{ b - 5 } }{ \\frac{1}{ b - 5 } + \\frac{b}{4} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <mo>+</mo>\n              <mfrac>\n                <mn>4</mn>\n                <mrow>\n                  <mi>b</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mi>b</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mi>b</mi>\n                <mn>4</mn>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>4</mn>\n              <mo>+</mo>\n              <mfrac>\n                <mn>4</mn>\n                <mrow>\n                  <mi>b</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mi>b</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mi>b</mi>\n                <mn>4</mn>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 167,
+      "anchor": "fs-id1167835596470",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Using the LCD",
+        "In the following exercises, simplify each complex rational expression by using the LCD."
+      ],
+      "text": "\\(\\frac{ \\frac{1}{3} + \\frac{1}{8} }{ \\frac{1}{4} + \\frac{1}{ 12 } }\\)",
+      "math": [
+        "\\frac{ \\frac{1}{3} + \\frac{1}{8} }{ \\frac{1}{4} + \\frac{1}{ 12 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mn>8</mn>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>4</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mn>12</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mn>8</mn>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>4</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mn>12</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 168,
+      "anchor": "fs-id1167834472639",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Using the LCD",
+        "In the following exercises, simplify each complex rational expression by using the LCD."
+      ],
+      "text": "\\(\\frac{ \\frac{1}{4} + \\frac{1}{9} }{ \\frac{1}{6} + \\frac{1}{ 12 } }\\)",
+      "math": [
+        "\\frac{ \\frac{1}{4} + \\frac{1}{9} }{ \\frac{1}{6} + \\frac{1}{ 12 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>4</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mn>9</mn>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>6</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mn>12</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>4</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mn>9</mn>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>6</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mn>12</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 169,
+      "anchor": "fs-id1167831920751",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Using the LCD",
+        "In the following exercises, simplify each complex rational expression by using the LCD."
+      ],
+      "text": "\\(\\frac{ \\frac{5}{6} + \\frac{2}{9} }{ \\frac{7}{ 18 } - \\frac{1}{3} }\\)",
+      "math": [
+        "\\frac{ \\frac{5}{6} + \\frac{2}{9} }{ \\frac{7}{ 18 } - \\frac{1}{3} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>5</mn>\n                <mn>6</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>2</mn>\n                <mn>9</mn>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>7</mn>\n                <mrow>\n                  <mn>18</mn>\n                </mrow>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>5</mn>\n                <mn>6</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>2</mn>\n                <mn>9</mn>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>7</mn>\n                <mrow>\n                  <mn>18</mn>\n                </mrow>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mn>3</mn>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 170,
+      "anchor": "fs-id1167831040329",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Using the LCD",
+        "In the following exercises, simplify each complex rational expression by using the LCD."
+      ],
+      "text": "\\(\\frac{ \\frac{1}{6} + \\frac{4}{ 15 } }{ \\frac{3}{5} - \\frac{1}{2} }\\)",
+      "math": [
+        "\\frac{ \\frac{1}{6} + \\frac{4}{ 15 } }{ \\frac{3}{5} - \\frac{1}{2} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>6</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>4</mn>\n                <mrow>\n                  <mn>15</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>3</mn>\n                <mn>5</mn>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mn>2</mn>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>6</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>4</mn>\n                <mrow>\n                  <mn>15</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>3</mn>\n                <mn>5</mn>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mn>2</mn>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 171,
+      "anchor": "fs-id1167835190900",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Using the LCD",
+        "In the following exercises, simplify each complex rational expression by using the LCD."
+      ],
+      "text": "\\(\\frac{ \\frac{c}{d} + \\frac{1}{d} }{ \\frac{1}{d} - \\frac{d}{c} }\\)",
+      "math": [
+        "\\frac{ \\frac{c}{d} + \\frac{1}{d} }{ \\frac{1}{d} - \\frac{d}{c} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mi>c</mi>\n                <mi>d</mi>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mi>d</mi>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mi>d</mi>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mi>d</mi>\n                <mi>c</mi>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mi>c</mi>\n                <mi>d</mi>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mi>d</mi>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mi>d</mi>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mi>d</mi>\n                <mi>c</mi>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 172,
+      "anchor": "fs-id1167834539410",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Using the LCD",
+        "In the following exercises, simplify each complex rational expression by using the LCD."
+      ],
+      "text": "\\(\\frac{ \\frac{1}{m} + \\frac{m}{n} }{ \\frac{n}{m} - \\frac{1}{n} }\\)",
+      "math": [
+        "\\frac{ \\frac{1}{m} + \\frac{m}{n} }{ \\frac{n}{m} - \\frac{1}{n} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mi>m</mi>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mi>m</mi>\n                <mi>n</mi>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mi>n</mi>\n                <mi>m</mi>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mi>n</mi>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mi>m</mi>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mi>m</mi>\n                <mi>n</mi>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mi>n</mi>\n                <mi>m</mi>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mi>n</mi>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 173,
+      "anchor": "fs-id1167835355981",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Using the LCD",
+        "In the following exercises, simplify each complex rational expression by using the LCD."
+      ],
+      "text": "\\(\\frac{ \\frac{1}{p} + \\frac{1}{q} }{ \\frac{1}{ {p}^{2} } - \\frac{1}{ {q}^{2} } }\\)",
+      "math": [
+        "\\frac{ \\frac{1}{p} + \\frac{1}{q} }{ \\frac{1}{ {p}^{2} } - \\frac{1}{ {q}^{2} } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mi>p</mi>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mi>q</mi>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <msup>\n                    <mi>p</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <msup>\n                    <mi>q</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mi>p</mi>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mi>q</mi>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <msup>\n                    <mi>p</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <msup>\n                    <mi>q</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 174,
+      "anchor": "fs-id1167826804725",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Using the LCD",
+        "In the following exercises, simplify each complex rational expression by using the LCD."
+      ],
+      "text": "\\(\\frac{ \\frac{2}{r} + \\frac{2}{t} }{ \\frac{1}{ {r}^{2} } - \\frac{1}{ {t}^{2} } }\\)",
+      "math": [
+        "\\frac{ \\frac{2}{r} + \\frac{2}{t} }{ \\frac{1}{ {r}^{2} } - \\frac{1}{ {t}^{2} } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mi>r</mi>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>2</mn>\n                <mi>t</mi>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <msup>\n                    <mi>r</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <msup>\n                    <mi>t</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mi>r</mi>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>2</mn>\n                <mi>t</mi>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <msup>\n                    <mi>r</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <msup>\n                    <mi>t</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 175,
+      "anchor": "fs-id1167832053579",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Using the LCD",
+        "In the following exercises, simplify each complex rational expression by using the LCD."
+      ],
+      "text": "\\(\\frac{ \\frac{2}{ x + 5 } }{ \\frac{3}{ x - 5 } + \\frac{1}{ {x}^{2} - 25 } }\\)",
+      "math": [
+        "\\frac{ \\frac{2}{ x + 5 } }{ \\frac{3}{ x - 5 } + \\frac{1}{ {x}^{2} - 25 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>3</mn>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>25</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>3</mn>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <msup>\n                    <mi>x</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>25</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 176,
+      "anchor": "fs-id1167835304946",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Using the LCD",
+        "In the following exercises, simplify each complex rational expression by using the LCD."
+      ],
+      "text": "\\(\\frac{ \\frac{5}{ y - 4 } }{ \\frac{3}{ y + 4 } + \\frac{2}{ {y}^{2} - 16 } }\\)",
+      "math": [
+        "\\frac{ \\frac{5}{ y - 4 } }{ \\frac{3}{ y + 4 } + \\frac{2}{ {y}^{2} - 16 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>5</mn>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>3</mn>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>2</mn>\n                <mrow>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>16</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>5</mn>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>3</mn>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>2</mn>\n                <mrow>\n                  <msup>\n                    <mi>y</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>16</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 177,
+      "anchor": "fs-id1167831239449",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Using the LCD",
+        "In the following exercises, simplify each complex rational expression by using the LCD."
+      ],
+      "text": "\\(\\frac{ \\frac{5}{ {z}^{2} - 64 } + \\frac{3}{ z + 8 } }{ \\frac{1}{ z + 8 } + \\frac{2}{ z - 8 } }\\)",
+      "math": [
+        "\\frac{ \\frac{5}{ {z}^{2} - 64 } + \\frac{3}{ z + 8 } }{ \\frac{1}{ z + 8 } + \\frac{2}{ z - 8 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>5</mn>\n                <mrow>\n                  <msup>\n                    <mi>z</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>64</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>3</mn>\n                <mrow>\n                  <mi>z</mi>\n                  <mo>+</mo>\n                  <mn>8</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mi>z</mi>\n                  <mo>+</mo>\n                  <mn>8</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>2</mn>\n                <mrow>\n                  <mi>z</mi>\n                  <mo>−</mo>\n                  <mn>8</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>5</mn>\n                <mrow>\n                  <msup>\n                    <mi>z</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>64</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>3</mn>\n                <mrow>\n                  <mi>z</mi>\n                  <mo>+</mo>\n                  <mn>8</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mi>z</mi>\n                  <mo>+</mo>\n                  <mn>8</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>2</mn>\n                <mrow>\n                  <mi>z</mi>\n                  <mo>−</mo>\n                  <mn>8</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 178,
+      "anchor": "fs-id1167835328334",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Using the LCD",
+        "In the following exercises, simplify each complex rational expression by using the LCD."
+      ],
+      "text": "\\(\\frac{ \\frac{3}{ s + 6 } + \\frac{5}{ s - 6 } }{ \\frac{1}{ {s}^{2} - 36 } + \\frac{4}{ s + 6 } }\\)",
+      "math": [
+        "\\frac{ \\frac{3}{ s + 6 } + \\frac{5}{ s - 6 } }{ \\frac{1}{ {s}^{2} - 36 } + \\frac{4}{ s + 6 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>3</mn>\n                <mrow>\n                  <mi>s</mi>\n                  <mo>+</mo>\n                  <mn>6</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>5</mn>\n                <mrow>\n                  <mi>s</mi>\n                  <mo>−</mo>\n                  <mn>6</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <msup>\n                    <mi>s</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>36</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>4</mn>\n                <mrow>\n                  <mi>s</mi>\n                  <mo>+</mo>\n                  <mn>6</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>3</mn>\n                <mrow>\n                  <mi>s</mi>\n                  <mo>+</mo>\n                  <mn>6</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>5</mn>\n                <mrow>\n                  <mi>s</mi>\n                  <mo>−</mo>\n                  <mn>6</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <msup>\n                    <mi>s</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>36</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>4</mn>\n                <mrow>\n                  <mi>s</mi>\n                  <mo>+</mo>\n                  <mn>6</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 179,
+      "anchor": "fs-id1167834394776",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Using the LCD",
+        "In the following exercises, simplify each complex rational expression by using the LCD."
+      ],
+      "text": "\\(\\frac{ \\frac{4}{ {a}^{2} - 2 a - 15 } }{ \\frac{1}{ a - 5 } + \\frac{2}{ a + 3 } }\\)",
+      "math": [
+        "\\frac{ \\frac{4}{ {a}^{2} - 2 a - 15 } }{ \\frac{1}{ a - 5 } + \\frac{2}{ a + 3 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>4</mn>\n                <mrow>\n                  <msup>\n                    <mi>a</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>a</mi>\n                  <mo>−</mo>\n                  <mn>15</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mi>a</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>2</mn>\n                <mrow>\n                  <mi>a</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>4</mn>\n                <mrow>\n                  <msup>\n                    <mi>a</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                  <mi>a</mi>\n                  <mo>−</mo>\n                  <mn>15</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mi>a</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>2</mn>\n                <mrow>\n                  <mi>a</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 180,
+      "anchor": "fs-id1167835320616",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Using the LCD",
+        "In the following exercises, simplify each complex rational expression by using the LCD."
+      ],
+      "text": "\\(\\frac{ \\frac{5}{ {b}^{2} - 6 b - 27 } }{ \\frac{3}{ b - 9 } + \\frac{1}{ b + 3 } }\\)",
+      "math": [
+        "\\frac{ \\frac{5}{ {b}^{2} - 6 b - 27 } }{ \\frac{3}{ b - 9 } + \\frac{1}{ b + 3 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>5</mn>\n                <mrow>\n                  <msup>\n                    <mi>b</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>6</mn>\n                  <mi>b</mi>\n                  <mo>−</mo>\n                  <mn>27</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>3</mn>\n                <mrow>\n                  <mi>b</mi>\n                  <mo>−</mo>\n                  <mn>9</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mi>b</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>5</mn>\n                <mrow>\n                  <msup>\n                    <mi>b</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>6</mn>\n                  <mi>b</mi>\n                  <mo>−</mo>\n                  <mn>27</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>3</mn>\n                <mrow>\n                  <mi>b</mi>\n                  <mo>−</mo>\n                  <mn>9</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mi>b</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 181,
+      "anchor": "fs-id1167835416735",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Using the LCD",
+        "In the following exercises, simplify each complex rational expression by using the LCD."
+      ],
+      "text": "\\(\\frac{ \\frac{5}{ c + 2 } - \\frac{3}{ c + 7 } }{ \\frac{ 5 c }{ {c}^{2} + 9 c + 14 } }\\)",
+      "math": [
+        "\\frac{ \\frac{5}{ c + 2 } - \\frac{3}{ c + 7 } }{ \\frac{ 5 c }{ {c}^{2} + 9 c + 14 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>5</mn>\n                <mrow>\n                  <mi>c</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mn>3</mn>\n                <mrow>\n                  <mi>c</mi>\n                  <mo>+</mo>\n                  <mn>7</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <mn>5</mn>\n                  <mi>c</mi>\n                </mrow>\n                <mrow>\n                  <msup>\n                    <mi>c</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <mn>9</mn>\n                  <mi>c</mi>\n                  <mo>+</mo>\n                  <mn>14</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>5</mn>\n                <mrow>\n                  <mi>c</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mn>3</mn>\n                <mrow>\n                  <mi>c</mi>\n                  <mo>+</mo>\n                  <mn>7</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <mn>5</mn>\n                  <mi>c</mi>\n                </mrow>\n                <mrow>\n                  <msup>\n                    <mi>c</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <mn>9</mn>\n                  <mi>c</mi>\n                  <mo>+</mo>\n                  <mn>14</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 182,
+      "anchor": "fs-id1167831837544",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Using the LCD",
+        "In the following exercises, simplify each complex rational expression by using the LCD."
+      ],
+      "text": "\\(\\frac{ \\frac{6}{ d - 4 } - \\frac{2}{ d + 7 } }{ \\frac{ 2 d }{ {d}^{2} + 3 d - 28 } }\\)",
+      "math": [
+        "\\frac{ \\frac{6}{ d - 4 } - \\frac{2}{ d + 7 } }{ \\frac{ 2 d }{ {d}^{2} + 3 d - 28 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>6</mn>\n                <mrow>\n                  <mi>d</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                </mrow>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mn>2</mn>\n                <mrow>\n                  <mi>d</mi>\n                  <mo>+</mo>\n                  <mn>7</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <mn>2</mn>\n                  <mi>d</mi>\n                </mrow>\n                <mrow>\n                  <msup>\n                    <mi>d</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>d</mi>\n                  <mo>−</mo>\n                  <mn>28</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>6</mn>\n                <mrow>\n                  <mi>d</mi>\n                  <mo>−</mo>\n                  <mn>4</mn>\n                </mrow>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mn>2</mn>\n                <mrow>\n                  <mi>d</mi>\n                  <mo>+</mo>\n                  <mn>7</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mrow>\n                  <mn>2</mn>\n                  <mi>d</mi>\n                </mrow>\n                <mrow>\n                  <msup>\n                    <mi>d</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                  <mi>d</mi>\n                  <mo>−</mo>\n                  <mn>28</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 183,
+      "anchor": "fs-id1167834194525",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Using the LCD",
+        "In the following exercises, simplify each complex rational expression by using the LCD."
+      ],
+      "text": "\\(\\frac{ 2 + \\frac{1}{ p - 3 } }{ \\frac{5}{ p - 3 } }\\)",
+      "math": [
+        "\\frac{ 2 + \\frac{1}{ p - 3 } }{ \\frac{5}{ p - 3 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mi>p</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>5</mn>\n                <mrow>\n                  <mi>p</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>2</mn>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mi>p</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>5</mn>\n                <mrow>\n                  <mi>p</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 184,
+      "anchor": "fs-id1167835514456",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Using the LCD",
+        "In the following exercises, simplify each complex rational expression by using the LCD."
+      ],
+      "text": "\\(\\frac{ \\frac{n}{ n - 2 } }{ 3 + \\frac{5}{ n - 2 } }\\)",
+      "math": [
+        "\\frac{ \\frac{n}{ n - 2 } }{ 3 + \\frac{5}{ n - 2 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mi>n</mi>\n                <mrow>\n                  <mi>n</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <mo>+</mo>\n              <mfrac>\n                <mn>5</mn>\n                <mrow>\n                  <mi>n</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mi>n</mi>\n                <mrow>\n                  <mi>n</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mn>3</mn>\n              <mo>+</mo>\n              <mfrac>\n                <mn>5</mn>\n                <mrow>\n                  <mi>n</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 185,
+      "anchor": "fs-id1167834279936",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Using the LCD",
+        "In the following exercises, simplify each complex rational expression by using the LCD."
+      ],
+      "text": "\\(\\frac{ \\frac{m}{ m + 5 } }{ 4 + \\frac{1}{ m - 5 } }\\)",
+      "math": [
+        "\\frac{ \\frac{m}{ m + 5 } }{ 4 + \\frac{1}{ m - 5 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mi>m</mi>\n                <mrow>\n                  <mi>m</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mn>4</mn>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mi>m</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mi>m</mi>\n                <mrow>\n                  <mi>m</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mn>4</mn>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mi>m</mi>\n                  <mo>−</mo>\n                  <mn>5</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 186,
+      "anchor": "fs-id1167835381804",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Simplify a Complex Rational Expression by Using the LCD",
+        "In the following exercises, simplify each complex rational expression by using the LCD."
+      ],
+      "text": "\\(\\frac{ 7 + \\frac{2}{ q - 2 } }{ \\frac{1}{ q + 2 } }\\)",
+      "math": [
+        "\\frac{ 7 + \\frac{2}{ q - 2 } }{ \\frac{1}{ q + 2 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>7</mn>\n              <mo>+</mo>\n              <mfrac>\n                <mn>2</mn>\n                <mrow>\n                  <mi>q</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mi>q</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mn>7</mn>\n              <mo>+</mo>\n              <mfrac>\n                <mn>2</mn>\n                <mrow>\n                  <mi>q</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mi>q</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 187,
+      "anchor": "fs-id1167831832522",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "In the following exercises, simplify each complex rational expression by using the LCD.",
+        "In the following exercises, simplify each complex rational expression using either method."
+      ],
+      "text": "\\(\\frac{ \\frac{3}{4} - \\frac{2}{7} }{ \\frac{1}{2} + \\frac{5}{ 14 } }\\)",
+      "math": [
+        "\\frac{ \\frac{3}{4} - \\frac{2}{7} }{ \\frac{1}{2} + \\frac{5}{ 14 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>3</mn>\n                <mn>4</mn>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mn>2</mn>\n                <mn>7</mn>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>2</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>5</mn>\n                <mrow>\n                  <mn>14</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>3</mn>\n                <mn>4</mn>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mn>2</mn>\n                <mn>7</mn>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mn>2</mn>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>5</mn>\n                <mrow>\n                  <mn>14</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 188,
+      "anchor": "fs-id1167834252374",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "In the following exercises, simplify each complex rational expression by using the LCD.",
+        "In the following exercises, simplify each complex rational expression using either method."
+      ],
+      "text": "\\(\\frac{ \\frac{v}{w} + \\frac{1}{v} }{ \\frac{1}{v} - \\frac{v}{w} }\\)",
+      "math": [
+        "\\frac{ \\frac{v}{w} + \\frac{1}{v} }{ \\frac{1}{v} - \\frac{v}{w} }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mi>v</mi>\n                <mi>w</mi>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mi>v</mi>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mi>v</mi>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mi>v</mi>\n                <mi>w</mi>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mi>v</mi>\n                <mi>w</mi>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mi>v</mi>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mi>v</mi>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mi>v</mi>\n                <mi>w</mi>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 189,
+      "anchor": "fs-id1167835356825",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "In the following exercises, simplify each complex rational expression by using the LCD.",
+        "In the following exercises, simplify each complex rational expression using either method."
+      ],
+      "text": "\\(\\frac{ \\frac{2}{ a + 4 } }{ \\frac{1}{ {a}^{2} - 16 } }\\)",
+      "math": [
+        "\\frac{ \\frac{2}{ a + 4 } }{ \\frac{1}{ {a}^{2} - 16 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mrow>\n                  <mi>a</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <msup>\n                    <mi>a</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>16</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mrow>\n                  <mi>a</mi>\n                  <mo>+</mo>\n                  <mn>4</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <msup>\n                    <mi>a</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>16</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 190,
+      "anchor": "fs-id1167835356359",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "In the following exercises, simplify each complex rational expression by using the LCD.",
+        "In the following exercises, simplify each complex rational expression using either method."
+      ],
+      "text": "\\(\\frac{ \\frac{3}{ {b}^{2} - 3 b - 40 } }{ \\frac{5}{ b + 5 } - \\frac{2}{ b - 8 } }\\)",
+      "math": [
+        "\\frac{ \\frac{3}{ {b}^{2} - 3 b - 40 } }{ \\frac{5}{ b + 5 } - \\frac{2}{ b - 8 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>3</mn>\n                <mrow>\n                  <msup>\n                    <mi>b</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>b</mi>\n                  <mo>−</mo>\n                  <mn>40</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>5</mn>\n                <mrow>\n                  <mi>b</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                </mrow>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mn>2</mn>\n                <mrow>\n                  <mi>b</mi>\n                  <mo>−</mo>\n                  <mn>8</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>3</mn>\n                <mrow>\n                  <msup>\n                    <mi>b</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                  <mi>b</mi>\n                  <mo>−</mo>\n                  <mn>40</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>5</mn>\n                <mrow>\n                  <mi>b</mi>\n                  <mo>+</mo>\n                  <mn>5</mn>\n                </mrow>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mn>2</mn>\n                <mrow>\n                  <mi>b</mi>\n                  <mo>−</mo>\n                  <mn>8</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 191,
+      "anchor": "fs-id1167831115961",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "In the following exercises, simplify each complex rational expression by using the LCD.",
+        "In the following exercises, simplify each complex rational expression using either method."
+      ],
+      "text": "\\(\\frac{ \\frac{3}{m} + \\frac{3}{n} }{ \\frac{1}{ {m}^{2} } - \\frac{1}{ {n}^{2} } }\\)",
+      "math": [
+        "\\frac{ \\frac{3}{m} + \\frac{3}{n} }{ \\frac{1}{ {m}^{2} } - \\frac{1}{ {n}^{2} } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>3</mn>\n                <mi>m</mi>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>3</mn>\n                <mi>n</mi>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <msup>\n                    <mi>m</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <msup>\n                    <mi>n</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>3</mn>\n                <mi>m</mi>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>3</mn>\n                <mi>n</mi>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <msup>\n                    <mi>m</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </mfrac>\n              <mo>−</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <msup>\n                    <mi>n</mi>\n                    <mn>2</mn>\n                  </msup>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 192,
+      "anchor": "fs-id1167831957810",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "In the following exercises, simplify each complex rational expression by using the LCD.",
+        "In the following exercises, simplify each complex rational expression using either method."
+      ],
+      "text": "\\(\\frac{ \\frac{2}{ r - 9 } }{ \\frac{1}{ r + 9 } + \\frac{3}{ {r}^{2} - 81 } }\\)",
+      "math": [
+        "\\frac{ \\frac{2}{ r - 9 } }{ \\frac{1}{ r + 9 } + \\frac{3}{ {r}^{2} - 81 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mrow>\n                  <mi>r</mi>\n                  <mo>−</mo>\n                  <mn>9</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mi>r</mi>\n                  <mo>+</mo>\n                  <mn>9</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>3</mn>\n                <mrow>\n                  <msup>\n                    <mi>r</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>81</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mn>2</mn>\n                <mrow>\n                  <mi>r</mi>\n                  <mo>−</mo>\n                  <mn>9</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mi>r</mi>\n                  <mo>+</mo>\n                  <mn>9</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>3</mn>\n                <mrow>\n                  <msup>\n                    <mi>r</mi>\n                    <mn>2</mn>\n                  </msup>\n                  <mo>−</mo>\n                  <mn>81</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 193,
+      "anchor": "fs-id1167835327394",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "In the following exercises, simplify each complex rational expression by using the LCD.",
+        "In the following exercises, simplify each complex rational expression using either method."
+      ],
+      "text": "\\(\\frac{ x - \\frac{ 3 x }{ x + 2 } }{ \\frac{3}{ x + 2 } + \\frac{3}{ x - 2 } }\\)",
+      "math": [
+        "\\frac{ x - \\frac{ 3 x }{ x + 2 } }{ \\frac{3}{ x + 2 } + \\frac{3}{ x - 2 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mfrac>\n                <mrow>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                </mrow>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>3</mn>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>3</mn>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mi>x</mi>\n              <mo>−</mo>\n              <mfrac>\n                <mrow>\n                  <mn>3</mn>\n                  <mi>x</mi>\n                </mrow>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mfrac>\n                <mn>3</mn>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>+</mo>\n                  <mn>2</mn>\n                </mrow>\n              </mfrac>\n              <mo>+</mo>\n              <mfrac>\n                <mn>3</mn>\n                <mrow>\n                  <mi>x</mi>\n                  <mo>−</mo>\n                  <mn>2</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 194,
+      "anchor": "fs-id1167826781484",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "In the following exercises, simplify each complex rational expression by using the LCD.",
+        "In the following exercises, simplify each complex rational expression using either method."
+      ],
+      "text": "\\(\\frac{ \\frac{y}{ y + 3 } }{ 2 + \\frac{1}{ y - 3 } }\\)",
+      "math": [
+        "\\frac{ \\frac{y}{ y + 3 } }{ 2 + \\frac{1}{ y - 3 } }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mi>y</mi>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mn>2</mn>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mfrac>\n            <mrow>\n              <mfrac>\n                <mi>y</mi>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>+</mo>\n                  <mn>3</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n            <mrow>\n              <mn>2</mn>\n              <mo>+</mo>\n              <mfrac>\n                <mn>1</mn>\n                <mrow>\n                  <mi>y</mi>\n                  <mo>−</mo>\n                  <mn>3</mn>\n                </mrow>\n              </mfrac>\n            </mrow>\n          </mfrac>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 195,
+      "anchor": "fs-id1167830702565",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "In this section, you learned to simplify the complex fraction \\(\\frac{\\frac{3}{x+2}}{\\frac{x}{{x}^{2}-4}}\\) two ways: rewriting it as a division problem or multiplying the numerator and denominator by the LCD. Which method do you prefer? Why?",
+      "math": [
+        "\\frac{\\frac{3}{x+2}}{\\frac{x}{{x}^{2}-4}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mfrac><mn>3</mn><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfrac></mrow><mrow><mfrac><mi>x</mi><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn></mrow></mfrac></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mfrac><mn>3</mn><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfrac></mrow><mrow><mfrac><mi>x</mi><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn></mrow></mfrac></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 196,
+      "anchor": "fs-id1167831954191",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Efraim wants to start simplifying the complex fraction \\(\\frac{\\frac{1}{a}+\\frac{1}{b}}{\\frac{1}{a}-\\frac{1}{b}}\\) by cancelling the variables from the numerator and denominator, \\(\\frac{\\frac{1}{a}+\\frac{1}{b}}{\\frac{1}{a}-\\frac{1}{b}}.\\) Explain what is wrong with Efraim’s plan.",
+      "math": [
+        "\\frac{\\frac{1}{a}+\\frac{1}{b}}{\\frac{1}{a}-\\frac{1}{b}}",
+        "\\frac{\\frac{1}{a}+\\frac{1}{b}}{\\frac{1}{a}-\\frac{1}{b}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mfrac><mn>1</mn><mi>a</mi></mfrac><mo>+</mo><mfrac><mn>1</mn><mi>b</mi></mfrac></mrow><mrow><mfrac><mn>1</mn><mi>a</mi></mfrac><mo>−</mo><mfrac><mn>1</mn><mi>b</mi></mfrac></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mfrac><mn>1</mn><mi>a</mi></mfrac><mo>+</mo><mfrac><mn>1</mn><mi>b</mi></mfrac></mrow><mrow><mfrac><mn>1</mn><mi>a</mi></mfrac><mo>−</mo><mfrac><mn>1</mn><mi>b</mi></mfrac></mrow></mfrac></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mfrac><mn>1</mn><mrow><menclose notation=\"updiagonalstrike\"><mi>a</mi></menclose></mrow></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><menclose notation=\"updiagonalstrike\"><mi>b</mi></menclose></mrow></mfrac></mrow><mrow><mfrac><mn>1</mn><mrow><menclose notation=\"updiagonalstrike\"><mi>a</mi></menclose></mrow></mfrac><mo>−</mo><mfrac><mn>1</mn><mrow><menclose notation=\"updiagonalstrike\"><mi>b</mi></menclose></mrow></mfrac></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mfrac><mn>1</mn><mrow><menclose notation=\"updiagonalstrike\"><mi>a</mi></menclose></mrow></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><menclose notation=\"updiagonalstrike\"><mi>b</mi></menclose></mrow></mfrac></mrow><mrow><mfrac><mn>1</mn><mrow><menclose notation=\"updiagonalstrike\"><mi>a</mi></menclose></mrow></mfrac><mo>−</mo><mfrac><mn>1</mn><mrow><menclose notation=\"updiagonalstrike\"><mi>b</mi></menclose></mrow></mfrac></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "7.47",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167826978972",
+      "context": [
+        "Simplify a Complex Rational Expression by Writing it as Division"
+      ],
+      "text": "Simplify the complex rational expression by writing it as division: \\(\\frac{\\frac{2}{{x}^{2}-1}}{\\frac{3}{x+1}}.\\)",
+      "math": [
+        "\\frac{\\frac{2}{{x}^{2}-1}}{\\frac{3}{x+1}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mfrac><mn>2</mn><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>1</mn></mrow></mfrac></mrow><mrow><mfrac><mn>3</mn><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfrac></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mfrac><mn>2</mn><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>1</mn></mrow></mfrac></mrow><mrow><mfrac><mn>3</mn><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfrac></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.48",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167835609958",
+      "context": [
+        "Simplify a Complex Rational Expression by Writing it as Division"
+      ],
+      "text": "Simplify the complex rational expression by writing it as division: \\(\\frac{\\frac{1}{{x}^{2}-7x+12}}{\\frac{2}{x-4}}.\\)",
+      "math": [
+        "\\frac{\\frac{1}{{x}^{2}-7x+12}}{\\frac{2}{x-4}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mfrac><mn>1</mn><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>7</mn><mi>x</mi><mo>+</mo><mn>12</mn></mrow></mfrac></mrow><mrow><mfrac><mn>2</mn><mrow><mi>x</mi><mo>−</mo><mn>4</mn></mrow></mfrac></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mfrac><mn>1</mn><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>7</mn><mi>x</mi><mo>+</mo><mn>12</mn></mrow></mfrac></mrow><mrow><mfrac><mn>2</mn><mrow><mi>x</mi><mo>−</mo><mn>4</mn></mrow></mfrac></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.49",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167835362198",
+      "context": [
+        "Simplify a Complex Rational Expression by Writing it as Division"
+      ],
+      "text": "Simplify the complex rational expression by writing it as division: \\(\\frac{\\frac{1}{2}+\\frac{2}{3}}{\\frac{5}{6}+\\frac{1}{12}}.\\)",
+      "math": [
+        "\\frac{\\frac{1}{2}+\\frac{2}{3}}{\\frac{5}{6}+\\frac{1}{12}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow><mrow><mfrac><mn>5</mn><mn>6</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><mn>12</mn></mrow></mfrac></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow><mrow><mfrac><mn>5</mn><mn>6</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><mn>12</mn></mrow></mfrac></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.50",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167835237838",
+      "context": [
+        "Simplify a Complex Rational Expression by Writing it as Division"
+      ],
+      "text": "Simplify the complex rational expression by writing it as division: \\(\\frac{\\frac{3}{4}-\\frac{1}{3}}{\\frac{1}{8}+\\frac{5}{6}}.\\)",
+      "math": [
+        "\\frac{\\frac{3}{4}-\\frac{1}{3}}{\\frac{1}{8}+\\frac{5}{6}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow><mrow><mfrac><mn>1</mn><mn>8</mn></mfrac><mo>+</mo><mfrac><mn>5</mn><mn>6</mn></mfrac></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>−</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></mrow><mrow><mfrac><mn>1</mn><mn>8</mn></mfrac><mo>+</mo><mfrac><mn>5</mn><mn>6</mn></mfrac></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.51",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167834423424",
+      "context": [
+        "Simplify a Complex Rational Expression by Writing it as Division"
+      ],
+      "text": "Simplify the complex rational expression by writing it as division: \\(\\frac{\\frac{1}{x}+\\frac{1}{y}}{\\frac{1}{x}-\\frac{1}{y}}.\\)",
+      "math": [
+        "\\frac{\\frac{1}{x}+\\frac{1}{y}}{\\frac{1}{x}-\\frac{1}{y}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mfrac><mn>1</mn><mi>x</mi></mfrac><mo>+</mo><mfrac><mn>1</mn><mi>y</mi></mfrac></mrow><mrow><mfrac><mn>1</mn><mi>x</mi></mfrac><mo>−</mo><mfrac><mn>1</mn><mi>y</mi></mfrac></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mfrac><mn>1</mn><mi>x</mi></mfrac><mo>+</mo><mfrac><mn>1</mn><mi>y</mi></mfrac></mrow><mrow><mfrac><mn>1</mn><mi>x</mi></mfrac><mo>−</mo><mfrac><mn>1</mn><mi>y</mi></mfrac></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.52",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167835309227",
+      "context": [
+        "Simplify a Complex Rational Expression by Writing it as Division"
+      ],
+      "text": "Simplify the complex rational expression by writing it as division: \\(\\frac{\\frac{1}{a}+\\frac{1}{b}}{\\frac{1}{{a}^{2}}-\\frac{1}{{b}^{2}}}\\).",
+      "math": [
+        "\\frac{\\frac{1}{a}+\\frac{1}{b}}{\\frac{1}{{a}^{2}}-\\frac{1}{{b}^{2}}}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mfrac><mn>1</mn><mi>a</mi></mfrac><mo>+</mo><mfrac><mn>1</mn><mi>b</mi></mfrac></mrow><mrow><mfrac><mn>1</mn><mrow><msup><mi>a</mi><mn>2</mn></msup></mrow></mfrac><mo>−</mo><mfrac><mn>1</mn><mrow><msup><mi>b</mi><mn>2</mn></msup></mrow></mfrac></mrow></mfrac></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mfrac><mn>1</mn><mi>a</mi></mfrac><mo>+</mo><mfrac><mn>1</mn><mi>b</mi></mfrac></mrow><mrow><mfrac><mn>1</mn><mrow><msup><mi>a</mi><mn>2</mn></msup></mrow></mfrac><mo>−</mo><mfrac><mn>1</mn><mrow><msup><mi>b</mi><mn>2</mn></msup></mrow></mfrac></mrow></mfrac></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.53",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167830960720",
+      "context": [
+        "Simplify a Complex Rational Expression by Writing it as Division"
+      ],
+      "text": "Simplify the complex rational expression by writing it as division: \\(\\frac{b-\\frac{3b}{b+5}}{\\frac{2}{b+5}+\\frac{1}{b-5}}.\\)",
+      "math": [
+        "\\frac{b-\\frac{3b}{b+5}}{\\frac{2}{b+5}+\\frac{1}{b-5}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mi>b</mi><mo>−</mo><mfrac><mrow><mn>3</mn><mi>b</mi></mrow><mrow><mi>b</mi><mo>+</mo><mn>5</mn></mrow></mfrac></mrow><mrow><mfrac><mn>2</mn><mrow><mi>b</mi><mo>+</mo><mn>5</mn></mrow></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><mi>b</mi><mo>−</mo><mn>5</mn></mrow></mfrac></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mi>b</mi><mo>−</mo><mfrac><mrow><mn>3</mn><mi>b</mi></mrow><mrow><mi>b</mi><mo>+</mo><mn>5</mn></mrow></mfrac></mrow><mrow><mfrac><mn>2</mn><mrow><mi>b</mi><mo>+</mo><mn>5</mn></mrow></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><mi>b</mi><mo>−</mo><mn>5</mn></mrow></mfrac></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.54",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167832153827",
+      "context": [
+        "Simplify a Complex Rational Expression by Writing it as Division"
+      ],
+      "text": "Simplify the complex rational expression by writing it as division: \\(\\frac{1-\\frac{3}{c+4}}{\\frac{1}{c+4}+\\frac{c}{3}}.\\)",
+      "math": [
+        "\\frac{1-\\frac{3}{c+4}}{\\frac{1}{c+4}+\\frac{c}{3}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mn>1</mn><mo>−</mo><mfrac><mn>3</mn><mrow><mi>c</mi><mo>+</mo><mn>4</mn></mrow></mfrac></mrow><mrow><mfrac><mn>1</mn><mrow><mi>c</mi><mo>+</mo><mn>4</mn></mrow></mfrac><mo>+</mo><mfrac><mi>c</mi><mn>3</mn></mfrac></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mn>1</mn><mo>−</mo><mfrac><mn>3</mn><mrow><mi>c</mi><mo>+</mo><mn>4</mn></mrow></mfrac></mrow><mrow><mfrac><mn>1</mn><mrow><mi>c</mi><mo>+</mo><mn>4</mn></mrow></mfrac><mo>+</mo><mfrac><mi>c</mi><mn>3</mn></mfrac></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.55",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167835343125",
+      "context": [
+        "Simplify a Complex Rational Expression by Using the LCD"
+      ],
+      "text": "Simplify the complex rational expression by using the LCD: \\(\\frac{\\frac{1}{2}+\\frac{1}{5}}{\\frac{1}{10}+\\frac{1}{5}}.\\)",
+      "math": [
+        "\\frac{\\frac{1}{2}+\\frac{1}{5}}{\\frac{1}{10}+\\frac{1}{5}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow><mrow><mfrac><mn>1</mn><mrow><mn>10</mn></mrow></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow><mrow><mfrac><mn>1</mn><mrow><mn>10</mn></mrow></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>5</mn></mfrac></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.56",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167830757621",
+      "context": [
+        "Simplify a Complex Rational Expression by Using the LCD"
+      ],
+      "text": "Simplify the complex rational expression by using the LCD: \\(\\frac{\\frac{1}{4}+\\frac{3}{8}}{\\frac{1}{2}-\\frac{5}{16}}.\\)",
+      "math": [
+        "\\frac{\\frac{1}{4}+\\frac{3}{8}}{\\frac{1}{2}-\\frac{5}{16}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>+</mo><mfrac><mn>3</mn><mn>8</mn></mfrac></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>−</mo><mfrac><mn>5</mn><mrow><mn>16</mn></mrow></mfrac></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>+</mo><mfrac><mn>3</mn><mn>8</mn></mfrac></mrow><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>−</mo><mfrac><mn>5</mn><mrow><mn>16</mn></mrow></mfrac></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.57",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167834191698",
+      "context": [
+        "Simplify a Complex Rational Expression by Using the LCD"
+      ],
+      "text": "Simplify the complex rational expression by using the LCD: \\(\\frac{\\frac{1}{a}+\\frac{1}{b}}{\\frac{a}{b}+\\frac{b}{a}}.\\)",
+      "math": [
+        "\\frac{\\frac{1}{a}+\\frac{1}{b}}{\\frac{a}{b}+\\frac{b}{a}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mfrac><mn>1</mn><mi>a</mi></mfrac><mo>+</mo><mfrac><mn>1</mn><mi>b</mi></mfrac></mrow><mrow><mfrac><mi>a</mi><mi>b</mi></mfrac><mo>+</mo><mfrac><mi>b</mi><mi>a</mi></mfrac></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mfrac><mn>1</mn><mi>a</mi></mfrac><mo>+</mo><mfrac><mn>1</mn><mi>b</mi></mfrac></mrow><mrow><mfrac><mi>a</mi><mi>b</mi></mfrac><mo>+</mo><mfrac><mi>b</mi><mi>a</mi></mfrac></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.58",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167835253742",
+      "context": [
+        "Simplify a Complex Rational Expression by Using the LCD"
+      ],
+      "text": "Simplify the complex rational expression by using the LCD: \\(\\frac{\\frac{1}{{x}^{2}}-\\frac{1}{{y}^{2}}}{\\frac{1}{x}+\\frac{1}{y}}.\\)",
+      "math": [
+        "\\frac{\\frac{1}{{x}^{2}}-\\frac{1}{{y}^{2}}}{\\frac{1}{x}+\\frac{1}{y}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mfrac><mn>1</mn><mrow><msup><mi>x</mi><mn>2</mn></msup></mrow></mfrac><mo>−</mo><mfrac><mn>1</mn><mrow><msup><mi>y</mi><mn>2</mn></msup></mrow></mfrac></mrow><mrow><mfrac><mn>1</mn><mi>x</mi></mfrac><mo>+</mo><mfrac><mn>1</mn><mi>y</mi></mfrac></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mfrac><mn>1</mn><mrow><msup><mi>x</mi><mn>2</mn></msup></mrow></mfrac><mo>−</mo><mfrac><mn>1</mn><mrow><msup><mi>y</mi><mn>2</mn></msup></mrow></mfrac></mrow><mrow><mfrac><mn>1</mn><mi>x</mi></mfrac><mo>+</mo><mfrac><mn>1</mn><mi>y</mi></mfrac></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.59",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167832152324",
+      "context": [
+        "Simplify a Complex Rational Expression by Using the LCD"
+      ],
+      "text": "Simplify the complex rational expression by using the LCD: \\(\\frac{\\frac{3}{x+2}}{\\frac{5}{x-2}-\\frac{3}{{x}^{2}-4}}.\\)",
+      "math": [
+        "\\frac{\\frac{3}{x+2}}{\\frac{5}{x-2}-\\frac{3}{{x}^{2}-4}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mfrac><mn>3</mn><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfrac></mrow><mrow><mfrac><mn>5</mn><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow></mfrac><mo>−</mo><mfrac><mn>3</mn><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn></mrow></mfrac></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mfrac><mn>3</mn><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfrac></mrow><mrow><mfrac><mn>5</mn><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow></mfrac><mo>−</mo><mfrac><mn>3</mn><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn></mrow></mfrac></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.60",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167835257334",
+      "context": [
+        "Simplify a Complex Rational Expression by Using the LCD"
+      ],
+      "text": "Simplify the complex rational expression by using the LCD: \\(\\frac{\\frac{2}{x-7}-\\frac{1}{x+7}}{\\frac{6}{x+7}-\\frac{1}{{x}^{2}-49}}.\\)",
+      "math": [
+        "\\frac{\\frac{2}{x-7}-\\frac{1}{x+7}}{\\frac{6}{x+7}-\\frac{1}{{x}^{2}-49}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mfrac><mn>2</mn><mrow><mi>x</mi><mo>−</mo><mn>7</mn></mrow></mfrac><mo>−</mo><mfrac><mn>1</mn><mrow><mi>x</mi><mo>+</mo><mn>7</mn></mrow></mfrac></mrow><mrow><mfrac><mn>6</mn><mrow><mi>x</mi><mo>+</mo><mn>7</mn></mrow></mfrac><mo>−</mo><mfrac><mn>1</mn><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>49</mn></mrow></mfrac></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mfrac><mn>2</mn><mrow><mi>x</mi><mo>−</mo><mn>7</mn></mrow></mfrac><mo>−</mo><mfrac><mn>1</mn><mrow><mi>x</mi><mo>+</mo><mn>7</mn></mrow></mfrac></mrow><mrow><mfrac><mn>6</mn><mrow><mi>x</mi><mo>+</mo><mn>7</mn></mrow></mfrac><mo>−</mo><mfrac><mn>1</mn><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>49</mn></mrow></mfrac></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.61",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167835376231",
+      "context": [
+        "Simplify a Complex Rational Expression by Using the LCD"
+      ],
+      "text": "Simplify the complex rational expression by using the LCD: \\(\\frac{\\frac{3}{{x}^{2}+7x+10}}{\\frac{4}{x+2}+\\frac{1}{x+5}}.\\)",
+      "math": [
+        "\\frac{\\frac{3}{{x}^{2}+7x+10}}{\\frac{4}{x+2}+\\frac{1}{x+5}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mfrac><mn>3</mn><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>7</mn><mi>x</mi><mo>+</mo><mn>10</mn></mrow></mfrac></mrow><mrow><mfrac><mn>4</mn><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><mi>x</mi><mo>+</mo><mn>5</mn></mrow></mfrac></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mfrac><mn>3</mn><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>7</mn><mi>x</mi><mo>+</mo><mn>10</mn></mrow></mfrac></mrow><mrow><mfrac><mn>4</mn><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><mi>x</mi><mo>+</mo><mn>5</mn></mrow></mfrac></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.62",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167835231354",
+      "context": [
+        "Simplify a Complex Rational Expression by Using the LCD"
+      ],
+      "text": "Simplify the complex rational expression by using the LCD: \\(\\frac{\\frac{4y}{y+5}+\\frac{2}{y+6}}{\\frac{3y}{{y}^{2}+11y+30}}.\\)",
+      "math": [
+        "\\frac{\\frac{4y}{y+5}+\\frac{2}{y+6}}{\\frac{3y}{{y}^{2}+11y+30}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mfrac><mrow><mn>4</mn><mi>y</mi></mrow><mrow><mi>y</mi><mo>+</mo><mn>5</mn></mrow></mfrac><mo>+</mo><mfrac><mn>2</mn><mrow><mi>y</mi><mo>+</mo><mn>6</mn></mrow></mfrac></mrow><mrow><mfrac><mrow><mn>3</mn><mi>y</mi></mrow><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>11</mn><mi>y</mi><mo>+</mo><mn>30</mn></mrow></mfrac></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mfrac><mrow><mn>4</mn><mi>y</mi></mrow><mrow><mi>y</mi><mo>+</mo><mn>5</mn></mrow></mfrac><mo>+</mo><mfrac><mn>2</mn><mrow><mi>y</mi><mo>+</mo><mn>6</mn></mrow></mfrac></mrow><mrow><mfrac><mrow><mn>3</mn><mi>y</mi></mrow><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>11</mn><mi>y</mi><mo>+</mo><mn>30</mn></mrow></mfrac></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.63",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167831954222",
+      "context": [
+        "Simplify a Complex Rational Expression by Using the LCD"
+      ],
+      "text": "Simplify the complex rational expression by using the LCD: \\(\\frac{\\frac{x}{x+3}}{1+\\frac{1}{x+3}}.\\)",
+      "math": [
+        "\\frac{\\frac{x}{x+3}}{1+\\frac{1}{x+3}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mfrac><mi>x</mi><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac></mrow><mrow><mn>1</mn><mo>+</mo><mfrac><mn>1</mn><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mfrac><mi>x</mi><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac></mrow><mrow><mn>1</mn><mo>+</mo><mfrac><mn>1</mn><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "7.64",
+      "page": "7-3-simplify-complex-rational-expressions",
+      "is_try_it": true,
+      "anchor": "fs-id1167830701079",
+      "context": [
+        "Simplify a Complex Rational Expression by Using the LCD"
+      ],
+      "text": "Simplify the complex rational expression by using the LCD: \\(\\frac{1+\\frac{1}{x-1}}{\\frac{3}{x+1}}.\\)",
+      "math": [
+        "\\frac{1+\\frac{1}{x-1}}{\\frac{3}{x+1}}."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mfrac><mrow><mn>1</mn><mo>+</mo><mfrac><mn>1</mn><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></mfrac></mrow><mrow><mfrac><mn>3</mn><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfrac></mrow></mfrac><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mfrac><mrow><mn>1</mn><mo>+</mo><mfrac><mn>1</mn><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></mfrac></mrow><mrow><mfrac><mn>3</mn><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfrac></mrow></mfrac><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}

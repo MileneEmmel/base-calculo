@@ -1,0 +1,1284 @@
+{
+  "url": "https://openstax.org/books/intermediate-algebra-2e/pages/3-5-relations-and-functions",
+  "title": "3.5 Relations and Functions",
+  "sha256": "75c10c147aba74c94c3b3af29134de307f200200417d47ccaa534a7488c5f33b",
+  "questions": [
+    {
+      "number": 283,
+      "anchor": "fs-id1167836694560",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "Find the Domain and Range of a Relation",
+        "In the following exercises, for each relation ⓐ find the domain of the relation ⓑ find the range of the relation."
+      ],
+      "text": "\\({ ( 1 , 4 ) , ( 2 , 8 ) , ( 3 , 12 ) , ( 4 , 16 ) , ( 5 , 20 ) }\\)",
+      "math": [
+        "{ ( 1 , 4 ) , ( 2 , 8 ) , ( 3 , 12 ) , ( 4 , 16 ) , ( 5 , 20 ) }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>1</mn>\n                  <mo>,</mo>\n                  <mn>4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>2</mn>\n                  <mo>,</mo>\n                  <mn>8</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>3</mn>\n                  <mo>,</mo>\n                  <mn>12</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>4</mn>\n                  <mo>,</mo>\n                  <mn>16</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n            </mrow>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mo>,</mo>\n              <mn>20</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>}</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>1</mn>\n                  <mo>,</mo>\n                  <mn>4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>2</mn>\n                  <mo>,</mo>\n                  <mn>8</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>3</mn>\n                  <mo>,</mo>\n                  <mn>12</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>4</mn>\n                  <mo>,</mo>\n                  <mn>16</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n            </mrow>\n          </mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>5</mn>\n              <mo>,</mo>\n              <mn>20</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>}</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 284,
+      "anchor": "fs-id1167829738657",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "Find the Domain and Range of a Relation",
+        "In the following exercises, for each relation ⓐ find the domain of the relation ⓑ find the range of the relation."
+      ],
+      "text": "\\({ ( 1 , -2 ) , ( 2 , -4 ) , ( 3 , -6 ) , ( 4 , -8 ) , ( 5 , -10 ) }\\)",
+      "math": [
+        "{ ( 1 , -2 ) , ( 2 , -4 ) , ( 3 , -6 ) , ( 4 , -8 ) , ( 5 , -10 ) }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>1</mn>\n                  <mo>,</mo>\n                  <mn>−2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>2</mn>\n                  <mo>,</mo>\n                  <mn>−4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>3</mn>\n                  <mo>,</mo>\n                  <mn>−6</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>4</mn>\n                  <mo>,</mo>\n                  <mn>−8</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n            </mrow>\n          </mrow>\n        </mrow>\n        <mrow>\n          <mo>(</mo>\n          <mrow>\n            <mn>5</mn>\n            <mo>,</mo>\n            <mn>−10</mn>\n            <mo>)</mo>\n            <mo>}</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>1</mn>\n                  <mo>,</mo>\n                  <mn>−2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>2</mn>\n                  <mo>,</mo>\n                  <mn>−4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>3</mn>\n                  <mo>,</mo>\n                  <mn>−6</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>4</mn>\n                  <mo>,</mo>\n                  <mn>−8</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n            </mrow>\n          </mrow>\n        </mrow>\n        <mrow>\n          <mo>(</mo>\n          <mrow>\n            <mn>5</mn>\n            <mo>,</mo>\n            <mn>−10</mn>\n            <mo>)</mo>\n            <mo>}</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 285,
+      "anchor": "fs-id1167836289174",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "Find the Domain and Range of a Relation",
+        "In the following exercises, for each relation ⓐ find the domain of the relation ⓑ find the range of the relation."
+      ],
+      "text": "\\({ ( 1 , 7 ) , ( 5 , 3 ) , ( 7 , 9 ) , ( -2 , -3 ) , ( -2 , 8 ) }\\)",
+      "math": [
+        "{ ( 1 , 7 ) , ( 5 , 3 ) , ( 7 , 9 ) , ( -2 , -3 ) , ( -2 , 8 ) }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>1</mn>\n                  <mo>,</mo>\n                  <mn>7</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>5</mn>\n                  <mo>,</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>7</mn>\n                  <mo>,</mo>\n                  <mn>9</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−2</mn>\n                  <mo>,</mo>\n                  <mn>−3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−2</mn>\n                  <mo>,</mo>\n                  <mn>8</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mo>}</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>1</mn>\n                  <mo>,</mo>\n                  <mn>7</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>5</mn>\n                  <mo>,</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>7</mn>\n                  <mo>,</mo>\n                  <mn>9</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−2</mn>\n                  <mo>,</mo>\n                  <mn>−3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−2</mn>\n                  <mo>,</mo>\n                  <mn>8</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mo>}</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 286,
+      "anchor": "fs-id1167836513003",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "Find the Domain and Range of a Relation",
+        "In the following exercises, for each relation ⓐ find the domain of the relation ⓑ find the range of the relation."
+      ],
+      "text": "\\({ ( 11 , 3 ) , ( -2 , -7 ) , ( 4 , -8 ) , ( 4 , 17 ) , ( -6 , 9 ) }\\)",
+      "math": [
+        "{ ( 11 , 3 ) , ( -2 , -7 ) , ( 4 , -8 ) , ( 4 , 17 ) , ( -6 , 9 ) }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>11</mn>\n                  <mo>,</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−2</mn>\n                  <mo>,</mo>\n                  <mn>−7</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>4</mn>\n                  <mo>,</mo>\n                  <mn>−8</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>4</mn>\n                  <mo>,</mo>\n                  <mn>17</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−6</mn>\n                  <mo>,</mo>\n                  <mn>9</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mo>}</mo>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>11</mn>\n                  <mo>,</mo>\n                  <mn>3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−2</mn>\n                  <mo>,</mo>\n                  <mn>−7</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>4</mn>\n                  <mo>,</mo>\n                  <mn>−8</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>4</mn>\n                  <mo>,</mo>\n                  <mn>17</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−6</mn>\n                  <mo>,</mo>\n                  <mn>9</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n            </mrow>\n            <mo>}</mo>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 287,
+      "anchor": "fs-id1167824736897",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "In the following exercises, for each relation ⓐ find the domain of the relation ⓑ find the range of the relation.",
+        "In the following exercises, use the mapping of the relation to ⓐ list the ordered pairs of the relation, ⓑ find the domain of the relation, and ⓒ find the range of the relation."
+      ],
+      "text": "[FIGURA: This figure shows two table that each have one column. The table on the left has the header “Name” and lists the names “Rebecca”, “Jennifer”, “John”, “Hector”, “Luis”, “Ebony”, “Raphael”, “Meredith”, “Karen”, and “Joseph”. The table on the right has the header “Birthday” and lists the dates “January 18”, “February 15”, “April 1”, “April 7”, “June 23”, “July 30”, “August 19”, and “November 6”. There are arrows starting at names in the Name table and pointing towards dates in the Birthday table. The first arrow goes from Rebecca to January 18. The second arrow goes from Jennifer to April 1. The third arrow goes from John to January 18. The fourth arrow goes from Hector to June 23. The fifth arrow goes from Luis to February 15. The sixth arrow goes from Ebony to April 7. The seventh arrow goes from Raphael to November 6. The eighth arrow goes from Meredith to August 19. The ninth arrow goes from Karen to August 19. The tenth arrow goes from Joseph to July 30.]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure shows two table that each have one column. The table on the left has the header “Name” and lists the names “Rebecca”, “Jennifer”, “John”, “Hector”, “Luis”, “Ebony”, “Raphael”, “Meredith”, “Karen”, and “Joseph”. The table on the right has the header “Birthday” and lists the dates “January 18”, “February 15”, “April 1”, “April 7”, “June 23”, “July 30”, “August 19”, and “November 6”. There are arrows starting at names in the Name table and pointing towards dates in the Birthday table. The first arrow goes from Rebecca to January 18. The second arrow goes from Jennifer to April 1. The third arrow goes from John to January 18. The fourth arrow goes from Hector to June 23. The fifth arrow goes from Luis to February 15. The sixth arrow goes from Ebony to April 7. The seventh arrow goes from Raphael to November 6. The eighth arrow goes from Meredith to August 19. The ninth arrow goes from Karen to August 19. The tenth arrow goes from Joseph to July 30."
+      ]
+    },
+    {
+      "number": 288,
+      "anchor": "fs-id1167836600990",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "In the following exercises, for each relation ⓐ find the domain of the relation ⓑ find the range of the relation.",
+        "In the following exercises, use the mapping of the relation to ⓐ list the ordered pairs of the relation, ⓑ find the domain of the relation, and ⓒ find the range of the relation."
+      ],
+      "text": "[FIGURA: This figure shows two table that each have one column. The table on the left has the header “Name” and lists the names “Amy”, “Carol”, “Devon”, “Harrison”, “Jackson”, “Labron”, “Mason”, “Natalie”, “Paul”, and “Sylvester”. The table on the right has the header “Birthday” and lists the dates “January 5”, “January 7”, “February 14”, “March 1”, “April 7”, “May 30”, “July 20”, “August 1”, “November 13”, and “November 26”. There are arrows starting at names in the Name table and pointing towards dates in the Birthday table. The first arrow goes from Amy to February 14. The second arrow goes from Carol to May 30. The third arrow goes from Devon to January 5. The fourth arrow goes from Harrison to January 7. The fifth arrow goes from Jackson to November 26. The sixth arrow goes from Labron to April 7. The seventh arrow goes from Mason to July 20. The eighth arrow goes from Natalie to March 1. The ninth arrow goes from Paul to August 1. The tenth arrow goes from Sylvester to November 13.]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure shows two table that each have one column. The table on the left has the header “Name” and lists the names “Amy”, “Carol”, “Devon”, “Harrison”, “Jackson”, “Labron”, “Mason”, “Natalie”, “Paul”, and “Sylvester”. The table on the right has the header “Birthday” and lists the dates “January 5”, “January 7”, “February 14”, “March 1”, “April 7”, “May 30”, “July 20”, “August 1”, “November 13”, and “November 26”. There are arrows starting at names in the Name table and pointing towards dates in the Birthday table. The first arrow goes from Amy to February 14. The second arrow goes from Carol to May 30. The third arrow goes from Devon to January 5. The fourth arrow goes from Harrison to January 7. The fifth arrow goes from Jackson to November 26. The sixth arrow goes from Labron to April 7. The seventh arrow goes from Mason to July 20. The eighth arrow goes from Natalie to March 1. The ninth arrow goes from Paul to August 1. The tenth arrow goes from Sylvester to November 13."
+      ]
+    },
+    {
+      "number": 289,
+      "anchor": "fs-id1167833128978",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "In the following exercises, for each relation ⓐ find the domain of the relation ⓑ find the range of the relation.",
+        "In the following exercises, use the mapping of the relation to ⓐ list the ordered pairs of the relation, ⓑ find the domain of the relation, and ⓒ find the range of the relation."
+      ],
+      "text": "For a woman of height \\(5′4″\\) the mapping below shows the corresponding Body Mass Index (BMI). The body mass index is a measurement of body fat based on height and weight. A BMI of \\(18.5–24.9\\) is considered healthy. [FIGURA: This figure shows two table that each have one column. The table on the left has the header “Weight (lbs)” and lists the numbers plus 100, 110, 120, 130, 140, 150, and 160. The table on the right has the header “BMI” and lists the numbers 18. 9, 22. 3, 17. 2, 24. 0, 25. 7, 20. 6, and 27. 5. There are arrows starting at numbers in the weight table and pointing towards numbers in the BMI table. The first arrow goes from plus 100 to 17. 2. The second arrow goes from 110 to 18. 9. The third arrow goes from 120 to 20. 6. The fourth arrow goes from 130 to 22. 3. The fifth arrow goes from 140 to 24. 0. The sixth arrow goes from 150 to 25. 7. The seventh arrow goes from 160 to 27. 5.]",
+      "math": [
+        "5′4″",
+        "18.5–24.9"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mo>′</mo><mn>4</mn><mo>″</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mo>′</mo><mn>4</mn><mo>″</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>18.5</mn><mo>–</mo><mn>24.9</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>18.5</mn><mo>–</mo><mn>24.9</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": [
+        "This figure shows two table that each have one column. The table on the left has the header “Weight (lbs)” and lists the numbers plus 100, 110, 120, 130, 140, 150, and 160. The table on the right has the header “BMI” and lists the numbers 18. 9, 22. 3, 17. 2, 24. 0, 25. 7, 20. 6, and 27. 5. There are arrows starting at numbers in the weight table and pointing towards numbers in the BMI table. The first arrow goes from plus 100 to 17. 2. The second arrow goes from 110 to 18. 9. The third arrow goes from 120 to 20. 6. The fourth arrow goes from 130 to 22. 3. The fifth arrow goes from 140 to 24. 0. The sixth arrow goes from 150 to 25. 7. The seventh arrow goes from 160 to 27. 5."
+      ]
+    },
+    {
+      "number": 290,
+      "anchor": "fs-id1167829590523",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "In the following exercises, for each relation ⓐ find the domain of the relation ⓑ find the range of the relation.",
+        "In the following exercises, use the mapping of the relation to ⓐ list the ordered pairs of the relation, ⓑ find the domain of the relation, and ⓒ find the range of the relation."
+      ],
+      "text": "For a man of height \\(5′11′′\\) the mapping below shows the corresponding Body Mass Index (BMI). The body mass index is a measurement of body fat based on height and weight. A BMI of \\(18.5–24.9\\) is considered healthy. [FIGURA: This figure shows two table that each have one column. The table on the left has the header “Weight (lbs)” and lists the numbers 130, 140, 150, 160, 170, 180, 190, and 200. The table on the right has the header “BMI” and lists the numbers 22. 3, 19. 5, 20. 9, 27. 9, 25. 1, 26. 5, 23. 7, and 18. 1. There are arrows starting at numbers in the weight table and pointing towards numbers in the BMI table. The first arrow goes from 130 to 18. 1. The second arrow goes from 140 to 19. 5. The third arrow goes from 150 to 20. 9. The fourth arrow goes from 160 to 22. 3. The fifth arrow goes from 170 to 23. 7. The sixth arrow goes from 180 to 25. 1. The seventh arrow goes from 190 to 26. 5. The eighth arrow goes from 200 to 27. 9.]",
+      "math": [
+        "5′11′′",
+        "18.5–24.9"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mo>′</mo><mn>11</mn><mo>′</mo><mo>′</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mo>′</mo><mn>11</mn><mo>′</mo><mo>′</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>18.5</mn><mo>–</mo><mn>24.9</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>18.5</mn><mo>–</mo><mn>24.9</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": [
+        "This figure shows two table that each have one column. The table on the left has the header “Weight (lbs)” and lists the numbers 130, 140, 150, 160, 170, 180, 190, and 200. The table on the right has the header “BMI” and lists the numbers 22. 3, 19. 5, 20. 9, 27. 9, 25. 1, 26. 5, 23. 7, and 18. 1. There are arrows starting at numbers in the weight table and pointing towards numbers in the BMI table. The first arrow goes from 130 to 18. 1. The second arrow goes from 140 to 19. 5. The third arrow goes from 150 to 20. 9. The fourth arrow goes from 160 to 22. 3. The fifth arrow goes from 170 to 23. 7. The sixth arrow goes from 180 to 25. 1. The seventh arrow goes from 190 to 26. 5. The eighth arrow goes from 200 to 27. 9."
+      ]
+    },
+    {
+      "number": 291,
+      "anchor": "fs-id1167836621459",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "In the following exercises, use the mapping of the relation to ⓐ list the ordered pairs of the relation, ⓑ find the domain of the relation, and ⓒ find the range of the relation.",
+        "In the following exercises, use the graph of the relation to ⓐ list the ordered pairs of the relation ⓑ find the domain of the relation ⓒ find the range of the relation."
+      ],
+      "text": "[FIGURA: The figure shows the graph of some points on the x y-coordinate plane. The x and y-axes run from negative 6 to 6. The points (negative 3, 4), (negative 3, negative 1), (0, negative 3), (2, 3), (4, negative 1), and (4, negative 3).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "The figure shows the graph of some points on the x y-coordinate plane. The x and y-axes run from negative 6 to 6. The points (negative 3, 4), (negative 3, negative 1), (0, negative 3), (2, 3), (4, negative 1), and (4, negative 3)."
+      ]
+    },
+    {
+      "number": 292,
+      "anchor": "fs-id1167833274699",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "In the following exercises, use the mapping of the relation to ⓐ list the ordered pairs of the relation, ⓑ find the domain of the relation, and ⓒ find the range of the relation.",
+        "In the following exercises, use the graph of the relation to ⓐ list the ordered pairs of the relation ⓑ find the domain of the relation ⓒ find the range of the relation."
+      ],
+      "text": "[FIGURA: The figure shows the graph of some points on the x y-coordinate plane. The x and y-axes run from negative 6 to 6. The points (negative 3, 4), (negative 3, negative 4), (negative 2, 0), (negative 1, 3), (1, 5), and (4, negative 2).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "The figure shows the graph of some points on the x y-coordinate plane. The x and y-axes run from negative 6 to 6. The points (negative 3, 4), (negative 3, negative 4), (negative 2, 0), (negative 1, 3), (1, 5), and (4, negative 2)."
+      ]
+    },
+    {
+      "number": 293,
+      "anchor": "fs-id1167836707143",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "In the following exercises, use the mapping of the relation to ⓐ list the ordered pairs of the relation, ⓑ find the domain of the relation, and ⓒ find the range of the relation.",
+        "In the following exercises, use the graph of the relation to ⓐ list the ordered pairs of the relation ⓑ find the domain of the relation ⓒ find the range of the relation."
+      ],
+      "text": "[FIGURA: The figure shows the graph of some points on the x y-coordinate plane. The x and y-axes run from negative 6 to 6. The points (negative 1, 4), (negative 1, negative 4), (0, 3), (0, negative 3), (1, 4), and (1, negative 4).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "The figure shows the graph of some points on the x y-coordinate plane. The x and y-axes run from negative 6 to 6. The points (negative 1, 4), (negative 1, negative 4), (0, 3), (0, negative 3), (1, 4), and (1, negative 4)."
+      ]
+    },
+    {
+      "number": 294,
+      "anchor": "fs-id1167836509162",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "In the following exercises, use the mapping of the relation to ⓐ list the ordered pairs of the relation, ⓑ find the domain of the relation, and ⓒ find the range of the relation.",
+        "In the following exercises, use the graph of the relation to ⓐ list the ordered pairs of the relation ⓑ find the domain of the relation ⓒ find the range of the relation."
+      ],
+      "text": "[FIGURA: The figure shows the graph of some points on the x y-coordinate plane. The x and y-axes run from negative 10 to 10. The points (negative 2, negative 6), (negative 2, negative 3), (0, 0), (0. 5, 1. 5), (1, 3), and (3, 6).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "The figure shows the graph of some points on the x y-coordinate plane. The x and y-axes run from negative 10 to 10. The points (negative 2, negative 6), (negative 2, negative 3), (0, 0), (0. 5, 1. 5), (1, 3), and (3, 6)."
+      ]
+    },
+    {
+      "number": 295,
+      "anchor": "fs-id1167829666517",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "Determine if a Relation is a Function",
+        "In the following exercises, use the set of ordered pairs to ⓐ determine whether the relation is a function, ⓑ find the domain of the relation, and ⓒ find the range of the relation."
+      ],
+      "text": "\\({ ( -3 , 9 ) , ( -2 , 4 ) , ( -1 , 1 ) ,\\) \\(( 0 , 0 ) , ( 1 , 1 ) , ( 2 , 4 ) , ( 3 , 9 ) }\\)",
+      "math": [
+        "{ ( -3 , 9 ) , ( -2 , 4 ) , ( -1 , 1 ) ,",
+        "( 0 , 0 ) , ( 1 , 1 ) , ( 2 , 4 ) , ( 3 , 9 ) }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−3</mn>\n                  <mo>,</mo>\n                  <mn>9</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−2</mn>\n                  <mo>,</mo>\n                  <mn>4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−1</mn>\n                  <mo>,</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n            </mrow>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−3</mn>\n                  <mo>,</mo>\n                  <mn>9</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−2</mn>\n                  <mo>,</mo>\n                  <mn>4</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−1</mn>\n                  <mo>,</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n            </mrow>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>",
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>0</mn>\n              <mo>,</mo>\n              <mn>0</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>,</mo>\n        </mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>1</mn>\n              <mo>,</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n        <mo>,</mo>\n        <mrow>\n          <mo>(</mo>\n          <mrow>\n            <mn>2</mn>\n            <mo>,</mo>\n            <mn>4</mn>\n          </mrow>\n          <mo>)</mo>\n        </mrow>\n        <mo>,</mo>\n        <mrow>\n          <mo>(</mo>\n          <mrow>\n            <mn>3</mn>\n            <mo>,</mo>\n            <mn>9</mn>\n          </mrow>\n          <mo>)</mo>\n        </mrow>\n        <mo>}</mo>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>0</mn>\n              <mo>,</mo>\n              <mn>0</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>,</mo>\n        </mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>1</mn>\n              <mo>,</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n        <mo>,</mo>\n        <mrow>\n          <mo>(</mo>\n          <mrow>\n            <mn>2</mn>\n            <mo>,</mo>\n            <mn>4</mn>\n          </mrow>\n          <mo>)</mo>\n        </mrow>\n        <mo>,</mo>\n        <mrow>\n          <mo>(</mo>\n          <mrow>\n            <mn>3</mn>\n            <mo>,</mo>\n            <mn>9</mn>\n          </mrow>\n          <mo>)</mo>\n        </mrow>\n        <mo>}</mo>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 296,
+      "anchor": "fs-id1167836688996",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "Determine if a Relation is a Function",
+        "In the following exercises, use the set of ordered pairs to ⓐ determine whether the relation is a function, ⓑ find the domain of the relation, and ⓒ find the range of the relation."
+      ],
+      "text": "\\({ ( 9 , -3 ) , ( 4 , -2 ) , ( 1 , -1 ) ,\\) \\(( 0 , 0 ) , ( 1 , 1 ) , ( 4 , 2 ) , ( 9 , 3 ) }\\)",
+      "math": [
+        "{ ( 9 , -3 ) , ( 4 , -2 ) , ( 1 , -1 ) ,",
+        "( 0 , 0 ) , ( 1 , 1 ) , ( 4 , 2 ) , ( 9 , 3 ) }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>9</mn>\n                  <mo>,</mo>\n                  <mn>−3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>4</mn>\n                  <mo>,</mo>\n                  <mn>−2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>1</mn>\n                  <mo>,</mo>\n                  <mn>−1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n            </mrow>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>9</mn>\n                  <mo>,</mo>\n                  <mn>−3</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>4</mn>\n                  <mo>,</mo>\n                  <mn>−2</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>1</mn>\n                  <mo>,</mo>\n                  <mn>−1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n            </mrow>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>",
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>0</mn>\n              <mo>,</mo>\n              <mn>0</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>,</mo>\n        </mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>1</mn>\n              <mo>,</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>,</mo>\n        </mrow>\n        <mrow>\n          <mo>(</mo>\n          <mrow>\n            <mn>4</mn>\n            <mo>,</mo>\n            <mn>2</mn>\n          </mrow>\n          <mo>)</mo>\n        </mrow>\n        <mo>,</mo>\n        <mrow>\n          <mo>(</mo>\n          <mrow>\n            <mn>9</mn>\n            <mo>,</mo>\n            <mn>3</mn>\n          </mrow>\n          <mo>)</mo>\n        </mrow>\n        <mo>}</mo>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>0</mn>\n              <mo>,</mo>\n              <mn>0</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>,</mo>\n        </mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>1</mn>\n              <mo>,</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>,</mo>\n        </mrow>\n        <mrow>\n          <mo>(</mo>\n          <mrow>\n            <mn>4</mn>\n            <mo>,</mo>\n            <mn>2</mn>\n          </mrow>\n          <mo>)</mo>\n        </mrow>\n        <mo>,</mo>\n        <mrow>\n          <mo>(</mo>\n          <mrow>\n            <mn>9</mn>\n            <mo>,</mo>\n            <mn>3</mn>\n          </mrow>\n          <mo>)</mo>\n        </mrow>\n        <mo>}</mo>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 297,
+      "anchor": "fs-id1167829745706",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "Determine if a Relation is a Function",
+        "In the following exercises, use the set of ordered pairs to ⓐ determine whether the relation is a function, ⓑ find the domain of the relation, and ⓒ find the range of the relation."
+      ],
+      "text": "\\({ ( -3 , 27 ) , ( -2 , 8 ) , ( -1 , 1 ) ,\\) \\(( 0 , 0 ) , ( 1 , 1 ) , ( 2 , 8 ) , ( 3 , 27 ) }\\)",
+      "math": [
+        "{ ( -3 , 27 ) , ( -2 , 8 ) , ( -1 , 1 ) ,",
+        "( 0 , 0 ) , ( 1 , 1 ) , ( 2 , 8 ) , ( 3 , 27 ) }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−3</mn>\n                  <mo>,</mo>\n                  <mn>27</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−2</mn>\n                  <mo>,</mo>\n                  <mn>8</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−1</mn>\n                  <mo>,</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n            </mrow>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−3</mn>\n                  <mo>,</mo>\n                  <mn>27</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−2</mn>\n                  <mo>,</mo>\n                  <mn>8</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−1</mn>\n                  <mo>,</mo>\n                  <mn>1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n            </mrow>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>",
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>0</mn>\n              <mo>,</mo>\n              <mn>0</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>,</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>1</mn>\n              <mo>,</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>,</mo>\n        </mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mo>,</mo>\n              <mn>8</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>,</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mo>,</mo>\n              <mn>27</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n        <mo>}</mo>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>0</mn>\n              <mo>,</mo>\n              <mn>0</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>,</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>1</mn>\n              <mo>,</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>,</mo>\n        </mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>2</mn>\n              <mo>,</mo>\n              <mn>8</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>,</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>3</mn>\n              <mo>,</mo>\n              <mn>27</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n        </mrow>\n        <mo>}</mo>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 298,
+      "anchor": "fs-id1167833138708",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "Determine if a Relation is a Function",
+        "In the following exercises, use the set of ordered pairs to ⓐ determine whether the relation is a function, ⓑ find the domain of the relation, and ⓒ find the range of the relation."
+      ],
+      "text": "\\({ ( -3 , -27 ) , ( -2 , -8 ) , ( -1 , -1 ) ,\\) \\(( 0 , 0 ) , ( 1 , 1 ) , ( 2 , 8 ) , ( 3 , 27 ) }\\)",
+      "math": [
+        "{ ( -3 , -27 ) , ( -2 , -8 ) , ( -1 , -1 ) ,",
+        "( 0 , 0 ) , ( 1 , 1 ) , ( 2 , 8 ) , ( 3 , 27 ) }"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−3</mn>\n                  <mo>,</mo>\n                  <mn>−27</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−2</mn>\n                  <mo>,</mo>\n                  <mn>−8</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−1</mn>\n                  <mo>,</mo>\n                  <mn>−1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n            </mrow>\n          </mrow>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>{</mo>\n            <mrow>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−3</mn>\n                  <mo>,</mo>\n                  <mn>−27</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−2</mn>\n                  <mo>,</mo>\n                  <mn>−8</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n              <mrow>\n                <mo>(</mo>\n                <mrow>\n                  <mn>−1</mn>\n                  <mo>,</mo>\n                  <mn>−1</mn>\n                </mrow>\n                <mo>)</mo>\n              </mrow>\n              <mo>,</mo>\n            </mrow>\n          </mrow>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>",
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>0</mn>\n              <mo>,</mo>\n              <mn>0</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>,</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>1</mn>\n              <mo>,</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>,</mo>\n        </mrow>\n        <mrow>\n          <mo>(</mo>\n          <mrow>\n            <mn>2</mn>\n            <mo>,</mo>\n            <mn>8</mn>\n          </mrow>\n          <mo>)</mo>\n        </mrow>\n        <mo>,</mo>\n        <mrow>\n          <mo>(</mo>\n          <mrow>\n            <mn>3</mn>\n            <mo>,</mo>\n            <mn>27</mn>\n          </mrow>\n          <mo>)</mo>\n        </mrow>\n        <mo>}</mo>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>0</mn>\n              <mo>,</mo>\n              <mn>0</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>,</mo>\n          <mrow>\n            <mo>(</mo>\n            <mrow>\n              <mn>1</mn>\n              <mo>,</mo>\n              <mn>1</mn>\n            </mrow>\n            <mo>)</mo>\n          </mrow>\n          <mo>,</mo>\n        </mrow>\n        <mrow>\n          <mo>(</mo>\n          <mrow>\n            <mn>2</mn>\n            <mo>,</mo>\n            <mn>8</mn>\n          </mrow>\n          <mo>)</mo>\n        </mrow>\n        <mo>,</mo>\n        <mrow>\n          <mo>(</mo>\n          <mrow>\n            <mn>3</mn>\n            <mo>,</mo>\n            <mn>27</mn>\n          </mrow>\n          <mo>)</mo>\n        </mrow>\n        <mo>}</mo>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 299,
+      "anchor": "fs-id1167829742787",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "In the following exercises, use the set of ordered pairs to ⓐ determine whether the relation is a function, ⓑ find the domain of the relation, and ⓒ find the range of the relation.",
+        "In the following exercises, use the mapping to ⓐ determine whether the relation is a function, ⓑ find the domain of the function, and ⓒ find the range of the function."
+      ],
+      "text": "[FIGURA: This figure shows two table that each have one column. The table on the left has the header “Number” and lists the numbers negative 3, negative 2, negative 1, 0, 1, 2, and 3. The table on the right has the header “Absolute Value” and lists the numbers 0, 1, 2, and 3. There are arrows starting at numbers in the number table and pointing towards numbers in the absolute value table. The first arrow goes from negative 3 to 3. The second arrow goes from negative 2 to 2. The third arrow goes from negative 1 to 1. The fourth arrow goes from 0 to 0. The fifth arrow goes from 1 to 1. The sixth arrow goes from 2 to 2. The seventh arrow goes from 3 to 3.]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure shows two table that each have one column. The table on the left has the header “Number” and lists the numbers negative 3, negative 2, negative 1, 0, 1, 2, and 3. The table on the right has the header “Absolute Value” and lists the numbers 0, 1, 2, and 3. There are arrows starting at numbers in the number table and pointing towards numbers in the absolute value table. The first arrow goes from negative 3 to 3. The second arrow goes from negative 2 to 2. The third arrow goes from negative 1 to 1. The fourth arrow goes from 0 to 0. The fifth arrow goes from 1 to 1. The sixth arrow goes from 2 to 2. The seventh arrow goes from 3 to 3."
+      ]
+    },
+    {
+      "number": 300,
+      "anchor": "fs-id1167829741614",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "In the following exercises, use the set of ordered pairs to ⓐ determine whether the relation is a function, ⓑ find the domain of the relation, and ⓒ find the range of the relation.",
+        "In the following exercises, use the mapping to ⓐ determine whether the relation is a function, ⓑ find the domain of the function, and ⓒ find the range of the function."
+      ],
+      "text": "[FIGURA: This figure shows two table that each have one column. The table on the left has the header “Number” and lists the numbers negative 3, negative 2, negative 1, 0, 1, 2, and 3. The table on the right has the header “Square” and lists the numbers 0, 1, 4, and 9. There are arrows starting at numbers in the number table and pointing towards numbers in the square table. The first arrow goes from negative 3 to 9. The second arrow goes from negative 2 to 4. The third arrow goes from negative 1 to 1. The fourth arrow goes from 0 to 0. The fifth arrow goes from 1 to 1. The sixth arrow goes from 2 to 4. The seventh arrow goes from 3 to 9.]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure shows two table that each have one column. The table on the left has the header “Number” and lists the numbers negative 3, negative 2, negative 1, 0, 1, 2, and 3. The table on the right has the header “Square” and lists the numbers 0, 1, 4, and 9. There are arrows starting at numbers in the number table and pointing towards numbers in the square table. The first arrow goes from negative 3 to 9. The second arrow goes from negative 2 to 4. The third arrow goes from negative 1 to 1. The fourth arrow goes from 0 to 0. The fifth arrow goes from 1 to 1. The sixth arrow goes from 2 to 4. The seventh arrow goes from 3 to 9."
+      ]
+    },
+    {
+      "number": 301,
+      "anchor": "fs-id1167836697708",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "In the following exercises, use the set of ordered pairs to ⓐ determine whether the relation is a function, ⓑ find the domain of the relation, and ⓒ find the range of the relation.",
+        "In the following exercises, use the mapping to ⓐ determine whether the relation is a function, ⓑ find the domain of the function, and ⓒ find the range of the function."
+      ],
+      "text": "[FIGURA: This figure shows two table that each have one column. The table on the left has the header “Name” and lists the names “Jenny”, “R and y”, “Dennis”, “Emily”, and “Raul”. The table on the right has the header “Email” and lists the email addresses RHern and ez@state. edu, JKim@gmail.com, Raul@gmail.com, ESmith@state. edu, DBrown@aol.com, jenny@aol.com, and R and y@gmail.com. There are arrows starting at names in the name table and pointing towards addresses in the email table. The first arrow goes from Jenny to JKim@gmail.com. The second arrow goes from Jenny to jenny@aol.com. The third arrow goes from R and y to R and y@gmail.com. The fourth arrow goes from Dennis to DBrown@aol.com. The fifth arrow goes from Emily to ESmith@state. edu. The sixth arrow goes from Raul to RHern and ez@state. edu. The seventh arrow goes from Raul to Raul@gmail.com.]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure shows two table that each have one column. The table on the left has the header “Name” and lists the names “Jenny”, “R and y”, “Dennis”, “Emily”, and “Raul”. The table on the right has the header “Email” and lists the email addresses RHern and ez@state. edu, JKim@gmail.com, Raul@gmail.com, ESmith@state. edu, DBrown@aol.com, jenny@aol.com, and R and y@gmail.com. There are arrows starting at names in the name table and pointing towards addresses in the email table. The first arrow goes from Jenny to JKim@gmail.com. The second arrow goes from Jenny to jenny@aol.com. The third arrow goes from R and y to R and y@gmail.com. The fourth arrow goes from Dennis to DBrown@aol.com. The fifth arrow goes from Emily to ESmith@state. edu. The sixth arrow goes from Raul to RHern and ez@state. edu. The seventh arrow goes from Raul to Raul@gmail.com."
+      ]
+    },
+    {
+      "number": 302,
+      "anchor": "fs-id1167833024527",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "In the following exercises, use the set of ordered pairs to ⓐ determine whether the relation is a function, ⓑ find the domain of the relation, and ⓒ find the range of the relation.",
+        "In the following exercises, use the mapping to ⓐ determine whether the relation is a function, ⓑ find the domain of the function, and ⓒ find the range of the function."
+      ],
+      "text": "[FIGURA: This figure shows two table that each have one column. The table on the left has the header “Name” and lists the names “Jon”, “Rachel”, “Matt”, “Leslie”, “Chris”, “Beth”, and “Liz”. The table on the right has the header “Email” and lists the email addresses chrisg@gmail.com, lizzie@aol.com, jong@gmail.com, mattg@gmail.com, Rachel@state. edu, leslie@aol.com, and bethc@gmail.com. There are arrows starting at names in the name table and pointing towards addresses in the email table. The first arrow goes from Jon to jong@gmail.com. The second arrow goes from Rachel to Rachel@state. edu. The third arrow goes from Matt to mattg@gmail.com. The fourth arrow goes from Leslie to leslie@aol.com. The fifth arrow goes from Chris to chrisg@gmail.com. The sixth arrow goes from Beth to bethc@gmail.com. The seventh arrow goes from Liz to lizzie@aol.com.]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure shows two table that each have one column. The table on the left has the header “Name” and lists the names “Jon”, “Rachel”, “Matt”, “Leslie”, “Chris”, “Beth”, and “Liz”. The table on the right has the header “Email” and lists the email addresses chrisg@gmail.com, lizzie@aol.com, jong@gmail.com, mattg@gmail.com, Rachel@state. edu, leslie@aol.com, and bethc@gmail.com. There are arrows starting at names in the name table and pointing towards addresses in the email table. The first arrow goes from Jon to jong@gmail.com. The second arrow goes from Rachel to Rachel@state. edu. The third arrow goes from Matt to mattg@gmail.com. The fourth arrow goes from Leslie to leslie@aol.com. The fifth arrow goes from Chris to chrisg@gmail.com. The sixth arrow goes from Beth to bethc@gmail.com. The seventh arrow goes from Liz to lizzie@aol.com."
+      ]
+    },
+    {
+      "number": 303,
+      "anchor": "fs-id1167836705606",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "In the following exercises, use the mapping to ⓐ determine whether the relation is a function, ⓑ find the domain of the function, and ⓒ find the range of the function.",
+        "In the following exercises, determine whether each equation is a function."
+      ],
+      "text": "ⓐ \\(2x+y=-3\\)ⓑ \\(y={x}^{2}\\)ⓒ \\(x+{y}^{2}=-5\\)",
+      "math": [
+        "2x+y=-3",
+        "y={x}^{2}",
+        "x+{y}^{2}=-5"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>−3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>−3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>−5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>−5</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 304,
+      "anchor": "fs-id1167836480280",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "In the following exercises, use the mapping to ⓐ determine whether the relation is a function, ⓑ find the domain of the function, and ⓒ find the range of the function.",
+        "In the following exercises, determine whether each equation is a function."
+      ],
+      "text": "ⓐ \\(y=3x-5\\)ⓑ \\(y={x}^{3}\\)ⓒ \\(2x+{y}^{2}=4\\)",
+      "math": [
+        "y=3x-5",
+        "y={x}^{3}",
+        "2x+{y}^{2}=4"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>5</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><msup><mi>x</mi><mn>3</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><msup><mi>x</mi><mn>3</mn></msup></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mi>x</mi><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mi>x</mi><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>4</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 305,
+      "anchor": "fs-id1167836526018",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "In the following exercises, use the mapping to ⓐ determine whether the relation is a function, ⓑ find the domain of the function, and ⓒ find the range of the function.",
+        "In the following exercises, determine whether each equation is a function."
+      ],
+      "text": "ⓐ \\(y-3{x}^{3}=2\\)ⓑ \\(x+{y}^{2}=3\\)ⓒ \\(3x-2y=6\\)",
+      "math": [
+        "y-3{x}^{3}=2",
+        "x+{y}^{2}=3",
+        "3x-2y=6"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>−</mo><mn>3</mn><msup><mi>x</mi><mn>3</mn></msup><mo>=</mo><mn>2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>−</mo><mn>3</mn><msup><mi>x</mi><mn>3</mn></msup><mo>=</mo><mn>2</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>6</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>3</mn><mi>x</mi><mo>−</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>6</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 306,
+      "anchor": "fs-id1167833212947",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "In the following exercises, use the mapping to ⓐ determine whether the relation is a function, ⓑ find the domain of the function, and ⓒ find the range of the function.",
+        "In the following exercises, determine whether each equation is a function."
+      ],
+      "text": "ⓐ \\(2x-4y=8\\)ⓑ \\(-4={x}^{2}-y\\)ⓒ \\({y}^{2}=-x+5\\)",
+      "math": [
+        "2x-4y=8",
+        "-4={x}^{2}-y",
+        "{y}^{2}=-x+5"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>8</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>8</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>−4</mn><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mi>y</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>−4</mn><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mi>y</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mtext>−</mtext><mi>x</mi><mo>+</mo><mn>5</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mtext>−</mtext><mi>x</mi><mo>+</mo><mn>5</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 307,
+      "anchor": "fs-id1167823013283",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "Find the Value of a Function",
+        "In the following exercises, evaluate the function: ⓐ \\(f(2)\\) ⓑ \\(f(-1)\\) ⓒ \\(f(a).\\)"
+      ],
+      "text": "\\(f ( x ) = 5 x - 3\\)",
+      "math": [
+        "f ( x ) = 5 x - 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 308,
+      "anchor": "fs-id1167829590640",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "Find the Value of a Function",
+        "In the following exercises, evaluate the function: ⓐ \\(f(2)\\) ⓑ \\(f(-1)\\) ⓒ \\(f(a).\\)"
+      ],
+      "text": "\\(f ( x ) = 3 x + 4\\)",
+      "math": [
+        "f ( x ) = 3 x + 4"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>4</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 309,
+      "anchor": "fs-id1167829744293",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "Find the Value of a Function",
+        "In the following exercises, evaluate the function: ⓐ \\(f(2)\\) ⓑ \\(f(-1)\\) ⓒ \\(f(a).\\)"
+      ],
+      "text": "\\(f ( x ) = -4 x + 2\\)",
+      "math": [
+        "f ( x ) = -4 x + 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>−4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>−4</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 310,
+      "anchor": "fs-id1167836391029",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "Find the Value of a Function",
+        "In the following exercises, evaluate the function: ⓐ \\(f(2)\\) ⓑ \\(f(-1)\\) ⓒ \\(f(a).\\)"
+      ],
+      "text": "\\(f ( x ) = -6 x - 3\\)",
+      "math": [
+        "f ( x ) = -6 x - 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>−6</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>−6</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 311,
+      "anchor": "fs-id1167829877909",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "Find the Value of a Function",
+        "In the following exercises, evaluate the function: ⓐ \\(f(2)\\) ⓑ \\(f(-1)\\) ⓒ \\(f(a).\\)"
+      ],
+      "text": "\\(f ( x ) = {x}^{2} - x + 3\\)",
+      "math": [
+        "f ( x ) = {x}^{2} - x + 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 312,
+      "anchor": "fs-id1167836787728",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "Find the Value of a Function",
+        "In the following exercises, evaluate the function: ⓐ \\(f(2)\\) ⓑ \\(f(-1)\\) ⓒ \\(f(a).\\)"
+      ],
+      "text": "\\(f ( x ) = {x}^{2} + x - 2\\)",
+      "math": [
+        "f ( x ) = {x}^{2} + x - 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 313,
+      "anchor": "fs-id1167836574347",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "Find the Value of a Function",
+        "In the following exercises, evaluate the function: ⓐ \\(f(2)\\) ⓑ \\(f(-1)\\) ⓒ \\(f(a).\\)"
+      ],
+      "text": "\\(f ( x ) = 2 {x}^{2} - x + 3\\)",
+      "math": [
+        "f ( x ) = 2 {x}^{2} - x + 3"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>3</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 314,
+      "anchor": "fs-id1167829877536",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "Find the Value of a Function",
+        "In the following exercises, evaluate the function: ⓐ \\(f(2)\\) ⓑ \\(f(-1)\\) ⓒ \\(f(a).\\)"
+      ],
+      "text": "\\(f ( x ) = 3 {x}^{2} + x - 2\\)",
+      "math": [
+        "f ( x ) = 3 {x}^{2} + x - 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>f</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>+</mo>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 315,
+      "anchor": "fs-id1167829595951",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "In the following exercises, evaluate the function: ⓐ \\(f(2)\\) ⓑ \\(f(-1)\\) ⓒ \\(f(a).\\)",
+        "In the following exercises, evaluate the function: ⓐ \\(g({h}^{2})\\) ⓑ \\(g(x+2)\\) ⓒ \\(g(x)+g(2).\\)"
+      ],
+      "text": "\\(g ( x ) = 2 x + 1\\)",
+      "math": [
+        "g ( x ) = 2 x + 1"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>g</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>g</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>2</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 316,
+      "anchor": "fs-id1167836399733",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "In the following exercises, evaluate the function: ⓐ \\(f(2)\\) ⓑ \\(f(-1)\\) ⓒ \\(f(a).\\)",
+        "In the following exercises, evaluate the function: ⓐ \\(g({h}^{2})\\) ⓑ \\(g(x+2)\\) ⓒ \\(g(x)+g(2).\\)"
+      ],
+      "text": "\\(g ( x ) = 5 x - 8\\)",
+      "math": [
+        "g ( x ) = 5 x - 8"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>g</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>8</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>g</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>8</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 317,
+      "anchor": "fs-id1167833054462",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "In the following exercises, evaluate the function: ⓐ \\(f(2)\\) ⓑ \\(f(-1)\\) ⓒ \\(f(a).\\)",
+        "In the following exercises, evaluate the function: ⓐ \\(g({h}^{2})\\) ⓑ \\(g(x+2)\\) ⓒ \\(g(x)+g(2).\\)"
+      ],
+      "text": "\\(g ( x ) = -3 x - 2\\)",
+      "math": [
+        "g ( x ) = -3 x - 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>g</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>−3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>g</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>−3</mn>\n          <mi>x</mi>\n          <mo>−</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 318,
+      "anchor": "fs-id1167829924597",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "In the following exercises, evaluate the function: ⓐ \\(f(2)\\) ⓑ \\(f(-1)\\) ⓒ \\(f(a).\\)",
+        "In the following exercises, evaluate the function: ⓐ \\(g({h}^{2})\\) ⓑ \\(g(x+2)\\) ⓒ \\(g(x)+g(2).\\)"
+      ],
+      "text": "\\(g ( x ) = -8 x + 2\\)",
+      "math": [
+        "g ( x ) = -8 x + 2"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>g</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>−8</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>g</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>−8</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 319,
+      "anchor": "fs-id1167836613442",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "In the following exercises, evaluate the function: ⓐ \\(f(2)\\) ⓑ \\(f(-1)\\) ⓒ \\(f(a).\\)",
+        "In the following exercises, evaluate the function: ⓐ \\(g({h}^{2})\\) ⓑ \\(g(x+2)\\) ⓒ \\(g(x)+g(2).\\)"
+      ],
+      "text": "\\(g ( x ) = 3 - x\\)",
+      "math": [
+        "g ( x ) = 3 - x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>g</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>3</mn>\n          <mo>−</mo>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>g</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>3</mn>\n          <mo>−</mo>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 320,
+      "anchor": "fs-id1167833381469",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "In the following exercises, evaluate the function: ⓐ \\(f(2)\\) ⓑ \\(f(-1)\\) ⓒ \\(f(a).\\)",
+        "In the following exercises, evaluate the function: ⓐ \\(g({h}^{2})\\) ⓑ \\(g(x+2)\\) ⓒ \\(g(x)+g(2).\\)"
+      ],
+      "text": "\\(g ( x ) = 7 - 5 x\\)",
+      "math": [
+        "g ( x ) = 7 - 5 x"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>g</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>7</mn>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mi>x</mi>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>g</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>7</mn>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mi>x</mi>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 321,
+      "anchor": "fs-id1167826025131",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "In the following exercises, evaluate the function: ⓐ \\(g({h}^{2})\\) ⓑ \\(g(x+2)\\) ⓒ \\(g(x)+g(2).\\)",
+        "In the following exercises, evaluate the function."
+      ],
+      "text": "\\(f(x)=3{x}^{2}-5x;\\) \\(f(2)\\)",
+      "math": [
+        "f(x)=3{x}^{2}-5x;",
+        "f(2)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>x</mi><mo>;</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>x</mi><mo>;</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mn>2</mn><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mn>2</mn><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 322,
+      "anchor": "fs-id1167833240212",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "In the following exercises, evaluate the function: ⓐ \\(g({h}^{2})\\) ⓑ \\(g(x+2)\\) ⓒ \\(g(x)+g(2).\\)",
+        "In the following exercises, evaluate the function."
+      ],
+      "text": "\\(g(x)=4{x}^{2}-3x;\\) \\(g(3)\\)",
+      "math": [
+        "g(x)=4{x}^{2}-3x;",
+        "g(3)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>x</mi><mo>;</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>3</mn><mi>x</mi><mo>;</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mo stretchy=\"false\">(</mo><mn>3</mn><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mo stretchy=\"false\">(</mo><mn>3</mn><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 323,
+      "anchor": "fs-id1167829713382",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "In the following exercises, evaluate the function: ⓐ \\(g({h}^{2})\\) ⓑ \\(g(x+2)\\) ⓒ \\(g(x)+g(2).\\)",
+        "In the following exercises, evaluate the function."
+      ],
+      "text": "\\(F ( x ) = 2 {x}^{2} - 3 x + 1 ;\\) \\(F ( -1 )\\)",
+      "math": [
+        "F ( x ) = 2 {x}^{2} - 3 x + 1 ;",
+        "F ( -1 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>F</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n          <mo>;</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>F</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>2</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>3</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>1</mn>\n          <mo>;</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>",
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>F</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mn>−1</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>F</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mn>−1</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 324,
+      "anchor": "fs-id1167833382456",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "In the following exercises, evaluate the function: ⓐ \\(g({h}^{2})\\) ⓑ \\(g(x+2)\\) ⓒ \\(g(x)+g(2).\\)",
+        "In the following exercises, evaluate the function."
+      ],
+      "text": "\\(G ( x ) = 3 {x}^{2} - 5 x + 2 ;\\) \\(G ( -2 )\\)",
+      "math": [
+        "G ( x ) = 3 {x}^{2} - 5 x + 2 ;",
+        "G ( -2 )"
+      ],
+      "mathml": [
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>G</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>;</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>G</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mi>x</mi>\n          <mo stretchy=\"false\">)</mo>\n          <mo>=</mo>\n          <mn>3</mn>\n          <msup>\n            <mi>x</mi>\n            <mn>2</mn>\n          </msup>\n          <mo>−</mo>\n          <mn>5</mn>\n          <mi>x</mi>\n          <mo>+</mo>\n          <mn>2</mn>\n          <mo>;</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>",
+        "<math display=\"inline\">\n    <semantics>\n      <mrow>\n        <mrow>\n          <mi>G</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mn>−2</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </mrow>\n      <annotation-xml encoding=\"MathML-Content\">\n        <mrow>\n          <mi>G</mi>\n          <mo stretchy=\"false\">(</mo>\n          <mn>−2</mn>\n          <mo stretchy=\"false\">)</mo>\n        </mrow>\n      </annotation-xml>\n    </semantics>\n  </math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 325,
+      "anchor": "fs-id1167833052040",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "In the following exercises, evaluate the function: ⓐ \\(g({h}^{2})\\) ⓑ \\(g(x+2)\\) ⓒ \\(g(x)+g(2).\\)",
+        "In the following exercises, evaluate the function."
+      ],
+      "text": "\\(h(t)=2|t-5|+4;\\) \\(h(-4)\\)",
+      "math": [
+        "h(t)=2|t-5|+4;",
+        "h(-4)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mo stretchy=\"false\">(</mo><mi>t</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>2</mn><mrow><mo>|</mo><mrow><mi>t</mi><mo>−</mo><mn>5</mn></mrow><mo>|</mo></mrow><mo>+</mo><mn>4</mn><mo>;</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mo stretchy=\"false\">(</mo><mi>t</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>2</mn><mrow><mo>|</mo><mrow><mi>t</mi><mo>−</mo><mn>5</mn></mrow><mo>|</mo></mrow><mo>+</mo><mn>4</mn><mo>;</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mo stretchy=\"false\">(</mo><mn>−4</mn><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mo stretchy=\"false\">(</mo><mn>−4</mn><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 326,
+      "anchor": "fs-id1167836649081",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "In the following exercises, evaluate the function: ⓐ \\(g({h}^{2})\\) ⓑ \\(g(x+2)\\) ⓒ \\(g(x)+g(2).\\)",
+        "In the following exercises, evaluate the function."
+      ],
+      "text": "\\(h(y)=3|y-1|-3;\\) \\(h(-4)\\)",
+      "math": [
+        "h(y)=3|y-1|-3;",
+        "h(-4)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mo stretchy=\"false\">(</mo><mi>y</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>3</mn><mrow><mo>|</mo><mrow><mi>y</mi><mo>−</mo><mn>1</mn></mrow><mo>|</mo></mrow><mo>−</mo><mn>3</mn><mo>;</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mo stretchy=\"false\">(</mo><mi>y</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>3</mn><mrow><mo>|</mo><mrow><mi>y</mi><mo>−</mo><mn>1</mn></mrow><mo>|</mo></mrow><mo>−</mo><mn>3</mn><mo>;</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mo stretchy=\"false\">(</mo><mn>−4</mn><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mo stretchy=\"false\">(</mo><mn>−4</mn><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 327,
+      "anchor": "fs-id1167829906037",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "In the following exercises, evaluate the function: ⓐ \\(g({h}^{2})\\) ⓑ \\(g(x+2)\\) ⓒ \\(g(x)+g(2).\\)",
+        "In the following exercises, evaluate the function."
+      ],
+      "text": "\\(f(x)=\\frac{x+2}{x-1};\\) \\(f(2)\\)",
+      "math": [
+        "f(x)=\\frac{x+2}{x-1};",
+        "f(2)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mfrac><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></mfrac><mo>;</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mfrac><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mrow><mi>x</mi><mo>−</mo><mn>1</mn></mrow></mfrac><mo>;</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mn>2</mn><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mn>2</mn><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 328,
+      "anchor": "fs-id1167833309035",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "In the following exercises, evaluate the function: ⓐ \\(g({h}^{2})\\) ⓑ \\(g(x+2)\\) ⓒ \\(g(x)+g(2).\\)",
+        "In the following exercises, evaluate the function."
+      ],
+      "text": "\\(g(x)=\\frac{x-2}{x+2};\\) \\(g(4)\\)",
+      "math": [
+        "g(x)=\\frac{x-2}{x+2};",
+        "g(4)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mfrac><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfrac><mo>;</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mfrac><mrow><mi>x</mi><mo>−</mo><mn>2</mn></mrow><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfrac><mo>;</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mo stretchy=\"false\">(</mo><mn>4</mn><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mo stretchy=\"false\">(</mo><mn>4</mn><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 329,
+      "anchor": "fs-id1167836409832",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "In the following exercises, evaluate the function.",
+        "In the following exercises, solve."
+      ],
+      "text": "The number of unwatched shows in Sylvia’s DVR is 85. This number grows by 20 unwatched shows per week. The function \\(N(t)=85+20t\\) represents the relation between the number of unwatched shows, N, and the time, t, measured in weeks. ⓐ Determine the independent and dependent variable. ⓑ Find \\(N(4).\\) Explain what this result means",
+      "math": [
+        "N(t)=85+20t",
+        "N(4)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>N</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mn>85</mn><mo>+</mo><mn>20</mn><mi>t</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>N</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mn>85</mn><mo>+</mo><mn>20</mn><mi>t</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>N</mi><mrow><mo>(</mo><mn>4</mn><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>N</mi><mrow><mo>(</mo><mn>4</mn><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 330,
+      "anchor": "fs-id1167825884747",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "In the following exercises, evaluate the function.",
+        "In the following exercises, solve."
+      ],
+      "text": "Every day a new puzzle is downloaded into Ken’s account. Right now he has 43 puzzles in his account. The function \\(N(t)=43+t\\) represents the relation between the number of puzzles, N, and the time, t, measured in days. ⓐ Determine the independent and dependent variable. ⓑ Find \\(N(30).\\) Explain what this result means.",
+      "math": [
+        "N(t)=43+t",
+        "N(30)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>N</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mn>43</mn><mo>+</mo><mi>t</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>N</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mn>43</mn><mo>+</mo><mi>t</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>N</mi><mrow><mo>(</mo><mrow><mn>30</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>N</mi><mrow><mo>(</mo><mrow><mn>30</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 331,
+      "anchor": "fs-id1167833380107",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "In the following exercises, evaluate the function.",
+        "In the following exercises, solve."
+      ],
+      "text": "The daily cost to the printing company to print a book is modeled by the function \\(C(x)=3.25x+1500\\) where C is the total daily cost in dollars and x is the number of books printed. ⓐ Determine the independent and dependent variable. ⓑ Find \\(C(0).\\) Explain what this result means. ⓒ Find \\(C(1000).\\) Explain what this result means.",
+      "math": [
+        "C(x)=3.25x+1500",
+        "C(0).",
+        "C(1000)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>C</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>3.25</mn><mi>x</mi><mo>+</mo><mn>1500</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>C</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>3.25</mn><mi>x</mi><mo>+</mo><mn>1500</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>C</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>C</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>C</mi><mrow><mo>(</mo><mrow><mn>1000</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>C</mi><mrow><mo>(</mo><mrow><mn>1000</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 332,
+      "anchor": "fs-id1167829749356",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "In the following exercises, evaluate the function.",
+        "In the following exercises, solve."
+      ],
+      "text": "The daily cost to the manufacturing company is modeled by the function \\(C(x)=7.25x+2500\\) where \\(C(x)\\) is the total daily cost and x is the number of items manufactured. ⓐ Determine the independent and dependent variable. ⓑ Find \\(C(0).\\) Explain what this result means. ⓒ Find \\(C(1000).\\) Explain what this result means.",
+      "math": [
+        "C(x)=7.25x+2500",
+        "C(x)",
+        "C(0).",
+        "C(1000)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>C</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>7.25</mn><mi>x</mi><mo>+</mo><mn>2500</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>C</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>=</mo><mn>7.25</mn><mi>x</mi><mo>+</mo><mn>2500</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>C</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>C</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>C</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>C</mi><mrow><mo>(</mo><mn>0</mn><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>C</mi><mrow><mo>(</mo><mrow><mn>1000</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>C</mi><mrow><mo>(</mo><mrow><mn>1000</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": 333,
+      "anchor": "fs-id1167829756267",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "In your own words, explain the difference between a relation and a function.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 334,
+      "anchor": "fs-id1167829878971",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "In your own words, explain what is meant by domain and range.",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 335,
+      "anchor": "fs-id1167833054114",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "Is every relation a function? Is every function a relation?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    },
+    {
+      "number": 336,
+      "anchor": "fs-id1167836755014",
+      "page": "3-5-relations-and-functions",
+      "context": [
+        "Writing Exercises"
+      ],
+      "text": "How do you find the value of a function?",
+      "math": [],
+      "mathml": [],
+      "figures": []
+    }
+  ],
+  "practice": [
+    {
+      "number": "3.83",
+      "page": "3-5-relations-and-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167833272898",
+      "context": [
+        "Find the Domain and Range of a Relation"
+      ],
+      "text": "For the relation \\({(1,1),(2,8),(3,27),(4,64),(5,125)}:\\) ⓐ Find the domain of the relation. ⓑ Find the range of the relation.",
+      "math": [
+        "{(1,1),(2,8),(3,27),(4,64),(5,125)}:"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>8</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>27</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>64</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>5</mn><mo>,</mo><mn>125</mn></mrow><mo>)</mo></mrow></mrow><mo>}</mo></mrow><mo>:</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>8</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>27</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>64</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>5</mn><mo>,</mo><mn>125</mn></mrow><mo>)</mo></mrow></mrow><mo>}</mo></mrow><mo>:</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.84",
+      "page": "3-5-relations-and-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167836688426",
+      "context": [
+        "Find the Domain and Range of a Relation"
+      ],
+      "text": "For the relation \\({(1,3),(2,6),(3,9),(4,12),(5,15)}:\\) ⓐ Find the domain of the relation. ⓑ Find the range of the relation.",
+      "math": [
+        "{(1,3),(2,6),(3,9),(4,12),(5,15)}:"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>6</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>9</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>12</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>5</mn><mo>,</mo><mn>15</mn></mrow><mo>)</mo></mrow></mrow><mo>}</mo></mrow><mo>:</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mrow><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>6</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>9</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>12</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>5</mn><mo>,</mo><mn>15</mn></mrow><mo>)</mo></mrow></mrow><mo>}</mo></mrow><mo>:</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.85",
+      "page": "3-5-relations-and-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167824700008",
+      "context": [
+        "Find the Domain and Range of a Relation"
+      ],
+      "text": "Use the mapping of the relation shown to ⓐ list the ordered pairs of the relation ⓑ find the domain of the relation ⓒ find the range of the relation. [FIGURA: This figure shows two table that each have one column. The table on the left has the header “Name” and lists the names “Khanh Nguyen”, “Abigail Brown”, “Sumantha Mishal”, and “Jose Hern and ez”. The table on the right has the header “Student ID #” and lists the codes “a b 56781”, “j h 47983”, “k n 68413”, and “s m 32479”. There is one arrow for each name in the Name table that starts at the name and points toward a code in the student ID table. The first arrow goes from Khanh Nguyen to k n 68413. The second arrow goes from Abigail Brown to a b 56781. The third arrow goes from Sumantha Mishal to s m 32479. The fourth arrow goes from Jose Hern and ez to j h 47983.]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure shows two table that each have one column. The table on the left has the header “Name” and lists the names “Khanh Nguyen”, “Abigail Brown”, “Sumantha Mishal”, and “Jose Hern and ez”. The table on the right has the header “Student ID #” and lists the codes “a b 56781”, “j h 47983”, “k n 68413”, and “s m 32479”. There is one arrow for each name in the Name table that starts at the name and points toward a code in the student ID table. The first arrow goes from Khanh Nguyen to k n 68413. The second arrow goes from Abigail Brown to a b 56781. The third arrow goes from Sumantha Mishal to s m 32479. The fourth arrow goes from Jose Hern and ez to j h 47983."
+      ]
+    },
+    {
+      "number": "3.86",
+      "page": "3-5-relations-and-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167836663646",
+      "context": [
+        "Find the Domain and Range of a Relation"
+      ],
+      "text": "Use the mapping of the relation shown to ⓐ list the ordered pairs of the relation ⓑ find the domain of the relation ⓒ find the range of the relation. [FIGURA: This figure shows two table that each have one column. The table on the left has the header “Name” and lists the names “Maria”, “Arm and o”, “Cynthia”, “Kelly”, and “Rachel”. The table on the right has the header “Birthday” and lists the dates “January 18”, “March 15”, “November 6”, and “December 8”. There is one arrow for each name in the Name table that starts at the name and points toward a date in the Birthday table. The first arrow goes from Maria to November 6. The second arrow goes from Arm and o to a January 18. The third arrow goes from Cynthia to December 8. The fourth arrow goes from Kelly to March 15. The fifth arrow goes from Rachel to November 6.]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure shows two table that each have one column. The table on the left has the header “Name” and lists the names “Maria”, “Arm and o”, “Cynthia”, “Kelly”, and “Rachel”. The table on the right has the header “Birthday” and lists the dates “January 18”, “March 15”, “November 6”, and “December 8”. There is one arrow for each name in the Name table that starts at the name and points toward a date in the Birthday table. The first arrow goes from Maria to November 6. The second arrow goes from Arm and o to a January 18. The third arrow goes from Cynthia to December 8. The fourth arrow goes from Kelly to March 15. The fifth arrow goes from Rachel to November 6."
+      ]
+    },
+    {
+      "number": "3.87",
+      "page": "3-5-relations-and-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167829850985",
+      "context": [
+        "Find the Domain and Range of a Relation"
+      ],
+      "text": "Use the graph of the relation to ⓐ list the ordered pairs of the relation ⓑ find the domain of the relation ⓒ find the range of the relation. [FIGURA: The figure shows the graph of some points on the x y-coordinate plane. The x and y-axes run from negative 6 to 6. The points (negative 3, 3), (negative 2, 2), (negative 1, 0), (0, negative 1), (2, negative 2), and (4, negative 4).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "The figure shows the graph of some points on the x y-coordinate plane. The x and y-axes run from negative 6 to 6. The points (negative 3, 3), (negative 2, 2), (negative 1, 0), (0, negative 1), (2, negative 2), and (4, negative 4)."
+      ]
+    },
+    {
+      "number": "3.88",
+      "page": "3-5-relations-and-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167833056928",
+      "context": [
+        "Find the Domain and Range of a Relation"
+      ],
+      "text": "Use the graph of the relation to ⓐ list the ordered pairs of the relation ⓑ find the domain of the relation ⓒ find the range of the relation. [FIGURA: The figure shows the graph of some points on the x y-coordinate plane. The x and y-axes run from negative 6 to 6. The points (negative 3, 5), (negative 3, 0), (negative 3, negative 6), (negative 1, negative 2), (1, 2), and (4, negative 4).]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "The figure shows the graph of some points on the x y-coordinate plane. The x and y-axes run from negative 6 to 6. The points (negative 3, 5), (negative 3, 0), (negative 3, negative 6), (negative 1, negative 2), (1, 2), and (4, negative 4)."
+      ]
+    },
+    {
+      "number": "3.89",
+      "page": "3-5-relations-and-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167836356655",
+      "context": [
+        "Determine if a Relation is a Function"
+      ],
+      "text": "Use the set of ordered pairs to (i) determine whether the relation is a function (ii) find the domain of the relation (iii) find the range of the function. ⓐ \\({(-3,-6),(-2,-4),(-1,-2),(0,0),(1,2),(2,4),(3,6)}\\) ⓑ \\({(8,-4),(4,-2),(2,-1),(0,0),(2,1),(4,2),(8,4)}\\)",
+      "math": [
+        "{(-3,-6),(-2,-4),(-1,-2),(0,0),(1,2),(2,4),(3,6)}",
+        "{(8,-4),(4,-2),(2,-1),(0,0),(2,1),(4,2),(8,4)}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−6</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>6</mn></mrow><mo>)</mo></mrow></mrow><mo>}</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mrow><mrow><mo>(</mo><mrow><mn>−3</mn><mo>,</mo><mn>−6</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mn>6</mn></mrow><mo>)</mo></mrow></mrow><mo>}</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mrow><mrow><mo>(</mo><mrow><mn>8</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>8</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow><mo>}</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mrow><mrow><mo>(</mo><mrow><mn>8</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>2</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>8</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow></mrow><mo>}</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.90",
+      "page": "3-5-relations-and-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167836533244",
+      "context": [
+        "Determine if a Relation is a Function"
+      ],
+      "text": "Use the set of ordered pairs to (i) determine whether the relation is a function (ii) find the domain of the relation (iii) find the range of the relation. ⓐ \\({(27,-3),(8,-2),(1,-1),(0,0),(1,1),(8,2),(27,3)}\\) ⓑ \\({(7,-3),(-5,-4),(8,0),(0,0),(-6,4),(-2,2),(-1,3)}\\)",
+      "math": [
+        "{(27,-3),(8,-2),(1,-1),(0,0),(1,1),(8,2),(27,3)}",
+        "{(7,-3),(-5,-4),(8,0),(0,0),(-6,4),(-2,2),(-1,3)}"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mrow><mrow><mo>(</mo><mrow><mn>27</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>8</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>8</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>27</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mo>}</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mrow><mrow><mo>(</mo><mrow><mn>27</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>8</mn><mo>,</mo><mn>−2</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>−1</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>1</mn><mo>,</mo><mn>1</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>8</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>27</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mo>}</mo></mrow></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mrow><mo>{</mo><mrow><mrow><mo>(</mo><mrow><mn>7</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>−5</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>8</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>−6</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mo>}</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mrow><mo>{</mo><mrow><mrow><mo>(</mo><mrow><mn>7</mn><mo>,</mo><mn>−3</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>−5</mn><mo>,</mo><mn>−4</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>8</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>0</mn><mo>,</mo><mn>0</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>−6</mn><mo>,</mo><mn>4</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>−2</mn><mo>,</mo><mn>2</mn></mrow><mo>)</mo></mrow><mo>,</mo><mrow><mo>(</mo><mrow><mn>−1</mn><mo>,</mo><mn>3</mn></mrow><mo>)</mo></mrow></mrow><mo>}</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.91",
+      "page": "3-5-relations-and-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167833397170",
+      "context": [
+        "Determine if a Relation is a Function"
+      ],
+      "text": "Use the mapping to ⓐ determine whether the relation is a function ⓑ find the domain of the relation ⓒ find the range of the relation. [FIGURA: This figure shows two table that each have one column. The table on the left has the header “Network” and lists the television stations “NBC”, “HGTV”, and “HBO”. The table on the right has the header “Program” and lists the television shows “Ellen Degeneres Show”, “Law and Order”, “Tonight Show”, “Property Brothers”, “House Hunters”, “Love it or List it”, “Game of Thrones”, “True Detective”, and “Sesame Street”. There are arrows that start at a network in the first table and point toward a program in the second table. The first arrow goes from NBC to Ellen Degeneres Show. The second arrow goes from NBC to Law and Order. The third arrow goes from NBC to Tonight Show. The fourth arrow goes from HGTV to Property Brothers. The fifth arrow goes from HGTV to House Hunters. The sixth arrow goes from HGTV to Love it or List it. The seventh arrow goes from HBO to Game of Thrones. The eighth arrow goes from HBO to True Detective. The ninth arrow goes from HBO to Sesame Street.]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure shows two table that each have one column. The table on the left has the header “Network” and lists the television stations “NBC”, “HGTV”, and “HBO”. The table on the right has the header “Program” and lists the television shows “Ellen Degeneres Show”, “Law and Order”, “Tonight Show”, “Property Brothers”, “House Hunters”, “Love it or List it”, “Game of Thrones”, “True Detective”, and “Sesame Street”. There are arrows that start at a network in the first table and point toward a program in the second table. The first arrow goes from NBC to Ellen Degeneres Show. The second arrow goes from NBC to Law and Order. The third arrow goes from NBC to Tonight Show. The fourth arrow goes from HGTV to Property Brothers. The fifth arrow goes from HGTV to House Hunters. The sixth arrow goes from HGTV to Love it or List it. The seventh arrow goes from HBO to Game of Thrones. The eighth arrow goes from HBO to True Detective. The ninth arrow goes from HBO to Sesame Street."
+      ]
+    },
+    {
+      "number": "3.92",
+      "page": "3-5-relations-and-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167836606033",
+      "context": [
+        "Determine if a Relation is a Function"
+      ],
+      "text": "Use the mapping to ⓐ determine whether the relation is a function ⓑ find the domain of the relation ⓒ find the range of the relation. [FIGURA: This figure shows two table that each have one column. The table on the left has the header “Name” and lists the names “Neal”, “Krystal”, “Kelvin”, “George”, “Christa”, and “Mike”. The table on the right has the header “Phone number” and lists the numbers “123-567-4389 work”, “231-378-5941 cell”, “753-469-9731 cell”, “567-534-2970 work”, “684-369-7231 cell”, “798-367-8541 cell”, and “639-847-6971 cell”. There are arrows that start at a name and points toward a number in the phone number table. The first arrow goes from Neal to 753-469-9731 cell. The second arrow goes from Krystal to a 684-369-7231 cell. The third arrow goes from Kelvin to 231-378-5941 cell. The fourth arrow goes from George to 123-567-4389 work. The fifth arrow goes from George to 639-847-6971 cell. The sixth arrow goes from Christa to 567-534-2970 work. The seventh arrow goes from Mike to 567-534-2970 work. The eighth arrow goes from Mike to 798-367-8541 cell.]",
+      "math": [],
+      "mathml": [],
+      "figures": [
+        "This figure shows two table that each have one column. The table on the left has the header “Name” and lists the names “Neal”, “Krystal”, “Kelvin”, “George”, “Christa”, and “Mike”. The table on the right has the header “Phone number” and lists the numbers “123-567-4389 work”, “231-378-5941 cell”, “753-469-9731 cell”, “567-534-2970 work”, “684-369-7231 cell”, “798-367-8541 cell”, and “639-847-6971 cell”. There are arrows that start at a name and points toward a number in the phone number table. The first arrow goes from Neal to 753-469-9731 cell. The second arrow goes from Krystal to a 684-369-7231 cell. The third arrow goes from Kelvin to 231-378-5941 cell. The fourth arrow goes from George to 123-567-4389 work. The fifth arrow goes from George to 639-847-6971 cell. The sixth arrow goes from Christa to 567-534-2970 work. The seventh arrow goes from Mike to 567-534-2970 work. The eighth arrow goes from Mike to 798-367-8541 cell."
+      ]
+    },
+    {
+      "number": "3.93",
+      "page": "3-5-relations-and-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167836585298",
+      "context": [
+        "Determine if a Relation is a Function"
+      ],
+      "text": "Determine whether each equation is a function. ⓐ \\(4x+y=-3\\) ⓑ \\(x+{y}^{2}=1\\) ⓒ \\(y-{x}^{2}=2\\)",
+      "math": [
+        "4x+y=-3",
+        "x+{y}^{2}=1",
+        "y-{x}^{2}=2"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>−3</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>−3</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>1</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>1</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>−</mo><msup><mi>x</mi><mn>2</mn></msup><mo>=</mo><mn>2</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>−</mo><msup><mi>x</mi><mn>2</mn></msup><mo>=</mo><mn>2</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.94",
+      "page": "3-5-relations-and-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167829579861",
+      "context": [
+        "Determine if a Relation is a Function"
+      ],
+      "text": "Determine whether each equation is a function. ⓐ \\(x+{y}^{2}=4\\) ⓑ \\(y={x}^{2}-7\\) ⓒ \\(y=5x-4\\)",
+      "math": [
+        "x+{y}^{2}=4",
+        "y={x}^{2}-7",
+        "y=5x-4"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>x</mi><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>x</mi><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>4</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>7</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>7</mn></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>y</mi><mo>=</mo><mn>5</mn><mi>x</mi><mo>−</mo><mn>4</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>y</mi><mo>=</mo><mn>5</mn><mi>x</mi><mo>−</mo><mn>4</mn></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.95",
+      "page": "3-5-relations-and-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167836648690",
+      "context": [
+        "Find the Value of a Function"
+      ],
+      "text": "For the function \\(f(x)=3{x}^{2}-2x+1,\\) evaluate the function. ⓐ \\(f(3)\\) ⓑ \\(f(-1)\\) ⓒ \\(f(t)\\)",
+      "math": [
+        "f(x)=3{x}^{2}-2x+1,",
+        "f(3)",
+        "f(-1)",
+        "f(t)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mn>3</mn><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mn>3</mn><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mn>−1</mn><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mn>−1</mn><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>t</mi><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>t</mi><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.96",
+      "page": "3-5-relations-and-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167836729386",
+      "context": [
+        "Find the Value of a Function"
+      ],
+      "text": "For the function \\(f(x)=2{x}^{2}+4x-3,\\) evaluate the function. ⓐ \\(f(2)\\) ⓑ \\(f(-3)\\) ⓒ \\(f(h)\\)",
+      "math": [
+        "f(x)=2{x}^{2}+4x-3,",
+        "f(2)",
+        "f(-3)",
+        "f(h)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn><mi>x</mi><mo>−</mo><mn>3</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn><mi>x</mi><mo>−</mo><mn>3</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mn>2</mn><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mn>2</mn><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mn>−3</mn><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mn>−3</mn><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>h</mi><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>f</mi><mo stretchy=\"false\">(</mo><mi>h</mi><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.97",
+      "page": "3-5-relations-and-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167832940643",
+      "context": [
+        "Find the Value of a Function"
+      ],
+      "text": "For the function \\(g(x)=4x-7,\\) evaluate the function. ⓐ \\(g({m}^{2})\\) ⓑ \\(g(x-3)\\) ⓒ \\(g(x)-g(3)\\)",
+      "math": [
+        "g(x)=4x-7,",
+        "g({m}^{2})",
+        "g(x-3)",
+        "g(x)-g(3)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>4</mn><mi>x</mi><mo>−</mo><mn>7</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>4</mn><mi>x</mi><mo>−</mo><mn>7</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mo stretchy=\"false\">(</mo><msup><mi>m</mi><mn>2</mn></msup><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mo stretchy=\"false\">(</mo><msup><mi>m</mi><mn>2</mn></msup><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo>−</mo><mn>3</mn><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo>−</mo><mn>3</mn><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>−</mo><mi>g</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>g</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>−</mo><mi>g</mi><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.98",
+      "page": "3-5-relations-and-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167829850925",
+      "context": [
+        "Find the Value of a Function"
+      ],
+      "text": "For the function \\(h(x)=2x+1,\\) evaluate the function. ⓐ \\(h({k}^{2})\\) ⓑ \\(h(x+1)\\) ⓒ \\(h(x)+h(1)\\)",
+      "math": [
+        "h(x)=2x+1,",
+        "h({k}^{2})",
+        "h(x+1)",
+        "h(x)+h(1)"
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn><mo>,</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn><mo>,</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mo stretchy=\"false\">(</mo><msup><mi>k</mi><mn>2</mn></msup><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mo stretchy=\"false\">(</mo><msup><mi>k</mi><mn>2</mn></msup><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mo stretchy=\"false\">(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>+</mo><mi>h</mi><mrow><mo>(</mo><mn>1</mn><mo>)</mo></mrow></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>h</mi><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow><mo>+</mo><mi>h</mi><mrow><mo>(</mo><mn>1</mn><mo>)</mo></mrow></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.99",
+      "page": "3-5-relations-and-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167833227116",
+      "context": [
+        "Find the Value of a Function"
+      ],
+      "text": "The number of unread emails in Bryan’s account is 100. This number grows by 15 unread emails a day. The function \\(N(t)=100+15t\\) represents the relation between the number of emails, N, and the time, t, measured in days. ⓐ Determine the independent and dependent variable. ⓑ Find \\(N(7).\\) Explain what this result means.",
+      "math": [
+        "N(t)=100+15t",
+        "N(7)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>N</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mn>100</mn><mo>+</mo><mn>15</mn><mi>t</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>N</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mn>100</mn><mo>+</mo><mn>15</mn><mi>t</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>N</mi><mrow><mo>(</mo><mn>7</mn><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>N</mi><mrow><mo>(</mo><mn>7</mn><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    },
+    {
+      "number": "3.100",
+      "page": "3-5-relations-and-functions",
+      "is_try_it": true,
+      "anchor": "fs-id1167829786754",
+      "context": [
+        "Find the Value of a Function"
+      ],
+      "text": "The number of unread emails in Anthony’s account is 110. This number grows by 25 unread emails a day. The function \\(N(t)=110+25t\\) represents the relation between the number of emails, N, and the time, t, measured in days. ⓐ Determine the independent and dependent variable. ⓑ Find \\(N(14).\\) Explain what this result means.",
+      "math": [
+        "N(t)=110+25t",
+        "N(14)."
+      ],
+      "mathml": [
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>N</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mn>110</mn><mo>+</mo><mn>25</mn><mi>t</mi></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>N</mi><mrow><mo>(</mo><mi>t</mi><mo>)</mo></mrow><mo>=</mo><mn>110</mn><mo>+</mo><mn>25</mn><mi>t</mi></mrow></annotation-xml></semantics></math>",
+        "<math display=\"inline\"><semantics><mrow><mrow><mi>N</mi><mrow><mo>(</mo><mrow><mn>14</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mi>N</mi><mrow><mo>(</mo><mrow><mn>14</mn></mrow><mo>)</mo></mrow><mo>.</mo></mrow></annotation-xml></semantics></math>"
+      ],
+      "figures": []
+    }
+  ],
+  "answers": {}
+}
