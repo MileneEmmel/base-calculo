@@ -1,6 +1,7 @@
 import { useState } from "react";
 import type { ModuleSlug, Topic } from "./types";
 import { experimentUrl, prerequisites, topicExperiment } from "./learningExperiments";
+import Icon from "./Icon";
 
 const modules: { slug: ModuleSlug; title: string; className: string }[] = [{ slug: "matematica-basica", title: "Matemática Básica", className: "module-basic" }, { slug: "pre-calculo", title: "Pré-Cálculo", className: "module-precalc" }, { slug: "calculo-1", title: "Cálculo 1", className: "module-calc" }];
 
@@ -10,10 +11,43 @@ export default function ConceptMap({ topics }: { topics: Topic[] }) {
   if (!topic) return <p className="state-message">O catálogo de tópicos ainda não está disponível. Tente atualizar a página.</p>;
   const before = topics.filter((item) => (prerequisites[topic.slug] ?? []).includes(item.slug));
   const after = topics.filter((item) => (prerequisites[item.slug] ?? []).includes(topic.slug));
-  const chips = (items: Topic[]) => items.map((item) => <button type="button" key={item.slug} onClick={() => setSelected(item.slug)}>{item.title}</button>);
-  return <section className="concept-map" aria-labelledby="map-title"><h2 id="map-title">Cada assunto prepara o próximo.</h2><p>Selecione um tópico para descobrir o que revisar antes, onde ele será usado e o que praticar.</p>
-    <div className="concept-connections"><div><h3>Revisar antes</h3><div className="concept-chips">{before.length ? chips(before) : <p>Comece por aqui: não há pré-requisitos indicados.</p>}</div></div><span aria-hidden="true" className="concept-arrow">→</span><div className="concept-selected"><p className="section-kicker">{topic.module_title}</p><h3>{topic.title}</h3><p>{topic.description}</p><p>{topic.question_count === 0 ? "Ainda sem questões — tópico já cadastrado." : `${topic.question_count} ${topic.question_count === 1 ? "questão disponível" : "questões disponíveis"}.`}</p><div className="lab-inline-actions"><a className="primary-button" href={`#/questoes?topico=${encodeURIComponent(topic.slug)}`}>Ver questões de {topic.title}</a>{topicExperiment[topic.slug] && <a className="secondary-button" href={experimentUrl(topicExperiment[topic.slug])}>Explorar este conceito</a>}</div></div><span aria-hidden="true" className="concept-arrow">→</span><div><h3>Prepara para</h3><div className="concept-chips">{after.length ? chips(after) : <p>Use este conteúdo em problemas e aplicações do módulo.</p>}</div></div></div>
-    <p className="lab-note">As conexões indicam pré-requisitos recomendados. Aplicações e ferramentas aparecem nos links do tópico; o mapa não é uma única sequência obrigatória.</p>
-    <div className="concept-columns">{modules.map((module) => <section key={module.slug} className={`concept-module ${module.className}`}><h3>{module.title}</h3>{topics.filter((item) => item.module_slug === module.slug).map((item) => <button type="button" key={item.slug} aria-pressed={topic.slug === item.slug} onClick={() => setSelected(item.slug)}><strong>{item.title}</strong><small>{item.question_count === 0 ? "sem questões" : `${item.question_count} ${item.question_count === 1 ? "questão" : "questões"}`}</small></button>)}</section>)}</div>
+  const module = modules.find((item) => item.slug === topic.module_slug);
+  const topicLinks = (items: Topic[]) => <ul className="concept-topic-links">{items.map((item) => (
+    <li key={item.slug}><button type="button" onClick={() => setSelected(item.slug)}>{item.title}</button></li>
+  ))}</ul>;
+  return <section className="concept-map" aria-label="Relações entre os conteúdos">
+    <div className="concept-connections">
+      <section className={`concept-selected ${module?.className ?? ""}`} aria-label="Conteúdo selecionado">
+        <span className="concept-module-label">{topic.module_title}</span>
+        <h2>{topic.title}</h2>
+        <p className="concept-description">{topic.description}</p>
+        <p className="concept-availability">{topic.question_count === 0 ? "Sem exercícios disponíveis" : `${topic.question_count} ${topic.question_count === 1 ? "exercício disponível" : "exercícios disponíveis"}`}</p>
+        <div className="lab-inline-actions">
+          <a className="primary-button" href={`#/questoes?topico=${encodeURIComponent(topic.slug)}`}><Icon name="book" size={18} />Ver exercícios</a>
+          {topicExperiment[topic.slug] && <a className="secondary-button" href={experimentUrl(topicExperiment[topic.slug])}><Icon name="laboratory" size={18} />Abrir laboratório</a>}
+        </div>
+      </section>
+      <section className="concept-related concept-before" aria-labelledby="prerequisite-title">
+        <h2 id="prerequisite-title">Pré-requisitos</h2>
+        {before.length ? topicLinks(before) : <p className="concept-empty">Nenhum pré-requisito indicado.</p>}
+      </section>
+      <section className="concept-related concept-after" aria-labelledby="following-title">
+        <h2 id="following-title">Conteúdos seguintes</h2>
+        {after.length ? topicLinks(after) : <p className="concept-empty">Nenhuma conexão cadastrada.</p>}
+      </section>
+    </div>
+    <section className="concept-catalog" aria-labelledby="concept-catalog-title">
+      <div className="concept-catalog-heading"><h2 id="concept-catalog-title">Conteúdos por módulo</h2><span>{topics.length} tópicos</span></div>
+      <div className="concept-columns">{modules.map((item) => (
+        <section key={item.slug} className={`concept-module ${item.className}`}>
+          <h3>{item.title}</h3>
+          <ul>{topics.filter((entry) => entry.module_slug === item.slug).map((entry) => (
+            <li key={entry.slug}><button type="button" aria-pressed={topic.slug === entry.slug} onClick={() => setSelected(entry.slug)}>
+              <span>{entry.title}</span><span className="concept-topic-count" aria-label={`${entry.question_count} exercícios`}>{entry.question_count}</span>
+            </button></li>
+          ))}</ul>
+        </section>
+      ))}</div>
+    </section>
   </section>;
 }

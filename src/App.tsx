@@ -398,7 +398,7 @@ function App() {
 
       <main id="conteudo" tabIndex={-1}>
         {isLaboratory && <Suspense fallback={<div className="state-message">Abrindo o laboratório...</div>}><Laboratory topics={topicCatalog} presetId={presetId} /></Suspense>}
-        {isConceptMap && <section className="map-page"><div className="section-heading"><div><p className="section-kicker">Sequência de estudo</p><h1>Mapa de conceitos</h1></div><p>Encontre as conexões entre os assuntos, revise os pré-requisitos e escolha o próximo passo.</p></div>{loading ? <p className="state-message">Carregando o mapa...</p> : error ? <p className="state-message state-error">{error}</p> : <Suspense fallback={<p className="state-message">Abrindo o mapa...</p>}><ConceptMap topics={topicCatalog} /></Suspense>}</section>}
+        {isConceptMap && <section className="map-page"><div className="section-heading"><h1>Mapa de conceitos</h1></div>{loading ? <p className="state-message">Carregando o mapa...</p> : error ? <p className="state-message state-error">{error}</p> : <Suspense fallback={<p className="state-message">Abrindo o mapa...</p>}><ConceptMap topics={topicCatalog} /></Suspense>}</section>}
         {!isQuestionBank && !isLaboratory && !isConceptMap && <>
         <section className="hero">
           <div className="hero-copy">

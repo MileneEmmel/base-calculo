@@ -210,10 +210,6 @@ input[type="number"]::-webkit-outer-spin-button { -webkit-appearance: none; marg
 .lab-inline-actions > :is(button, a) { flex: 1 1 120px; text-align: center; line-height: 1.4; }
 .lab-save-notice { border: 0; border-radius: 16px; box-shadow: var(--floating-shadow); }
 .lab-saved-list article { gap: 0.85rem; border-radius: 18px; }
-.concept-module { border-color: transparent; border-radius: 20px; }
-.concept-module button { min-height: 48px; border-radius: var(--control-radius); align-items: center; flex-wrap: wrap; }
-.concept-module button[aria-pressed="true"] { border-color: transparent; background: var(--paper); }
-.concept-chips button { padding: 0.8rem 1rem; }
 .results-line { display: flex; align-items: baseline; flex-wrap: wrap; gap: 0.35rem; scroll-margin-top: calc(var(--header-height) + 24px); }
 .page-range { margin-left: auto; font-size: 0.88rem; }
 .bank-pagination { display: flex; align-items: center; justify-content: center; gap: 1rem; margin-top: 2rem; }

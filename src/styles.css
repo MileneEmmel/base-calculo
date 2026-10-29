@@ -927,36 +927,50 @@ footer > a { justify-self: end; padding-bottom: 0.15rem; border-bottom: 2px soli
 .source-credits a { color: var(--ink); text-underline-offset: 3px; }
 .source-card .source-note a { color: inherit; font: inherit; }
 .map-page { width: min(1220px, calc(100% - 2rem)); margin-inline: auto; padding-block: 2.5rem 5rem; }
-.map-page > .section-heading { margin-bottom: 2.5rem; }
+.map-page > .section-heading { margin-bottom: 2rem; grid-template-columns: 1fr; }
 .map-page h1 { font-family: var(--font-display); font-size: clamp(2rem, 4vw, 3.3rem); letter-spacing: -0.04em; }
-.map-page .concept-map > h2 { font-size: clamp(1.4rem, 3vw, 2rem); }
-.concept-map > h2 { margin: 0; font-family: var(--font-display); font-size: clamp(1.8rem, 4vw, 3rem); font-weight: 600; letter-spacing: -0.04em; }
-.concept-map > p { color: var(--muted); line-height: 1.7; }
-.concept-connections { display: grid; grid-template-columns: 1fr 24px 1.5fr 24px 1fr; align-items: center; gap: 1rem; margin-block: 2rem; }
-.concept-connections h3 { margin: 0 0 0.8rem; font-family: var(--font-display); font-size: 1.05rem; font-weight: 600; }
-.concept-connections p { color: var(--muted); line-height: 1.6; }
-.concept-selected { padding: 1.5rem; border: 1px solid var(--line); border-radius: 24px; background: var(--paper); }
-.concept-selected > h3 { font-size: 1.6rem; letter-spacing: -0.03em; }
-.concept-chips { display: grid; gap: 0.6rem; }
-.concept-chips button { padding: 0.65rem; border: 1px solid var(--line); border-radius: 10px; background: var(--paper); text-align: left; font-weight: 700; cursor: pointer; }
-.concept-chips button:hover { background: var(--signal-soft); }
-.concept-arrow { text-align: center; font-size: 1.5rem; }
-.concept-columns { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; margin-top: 2rem; }
-.concept-module { padding: 1.25rem; border: 1px solid var(--line); border-radius: 18px; background: var(--paper); }
-.concept-module.module-basic { background: var(--basic); }
-.concept-module.module-precalc { background: var(--precalc); }
-.concept-module.module-calc { background: var(--calc); }
-.concept-module h3 { font-family: var(--font-display); margin: 0 0 1.25rem; font-size: 1.2rem; font-weight: 600; }
-.concept-module button { display: flex; align-items: start; justify-content: space-between; gap: 0.7rem; width: 100%; padding: 0.8rem 0.6rem; border: 1px solid transparent; border-bottom-color: var(--line); border-radius: 8px; background: transparent; text-align: left; cursor: pointer; }
-.concept-module button[aria-pressed="true"], .concept-module button:hover { border-color: var(--control-line); background: var(--paper); }
-.concept-module small { flex-shrink: 0; color: var(--muted); font-size: 0.75rem; }
+.concept-connections { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.45fr) minmax(0, 1fr); align-items: start; gap: 2rem; }
+.concept-selected { --concept-accent: var(--calc); grid-column: 2; grid-row: 1; padding: 1.75rem; border: 0; border-radius: 20px; background: var(--paper); }
+.concept-selected.module-basic { --concept-accent: var(--basic); }
+.concept-selected.module-precalc { --concept-accent: var(--precalc); }
+.concept-selected h2 { margin: 0.75rem 0; font-size: clamp(1.5rem, 2.5vw, 2rem); font-weight: 600; letter-spacing: -0.025em; line-height: 1.25; }
+.concept-module-label { display: inline-block; padding: 0.3rem 0.65rem; border-radius: 8px; background: var(--concept-accent); color: var(--ink); font-size: 0.85rem; font-weight: 700; }
+.concept-description { margin: 0; color: var(--ink); font-size: 0.95rem; line-height: 1.65; }
+.concept-availability { margin: 1rem 0 1.5rem; font-size: 0.85rem; color: var(--muted); }
+.concept-selected .lab-inline-actions { display: grid; gap: 0.65rem; }
+.concept-selected .lab-inline-actions a { display: flex; align-items: center; justify-content: center; gap: 0.6rem; font-size: 0.9rem; }
+.concept-related { min-width: 0; padding-top: 0.5rem; }
+.concept-before { grid-column: 1; grid-row: 1; }
+.concept-after { grid-column: 3; grid-row: 1; }
+.concept-related h2 { margin: 0 0 1rem; padding-bottom: 0.9rem; border-bottom: 1px solid var(--line); font-size: 1rem; font-weight: 600; }
+.concept-topic-links, .concept-module ul { list-style: none; margin: 0; padding: 0; }
+.concept-topic-links { display: grid; gap: 0.4rem; }
+.concept-topic-links button { width: 100%; min-height: 44px; padding: 0.7rem 0.85rem; border: 0; border-radius: 10px; background: var(--paper); color: var(--ink); text-align: left; line-height: 1.45; cursor: pointer; }
+.concept-topic-links button:hover { background: var(--calc); }
+.concept-empty { margin: 0; color: var(--muted); font-size: 0.9rem; }
+.concept-catalog { margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--line); }
+.concept-catalog-heading { display: flex; align-items: center; justify-content: space-between; gap: 1rem; margin-bottom: 1.25rem; }
+.concept-catalog-heading h2 { margin: 0; font-size: 1.3rem; font-weight: 600; }
+.concept-catalog-heading > span { color: var(--muted); font-size: 0.85rem; white-space: nowrap; }
+.concept-columns { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; }
+.concept-module { min-width: 0; padding: 0.5rem; border: 0; border-radius: 18px; background: var(--paper); }
+.concept-module h3 { margin: 0 0 0.5rem; padding: 1rem; border-radius: 12px; font-size: 1rem; font-weight: 600; }
+.concept-module.module-basic h3 { background: var(--basic); }
+.concept-module.module-precalc h3 { background: var(--precalc); }
+.concept-module.module-calc h3 { background: var(--calc); }
+.concept-module button { display: flex; align-items: center; justify-content: space-between; gap: 0.75rem; width: 100%; min-height: 48px; padding: 0.7rem 1rem; border: 0; border-radius: 10px; background: transparent; color: var(--ink); text-align: left; line-height: 1.45; cursor: pointer; }
+.concept-module button:hover { background: var(--ground); }
+.concept-module button[aria-pressed="true"] { background: var(--calc); font-weight: 700; }
+.concept-topic-count { flex-shrink: 0; min-width: 2rem; text-align: right; font-size: 0.8rem; font-variant-numeric: tabular-nums; color: var(--muted); }
 .progress-storage-note { width: min(940px, calc(100% - 2rem)); margin: 1rem auto 0; color: var(--muted); font-size: 0.85rem; line-height: 1.6; }
 .exercise-section > .progress-storage-note { width: 100%; margin: 0 0 1.5rem; }
 
 @media (max-width: 900px) {
   .circle-lab-layout, .lab-settings-grid, .lab-saved-page { grid-template-columns: 1fr; }
-  .concept-connections { grid-template-columns: 1fr; }
-  .concept-arrow { transform: rotate(90deg); }
+  .concept-connections { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.5rem; }
+  .concept-selected { grid-column: 1 / -1; grid-row: 1; }
+  .concept-before { grid-column: 1; grid-row: 2; }
+  .concept-after { grid-column: 2; grid-row: 2; }
   .concept-columns { grid-template-columns: 1fr; }
   .lab-layout { grid-template-columns: 1fr; }
   .lab-controls { order: 1; }
@@ -972,6 +986,8 @@ footer > a { justify-self: end; padding-bottom: 0.15rem; border-bottom: 2px soli
 }
 
 @media (max-width: 640px) {
+  .concept-connections { grid-template-columns: minmax(0, 1fr); }
+  .concept-selected, .concept-before, .concept-after { grid-column: auto; grid-row: auto; }
   .lab-primary-nav button { padding-inline: 0.7rem; font-size: 0.85rem; }
   .lab-saved-page .lab-saved-list { grid-template-columns: 1fr; }
   .circle-stage-svg { width: 100%; }
