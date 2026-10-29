@@ -112,7 +112,7 @@ function QuestionView({
       <div className="question-shell">
         <div className="question-navigation"><button className="back-button" onClick={onBack} type="button">
           Voltar aos exercícios
-        </button><nav aria-label="Navegar pelas questões filtradas"><span aria-live="polite">{position > 0 ? `${position} de ${total}` : "Questão avulsa"}</span><button type="button" aria-label="Questão anterior" title={previous ? `Anterior: ${previous.id}` : "Primeira questão da seleção"} disabled={!previous} onClick={() => previous && onNavigate(previous)}>←</button><button type="button" aria-label="Próxima questão" title={next ? `Próxima: ${next.id}` : "Última questão da seleção"} disabled={!next} onClick={() => next && onNavigate(next)}>→</button></nav></div>
+        </button><nav aria-label="Navegar pelas questões filtradas"><span aria-live="polite">{position > 0 ? `${position} de ${total}` : "Questão avulsa"}</span><button type="button" aria-label="Questão anterior" title={previous ? `Anterior: ${previous.id}` : "Primeira questão da seleção"} disabled={!previous} onClick={() => previous && onNavigate(previous)}><Icon name="previous" /></button><button type="button" aria-label="Próxima questão" title={next ? `Próxima: ${next.id}` : "Última questão da seleção"} disabled={!next} onClick={() => next && onNavigate(next)}><Icon name="next" /></button></nav></div>
 
         <section className={`question-hero ${meta.className}`}>
           <div className="question-meta-row">
@@ -167,11 +167,13 @@ function QuestionView({
 
           <div className="question-actions">
             {question.hint_md && (
-              <button className="secondary-button" onClick={() => setShowHint((value) => !value)} type="button">
+              <button className="secondary-button" aria-expanded={showHint} onClick={() => setShowHint((value) => !value)} type="button">
+                <Icon name="hint" />
                 {showHint ? "Esconder dica" : "Quero uma dica"}
               </button>
             )}
-            <button className="primary-button" onClick={() => setShowSolution((value) => !value)} type="button">
+            <button className="primary-button" aria-expanded={showSolution} onClick={() => setShowSolution((value) => !value)} type="button">
+              <Icon name="book" />
               {showSolution ? "Esconder resolução" : "Conferir resolução"}
             </button>
           </div>
@@ -179,7 +181,7 @@ function QuestionView({
           {showHint && question.hint_md && (
             <div className="reveal-panel hint-panel">
               <div>
-                <h2>Dica</h2>
+                <h2><Icon name="hint" size={18} />Dica</h2>
                 <p><MathText>{question.hint_md}</MathText></p>
               </div>
             </div>
@@ -188,7 +190,7 @@ function QuestionView({
           {showSolution && (
             <div className="reveal-panel solution-panel">
               <div>
-                <h2>Resolução</h2>
+                <h2><Icon name="book" size={18} />Resolução</h2>
                 <p><MathText>{question.solution_md}</MathText></p>
                 <NumberLineSolution value={question.answer.number_line} />
                 <QuestionPlot value={question.answer.plot} />
@@ -202,6 +204,7 @@ function QuestionView({
             aria-pressed={completed}
             type="button"
           >
+            <Icon name={completed ? "checked" : "unchecked"} />
             {completed ? "Exercício concluído" : "Marcar como concluído"}
           </button>
         </section>

@@ -9,6 +9,24 @@
 }
 
 .ui-icon { display: block; flex-shrink: 0; }
+.question-actions button, .complete-button, .reveal-panel h2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+}
+.reveal-panel h2 { justify-content: flex-start; }
+.question-navigation nav button { width: 44px; height: 44px; padding: 0; }
+
+/* One type system, including form fields and SVG plot labels. */
+body { font-family: var(--font-body); line-height: 1.6; }
+button, input, select, textarea { font-family: var(--font-body); }
+h1, h2, h3 { font-family: var(--font-display); }
+.lab-function-tabs button { font-family: var(--font-body); }
+.lab-results h3, .lab-observation h2 { font-family: var(--font-display); font-weight: 600; }
+.question-plot svg text, .number-line-solution svg text { font-family: var(--font-body); }
+.lab-panel-title, .circle-controls h2, .lab-settings-page > h2 { line-height: 1.4; }
+.question-actions .ui-icon, .complete-button .ui-icon { flex: 0 0 20px; }
 .site-header nav a, .lab-primary-nav button, .lab-tools-nav button {
   display: inline-flex;
   align-items: center;
@@ -53,7 +71,8 @@ button:disabled { cursor: not-allowed; opacity: 0.45; }
 .lab-function-tabs { border: 0; padding: 0.35rem; border-radius: 16px; background: var(--control-fill); }
 .lab-function-tabs button { flex: 1; border-color: transparent; background: transparent; }
 .lab-function-tabs button[aria-pressed="true"] { background: var(--paper); border-color: var(--control-line); }
-.lab-add-curve { min-width: 40px; min-height: 40px; border-radius: 50%; background: var(--precalc); }
+.lab-add-curve { display: grid; place-items: center; flex: 0 0 40px; width: 40px; height: 40px; min-width: 40px; min-height: 40px; padding: 0; border-radius: 50%; background: var(--precalc); }
+.lab-toolbar button:has(> .ui-icon:only-child) { display: grid; place-items: center; padding: 0; width: 44px; height: 44px; }
 
 .lab-navigation { border: 0; border-radius: 18px; padding-inline: 0.5rem; background: var(--paper); }
 .lab-primary-nav button, .lab-tools-nav button { border-radius: var(--control-radius); }
@@ -108,11 +127,11 @@ button:disabled { cursor: not-allowed; opacity: 0.45; }
 .ui-toggle:hover .ui-switch { border-color: var(--control-focus); }
 
 .lab-number-control .lab-number-heading { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem 0.75rem; }
-.lab-number-heading > label { flex: 1 1 110px; line-height: 1.5; color: var(--ink); }
+.lab-number-heading > label { flex: 1 0 auto; white-space: nowrap; line-height: 1.5; color: var(--ink); }
 .number-stepper {
   display: flex;
   align-items: center;
-  flex: 0 0 148px;
+  flex: 0 0 132px;
   min-width: 0;
   padding: 3px;
   border: 1px solid var(--line);
