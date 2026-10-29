@@ -1,4 +1,5 @@
 import { useEffect, useId, useState } from "react";
+import type { CSSProperties } from "react";
 import { domainLabel, formula, isTrig, numberLabel } from "./labMath";
 import type { Curve, CurveKind } from "./labMath";
 import SelectMenu from "./SelectMenu";
@@ -20,12 +21,15 @@ export function NumericControl({ label, value, onChange, min = -100, max = 100, 
   const id = useId();
   const [draft, setDraft] = useState(String(value));
   useEffect(() => setDraft(String(Number(value.toPrecision(10)))), [value]);
+  const boundedValue = Math.min(max, Math.max(min, value));
+  const rangeStyle = { "--range-fill": `${max > min ? (boundedValue - min) / (max - min) * 100 : 0}%` } as CSSProperties;
+  const nudge = (direction: number) => onChange(Math.min(max, Math.max(min, Number((boundedValue + direction * step).toPrecision(12)))));
   return <div className="lab-number-control">
-    <div><label htmlFor={id}>{label}</label><input id={id} type="number" min={min} max={max} step={step} value={draft} onChange={(event) => {
+    <div className="lab-number-heading"><label htmlFor={id}>{label}</label><div className="number-stepper"><button type="button" aria-label={`Diminuir ${label}`} disabled={boundedValue <= min} onClick={() => nudge(-1)}><svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14" /></svg></button><input id={id} type="number" min={min} max={max} step={step} value={draft} onChange={(event) => {
       setDraft(event.target.value);
       if (event.target.value !== "" && Number.isFinite(event.target.valueAsNumber)) onChange(Math.min(max, Math.max(min, event.target.valueAsNumber)));
-    }} onBlur={() => setDraft(String(Number(value.toPrecision(10))))} /></div>
-    <input aria-label={`${label} — controle deslizante`} type="range" min={min} max={max} step={rangeStep ?? "any"} value={Math.min(max, Math.max(min, value))} onChange={(event) => onChange(Number(event.target.value))} />
+    }} onBlur={() => setDraft(String(Number(value.toPrecision(10))))} /><button type="button" aria-label={`Aumentar ${label}`} disabled={boundedValue >= max} onClick={() => nudge(1)}><svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M12 5v14" /></svg></button></div></div>
+    <input className="ui-range" style={rangeStyle} aria-label={`${label} — controle deslizante`} type="range" min={min} max={max} step={rangeStep ?? "any"} value={boundedValue} onChange={(event) => onChange(Number(event.target.value))} />
     <div className="lab-control-bounds" aria-hidden="true"><span>{numberLabel(min)}</span><span>{numberLabel(max)}</span></div>
   </div>;
 }
@@ -45,5 +49,5 @@ export function CurveControls({ curve, onChange, name, onUnitChange, range = def
 }
 
 export function Toggle({ label, checked, onChange }: { label: string; checked: boolean; onChange: (checked: boolean) => void }) {
-  return <label className="lab-comparison"><input type="checkbox" checked={checked} onChange={(event) => onChange(event.target.checked)} />{label}</label>;
+  return <label className="lab-comparison ui-toggle"><span>{label}</span><input className="ui-switch" type="checkbox" role="switch" checked={checked} onChange={(event) => onChange(event.target.checked)} /></label>;
 }

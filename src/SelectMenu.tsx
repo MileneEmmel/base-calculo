@@ -20,7 +20,7 @@ export default function SelectMenu({ label, value, options, onChange }: { label:
       buttons[next]?.focus();
     }
   }}>
-    <summary aria-label={`${label}: ${selected?.label}`}><span><strong>{selected?.label}</strong>{selected?.description && <small>{selected.description}</small>}</span><span aria-hidden="true">⌄</span></summary>
+    <summary aria-label={`${label}: ${selected?.label}`}><span><strong>{selected?.label}</strong>{selected?.description && <small>{selected.description}</small>}</span><svg className="select-chevron" aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none"><path d="m6 9 6 6 6-6" stroke="currentColor" strokeWidth="1.75" strokeLinecap="round" strokeLinejoin="round" /></svg></summary>
     <div className="lab-function-options" aria-label={label}>{options.map((option) => <button type="button" key={option.value} aria-label={option.description ? `${option.label}: ${option.description}` : option.label} aria-pressed={value === option.value} onClick={() => { onChange(option.value); picker.current?.removeAttribute("open"); picker.current?.querySelector("summary")?.focus(); }}><strong>{option.label}</strong>{option.description && <small>{option.description}</small>}</button>)}</div>
   </details>;
 }

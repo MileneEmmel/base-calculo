@@ -1,0 +1,210 @@
+/* Shared controls for the laboratory, question bank and concept map. */
+:root {
+  --control-radius: 12px;
+  --control-small-radius: 10px;
+  --control-fill: #f1f5f8;
+  --control-active: #366a83;
+  --control-track: #d4e1e8;
+  --control-focus: #487e98;
+}
+
+.ui-icon { display: block; flex-shrink: 0; }
+.site-header nav a, .lab-primary-nav button, .lab-tools-nav button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  white-space: nowrap;
+}
+.site-header nav a .ui-icon { color: var(--muted); }
+.site-header nav a[aria-current="page"] .ui-icon { color: var(--control-active); }
+
+@media (min-width: 641px) and (max-width: 1000px) {
+  :root { --header-height: 112px; }
+  .site-header { grid-template-columns: 1fr; align-content: center; gap: 0.35rem; padding-block: 0.65rem; }
+  .site-header nav { justify-content: flex-start; gap: 1.25rem; overflow-x: auto; padding-block: 0.25rem; font-size: 0.9rem; }
+}
+
+:is(button, input, summary, a):focus-visible {
+  outline: 2px solid var(--control-focus);
+  outline-offset: 3px;
+}
+
+button:disabled { cursor: not-allowed; opacity: 0.45; }
+
+:is(.lab-toolbar, .circle-shortcuts, .lab-function-tabs, .lab-saved-list, .concept-chips) button,
+.lab-add-curve,
+.question-navigation nav button {
+  min-height: 44px;
+  border: 1px solid var(--line);
+  border-radius: var(--control-radius);
+  background: var(--paper);
+  color: var(--ink);
+  font-weight: 700;
+  transition: background-color 140ms ease, border-color 140ms ease;
+}
+
+:is(.lab-toolbar, .circle-shortcuts, .lab-function-tabs, .lab-saved-list, .concept-chips) button:hover:enabled,
+.lab-add-curve:hover:enabled { background: var(--calc); border-color: var(--control-line); }
+
+.lab-toolbar { padding-top: 0.75rem; }
+.lab-toolbar > div { gap: 0.5rem; }
+.lab-toolbar button { min-width: 44px; padding: 0.5rem 0.85rem; }
+.lab-function-tabs { border: 0; padding: 0.35rem; border-radius: 16px; background: var(--control-fill); }
+.lab-function-tabs button { flex: 1; border-color: transparent; background: transparent; }
+.lab-function-tabs button[aria-pressed="true"] { background: var(--paper); border-color: var(--control-line); }
+.lab-add-curve { min-width: 40px; min-height: 40px; border-radius: 50%; background: var(--precalc); }
+
+.lab-navigation { border: 0; border-radius: 18px; padding-inline: 0.5rem; background: var(--paper); }
+.lab-primary-nav button, .lab-tools-nav button { border-radius: var(--control-radius); }
+.lab-primary-nav button[aria-current="page"] { border-color: transparent; background: var(--precalc); }
+.lab-tools-nav button[aria-current="page"] { border-color: transparent; background: var(--calc); color: var(--ink); }
+
+.lab-function-picker summary { border-radius: var(--control-radius); min-height: 48px; }
+.lab-function-options { padding: 0.5rem; border-radius: 16px; }
+.lab-function-options button { min-height: 44px; border-radius: var(--control-small-radius); }
+.lab-function-options button[aria-pressed="true"] { color: var(--ink); border-color: transparent; }
+
+/* The input keeps its native keyboard and screen-reader behavior. */
+.ui-toggle.lab-comparison {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  min-height: 48px;
+  padding-block: 0.5rem;
+  font-size: 0.94rem;
+  font-weight: 400;
+  cursor: pointer;
+}
+.ui-toggle > span { min-width: 0; line-height: 1.5; }
+.ui-toggle .ui-switch {
+  appearance: none;
+  -webkit-appearance: none;
+  position: relative;
+  flex: 0 0 44px;
+  width: 44px;
+  height: 26px;
+  margin: 0;
+  border: 1px solid #91a8b6;
+  border-radius: 999px;
+  background: var(--control-track);
+  cursor: pointer;
+  transition: background-color 140ms ease, border-color 140ms ease;
+}
+.ui-switch::after {
+  content: "";
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: var(--paper);
+  box-shadow: 0 1px 3px rgb(23 50 77 / 18%);
+  transition: transform 140ms ease;
+}
+.ui-toggle .ui-switch:checked { background: var(--control-active); border-color: var(--control-active); }
+.ui-switch:checked::after { transform: translateX(18px); }
+.ui-toggle:hover .ui-switch { border-color: var(--control-focus); }
+
+.lab-number-control .lab-number-heading { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem 0.75rem; }
+.lab-number-heading > label { flex: 1 1 110px; line-height: 1.5; color: var(--ink); }
+.number-stepper {
+  display: flex;
+  align-items: center;
+  flex: 0 0 148px;
+  min-width: 0;
+  padding: 3px;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: var(--control-fill);
+}
+.number-stepper:focus-within { border-color: var(--control-focus); }
+.number-stepper button {
+  display: grid;
+  place-items: center;
+  flex: 0 0 32px;
+  min-height: 36px;
+  padding: 0;
+  border: 0;
+  border-radius: var(--control-small-radius);
+  background: var(--paper);
+  color: var(--ink);
+  cursor: pointer;
+}
+.number-stepper button:hover:enabled { background: var(--calc); }
+.number-stepper svg { fill: none; stroke: currentColor; stroke-width: 1.75; stroke-linecap: round; }
+.lab-number-control .number-stepper input[type="number"] {
+  width: 100%;
+  min-width: 0;
+  min-height: 36px;
+  padding: 0.2rem;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  text-align: center;
+  font-size: 0.9rem;
+}
+input[type="number"] { appearance: textfield; -moz-appearance: textfield; }
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button { -webkit-appearance: none; margin: 0; }
+
+.lab-number-control input.ui-range {
+  appearance: none;
+  -webkit-appearance: none;
+  display: block;
+  width: 100%;
+  height: 44px;
+  min-height: 44px;
+  margin: 0;
+  border: 0;
+  border-radius: 12px;
+  background: transparent;
+  cursor: pointer;
+}
+.ui-range::-webkit-slider-runnable-track {
+  height: 6px;
+  border-radius: 999px;
+  background: linear-gradient(to right, var(--control-active) var(--range-fill), var(--control-track) var(--range-fill));
+}
+.ui-range::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 20px;
+  height: 20px;
+  margin-top: -7px;
+  border: 3px solid var(--control-active);
+  border-radius: 50%;
+  background: var(--paper);
+}
+.ui-range::-moz-range-track { height: 6px; border-radius: 999px; background: var(--control-track); }
+.ui-range::-moz-range-progress { height: 6px; border-radius: 999px; background: var(--control-active); }
+.ui-range::-moz-range-thumb { width: 14px; height: 14px; border: 3px solid var(--control-active); border-radius: 50%; background: var(--paper); }
+
+.lab-settings-fields input, .lab-save-label input {
+  min-height: 48px;
+  padding: 0.75rem 0.9rem;
+  border-radius: var(--control-radius);
+  background: var(--control-fill);
+}
+.lab-controls > h3 { margin: 0; font-family: var(--font-display); font-weight: 500; }
+.lab-results { border: 0; border-radius: 16px; padding: 1rem; background: var(--calc); }
+.lab-inline-actions > :is(button, a) { flex: 1 1 120px; text-align: center; line-height: 1.4; }
+.lab-save-notice { border: 0; border-radius: 16px; box-shadow: var(--floating-shadow); }
+.lab-saved-list article { gap: 0.85rem; border-radius: 18px; }
+.concept-module { border-color: transparent; border-radius: 20px; }
+.concept-module button { min-height: 48px; border-radius: var(--control-radius); align-items: center; flex-wrap: wrap; }
+.concept-module button[aria-pressed="true"] { border-color: transparent; background: var(--paper); }
+.concept-chips button { padding: 0.8rem 1rem; }
+.results-line { display: flex; align-items: baseline; flex-wrap: wrap; gap: 0.35rem; scroll-margin-top: calc(var(--header-height) + 24px); }
+.page-range { margin-left: auto; font-size: 0.88rem; }
+.bank-pagination { display: flex; align-items: center; justify-content: center; gap: 1rem; margin-top: 2rem; }
+.bank-pagination span { color: var(--muted); font-size: 0.9rem; font-variant-numeric: tabular-nums; text-align: center; }
+
+@media (forced-colors: active) {
+  .ui-toggle .ui-switch { appearance: auto; }
+  .ui-switch::after { display: none; }
+  .lab-number-control input.ui-range { appearance: auto; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .ui-switch::after, .ui-toggle .ui-switch { transition: none; }
+}

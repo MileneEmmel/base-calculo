@@ -8,6 +8,7 @@ import { modes, defaultOptions, readSaved, savedKey } from "./labSaved";
 import type { Mode, Options, Snapshot } from "./labSaved";
 import type { Topic } from "./types";
 import SelectMenu from "./SelectMenu";
+import Icon from "./Icon";
 import FunctionProperties from "./FunctionProperties";
 import CircleLab from "./CircleLab";
 import LabSettings from "./LabSettings";
@@ -97,7 +98,10 @@ export default function Laboratory({ presetId }: { topics?: Topic[]; presetId?: 
   const area = mode === "integrals" ? geometricArea(curve, lower, upper) : NaN;
   const references = asymptotes(curve), axis = symmetryAxis(curve);
   const derivativePlayback = usePlayback((seconds) => { if (h <= 0.001) { derivativePlayback.stop(); return; } setH((value) => Math.max(0.001, value * Math.exp(-seconds))); });
-  useEffect(() => { derivativePlayback.stop(); }, [mode]);
+  useEffect(() => {
+    derivativePlayback.stop();
+    window.scrollTo({ top: 0, behavior: "instant" });
+  }, [mode]);
   const changeUnit = (unit: "rad" | "deg") => {
     if ((curve.angleUnit ?? "rad") === unit) return;
     const factor = unit === "deg" ? 180 / Math.PI : Math.PI / 180;
@@ -204,7 +208,7 @@ export default function Laboratory({ presetId }: { topics?: Topic[]; presetId?: 
 
   return <section className="lab-page" aria-labelledby="lab-title">
     <div className="section-heading lab-heading"><div><p className="section-kicker">Laboratório de Matemática</p><h1 id="lab-title">{mode === "trigonometry" ? "Círculo trigonométrico" : mode === "geometry" ? "Geometria analítica" : mode === "concepts" ? "Mapa de conceitos" : mode === "inspect" ? "Configurações" : mode === "saved" ? "Explorações salvas" : "Gráficos de funções"}</h1></div><p>{mode === "trigonometry" ? "Explore o ângulo, suas projeções e as relações entre seno, cosseno e tangente." : mode === "geometry" ? "Mova os pontos e acompanhe as medidas e a equação da reta." : "Escolha uma área para explorar. Cada ferramenta tem seus próprios controles."}</p></div>
-    <div className="lab-navigation"><nav className="lab-primary-nav" aria-label="Áreas do Laboratório"><button type="button" className="lab-settings-button" aria-label="Configurações" title="Configurações" aria-current={mode === "inspect" ? "page" : undefined} onClick={() => setMode("inspect")}><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true"><circle cx="12" cy="12" r="7" /><circle cx="12" cy="12" r="3" />{Array.from({ length: 8 }, (_, i) => <path key={i} d="M12 2v3" transform={`rotate(${i * 45} 12 12)`} strokeWidth="3" />)}</svg></button><button type="button" aria-current={graphModes.includes(mode) ? "page" : undefined} onClick={() => setMode(lastGraphMode.current)}>Gráficos</button>{([{ id: "trigonometry", title: "Círculo trigonométrico" }, { id: "geometry", title: "Geometria" }, { id: "saved", title: `Salvos${saved.length ? ` (${saved.length})` : ""}` }] as { id: Mode; title: string }[]).map((item) => <button type="button" key={item.id} aria-label={item.id === "saved" ? "Salvos" : item.title} aria-current={mode === item.id ? "page" : undefined} onClick={() => setMode(item.id)}>{item.title}</button>)}</nav>{graphModes.includes(mode) && <nav className="lab-tools-nav" aria-label="Ferramentas de gráficos">{modes.filter((item) => graphModes.includes(item.id)).map((item) => <button type="button" key={item.id} aria-current={mode === item.id ? "page" : undefined} onClick={() => setMode(item.id)}>{item.title}</button>)}</nav>}</div>
+    <div className="lab-navigation"><nav className="lab-primary-nav" aria-label="Áreas do Laboratório"><button type="button" className="lab-settings-button" aria-label="Configurações" title="Configurações" aria-current={mode === "inspect" ? "page" : undefined} onClick={() => setMode("inspect")}><Icon name="inspect" size={22} /></button><button type="button" aria-current={graphModes.includes(mode) ? "page" : undefined} onClick={() => setMode(lastGraphMode.current)}><Icon name="graph" />Gráficos</button>{([{ id: "trigonometry", title: "Círculo trigonométrico" }, { id: "geometry", title: "Geometria" }, { id: "saved", title: `Salvos${saved.length ? ` (${saved.length})` : ""}` }] as { id: Mode; title: string }[]).map((item) => <button type="button" key={item.id} aria-label={item.id === "saved" ? "Salvos" : item.title} aria-current={mode === item.id ? "page" : undefined} onClick={() => setMode(item.id)}><Icon name={item.id} />{item.title}</button>)}</nav>{graphModes.includes(mode) && <nav className="lab-tools-nav" aria-label="Ferramentas de gráficos">{modes.filter((item) => graphModes.includes(item.id)).map((item) => <button type="button" key={item.id} aria-current={mode === item.id ? "page" : undefined} onClick={() => setMode(item.id)}><Icon name={item.id} />{item.title}</button>)}</nav>}</div>
     {mode === "inspect" ? <LabSettings range={coefficientRange} onApply={applyCoefficientRange} options={options} onToggle={toggle} /> : mode === "trigonometry" ? <CircleLab value={circle} onChange={setCircle} /> : mode === "geometry" ? <GeometryLab key={geometryRevision} initialPoints={geometryDraft.current ?? undefined} onPointsChange={rememberGeometry} /> : mode === "saved" ? <SavedLab saved={saved} onSave={save} onRestore={restore} /> : <div className="lab-layout">
       <div className="lab-workspace">
         <div className="lab-graph-card">

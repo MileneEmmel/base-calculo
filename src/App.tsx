@@ -1,15 +1,19 @@
 import katex from "katex";
-import { lazy, Suspense, useEffect, useMemo, useState } from "react";
+import { lazy, memo, Suspense, useEffect, useMemo, useState } from "react";
 import type { ModuleSlug, Question, QuestionsPayload, Topic } from "./types";
 import { progressKey, readProgress, writeLocal } from "./browserStorage";
 import SelectMenu from "./SelectMenu";
+import Icon from "./Icon";
 import { experiments, experimentUrl, topicExperiment } from "./learningExperiments";
 import { bankQuery, defaultBankFilters, filterQuestions, questionNeighbors, readBankFilters, ia2ChapterOneSource, isIA2ChapterOne, ia2BookSource, isIA2Book } from "./questionNavigation";
-import SourceCredits, { bookUrl } from "./SourceCredits";
+import { bookUrl } from "./SourceCredits";
 import NumberLineSolution from "./NumberLineSolution";
 import QuestionPlot from "./QuestionPlot";
-const Laboratory = lazy(() => import("./Laboratory"));
-const ConceptMap = lazy(() => import("./ConceptMap"));
+const loadLaboratory = () => import("./Laboratory");
+const loadConceptMap = () => import("./ConceptMap");
+const Laboratory = lazy(loadLaboratory);
+const ConceptMap = lazy(loadConceptMap);
+const questionsPerPage = 24;
 
 const moduleMeta: Record<
   ModuleSlug,
@@ -34,7 +38,7 @@ const moduleMeta: Record<
 
 const difficultyLabels = ["", "Fácil", "Médio", "Difícil", "Desafio"];
 
-function MathText({ children }: { children: string }) {
+const MathText = memo(function MathText({ children }: { children: string }) {
   const parts = children.split(/(\\\([\s\S]+?\\\))/g);
 
   return (
@@ -64,7 +68,7 @@ function MathText({ children }: { children: string }) {
       })}
     </>
   );
-}
+});
 
 function DifficultyDots({ value }: { value: number }) {
   return (
@@ -233,6 +237,7 @@ function App() {
   const [difficultyFilter, setDifficultyFilter] = useState(() => readBankFilters(route).difficulty);
   const [search, setSearch] = useState(() => readBankFilters(route).search);
   const [sourceFilter, setSourceFilter] = useState(() => readBankFilters(route).source);
+  const [bankPage, setBankPage] = useState({ filters: "", number: 1 });
   const [progressSaved, setProgressSaved] = useState(true);
   const [completedIds, setCompletedIds] = useState<Set<string>>(() => {
     try {
@@ -323,6 +328,16 @@ function App() {
   const selectedQuestion = questions.find((question) => question.id === questionId);
   const neighbors = questionNeighbors(filteredQuestions, questionId ?? "");
   const activeFilters = { module: moduleFilter, topic: topicFilter, difficulty: difficultyFilter, search, source: sourceFilter };
+  const filterKey = bankQuery(activeFilters);
+  const totalPages = Math.max(1, Math.ceil(filteredQuestions.length / questionsPerPage));
+  const currentPage = bankPage.filters === filterKey ? Math.min(bankPage.number, totalPages) : 1;
+  const pageOffset = (currentPage - 1) * questionsPerPage;
+  const visibleQuestions = filteredQuestions.slice(pageOffset, pageOffset + questionsPerPage);
+  const changeBankPage = (number: number) => {
+    setBankPage({ filters: filterKey, number });
+    document.getElementById("bank-results")?.scrollIntoView({ behavior: "instant", block: "start" });
+    document.getElementById("bank-results")?.focus({ preventScroll: true });
+  };
   useEffect(() => {
     if (route.split("?")[0] === "/questoes") window.history.replaceState(null, "", `#/questoes?${bankQuery({ module: moduleFilter, topic: topicFilter, difficulty: difficultyFilter, search, source: sourceFilter })}`);
   }, [route, moduleFilter, topicFilter, difficultyFilter, search, sourceFilter]);
@@ -351,7 +366,7 @@ function App() {
     return (
       <>
         <Header isQuestionBank />
-        <p className="progress-storage-note" role="status">{progressSaved ? "Histórico salvo neste navegador. Você pode fechar e continuar depois no mesmo endereço." : "O navegador não permitiu salvar o histórico. Verifique o armazenamento do site."}</p>
+        {!progressSaved && <p className="progress-storage-note" role="status">O navegador não permitiu salvar o histórico. Verifique o armazenamento do site.</p>}
         <QuestionView
           key={selectedQuestion.id}
           question={selectedQuestion}
@@ -384,7 +399,6 @@ function App() {
         {!isQuestionBank && !isLaboratory && !isConceptMap && <>
         <section className="hero">
           <div className="hero-copy">
-            <p className="section-kicker">Projeto de extensão universitária</p>
             <h1>Exercícios para chegar ao Cálculo entendendo o caminho.</h1>
             <p className="hero-text">
               Pratique Matemática Básica, Pré-Cálculo e Cálculo 1 com dicas, resolução passo a passo e a fonte de cada questão.
@@ -416,14 +430,12 @@ function App() {
                 Abrir esta questão
               </button>
             </div>
-            <SourceCredits questions={featuredQuestion ? [featuredQuestion] : []} />
           </div>
         </section>
 
         <section className="module-section" aria-labelledby="module-title">
           <div className="section-heading">
             <div>
-              <p className="section-kicker">Sequência de estudo</p>
               <h2 id="module-title">Comece pelo conteúdo que precisa revisar.</h2>
             </div>
             <p>Você pode mudar de módulo quando quiser. Seu progresso fica salvo neste dispositivo.</p>
@@ -431,14 +443,13 @@ function App() {
 
           <ol className="module-list">
             {(Object.entries(moduleMeta) as [ModuleSlug, (typeof moduleMeta)[ModuleSlug]][]).map(
-              ([slug, meta], index) => (
+              ([slug, meta]) => (
                 <li key={slug}>
                   <button
                     className={`module-row ${meta.className}`}
                     onClick={() => selectModule(slug)}
                     type="button"
                   >
-                    <span className="module-sequence" aria-hidden="true">{index + 1}</span>
                     <span className="module-card-copy">
                       <strong>{meta.short}</strong>
                       <span>{meta.description}</span>
@@ -457,7 +468,6 @@ function App() {
           {!progressSaved && <p className="progress-storage-note" role="status">O navegador não permitiu salvar o histórico. Verifique o armazenamento do site.</p>}
           <div className="section-heading exercise-heading">
             <div>
-              <p className="section-kicker">Banco de questões</p>
               <h1 id="exercise-title">Escolha o que praticar agora.</h1>
             </div>
             <div className="progress-chip">
@@ -485,11 +495,12 @@ function App() {
           {error && <div className="state-message state-error">{error}</div>}
           {!loading && !error && (
             <>
-              <div className="results-line">
+              <div className="results-line" id="bank-results" tabIndex={-1}>
                 <strong>{filteredQuestions.length}</strong> exercício{filteredQuestions.length === 1 ? "" : "s"} encontrado{filteredQuestions.length === 1 ? "" : "s"}
+                {filteredQuestions.length > 0 && <span className="page-range">Exibindo {pageOffset + 1}–{Math.min(pageOffset + questionsPerPage, filteredQuestions.length)}</span>}
               </div>
               <div className="question-grid">
-                {filteredQuestions.map((question) => {
+                {visibleQuestions.map((question) => {
                   const meta = moduleMeta[question.module_slug];
                   const completed = completedIds.has(question.id);
                   return (
@@ -519,7 +530,7 @@ function App() {
                   <p>{selectedTopic?.question_count === 0 ? `${selectedTopic.title} já está cadastrado em ${selectedTopic.module_title}. Os exercícios serão incluídos neste tópico.` : "Tente retirar um filtro ou buscar por outro assunto."}</p>
                 </div>
               )}
-              <SourceCredits questions={filteredQuestions} />
+              {totalPages > 1 && <nav className="bank-pagination" aria-label="Páginas de exercícios"><button className="secondary-button" type="button" disabled={currentPage === 1} onClick={() => changeBankPage(currentPage - 1)}>Anterior</button><span aria-live="polite">Página {currentPage} de {totalPages}</span><button className="secondary-button" type="button" disabled={currentPage === totalPages} onClick={() => changeBankPage(currentPage + 1)}>Próxima</button></nav>}
             </>
           )}
         </section>
@@ -528,7 +539,6 @@ function App() {
         {!isQuestionBank && !isLaboratory && !isConceptMap && (
         <section className="about-strip" id="sobre">
           <div>
-            <p className="section-kicker">Sobre o projeto</p>
             <h2>Apoio para quem está chegando às Exatas.</h2>
             <p>
               Um projeto de extensão universitária com exercícios organizados, resoluções claras e acesso gratuito.
@@ -555,11 +565,11 @@ function Header({ isQuestionBank = false, isLaboratory = false, isConceptMap = f
         <span aria-hidden="true">∫</span>NTEGRA
       </a>
       <nav aria-label="Navegação principal">
-        <a href="#/" aria-current={!isQuestionBank && !isLaboratory && !isConceptMap ? "page" : undefined}>Início</a>
-        <a href="#/questoes" aria-current={isQuestionBank ? "page" : undefined}>Banco de questões</a>
-        <a href="#/laboratorio" aria-current={isLaboratory ? "page" : undefined}>Laboratório</a>
-        <a href="#/mapa" aria-current={isConceptMap ? "page" : undefined}>Mapa de conceitos</a>
-        <a href="#/sobre">Sobre</a>
+        <a href="#/" aria-current={!isQuestionBank && !isLaboratory && !isConceptMap ? "page" : undefined}><Icon name="home" size={18} />Início</a>
+        <a href="#/questoes" aria-current={isQuestionBank ? "page" : undefined}><Icon name="book" size={18} />Banco de questões</a>
+        <a href="#/laboratorio" onMouseEnter={() => { void loadLaboratory(); }} onFocus={() => { void loadLaboratory(); }} aria-current={isLaboratory ? "page" : undefined}><Icon name="laboratory" size={18} />Laboratório</a>
+        <a href="#/mapa" onMouseEnter={() => { void loadConceptMap(); }} onFocus={() => { void loadConceptMap(); }} aria-current={isConceptMap ? "page" : undefined}><Icon name="concepts" size={18} />Mapa de conceitos</a>
+        <a href="#/sobre"><Icon name="info" size={18} />Sobre</a>
       </nav>
     </header>
   );
