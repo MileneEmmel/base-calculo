@@ -14,6 +14,7 @@ SEED_PATH = ROOT / "database" / "seeds" / "pilot_questions.json"
 DATABASE_PATH = ROOT / "database" / "questions.sqlite"
 TEMP_DATABASE_PATH = ROOT / "database" / "questions.tmp.sqlite"
 EXPORT_PATH = ROOT / "public" / "data" / "questions.json"
+CATALOG_PATH = ROOT / "src" / "questionCatalog.generated.json"
 SLUG_PATTERN = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 
 
@@ -191,7 +192,16 @@ def validate_database(connection: sqlite3.Connection) -> dict[str, int]:
     return counts
 
 
-def export_public_data(connection: sqlite3.Connection) -> None:
+def write_question_catalog(topics: list[dict], questions: list[dict], path: Path) -> None:
+    featured = next((item for item in questions if item["id"] == "C1-001"), questions[0] if questions else None)
+    preview = {key: featured[key] for key in ("id", "topic_title", "statement_md")} if featured else None
+    path.write_text(
+        json.dumps({"topics": topics, "featured": preview}, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
+
+
+def export_public_data(connection: sqlite3.Connection, catalog_path: Path | None = None) -> None:
     rows = connection.execute(
         """
         SELECT * FROM published_questions
@@ -234,6 +244,8 @@ def export_public_data(connection: sqlite3.Connection) -> None:
         json.dumps({"version": 1, "topics": topics, "questions": exported}, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
+    if catalog_path is not None:
+        write_question_catalog(topics, exported, catalog_path)
 
 
 def validate_publication_limits(seed: dict) -> None:
@@ -258,7 +270,7 @@ def main() -> None:
         with connection:
             insert_seed(connection, seed)
         counts = validate_database(connection)
-        export_public_data(connection)
+        export_public_data(connection, CATALOG_PATH)
     finally:
         connection.close()
 

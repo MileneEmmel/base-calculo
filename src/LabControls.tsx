@@ -51,3 +51,21 @@ export function CurveControls({ curve, onChange, name, onUnitChange, range = def
 export function Toggle({ label, checked, onChange }: { label: string; checked: boolean; onChange: (checked: boolean) => void }) {
   return <label className="lab-comparison ui-toggle"><span>{label}</span><input className="ui-switch" type="checkbox" role="switch" checked={checked} onChange={(event) => onChange(event.target.checked)} /></label>;
 }
+
+export function NumericField({ label, value, onChange, min, max, step = 0.1 }: {
+  label: string; value: number; onChange: (value: number) => void; min: number; max: number; step?: number;
+}) {
+  const [draft, setDraft] = useState<string | null>(null);
+  const commit = (input: HTMLInputElement) => {
+    if (draft !== null && Number.isFinite(input.valueAsNumber)) {
+      const next = Math.min(max, Math.max(min, input.valueAsNumber));
+      if (next !== value) onChange(next);
+    }
+    setDraft(null);
+  };
+  return <input type="number" aria-label={label} min={min} max={max} step={step}
+    value={draft ?? Number(value.toPrecision(10))}
+    onChange={(event) => setDraft(event.target.value)}
+    onBlur={(event) => commit(event.currentTarget)}
+    onKeyDown={(event) => { if (event.key === "Enter") event.currentTarget.blur(); }} />;
+}

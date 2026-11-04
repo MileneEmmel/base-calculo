@@ -83,17 +83,17 @@ export function bounds(view: Viewport) {
   return { xmin: view.x - view.span, xmax: view.x + view.span, ymin: view.y - verticalSpan, ymax: view.y + verticalSpan };
 }
 
-export function coordinates(x: number, y: number, view: Viewport) {
+export function coordinates(x: number, y: number, view: Viewport, area = plot) {
   const box = bounds(view);
-  return { x: plot.left + (x - box.xmin) / (box.xmax - box.xmin) * plot.width,
-    y: plot.top + (box.ymax - y) / (box.ymax - box.ymin) * plot.height };
+  return { x: area.left + (x - box.xmin) / (box.xmax - box.xmin) * area.width,
+    y: area.top + (box.ymax - y) / (box.ymax - box.ymin) * area.height };
 }
 
-export function curvePath(curve: Curve, view: Viewport): string {
-  return functionPath((x) => evaluate(curve, x), view, curve.kind === "rational" || (curve.kind === "piecewise" && curve.example !== "continuous") ? curve.c : undefined);
+export function curvePath(curve: Curve, view: Viewport, area = plot): string {
+  return functionPath((x) => evaluate(curve, x), view, curve.kind === "rational" || (curve.kind === "piecewise" && curve.example !== "continuous") ? curve.c : undefined, area);
 }
 
-export function functionPath(fn: (x: number) => number, view: Viewport, discontinuity?: number): string {
+export function functionPath(fn: (x: number) => number, view: Viewport, discontinuity?: number, area = plot): string {
   const box = bounds(view);
   let previousX: number | null = null;
   let connected = false;
@@ -102,7 +102,7 @@ export function functionPath(fn: (x: number) => number, view: Viewport, disconti
     const y = fn(x);
     if (!Number.isFinite(y) || Math.abs(y) > 1e12) { connected = false; previousX = x; return ""; }
     if (discontinuity !== undefined && previousX !== null && previousX <= discontinuity && x >= discontinuity) connected = false;
-    const point = coordinates(x, y, view);
+    const point = coordinates(x, y, view, area);
     const command = `${connected ? "L" : "M"}${point.x.toFixed(2)},${point.y.toFixed(2)}`;
     previousX = x;
     connected = true;

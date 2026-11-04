@@ -2,9 +2,8 @@ import assert from "node:assert/strict";
 import test from "node:test";
 import { readFileSync } from "node:fs";
 import { convertTrigUnit, curvePath, curveRoots, derivative, derivativeFormula, evaluate, exponentialRate, functionProperties, geometricArea, integral, limitAt, riemannSum, symmetryAxis, trigProperties } from "../src/labMath.ts";
-import { geometryOf } from "../src/geometryMath.ts";
+import { circleGeometry, geometryOf, insertPolygonVertex, movePointDrag, polygonGeometry, presetPolygon, regularPolygon, startPointDrag, vectorMeasurement, vectorOperations } from "../src/geometryMath.ts";
 import { experiments, prerequisites, topicExperiment } from "../src/learningExperiments.ts";
-import { defaultOptions, readSaved, savedKey, validSnapshot } from "../src/labSaved.ts";
 
 const near = (actual, expected, tolerance = 1e-8) => assert.ok(Math.abs(actual - expected) < tolerance, `${actual} ≠ ${expected}`);
 const square = { kind: "quadratic", a: 1, b: 0, c: 0 };
@@ -116,21 +115,68 @@ test("mapa usa o catálogo real e forma uma rede de pré-requisitos sem ciclos",
   for (const id of Object.keys(experiments).filter(id => id.startsWith("question-"))) assert.ok(questionIds.has(id.slice(9)), id);
 });
 
-test("explorações antigas ganham novas opções sem perder os coeficientes", () => {
-  const old = { id: "legacy", name: "Seno antigo", curve: { kind: "sine", a: 2, b: 3, c: 4 }, secondCurve: square, compare: false, view: { x: 0, y: 0, span: 10 }, pointX: 1, limitX: 0, distance: 0.1, h: 1, lower: 0, upper: 2, rectangles: 10, mode: "functions", options: Object.fromEntries(Object.entries(defaultOptions).filter(([key]) => !["symmetry", "asymptotes"].includes(key))) };
-  assert.equal(validSnapshot(old), true);
-  globalThis.localStorage = { getItem: key => key === savedKey ? JSON.stringify([old]) : null };
-  const restored = readSaved()[0];
-  assert.deepEqual(restored.curve, old.curve);
-  assert.equal(restored.options.symmetry, true);
-  assert.equal(restored.options.asymptotes, true);
-  assert.equal(validSnapshot({ ...old, curve: { ...old.curve, angleUnit: "bad" } }), false);
-  const updated = { ...restored, geometry: [{ x: 2, y: 3 }, { x: 2, y: 8 }], riemannMethod: "left", curves: [{ ...old.curve, phase: 90, angleUnit: "deg" }], activeCurve: 0 };
-  assert.equal(validSnapshot(updated), true);
-  assert.equal(validSnapshot({ ...updated, geometry: [{ x: 2e6, y: 3 }, { x: 2, y: 8 }] }), false);
-  assert.equal(validSnapshot({ ...updated, coefficientRange: { min: -500, max: 500 }, circle: { radians: Math.PI / 2, unit: "deg", projections: true } }), true);
-  for (const coefficientRange of [null, { min: 5, max: 5 }, { min: -Infinity, max: 100 }]) assert.equal(validSnapshot({ ...updated, coefficientRange }), false);
-  for (const circle of [null, { radians: 8, unit: "deg", projections: true }, { radians: 1, unit: "bad", projections: true }]) assert.equal(validSnapshot({ ...updated, circle }), false);
-  assert.equal(validSnapshot({ ...updated, riemannMethod: "bad" }), false);
-  delete globalThis.localStorage;
+test("vetores calculam soma, escala e os dois produtos", () => {
+  assert.deepEqual(vectorOperations({ x: 3, y: 1 }, { x: 1, y: 3 }, -2), {
+    sum: { x: 4, y: 4 }, scaled: { x: -6, y: -2 }, dot: 6, determinant: 8,
+    lengths: [Math.sqrt(10), Math.sqrt(10)],
+  });
+  assert.equal(vectorOperations({ x: 0, y: 0 }, { x: 1, y: 3 }, 0).determinant, 0);
+});
+
+test("figuras medem área e perímetro a partir dos pontos do plano", () => {
+  const points = [{ x: 1, y: 1 }, { x: 4, y: 5 }, { x: 1, y: 5 }];
+  const triangle = polygonGeometry(points);
+  assert.equal(triangle.area, 6);
+  assert.equal(triangle.perimeter, 12);
+  assert.equal(polygonGeometry([...points.slice(0, 2), { x: 7, y: 9 }]).area, 0);
+  const rectangle = polygonGeometry([points[0], { x: 4, y: 1 }, points[1], points[2]]);
+  assert.equal(rectangle.area, 12);
+  assert.equal(rectangle.perimeter, 14);
+  const circle = circleGeometry(points[0], points[1]);
+  assert.equal(circle.radius, 5);
+  assert.equal(circle.area, 25 * Math.PI);
+  assert.equal(circle.perimeter, 10 * Math.PI);
+});
+
+test("Shift trava o eixo predominante e pode ser pressionado ou solto no meio do arraste", () => {
+  const move = (drag, x, y, shift) => movePointDrag(drag, { x, y }, shift, { x: 0.5, y: 0.5 }, (point) => point);
+  let drag = startPointDrag({ x: 2, y: 3 }, { x: 0, y: 0 }, true);
+  drag = move(drag, 4, 1, true);
+  assert.deepEqual(drag.last, { x: 4, y: 3 });
+  drag = move(drag, 6, 20, true);
+  assert.deepEqual(drag.last, { x: 5, y: 3 });
+  drag = move(drag, 8, 24, false);
+  assert.deepEqual(drag.last, { x: 6, y: 1 });
+  drag = move(drag, 9, 30, true);
+  assert.deepEqual(drag.last, { x: 6, y: -2 });
+});
+
+test("adicionar pontos preserva as medidas, e regularizar mantém a quantidade de vértices", () => {
+  let points = [{ x: 0, y: 0 }, { x: 3, y: 0 }, { x: 0, y: 4 }];
+  for (let i = 0; i < 51; i++) points = insertPolygonVertex(points);
+  assert.equal(points.length, 50);
+  assert.equal(new Set(points.map(({ x, y }) => `${x},${y}`)).size, 50);
+  near(polygonGeometry(points).area, 6);
+  near(polygonGeometry(points).perimeter, 12);
+  const regular = regularPolygon(points);
+  const length = (a, b) => Math.hypot(b.x - a.x, b.y - a.y);
+  assert.equal(regular.length, 50);
+  regular.forEach((a, i) => {
+    const b = regular[(i + 1) % 50], c = regular[(i + 2) % 50];
+    near(length(a, b), length(b, c));
+    near(length(a, c) / (2 * length(a, b)), Math.cos(Math.PI / 50));
+  });
+  const [a, b, c, d] = presetPolygon("rhombus", points);
+  near(length(a, b), length(b, c));
+  near(length(b, c), length(c, d));
+  near(length(c, d), length(d, a));
+  assert.notEqual(length(a, c), length(b, d));
+});
+
+test("inclinação dos vetores cobre os quadrantes e é indefinida no vetor nulo", () => {
+  const fourthQuadrant = vectorMeasurement({ x: 3, y: -3 });
+  near(fourthQuadrant.magnitude, Math.sqrt(18));
+  near(fourthQuadrant.inclination, 315);
+  near(vectorMeasurement({ x: -3, y: 3 }).inclination, 135);
+  assert.deepEqual(vectorMeasurement({ x: 0, y: 0 }), { magnitude: 0, inclination: null });
 });

@@ -1,0 +1,361 @@
+{
+  "topics": [
+    {
+      "id": "topic-number-sets",
+      "slug": "conjuntos-numericos",
+      "title": "Conjuntos numéricos",
+      "description": "Naturais, inteiros, racionais, irracionais, reais e operações com conjuntos.",
+      "position": 1,
+      "module_slug": "matematica-basica",
+      "module_title": "Matemática Básica",
+      "parent_slug": null,
+      "question_count": 60
+    },
+    {
+      "id": "topic-arithmetic",
+      "slug": "operacoes-numericas",
+      "title": "Operações numéricas",
+      "description": "Ordem das operações e cálculo com números reais.",
+      "position": 2,
+      "module_slug": "matematica-basica",
+      "module_title": "Matemática Básica",
+      "parent_slug": null,
+      "question_count": 60
+    },
+    {
+      "id": "topic-divisibility",
+      "slug": "divisibilidade-multiplos-e-divisores",
+      "title": "Divisibilidade, múltiplos e divisores",
+      "description": "Critérios de divisibilidade, fatoração em primos, divisores, MDC e MMC.",
+      "position": 3,
+      "module_slug": "matematica-basica",
+      "module_title": "Matemática Básica",
+      "parent_slug": null,
+      "question_count": 60
+    },
+    {
+      "id": "topic-fractions-decimals",
+      "slug": "fracoes-e-numeros-decimais",
+      "title": "Frações e números decimais",
+      "description": "Frações equivalentes, simplificação, operações, dízimas e arredondamento decimal.",
+      "position": 4,
+      "module_slug": "matematica-basica",
+      "module_title": "Matemática Básica",
+      "parent_slug": null,
+      "question_count": 60
+    },
+    {
+      "id": "topic-intervals",
+      "slug": "intervalos",
+      "title": "Intervalos",
+      "description": "Representação na reta real, notação e operações com intervalos.",
+      "position": 5,
+      "module_slug": "matematica-basica",
+      "module_title": "Matemática Básica",
+      "parent_slug": null,
+      "question_count": 60
+    },
+    {
+      "id": "topic-absolute-value",
+      "slug": "modulo-e-valor-absoluto",
+      "title": "Módulo e valor absoluto",
+      "description": "Distância até zero, comparação e operações com valores absolutos.",
+      "position": 6,
+      "module_slug": "matematica-basica",
+      "module_title": "Matemática Básica",
+      "parent_slug": null,
+      "question_count": 60
+    },
+    {
+      "id": "topic-ratio-percent",
+      "slug": "razao-proporcao-e-porcentagem",
+      "title": "Razão, proporção e porcentagem",
+      "description": "Razões, proporcionalidade, regra de três e porcentagens.",
+      "position": 7,
+      "module_slug": "matematica-basica",
+      "module_title": "Matemática Básica",
+      "parent_slug": null,
+      "question_count": 60
+    },
+    {
+      "id": "topic-powers-roots",
+      "slug": "potenciacao-e-radiciacao",
+      "title": "Potenciação e radiciação",
+      "description": "Propriedades de potências, expoentes e simplificação de radicais.",
+      "position": 8,
+      "module_slug": "matematica-basica",
+      "module_title": "Matemática Básica",
+      "parent_slug": null,
+      "question_count": 60
+    },
+    {
+      "id": "topic-real-properties",
+      "slug": "propriedades-dos-numeros-reais",
+      "title": "Propriedades dos números reais",
+      "description": "Propriedades comutativa e associativa, elementos neutros, opostos, inversos e divisão por zero.",
+      "position": 9,
+      "module_slug": "matematica-basica",
+      "module_title": "Matemática Básica",
+      "parent_slug": null,
+      "question_count": 60
+    },
+    {
+      "id": "topic-expressions",
+      "slug": "expressoes-algebricas",
+      "title": "Expressões algébricas",
+      "description": "Notação algébrica, termos semelhantes e simplificação de expressões.",
+      "position": 10,
+      "module_slug": "matematica-basica",
+      "module_title": "Matemática Básica",
+      "parent_slug": null,
+      "question_count": 60
+    },
+    {
+      "id": "topic-identities",
+      "slug": "produtos-notaveis",
+      "title": "Produtos notáveis",
+      "description": "Quadrado da soma e da diferença, produto da soma pela diferença e outras identidades.",
+      "position": 11,
+      "module_slug": "matematica-basica",
+      "module_title": "Matemática Básica",
+      "parent_slug": null,
+      "question_count": 60
+    },
+    {
+      "id": "topic-factorization",
+      "slug": "fatoracao",
+      "title": "Fatoração",
+      "description": "Fatoração numérica e algébrica, fator comum, agrupamento e trinômios.",
+      "position": 12,
+      "module_slug": "matematica-basica",
+      "module_title": "Matemática Básica",
+      "parent_slug": null,
+      "question_count": 60
+    },
+    {
+      "id": "topic-equations",
+      "slug": "equacoes-e-inequacoes",
+      "title": "Equações e inequações",
+      "description": "Equações de primeiro e segundo graus, inequações e conjuntos-solução.",
+      "position": 13,
+      "module_slug": "matematica-basica",
+      "module_title": "Matemática Básica",
+      "parent_slug": null,
+      "question_count": 60
+    },
+    {
+      "id": "topic-linear-systems",
+      "slug": "sistemas-lineares",
+      "title": "Sistemas lineares",
+      "description": "Sistemas de equações lineares, métodos de resolução e interpretação das soluções.",
+      "position": 14,
+      "module_slug": "matematica-basica",
+      "module_title": "Matemática Básica",
+      "parent_slug": null,
+      "question_count": 60
+    },
+    {
+      "id": "topic-functions",
+      "slug": "funcoes",
+      "title": "Funções",
+      "description": "Conceito, notação, domínio, imagem e interpretação de gráficos.",
+      "position": 1,
+      "module_slug": "pre-calculo",
+      "module_title": "Pré-Cálculo",
+      "parent_slug": null,
+      "question_count": 60
+    },
+    {
+      "id": "topic-linear",
+      "slug": "funcoes-afins",
+      "title": "Funções afins",
+      "description": "Função afim, função linear como caso particular, inclinação e equação da reta.",
+      "position": 2,
+      "module_slug": "pre-calculo",
+      "module_title": "Pré-Cálculo",
+      "parent_slug": "funcoes",
+      "question_count": 60
+    },
+    {
+      "id": "topic-quadratic",
+      "slug": "funcoes-quadraticas",
+      "title": "Funções quadráticas",
+      "description": "Parábolas, raízes, discriminante, vértice e formas de representação.",
+      "position": 3,
+      "module_slug": "pre-calculo",
+      "module_title": "Pré-Cálculo",
+      "parent_slug": "funcoes",
+      "question_count": 60
+    },
+    {
+      "id": "topic-polynomial",
+      "slug": "funcoes-polinomiais",
+      "title": "Funções polinomiais",
+      "description": "Polinômios, grau, zeros, sinais e comportamento de gráficos.",
+      "position": 4,
+      "module_slug": "pre-calculo",
+      "module_title": "Pré-Cálculo",
+      "parent_slug": "funcoes",
+      "question_count": 60
+    },
+    {
+      "id": "topic-rational",
+      "slug": "funcoes-racionais",
+      "title": "Funções racionais",
+      "description": "Domínio, zeros, sinais, descontinuidades e assíntotas de funções racionais.",
+      "position": 5,
+      "module_slug": "pre-calculo",
+      "module_title": "Pré-Cálculo",
+      "parent_slug": "funcoes",
+      "question_count": 60
+    },
+    {
+      "id": "topic-exponential",
+      "slug": "funcoes-exponenciais",
+      "title": "Funções exponenciais",
+      "description": "Crescimento, decaimento, gráficos e modelos exponenciais.",
+      "position": 6,
+      "module_slug": "pre-calculo",
+      "module_title": "Pré-Cálculo",
+      "parent_slug": "funcoes",
+      "question_count": 60
+    },
+    {
+      "id": "topic-logarithmic",
+      "slug": "funcoes-logaritmicas",
+      "title": "Funções logarítmicas",
+      "description": "Logaritmos, propriedades, domínio, gráficos e relação com exponenciais.",
+      "position": 7,
+      "module_slug": "pre-calculo",
+      "module_title": "Pré-Cálculo",
+      "parent_slug": "funcoes",
+      "question_count": 60
+    },
+    {
+      "id": "topic-composition",
+      "slug": "composicao-de-funcoes",
+      "title": "Composição de funções",
+      "description": "Avaliação de funções compostas e determinação do domínio da composição.",
+      "position": 8,
+      "module_slug": "pre-calculo",
+      "module_title": "Pré-Cálculo",
+      "parent_slug": "funcoes",
+      "question_count": 60
+    },
+    {
+      "id": "topic-trigonometry",
+      "slug": "trigonometria",
+      "title": "Trigonometria",
+      "description": "Razões trigonométricas, círculo trigonométrico, identidades e funções periódicas.",
+      "position": 9,
+      "module_slug": "pre-calculo",
+      "module_title": "Pré-Cálculo",
+      "parent_slug": null,
+      "question_count": 60
+    },
+    {
+      "id": "topic-analytic-geometry",
+      "slug": "geometria-analitica",
+      "title": "Geometria analítica",
+      "description": "Plano cartesiano, distância, ponto médio, retas, circunferências e cônicas.",
+      "position": 10,
+      "module_slug": "pre-calculo",
+      "module_title": "Pré-Cálculo",
+      "parent_slug": null,
+      "question_count": 60
+    },
+    {
+      "id": "topic-sequences",
+      "slug": "sequencias-e-progressoes",
+      "title": "Sequências e progressões",
+      "description": "Sequências numéricas, progressões aritméticas e geométricas e suas somas.",
+      "position": 11,
+      "module_slug": "pre-calculo",
+      "module_title": "Pré-Cálculo",
+      "parent_slug": null,
+      "question_count": 60
+    },
+    {
+      "id": "topic-limits",
+      "slug": "limites",
+      "title": "Limites",
+      "description": "Limites laterais, cálculo de limites, limites infinitos e no infinito.",
+      "position": 1,
+      "module_slug": "calculo-1",
+      "module_title": "Cálculo 1",
+      "parent_slug": null,
+      "question_count": 60
+    },
+    {
+      "id": "topic-continuity",
+      "slug": "continuidade",
+      "title": "Continuidade",
+      "description": "Continuidade em um ponto e em intervalos, funções por partes e tipos de descontinuidade.",
+      "position": 2,
+      "module_slug": "calculo-1",
+      "module_title": "Cálculo 1",
+      "parent_slug": null,
+      "question_count": 60
+    },
+    {
+      "id": "topic-derivatives",
+      "slug": "derivadas",
+      "title": "Derivadas",
+      "description": "Definição por limite, regras de derivação e derivadas de funções elementares.",
+      "position": 3,
+      "module_slug": "calculo-1",
+      "module_title": "Cálculo 1",
+      "parent_slug": null,
+      "question_count": 60
+    },
+    {
+      "id": "topic-derivative-applications",
+      "slug": "aplicacoes-da-derivada",
+      "title": "Aplicações da derivada",
+      "description": "Reta tangente, taxas de variação, crescimento, extremos e otimização.",
+      "position": 4,
+      "module_slug": "calculo-1",
+      "module_title": "Cálculo 1",
+      "parent_slug": null,
+      "question_count": 60
+    },
+    {
+      "id": "topic-integrals",
+      "slug": "integrais",
+      "title": "Integrais",
+      "description": "Primitivas, integral definida, somas de Riemann e teorema fundamental do cálculo.",
+      "position": 5,
+      "module_slug": "calculo-1",
+      "module_title": "Cálculo 1",
+      "parent_slug": null,
+      "question_count": 60
+    },
+    {
+      "id": "topic-integration-techniques",
+      "slug": "tecnicas-de-integracao",
+      "title": "Técnicas de integração",
+      "description": "Substituição, integração por partes e outras técnicas introdutórias.",
+      "position": 6,
+      "module_slug": "calculo-1",
+      "module_title": "Cálculo 1",
+      "parent_slug": null,
+      "question_count": 60
+    },
+    {
+      "id": "topic-integral-applications",
+      "slug": "aplicacoes-da-integral",
+      "title": "Aplicações da integral",
+      "description": "Áreas entre curvas, volumes, acumulação e aplicações da integral definida.",
+      "position": 7,
+      "module_slug": "calculo-1",
+      "module_title": "Cálculo 1",
+      "parent_slug": null,
+      "question_count": 60
+    }
+  ],
+  "featured": {
+    "id": "C1-001",
+    "topic_title": "Limites",
+    "statement_md": "Calcule \\(\\lim_{x\\to2}\\frac{2x^2-3x-2}{x-2}\\)."
+  }
+}

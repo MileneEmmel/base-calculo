@@ -1,5 +1,5 @@
 import type { Curve, Viewport } from "./labMath";
-import type { Mode } from "./labSaved";
+import type { Mode } from "./labConfig";
 import type { Point } from "./geometryMath";
 
 export type Experiment = { title: string; mode: Mode; curves: Curve[]; view?: Viewport; pointX?: number; limitX?: number; lower?: number; upper?: number; geometry?: [Point, Point] };

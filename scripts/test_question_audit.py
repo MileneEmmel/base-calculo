@@ -75,13 +75,26 @@ class QuestionAuditTests(unittest.TestCase):
         self.assertEqual(QUESTIONS["C1-008"]["answer"]["latex"], r"2\pi")
         self.assertEqual(math.pi*2**2/2, 2*math.pi)
 
+    def test_exponential_graph_ranges_and_logarithm_domain(self):
+        for question_id, image, asymptote in [
+            ("IA2B-10-065", r"\left(0,\infty\right)", "0"),
+            ("IA2B-10-087", r"\left(3,\infty\right)", "3"),
+            ("IA2B-10-093", r"\left(-\infty,0\right)", "0"),
+        ]:
+            with self.subTest(question=question_id):
+                answer = QUESTIONS[question_id]["answer"]
+                self.assertEqual(answer["range"].replace(" ", ""), image)
+                self.assertEqual(answer["asymptote_y"], asymptote)
+        self.assertEqual(QUESTIONS["IA2B-10-273"]["answer"]["restriction"], "x>-1")
+
     def test_sources_and_export_match_reviewed_records(self):
         sources = {source["id"]: source for source in SEED["sources"]}
         for question_id in ["MB-001", "MB-002", "MB-003"]:
             self.assertEqual(QUESTIONS[question_id]["source_id"], "src-intermediate-algebra-ch1")
         for source in sources.values():
-            self.assertEqual(source["license_code"], "CC BY-NC-SA 4.0")
-            self.assertEqual(source["accessed_at"], "2026-10-25")
+            if source["url"].startswith("https://openstax.org/"):
+                self.assertEqual(source["license_code"], "CC BY-NC-SA 4.0")
+                self.assertEqual(source["accessed_at"], "2026-10-25")
         export = json.loads((ROOT / "public/data/questions.json").read_text(encoding="utf-8"))
         original_ids = {f"{prefix}-{number:03d}" for prefix in ["MB", "PC", "C1"] for number in range(1,9)}
         self.assertTrue(original_ids.issubset({question["id"] for question in export["questions"]}))

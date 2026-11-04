@@ -52,7 +52,7 @@ def import_batch(seed: dict) -> dict:
         question.update(id=question_id, slug=f"openstax-ia2-cap1-revisao-{number}", source_id=SOURCE_ID,
                         source_locator=f"Capítulo 1, Review Exercises, exercício {number}",
                         question_type="numeric" if isinstance(question["answer"].get("value"), (int, float)) else "short_text",
-                        status="published", created_at=DATE, updated_at=DATE)
+                        status="published", created_at=DATE, updated_at=editorial.get("updated_at", DATE))
         if question_id in by_id:
             if by_id[question_id] != question:
                 raise ValueError(f"ID já ocupado ou conteúdo alterado: {question_id}; não será sobrescrito")

@@ -32,10 +32,13 @@ export type Question = {
   choices: QuestionChoice[];
 };
 
-export type QuestionsPayload = {
-  version: number;
-  topics: Topic[];
-  questions: Question[];
+export type QuestionSummary = Pick<Question,
+  "id" | "statement_md" | "difficulty" | "estimated_minutes" | "topic_slug" | "topic_title" | "module_slug"
+>;
+
+export type QuestionIndex = {
+  questions: QuestionSummary[];
+  topicFiles: Record<string, string>;
 };
 
 export type Topic = {

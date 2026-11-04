@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import test from "node:test";
-import { circleValues, clampRange, coefficientRangeKey, defaultCircleState, defaultCoefficientRange, includeCurveRange, readCircleState, readCoefficientRange, validCircleState, validCoefficientRange } from "../src/labPreferences.ts";
+import { circleValues, clampRange, coefficientRangeKey, defaultCoefficientRange, includeCurveRange, readCoefficientRange, validCoefficientRange } from "../src/labPreferences.ts";
 
 test("configuração aceita faixas assimétricas e rejeita limites inválidos", () => {
   assert.deepEqual(defaultCoefficientRange, { min: -100, max: 100 });
@@ -22,16 +22,12 @@ test("círculo trata ângulos negativos, eixos e tangentes indefinidas", () => {
   assert.equal(circleValues(3 * Math.PI / 4).quadrant, 2);
   assert.equal(circleValues(5 * Math.PI / 4).quadrant, 3);
   assert.ok(Math.abs(circleValues(Math.PI / 4).tangent - 1) < 1e-12);
-  assert.equal(validCircleState(defaultCircleState), true);
-  for (const state of [null, {}, { ...defaultCircleState, radians: Infinity }, { ...defaultCircleState, radians: 7 }, { ...defaultCircleState, unit: "turn" }]) assert.equal(validCircleState(state), false);
 });
 
 test("preferências inválidas ou armazenamento indisponível usam o padrão", () => {
   globalThis.localStorage = { getItem: key => key === coefficientRangeKey ? JSON.stringify({ min: -7.5, max: 250 }) : "null" };
   assert.deepEqual(readCoefficientRange(), { min: -7.5, max: 250 });
-  assert.deepEqual(readCircleState(), defaultCircleState);
   globalThis.localStorage = { getItem: () => { throw new Error("Storage unavailable"); } };
   assert.deepEqual(readCoefficientRange(), defaultCoefficientRange);
-  assert.deepEqual(readCircleState(), defaultCircleState);
   delete globalThis.localStorage;
 });

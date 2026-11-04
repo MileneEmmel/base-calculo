@@ -2,11 +2,12 @@ import { useState } from "react";
 import type { ModuleSlug, Topic } from "./types";
 import { experimentUrl, prerequisites, topicExperiment } from "./learningExperiments";
 import Icon from "./Icon";
+import { studyTopicUrl } from "./studyNavigation";
 
 const modules: { slug: ModuleSlug; title: string; className: string }[] = [{ slug: "matematica-basica", title: "Matemática Básica", className: "module-basic" }, { slug: "pre-calculo", title: "Pré-Cálculo", className: "module-precalc" }, { slug: "calculo-1", title: "Cálculo 1", className: "module-calc" }];
 
-export default function ConceptMap({ topics }: { topics: Topic[] }) {
-  const [selected, setSelected] = useState("funcoes");
+export default function ConceptMap({ topics, initialTopic = "funcoes" }: { topics: Topic[]; initialTopic?: string }) {
+  const [selected, setSelected] = useState(initialTopic);
   const topic = topics.find((item) => item.slug === selected) ?? topics[0];
   if (!topic) return <p className="state-message">O catálogo de tópicos ainda não está disponível. Tente atualizar a página.</p>;
   const before = topics.filter((item) => (prerequisites[topic.slug] ?? []).includes(item.slug));
@@ -23,6 +24,7 @@ export default function ConceptMap({ topics }: { topics: Topic[] }) {
         <p className="concept-description">{topic.description}</p>
         <p className="concept-availability">{topic.question_count === 0 ? "Sem exercícios disponíveis" : `${topic.question_count} ${topic.question_count === 1 ? "exercício disponível" : "exercícios disponíveis"}`}</p>
         <div className="lab-inline-actions">
+          <a className="secondary-button concept-study-link" href={studyTopicUrl(topic.slug)}><Icon name="study" size={18} />Estudar este tópico</a>
           <a className="primary-button" href={`#/questoes?topico=${encodeURIComponent(topic.slug)}`}><Icon name="book" size={18} />Ver exercícios</a>
           {topicExperiment[topic.slug] && <a className="secondary-button" href={experimentUrl(topicExperiment[topic.slug])}><Icon name="laboratory" size={18} />Abrir laboratório</a>}
         </div>

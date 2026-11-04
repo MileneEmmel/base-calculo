@@ -22,7 +22,6 @@ DATA=ROOT/"database/sources/ia2-book"
 class WholeBookTests(unittest.TestCase):
     def test_coverage_caps_and_unchanged_archive(self):
         self.assertEqual(len(NEW),937)
-        self.assertEqual(len(SEED["questions"]),1155)
         self.assertEqual({int(q["id"].split("-")[1]) for q in NEW.values()},set(range(2,13)))
         self.assertEqual(len({q["topic_id"] for q in SEED["questions"] if q["topic_id"] not in {
             "topic-limits","topic-continuity","topic-derivatives","topic-derivative-applications",

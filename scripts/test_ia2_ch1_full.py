@@ -12,7 +12,7 @@ from ia2_ch1_full_content import RAW, SPECIAL, PAGES, SUBSTITUTIONS, RESTRICTION
 from ia2_exact_math import calculate
 from import_ia2_ch1_full import import_batch, PREFIX
 from build_database import validate_seed
-from question_catalog import load_catalog
+from question_catalog import ARCHIVE_PATH, load_catalog
 
 ROOT=Path(__file__).resolve().parents[1]
 SEED=load_catalog()
@@ -113,7 +113,8 @@ class FullChapterTests(unittest.TestCase):
         numbers=[int(re.search(r"exercício (\d+)$",q["source_locator"])[1]) for q in chapter if "Try It" not in q["source_locator"]]
         self.assertEqual(sorted(numbers),list(range(1,496)))
         self.assertEqual(len(chapter),607)
-        self.assertEqual(sum(not q["id"].startswith("IA2B-") for q in SEED["questions"]),628)
+        original_ids = set(json.loads(ARCHIVE_PATH.read_text(encoding="utf8"))["original_order"])
+        self.assertEqual(len({q["id"] for q in SEED["questions"]} & original_ids), 628)
         self.assertEqual(import_batch(SEED),SEED)
         self.assertEqual(len(questions()),414)
 

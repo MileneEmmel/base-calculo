@@ -1,8 +1,7 @@
 import assert from "node:assert/strict";
 import test from "node:test";
 import { bounds, coordinates, curvePath, curveRoots, derivative, evaluate, findZeros, formula, initialView, integral, limitAt, plot, ticks } from "../src/labMath.ts";
-import { readProgress, writeLocal } from "../src/browserStorage.ts";
-import { defaultOptions, readSaved, savedKey, validSnapshot } from "../src/labSaved.ts";
+import { readProgress } from "../src/browserStorage.ts";
 
 test("avalia funções e os casos degenerados com a igual a zero", () => {
   assert.equal(evaluate({ kind: "affine", a: -2, b: 3, c: 99 }, 4), -5);
@@ -107,23 +106,4 @@ test("gráficos interrompem curvas nas descontinuidades", () => {
 test("progresso tolera dados inválidos e preserva os IDs existentes", () => {
   assert.deepEqual([...readProgress('["MB-001","C1-002","MB-001",3]')], ["MB-001", "C1-002"]);
   for (const raw of [null, "invalid", "null", "{}", "true"]) assert.equal(readProgress(raw).size, 0);
-});
-test("salvamento persiste e valida o estado completo da exploração", () => {
-  const values = new Map();
-  globalThis.localStorage = { getItem: (key) => values.get(key) ?? null, setItem: (key, value) => values.set(key, value) };
-  const snapshot = { id: "example", name: "Integral", curve: { kind: "quadratic", a: 1, b: 0, c: 0 }, secondCurve: { kind: "affine", a: 1, b: 1, c: 0 }, compare: true, view: initialView, pointX: 1, limitX: 0, distance: 0.1, h: 0.01, lower: 0, upper: 2, rectangles: 50, mode: "integrals", options: defaultOptions, tableStep: 1 };
-  assert.equal(validSnapshot(snapshot), true);
-  assert.equal(writeLocal(savedKey, [snapshot]), true);
-  assert.deepEqual(readSaved(), [snapshot]);
-  assert.equal(validSnapshot({ ...snapshot, view: { ...initialView, span: -1 } }), false);
-  assert.equal(validSnapshot({ ...snapshot, curve: { ...snapshot.curve, a: 1e12 } }), false);
-  const fourFunctions = { ...snapshot, curves: [snapshot.curve, snapshot.secondCurve, snapshot.curve, snapshot.secondCurve], activeCurve: 3 };
-  assert.equal(validSnapshot(fourFunctions), true);
-  assert.equal(writeLocal(savedKey, [fourFunctions, snapshot]), true);
-  assert.deepEqual(readSaved(), [fourFunctions, snapshot]);
-  assert.equal(validSnapshot({ ...fourFunctions, activeCurve: 4 }), false);
-  assert.equal(validSnapshot({ ...fourFunctions, curves: [...fourFunctions.curves, snapshot.curve] }), false);
-  globalThis.localStorage.setItem = () => { throw new Error("Storage blocked"); };
-  assert.equal(writeLocal("progress", []), false);
-  delete globalThis.localStorage;
 });
