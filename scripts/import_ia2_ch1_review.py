@@ -1,5 +1,6 @@
 """Importa a seção completa já curada. Requer Python 3.12+; não acessa a rede."""
 from __future__ import annotations
+from editorial_revisions import load_revisions, apply_revision
 
 import json
 from copy import deepcopy
@@ -22,6 +23,7 @@ BASIC_ORDER = ["topic-number-sets", "topic-arithmetic", "topic-divisibility", "t
 
 def import_batch(seed: dict) -> dict:
     result = deepcopy(seed)
+    revisions = load_revisions()
     numbers = [question["original_number"] for question in QUESTIONS]
     assert len(numbers) == len(set(numbers)) == 78, "Lote com duplicações ou contagem inesperada"
     assert set(numbers).isdisjoint(REUSED), "O lote não deve duplicar os três itens antigos"
@@ -53,6 +55,7 @@ def import_batch(seed: dict) -> dict:
                         source_locator=f"Capítulo 1, Review Exercises, exercício {number}",
                         question_type="numeric" if isinstance(question["answer"].get("value"), (int, float)) else "short_text",
                         status="published", created_at=DATE, updated_at=editorial.get("updated_at", DATE))
+        apply_revision(question, revisions)
         if question_id in by_id:
             if by_id[question_id] != question:
                 raise ValueError(f"ID já ocupado ou conteúdo alterado: {question_id}; não será sobrescrito")

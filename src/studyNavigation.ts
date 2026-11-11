@@ -6,5 +6,5 @@ export const studyModules = [
 
 export type StudyModuleSlug = (typeof studyModules)[number]["slug"];
 
-export const studyModuleUrl = (slug: StudyModuleSlug) => slug === "matematica-basica" ? "#/estudar" : `#/estudar?modulo=${slug}`;
-export const studyTopicUrl = (slug: string) => `#/estudar?topico=${encodeURIComponent(slug)}`;
+export const studyModuleUrl = (slug: StudyModuleSlug) => slug === "matematica-basica" ? "/estudar" : `/estudar?modulo=${slug}`;
+export const studyTopicUrl = (slug: string) => `/estudar?topico=${encodeURIComponent(slug)}`;

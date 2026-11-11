@@ -37,12 +37,6 @@ h1, h2, h3 { font-family: var(--font-display); }
 .site-header nav a .ui-icon { color: var(--muted); }
 .site-header nav a[aria-current="page"] .ui-icon { color: var(--control-active); }
 
-@media (min-width: 641px) and (max-width: 1000px) {
-  :root { --header-height: 112px; }
-  .site-header { grid-template-columns: 1fr; align-content: center; gap: 0.35rem; padding-block: 0.65rem; }
-  .site-header nav { justify-content: flex-start; gap: 1.25rem; overflow-x: auto; padding-block: 0.25rem; font-size: 0.9rem; }
-}
-
 :is(button, input, summary, a):focus-visible {
   outline: 2px solid var(--control-focus);
   outline-offset: 3px;
@@ -168,6 +162,39 @@ input[type="number"] { appearance: textfield; -moz-appearance: textfield; }
 input[type="number"]::-webkit-inner-spin-button,
 input[type="number"]::-webkit-outer-spin-button { -webkit-appearance: none; margin: 0; }
 
+/* Sliders com o mesmo visual em Chrome, Opera, Edge, Firefox e Safari (sem depender do estilo nativo). */
+input[type="range"] {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 28px;
+  margin: 0;
+  background: transparent;
+  cursor: pointer;
+}
+input[type="range"]::-webkit-slider-runnable-track {
+  height: 6px;
+  border-radius: 999px;
+  background: linear-gradient(to right, var(--control-active) var(--range-fill, 0%), var(--control-track) var(--range-fill, 0%));
+}
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  margin-top: -7px;
+  border: 3px solid var(--control-active);
+  border-radius: 50%;
+  background: var(--paper);
+  box-shadow: 0 1px 3px rgb(23 50 77 / 18%);
+}
+input[type="range"]::-moz-range-track { height: 6px; border: 0; border-radius: 999px; background: var(--control-track); }
+input[type="range"]::-moz-range-progress { height: 6px; border-radius: 999px; background: var(--control-active); }
+input[type="range"]::-moz-range-thumb { box-sizing: border-box; width: 20px; height: 20px; border: 3px solid var(--control-active); border-radius: 50%; background: var(--paper); }
+input[type="range"]:focus-visible { outline: none; }
+input[type="range"]:focus-visible::-webkit-slider-thumb { outline: 2px solid var(--control-focus); outline-offset: 2px; }
+input[type="range"]:focus-visible::-moz-range-thumb { outline: 2px solid var(--control-focus); outline-offset: 2px; }
+input[type="range"]:disabled { cursor: not-allowed; opacity: 0.45; }
+
 .lab-number-control input.ui-range {
   appearance: none;
   -webkit-appearance: none;
@@ -215,6 +242,7 @@ input[type="number"]::-webkit-outer-spin-button { -webkit-appearance: none; marg
 .bank-pagination span { color: var(--muted); font-size: 0.9rem; font-variant-numeric: tabular-nums; text-align: center; }
 
 @media (forced-colors: active) {
+  input[type="range"] { appearance: auto; }
   .ui-toggle .ui-switch { appearance: auto; }
   .ui-switch::after { display: none; }
   .lab-number-control input.ui-range { appearance: auto; }

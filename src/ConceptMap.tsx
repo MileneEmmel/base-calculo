@@ -25,7 +25,7 @@ export default function ConceptMap({ topics, initialTopic = "funcoes" }: { topic
         <p className="concept-availability">{topic.question_count === 0 ? "Sem exercícios disponíveis" : `${topic.question_count} ${topic.question_count === 1 ? "exercício disponível" : "exercícios disponíveis"}`}</p>
         <div className="lab-inline-actions">
           <a className="secondary-button concept-study-link" href={studyTopicUrl(topic.slug)}><Icon name="study" size={18} />Estudar este tópico</a>
-          <a className="primary-button" href={`#/questoes?topico=${encodeURIComponent(topic.slug)}`}><Icon name="book" size={18} />Ver exercícios</a>
+          <a className="primary-button" href={`/questoes?topico=${encodeURIComponent(topic.slug)}`}><Icon name="book" size={18} />Ver exercícios</a>
           {topicExperiment[topic.slug] && <a className="secondary-button" href={experimentUrl(topicExperiment[topic.slug])}><Icon name="laboratory" size={18} />Abrir laboratório</a>}
         </div>
       </section>

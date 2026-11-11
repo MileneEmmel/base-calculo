@@ -1,5 +1,5 @@
 import { lazy, Suspense, useDeferredValue, useEffect, useMemo, useState } from "react";
-import type { ModuleSlug, Question, QuestionIndex, QuestionSummary, Topic } from "./types";
+import type { ModuleSlug, Question, QuestionIndex, QuestionIndexAsset, QuestionSummary, Topic } from "./types";
 import { progressKey, readProgress, writeLocal } from "./browserStorage";
 import SelectMenu from "./SelectMenu";
 import Icon from "./Icon";
@@ -7,6 +7,9 @@ import type { ProgressFilter } from "./questionNavigation";
 import { bankQuery, defaultBankFilters, filterQuestions, questionNeighbors, readBankFilters, matchesProgress } from "./questionNavigation";
 import { DifficultyDots, difficultyLabels, moduleMeta } from "./questionPresentation";
 import catalog from "./questionCatalog.generated.json";
+import { currentRoute, navigate, onRouteChange, replaceRoute } from "./router";
+import { applySeo, knownRoute } from "./seo";
+import StorageNotice from "./StorageNotice";
 
 const loadLaboratory = () => import("./LabWorkspace");
 const loadConceptMap = () => import("./ConceptMap");
@@ -14,6 +17,7 @@ const loadStudy = () => import("./StudyPage");
 const Laboratory = lazy(loadLaboratory);
 const ConceptMap = lazy(loadConceptMap);
 const StudyPage = lazy(loadStudy);
+const LegalPage = lazy(() => import("./LegalPage"));
 const loadQuestionView = () => import("./QuestionView");
 const QuestionView = lazy(loadQuestionView);
 const MathText = lazy(() => import("./MathText"));
@@ -37,8 +41,19 @@ async function fetchBankAsset<T>(file: string, cache: RequestCache = "default"):
   return response.json() as Promise<T>;
 }
 
+const topicsBySlug = new Map(topicCatalog.map((topic) => [topic.slug, topic]));
+
+function expandIndex({ topics, topicFiles }: QuestionIndexAsset): QuestionIndex {
+  const questions = Object.entries(topics).flatMap(([topic_slug, rows]) => {
+    const topic = topicsBySlug.get(topic_slug);
+    if (!topic) return [];
+    return rows.map(([id, statement_md, difficulty, estimated_minutes]) => ({ id, statement_md, difficulty, estimated_minutes, topic_slug, topic_title: topic.title, module_slug: topic.module_slug }));
+  });
+  return { questions, topicFiles };
+}
+
 function loadQuestionIndex() {
-  bankRequest ??= fetchBankAsset<QuestionIndex>("index.json", "no-cache").catch((error: unknown) => {
+  bankRequest ??= fetchBankAsset<QuestionIndexAsset>("index.json", "no-cache").then(expandIndex).catch((error: unknown) => {
     bankRequest = undefined;
     throw error;
   });
@@ -64,18 +79,19 @@ function DeferredMath({ children }: { children: string }) {
 function App() {
   const [bank, setBank] = useState<LoadState<QuestionIndex> | null>(null);
   const [topicDetails, setTopicDetails] = useState<({ file: string } & LoadState<Question[]>) | null>(null);
-  const [route, setRoute] = useState(() => window.location.hash.slice(1) || "/");
+  const [route, setRoute] = useState(currentRoute);
   const isQuestionBank = route.startsWith("/questoes");
   const questions = isQuestionBank ? bank?.data?.questions ?? emptyQuestions : emptyQuestions;
   const loading = isQuestionBank && bank === null;
   const error = isQuestionBank ? bank?.error : null;
   const [filterRoute, setFilterRoute] = useState(route);
-  const [moduleFilter, setModuleFilter] = useState<"todos" | ModuleSlug>(() => readBankFilters(route, topicCatalog).module);
-  const [topicFilter, setTopicFilter] = useState(() => readBankFilters(route).topic);
-  const [difficultyFilter, setDifficultyFilter] = useState(() => readBankFilters(route).difficulty);
-  const [search, setSearch] = useState(() => readBankFilters(route).search);
+  const [initialFilters] = useState(() => isQuestionBank ? readBankFilters(route, topicCatalog) : defaultBankFilters);
+  const [moduleFilter, setModuleFilter] = useState<"todos" | ModuleSlug>(initialFilters.module);
+  const [topicFilter, setTopicFilter] = useState(initialFilters.topic);
+  const [difficultyFilter, setDifficultyFilter] = useState(initialFilters.difficulty);
+  const [search, setSearch] = useState(initialFilters.search);
   const deferredSearch = useDeferredValue(search);
-  const [progressFilter, setProgressFilter] = useState(() => readBankFilters(route).progress);
+  const [progressFilter, setProgressFilter] = useState(initialFilters.progress);
   const [bankPage, setBankPage] = useState({ filters: "", number: 1 });
   const [progressSaved, setProgressSaved] = useState(true);
   const [completedIds, setCompletedIds] = useState<Set<string>>(() => {
@@ -99,13 +115,11 @@ function App() {
   }, []);
 
   useEffect(() => {
-    const updateRoute = () => setRoute(window.location.hash.slice(1) || "/");
-    window.addEventListener("hashchange", updateRoute);
-    return () => window.removeEventListener("hashchange", updateRoute);
+    return onRouteChange(() => setRoute(currentRoute()));
   }, []);
 
   useEffect(() => {
-    document.title = route.startsWith("/questoes") ? "Banco de questões | ∫NTEGRA" : route.startsWith("/laboratorio") ? "Laboratório | ∫NTEGRA" : route.startsWith("/mapa") ? "Mapa de conceitos | ∫NTEGRA" : route.split("?")[0] === "/estudar" ? "Estudar | ∫NTEGRA" : "∫NTEGRA";
+    applySeo(route, topicCatalog);
     document.getElementById("conteudo")?.focus({ preventScroll: true });
     if (route === "/sobre") {
       document.getElementById("sobre")?.scrollIntoView({ behavior: "smooth" });
@@ -153,7 +167,10 @@ function App() {
   const routeParams = new URLSearchParams(route.split("?")[1] ?? "");
   const presetId = routeParams.get("experimento") ?? undefined;
   const routeTopic = routeParams.get("topico");
-  const isHome = !isQuestionBank && !isLaboratory && !isConceptMap && !isStudy;
+  const routePath = route.split("?")[0];
+  const legalPage = routePath === "/privacidade" ? "privacidade" : routePath === "/termos" ? "termos" : null;
+  const isNotFound = !knownRoute(routePath);
+  const isHome = !isQuestionBank && !isLaboratory && !isConceptMap && !isStudy && !legalPage && !isNotFound;
   const questionId = route.startsWith("/questoes/") ? decodeURIComponent(route.split("?")[0].slice("/questoes/".length)) : null;
   const selectedSummary = questionId ? questions.find((question) => question.id === questionId) : undefined;
   const detailFile = selectedSummary ? bank?.data?.topicFiles[selectedSummary.topic_slug] : undefined;
@@ -186,14 +203,14 @@ function App() {
     document.getElementById("bank-results")?.focus({ preventScroll: true });
   };
   useEffect(() => {
-    if (filterRoute === route && route.split("?")[0] === "/questoes") window.history.replaceState(null, "", `#/questoes?${filterKey}`);
+    if (filterRoute === route && route.split("?")[0] === "/questoes") replaceRoute(`/questoes?${filterKey}`);
   }, [filterRoute, route, filterKey]);
 
   const selectModule = (module: ModuleSlug | "todos") => {
     setModuleFilter(module);
     setTopicFilter("todos");
     setProgressFilter("todos");
-    window.location.hash = "/questoes";
+    navigate("/questoes");
   };
 
   const toggleCompleted = (id: string) => {
@@ -206,9 +223,9 @@ function App() {
   };
 
   const openQuestion = (question: Pick<Question, "id">, useActiveFilters = true) => {
-    window.location.hash = `/questoes/${encodeURIComponent(question.id)}?${bankQuery(useActiveFilters ? activeFilters : defaultBankFilters)}`;
+    navigate(`/questoes/${encodeURIComponent(question.id)}?${bankQuery(useActiveFilters ? activeFilters : defaultBankFilters)}`);
   };
-  const returnToBank = () => { window.location.hash = `/questoes?${filterKey}`; };
+  const returnToBank = () => navigate(`/questoes?${filterKey}`);
   const retryQuestion = () => {
     bankRequest = undefined;
     setTopicDetails(null);
@@ -218,6 +235,7 @@ function App() {
   if (selectedQuestion) {
     return (
       <>
+        <SkipLink />
         <Header isQuestionBank />
         {!progressSaved && <p className="progress-storage-note" role="status">O navegador não permitiu salvar o histórico. Verifique o armazenamento do site.</p>}
         <Suspense fallback={<main id="conteudo" tabIndex={-1} className="state-message">Abrindo o exercício...</main>}><QuestionView
@@ -240,6 +258,7 @@ function App() {
     const message = error ?? activeDetails?.error;
     const opening = loading || (detailFile && !activeDetails);
     return <>
+      <SkipLink />
       <Header isQuestionBank />
       <main id="conteudo" tabIndex={-1} className="state-message">
         <p role="status">{message ?? (opening ? "Abrindo o exercício..." : "Exercício não encontrado.")}</p>
@@ -251,16 +270,19 @@ function App() {
 
   return (
     <div className="site-shell">
-      <a className="skip-link" href="#conteudo" onClick={(event) => {
-        event.preventDefault();
-        document.getElementById("conteudo")?.focus();
-      }}>Pular para o conteúdo</a>
-      <Header isQuestionBank={isQuestionBank} isLaboratory={isLaboratory} isConceptMap={isConceptMap} isStudy={isStudy} />
+      <SkipLink />
+      <Header isHome={isHome} isQuestionBank={isQuestionBank} isLaboratory={isLaboratory} isConceptMap={isConceptMap} isStudy={isStudy} />
 
       <main id="conteudo" tabIndex={-1}>
         {isLaboratory && <Suspense fallback={<div className="state-message">Abrindo o laboratório...</div>}><Laboratory presetId={presetId} /></Suspense>}
         {isConceptMap && <section className="map-page"><div className="section-heading"><h1>Mapa de conceitos</h1></div><Suspense fallback={<p className="state-message">Abrindo o mapa...</p>}><ConceptMap key={routeTopic} topics={topicCatalog} initialTopic={routeTopic ?? undefined} /></Suspense></section>}
         {isStudy && <Suspense fallback={<p className="state-message">Abrindo a área de estudo...</p>}><StudyPage topics={topicCatalog} topicSlug={routeTopic} moduleSlug={routeParams.get("modulo")} /></Suspense>}
+        {legalPage && <Suspense fallback={<p className="state-message">Abrindo a página...</p>}><LegalPage page={legalPage} /></Suspense>}
+        {isNotFound && <section className="state-message not-found" aria-labelledby="not-found-title">
+          <h1 id="not-found-title">Página não encontrada</h1>
+          <p>O endereço pode ter mudado ou estar incompleto.</p>
+          <a className="primary-button" href="/">Voltar ao início</a>
+        </section>}
         {isHome && <>
         <section className="hero">
           <div className="hero-copy">
@@ -342,6 +364,8 @@ function App() {
               <span className="sr-only">Buscar exercício</span>
               <input
                 type="search"
+                maxLength={120}
+                autoComplete="off"
                 placeholder="Buscar por assunto ou código..."
                 value={search}
                 onChange={(event) => setSearch(event.target.value)}
@@ -415,25 +439,53 @@ function App() {
       <footer>
         <div className="brand" aria-label="∫NTEGRA"><span aria-hidden="true">∫</span>NTEGRA</div>
         <p>Plataforma gratuita de apoio ao ensino de Cálculo.</p>
-        <a href="#/">Início</a>
+        <nav className="footer-links" aria-label="Institucional">
+          <a href="/">Início</a>
+          <a href="/privacidade">Política de privacidade</a>
+          <a href="/termos">Termos de uso</a>
+        </nav>
       </footer>
+      <StorageNotice />
     </div>
   );
 }
 
-function Header({ isQuestionBank = false, isLaboratory = false, isConceptMap = false, isStudy = false }: { isQuestionBank?: boolean; isLaboratory?: boolean; isConceptMap?: boolean; isStudy?: boolean }) {
+function SkipLink() {
+  return <a className="skip-link" href="#conteudo" onClick={(event) => {
+    event.preventDefault();
+    document.getElementById("conteudo")?.focus();
+  }}>Pular para o conteúdo</a>;
+}
+
+function Header({ isHome = false, isQuestionBank = false, isLaboratory = false, isConceptMap = false, isStudy = false }: { isHome?: boolean; isQuestionBank?: boolean; isLaboratory?: boolean; isConceptMap?: boolean; isStudy?: boolean }) {
+  const [menuOpen, setMenuOpen] = useState(false);
+  useEffect(() => onRouteChange(() => setMenuOpen(false)), []);
+  useEffect(() => {
+    if (!menuOpen) return;
+    const close = (event: KeyboardEvent) => {
+      if (event.key !== "Escape") return;
+      setMenuOpen(false);
+      document.getElementById("menu-toggle")?.focus();
+    };
+    document.addEventListener("keydown", close);
+    return () => document.removeEventListener("keydown", close);
+  }, [menuOpen]);
   return (
-    <header className="site-header">
-      <a className="brand" href="#/" aria-label="∫NTEGRA — Início">
+    <header className={`site-header${menuOpen ? " menu-open" : ""}`}>
+      <a className="brand" href="/" aria-label="∫NTEGRA — Início">
         <span aria-hidden="true">∫</span>NTEGRA
       </a>
-      <nav aria-label="Navegação principal">
-        <a href="#/" aria-current={!isQuestionBank && !isLaboratory && !isConceptMap && !isStudy ? "page" : undefined}><Icon name="home" size={18} />Início</a>
-        <a href="#/estudar" onMouseEnter={() => { void loadStudy(); }} onFocus={() => { void loadStudy(); }} aria-current={isStudy ? "page" : undefined}><Icon name="study" size={18} />Estudar</a>
-        <a href="#/questoes" aria-current={isQuestionBank ? "page" : undefined}><Icon name="book" size={18} />Banco de questões</a>
-        <a href="#/laboratorio" onMouseEnter={() => { void loadLaboratory(); }} onFocus={() => { void loadLaboratory(); }} aria-current={isLaboratory ? "page" : undefined}><Icon name="laboratory" size={18} />Laboratório</a>
-        <a href="#/mapa" onMouseEnter={() => { void loadConceptMap(); }} onFocus={() => { void loadConceptMap(); }} aria-current={isConceptMap ? "page" : undefined}><Icon name="concepts" size={18} />Mapa de conceitos</a>
-        <a href="#/sobre"><Icon name="info" size={18} />Sobre</a>
+      <button id="menu-toggle" className="menu-toggle" type="button" aria-expanded={menuOpen} aria-controls="main-navigation" onClick={() => setMenuOpen((open) => !open)}>
+        <svg aria-hidden="true" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round">{menuOpen ? <path d="M6 6l12 12M18 6 6 18" /> : <path d="M4 7h16M4 12h16M4 17h16" />}</svg>
+        <span>{menuOpen ? "Fechar" : "Menu"}</span>
+      </button>
+      <nav id="main-navigation" aria-label="Navegação principal">
+        <a href="/" aria-current={isHome ? "page" : undefined}><Icon name="home" size={18} />Início</a>
+        <a href="/estudar" onMouseEnter={() => { void loadStudy(); }} onFocus={() => { void loadStudy(); }} aria-current={isStudy ? "page" : undefined}><Icon name="study" size={18} />Estudar</a>
+        <a href="/questoes" aria-current={isQuestionBank ? "page" : undefined}><Icon name="book" size={18} />Banco de questões</a>
+        <a href="/laboratorio" onMouseEnter={() => { void loadLaboratory(); }} onFocus={() => { void loadLaboratory(); }} aria-current={isLaboratory ? "page" : undefined}><Icon name="laboratory" size={18} />Laboratório</a>
+        <a href="/mapa" onMouseEnter={() => { void loadConceptMap(); }} onFocus={() => { void loadConceptMap(); }} aria-current={isConceptMap ? "page" : undefined}><Icon name="concepts" size={18} />Mapa de conceitos</a>
+        <a href="/sobre"><Icon name="info" size={18} />Sobre</a>
       </nav>
     </header>
   );

@@ -10,3 +10,10 @@ __pycache__/
 # Documentação interna mantida apenas nesta máquina
 *.md
 !README.md
+
+# Variáveis locais e segredos (.env.production só deve conter valores públicos VITE_*)
+.env
+.env.local
+.env.*.local
+*.pem
+*.key

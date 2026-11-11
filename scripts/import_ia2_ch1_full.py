@@ -6,6 +6,7 @@ from pathlib import Path
 from build_database import validate_seed
 from ia2_ch1_full_content import questions, PAGES
 from ia2_ch1_try_it import try_questions
+from editorial_revisions import load_revisions, apply_revision
 
 ROOT=Path(__file__).resolve().parents[1]
 SEED_PATH=ROOT/"database/seeds/pilot_questions.json"
@@ -16,6 +17,7 @@ def source_id(page): return PREFIX + ("test" if page=="1-practice-test" else "s"
 
 def import_batch(seed):
     result=deepcopy(seed)
+    revisions=load_revisions()
     by_id={q["id"]:q for q in result["questions"]}
     source_template=next(s for s in result["sources"] if s["id"]=="src-intermediate-algebra-ch1")
     source_ids={s["id"] for s in result["sources"]}
@@ -43,6 +45,7 @@ def import_batch(seed):
             question["intentional_repeat_of"]=normalized[normalized_text]
             question["adaptation_note"]+=" Enunciado repetido intencionalmente em outra seção da obra; a numeração original foi preservada."
         else: normalized[normalized_text]=identity
+        apply_revision(question,revisions)
         if identity in by_id:
             if by_id[identity]!=question: raise ValueError("Conteúdo existente divergente: "+identity)
         else: result["questions"].append(question)

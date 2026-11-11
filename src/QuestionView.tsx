@@ -35,7 +35,7 @@ export default function QuestionView({
   const main = useRef<HTMLElement>(null);
   useEffect(() => { main.current?.focus({ preventScroll: true }); }, []);
   const meta = moduleMeta[question.module_slug];
-  const experimentId = experiments[`question-${question.id}`] ? `question-${question.id}` : topicExperiment[question.topic_slug];
+  const experimentId = Object.hasOwn(experiments, `question-${question.id}`) ? `question-${question.id}` : Object.hasOwn(topicExperiment, question.topic_slug) ? topicExperiment[question.topic_slug] : undefined;
 
   return (
     <main className="question-page" id="conteudo" tabIndex={-1} ref={main}>
