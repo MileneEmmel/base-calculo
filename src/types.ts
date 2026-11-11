@@ -9,10 +9,10 @@ export type QuestionChoice = {
 
 export type Question = {
   id: string;
-  slug: string;
   statement_md: string;
   question_type: "numeric" | "short_text" | "multiple_choice";
   difficulty: number;
+  /** Só o que é desenhado na resolução: number_line e plot. */
   answer: Record<string, unknown>;
   hint_md?: string | null;
   solution_md: string;
@@ -22,7 +22,6 @@ export type Question = {
   module_slug: ModuleSlug;
   module_title: string;
   source_title: string;
-  source_id: string;
   source_authors: string;
   source_url: string;
   license_code: string;
@@ -35,6 +34,12 @@ export type Question = {
 export type QuestionSummary = Pick<Question,
   "id" | "statement_md" | "difficulty" | "estimated_minutes" | "topic_slug" | "topic_title" | "module_slug"
 >;
+
+/** Formato publicado em data/bank/index.json: por tópico, [id, enunciado, dificuldade, minutos]. */
+export type QuestionIndexAsset = {
+  topics: Record<string, [string, string, number, number][]>;
+  topicFiles: Record<string, string>;
+};
 
 export type QuestionIndex = {
   questions: QuestionSummary[];

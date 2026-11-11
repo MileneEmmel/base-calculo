@@ -1,6 +1,7 @@
 @import "tailwindcss/preflight.css" layer(base);
 
 :root {
+  color-scheme: only light;
   color: #17324d;
   background: #f5f7f3;
   font-family: "Atkinson Hyperlegible", sans-serif;
@@ -80,7 +81,8 @@ html { scrollbar-color: var(--control-line) var(--ground); }
 }
 
 .skip-link:focus { top: 1rem; }
-.site-shell { min-height: 100vh; }
+.site-shell { display: flex; flex-direction: column; min-height: calc(100vh - var(--header-height)); }
+.site-shell > main { flex: 1 0 auto; }
 
 .site-header {
   position: fixed;
@@ -545,7 +547,47 @@ footer {
 }
 
 footer p { color: var(--muted); }
-footer > a { justify-self: end; padding-bottom: 0.15rem; border-bottom: 2px solid var(--signal); font-weight: 700; text-decoration: none; }
+.footer-links { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 0.5rem 1.25rem; }
+.footer-links a { padding-bottom: 0.15rem; border-bottom: 2px solid var(--signal); font-weight: 700; text-decoration: none; }
+
+.menu-toggle { display: none; }
+
+.storage-notice {
+  position: fixed;
+  right: 1rem;
+  bottom: 1rem;
+  z-index: 60;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  width: min(560px, calc(100% - 2rem));
+  padding: 0.9rem 1rem;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background: var(--paper);
+  box-shadow: var(--floating-shadow);
+}
+.storage-notice p { margin: 0; color: var(--muted); font-size: 0.92rem; line-height: 1.5; }
+.storage-notice strong { color: var(--ink); }
+.storage-notice a { color: var(--ink); font-weight: 700; text-underline-offset: 0.2em; }
+.storage-notice .primary-button { flex-shrink: 0; min-height: 44px; padding: 0.55rem 1.1rem; }
+
+.legal-page { width: min(820px, calc(100% - 2rem)); margin: 0 auto; padding-block: clamp(2rem, 5vw, 3.5rem) 4rem; line-height: 1.7; }
+.legal-page h1 { margin: 0 0 0.35rem; font-family: var(--font-display); font-size: clamp(2rem, 5vw, 3rem); font-weight: 600; letter-spacing: -0.03em; line-height: 1.15; }
+.legal-page h2 { margin: 2rem 0 0.5rem; font-family: var(--font-display); font-size: 1.25rem; font-weight: 600; }
+.legal-page p, .legal-page li { color: var(--ink); }
+.legal-page ul { padding-left: 1.3rem; list-style: disc; }
+.legal-page a { font-weight: 700; text-underline-offset: 0.2em; overflow-wrap: anywhere; }
+.legal-page code { padding: 0.05rem 0.3rem; border-radius: 6px; background: var(--grid-soft); font-size: 0.9em; overflow-wrap: anywhere; }
+.legal-updated { color: var(--muted) !important; font-size: 0.9rem; }
+.legal-table { width: 100%; margin: 0.75rem 0; border-collapse: collapse; font-size: 0.92rem; }
+.legal-table th, .legal-table td { padding: 0.55rem 0.7rem; border: 1px solid var(--line); text-align: left; vertical-align: top; }
+.legal-table th { background: var(--grid-soft); }
+.legal-action { display: grid; justify-items: start; gap: 0.5rem; margin: 0.75rem 0; }
+.legal-action p { margin: 0; color: var(--success) !important; font-weight: 700; }
+.not-found { display: grid; justify-items: center; gap: 0.75rem; width: min(640px, calc(100% - 2rem)); margin: 3rem auto; }
+.not-found h1 { margin: 0; font-family: var(--font-display); font-size: 1.8rem; }
+.not-found p { margin: 0; color: var(--muted); font-weight: 400; }
 
 .question-page { padding: 3.5rem 1rem 6rem; }
 .question-shell { width: min(940px, 100%); margin: 0 auto; }
@@ -711,7 +753,7 @@ footer > a { justify-self: end; padding-bottom: 0.15rem; border-bottom: 2px soli
 .number-line-solution svg { display: block; width: 100%; min-width: 480px; }
 .source-card > a { padding-bottom: 0.15rem; border-bottom: 3px solid var(--signal); font-weight: 700; text-decoration: none; white-space: nowrap; }
 
-.math-inline { white-space: nowrap; }
+.math-inline { white-space: normal; }
 .question-plot { margin: 1.25rem 0 0; padding: 1rem; border: 1px solid var(--line); border-radius: 12px; background: var(--paper); overflow-x: auto; }
 .question-plot figcaption { margin-bottom: 0.75rem; font-size: 0.85rem; font-weight: 700; color: var(--muted); }
 .question-plot svg { display: block; width: 100%; min-width: 380px; color: var(--ink); }
@@ -792,7 +834,6 @@ footer > a { justify-self: end; padding-bottom: 0.15rem; border-bottom: 2px soli
 .lab-number-control > div { display: flex; align-items: center; justify-content: space-between; gap: 0.7rem; margin-block: 0.8rem 0.25rem; }
 .lab-number-control label { color: var(--muted); font-size: 0.88rem; font-weight: 700; }
 .lab-number-control input[type="number"] { width: 6.5rem; min-height: 38px; padding: 0.4rem 0.45rem; border: 1px solid var(--line); border-radius: 8px; background: var(--ground); color: var(--ink); font-weight: 700; font-variant-numeric: tabular-nums; }
-.lab-number-control input[type="range"] { width: 100%; margin: 0; min-height: 32px; accent-color: var(--ink); cursor: pointer; }
 .lab-number-control > .lab-control-bounds { margin: -0.15rem 0 0; color: var(--muted); font-size: 0.72rem; font-variant-numeric: tabular-nums; }
 .lab-settings-page > h2 { margin: 0 0 1.25rem; font-family: var(--font-display); font-size: 1.2rem; font-weight: 600; }
 .lab-settings-grid { display: grid; grid-template-columns: 1.1fr 1fr; gap: 1.5rem; }
@@ -1002,6 +1043,45 @@ footer > a { justify-self: end; padding-bottom: 0.15rem; border-bottom: 2px soli
 .progress-storage-note { width: min(940px, calc(100% - 2rem)); margin: 1rem auto 0; color: var(--muted); font-size: 0.85rem; line-height: 1.6; }
 .exercise-section > .progress-storage-note { width: 100%; margin: 0 0 1.5rem; }
 
+@media (max-width: 1100px) {
+  :root { --header-height: 64px; }
+  .site-header { grid-template-columns: 1fr auto; gap: 0.75rem; }
+  .menu-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    min-height: 44px;
+    padding: 0.4rem 0.75rem;
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    background: var(--paper);
+    color: var(--ink);
+    font-weight: 700;
+    cursor: pointer;
+  }
+  .menu-open .menu-toggle { background: var(--signal-soft); }
+  .site-header nav {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    display: none;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0;
+    max-height: calc(100vh - var(--header-height));
+    overflow-y: auto;
+    padding: 0.25rem 1rem 0.75rem;
+    border-bottom: 1px solid var(--line);
+    background: var(--paper);
+    box-shadow: var(--floating-shadow);
+  }
+  .menu-open nav { display: flex; }
+  #main-navigation a { display: flex; align-items: center; justify-content: flex-start; gap: 0.6rem; min-height: 48px; padding: 0.6rem 0.25rem; border-bottom: 1px solid var(--grid-soft); font-size: 1rem; }
+  #main-navigation a:last-child { border-bottom: 0; }
+  #main-navigation a[aria-current="page"] { box-shadow: inset 4px 0 0 var(--signal); padding-left: 0.85rem; }
+}
+
 @media (max-width: 900px) {
   .circle-lab-layout, .lab-settings-grid { grid-template-columns: 1fr; }
   .concept-connections { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.5rem; }
@@ -1028,9 +1108,7 @@ footer > a { justify-self: end; padding-bottom: 0.15rem; border-bottom: 2px soli
   .lab-primary-nav button { padding-inline: 0.7rem; font-size: 0.85rem; }
   .circle-stage-svg { width: 100%; }
   .question-lab-link { grid-template-columns: 1fr; }
-  :root { --header-height: 132px; }
-  .site-header { grid-template-columns: 1fr; gap: 0.25rem; align-content: center; padding-block: 0.65rem; }
-  .site-header nav { flex-wrap: wrap; justify-content: flex-start; gap: 0.4rem 0.9rem; font-size: 0.78rem; }
+  .storage-notice { right: 0.75rem; bottom: 0.75rem; width: calc(100% - 1.5rem); flex-direction: column; align-items: stretch; gap: 0.7rem; }
   .question-navigation { gap: 0.5rem; }
   .question-navigation nav span { display: none; }
   .lab-page { padding-block: 2.5rem 3.5rem; }
@@ -1057,7 +1135,7 @@ footer > a { justify-self: end; padding-bottom: 0.15rem; border-bottom: 2px soli
   .source-card { grid-template-columns: 1fr; align-items: start; }
   .about-strip { padding-top: 2rem; }
   footer { align-items: start; grid-template-columns: 1fr; }
-  footer > a { justify-self: start; }
+  .footer-links { justify-content: flex-start; }
   footer p { grid-column: 1; grid-row: auto; }
 }
 

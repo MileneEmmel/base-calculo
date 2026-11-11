@@ -155,7 +155,7 @@ export default {
         steps: [
           "Divida para obter §f(x)=x+1+2/(x-1)§.",
           "Em ambas as extremidades, §2/(x-1)§ tende a zero.",
-          "A assíntota é §y=x+1§. A função cresce para §+\\infty§ à direita e decresce para §-\\infty§ em valor à esquerda.",
+          "A assíntota é §y=x+1§. A função cresce para §+\\infty§ à direita e tende a §-\\infty§ à esquerda.",
         ],
       },
     },

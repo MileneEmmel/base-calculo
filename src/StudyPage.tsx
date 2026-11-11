@@ -25,18 +25,19 @@ const moduleRoutes = {
   "pre-calculo": loadLessonRoute(() => import("./studyPrecalculus").then(({ precalculusLessons }) => (slug) => precalculusLessons[slug])),
 };
 
-function loadCalculusLesson(importLesson: () => Promise<{ default: StudyLesson }>) {
-  return loadLessonRoute(() => importLesson().then(({ default: lesson }) => () => lesson));
+function loadCalculusLesson(slug: string, importLesson: () => Promise<{ default: StudyLesson }>) {
+  return loadLessonRoute(() => Promise.all([importLesson(), import("./studyDeepCalculus"), import("./studyDeepening")])
+    .then(([{ default: lesson }, { deepening }, { withDeepening }]) => { const full = withDeepening(lesson, deepening[slug]); return () => full; }));
 }
 
 const calculusRoutes: Partial<Record<string, (typeof moduleRoutes)["pre-calculo"]>> = {
-  limites: loadCalculusLesson(() => import("./studyCalcLimits")),
-  continuidade: loadCalculusLesson(() => import("./studyCalcContinuity")),
-  derivadas: loadCalculusLesson(() => import("./studyCalcDerivatives")),
-  "aplicacoes-da-derivada": loadCalculusLesson(() => import("./studyCalcDerivativeApplications")),
-  integrais: loadCalculusLesson(() => import("./studyCalcIntegrals")),
-  "tecnicas-de-integracao": loadCalculusLesson(() => import("./studyCalcIntegrationTechniques")),
-  "aplicacoes-da-integral": loadCalculusLesson(() => import("./studyCalcIntegralApplications")),
+  limites: loadCalculusLesson("limites", () => import("./studyCalcLimits")),
+  continuidade: loadCalculusLesson("continuidade", () => import("./studyCalcContinuity")),
+  derivadas: loadCalculusLesson("derivadas", () => import("./studyCalcDerivatives")),
+  "aplicacoes-da-derivada": loadCalculusLesson("aplicacoes-da-derivada", () => import("./studyCalcDerivativeApplications")),
+  integrais: loadCalculusLesson("integrais", () => import("./studyCalcIntegrals")),
+  "tecnicas-de-integracao": loadCalculusLesson("tecnicas-de-integracao", () => import("./studyCalcIntegrationTechniques")),
+  "aplicacoes-da-integral": loadCalculusLesson("aplicacoes-da-integral", () => import("./studyCalcIntegralApplications")),
 };
 
 export default function StudyPage({ topics, topicSlug, moduleSlug }: { topics: Topic[]; topicSlug: string | null; moduleSlug: string | null }) {
@@ -68,7 +69,7 @@ export default function StudyPage({ topics, topicSlug, moduleSlug }: { topics: T
     </header>
     {topicSlug && <p className="study-unavailable">A aula deste tópico ainda não está disponível. Explore as aulas publicadas abaixo.</p>}
     <section aria-labelledby="study-catalog-heading">
-      <div className="study-catalog-heading"><h2 id="study-catalog-heading">Escolha um tópico</h2><a href="#/mapa"><Icon name="concepts" size={17} /> Ver mapa de conceitos</a></div>
+      <div className="study-catalog-heading"><h2 id="study-catalog-heading">Escolha um tópico</h2><a href="/mapa"><Icon name="concepts" size={17} /> Ver mapa de conceitos</a></div>
       <ol className="study-catalog">
         {lessons.map((item) => <li key={item.slug}>
           <a href={studyTopicUrl(item.slug)}>

@@ -7,6 +7,10 @@ import "@fontsource/lexend/latin-600.css";
 import "./styles.css";
 import "./controls.css";
 import App from "./App";
+import { interceptLinks, migrateHashRoute } from "./router";
+
+migrateHashRoute();
+interceptLinks();
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>

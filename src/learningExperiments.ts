@@ -28,7 +28,7 @@ export const experiments: Record<string, Experiment> = {
   "question-PC-008": { title: "Decaimento exponencial", mode: "functions", curves: [{ kind: "exponential", a: 156, b: 1, c: 0, exponentialModel: "base", base: 0.825 }], view: { x: 4, y: 100, span: 8, ySpan: 150 } },
   "question-C1-001": { title: "O limite existe mesmo sem o ponto", mode: "limits", curves: [{ kind: "piecewise", a: 2, b: 1, c: 2, example: "removable" }], limitX: 2 },
 };
-export const experimentUrl = (id: string) => `#/laboratorio?experimento=${encodeURIComponent(id)}`;
+export const experimentUrl = (id: string) => `/laboratorio?experimento=${encodeURIComponent(id)}`;
 export const topicExperiment: Record<string, string> = {
   "equacoes-e-inequacoes": "quadratic", fatoracao: "quadratic", "produtos-notaveis": "quadratic", funcoes: "affine", "funcoes-afins": "affine", "funcoes-quadraticas": "quadratic", "funcoes-polinomiais": "quadratic", "funcoes-racionais": "rational", "funcoes-exponenciais": "exponential", "funcoes-logaritmicas": "logarithmic", "composicao-de-funcoes": "composition", trigonometria: "trigonometry", "geometria-analitica": "geometry", limites: "limits", continuidade: "continuity", derivadas: "derivatives", "aplicacoes-da-derivada": "derivatives", integrais: "integrals", "tecnicas-de-integracao": "integrals", "aplicacoes-da-integral": "integrals",
 };

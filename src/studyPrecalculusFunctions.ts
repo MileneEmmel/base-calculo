@@ -115,7 +115,7 @@ export const precalculusFunctionLessons: Record<string, StudyLesson> = {
           "Uma função quadrática tem forma §f(x)=ax^2+bx+c§, com §a\\ne0§. Seu domínio natural é ℝ. Se §a>0§, a parábola abre para cima e tem mínimo. Se §a<0§, abre para baixo e tem máximo. Quanto maior §|a|§, maior é a variação vertical para uma mesma distância horizontal ao vértice.",
           "O termo c é a saída em zero. O coeficiente b influencia a posição do eixo de simetria junto com a, então não representa sozinho uma translação. Para separar os efeitos, reescreva a função na forma canônica.",
         ],
-        example: { title: "Esboce por simetria", prompt: "Esboce §f(x)=-2(x-1)^2+3§ e encontre seu intercepto vertical.", steps: ["A parábola abre para baixo, porque §a=-2§.", "O quadrado zera em 1. O vértice é §(1,3)§ e o eixo é §x=1§.", "§f(0)=1§. Pela simetria, §f(2)=1§ também. Esses pontos orientam o esboço."] },
+        example: { title: "Esboce por simetria", prompt: "Esboce §f(x)=-2x^2+4x+1§ e encontre seu intercepto vertical.", steps: ["A parábola abre para baixo, porque §a=-2<0§.", "O intercepto vertical é o termo independente: §f(0)=c=1§.", "O eixo de simetria passa por §x=-\\frac{b}{2a}=-\\frac{4}{-4}=1§, e §f(1)=-2+4+1=3§. O vértice é §(1,3)§.", "Pela simetria em relação a §x=1§, §f(2)=f(0)=1§. Esses pontos orientam o esboço."] },
       },
       {
         title: "Vértice, forma canônica e imagem",

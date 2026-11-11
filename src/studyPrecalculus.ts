@@ -1,4 +1,7 @@
 import type { StudyLesson } from "./studyBasics";
+import { withDeepening } from "./studyDeepening";
+import { deepening as functionsDeepening } from "./studyDeepPrecalcFunctions";
+import { deepening as topicsDeepening } from "./studyDeepPrecalcTopics";
 import { precalculusFunctionLessons } from "./studyPrecalculusFunctions";
 import { precalculusExpansions } from "./studyPrecalculusExpansions";
 
@@ -207,7 +210,7 @@ const coreLessons: Record<string, StudyLesson> = {
           "Uma série infinita é interpretada pelo limite de suas somas parciais. Numa PG com §|q|<1§, §q^n§ tende a zero, e a fórmula finita se aproxima de §a_1/(1-q)§. Para uma PG de primeiro termo não nulo com §|q|\\ge1§, os termos não tendem a zero e a série não converge.",
           "Uma razão negativa alterna os sinais. Se seu módulo é menor que 1, os termos ainda encolhem e as somas parciais podem se aproximar do limite por lados alternados. A condição decisiva é o módulo de q, não o sinal.",
         ],
-        example: { title: "Some uma PG alternada", prompt: "Calcule §6-3+3/2-3/4+\\cdots§.", steps: ["A razão é §q=-1/2§, que tem módulo menor que 1.", "Use §S=6/(1-(-1/2))=6/(3/2)=4§.", "As primeiras somas parciais são 6, 3, 4,5 e 3,75. Elas alternam ao redor de 4."] },
+        example: { title: "Some uma PG alternada", prompt: "Calcule §6-3+3/2-3/4+\\cdots§.", steps: ["A razão é §q=-1/2§, que tem módulo menor que 1.", "Use §S=6/(1-(-1/2))=6/(3/2)=4§.", "As primeiras somas parciais são 6, 3, §4{,}5§ e §3{,}75§. Elas alternam ao redor de 4."] },
       },
     ],
     pitfall: "Quando o primeiro termo está na posição 1, chegar à posição n exige §n-1§ passos. Usar n contaria um passo a mais.",
@@ -221,10 +224,10 @@ const coreLessons: Record<string, StudyLesson> = {
 export const precalculusLessons: Record<string, StudyLesson> = Object.fromEntries(
   Object.entries(coreLessons).map(([slug, lesson]) => {
     const expansion = precalculusExpansions[slug];
-    return [slug, {
+    return [slug, withDeepening({
       ...lesson,
       sections: [...lesson.sections, ...expansion.sections],
       checks: [...lesson.checks, ...expansion.checks],
-    }];
+    }, functionsDeepening[slug] ?? topicsDeepening[slug])];
   }),
 );

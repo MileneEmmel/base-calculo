@@ -1,5 +1,8 @@
 import { remainingBasicLessons } from "./studyBasicsAlgebra";
 import { basicExpansions } from "./studyBasicsExpansions";
+import { deepening as numbersDeepening } from "./studyDeepBasicsNumbers";
+import { deepening as algebraDeepening } from "./studyDeepBasicsAlgebra";
+import { withDeepening } from "./studyDeepening";
 import type { PrecalculusGraph } from "./StudyPrecalculusVisuals";
 import type { CalculusGraph } from "./StudyCalculusVisuals";
 
@@ -14,7 +17,7 @@ export type StudyVisual =
   | { kind: "percent" | "power" | "square" | "inequality" | "system"; caption: string }
   | { kind: "sets" | "line" | "fraction" | "distance" | "classify" | "order" | "groups" | "fraction-sum" | "interval-ops" | "absolute-graph"; caption: string };
 
-type StudySection = {
+export type StudySection = {
   title: string;
   paragraphs: string[];
   example: StudyExample;
@@ -29,6 +32,9 @@ export type StudyLesson = {
   pitfall: string;
   checks: { prompt: string; solution: string }[];
 };
+
+/** Conteúdo extra anexado ao fim de uma aula (novas partes e novas atividades). */
+export type LessonDeepening = { sections: StudySection[]; checks: StudyLesson["checks"]; pitfall?: string };
 
 // Original lessons. The § delimiters mark inline TeX.
 const coreLessons: Record<string, StudyLesson> = {
@@ -364,10 +370,11 @@ const coreLessons: Record<string, StudyLesson> = {
 export const basicLessons = Object.fromEntries(
   Object.entries(coreLessons).map(([slug, lesson]) => {
     const extra = basicExpansions[slug];
-    return [slug, extra ? {
+    const expanded = extra ? {
       ...lesson,
       sections: [...lesson.sections, ...extra.sections],
       checks: [...lesson.checks, ...extra.checks],
-    } : lesson];
+    } : lesson;
+    return [slug, withDeepening(expanded, numbersDeepening[slug] ?? algebraDeepening[slug])];
   }),
 );

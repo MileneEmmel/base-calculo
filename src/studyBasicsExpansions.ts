@@ -91,7 +91,7 @@ export const basicExpansions: Record<string, Pick<StudyLesson, "sections" | "che
       {
         title: "Traduza uma situação em uma expressão",
         paragraphs: [
-          "Escolha o que cada letra representa e anote a unidade. A frase “três a mais que o dobro de x” vira §2x+3§. Já “o dobro de x mais três”, quando os dois fazem parte do que será dobrado, precisa ser escrito como §2(x+3)§. Reformular a frase ajuda a decidir onde entram os parênteses.",
+          "Escolha o que cada letra representa e anote a unidade. A frase “três a mais que o dobro de x” vira §2x+3§. Já “o dobro da soma de x com três” precisa ser escrito como §2(x+3)§. Reformular a frase ajuda a decidir onde entram os parênteses.",
           "Depois de escrever a fórmula, teste uma entrada que você consegue calcular mentalmente. Faça também uma verificação de unidades. A soma de comprimentos dá um comprimento, enquanto o produto de dois comprimentos pode dar uma área.",
         ],
         example: { title: "Do desenho à área", prompt: "Um retângulo tem largura x metros e comprimento 3 metros maior. Escreva perímetro e área.", steps: ["Os lados são §x§ e §x+3§, com §x>0§.", "O perímetro é §2x+2(x+3)=4x+6§ metros.", "A área é §x(x+3)=x^2+3x§ metros quadrados. Com largura 2, obtemos 14 m de perímetro e 10 m² de área."] },

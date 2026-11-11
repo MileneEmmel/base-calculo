@@ -12,7 +12,7 @@ python scripts/build_database.py
 O comando cria:
 
 - `database/questions.sqlite`: banco editorial;
-- `public/data/questions.json`: exportação completa usada para gerar o índice e os arquivos por tópico no Vite.
+- `public/data/questions.json`: exportação completa usada para gerar o índice e os arquivos por tópico no Vite. O arquivo em si não é publicado no `dist/`.
 - `src/questionCatalog.generated.json`: catálogo de tópicos, contagens e prévia da questão em destaque, usado pelas outras áreas do site.
 
 O script usa somente a biblioteca padrão do Python. Cada questão deve possuir uma fonte,

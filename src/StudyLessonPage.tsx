@@ -53,8 +53,8 @@ export default function StudyLessonPage({ topic, moduleSlug, previous, next, les
           </li>)}</ol>
           <button type="button" className="study-index-check" onClick={() => jumpTo("study-check-title")}>Agora é sua vez</button>
         </nav>
-        <a className="primary-button study-practice" href={`#/questoes?topico=${encodeURIComponent(topic.slug)}`}><Icon name="book" size={18} /> Ver exercícios do tópico</a>
-        <a className="study-map-link" href={`#/mapa?topico=${encodeURIComponent(topic.slug)}`}><Icon name="concepts" size={18} /> Ver no mapa de conceitos</a>
+        <a className="primary-button study-practice" href={`/questoes?topico=${encodeURIComponent(topic.slug)}`}><Icon name="book" size={18} /> Ver exercícios do tópico</a>
+        <a className="study-map-link" href={`/mapa?topico=${encodeURIComponent(topic.slug)}`}><Icon name="concepts" size={18} /> Ver no mapa de conceitos</a>
       </aside>
       <div className="study-main">
         {lesson.sections.map(({ title, paragraphs, example, extraExample, visual }, i) => <section className="study-panel study-part" key={title} aria-labelledby={partId(i)}>
@@ -79,7 +79,7 @@ export default function StudyLessonPage({ topic, moduleSlug, previous, next, les
             </details>
           </li>)}</ol>
         </section>
-        <a className="primary-button study-practice study-practice-end" href={`#/questoes?topico=${encodeURIComponent(topic.slug)}`}><Icon name="book" size={18} /> Praticar no banco de questões</a>
+        <a className="primary-button study-practice study-practice-end" href={`/questoes?topico=${encodeURIComponent(topic.slug)}`}><Icon name="book" size={18} /> Praticar no banco de questões</a>
       </div>
     </div>
     <nav className="study-lesson-nav" aria-label="Navegação entre aulas">

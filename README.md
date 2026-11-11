@@ -24,9 +24,9 @@ npm run dev
 
 Abra o endereço exibido no terminal, normalmente `http://localhost:5173`.
 
-O cabeçalho fixo dá acesso ao Início, Banco de questões (`#/questoes`), Laboratório (`#/laboratorio`), Mapa de conceitos (`#/mapa`) e Sobre. O banco tem uma tela própria, com filtros e acesso às resoluções. Na página de uma questão, as setas à direita de “Voltar aos exercícios” seguem a mesma lista filtrada e ordenada do banco. Módulo, tópico, dificuldade e busca ficam no endereço, preservando a sequência após recarregar e nos botões de voltar e avançar do navegador. As setas ficam desativadas nas extremidades.
+O cabeçalho fixo dá acesso ao Início, Banco de questões (`/questoes`), Laboratório (`/laboratorio`), Mapa de conceitos (`/mapa`) e Sobre. O banco tem uma tela própria, com filtros e acesso às resoluções. Na página de uma questão, as setas à direita de “Voltar aos exercícios” seguem a mesma lista filtrada e ordenada do banco. Módulo, tópico, dificuldade e busca ficam no endereço, preservando a sequência após recarregar e nos botões de voltar e avançar do navegador. As setas ficam desativadas nas extremidades.
 
-O Laboratório (`#/laboratorio`) organiza as ferramentas de Funções, Propriedades, Limites, Derivadas e Integrais no submenu de Gráficos. Inclui funções afins, quadráticas, exponenciais, logarítmicas, seno, cosseno, racionais e exemplos por partes. Os coeficientes têm faixa configurável, com padrão −100 a 100, por campo numérico ou controle deslizante. O seletor personalizado mostra o nome e o modelo de cada família; as funções trigonométricas podem usar graus ou radianos.
+O Laboratório (`/laboratorio`) organiza as ferramentas de Funções, Propriedades, Limites, Derivadas e Integrais no submenu de Gráficos. Inclui funções afins, quadráticas, exponenciais, logarítmicas, seno, cosseno, racionais e exemplos por partes. Os coeficientes têm faixa configurável, com padrão −100 a 100, por campo numérico ou controle deslizante. O seletor personalizado mostra o nome e o modelo de cada família; as funções trigonométricas podem usar graus ou radianos.
 
 Clique no gráfico para ativar o zoom pela roda do mouse, ancorado no cursor. Esc ou clicar fora libera a rolagem da página. Também há arraste, botões de zoom e deslocamento, enquadramento automático da função ativa e atalhos de teclado. Configurações controla grade, coordenadas, curvas, ponto móvel, raízes, vértice, encontro com o eixo y e interseções da função selecionada com as demais. O controle de x acompanha a faixa visível e inclui a coordenada selecionada. Mover a janela não muda o ponto, a aproximação do limite ou o intervalo de integração. Não há tabela geral de valores nem frase de instruções no card.
 
@@ -80,11 +80,23 @@ Para validar o catálogo e a exportação de tópicos sem questões: `python scr
 
 ## Gerar a versão de produção
 
+Antes da primeira publicação, copie `.env.example` para `.env.production` e preencha o domínio (`VITE_SITE_URL`) e o e-mail de contato da política de privacidade (`VITE_CONTACT_EMAIL`). Esses valores são públicos; não coloque segredos nesse arquivo. Na hospedagem, as mesmas variáveis também podem ser definidas no painel de build.
+
 ```powershell
 npm run build
 ```
 
-Os arquivos prontos para publicação serão criados em `dist/`. Como o projeto é estático, ele pode ser publicado gratuitamente no GitHub Pages, Cloudflare Pages ou Netlify.
+Os arquivos prontos para publicação serão criados em `dist/`, incluindo `robots.txt`, `sitemap.xml` (aulas e todas as questões), `llms.txt` (resumo do site para assistentes de IA), ícones e `site.webmanifest`.
+
+### Publicação
+
+As rotas usam endereços limpos (`/questoes`, `/estudar?topico=limites`), sem `#/`. Links antigos com `#/` são convertidos automaticamente. Por isso, o servidor precisa devolver o `index.html` para qualquer caminho que não seja um arquivo:
+
+- **Cloudflare Pages** (recomendado): faz isso automaticamente quando não existe `404.html`, e aplica `public/_headers` (CSP, HSTS, `X-Frame-Options`, `Permissions-Policy` e cache). Ative também *SSL/TLS → Always Use HTTPS* e, se quiser proteção contra robôs e limite de requisições, *Bot Fight Mode* e uma regra de *Rate limiting* no painel.
+- **Netlify**: também lê `_headers`; adicione um arquivo `public/_redirects` com `/* /index.html 200`.
+- **GitHub Pages** não oferece reescrita de rotas nem cabeçalhos de segurança, por isso não é indicado para esta versão.
+
+O site não tem backend, login, formulários nem uploads: não há dados pessoais armazenados em servidor. O progresso e as preferências ficam no `localStorage` do navegador, conforme descrito em `/privacidade`.
 
 ## Estrutura principal
 
@@ -92,5 +104,5 @@ Os arquivos prontos para publicação serão criados em `dist/`. Como o projeto 
 - `database/schema.sql`: estrutura relacional do banco;
 - `database/seeds/pilot_questions.json`: fonte editável das questões;
 - `database/questions.sqlite`: banco para consulta e manutenção;
-- `public/data/questions.json`: dados consumidos pelo site;
+- `public/data/questions.json`: acervo completo exportado pelo banco; o build gera a partir dele o índice e os arquivos por tópico em `data/bank/` (só com os campos que a tela usa) e não publica o arquivo completo;
 - `scripts/build_database.py`: validação e geração dos dados.
